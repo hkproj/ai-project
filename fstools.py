@@ -8,7 +8,7 @@ CLIPS_DIR = 'clips'
 
 VIDEO_FILE_EXTENSION = '.mp4'
 
-def getVideoId(fileName: str) -> str:
+def getVideoIdFromFileName(fileName: str) -> str:
     return os.path.splitext(os.path.basename(fileName))[0]
 
 def getVideoFileName(videoId: str) -> str:
