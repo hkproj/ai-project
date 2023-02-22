@@ -1,21 +1,21 @@
 from torch.utils.data import Dataset
 from pathlib import Path
-from fstools import getVideoId
+import fstools
 from log import getLogger
 
 LOG = getLogger(__name__)
 
 class VideoDataset(Dataset):
 
-    def __init__(self, dir: str) -> None:
+    def __init__(self, rawVideosPath: str) -> None:
         super().__init__()
         
         self.ids = []
-        path = Path(dir)
+        path = Path(rawVideosPath)
         for item in path.iterdir():
             if item.is_file():
                 try:
-                    self.ids.append(getVideoId(item.name))
+                    self.ids.append(fstools.getVideoIdFromFileName(item.name))
                 except:
                     LOG.warning(f'Ignoring file {item.name}')
         
