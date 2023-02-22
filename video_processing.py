@@ -16,6 +16,14 @@ import videotools
 logger = getLogger(__name__)
 
 def extractAllFacesFromVideo(videoId: str, frameBatchSize=1) -> None:
+
+    # If the directory already exists, ignore this video
+    faceSavePath = fstools.getFacesPath(videoId)
+    # Delete the directory and then re-create it
+    if Path.exists(Path(faceSavePath)):
+        logger.info(f'Ignoring video {videoId} because its directory already exists')
+        return
+
     # Get the video's path
     videoPath = fstools.getRawVideoPath(videoId)
     cap = cv2.VideoCapture(videoPath)
@@ -89,11 +97,7 @@ def extractAllFacesFromVideo(videoId: str, frameBatchSize=1) -> None:
 
     cap.release()
 
-    faceSavePath = fstools.getFacesPath(videoId)
-    # Delete the directory and then re-create it
-    if Path.exists(Path(faceSavePath)):
-        shutil.rmtree(faceSavePath)
-    # Re-create it
+    # Make sure the directory exists
     Path(faceSavePath).mkdir(parents=True, exist_ok=True)
 
     # Save all the faces found
@@ -144,7 +148,8 @@ def loadIntervalsFile(filePath: str) -> list[tuple[float, float]]:
 
 def handleExtractFacesCommand(workers: int, videoIds: list[int]) -> None:
     if videoIds is None:
-        raise Exception('Must indicate which videos to process')
+        ds = VideoDataset(fstools.getRawVideoFolderPath())
+        videoIds = [videoId for videoId in ds]
     for videoId in videoIds:
         # Get the video's path
         videoPath = fstools.getRawVideoPath(videoId)
