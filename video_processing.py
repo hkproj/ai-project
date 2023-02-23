@@ -15,7 +15,7 @@ import videotools
 
 logger = getLogger(__name__)
 
-def extractAllFacesFromVideo(videoId: str, frameBatchSize=1) -> None:
+def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) -> None:
 
     # If the directory already exists, ignore this video
     faceSavePath = fstools.getFacesPath(videoId)
@@ -45,6 +45,10 @@ def extractAllFacesFromVideo(videoId: str, frameBatchSize=1) -> None:
 
     while cap.isOpened():
         frameExists, frame = cap.read()
+
+        # Sleep if necessary
+        if (sleep > 0):
+            time.sleep(float(sleep) / 1000)
 
         if frameExists:
             globalFrameIndex += 1
@@ -146,7 +150,7 @@ def loadIntervalsFile(filePath: str) -> list[tuple[float, float]]:
             intervals.append((start,end))
     return intervals
 
-def handleExtractFacesCommand(workers: int, videoIds: list[int]) -> None:
+def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int) -> None:
     if videoIds is None:
         ds = VideoDataset(fstools.getRawVideoFolderPath())
         videoIds = [videoId for videoId in ds]
@@ -157,7 +161,7 @@ def handleExtractFacesCommand(workers: int, videoIds: list[int]) -> None:
             raise FileNotFoundError()
     logger.debug(f'Will extract faces from {len(videoIds)} videos')
     with concurrent.futures.ProcessPoolExecutor(max_workers=workers) as pool:
-        futures = [pool.submit(extractAllFacesFromVideo, videoId, frameBatchSize=1) for videoId in videoIds]
+        futures = [pool.submit(extractAllFacesFromVideo, videoId, sleep, frameBatchSize=1) for videoId in videoIds]
         for future in futures:
             future.result()
 
@@ -303,12 +307,13 @@ if __name__ == '__main__':
     parser.add_argument('--target', type=int, required=False, help='Target to merge to')
     parser.add_argument('--max-diff', type=int, required=False, help='Max timestamp difference')
     parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit')
+    parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration')
 
     args = parser.parse_args()
     #print(args)
 
     if args.command == COMMAND_EXTRACT_FACES:
-        handleExtractFacesCommand(args.workers, args.video_id)
+        handleExtractFacesCommand(args.workers, args.video_id, args.sleep)
     elif args.command == COMMAND_MERGE_FACES:
         handleMergeFaces(args.video_id[0], args.source, args.target)
     elif args.command == COMMAND_CREATE_INTERVALS:
