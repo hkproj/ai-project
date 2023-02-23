@@ -90,7 +90,11 @@ def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) 
                         faceFrames[insertIndex] = frame
                         logger.debug(f'Video {videoId} - New face found at {timestamp / 1000 :.4f}s. Total faces: {len(faceEncodings)}')
                 if (time.time() - lastStatTime) > STAT_PRINT_INTERVAL:
-                    logger.info(f'Video {videoId} - Speed: {(globalFrameIndex / (time.time() - startTime)) :.1f} fps. Timestamp: {timestamp / 1000 :.3f}s. Percentage: {(float(globalFrameIndex) / totalFramesCount * 100.0):.2f}')
+                    processingSpeed = (globalFrameIndex / (time.time() - startTime))
+                    timestampSeconds = timestamp / 1000
+                    percentage = float(globalFrameIndex) / totalFramesCount * 100.0
+                    estimatedTimeToComplete = datetime.timedelta(seconds=int((totalFramesCount - globalFrameIndex) / (processingSpeed + 0.0001)))
+                    logger.info(f'Video {videoId} - Speed: {processingSpeed:.1f} fps. Timestamp: {timestampSeconds:.3f}s. Percentage: {percentage:.2f}. ETA: {estimatedTimeToComplete}')
                     lastStatTime = time.time()
 
             # Reset the batch
