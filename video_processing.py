@@ -247,7 +247,8 @@ def handleCreateIntervals(videoId: str, target: int, maxDifference: int, warnLim
 
     logger.debug(f'Total intervals: {len(intervals)}')
     for start, end in intervals:
-        logger.info(f'Interval: {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)}')
+        duration = end - start
+        logger.info(f'Interval: {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)} - Duration {str(datetime.timedelta(seconds=(duration / 1000))).ljust(20)}')
 
     # Write output file
     outputFilePath = str(Path(videoPath) / (str(target) + '_intervals.csv'))
