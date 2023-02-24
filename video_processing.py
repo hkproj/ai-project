@@ -270,9 +270,10 @@ def handleCreateIntervals(videoId: str, target: int, maxDifference: int, warnLim
         os.remove(outputFilePath)
     writeIntervalsFile(outputFilePath, intervals)
 
-def handleCreateClips(videoId: str, targetIntervals: int, workers: int=1) -> None:
+def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, workers: int=1) -> None:
     # Check args
     assert targetIntervals is not None, "Target not specified"
+    assert minDuration > 0, "Minimum duration not specified"
 
     # Get the video's path
     videoPath = fstools.getFacesPath(videoId)
@@ -294,13 +295,17 @@ def handleCreateClips(videoId: str, targetIntervals: int, workers: int=1) -> Non
     Path(clipsPath).mkdir(parents=True, exist_ok=True)
 
     for index, (start,end) in enumerate(intervals):
-        # Delete existing clip, if it exists
-        outputFilePath = Path(clipsPath) / f"{targetIntervals}_{index}{fstools.VIDEO_FILE_EXTENSION}"
-        if Path.exists(outputFilePath):
-            os.remove(outputFilePath)
-        #logger.debug(f'Cutting video from {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} to {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)} and saving into {outputFilePath}')
-        # Run tool to cut video
-        videotools.cutVideo(inputVideoPath, outputFilePath, start, end)
+        durationSecs = float(end - start) / 1000
+        if durationSecs > minDuration:
+            # Delete existing clip, if it exists
+            outputFilePath = Path(clipsPath) / f"{targetIntervals}_{index}{fstools.VIDEO_FILE_EXTENSION}"
+            if Path.exists(outputFilePath):
+                os.remove(outputFilePath)
+            logger.debug(f'Cutting video from {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} to {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)} and saving into {outputFilePath}')
+            # Run tool to cut video
+            videotools.cutVideo(inputVideoPath, outputFilePath, start, end)
+        else:
+            logger.info(f'Ignoring interval {index} because too short')
 
 if __name__ == '__main__':
 
@@ -318,9 +323,10 @@ if __name__ == '__main__':
     parser.add_argument('--max-diff', type=int, required=False, help='Max timestamp difference')
     parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit')
     parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration')
+    parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip')
 
     args = parser.parse_args()
-    #print(args)
+    print(args)
 
     if args.command == COMMAND_EXTRACT_FACES:
         handleExtractFacesCommand(args.workers, args.video_id, args.sleep)
@@ -329,4 +335,4 @@ if __name__ == '__main__':
     elif args.command == COMMAND_CREATE_INTERVALS:
         handleCreateIntervals(args.video_id[0], args.target, args.max_diff, args.warn_limit)
     elif args.command == COMMAND_CREATE_CLIPS:
-        handleCreateClips(args.video_id[0], args.target, args.workers)
+        handleCreateClips(args.video_id[0], args.target, args.min_duration, args.workers)
