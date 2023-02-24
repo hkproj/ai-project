@@ -1,4 +1,5 @@
 import logging
+from logging.handlers import TimedRotatingFileHandler
 
 class CustomFormatter(logging.Formatter):
     """Logging colored formatter, adapted from https://stackoverflow.com/a/56944256/3638629"""
@@ -32,14 +33,22 @@ def getLogger(name: str):
     logger.setLevel(logging.DEBUG)
 
     # create formatter
-    formatter = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+    format = '%(asctime)s - %(name)s - %(levelname)s - %(message)s'
 
     # create console handler and set level to debug
     ch = logging.StreamHandler()
     ch.setLevel(logging.DEBUG)
-    ch.setFormatter(CustomFormatter(formatter))
+    ch.setFormatter(CustomFormatter(format))
 
     # add ch to logger
     logger.addHandler(ch)
+
+    logFileName = f'./logs/{name}.log'
+    ch = TimedRotatingFileHandler(logFileName, when='D')
+    ch.setLevel(logging.DEBUG)
+    ch.setFormatter(logging.Formatter(format))
+
+    logger.addHandler(ch)
+
 
     return logger

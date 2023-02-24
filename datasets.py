@@ -2,8 +2,9 @@ from torch.utils.data import Dataset
 from pathlib import Path
 import fstools
 from log import getLogger
+import os
 
-LOG = getLogger(__name__)
+logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
 
 class VideoDataset(Dataset):
 
@@ -17,7 +18,7 @@ class VideoDataset(Dataset):
                 try:
                     self.ids.append(fstools.getVideoIdFromFileName(item.name))
                 except:
-                    LOG.warning(f'Ignoring file {item.name}')
+                    logger.warning(f'Ignoring file {item.name}')
         
     def __len__(self):
         return len(self.ids)
