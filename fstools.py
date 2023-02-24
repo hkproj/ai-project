@@ -7,6 +7,7 @@ FACES_DIR = 'faces'
 CLIPS_DIR = 'clips'
 
 VIDEO_FILE_EXTENSION = '.mp4'
+AUDIO_FILE_EXTENSION = '.aac'
 
 def getVideoIdFromFileName(fileName: str) -> str:
     return os.path.splitext(os.path.basename(fileName))[0]
@@ -23,6 +24,9 @@ def getRawVideoFolderPath() -> str:
 def getFacesPath(videoId: str) -> str:
     path = Path('.') / DATA_DIR / FACES_DIR / videoId
     return str(path)
+
+def getClipsFolderPath() -> str:
+    return str(Path('.') / DATA_DIR / CLIPS_DIR)
 
 def getClipsPath(videoId: str) -> str:
     path = Path('.') / DATA_DIR / CLIPS_DIR / videoId

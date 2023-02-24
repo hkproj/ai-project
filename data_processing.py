@@ -13,7 +13,7 @@ import os
 import datetime
 import videotools
 
-logger = getLogger(__name__)
+logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
 
 def _extractFacesFromFrame(index: int, rgbFrame):
     faceLocations = face_recognition.face_locations(rgbFrame)
@@ -307,15 +307,66 @@ def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, work
         else:
             logger.info(f'Ignoring interval {index} because too short')
 
+def handleExtractAudio(videoIds: list[str]) -> None:
+    if videoIds is None:
+        # Get all the videoIds from the clips folder
+        videoIds = []
+        path = Path(fstools.getClipsFolderPath())
+        for item in path.iterdir():
+            if not item.is_file():
+                videoIds.append(item.name)
+
+    for videoId in videoIds:
+        # Get the video's path
+        clipsPath = fstools.getClipsPath(videoId)
+        if not Path.exists(Path(clipsPath)):
+            raise FileNotFoundError()
+    
+    logger.debug(f'Will extract audio from {len(videoIds)} videos')
+
+    for videoId in videoIds:
+        clipsPath = Path(fstools.getClipsPath(videoId))
+        # Get all the video files in this folder
+        for item in clipsPath.iterdir():
+            if item.name.endswith(fstools.VIDEO_FILE_EXTENSION):
+                baseFileName = os.path.splitext(item.name)[0]
+                outputFileName = clipsPath / (baseFileName + fstools.AUDIO_FILE_EXTENSION)
+                videotools.extractAudio(str(item), str(outputFileName))
+
+def handleTranscribeAudio(videoIds: list[str]) -> None:
+    if videoIds is None:
+        # Get all the videoIds from the clips folder
+        videoIds = []
+        path = Path(fstools.getClipsFolderPath())
+        for item in path.iterdir():
+            if not item.is_file():
+                videoIds.append(item.name)
+
+    for videoId in videoIds:
+        # Get the video's path
+        clipsPath = fstools.getClipsPath(videoId)
+        if not Path.exists(Path(clipsPath)):
+            raise FileNotFoundError()
+    
+    logger.debug(f'Will transcribe audio from {len(videoIds)} videos')
+
+    for videoId in videoIds:
+        clipsPath = Path(fstools.getClipsPath(videoId))
+        # Get all the audio files in this folder
+        for item in clipsPath.iterdir():
+            if item.name.endswith(fstools.AUDIO_FILE_EXTENSION):
+                raise NotImplementedError()
+
 if __name__ == '__main__':
 
     COMMAND_EXTRACT_FACES = 'extract-faces'
     COMMAND_MERGE_FACES = 'merge-faces'
     COMMAND_CREATE_INTERVALS = 'create-intervals'
     COMMAND_CREATE_CLIPS = "create-clips"
+    COMMAND_EXTRACT_AUDIO = "extract-audio"
 
     parser = argparse.ArgumentParser(prog = 'Video Processing',description = 'video processing utility')
-    parser.add_argument('command', type=str, choices=[COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS], help='The operation to execute')
+    parser.add_argument('command', type=str, choices=[COMMAND_EXTRACT_AUDIO, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS], help='The operation to execute')
     parser.add_argument('-w', '--workers', type=int, required=False, default=1, help='Number of workers')
     parser.add_argument('--video-id', nargs='*', type=str, required=False, help='Video ID(s) to process')
     parser.add_argument('--source', nargs='+', type=int, required=False, help='Source faces to merge')
@@ -336,3 +387,5 @@ if __name__ == '__main__':
         handleCreateIntervals(args.video_id[0], args.target, args.max_diff, args.warn_limit)
     elif args.command == COMMAND_CREATE_CLIPS:
         handleCreateClips(args.video_id[0], args.target, args.min_duration, args.workers)
+    elif args.command == COMMAND_EXTRACT_AUDIO:
+        handleExtractAudio(args.video_id)

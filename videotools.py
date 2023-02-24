@@ -7,3 +7,7 @@ def cutVideo(inputPath: str, outputPath: str, fromTs: float, toTs: float) -> Non
 
     command = f"ffmpeg -i \"{inputPath}\" -ss {fromTsString} -to {toTsString} -c:a copy \"{outputPath}\""
     os.system(command)
+
+def extractAudio(inputPath: str, outputPath: str) -> None:
+    command = f"ffmpeg -i \"{inputPath}\" -vn -acodec copy \"{outputPath}\""
+    os.system(command)
