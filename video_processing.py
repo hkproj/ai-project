@@ -15,6 +15,11 @@ import videotools
 
 logger = getLogger(__name__)
 
+def _extractFacesFromFrame(index: int, rgbFrame):
+    faceLocations = face_recognition.face_locations(rgbFrame)
+    faceEncodings = face_recognition.face_encodings(rgbFrame, faceLocations)
+    return index, faceLocations, faceEncodings
+
 def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) -> None:
 
     # If the directory already exists, ignore this video
@@ -63,17 +68,20 @@ def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) 
 
         # Process the batch only if it reached the batch size or no more frames are available
         if len(batch) == frameBatchSize or (isLastBatch and len(batch) > 0):
-            # Only if batch processing is enabled...
-            if frameBatchSize > 1:
-                batchFaceLocations = face_recognition.batch_face_locations([rgbFrame for _, rgbFrame, _ in batch])
-            else:
-                _, rgbFrame, _ = batch[0]
-                batchFaceLocations = [face_recognition.face_locations(rgbFrame)]
 
-            assert len(batchFaceLocations) == len(batch), "dimension of face locations result must match batch size"
+            batchFaceLocations = [None] * len(batch)
+            batchFaceEncodings = [None] * len(batch)
 
-            for (frame, rgbFrame, timestamp), frameFaceLocations in zip(batch, batchFaceLocations):
-                currentFrameFaceEncodings = face_recognition.face_encodings(rgbFrame, frameFaceLocations)
+            # Parallelize the process
+            with concurrent.futures.ProcessPoolExecutor(max_workers=frameBatchSize) as pool:
+                futures = [pool.submit(_extractFacesFromFrame, index, rgbFrame) for index, (_, rgbFrame, _) in enumerate(batch)]
+                for future in futures:
+                    # Make sure the indices correspond
+                    i, l, e = future.result()
+                    batchFaceLocations[i] = l
+                    batchFaceEncodings[i] = e
+
+            for (frame, rgbFrame, timestamp), frameFaceLocations, currentFrameFaceEncodings in zip(batch, batchFaceLocations, batchFaceEncodings):
 
                 for (top, right, bottom, left), currFaceEncoding in zip(frameFaceLocations, currentFrameFaceEncodings):
                     matches = face_recognition.compare_faces(faceEncodings, currFaceEncoding)
@@ -164,10 +172,8 @@ def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int) -> 
         if not Path.exists(Path(videoPath)):
             raise FileNotFoundError()
     logger.debug(f'Will extract faces from {len(videoIds)} videos')
-    with concurrent.futures.ProcessPoolExecutor(max_workers=workers) as pool:
-        futures = [pool.submit(extractAllFacesFromVideo, videoId, sleep, frameBatchSize=1) for videoId in videoIds]
-        for future in futures:
-            future.result()
+    for videoId in videoIds:
+        extractAllFacesFromVideo(videoId, sleep, frameBatchSize=workers)
 
 def handleMergeFaces(videoId: str, sourceList: list, target: int) -> None:
     # Get the video's path
