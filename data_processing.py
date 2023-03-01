@@ -11,7 +11,7 @@ import concurrent.futures
 import argparse
 import os
 import datetime
-import videotools
+import tools
 
 logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
 
@@ -303,7 +303,7 @@ def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, work
                 os.remove(outputFilePath)
             logger.debug(f'Cutting video from {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} to {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)} and saving into {outputFilePath}')
             # Run tool to cut video
-            videotools.cutVideo(inputVideoPath, outputFilePath, start, end)
+            tools.cutVideo(inputVideoPath, outputFilePath, start, end)
         else:
             logger.info(f'Ignoring interval {index} because too short')
 
@@ -331,7 +331,7 @@ def handleExtractAudio(videoIds: list[str]) -> None:
             if item.name.endswith(fstools.VIDEO_FILE_EXTENSION):
                 baseFileName = os.path.splitext(item.name)[0]
                 outputFileName = clipsPath / (baseFileName + fstools.AUDIO_FILE_EXTENSION)
-                videotools.extractAudio(str(item), str(outputFileName))
+                tools.extractAudio(str(item), str(outputFileName))
 
 def handleTranscribeAudio(videoIds: list[str]) -> None:
     if videoIds is None:
@@ -355,7 +355,9 @@ def handleTranscribeAudio(videoIds: list[str]) -> None:
         # Get all the audio files in this folder
         for item in clipsPath.iterdir():
             if item.name.endswith(fstools.AUDIO_FILE_EXTENSION):
-                raise NotImplementedError()
+                filePath = str(clipsPath / item.name)
+                logger.info(f"Transcribing audio file {filePath} into path {str(clipsPath)}")
+                tools.transcribeAudio(filePath, str(clipsPath))
 
 if __name__ == '__main__':
 
@@ -364,9 +366,12 @@ if __name__ == '__main__':
     COMMAND_CREATE_INTERVALS = 'create-intervals'
     COMMAND_CREATE_CLIPS = "create-clips"
     COMMAND_EXTRACT_AUDIO = "extract-audio"
+    COMMAND_TRANSCRIBE_AUDIO = "transcribe-audio"
+
+    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO]
 
     parser = argparse.ArgumentParser(prog = 'Video Processing',description = 'video processing utility')
-    parser.add_argument('command', type=str, choices=[COMMAND_EXTRACT_AUDIO, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS], help='The operation to execute')
+    parser.add_argument('command', type=str, choices=choices, help='The operation to execute')
     parser.add_argument('-w', '--workers', type=int, required=False, default=1, help='Number of workers')
     parser.add_argument('--video-id', nargs='*', type=str, required=False, help='Video ID(s) to process')
     parser.add_argument('--source', nargs='+', type=int, required=False, help='Source faces to merge')
@@ -377,7 +382,7 @@ if __name__ == '__main__':
     parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip')
 
     args = parser.parse_args()
-    print(args)
+    #print(args)
 
     if args.command == COMMAND_EXTRACT_FACES:
         handleExtractFacesCommand(args.workers, args.video_id, args.sleep)
@@ -389,3 +394,5 @@ if __name__ == '__main__':
         handleCreateClips(args.video_id[0], args.target, args.min_duration, args.workers)
     elif args.command == COMMAND_EXTRACT_AUDIO:
         handleExtractAudio(args.video_id)
+    elif args.command == COMMAND_TRANSCRIBE_AUDIO:
+        handleTranscribeAudio(args.video_id)

@@ -11,3 +11,7 @@ def cutVideo(inputPath: str, outputPath: str, fromTs: float, toTs: float) -> Non
 def extractAudio(inputPath: str, outputPath: str) -> None:
     command = f"ffmpeg -i \"{inputPath}\" -vn -acodec copy \"{outputPath}\""
     os.system(command)
+
+def transcribeAudio(inputPath: str, outputDir: str) -> None:
+    command = f"./transcribe_audio.sh \"{inputPath}\" \"{outputDir}\""
+    os.system(command)
