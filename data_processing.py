@@ -333,7 +333,7 @@ def handleExtractAudio(videoIds: list[str]) -> None:
                 outputFileName = clipsPath / (baseFileName + fstools.AUDIO_FILE_EXTENSION)
                 tools.extractAudio(str(item), str(outputFileName))
 
-def handleTranscribeAudio(videoIds: list[str]) -> None:
+def handleTranscribeAudio(videoIds: list[str], rebuild: bool = False) -> None:
     if videoIds is None:
         # Get all the videoIds from the clips folder
         videoIds = []
@@ -348,7 +348,7 @@ def handleTranscribeAudio(videoIds: list[str]) -> None:
         if not Path.exists(Path(clipsPath)):
             raise FileNotFoundError()
     
-    logger.debug(f'Will transcribe audio from {len(videoIds)} videos')
+    logger.info(f'Will transcribe audio from {len(videoIds)} video folders')
 
     for videoId in videoIds:
         clipsPath = Path(fstools.getClipsPath(videoId))
@@ -356,8 +356,15 @@ def handleTranscribeAudio(videoIds: list[str]) -> None:
         for item in clipsPath.iterdir():
             if item.name.endswith(fstools.AUDIO_FILE_EXTENSION):
                 filePath = str(clipsPath / item.name)
+                expectedOutputFilePath = clipsPath / (os.path.splitext(os.path.basename(item.name))[0] + fstools.TRANSCRIPTION_FILE_EXTENSION)
+                if not rebuild and Path.exists(expectedOutputFilePath):
+                    logger.info(f"Ignoring audio file {item.name} for video {videoId}")
+                    continue
                 logger.info(f"Transcribing audio file {filePath} into path {str(clipsPath)}")
                 tools.transcribeAudio(filePath, str(clipsPath))
+                if not Path.exists(expectedOutputFilePath):
+                    logger.error(f'No transcription file created for audio file {item.name} for video {videoId}')
+                    break
 
 if __name__ == '__main__':
 
@@ -380,6 +387,7 @@ if __name__ == '__main__':
     parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit')
     parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration')
     parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip')
+    parser.add_argument('--rebuild', type=bool, required=False, default=0, help='Rebuild output')
 
     args = parser.parse_args()
     #print(args)
@@ -395,4 +403,4 @@ if __name__ == '__main__':
     elif args.command == COMMAND_EXTRACT_AUDIO:
         handleExtractAudio(args.video_id)
     elif args.command == COMMAND_TRANSCRIBE_AUDIO:
-        handleTranscribeAudio(args.video_id)
+        handleTranscribeAudio(args.video_id, args.rebuild)

@@ -8,6 +8,7 @@ CLIPS_DIR = 'clips'
 
 VIDEO_FILE_EXTENSION = '.mp4'
 AUDIO_FILE_EXTENSION = '.aac'
+TRANSCRIPTION_FILE_EXTENSION = '.aac.word.srt'
 
 def getVideoIdFromFileName(fileName: str) -> str:
     return os.path.splitext(os.path.basename(fileName))[0]
