@@ -307,7 +307,7 @@ def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, work
         else:
             logger.info(f'Ignoring interval {index} because too short')
 
-def handleExtractAudio(videoIds: list[str]) -> None:
+def handleExtractAudio(videoIds: list[str], rebuild: bool = False) -> None:
     if videoIds is None:
         # Get all the videoIds from the clips folder
         videoIds = []
@@ -330,8 +330,15 @@ def handleExtractAudio(videoIds: list[str]) -> None:
         for item in clipsPath.iterdir():
             if item.name.endswith(fstools.VIDEO_FILE_EXTENSION):
                 baseFileName = os.path.splitext(item.name)[0]
-                outputFileName = clipsPath / (baseFileName + fstools.AUDIO_FILE_EXTENSION)
-                tools.extractAudio(str(item), str(outputFileName))
+                outputFilePath = clipsPath / (baseFileName + fstools.AUDIO_FILE_EXTENSION)
+                if not rebuild and Path.exists(outputFilePath):
+                    logger.info(f"Ignoring clip file {item.name} for video {videoId}")
+                    continue
+                logger.info(f"Extracting audio from file {str(item)} into path {str(outputFilePath)}")
+                tools.extractAudio(str(item), str(outputFilePath))
+                if not Path.exists(outputFilePath):
+                    logger.error(f'No transcription file created for audio file {item.name} for video {videoId}')
+                    break
 
 def handleTranscribeAudio(videoIds: list[str], rebuild: bool = False) -> None:
     if videoIds is None:
@@ -355,14 +362,14 @@ def handleTranscribeAudio(videoIds: list[str], rebuild: bool = False) -> None:
         # Get all the audio files in this folder
         for item in clipsPath.iterdir():
             if item.name.endswith(fstools.AUDIO_FILE_EXTENSION):
-                filePath = str(clipsPath / item.name)
-                expectedOutputFilePath = clipsPath / (os.path.splitext(os.path.basename(item.name))[0] + fstools.TRANSCRIPTION_FILE_EXTENSION)
-                if not rebuild and Path.exists(expectedOutputFilePath):
+                filePath = clipsPath / item.name
+                outputFilePath = clipsPath / (os.path.splitext(os.path.basename(item.name))[0] + fstools.TRANSCRIPTION_FILE_EXTENSION)
+                if not rebuild and Path.exists(outputFilePath):
                     logger.info(f"Ignoring audio file {item.name} for video {videoId}")
                     continue
-                logger.info(f"Transcribing audio file {filePath} into path {str(clipsPath)}")
-                tools.transcribeAudio(filePath, str(clipsPath))
-                if not Path.exists(expectedOutputFilePath):
+                logger.info(f"Transcribing audio file {str(filePath)} into path {str(clipsPath)}")
+                tools.transcribeAudio(str(filePath), str(clipsPath))
+                if not Path.exists(outputFilePath):
                     logger.error(f'No transcription file created for audio file {item.name} for video {videoId}')
                     break
 
@@ -387,7 +394,7 @@ if __name__ == '__main__':
     parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit')
     parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration')
     parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip')
-    parser.add_argument('--rebuild', type=bool, required=False, default=0, help='Rebuild output')
+    parser.add_argument('--rebuild', type=bool, required=False, default=False, help='Rebuild output')
 
     args = parser.parse_args()
     #print(args)
@@ -401,6 +408,6 @@ if __name__ == '__main__':
     elif args.command == COMMAND_CREATE_CLIPS:
         handleCreateClips(args.video_id[0], args.target, args.min_duration, args.workers)
     elif args.command == COMMAND_EXTRACT_AUDIO:
-        handleExtractAudio(args.video_id)
+        handleExtractAudio(args.video_id, args.rebuild)
     elif args.command == COMMAND_TRANSCRIBE_AUDIO:
         handleTranscribeAudio(args.video_id, args.rebuild)
