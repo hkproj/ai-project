@@ -1,0 +1,291 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}prenotare{\r} direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:0.54,0:00:0.60,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:0.60,0:00:1.12,Default,,0,0,0,,prenotare {\1c&HFF00&\u1}direttamente{\r} dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:1.12,0:00:1.18,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:1.18,0:00:1.89,Default,,0,0,0,,prenotare direttamente {\1c&HFF00&\u1}dall'app{\r} e avere degli sconti successivi
+Dialogue: 0,0:00:1.89,0:00:2.17,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:2.17,0:00:2.25,Default,,0,0,0,,prenotare direttamente dall'app {\1c&HFF00&\u1}e{\r} avere degli sconti successivi
+Dialogue: 0,0:00:2.25,0:00:2.39,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:2.39,0:00:2.81,Default,,0,0,0,,prenotare direttamente dall'app e {\1c&HFF00&\u1}avere{\r} degli sconti successivi
+Dialogue: 0,0:00:2.81,0:00:2.87,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:2.87,0:00:3.05,Default,,0,0,0,,prenotare direttamente dall'app e avere {\1c&HFF00&\u1}degli{\r} sconti successivi
+Dialogue: 0,0:00:3.05,0:00:3.15,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:3.15,0:00:3.51,Default,,0,0,0,,prenotare direttamente dall'app e avere degli {\1c&HFF00&\u1}sconti{\r} successivi
+Dialogue: 0,0:00:3.51,0:00:3.59,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti successivi
+Dialogue: 0,0:00:3.59,0:00:4.21,Default,,0,0,0,,prenotare direttamente dall'app e avere degli sconti {\1c&HFF00&\u1}successivi{\r}
+Dialogue: 0,0:00:4.56,0:00:5.10,Default,,0,0,0,,{\1c&HFF00&\u1}accumulando{\r} punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:5.10,0:00:5.18,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:5.18,0:00:5.68,Default,,0,0,0,,accumulando {\1c&HFF00&\u1}punti{\r} per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:5.68,0:00:5.82,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:5.82,0:00:6.22,Default,,0,0,0,,accumulando punti {\1c&HFF00&\u1}per{\r} avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:6.22,0:00:6.36,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:6.36,0:00:6.87,Default,,0,0,0,,accumulando punti per {\1c&HFF00&\u1}avere{\r} degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:6.87,0:00:6.95,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:6.95,0:00:7.15,Default,,0,0,0,,accumulando punti per avere {\1c&HFF00&\u1}degli{\r} sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:7.15,0:00:7.23,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:7.23,0:00:8.01,Default,,0,0,0,,accumulando punti per avere degli {\1c&HFF00&\u1}sconti{\r} da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:8.01,0:00:8.27,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:8.27,0:00:8.87,Default,,0,0,0,,accumulando punti per avere degli sconti {\1c&HFF00&\u1}da 20{\r} o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:8.87,0:00:9.05,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:9.05,0:00:9.11,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 {\1c&HFF00&\u1}o 50{\r} euro su una successiva spesa.
+Dialogue: 0,0:00:9.11,0:00:9.83,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:9.83,0:00:10.25,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 {\1c&HFF00&\u1}euro{\r} su una successiva spesa.
+Dialogue: 0,0:00:10.25,0:00:10.53,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:10.53,0:00:10.67,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro {\1c&HFF00&\u1}su{\r} una successiva spesa.
+Dialogue: 0,0:00:10.67,0:00:10.79,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:10.79,0:00:10.95,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su {\1c&HFF00&\u1}una{\r} successiva spesa.
+Dialogue: 0,0:00:10.95,0:00:11.01,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:11.01,0:00:11.78,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una {\1c&HFF00&\u1}successiva{\r} spesa.
+Dialogue: 0,0:00:11.78,0:00:11.98,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva spesa.
+Dialogue: 0,0:00:11.98,0:00:12.42,Default,,0,0,0,,accumulando punti per avere degli sconti da 20 o 50 euro su una successiva {\1c&HFF00&\u1}spesa.{\r}
+Dialogue: 0,0:00:12.66,0:00:12.94,Default,,0,0,0,,{\1c&HFF00&\u1}Spero{\r} che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:12.94,0:00:13.02,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:13.02,0:00:13.12,Default,,0,0,0,,Spero {\1c&HFF00&\u1}che{\r} queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:13.12,0:00:13.30,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:13.30,0:00:13.54,Default,,0,0,0,,Spero che {\1c&HFF00&\u1}queste{\r} app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:13.54,0:00:13.60,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:13.60,0:00:13.86,Default,,0,0,0,,Spero che queste {\1c&HFF00&\u1}app{\r} ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:13.86,0:00:13.94,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:13.94,0:00:14.04,Default,,0,0,0,,Spero che queste app {\1c&HFF00&\u1}ti{\r} siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:14.04,0:00:14.14,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:14.14,0:00:14.40,Default,,0,0,0,,Spero che queste app ti {\1c&HFF00&\u1}siano{\r} stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:14.40,0:00:14.45,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:14.45,0:00:14.75,Default,,0,0,0,,Spero che queste app ti siano {\1c&HFF00&\u1}stati{\r} utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:14.75,0:00:14.95,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:14.95,0:00:15.23,Default,,0,0,0,,Spero che queste app ti siano stati {\1c&HFF00&\u1}utili,{\r} questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.23,0:00:15.27,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.27,0:00:15.45,Default,,0,0,0,,Spero che queste app ti siano stati utili, {\1c&HFF00&\u1}questo{\r} video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.45,0:00:15.51,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.51,0:00:15.67,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo {\1c&HFF00&\u1}video{\r} mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.67,0:00:15.71,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.71,0:00:15.77,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video {\1c&HFF00&\u1}mi{\r} ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.77,0:00:15.79,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.79,0:00:15.83,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi {\1c&HFF00&\u1}ha{\r} richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.83,0:00:15.87,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:15.87,0:00:16.15,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha {\1c&HFF00&\u1}richiesto{\r} tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.15,0:00:16.21,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.21,0:00:16.43,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto {\1c&HFF00&\u1}tanto{\r} lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.43,0:00:16.51,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.51,0:00:16.81,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto {\1c&HFF00&\u1}lavoro,{\r} ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.81,0:00:16.87,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.87,0:00:16.95,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, {\1c&HFF00&\u1}ti{\r} sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.95,0:00:16.99,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:16.99,0:00:17.21,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti {\1c&HFF00&\u1}sarei{\r} grata se mi lasci un like, un commento
+Dialogue: 0,0:00:17.21,0:00:17.25,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:17.25,0:00:17.61,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei {\1c&HFF00&\u1}grata{\r} se mi lasci un like, un commento
+Dialogue: 0,0:00:17.61,0:00:17.69,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:17.69,0:00:17.83,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata {\1c&HFF00&\u1}se{\r} mi lasci un like, un commento
+Dialogue: 0,0:00:17.83,0:00:17.91,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:17.91,0:00:17.97,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se {\1c&HFF00&\u1}mi{\r} lasci un like, un commento
+Dialogue: 0,0:00:17.97,0:00:18.01,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:18.01,0:00:18.25,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi {\1c&HFF00&\u1}lasci{\r} un like, un commento
+Dialogue: 0,0:00:18.25,0:00:18.29,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:18.29,0:00:18.37,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci {\1c&HFF00&\u1}un{\r} like, un commento
+Dialogue: 0,0:00:18.37,0:00:18.43,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:18.43,0:00:18.85,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un {\1c&HFF00&\u1}like,{\r} un commento
+Dialogue: 0,0:00:18.85,0:00:19.04,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:19.04,0:00:19.12,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, {\1c&HFF00&\u1}un{\r} commento
+Dialogue: 0,0:00:19.12,0:00:19.18,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un commento
+Dialogue: 0,0:00:19.18,0:00:19.78,Default,,0,0,0,,Spero che queste app ti siano stati utili, questo video mi ha richiesto tanto lavoro, ti sarei grata se mi lasci un like, un {\1c&HFF00&\u1}commento{\r}
+Dialogue: 0,0:00:19.28,0:00:19.30,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.30,0:00:19.32,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.32,0:00:19.36,Default,,0,0,0,,a {\1c&HFF00&\u1}te{\r} non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.36,0:00:19.38,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.38,0:00:19.44,Default,,0,0,0,,a te {\1c&HFF00&\u1}non{\r} costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.44,0:00:19.46,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.46,0:00:19.56,Default,,0,0,0,,a te non {\1c&HFF00&\u1}costa{\r} niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.56,0:00:19.58,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.58,0:00:19.70,Default,,0,0,0,,a te non costa {\1c&HFF00&\u1}niente{\r} però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.70,0:00:19.72,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.72,0:00:19.80,Default,,0,0,0,,a te non costa niente {\1c&HFF00&\u1}però{\r} a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.80,0:00:19.82,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.82,0:00:19.84,Default,,0,0,0,,a te non costa niente però {\1c&HFF00&\u1}a{\r} me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.84,0:00:19.86,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.86,0:00:19.90,Default,,0,0,0,,a te non costa niente però a {\1c&HFF00&\u1}me{\r} aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.90,0:00:19.92,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:19.92,0:00:20.02,Default,,0,0,0,,a te non costa niente però a me {\1c&HFF00&\u1}aiuta{\r} a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.02,0:00:20.04,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.04,0:00:20.06,Default,,0,0,0,,a te non costa niente però a me aiuta {\1c&HFF00&\u1}a{\r} far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.06,0:00:20.08,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.08,0:00:20.14,Default,,0,0,0,,a te non costa niente però a me aiuta a {\1c&HFF00&\u1}far{\r} crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.14,0:00:20.16,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.16,0:00:20.40,Default,,0,0,0,,a te non costa niente però a me aiuta a far {\1c&HFF00&\u1}crescere{\r} il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.40,0:00:20.42,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.42,0:00:20.46,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere {\1c&HFF00&\u1}il{\r} canale. Poi fammi sapere
+Dialogue: 0,0:00:20.46,0:00:20.48,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.48,0:00:20.60,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il {\1c&HFF00&\u1}canale.{\r} Poi fammi sapere
+Dialogue: 0,0:00:20.60,0:00:20.62,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.62,0:00:20.72,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. {\1c&HFF00&\u1}Poi{\r} fammi sapere
+Dialogue: 0,0:00:20.72,0:00:20.80,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:20.80,0:00:21.39,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi {\1c&HFF00&\u1}fammi{\r} sapere
+Dialogue: 0,0:00:21.39,0:00:21.41,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi sapere
+Dialogue: 0,0:00:21.41,0:00:21.79,Default,,0,0,0,,a te non costa niente però a me aiuta a far crescere il canale. Poi fammi {\1c&HFF00&\u1}sapere{\r}
+Dialogue: 0,0:00:25.62,0:00:25.82,Default,,0,0,0,,{\1c&HFF00&\u1}quale{\r} tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:25.82,0:00:26.00,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:26.00,0:00:26.14,Default,,0,0,0,,quale {\1c&HFF00&\u1}tra{\r} queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:26.14,0:00:26.26,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:26.26,0:00:26.89,Default,,0,0,0,,quale tra {\1c&HFF00&\u1}queste 5{\r} app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:26.89,0:00:26.97,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:26.97,0:00:27.23,Default,,0,0,0,,quale tra queste 5 {\1c&HFF00&\u1}app{\r} che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.23,0:00:27.27,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.27,0:00:27.35,Default,,0,0,0,,quale tra queste 5 app {\1c&HFF00&\u1}che{\r} ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.35,0:00:27.45,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.45,0:00:27.53,Default,,0,0,0,,quale tra queste 5 app che {\1c&HFF00&\u1}ti{\r} ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.53,0:00:27.57,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.57,0:00:27.65,Default,,0,0,0,,quale tra queste 5 app che ti {\1c&HFF00&\u1}ho{\r} citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.65,0:00:27.75,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:27.75,0:00:28.11,Default,,0,0,0,,quale tra queste 5 app che ti ho {\1c&HFF00&\u1}citato{\r} ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:28.11,0:00:28.17,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:28.17,0:00:28.25,Default,,0,0,0,,quale tra queste 5 app che ti ho citato {\1c&HFF00&\u1}ti{\r} ispira di più e andrai a provare o se
+Dialogue: 0,0:00:28.25,0:00:28.27,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:28.27,0:00:28.63,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti {\1c&HFF00&\u1}ispira{\r} di più e andrai a provare o se
+Dialogue: 0,0:00:28.63,0:00:28.69,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:28.69,0:00:28.77,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira {\1c&HFF00&\u1}di{\r} più e andrai a provare o se
+Dialogue: 0,0:00:28.77,0:00:28.89,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:28.89,0:00:29.13,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di {\1c&HFF00&\u1}più{\r} e andrai a provare o se
+Dialogue: 0,0:00:29.13,0:00:29.21,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:29.21,0:00:29.23,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più {\1c&HFF00&\u1}e{\r} andrai a provare o se
+Dialogue: 0,0:00:29.23,0:00:29.25,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:29.25,0:00:29.45,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e {\1c&HFF00&\u1}andrai{\r} a provare o se
+Dialogue: 0,0:00:29.45,0:00:29.47,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:29.47,0:00:29.51,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai {\1c&HFF00&\u1}a{\r} provare o se
+Dialogue: 0,0:00:29.51,0:00:29.57,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:29.57,0:00:30.07,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a {\1c&HFF00&\u1}provare{\r} o se
+Dialogue: 0,0:00:30.07,0:00:30.45,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:30.45,0:00:30.53,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare {\1c&HFF00&\u1}o{\r} se
+Dialogue: 0,0:00:30.53,0:00:30.61,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o se
+Dialogue: 0,0:00:30.61,0:00:30.68,Default,,0,0,0,,quale tra queste 5 app che ti ho citato ti ispira di più e andrai a provare o {\1c&HFF00&\u1}se{\r}
+Dialogue: 0,0:00:33.67,0:00:34.45,Default,,0,0,0,,{\1c&HFF00&\u1}vuoi{\r} un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:34.45,0:00:35.07,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:35.07,0:00:35.17,Default,,0,0,0,,vuoi {\1c&HFF00&\u1}un{\r} video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:35.17,0:00:35.35,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:35.35,0:00:35.55,Default,,0,0,0,,vuoi un {\1c&HFF00&\u1}video{\r} specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:35.55,0:00:35.57,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:35.57,0:00:35.94,Default,,0,0,0,,vuoi un video {\1c&HFF00&\u1}specifico{\r} su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:35.94,0:00:35.96,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:35.96,0:00:36.00,Default,,0,0,0,,vuoi un video specifico {\1c&HFF00&\u1}su{\r} una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.00,0:00:36.02,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.02,0:00:36.10,Default,,0,0,0,,vuoi un video specifico su {\1c&HFF00&\u1}una{\r} di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.10,0:00:36.12,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.12,0:00:36.16,Default,,0,0,0,,vuoi un video specifico su una {\1c&HFF00&\u1}di{\r} queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.16,0:00:36.20,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.20,0:00:36.32,Default,,0,0,0,,vuoi un video specifico su una di {\1c&HFF00&\u1}queste{\r} app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.32,0:00:36.36,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.36,0:00:36.42,Default,,0,0,0,,vuoi un video specifico su una di queste {\1c&HFF00&\u1}app{\r} o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.42,0:00:36.44,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.44,0:00:36.46,Default,,0,0,0,,vuoi un video specifico su una di queste app {\1c&HFF00&\u1}o{\r} ancora se c'è un app che tu
+Dialogue: 0,0:00:36.46,0:00:36.48,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.48,0:00:36.60,Default,,0,0,0,,vuoi un video specifico su una di queste app o {\1c&HFF00&\u1}ancora{\r} se c'è un app che tu
+Dialogue: 0,0:00:36.60,0:00:36.62,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.62,0:00:36.66,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora {\1c&HFF00&\u1}se{\r} c'è un app che tu
+Dialogue: 0,0:00:36.66,0:00:36.68,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.68,0:00:36.72,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se {\1c&HFF00&\u1}c'è{\r} un app che tu
+Dialogue: 0,0:00:36.72,0:00:36.78,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.78,0:00:36.82,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è {\1c&HFF00&\u1}un{\r} app che tu
+Dialogue: 0,0:00:36.82,0:00:36.84,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.84,0:00:36.90,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un {\1c&HFF00&\u1}app{\r} che tu
+Dialogue: 0,0:00:36.90,0:00:36.92,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:36.92,0:00:36.98,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app {\1c&HFF00&\u1}che{\r} tu
+Dialogue: 0,0:00:36.98,0:00:37.00,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che tu
+Dialogue: 0,0:00:37.00,0:00:37.04,Default,,0,0,0,,vuoi un video specifico su una di queste app o ancora se c'è un app che {\1c&HFF00&\u1}tu{\r}
+Dialogue: 0,0:00:35.82,0:00:36.20,Default,,0,0,0,,{\1c&HFF00&\u1}utilizzi{\r} per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:36.20,0:00:36.24,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:36.24,0:00:36.34,Default,,0,0,0,,utilizzi {\1c&HFF00&\u1}per{\r} risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:36.34,0:00:36.36,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:36.36,0:00:37.02,Default,,0,0,0,,utilizzi per {\1c&HFF00&\u1}risparmiare{\r} che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:37.02,0:00:37.16,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:37.16,0:00:37.34,Default,,0,0,0,,utilizzi per risparmiare {\1c&HFF00&\u1}che{\r} trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:37.34,0:00:37.50,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:37.50,0:00:37.75,Default,,0,0,0,,utilizzi per risparmiare che {\1c&HFF00&\u1}trovi{\r} utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:37.75,0:00:37.83,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:37.83,0:00:38.19,Default,,0,0,0,,utilizzi per risparmiare che trovi {\1c&HFF00&\u1}utile{\r} in modo tale da avere un insieme di
+Dialogue: 0,0:00:38.19,0:00:38.61,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:38.61,0:00:38.67,Default,,0,0,0,,utilizzi per risparmiare che trovi utile {\1c&HFF00&\u1}in{\r} modo tale da avere un insieme di
+Dialogue: 0,0:00:38.67,0:00:38.71,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:38.71,0:00:38.87,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in {\1c&HFF00&\u1}modo{\r} tale da avere un insieme di
+Dialogue: 0,0:00:38.87,0:00:38.93,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:38.93,0:00:39.21,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo {\1c&HFF00&\u1}tale{\r} da avere un insieme di
+Dialogue: 0,0:00:39.21,0:00:39.29,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:39.29,0:00:39.51,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale {\1c&HFF00&\u1}da{\r} avere un insieme di
+Dialogue: 0,0:00:39.51,0:00:39.83,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:39.83,0:00:40.33,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da {\1c&HFF00&\u1}avere{\r} un insieme di
+Dialogue: 0,0:00:40.33,0:00:40.55,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:40.55,0:00:40.63,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere {\1c&HFF00&\u1}un{\r} insieme di
+Dialogue: 0,0:00:40.63,0:00:40.65,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:40.65,0:00:41.09,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un {\1c&HFF00&\u1}insieme{\r} di
+Dialogue: 0,0:00:41.09,0:00:41.17,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme di
+Dialogue: 0,0:00:41.17,0:00:41.23,Default,,0,0,0,,utilizzi per risparmiare che trovi utile in modo tale da avere un insieme {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:41.20,0:00:41.26,Default,,0,0,0,,{\1c&HFF00&\u1}app{\r} servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.26,0:00:41.28,Default,,0,0,0,,app servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.28,0:00:41.42,Default,,0,0,0,,app {\1c&HFF00&\u1}servizi{\r} che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.42,0:00:41.44,Default,,0,0,0,,app servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.44,0:00:41.50,Default,,0,0,0,,app servizi {\1c&HFF00&\u1}che{\r} ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.50,0:00:41.52,Default,,0,0,0,,app servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.52,0:00:41.56,Default,,0,0,0,,app servizi che {\1c&HFF00&\u1}ci{\r} possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.56,0:00:41.58,Default,,0,0,0,,app servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.58,0:00:41.72,Default,,0,0,0,,app servizi che ci {\1c&HFF00&\u1}possono{\r} aiutare a risparmiare.
+Dialogue: 0,0:00:41.72,0:00:41.74,Default,,0,0,0,,app servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.74,0:00:41.88,Default,,0,0,0,,app servizi che ci possono {\1c&HFF00&\u1}aiutare{\r} a risparmiare.
+Dialogue: 0,0:00:41.88,0:00:41.90,Default,,0,0,0,,app servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.90,0:00:41.92,Default,,0,0,0,,app servizi che ci possono aiutare {\1c&HFF00&\u1}a{\r} risparmiare.
+Dialogue: 0,0:00:41.92,0:00:41.94,Default,,0,0,0,,app servizi che ci possono aiutare a risparmiare.
+Dialogue: 0,0:00:41.94,0:00:42.16,Default,,0,0,0,,app servizi che ci possono aiutare a {\1c&HFF00&\u1}risparmiare.{\r}
+Dialogue: 0,0:00:45.12,0:00:45.52,Default,,0,0,0,,{\1c&HFF00&\u1}Iscriviti{\r} al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:45.52,0:00:45.56,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:45.56,0:00:45.66,Default,,0,0,0,,Iscriviti {\1c&HFF00&\u1}al{\r} canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:45.66,0:00:45.70,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:45.70,0:00:45.96,Default,,0,0,0,,Iscriviti al {\1c&HFF00&\u1}canale{\r} e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:45.96,0:00:45.98,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:45.98,0:00:46.00,Default,,0,0,0,,Iscriviti al canale {\1c&HFF00&\u1}e{\r} attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:46.00,0:00:46.04,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:46.04,0:00:46.29,Default,,0,0,0,,Iscriviti al canale e {\1c&HFF00&\u1}attiva{\r} la campanella per non perderti i prossimi
+Dialogue: 0,0:00:46.29,0:00:46.35,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:46.35,0:00:46.41,Default,,0,0,0,,Iscriviti al canale e attiva {\1c&HFF00&\u1}la{\r} campanella per non perderti i prossimi
+Dialogue: 0,0:00:46.41,0:00:46.45,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:46.45,0:00:46.93,Default,,0,0,0,,Iscriviti al canale e attiva la {\1c&HFF00&\u1}campanella{\r} per non perderti i prossimi
+Dialogue: 0,0:00:46.93,0:00:47.01,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:47.01,0:00:47.13,Default,,0,0,0,,Iscriviti al canale e attiva la campanella {\1c&HFF00&\u1}per{\r} non perderti i prossimi
+Dialogue: 0,0:00:47.13,0:00:47.17,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:47.17,0:00:47.29,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per {\1c&HFF00&\u1}non{\r} perderti i prossimi
+Dialogue: 0,0:00:47.29,0:00:47.35,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:47.35,0:00:47.83,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non {\1c&HFF00&\u1}perderti{\r} i prossimi
+Dialogue: 0,0:00:47.83,0:00:47.85,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:47.85,0:00:47.87,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti {\1c&HFF00&\u1}i{\r} prossimi
+Dialogue: 0,0:00:47.87,0:00:47.89,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i prossimi
+Dialogue: 0,0:00:47.89,0:00:48.21,Default,,0,0,0,,Iscriviti al canale e attiva la campanella per non perderti i {\1c&HFF00&\u1}prossimi{\r}
+Dialogue: 0,0:00:47.96,0:00:48.18,Default,,0,0,0,,{\1c&HFF00&\u1}video.{\r} Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.18,0:00:48.20,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.20,0:00:48.26,Default,,0,0,0,,video. {\1c&HFF00&\u1}Io{\r} ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.26,0:00:48.36,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.36,0:00:48.58,Default,,0,0,0,,video. Io {\1c&HFF00&\u1}ti{\r} mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.58,0:00:48.66,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.66,0:00:48.90,Default,,0,0,0,,video. Io ti {\1c&HFF00&\u1}mando{\r} un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.90,0:00:48.96,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:48.96,0:00:49.02,Default,,0,0,0,,video. Io ti mando {\1c&HFF00&\u1}un{\r} bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:49.02,0:00:49.04,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:49.04,0:00:49.26,Default,,0,0,0,,video. Io ti mando un {\1c&HFF00&\u1}bacio,{\r} ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:49.26,0:00:49.95,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:49.95,0:00:49.99,Default,,0,0,0,,video. Io ti mando un bacio, {\1c&HFF00&\u1}ci{\r} vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:49.99,0:00:50.03,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:50.03,0:00:50.25,Default,,0,0,0,,video. Io ti mando un bacio, ci {\1c&HFF00&\u1}vediamo{\r} al prossimo video, ciao!
+Dialogue: 0,0:00:50.25,0:00:50.29,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:50.29,0:00:50.39,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo {\1c&HFF00&\u1}al{\r} prossimo video, ciao!
+Dialogue: 0,0:00:50.39,0:00:50.41,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:50.41,0:00:50.79,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al {\1c&HFF00&\u1}prossimo{\r} video, ciao!
+Dialogue: 0,0:00:50.79,0:00:50.85,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:50.85,0:00:51.15,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo {\1c&HFF00&\u1}video,{\r} ciao!
+Dialogue: 0,0:00:51.15,0:00:51.23,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, ciao!
+Dialogue: 0,0:00:51.23,0:00:51.47,Default,,0,0,0,,video. Io ti mando un bacio, ci vediamo al prossimo video, {\1c&HFF00&\u1}ciao!{\r}

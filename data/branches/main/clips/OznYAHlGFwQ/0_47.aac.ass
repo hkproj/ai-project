@@ -1,0 +1,184 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.06,0:00:1.02,Default,,0,0,0,,{\1c&HFF00&\u1}arrivo{\r} sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.02,0:00:1.04,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.04,0:00:1.12,Default,,0,0,0,,arrivo {\1c&HFF00&\u1}sì{\r} o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.12,0:00:1.16,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.16,0:00:1.20,Default,,0,0,0,,arrivo sì {\1c&HFF00&\u1}o{\r} no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.20,0:00:1.22,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.22,0:00:1.30,Default,,0,0,0,,arrivo sì o {\1c&HFF00&\u1}no{\r} ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.30,0:00:1.72,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.72,0:00:1.82,Default,,0,0,0,,arrivo sì o no {\1c&HFF00&\u1}ora{\r} sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.82,0:00:1.88,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.88,0:00:1.96,Default,,0,0,0,,arrivo sì o no ora {\1c&HFF00&\u1}sì{\r} ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:1.96,0:00:2.40,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:2.40,0:00:2.75,Default,,0,0,0,,arrivo sì o no ora sì {\1c&HFF00&\u1}ok{\r} super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:2.75,0:00:3.13,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:3.13,0:00:4.35,Default,,0,0,0,,arrivo sì o no ora sì ok {\1c&HFF00&\u1}super{\r} ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:4.35,0:00:4.37,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:4.37,0:00:4.41,Default,,0,0,0,,arrivo sì o no ora sì ok super {\1c&HFF00&\u1}ok{\r} perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:4.41,0:00:4.47,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:4.47,0:00:5.01,Default,,0,0,0,,arrivo sì o no ora sì ok super ok {\1c&HFF00&\u1}perdoni{\r} sì in realtà o gesticolo
+Dialogue: 0,0:00:5.01,0:00:5.03,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:5.03,0:00:5.07,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni {\1c&HFF00&\u1}sì{\r} in realtà o gesticolo
+Dialogue: 0,0:00:5.07,0:00:5.09,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:5.09,0:00:5.15,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì {\1c&HFF00&\u1}in{\r} realtà o gesticolo
+Dialogue: 0,0:00:5.15,0:00:5.17,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:5.17,0:00:5.51,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in {\1c&HFF00&\u1}realtà{\r} o gesticolo
+Dialogue: 0,0:00:5.51,0:00:5.53,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:5.53,0:00:5.55,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà {\1c&HFF00&\u1}o{\r} gesticolo
+Dialogue: 0,0:00:5.55,0:00:7.05,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o gesticolo
+Dialogue: 0,0:00:7.05,0:00:7.47,Default,,0,0,0,,arrivo sì o no ora sì ok super ok perdoni sì in realtà o {\1c&HFF00&\u1}gesticolo{\r}
+Dialogue: 0,0:00:8.92,0:00:9.18,Default,,0,0,0,,{\1c&HFF00&\u1}antonio{\r} non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.18,0:00:9.20,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.20,0:00:9.32,Default,,0,0,0,,antonio {\1c&HFF00&\u1}non{\r} mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.32,0:00:9.34,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.34,0:00:9.40,Default,,0,0,0,,antonio non {\1c&HFF00&\u1}mi{\r} sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.40,0:00:9.44,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.44,0:00:9.76,Default,,0,0,0,,antonio non mi {\1c&HFF00&\u1}sente{\r} ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.76,0:00:9.82,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.82,0:00:9.88,Default,,0,0,0,,antonio non mi sente {\1c&HFF00&\u1}ma{\r} gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.88,0:00:9.90,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:9.90,0:00:10.02,Default,,0,0,0,,antonio non mi sente ma {\1c&HFF00&\u1}gli{\r} altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:10.02,0:00:10.04,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:10.04,0:00:10.27,Default,,0,0,0,,antonio non mi sente ma gli {\1c&HFF00&\u1}altri{\r} sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:10.27,0:00:10.33,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:10.33,0:00:10.43,Default,,0,0,0,,antonio non mi sente ma gli altri {\1c&HFF00&\u1}sì{\r} aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:10.43,0:00:11.17,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:11.17,0:00:11.65,Default,,0,0,0,,antonio non mi sente ma gli altri sì {\1c&HFF00&\u1}aiutatemi{\r} mi sentite o no faccio un
+Dialogue: 0,0:00:11.65,0:00:12.81,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:12.81,0:00:12.87,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi {\1c&HFF00&\u1}mi{\r} sentite o no faccio un
+Dialogue: 0,0:00:12.87,0:00:12.93,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:12.93,0:00:13.51,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi {\1c&HFF00&\u1}sentite{\r} o no faccio un
+Dialogue: 0,0:00:13.51,0:00:13.59,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:13.59,0:00:13.63,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite {\1c&HFF00&\u1}o{\r} no faccio un
+Dialogue: 0,0:00:13.63,0:00:13.65,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:13.65,0:00:13.93,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o {\1c&HFF00&\u1}no{\r} faccio un
+Dialogue: 0,0:00:13.93,0:00:13.95,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:13.95,0:00:14.13,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no {\1c&HFF00&\u1}faccio{\r} un
+Dialogue: 0,0:00:14.13,0:00:14.18,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio un
+Dialogue: 0,0:00:14.18,0:00:14.24,Default,,0,0,0,,antonio non mi sente ma gli altri sì aiutatemi mi sentite o no faccio {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:14.20,0:00:14.38,Default,,0,0,0,,{\1c&HFF00&\u1}sondaggio{\r} faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.38,0:00:14.40,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.40,0:00:14.52,Default,,0,0,0,,sondaggio {\1c&HFF00&\u1}faccio{\r} un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.52,0:00:14.54,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.54,0:00:14.58,Default,,0,0,0,,sondaggio faccio {\1c&HFF00&\u1}un{\r} sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.58,0:00:14.60,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.60,0:00:14.78,Default,,0,0,0,,sondaggio faccio un {\1c&HFF00&\u1}sondaggio{\r} vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.78,0:00:14.80,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.80,0:00:14.94,Default,,0,0,0,,sondaggio faccio un sondaggio {\1c&HFF00&\u1}vediamo{\r} se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.94,0:00:14.96,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:14.96,0:00:15.00,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo {\1c&HFF00&\u1}se{\r} mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.00,0:00:15.02,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.02,0:00:15.06,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se {\1c&HFF00&\u1}mi{\r} sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.06,0:00:15.08,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.08,0:00:15.22,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi {\1c&HFF00&\u1}sentite{\r} vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.22,0:00:15.24,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.24,0:00:15.38,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite {\1c&HFF00&\u1}vediamo{\r} in quanti mi sentono
+Dialogue: 0,0:00:15.38,0:00:15.40,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.40,0:00:15.44,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo {\1c&HFF00&\u1}in{\r} quanti mi sentono
+Dialogue: 0,0:00:15.44,0:00:15.46,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.46,0:00:15.58,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in {\1c&HFF00&\u1}quanti{\r} mi sentono
+Dialogue: 0,0:00:15.58,0:00:15.60,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.60,0:00:15.64,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti {\1c&HFF00&\u1}mi{\r} sentono
+Dialogue: 0,0:00:15.64,0:00:15.68,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi sentono
+Dialogue: 0,0:00:15.68,0:00:15.82,Default,,0,0,0,,sondaggio faccio un sondaggio vediamo se mi sentite vediamo in quanti mi {\1c&HFF00&\u1}sentono{\r}
+Dialogue: 0,0:00:24.32,0:00:24.60,Default,,0,0,0,,{\1c&HFF00&\u1}ok{\r} vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:24.60,0:00:24.77,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:24.77,0:00:25.19,Default,,0,0,0,,ok {\1c&HFF00&\u1}vediamo{\r} vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:25.19,0:00:25.25,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:25.25,0:00:25.63,Default,,0,0,0,,ok vediamo {\1c&HFF00&\u1}vediamo{\r} sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:25.63,0:00:26.71,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:26.71,0:00:26.85,Default,,0,0,0,,ok vediamo vediamo {\1c&HFF00&\u1}sì{\r} sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:26.85,0:00:26.97,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:26.97,0:00:27.07,Default,,0,0,0,,ok vediamo vediamo sì {\1c&HFF00&\u1}sì{\r} sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:27.07,0:00:27.17,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:27.17,0:00:27.33,Default,,0,0,0,,ok vediamo vediamo sì sì {\1c&HFF00&\u1}sì{\r} ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:27.33,0:00:27.35,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:27.35,0:00:27.49,Default,,0,0,0,,ok vediamo vediamo sì sì sì {\1c&HFF00&\u1}ora{\r} sì ok allora sì ci siamo
+Dialogue: 0,0:00:27.49,0:00:27.55,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:27.55,0:00:27.73,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora {\1c&HFF00&\u1}sì{\r} ok allora sì ci siamo
+Dialogue: 0,0:00:27.73,0:00:27.91,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:27.91,0:00:28.23,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì {\1c&HFF00&\u1}ok{\r} allora sì ci siamo
+Dialogue: 0,0:00:28.23,0:00:28.61,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:28.61,0:00:28.87,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok {\1c&HFF00&\u1}allora{\r} sì ci siamo
+Dialogue: 0,0:00:28.87,0:00:28.93,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:28.93,0:00:29.05,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora {\1c&HFF00&\u1}sì{\r} ci siamo
+Dialogue: 0,0:00:29.05,0:00:30.40,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:30.40,0:00:30.46,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì {\1c&HFF00&\u1}ci{\r} siamo
+Dialogue: 0,0:00:30.46,0:00:30.54,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci siamo
+Dialogue: 0,0:00:30.54,0:00:30.80,Default,,0,0,0,,ok vediamo vediamo sì sì sì ora sì ok allora sì ci {\1c&HFF00&\u1}siamo{\r}
+Dialogue: 0,0:00:31.48,0:00:31.78,Default,,0,0,0,,{\1c&HFF00&\u1}antonio{\r} risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:31.78,0:00:31.82,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:31.82,0:00:32.18,Default,,0,0,0,,antonio {\1c&HFF00&\u1}risolto{\r} mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:32.18,0:00:32.24,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:32.24,0:00:32.30,Default,,0,0,0,,antonio risolto {\1c&HFF00&\u1}mi{\r} senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:32.30,0:00:32.32,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:32.32,0:00:32.68,Default,,0,0,0,,antonio risolto mi {\1c&HFF00&\u1}senti?{\r} sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:32.68,0:00:33.97,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:33.97,0:00:34.13,Default,,0,0,0,,antonio risolto mi senti? {\1c&HFF00&\u1}sì{\r} ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:34.13,0:00:34.19,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:34.19,0:00:34.53,Default,,0,0,0,,antonio risolto mi senti? sì {\1c&HFF00&\u1}ok{\r} dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:34.53,0:00:34.91,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:34.91,0:00:35.09,Default,,0,0,0,,antonio risolto mi senti? sì ok {\1c&HFF00&\u1}dai{\r} super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:35.09,0:00:35.15,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:35.15,0:00:35.57,Default,,0,0,0,,antonio risolto mi senti? sì ok dai {\1c&HFF00&\u1}super{\r} eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:35.57,0:00:36.63,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:36.63,0:00:36.71,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super {\1c&HFF00&\u1}eh{\r} sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:36.71,0:00:36.81,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:36.81,0:00:36.93,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh {\1c&HFF00&\u1}sì{\r} in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:36.93,0:00:36.95,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:36.95,0:00:36.99,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì {\1c&HFF00&\u1}in{\r} realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:36.99,0:00:37.03,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:37.03,0:00:37.31,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in {\1c&HFF00&\u1}realtà{\r} perché purtroppo gesticolo
+Dialogue: 0,0:00:37.31,0:00:37.39,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:37.39,0:00:37.81,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà {\1c&HFF00&\u1}perché{\r} purtroppo gesticolo
+Dialogue: 0,0:00:37.81,0:00:38.03,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:38.03,0:00:38.65,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché {\1c&HFF00&\u1}purtroppo{\r} gesticolo
+Dialogue: 0,0:00:38.65,0:00:38.79,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo gesticolo
+Dialogue: 0,0:00:38.79,0:00:39.28,Default,,0,0,0,,antonio risolto mi senti? sì ok dai super eh sì in realtà perché purtroppo {\1c&HFF00&\u1}gesticolo{\r}
+Dialogue: 0,0:00:40.24,0:00:40.30,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:40.30,0:00:40.36,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:40.36,0:00:40.74,Default,,0,0,0,,e {\1c&HFF00&\u1}quindi{\r} ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:40.74,0:00:40.98,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:40.98,0:00:41.04,Default,,0,0,0,,e quindi {\1c&HFF00&\u1}ho{\r} il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:41.04,0:00:41.06,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:41.06,0:00:41.12,Default,,0,0,0,,e quindi ho {\1c&HFF00&\u1}il{\r} microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:41.12,0:00:41.16,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:41.16,0:00:41.58,Default,,0,0,0,,e quindi ho il {\1c&HFF00&\u1}microfono{\r} qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:41.58,0:00:41.72,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:41.72,0:00:41.88,Default,,0,0,0,,e quindi ho il microfono {\1c&HFF00&\u1}qui{\r} esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:41.88,0:00:42.24,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:42.24,0:00:42.76,Default,,0,0,0,,e quindi ho il microfono qui {\1c&HFF00&\u1}esattamente{\r} qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:42.76,0:00:42.90,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:42.90,0:00:43.06,Default,,0,0,0,,e quindi ho il microfono qui esattamente {\1c&HFF00&\u1}qui{\r} e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:43.06,0:00:43.87,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:43.87,0:00:44.21,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui {\1c&HFF00&\u1}e{\r} gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.21,0:00:44.29,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.29,0:00:44.35,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e {\1c&HFF00&\u1}gli{\r} ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.35,0:00:44.37,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.37,0:00:44.41,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli {\1c&HFF00&\u1}ho{\r} dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.41,0:00:44.47,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.47,0:00:44.61,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho {\1c&HFF00&\u1}dato{\r} un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.61,0:00:44.65,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.65,0:00:44.73,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato {\1c&HFF00&\u1}un{\r} colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.73,0:00:44.77,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:44.77,0:00:45.33,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un {\1c&HFF00&\u1}colpettino{\r} per sbaglio quindi
+Dialogue: 0,0:00:45.33,0:00:45.37,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:45.37,0:00:45.47,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino {\1c&HFF00&\u1}per{\r} sbaglio quindi
+Dialogue: 0,0:00:45.47,0:00:45.53,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:45.53,0:00:45.91,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per {\1c&HFF00&\u1}sbaglio{\r} quindi
+Dialogue: 0,0:00:45.91,0:00:46.17,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio quindi
+Dialogue: 0,0:00:46.17,0:00:46.35,Default,,0,0,0,,e quindi ho il microfono qui esattamente qui e gli ho dato un colpettino per sbaglio {\1c&HFF00&\u1}quindi{\r}
+Dialogue: 0,0:00:46.32,0:00:46.68,Default,,0,0,0,,{\1c&HFF00&\u1}perdono.{\r}

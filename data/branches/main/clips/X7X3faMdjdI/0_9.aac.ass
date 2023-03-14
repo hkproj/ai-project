@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.14,0:00:0.22,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:0.22,0:00:0.26,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:0.26,0:00:0.32,Default,,0,0,0,,non {\1c&HFF00&\u1}si{\r} capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:0.32,0:00:0.36,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:0.36,0:00:0.84,Default,,0,0,0,,non si {\1c&HFF00&\u1}capisce{\r} quanto devono mettere tutti le amici
+Dialogue: 0,0:00:0.84,0:00:0.96,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:0.96,0:00:1.22,Default,,0,0,0,,non si capisce {\1c&HFF00&\u1}quanto{\r} devono mettere tutti le amici
+Dialogue: 0,0:00:1.22,0:00:1.29,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:1.29,0:00:1.55,Default,,0,0,0,,non si capisce quanto {\1c&HFF00&\u1}devono{\r} mettere tutti le amici
+Dialogue: 0,0:00:1.55,0:00:1.63,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:1.63,0:00:1.95,Default,,0,0,0,,non si capisce quanto devono {\1c&HFF00&\u1}mettere{\r} tutti le amici
+Dialogue: 0,0:00:1.95,0:00:2.25,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:2.25,0:00:2.45,Default,,0,0,0,,non si capisce quanto devono mettere {\1c&HFF00&\u1}tutti{\r} le amici
+Dialogue: 0,0:00:2.45,0:00:2.53,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:2.53,0:00:2.57,Default,,0,0,0,,non si capisce quanto devono mettere tutti {\1c&HFF00&\u1}le{\r} amici
+Dialogue: 0,0:00:2.57,0:00:2.61,Default,,0,0,0,,non si capisce quanto devono mettere tutti le amici
+Dialogue: 0,0:00:2.61,0:00:2.95,Default,,0,0,0,,non si capisce quanto devono mettere tutti le {\1c&HFF00&\u1}amici{\r}
+Dialogue: 0,0:00:3.00,0:00:4.22,Default,,0,0,0,,{\1c&HFF00&\u1}presumo{\r} che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:4.22,0:00:4.26,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:4.26,0:00:4.34,Default,,0,0,0,,presumo {\1c&HFF00&\u1}che{\r} sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:4.34,0:00:4.44,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:4.44,0:00:4.58,Default,,0,0,0,,presumo che {\1c&HFF00&\u1}sia{\r} capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:4.58,0:00:4.64,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:4.64,0:00:5.09,Default,,0,0,0,,presumo che sia {\1c&HFF00&\u1}capitato{\r} anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.09,0:00:5.29,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.29,0:00:5.49,Default,,0,0,0,,presumo che sia capitato {\1c&HFF00&\u1}anche{\r} a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.49,0:00:5.55,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.55,0:00:5.57,Default,,0,0,0,,presumo che sia capitato anche {\1c&HFF00&\u1}a{\r} te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.57,0:00:5.71,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.71,0:00:5.91,Default,,0,0,0,,presumo che sia capitato anche a {\1c&HFF00&\u1}te,{\r} c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.91,0:00:5.97,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:5.97,0:00:6.07,Default,,0,0,0,,presumo che sia capitato anche a te, {\1c&HFF00&\u1}c'è{\r} chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.07,0:00:6.11,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.11,0:00:6.21,Default,,0,0,0,,presumo che sia capitato anche a te, c'è {\1c&HFF00&\u1}chi{\r} mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.21,0:00:6.25,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.25,0:00:6.47,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi {\1c&HFF00&\u1}mette{\r} di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.47,0:00:6.51,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.51,0:00:6.57,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette {\1c&HFF00&\u1}di{\r} più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.57,0:00:6.63,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.63,0:00:6.73,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di {\1c&HFF00&\u1}più{\r} chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.73,0:00:6.87,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.87,0:00:6.95,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più {\1c&HFF00&\u1}chi{\r} meno, chi non pagherà mai
+Dialogue: 0,0:00:6.95,0:00:6.99,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:6.99,0:00:7.19,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi {\1c&HFF00&\u1}meno,{\r} chi non pagherà mai
+Dialogue: 0,0:00:7.19,0:00:7.23,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:7.23,0:00:7.31,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, {\1c&HFF00&\u1}chi{\r} non pagherà mai
+Dialogue: 0,0:00:7.31,0:00:7.33,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:7.33,0:00:7.45,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi {\1c&HFF00&\u1}non{\r} pagherà mai
+Dialogue: 0,0:00:7.45,0:00:7.47,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:7.47,0:00:7.79,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non {\1c&HFF00&\u1}pagherà{\r} mai
+Dialogue: 0,0:00:7.79,0:00:7.87,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà mai
+Dialogue: 0,0:00:7.87,0:00:8.11,Default,,0,0,0,,presumo che sia capitato anche a te, c'è chi mette di più chi meno, chi non pagherà {\1c&HFF00&\u1}mai{\r}
+Dialogue: 0,0:00:8.24,0:00:8.38,Default,,0,0,0,,{\1c&HFF00&\u1}Con{\r} quest'app viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:8.38,0:00:8.42,Default,,0,0,0,,Con quest'app viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:8.42,0:00:9.17,Default,,0,0,0,,Con {\1c&HFF00&\u1}quest'app{\r} viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:9.17,0:00:9.29,Default,,0,0,0,,Con quest'app viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:9.29,0:00:9.49,Default,,0,0,0,,Con quest'app {\1c&HFF00&\u1}viene{\r} tenuto tutto sotto controllo.
+Dialogue: 0,0:00:9.49,0:00:9.53,Default,,0,0,0,,Con quest'app viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:9.53,0:00:9.83,Default,,0,0,0,,Con quest'app viene {\1c&HFF00&\u1}tenuto{\r} tutto sotto controllo.
+Dialogue: 0,0:00:9.83,0:00:9.91,Default,,0,0,0,,Con quest'app viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:9.91,0:00:10.15,Default,,0,0,0,,Con quest'app viene tenuto {\1c&HFF00&\u1}tutto{\r} sotto controllo.
+Dialogue: 0,0:00:10.15,0:00:10.19,Default,,0,0,0,,Con quest'app viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:10.19,0:00:10.39,Default,,0,0,0,,Con quest'app viene tenuto tutto {\1c&HFF00&\u1}sotto{\r} controllo.
+Dialogue: 0,0:00:10.39,0:00:10.43,Default,,0,0,0,,Con quest'app viene tenuto tutto sotto controllo.
+Dialogue: 0,0:00:10.43,0:00:11.04,Default,,0,0,0,,Con quest'app viene tenuto tutto sotto {\1c&HFF00&\u1}controllo.{\r}

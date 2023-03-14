@@ -1,0 +1,907 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.06,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.06,0:00:0.08,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.08,0:00:0.66,Default,,0,0,0,,in {\1c&HFF00&\u1}diversi{\r} orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.68,0:00:0.84,Default,,0,0,0,,in diversi {\1c&HFF00&\u1}orari{\r} e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.84,0:00:0.86,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.86,0:00:0.88,Default,,0,0,0,,in diversi orari {\1c&HFF00&\u1}e{\r} pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.88,0:00:0.92,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:0.92,0:00:1.36,Default,,0,0,0,,in diversi orari e {\1c&HFF00&\u1}pubblicare{\r} tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:1.36,0:00:1.42,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:1.42,0:00:1.60,Default,,0,0,0,,in diversi orari e pubblicare {\1c&HFF00&\u1}tutti{\r} insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:1.60,0:00:1.66,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:1.66,0:00:1.98,Default,,0,0,0,,in diversi orari e pubblicare tutti {\1c&HFF00&\u1}insieme.{\r} Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:1.98,0:00:2.67,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:2.67,0:00:3.09,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. {\1c&HFF00&\u1}Allora,{\r} oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:3.09,0:00:3.29,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:3.29,0:00:3.67,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, {\1c&HFF00&\u1}oggi{\r} con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:3.67,0:00:4.89,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:4.89,0:00:5.15,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi {\1c&HFF00&\u1}con{\r} il nuovo algoritmo ti dico
+Dialogue: 0,0:00:5.15,0:00:5.17,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:5.17,0:00:5.23,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con {\1c&HFF00&\u1}il{\r} nuovo algoritmo ti dico
+Dialogue: 0,0:00:5.23,0:00:5.27,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:5.27,0:00:5.39,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il {\1c&HFF00&\u1}nuovo{\r} algoritmo ti dico
+Dialogue: 0,0:00:5.39,0:00:5.43,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:5.43,0:00:5.99,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo {\1c&HFF00&\u1}algoritmo{\r} ti dico
+Dialogue: 0,0:00:5.99,0:00:6.07,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:6.07,0:00:6.13,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo {\1c&HFF00&\u1}ti{\r} dico
+Dialogue: 0,0:00:6.13,0:00:6.19,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti dico
+Dialogue: 0,0:00:6.19,0:00:6.44,Default,,0,0,0,,in diversi orari e pubblicare tutti insieme. Allora, oggi con il nuovo algoritmo ti {\1c&HFF00&\u1}dico{\r}
+Dialogue: 0,0:00:6.78,0:00:6.90,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:6.90,0:00:6.92,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:6.92,0:00:7.32,Default,,0,0,0,,non {\1c&HFF00&\u1}pubblicare{\r} più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.32,0:00:7.36,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.36,0:00:7.46,Default,,0,0,0,,non pubblicare {\1c&HFF00&\u1}più{\r} di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.46,0:00:7.50,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.50,0:00:7.56,Default,,0,0,0,,non pubblicare più {\1c&HFF00&\u1}di{\r} due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.56,0:00:7.62,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.62,0:00:7.72,Default,,0,0,0,,non pubblicare più di {\1c&HFF00&\u1}due{\r} video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.72,0:00:7.76,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.76,0:00:7.92,Default,,0,0,0,,non pubblicare più di due {\1c&HFF00&\u1}video{\r} al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.92,0:00:7.98,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:7.98,0:00:8.06,Default,,0,0,0,,non pubblicare più di due video {\1c&HFF00&\u1}al{\r} giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.06,0:00:8.08,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.08,0:00:8.43,Default,,0,0,0,,non pubblicare più di due video al {\1c&HFF00&\u1}giorno{\r} perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.43,0:00:8.67,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.67,0:00:8.85,Default,,0,0,0,,non pubblicare più di due video al giorno {\1c&HFF00&\u1}perché{\r} ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.85,0:00:8.87,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.87,0:00:8.91,Default,,0,0,0,,non pubblicare più di due video al giorno perché {\1c&HFF00&\u1}ha{\r} poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.91,0:00:8.97,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:8.97,0:00:9.13,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha {\1c&HFF00&\u1}poco{\r} senso. TikTok non li spinge
+Dialogue: 0,0:00:9.13,0:00:9.17,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:9.17,0:00:9.51,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco {\1c&HFF00&\u1}senso.{\r} TikTok non li spinge
+Dialogue: 0,0:00:9.51,0:00:9.99,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:9.99,0:00:10.35,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. {\1c&HFF00&\u1}TikTok{\r} non li spinge
+Dialogue: 0,0:00:10.35,0:00:10.39,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:10.39,0:00:10.47,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok {\1c&HFF00&\u1}non{\r} li spinge
+Dialogue: 0,0:00:10.47,0:00:10.55,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:10.55,0:00:10.59,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non {\1c&HFF00&\u1}li{\r} spinge
+Dialogue: 0,0:00:10.59,0:00:10.63,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li spinge
+Dialogue: 0,0:00:10.63,0:00:11.01,Default,,0,0,0,,non pubblicare più di due video al giorno perché ha poco senso. TikTok non li {\1c&HFF00&\u1}spinge{\r}
+Dialogue: 0,0:00:12.38,0:00:12.60,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.60,0:00:12.62,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.62,0:00:12.70,Default,,0,0,0,,non {\1c&HFF00&\u1}alla{\r} stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.70,0:00:12.72,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.72,0:00:12.84,Default,,0,0,0,,non alla {\1c&HFF00&\u1}stessa{\r} ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.84,0:00:12.88,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.88,0:00:12.94,Default,,0,0,0,,non alla stessa {\1c&HFF00&\u1}ora.{\r} Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.94,0:00:12.96,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:12.96,0:00:13.02,Default,,0,0,0,,non alla stessa ora. {\1c&HFF00&\u1}Non{\r} alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.02,0:00:13.04,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.04,0:00:13.12,Default,,0,0,0,,non alla stessa ora. Non {\1c&HFF00&\u1}alla{\r} stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.12,0:00:13.16,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.16,0:00:13.39,Default,,0,0,0,,non alla stessa ora. Non alla {\1c&HFF00&\u1}stessa{\r} ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.39,0:00:13.43,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.43,0:00:13.57,Default,,0,0,0,,non alla stessa ora. Non alla stessa {\1c&HFF00&\u1}ora{\r} perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.57,0:00:13.67,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:13.67,0:00:14.23,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora {\1c&HFF00&\u1}perché{\r} si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:14.23,0:00:15.61,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:15.61,0:00:15.69,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché {\1c&HFF00&\u1}si{\r} sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:15.69,0:00:15.75,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:15.75,0:00:15.99,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si {\1c&HFF00&\u1}sta{\r} tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:15.99,0:00:16.21,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:16.21,0:00:16.47,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta {\1c&HFF00&\u1}tanto{\r} restringendo proprio l'algoritmo
+Dialogue: 0,0:00:16.47,0:00:16.53,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:16.53,0:00:17.29,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto {\1c&HFF00&\u1}restringendo{\r} proprio l'algoritmo
+Dialogue: 0,0:00:17.29,0:00:17.35,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:17.35,0:00:17.57,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo {\1c&HFF00&\u1}proprio{\r} l'algoritmo
+Dialogue: 0,0:00:17.57,0:00:17.61,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio l'algoritmo
+Dialogue: 0,0:00:17.61,0:00:18.16,Default,,0,0,0,,non alla stessa ora. Non alla stessa ora perché si sta tanto restringendo proprio {\1c&HFF00&\u1}l'algoritmo{\r}
+Dialogue: 0,0:00:18.12,0:00:18.62,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:18.62,0:00:18.76,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:18.76,0:00:18.88,Default,,0,0,0,,e {\1c&HFF00&\u1}quindi{\r} cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:18.88,0:00:18.90,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:18.90,0:00:19.00,Default,,0,0,0,,e quindi {\1c&HFF00&\u1}cosa{\r} sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.00,0:00:19.02,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.02,0:00:19.08,Default,,0,0,0,,e quindi cosa {\1c&HFF00&\u1}sta{\r} accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.08,0:00:19.24,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.24,0:00:19.46,Default,,0,0,0,,e quindi cosa sta {\1c&HFF00&\u1}accadendo?{\r} Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.46,0:00:19.48,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.48,0:00:19.58,Default,,0,0,0,,e quindi cosa sta accadendo? {\1c&HFF00&\u1}Che{\r} TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.58,0:00:19.68,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.68,0:00:19.95,Default,,0,0,0,,e quindi cosa sta accadendo? Che {\1c&HFF00&\u1}TikTok{\r} sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.95,0:00:19.97,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:19.97,0:00:20.07,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok {\1c&HFF00&\u1}sta{\r} iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:20.07,0:00:20.13,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:20.13,0:00:20.49,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta {\1c&HFF00&\u1}iniziando{\r} a segnalare profili senza un motivo.
+Dialogue: 0,0:00:20.49,0:00:20.55,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:20.55,0:00:20.59,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando {\1c&HFF00&\u1}a{\r} segnalare profili senza un motivo.
+Dialogue: 0,0:00:20.59,0:00:20.95,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:20.95,0:00:21.43,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a {\1c&HFF00&\u1}segnalare{\r} profili senza un motivo.
+Dialogue: 0,0:00:21.43,0:00:21.51,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:21.51,0:00:21.87,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare {\1c&HFF00&\u1}profili{\r} senza un motivo.
+Dialogue: 0,0:00:21.87,0:00:21.93,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:21.93,0:00:22.13,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili {\1c&HFF00&\u1}senza{\r} un motivo.
+Dialogue: 0,0:00:22.13,0:00:22.17,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:22.17,0:00:22.23,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza {\1c&HFF00&\u1}un{\r} motivo.
+Dialogue: 0,0:00:22.23,0:00:22.27,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un motivo.
+Dialogue: 0,0:00:22.27,0:00:22.55,Default,,0,0,0,,e quindi cosa sta accadendo? Che TikTok sta iniziando a segnalare profili senza un {\1c&HFF00&\u1}motivo.{\r}
+Dialogue: 0,0:00:22.60,0:00:23.56,Default,,0,0,0,,{\1c&HFF00&\u1}Perché?{\r} Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:23.56,0:00:23.60,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:23.60,0:00:23.78,Default,,0,0,0,,Perché? {\1c&HFF00&\u1}Perché{\r} pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:23.78,0:00:23.84,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:23.84,0:00:24.08,Default,,0,0,0,,Perché? Perché {\1c&HFF00&\u1}pensa{\r} che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.08,0:00:24.14,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.14,0:00:24.22,Default,,0,0,0,,Perché? Perché pensa {\1c&HFF00&\u1}che{\r} tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.22,0:00:24.26,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.26,0:00:24.35,Default,,0,0,0,,Perché? Perché pensa che {\1c&HFF00&\u1}tu{\r} possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.35,0:00:24.39,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.39,0:00:24.57,Default,,0,0,0,,Perché? Perché pensa che tu {\1c&HFF00&\u1}possa{\r} essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.57,0:00:24.63,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.63,0:00:24.83,Default,,0,0,0,,Perché? Perché pensa che tu possa {\1c&HFF00&\u1}essere{\r} un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.83,0:00:24.89,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.89,0:00:24.97,Default,,0,0,0,,Perché? Perché pensa che tu possa essere {\1c&HFF00&\u1}un{\r} bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.97,0:00:24.99,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:24.99,0:00:25.29,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un {\1c&HFF00&\u1}bot.{\r} Perché se pubblichi due video, pom
+Dialogue: 0,0:00:25.29,0:00:26.09,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:26.09,0:00:26.27,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. {\1c&HFF00&\u1}Perché{\r} se pubblichi due video, pom
+Dialogue: 0,0:00:26.27,0:00:26.29,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:26.29,0:00:26.37,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché {\1c&HFF00&\u1}se{\r} pubblichi due video, pom
+Dialogue: 0,0:00:26.37,0:00:26.41,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:26.41,0:00:26.75,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se {\1c&HFF00&\u1}pubblichi{\r} due video, pom
+Dialogue: 0,0:00:26.75,0:00:26.79,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:26.79,0:00:26.89,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi {\1c&HFF00&\u1}due{\r} video, pom
+Dialogue: 0,0:00:26.89,0:00:26.93,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:26.93,0:00:27.13,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due {\1c&HFF00&\u1}video,{\r} pom
+Dialogue: 0,0:00:27.13,0:00:27.31,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, pom
+Dialogue: 0,0:00:27.31,0:00:27.45,Default,,0,0,0,,Perché? Perché pensa che tu possa essere un bot. Perché se pubblichi due video, {\1c&HFF00&\u1}pom{\r}
+Dialogue: 0,0:00:30.99,0:00:31.11,Default,,0,0,0,,{\1c&HFF00&\u1}pom?{\r} TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:31.11,0:00:31.17,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:31.17,0:00:31.65,Default,,0,0,0,,pom? {\1c&HFF00&\u1}TikTok{\r} si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:31.65,0:00:31.69,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:31.69,0:00:31.75,Default,,0,0,0,,pom? TikTok {\1c&HFF00&\u1}si{\r} inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:31.75,0:00:31.91,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:31.91,0:00:32.29,Default,,0,0,0,,pom? TikTok si {\1c&HFF00&\u1}inizia{\r} a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:32.29,0:00:32.37,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:32.37,0:00:32.39,Default,,0,0,0,,pom? TikTok si inizia {\1c&HFF00&\u1}a{\r} fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:32.39,0:00:32.43,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:32.43,0:00:32.67,Default,,0,0,0,,pom? TikTok si inizia a {\1c&HFF00&\u1}fare{\r} qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:32.67,0:00:32.69,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:32.69,0:00:33.29,Default,,0,0,0,,pom? TikTok si inizia a fare {\1c&HFF00&\u1}qualche{\r} domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.29,0:00:33.41,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.41,0:00:33.58,Default,,0,0,0,,pom? TikTok si inizia a fare qualche {\1c&HFF00&\u1}domanda.{\r} Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.58,0:00:33.60,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.60,0:00:33.72,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. {\1c&HFF00&\u1}Quindi,{\r} uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.72,0:00:33.74,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.74,0:00:33.80,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, {\1c&HFF00&\u1}uno{\r} di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.80,0:00:33.82,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.82,0:00:33.86,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno {\1c&HFF00&\u1}di{\r} pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.86,0:00:33.88,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:33.88,0:00:34.10,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di {\1c&HFF00&\u1}pomeriggio,{\r} uno la sera? Perfetto.
+Dialogue: 0,0:00:34.10,0:00:34.12,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:34.12,0:00:34.18,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, {\1c&HFF00&\u1}uno{\r} la sera? Perfetto.
+Dialogue: 0,0:00:34.18,0:00:34.20,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:34.20,0:00:34.24,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno {\1c&HFF00&\u1}la{\r} sera? Perfetto.
+Dialogue: 0,0:00:34.24,0:00:34.26,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:34.26,0:00:34.34,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la {\1c&HFF00&\u1}sera?{\r} Perfetto.
+Dialogue: 0,0:00:34.34,0:00:34.36,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? Perfetto.
+Dialogue: 0,0:00:34.36,0:00:34.52,Default,,0,0,0,,pom? TikTok si inizia a fare qualche domanda. Quindi, uno di pomeriggio, uno la sera? {\1c&HFF00&\u1}Perfetto.{\r}
+Dialogue: 0,0:00:33.44,0:00:34.08,Default,,0,0,0,,{\1c&HFF00&\u1}Uno{\r} al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.08,0:00:34.10,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.10,0:00:34.14,Default,,0,0,0,,Uno {\1c&HFF00&\u1}al{\r} mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.14,0:00:34.22,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.22,0:00:34.38,Default,,0,0,0,,Uno al {\1c&HFF00&\u1}mattino,{\r} uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.38,0:00:34.40,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.40,0:00:34.46,Default,,0,0,0,,Uno al mattino, {\1c&HFF00&\u1}uno{\r} la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.46,0:00:34.50,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.50,0:00:34.56,Default,,0,0,0,,Uno al mattino, uno {\1c&HFF00&\u1}la{\r} sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.56,0:00:34.60,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.60,0:00:34.82,Default,,0,0,0,,Uno al mattino, uno la {\1c&HFF00&\u1}sera?{\r} Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.82,0:00:34.98,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:34.98,0:00:35.42,Default,,0,0,0,,Uno al mattino, uno la sera? {\1c&HFF00&\u1}Perfetto,{\r} tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:35.42,0:00:35.73,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:35.73,0:00:35.91,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, {\1c&HFF00&\u1}tipo{\r} la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:35.91,0:00:35.95,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:35.95,0:00:36.01,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo {\1c&HFF00&\u1}la{\r} pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:36.01,0:00:36.07,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:36.07,0:00:36.41,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la {\1c&HFF00&\u1}pillola.{\r} Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:36.41,0:00:37.61,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:37.61,0:00:38.15,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. {\1c&HFF00&\u1}Perfetto.{\r} Pubblicane due, non alla stessa
+Dialogue: 0,0:00:38.15,0:00:38.77,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:38.77,0:00:39.19,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. {\1c&HFF00&\u1}Pubblicane{\r} due, non alla stessa
+Dialogue: 0,0:00:39.19,0:00:39.21,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:39.21,0:00:39.41,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane {\1c&HFF00&\u1}due,{\r} non alla stessa
+Dialogue: 0,0:00:39.41,0:00:40.03,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:40.03,0:00:40.15,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, {\1c&HFF00&\u1}non{\r} alla stessa
+Dialogue: 0,0:00:40.15,0:00:40.19,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:40.19,0:00:40.36,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non {\1c&HFF00&\u1}alla{\r} stessa
+Dialogue: 0,0:00:40.36,0:00:40.38,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla stessa
+Dialogue: 0,0:00:40.38,0:00:40.64,Default,,0,0,0,,Uno al mattino, uno la sera? Perfetto, tipo la pillola. Perfetto. Pubblicane due, non alla {\1c&HFF00&\u1}stessa{\r}
+Dialogue: 0,0:00:40.56,0:00:40.62,Default,,0,0,0,,{\1c&HFF00&\u1}ora.{\r} Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:40.62,0:00:44.49,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:44.49,0:00:44.63,Default,,0,0,0,,ora. {\1c&HFF00&\u1}Come{\r} usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:44.63,0:00:44.67,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:44.67,0:00:44.83,Default,,0,0,0,,ora. Come {\1c&HFF00&\u1}usare{\r} gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:44.83,0:00:44.87,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:44.87,0:00:44.95,Default,,0,0,0,,ora. Come usare {\1c&HFF00&\u1}gli{\r} hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:44.95,0:00:44.97,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:44.97,0:00:45.27,Default,,0,0,0,,ora. Come usare gli {\1c&HFF00&\u1}hashtag{\r} oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:45.27,0:00:45.39,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:45.39,0:00:45.57,Default,,0,0,0,,ora. Come usare gli hashtag {\1c&HFF00&\u1}oggi{\r} su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:45.57,0:00:45.61,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:45.61,0:00:45.69,Default,,0,0,0,,ora. Come usare gli hashtag oggi {\1c&HFF00&\u1}su{\r} TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:45.69,0:00:45.73,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:45.73,0:00:46.25,Default,,0,0,0,,ora. Come usare gli hashtag oggi su {\1c&HFF00&\u1}TikTok?{\r} Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:46.25,0:00:46.57,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:46.57,0:00:46.79,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? {\1c&HFF00&\u1}Quanti{\r} e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:46.79,0:00:46.81,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:46.81,0:00:46.83,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti {\1c&HFF00&\u1}e{\r} quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:46.83,0:00:46.87,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:46.87,0:00:47.03,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e {\1c&HFF00&\u1}quali{\r} usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:47.03,0:00:47.07,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:47.07,0:00:47.49,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali {\1c&HFF00&\u1}usarne?{\r} Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:47.49,0:00:47.99,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:47.99,0:00:48.41,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? {\1c&HFF00&\u1}Grazie.{\r} Il tizio dal tech,
+Dialogue: 0,0:00:48.41,0:00:49.02,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:49.02,0:00:49.08,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. {\1c&HFF00&\u1}Il{\r} tizio dal tech,
+Dialogue: 0,0:00:49.08,0:00:49.12,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:49.12,0:00:49.32,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il {\1c&HFF00&\u1}tizio{\r} dal tech,
+Dialogue: 0,0:00:49.32,0:00:49.34,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:49.34,0:00:49.46,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio {\1c&HFF00&\u1}dal{\r} tech,
+Dialogue: 0,0:00:49.46,0:00:49.48,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal tech,
+Dialogue: 0,0:00:49.48,0:00:49.64,Default,,0,0,0,,ora. Come usare gli hashtag oggi su TikTok? Quanti e quali usarne? Grazie. Il tizio dal {\1c&HFF00&\u1}tech,{\r}
+Dialogue: 0,0:00:51.12,0:00:51.62,Default,,0,0,0,,{\1c&HFF00&\u1}tra{\r} l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:51.62,0:00:51.64,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:51.64,0:00:52.03,Default,,0,0,0,,tra {\1c&HFF00&\u1}l'altro,{\r} è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.03,0:00:52.05,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.05,0:00:52.07,Default,,0,0,0,,tra l'altro, {\1c&HFF00&\u1}è{\r} un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.07,0:00:52.09,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.09,0:00:52.75,Default,,0,0,0,,tra l'altro, è {\1c&HFF00&\u1}un{\r} nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.75,0:00:52.77,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.77,0:00:52.85,Default,,0,0,0,,tra l'altro, è un {\1c&HFF00&\u1}nome{\r} fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.85,0:00:52.87,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:52.87,0:00:53.07,Default,,0,0,0,,tra l'altro, è un nome {\1c&HFF00&\u1}fantastico.{\r} Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.07,0:00:53.09,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.09,0:00:53.21,Default,,0,0,0,,tra l'altro, è un nome fantastico. {\1c&HFF00&\u1}Allora,{\r} non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.21,0:00:53.23,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.23,0:00:53.33,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, {\1c&HFF00&\u1}non{\r} mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.33,0:00:53.37,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.37,0:00:53.43,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non {\1c&HFF00&\u1}mi{\r} addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.43,0:00:53.47,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.47,0:00:53.97,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi {\1c&HFF00&\u1}addentro{\r} tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:53.97,0:00:54.05,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:54.05,0:00:54.79,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro {\1c&HFF00&\u1}tantissimo{\r} sugli hashtag perché ci
+Dialogue: 0,0:00:54.79,0:00:54.83,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:54.83,0:00:55.01,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo {\1c&HFF00&\u1}sugli{\r} hashtag perché ci
+Dialogue: 0,0:00:55.01,0:00:55.03,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:55.03,0:00:55.39,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli {\1c&HFF00&\u1}hashtag{\r} perché ci
+Dialogue: 0,0:00:55.39,0:00:55.43,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:55.43,0:00:55.75,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag {\1c&HFF00&\u1}perché{\r} ci
+Dialogue: 0,0:00:55.75,0:00:56.24,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché ci
+Dialogue: 0,0:00:56.24,0:00:56.28,Default,,0,0,0,,tra l'altro, è un nome fantastico. Allora, non mi addentro tantissimo sugli hashtag perché {\1c&HFF00&\u1}ci{\r}
+Dialogue: 0,0:00:56.44,0:00:56.82,Default,,0,0,0,,{\1c&HFF00&\u1}perdiamo{\r} però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:56.82,0:00:57.36,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.36,0:00:57.52,Default,,0,0,0,,perdiamo {\1c&HFF00&\u1}però{\r} ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.52,0:00:57.56,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.56,0:00:57.64,Default,,0,0,0,,perdiamo però {\1c&HFF00&\u1}ti{\r} do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.64,0:00:57.70,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.70,0:00:57.80,Default,,0,0,0,,perdiamo però ti {\1c&HFF00&\u1}do{\r} due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.80,0:00:57.84,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.84,0:00:57.94,Default,,0,0,0,,perdiamo però ti do {\1c&HFF00&\u1}due{\r} risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.94,0:00:57.99,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:57.99,0:00:58.37,Default,,0,0,0,,perdiamo però ti do due {\1c&HFF00&\u1}risposte{\r} secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:58.37,0:00:58.43,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:58.43,0:00:58.75,Default,,0,0,0,,perdiamo però ti do due risposte {\1c&HFF00&\u1}secche{\r} e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:58.75,0:00:58.91,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:58.91,0:00:58.95,Default,,0,0,0,,perdiamo però ti do due risposte secche {\1c&HFF00&\u1}e{\r} in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:58.95,0:00:59.01,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:59.01,0:00:59.09,Default,,0,0,0,,perdiamo però ti do due risposte secche e {\1c&HFF00&\u1}in{\r} caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:59.09,0:00:59.15,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:59.15,0:00:59.45,Default,,0,0,0,,perdiamo però ti do due risposte secche e in {\1c&HFF00&\u1}caso{\r} trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:59.45,0:00:59.87,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:00:59.87,0:01:0.09,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso {\1c&HFF00&\u1}trovi{\r} alcuni contenuti sul mio
+Dialogue: 0,0:01:0.09,0:01:0.13,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:01:0.13,0:01:0.41,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi {\1c&HFF00&\u1}alcuni{\r} contenuti sul mio
+Dialogue: 0,0:01:0.41,0:01:0.47,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:01:0.47,0:01:0.89,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni {\1c&HFF00&\u1}contenuti{\r} sul mio
+Dialogue: 0,0:01:0.89,0:01:0.93,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:01:0.93,0:01:1.07,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti {\1c&HFF00&\u1}sul{\r} mio
+Dialogue: 0,0:01:1.07,0:01:1.09,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul mio
+Dialogue: 0,0:01:1.09,0:01:1.17,Default,,0,0,0,,perdiamo però ti do due risposte secche e in caso trovi alcuni contenuti sul {\1c&HFF00&\u1}mio{\r}
+Dialogue: 0,0:01:1.14,0:01:1.46,Default,,0,0,0,,{\1c&HFF00&\u1}canale{\r} youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:1.46,0:01:1.48,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:1.48,0:01:1.82,Default,,0,0,0,,canale {\1c&HFF00&\u1}youtube{\r} in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:1.82,0:01:1.84,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:1.84,0:01:1.88,Default,,0,0,0,,canale youtube {\1c&HFF00&\u1}in{\r} cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:1.88,0:01:1.90,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:1.90,0:01:1.98,Default,,0,0,0,,canale youtube in {\1c&HFF00&\u1}cui{\r} ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:1.98,0:01:2.00,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:2.00,0:01:2.06,Default,,0,0,0,,canale youtube in cui {\1c&HFF00&\u1}ne{\r} parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:2.06,0:01:2.12,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:2.12,0:01:2.44,Default,,0,0,0,,canale youtube in cui ne {\1c&HFF00&\u1}parlo{\r} è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:2.44,0:01:2.79,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:2.79,0:01:2.83,Default,,0,0,0,,canale youtube in cui ne parlo {\1c&HFF00&\u1}è{\r} ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:2.83,0:01:2.87,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:2.87,0:01:3.33,Default,,0,0,0,,canale youtube in cui ne parlo è {\1c&HFF00&\u1}ovviamente{\r} approfondito quest'argomento
+Dialogue: 0,0:01:3.33,0:01:3.39,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:3.39,0:01:4.05,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente {\1c&HFF00&\u1}approfondito{\r} quest'argomento
+Dialogue: 0,0:01:4.05,0:01:4.11,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito quest'argomento
+Dialogue: 0,0:01:4.11,0:01:4.75,Default,,0,0,0,,canale youtube in cui ne parlo è ovviamente approfondito {\1c&HFF00&\u1}quest'argomento{\r}
+Dialogue: 0,0:01:4.42,0:01:5.14,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:5.14,0:01:5.16,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:5.16,0:01:5.58,Default,,0,0,0,,in {\1c&HFF00&\u1}tiktok{\r} masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:5.58,0:01:5.60,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:5.60,0:01:5.82,Default,,0,0,0,,in tiktok {\1c&HFF00&\u1}masters{\r} che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:5.82,0:01:5.84,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:5.84,0:01:5.90,Default,,0,0,0,,in tiktok masters {\1c&HFF00&\u1}che{\r} è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:5.90,0:01:6.02,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.02,0:01:6.06,Default,,0,0,0,,in tiktok masters che {\1c&HFF00&\u1}è{\r} il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.06,0:01:6.10,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.10,0:01:6.19,Default,,0,0,0,,in tiktok masters che è {\1c&HFF00&\u1}il{\r} corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.19,0:01:6.25,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.25,0:01:6.51,Default,,0,0,0,,in tiktok masters che è il {\1c&HFF00&\u1}corso{\r} di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.51,0:01:6.57,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.57,0:01:6.63,Default,,0,0,0,,in tiktok masters che è il corso {\1c&HFF00&\u1}di{\r} cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.63,0:01:6.65,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.65,0:01:6.73,Default,,0,0,0,,in tiktok masters che è il corso di {\1c&HFF00&\u1}cui{\r} vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.73,0:01:6.77,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.77,0:01:6.85,Default,,0,0,0,,in tiktok masters che è il corso di cui {\1c&HFF00&\u1}vi{\r} parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.85,0:01:6.91,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:6.91,0:01:7.21,Default,,0,0,0,,in tiktok masters che è il corso di cui vi {\1c&HFF00&\u1}parlerò{\r} tra poco come usare gli
+Dialogue: 0,0:01:7.21,0:01:7.29,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:7.29,0:01:7.39,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò {\1c&HFF00&\u1}tra{\r} poco come usare gli
+Dialogue: 0,0:01:7.39,0:01:7.49,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:7.49,0:01:8.47,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra {\1c&HFF00&\u1}poco{\r} come usare gli
+Dialogue: 0,0:01:8.47,0:01:8.53,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:8.53,0:01:8.75,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco {\1c&HFF00&\u1}come{\r} usare gli
+Dialogue: 0,0:01:8.75,0:01:8.89,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:8.89,0:01:9.13,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come {\1c&HFF00&\u1}usare{\r} gli
+Dialogue: 0,0:01:9.13,0:01:9.15,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare gli
+Dialogue: 0,0:01:9.15,0:01:9.25,Default,,0,0,0,,in tiktok masters che è il corso di cui vi parlerò tra poco come usare {\1c&HFF00&\u1}gli{\r}
+Dialogue: 0,0:01:13.29,0:01:15.97,Default,,0,0,0,,{\1c&HFF00&\u1}hashtag{\r} oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:15.97,0:01:16.79,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:16.79,0:01:16.87,Default,,0,0,0,,hashtag {\1c&HFF00&\u1}oggi{\r} non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:16.87,0:01:16.89,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:16.89,0:01:16.96,Default,,0,0,0,,hashtag oggi {\1c&HFF00&\u1}non{\r} andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:16.96,0:01:16.98,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:16.98,0:01:17.16,Default,,0,0,0,,hashtag oggi non {\1c&HFF00&\u1}andare{\r} oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.16,0:01:17.18,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.18,0:01:17.32,Default,,0,0,0,,hashtag oggi non andare {\1c&HFF00&\u1}oltre{\r} i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.32,0:01:17.36,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.36,0:01:17.38,Default,,0,0,0,,hashtag oggi non andare oltre {\1c&HFF00&\u1}i{\r} tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.38,0:01:17.40,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.40,0:01:17.48,Default,,0,0,0,,hashtag oggi non andare oltre i {\1c&HFF00&\u1}tre{\r} ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.48,0:01:17.50,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.50,0:01:17.54,Default,,0,0,0,,hashtag oggi non andare oltre i tre {\1c&HFF00&\u1}ti{\r} direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.54,0:01:17.56,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.56,0:01:17.68,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti {\1c&HFF00&\u1}direi{\r} o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.68,0:01:17.72,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.72,0:01:17.74,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi {\1c&HFF00&\u1}o{\r} ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.74,0:01:17.76,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.76,0:01:17.80,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o {\1c&HFF00&\u1}ne{\r} puoi usare sei ma su questo
+Dialogue: 0,0:01:17.80,0:01:17.82,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.82,0:01:17.90,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne {\1c&HFF00&\u1}puoi{\r} usare sei ma su questo
+Dialogue: 0,0:01:17.90,0:01:17.92,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:17.92,0:01:18.02,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi {\1c&HFF00&\u1}usare{\r} sei ma su questo
+Dialogue: 0,0:01:18.02,0:01:18.04,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:18.04,0:01:18.10,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare {\1c&HFF00&\u1}sei{\r} ma su questo
+Dialogue: 0,0:01:18.10,0:01:18.12,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:18.12,0:01:18.16,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei {\1c&HFF00&\u1}ma{\r} su questo
+Dialogue: 0,0:01:18.16,0:01:18.18,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:18.18,0:01:18.22,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma {\1c&HFF00&\u1}su{\r} questo
+Dialogue: 0,0:01:18.22,0:01:18.24,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su questo
+Dialogue: 0,0:01:18.24,0:01:18.36,Default,,0,0,0,,hashtag oggi non andare oltre i tre ti direi o ne puoi usare sei ma su {\1c&HFF00&\u1}questo{\r}
+Dialogue: 0,0:01:17.50,0:01:18.26,Default,,0,0,0,,{\1c&HFF00&\u1}poi{\r} ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.26,0:01:18.30,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.30,0:01:18.36,Default,,0,0,0,,poi {\1c&HFF00&\u1}ti{\r} dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.36,0:01:18.40,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.40,0:01:18.64,Default,,0,0,0,,poi ti {\1c&HFF00&\u1}dovrei{\r} dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.64,0:01:18.68,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.68,0:01:18.84,Default,,0,0,0,,poi ti dovrei {\1c&HFF00&\u1}dire{\r} come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.84,0:01:18.90,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:18.90,0:01:19.04,Default,,0,0,0,,poi ti dovrei dire {\1c&HFF00&\u1}come{\r} sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.04,0:01:19.08,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.08,0:01:19.25,Default,,0,0,0,,poi ti dovrei dire come {\1c&HFF00&\u1}sono{\r} divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.25,0:01:19.29,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.29,0:01:19.53,Default,,0,0,0,,poi ti dovrei dire come sono {\1c&HFF00&\u1}divisi{\r} gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.53,0:01:19.57,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.57,0:01:19.67,Default,,0,0,0,,poi ti dovrei dire come sono divisi {\1c&HFF00&\u1}gli{\r} hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.67,0:01:19.69,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:19.69,0:01:20.15,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli {\1c&HFF00&\u1}hashtag{\r} per semplificarti al massimo la
+Dialogue: 0,0:01:20.15,0:01:20.83,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:20.83,0:01:20.97,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag {\1c&HFF00&\u1}per{\r} semplificarti al massimo la
+Dialogue: 0,0:01:20.97,0:01:21.07,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:21.07,0:01:21.65,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per {\1c&HFF00&\u1}semplificarti{\r} al massimo la
+Dialogue: 0,0:01:21.65,0:01:21.69,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:21.69,0:01:21.77,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti {\1c&HFF00&\u1}al{\r} massimo la
+Dialogue: 0,0:01:21.77,0:01:21.81,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:21.81,0:01:22.11,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al {\1c&HFF00&\u1}massimo{\r} la
+Dialogue: 0,0:01:22.11,0:01:22.17,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo la
+Dialogue: 0,0:01:22.17,0:01:22.21,Default,,0,0,0,,poi ti dovrei dire come sono divisi gli hashtag per semplificarti al massimo {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:01:22.18,0:01:22.84,Default,,0,0,0,,{\1c&HFF00&\u1}vita,{\r} ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:22.84,0:01:22.86,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:22.86,0:01:22.90,Default,,0,0,0,,vita, {\1c&HFF00&\u1}ti{\r} dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:22.90,0:01:22.92,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:22.92,0:01:23.12,Default,,0,0,0,,vita, ti {\1c&HFF00&\u1}dico{\r} usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:23.12,0:01:23.18,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:23.18,0:01:23.42,Default,,0,0,0,,vita, ti dico {\1c&HFF00&\u1}usane{\r} tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:23.42,0:01:23.46,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:23.46,0:01:23.60,Default,,0,0,0,,vita, ti dico usane {\1c&HFF00&\u1}tre{\r} di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:23.60,0:01:25.85,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:25.85,0:01:25.91,Default,,0,0,0,,vita, ti dico usane tre {\1c&HFF00&\u1}di{\r} quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:25.91,0:01:25.95,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:25.95,0:01:26.13,Default,,0,0,0,,vita, ti dico usane tre di {\1c&HFF00&\u1}quelli{\r} che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:26.13,0:01:26.15,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:26.15,0:01:26.21,Default,,0,0,0,,vita, ti dico usane tre di quelli {\1c&HFF00&\u1}che{\r} io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:26.21,0:01:26.27,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:26.27,0:01:26.33,Default,,0,0,0,,vita, ti dico usane tre di quelli che {\1c&HFF00&\u1}io{\r} definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:26.33,0:01:26.37,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:26.37,0:01:26.81,Default,,0,0,0,,vita, ti dico usane tre di quelli che io {\1c&HFF00&\u1}definisco{\r} medi, cos'è un hashtag
+Dialogue: 0,0:01:26.81,0:01:26.89,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:26.89,0:01:27.17,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco {\1c&HFF00&\u1}medi,{\r} cos'è un hashtag
+Dialogue: 0,0:01:27.17,0:01:27.51,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:27.51,0:01:27.71,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, {\1c&HFF00&\u1}cos'è{\r} un hashtag
+Dialogue: 0,0:01:27.71,0:01:27.75,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:27.75,0:01:27.81,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è {\1c&HFF00&\u1}un{\r} hashtag
+Dialogue: 0,0:01:27.81,0:01:27.83,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un hashtag
+Dialogue: 0,0:01:27.83,0:01:28.11,Default,,0,0,0,,vita, ti dico usane tre di quelli che io definisco medi, cos'è un {\1c&HFF00&\u1}hashtag{\r}
+Dialogue: 0,0:01:28.10,0:01:29.06,Default,,0,0,0,,{\1c&HFF00&\u1}medio,{\r} vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.06,0:01:29.12,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.12,0:01:29.30,Default,,0,0,0,,medio, {\1c&HFF00&\u1}vai{\r} nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.30,0:01:29.34,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.34,0:01:29.52,Default,,0,0,0,,medio, vai {\1c&HFF00&\u1}nella{\r} barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.52,0:01:29.56,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.56,0:01:29.75,Default,,0,0,0,,medio, vai nella {\1c&HFF00&\u1}barra{\r} di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.75,0:01:29.79,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.79,0:01:29.87,Default,,0,0,0,,medio, vai nella barra {\1c&HFF00&\u1}di{\r} ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.87,0:01:29.91,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:29.91,0:01:30.27,Default,,0,0,0,,medio, vai nella barra di {\1c&HFF00&\u1}ricerca{\r} di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:30.27,0:01:30.31,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:30.31,0:01:30.37,Default,,0,0,0,,medio, vai nella barra di ricerca {\1c&HFF00&\u1}di{\r} TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:30.37,0:01:30.43,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:30.43,0:01:31.01,Default,,0,0,0,,medio, vai nella barra di ricerca di {\1c&HFF00&\u1}TikTok,{\r} inserisci l'argomento di cui
+Dialogue: 0,0:01:31.01,0:01:31.35,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:31.35,0:01:31.75,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, {\1c&HFF00&\u1}inserisci{\r} l'argomento di cui
+Dialogue: 0,0:01:31.75,0:01:31.83,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:31.83,0:01:32.31,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci {\1c&HFF00&\u1}l'argomento{\r} di cui
+Dialogue: 0,0:01:32.31,0:01:32.37,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:32.37,0:01:32.43,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento {\1c&HFF00&\u1}di{\r} cui
+Dialogue: 0,0:01:32.43,0:01:32.47,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di cui
+Dialogue: 0,0:01:32.47,0:01:32.55,Default,,0,0,0,,medio, vai nella barra di ricerca di TikTok, inserisci l'argomento di {\1c&HFF00&\u1}cui{\r}
+Dialogue: 0,0:01:32.50,0:01:32.92,Default,,0,0,0,,{\1c&HFF00&\u1}parli{\r} nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:32.92,0:01:32.94,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:32.94,0:01:33.06,Default,,0,0,0,,parli {\1c&HFF00&\u1}nel{\r} tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:33.06,0:01:33.10,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:33.10,0:01:33.18,Default,,0,0,0,,parli nel {\1c&HFF00&\u1}tuo{\r} video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:33.18,0:01:33.22,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:33.22,0:01:34.06,Default,,0,0,0,,parli nel tuo {\1c&HFF00&\u1}video,{\r} il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.06,0:01:34.08,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.08,0:01:34.16,Default,,0,0,0,,parli nel tuo video, {\1c&HFF00&\u1}il{\r} tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.16,0:01:34.23,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.23,0:01:34.45,Default,,0,0,0,,parli nel tuo video, il {\1c&HFF00&\u1}tizio{\r} del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.45,0:01:34.47,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.47,0:01:34.61,Default,,0,0,0,,parli nel tuo video, il tizio {\1c&HFF00&\u1}del{\r} tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.61,0:01:34.65,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.65,0:01:34.97,Default,,0,0,0,,parli nel tuo video, il tizio del {\1c&HFF00&\u1}tech{\r} immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:34.97,0:01:35.01,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:35.01,0:01:35.37,Default,,0,0,0,,parli nel tuo video, il tizio del tech {\1c&HFF00&\u1}immagino{\r} che tu parli di tecnologia,
+Dialogue: 0,0:01:35.37,0:01:35.43,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:35.43,0:01:35.49,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino {\1c&HFF00&\u1}che{\r} tu parli di tecnologia,
+Dialogue: 0,0:01:35.49,0:01:35.57,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:35.57,0:01:35.63,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che {\1c&HFF00&\u1}tu{\r} parli di tecnologia,
+Dialogue: 0,0:01:35.63,0:01:35.95,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:35.95,0:01:36.29,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu {\1c&HFF00&\u1}parli{\r} di tecnologia,
+Dialogue: 0,0:01:36.29,0:01:36.35,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:36.35,0:01:36.43,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli {\1c&HFF00&\u1}di{\r} tecnologia,
+Dialogue: 0,0:01:36.43,0:01:36.73,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di tecnologia,
+Dialogue: 0,0:01:36.73,0:01:37.33,Default,,0,0,0,,parli nel tuo video, il tizio del tech immagino che tu parli di {\1c&HFF00&\u1}tecnologia,{\r}
+Dialogue: 0,0:01:40.83,0:01:40.91,Default,,0,0,0,,{\1c&HFF00&\u1}tra{\r} l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:40.91,0:01:40.99,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:40.99,0:01:41.19,Default,,0,0,0,,tra {\1c&HFF00&\u1}l'altro{\r} sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:41.19,0:01:41.25,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:41.25,0:01:41.67,Default,,0,0,0,,tra l'altro {\1c&HFF00&\u1}sono{\r} un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:41.67,0:01:41.71,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:41.71,0:01:41.83,Default,,0,0,0,,tra l'altro sono {\1c&HFF00&\u1}un{\r} super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:41.83,0:01:42.43,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:42.43,0:01:42.77,Default,,0,0,0,,tra l'altro sono un {\1c&HFF00&\u1}super{\r} appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:42.77,0:01:43.10,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.10,0:01:43.36,Default,,0,0,0,,tra l'altro sono un super {\1c&HFF00&\u1}appassionato{\r} di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.36,0:01:43.38,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.38,0:01:43.42,Default,,0,0,0,,tra l'altro sono un super appassionato {\1c&HFF00&\u1}di{\r} tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.42,0:01:43.46,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.46,0:01:43.66,Default,,0,0,0,,tra l'altro sono un super appassionato di {\1c&HFF00&\u1}tecnologia,{\r} parli di tecnologia super,
+Dialogue: 0,0:01:43.66,0:01:43.68,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.68,0:01:43.78,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, {\1c&HFF00&\u1}parli{\r} di tecnologia super,
+Dialogue: 0,0:01:43.78,0:01:43.80,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.80,0:01:43.84,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli {\1c&HFF00&\u1}di{\r} tecnologia super,
+Dialogue: 0,0:01:43.84,0:01:43.86,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:43.86,0:01:44.06,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di {\1c&HFF00&\u1}tecnologia{\r} super,
+Dialogue: 0,0:01:44.06,0:01:44.08,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia super,
+Dialogue: 0,0:01:44.08,0:01:44.18,Default,,0,0,0,,tra l'altro sono un super appassionato di tecnologia, parli di tecnologia {\1c&HFF00&\u1}super,{\r}
+Dialogue: 0,0:01:43.36,0:01:43.62,Default,,0,0,0,,{\1c&HFF00&\u1}vai{\r} a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:43.62,0:01:43.64,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:43.64,0:01:43.66,Default,,0,0,0,,vai {\1c&HFF00&\u1}a{\r} inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:43.66,0:01:43.70,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:43.70,0:01:44.26,Default,,0,0,0,,vai a {\1c&HFF00&\u1}inserire{\r} una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:44.26,0:01:44.93,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:44.93,0:01:45.05,Default,,0,0,0,,vai a inserire {\1c&HFF00&\u1}una{\r} parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:45.05,0:01:45.11,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:45.11,0:01:45.45,Default,,0,0,0,,vai a inserire una {\1c&HFF00&\u1}parola{\r} nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:45.45,0:01:45.69,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:45.69,0:01:45.85,Default,,0,0,0,,vai a inserire una parola {\1c&HFF00&\u1}nella{\r} barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:45.85,0:01:45.89,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:45.89,0:01:46.07,Default,,0,0,0,,vai a inserire una parola nella {\1c&HFF00&\u1}barra{\r} di ricerca inerente al video che stai
+Dialogue: 0,0:01:46.07,0:01:46.11,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:46.11,0:01:46.19,Default,,0,0,0,,vai a inserire una parola nella barra {\1c&HFF00&\u1}di{\r} ricerca inerente al video che stai
+Dialogue: 0,0:01:46.19,0:01:46.25,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:46.25,0:01:46.73,Default,,0,0,0,,vai a inserire una parola nella barra di {\1c&HFF00&\u1}ricerca{\r} inerente al video che stai
+Dialogue: 0,0:01:46.73,0:01:47.15,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:47.15,0:01:47.51,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca {\1c&HFF00&\u1}inerente{\r} al video che stai
+Dialogue: 0,0:01:47.51,0:01:47.55,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:47.55,0:01:47.61,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente {\1c&HFF00&\u1}al{\r} video che stai
+Dialogue: 0,0:01:47.61,0:01:47.63,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:47.63,0:01:47.79,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al {\1c&HFF00&\u1}video{\r} che stai
+Dialogue: 0,0:01:47.79,0:01:47.81,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:47.81,0:01:47.89,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video {\1c&HFF00&\u1}che{\r} stai
+Dialogue: 0,0:01:47.89,0:01:47.95,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che stai
+Dialogue: 0,0:01:47.95,0:01:48.07,Default,,0,0,0,,vai a inserire una parola nella barra di ricerca inerente al video che {\1c&HFF00&\u1}stai{\r}
+Dialogue: 0,0:01:48.02,0:01:48.90,Default,,0,0,0,,{\1c&HFF00&\u1}creando{\r} esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:48.90,0:01:48.92,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:48.92,0:01:49.24,Default,,0,0,0,,creando {\1c&HFF00&\u1}esempio{\r} pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:49.24,0:01:49.28,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:49.28,0:01:49.99,Default,,0,0,0,,creando esempio {\1c&HFF00&\u1}pratico{\r} stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:49.99,0:01:50.01,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:50.01,0:01:50.17,Default,,0,0,0,,creando esempio pratico {\1c&HFF00&\u1}stai{\r} creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:50.17,0:01:50.21,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:50.21,0:01:50.47,Default,,0,0,0,,creando esempio pratico stai {\1c&HFF00&\u1}creando{\r} un video in cui parli della fotocamera di
+Dialogue: 0,0:01:50.47,0:01:50.53,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:50.53,0:01:50.59,Default,,0,0,0,,creando esempio pratico stai creando {\1c&HFF00&\u1}un{\r} video in cui parli della fotocamera di
+Dialogue: 0,0:01:50.59,0:01:50.61,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:50.61,0:01:50.87,Default,,0,0,0,,creando esempio pratico stai creando un {\1c&HFF00&\u1}video{\r} in cui parli della fotocamera di
+Dialogue: 0,0:01:50.87,0:01:51.01,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:51.01,0:01:51.07,Default,,0,0,0,,creando esempio pratico stai creando un video {\1c&HFF00&\u1}in{\r} cui parli della fotocamera di
+Dialogue: 0,0:01:51.07,0:01:51.09,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:51.09,0:01:51.21,Default,,0,0,0,,creando esempio pratico stai creando un video in {\1c&HFF00&\u1}cui{\r} parli della fotocamera di
+Dialogue: 0,0:01:51.21,0:01:51.25,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:51.25,0:01:51.51,Default,,0,0,0,,creando esempio pratico stai creando un video in cui {\1c&HFF00&\u1}parli{\r} della fotocamera di
+Dialogue: 0,0:01:51.51,0:01:51.57,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:51.57,0:01:51.95,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli {\1c&HFF00&\u1}della{\r} fotocamera di
+Dialogue: 0,0:01:51.95,0:01:52.47,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:52.47,0:01:52.95,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della {\1c&HFF00&\u1}fotocamera{\r} di
+Dialogue: 0,0:01:52.95,0:01:52.99,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera di
+Dialogue: 0,0:01:52.99,0:01:53.05,Default,,0,0,0,,creando esempio pratico stai creando un video in cui parli della fotocamera {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:01:53.06,0:01:54.44,Default,,0,0,0,,{\1c&HFF00&\u1}iphone{\r} sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:54.44,0:01:54.46,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:54.46,0:01:54.68,Default,,0,0,0,,iphone {\1c&HFF00&\u1}sparo{\r} o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:54.68,0:01:55.03,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:55.03,0:01:55.09,Default,,0,0,0,,iphone sparo {\1c&HFF00&\u1}o{\r} di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:55.09,0:01:55.15,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:55.15,0:01:55.29,Default,,0,0,0,,iphone sparo o {\1c&HFF00&\u1}di{\r} facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:55.29,0:01:55.85,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:55.85,0:01:56.09,Default,,0,0,0,,iphone sparo o di {\1c&HFF00&\u1}facciamo{\r} la più semplice di un gadget particolare
+Dialogue: 0,0:01:56.09,0:01:56.13,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:56.13,0:01:56.21,Default,,0,0,0,,iphone sparo o di facciamo {\1c&HFF00&\u1}la{\r} più semplice di un gadget particolare
+Dialogue: 0,0:01:56.21,0:01:56.23,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:56.23,0:01:56.31,Default,,0,0,0,,iphone sparo o di facciamo la {\1c&HFF00&\u1}più{\r} semplice di un gadget particolare
+Dialogue: 0,0:01:56.31,0:01:56.37,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:56.37,0:01:56.73,Default,,0,0,0,,iphone sparo o di facciamo la più {\1c&HFF00&\u1}semplice{\r} di un gadget particolare
+Dialogue: 0,0:01:56.73,0:01:57.15,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:57.15,0:01:57.23,Default,,0,0,0,,iphone sparo o di facciamo la più semplice {\1c&HFF00&\u1}di{\r} un gadget particolare
+Dialogue: 0,0:01:57.23,0:01:57.27,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:57.27,0:01:57.37,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di {\1c&HFF00&\u1}un{\r} gadget particolare
+Dialogue: 0,0:01:57.37,0:01:57.41,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:57.41,0:01:57.81,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un {\1c&HFF00&\u1}gadget{\r} particolare
+Dialogue: 0,0:01:57.81,0:01:57.89,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget particolare
+Dialogue: 0,0:01:57.89,0:01:58.41,Default,,0,0,0,,iphone sparo o di facciamo la più semplice di un gadget {\1c&HFF00&\u1}particolare{\r}
+Dialogue: 0,0:01:58.82,0:01:58.90,Default,,0,0,0,,{\1c&HFF00&\u1}ecco{\r} mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:58.90,0:01:58.92,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:58.92,0:01:59.04,Default,,0,0,0,,ecco {\1c&HFF00&\u1}mostri{\r} un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.04,0:01:59.06,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.06,0:01:59.10,Default,,0,0,0,,ecco mostri {\1c&HFF00&\u1}un{\r} gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.10,0:01:59.12,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.12,0:01:59.24,Default,,0,0,0,,ecco mostri un {\1c&HFF00&\u1}gadget{\r} no che serve a migliorare le foto
+Dialogue: 0,0:01:59.24,0:01:59.26,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.26,0:01:59.30,Default,,0,0,0,,ecco mostri un gadget {\1c&HFF00&\u1}no{\r} che serve a migliorare le foto
+Dialogue: 0,0:01:59.30,0:01:59.32,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.32,0:01:59.38,Default,,0,0,0,,ecco mostri un gadget no {\1c&HFF00&\u1}che{\r} serve a migliorare le foto
+Dialogue: 0,0:01:59.38,0:01:59.40,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.40,0:01:59.50,Default,,0,0,0,,ecco mostri un gadget no che {\1c&HFF00&\u1}serve{\r} a migliorare le foto
+Dialogue: 0,0:01:59.50,0:01:59.52,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.52,0:01:59.54,Default,,0,0,0,,ecco mostri un gadget no che serve {\1c&HFF00&\u1}a{\r} migliorare le foto
+Dialogue: 0,0:01:59.54,0:01:59.56,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.56,0:01:59.76,Default,,0,0,0,,ecco mostri un gadget no che serve a {\1c&HFF00&\u1}migliorare{\r} le foto
+Dialogue: 0,0:01:59.76,0:01:59.78,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.78,0:01:59.82,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare {\1c&HFF00&\u1}le{\r} foto
+Dialogue: 0,0:01:59.82,0:01:59.84,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le foto
+Dialogue: 0,0:01:59.84,0:01:59.92,Default,,0,0,0,,ecco mostri un gadget no che serve a migliorare le {\1c&HFF00&\u1}foto{\r}
+Dialogue: 0,0:02:3.70,0:02:3.92,Default,,0,0,0,,{\1c&HFF00&\u1}bene{\r} migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:3.92,0:02:4.54,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:4.54,0:02:4.92,Default,,0,0,0,,bene {\1c&HFF00&\u1}migliorare{\r} le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:4.92,0:02:4.98,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:4.98,0:02:5.04,Default,,0,0,0,,bene migliorare {\1c&HFF00&\u1}le{\r} foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.04,0:02:5.08,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.08,0:02:5.36,Default,,0,0,0,,bene migliorare le {\1c&HFF00&\u1}foto{\r} come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.36,0:02:5.42,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.42,0:02:5.57,Default,,0,0,0,,bene migliorare le foto {\1c&HFF00&\u1}come{\r} lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.57,0:02:5.63,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.63,0:02:5.69,Default,,0,0,0,,bene migliorare le foto come {\1c&HFF00&\u1}lo{\r} collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.69,0:02:5.73,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:5.73,0:02:6.07,Default,,0,0,0,,bene migliorare le foto come lo {\1c&HFF00&\u1}collego{\r} con una parola fotografia ok inserisco
+Dialogue: 0,0:02:6.07,0:02:6.13,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:6.13,0:02:6.27,Default,,0,0,0,,bene migliorare le foto come lo collego {\1c&HFF00&\u1}con{\r} una parola fotografia ok inserisco
+Dialogue: 0,0:02:6.27,0:02:6.31,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:6.31,0:02:6.43,Default,,0,0,0,,bene migliorare le foto come lo collego con {\1c&HFF00&\u1}una{\r} parola fotografia ok inserisco
+Dialogue: 0,0:02:6.43,0:02:6.47,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:6.47,0:02:6.85,Default,,0,0,0,,bene migliorare le foto come lo collego con una {\1c&HFF00&\u1}parola{\r} fotografia ok inserisco
+Dialogue: 0,0:02:6.85,0:02:7.55,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:7.55,0:02:8.17,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola {\1c&HFF00&\u1}fotografia{\r} ok inserisco
+Dialogue: 0,0:02:8.17,0:02:8.43,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:8.43,0:02:8.71,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia {\1c&HFF00&\u1}ok{\r} inserisco
+Dialogue: 0,0:02:8.71,0:02:9.11,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok inserisco
+Dialogue: 0,0:02:9.11,0:02:9.49,Default,,0,0,0,,bene migliorare le foto come lo collego con una parola fotografia ok {\1c&HFF00&\u1}inserisco{\r}
+Dialogue: 0,0:02:11.67,0:02:12.09,Default,,0,0,0,,{\1c&HFF00&\u1}nella{\r} barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:12.09,0:02:12.15,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:12.15,0:02:12.57,Default,,0,0,0,,nella {\1c&HFF00&\u1}barra{\r} di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:12.57,0:02:12.97,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:12.97,0:02:13.05,Default,,0,0,0,,nella barra {\1c&HFF00&\u1}di{\r} ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.05,0:02:13.11,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.11,0:02:13.41,Default,,0,0,0,,nella barra di {\1c&HFF00&\u1}ricerca{\r} fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.41,0:02:13.47,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.47,0:02:13.87,Default,,0,0,0,,nella barra di ricerca {\1c&HFF00&\u1}fotografia{\r} e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.87,0:02:13.89,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.89,0:02:13.91,Default,,0,0,0,,nella barra di ricerca fotografia {\1c&HFF00&\u1}e{\r} vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.91,0:02:13.93,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:13.93,0:02:14.66,Default,,0,0,0,,nella barra di ricerca fotografia e {\1c&HFF00&\u1}vedo{\r} cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:14.66,0:02:14.74,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:14.74,0:02:14.86,Default,,0,0,0,,nella barra di ricerca fotografia e vedo {\1c&HFF00&\u1}cosa{\r} mi esce se mi esce fotografia da
+Dialogue: 0,0:02:14.86,0:02:14.92,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:14.92,0:02:14.96,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa {\1c&HFF00&\u1}mi{\r} esce se mi esce fotografia da
+Dialogue: 0,0:02:14.96,0:02:14.98,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:14.98,0:02:15.06,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi {\1c&HFF00&\u1}esce{\r} se mi esce fotografia da
+Dialogue: 0,0:02:15.06,0:02:15.08,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:15.08,0:02:15.12,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce {\1c&HFF00&\u1}se{\r} mi esce fotografia da
+Dialogue: 0,0:02:15.12,0:02:15.14,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:15.14,0:02:15.18,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se {\1c&HFF00&\u1}mi{\r} esce fotografia da
+Dialogue: 0,0:02:15.18,0:02:15.20,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:15.20,0:02:15.30,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi {\1c&HFF00&\u1}esce{\r} fotografia da
+Dialogue: 0,0:02:15.30,0:02:15.32,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:15.32,0:02:15.52,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce {\1c&HFF00&\u1}fotografia{\r} da
+Dialogue: 0,0:02:15.52,0:02:15.54,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia da
+Dialogue: 0,0:02:15.54,0:02:15.58,Default,,0,0,0,,nella barra di ricerca fotografia e vedo cosa mi esce se mi esce fotografia {\1c&HFF00&\u1}da{\r}
+Dialogue: 0,0:02:13.98,0:02:14.76,Default,,0,0,0,,{\1c&HFF00&\u1}smartphone{\r} fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:14.76,0:02:14.78,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:14.78,0:02:15.20,Default,,0,0,0,,smartphone {\1c&HFF00&\u1}fotografia{\r} con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:15.20,0:02:15.26,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:15.26,0:02:15.38,Default,,0,0,0,,smartphone fotografia {\1c&HFF00&\u1}con{\r} iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:15.38,0:02:15.55,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:15.55,0:02:15.97,Default,,0,0,0,,smartphone fotografia con {\1c&HFF00&\u1}iphone{\r} vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:15.97,0:02:16.43,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:16.43,0:02:16.61,Default,,0,0,0,,smartphone fotografia con iphone {\1c&HFF00&\u1}vedo{\r} qual è quello più inerente al mio
+Dialogue: 0,0:02:16.61,0:02:16.65,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:16.65,0:02:16.79,Default,,0,0,0,,smartphone fotografia con iphone vedo {\1c&HFF00&\u1}qual{\r} è quello più inerente al mio
+Dialogue: 0,0:02:16.79,0:02:16.83,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:16.83,0:02:16.87,Default,,0,0,0,,smartphone fotografia con iphone vedo qual {\1c&HFF00&\u1}è{\r} quello più inerente al mio
+Dialogue: 0,0:02:16.87,0:02:16.91,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:16.91,0:02:17.13,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è {\1c&HFF00&\u1}quello{\r} più inerente al mio
+Dialogue: 0,0:02:17.13,0:02:17.21,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:17.21,0:02:17.31,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello {\1c&HFF00&\u1}più{\r} inerente al mio
+Dialogue: 0,0:02:17.31,0:02:17.37,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:17.37,0:02:17.75,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più {\1c&HFF00&\u1}inerente{\r} al mio
+Dialogue: 0,0:02:17.75,0:02:17.79,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:17.79,0:02:17.87,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente {\1c&HFF00&\u1}al{\r} mio
+Dialogue: 0,0:02:17.87,0:02:17.89,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al mio
+Dialogue: 0,0:02:17.89,0:02:17.97,Default,,0,0,0,,smartphone fotografia con iphone vedo qual è quello più inerente al {\1c&HFF00&\u1}mio{\r}
+Dialogue: 0,0:02:17.94,0:02:18.04,Default,,0,0,0,,{\1c&HFF00&\u1}video{\r} ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.04,0:02:18.06,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.06,0:02:18.10,Default,,0,0,0,,video {\1c&HFF00&\u1}ne{\r} prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.10,0:02:18.12,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.12,0:02:18.24,Default,,0,0,0,,video ne {\1c&HFF00&\u1}prendo{\r} tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.24,0:02:18.26,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.26,0:02:18.32,Default,,0,0,0,,video ne prendo {\1c&HFF00&\u1}tre{\r} che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.32,0:02:18.34,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.34,0:02:18.40,Default,,0,0,0,,video ne prendo tre {\1c&HFF00&\u1}che{\r} vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.40,0:02:18.42,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.42,0:02:18.52,Default,,0,0,0,,video ne prendo tre che {\1c&HFF00&\u1}vanno{\r} dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.52,0:02:18.54,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.54,0:02:18.60,Default,,0,0,0,,video ne prendo tre che vanno {\1c&HFF00&\u1}dai 100.000{\r} alle 400.000 views non di più
+Dialogue: 0,0:02:18.60,0:02:18.64,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.64,0:02:18.72,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 {\1c&HFF00&\u1}alle 400.000{\r} views non di più
+Dialogue: 0,0:02:18.72,0:02:18.76,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.76,0:02:18.86,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 {\1c&HFF00&\u1}views{\r} non di più
+Dialogue: 0,0:02:18.86,0:02:18.88,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.88,0:02:18.94,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views {\1c&HFF00&\u1}non{\r} di più
+Dialogue: 0,0:02:18.94,0:02:18.96,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:18.96,0:02:19.08,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non {\1c&HFF00&\u1}di{\r} più
+Dialogue: 0,0:02:19.08,0:02:19.10,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di più
+Dialogue: 0,0:02:19.10,0:02:19.16,Default,,0,0,0,,video ne prendo tre che vanno dai 100.000 alle 400.000 views non di {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:02:27.02,0:02:27.24,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:27.24,0:02:27.30,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:27.30,0:02:27.52,Default,,0,0,0,,perché {\1c&HFF00&\u1}dopo{\r} diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:27.52,0:02:27.58,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:27.58,0:02:27.98,Default,,0,0,0,,perché dopo {\1c&HFF00&\u1}diventano{\r} molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:27.98,0:02:28.02,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.02,0:02:28.27,Default,,0,0,0,,perché dopo diventano {\1c&HFF00&\u1}molto{\r} grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.27,0:02:28.35,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.35,0:02:28.63,Default,,0,0,0,,perché dopo diventano molto {\1c&HFF00&\u1}grandi{\r} il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.63,0:02:28.69,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.69,0:02:28.75,Default,,0,0,0,,perché dopo diventano molto grandi {\1c&HFF00&\u1}il{\r} tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.75,0:02:28.77,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.77,0:02:28.83,Default,,0,0,0,,perché dopo diventano molto grandi il {\1c&HFF00&\u1}tuo{\r} video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.83,0:02:28.89,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:28.89,0:02:29.07,Default,,0,0,0,,perché dopo diventano molto grandi il tuo {\1c&HFF00&\u1}video{\r} rischi di perdersi prima cioè
+Dialogue: 0,0:02:29.07,0:02:29.11,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:29.11,0:02:29.31,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video {\1c&HFF00&\u1}rischi{\r} di perdersi prima cioè
+Dialogue: 0,0:02:29.31,0:02:29.35,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:29.35,0:02:29.41,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi {\1c&HFF00&\u1}di{\r} perdersi prima cioè
+Dialogue: 0,0:02:29.41,0:02:29.45,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:29.45,0:02:29.99,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di {\1c&HFF00&\u1}perdersi{\r} prima cioè
+Dialogue: 0,0:02:29.99,0:02:31.19,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:31.19,0:02:31.55,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi {\1c&HFF00&\u1}prima{\r} cioè
+Dialogue: 0,0:02:31.55,0:02:31.75,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima cioè
+Dialogue: 0,0:02:31.75,0:02:31.85,Default,,0,0,0,,perché dopo diventano molto grandi il tuo video rischi di perdersi prima {\1c&HFF00&\u1}cioè{\r}
+Dialogue: 0,0:02:32.38,0:02:32.54,Default,,0,0,0,,{\1c&HFF00&\u1}meno{\r} di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:32.54,0:02:32.58,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:32.58,0:02:32.64,Default,,0,0,0,,meno {\1c&HFF00&\u1}di 100.000{\r} views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:32.64,0:02:32.92,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:32.92,0:02:33.30,Default,,0,0,0,,meno di 100.000 {\1c&HFF00&\u1}views{\r} sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:33.30,0:02:33.32,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:33.32,0:02:33.46,Default,,0,0,0,,meno di 100.000 views {\1c&HFF00&\u1}sono{\r} molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:33.46,0:02:33.53,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:33.53,0:02:33.79,Default,,0,0,0,,meno di 100.000 views sono {\1c&HFF00&\u1}molto{\r} piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:33.79,0:02:33.83,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:33.83,0:02:34.17,Default,,0,0,0,,meno di 100.000 views sono molto {\1c&HFF00&\u1}piccoli{\r} quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:34.17,0:02:34.65,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:34.65,0:02:34.87,Default,,0,0,0,,meno di 100.000 views sono molto piccoli {\1c&HFF00&\u1}quindi{\r} sta in quel range lì e usane tre
+Dialogue: 0,0:02:34.87,0:02:35.23,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:35.23,0:02:35.45,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi {\1c&HFF00&\u1}sta{\r} in quel range lì e usane tre
+Dialogue: 0,0:02:35.45,0:02:35.51,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:35.51,0:02:35.59,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta {\1c&HFF00&\u1}in{\r} quel range lì e usane tre
+Dialogue: 0,0:02:35.59,0:02:35.61,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:35.61,0:02:35.75,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in {\1c&HFF00&\u1}quel{\r} range lì e usane tre
+Dialogue: 0,0:02:35.75,0:02:35.77,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:35.77,0:02:36.03,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel {\1c&HFF00&\u1}range{\r} lì e usane tre
+Dialogue: 0,0:02:36.03,0:02:36.09,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:36.09,0:02:36.23,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range {\1c&HFF00&\u1}lì{\r} e usane tre
+Dialogue: 0,0:02:36.23,0:02:36.25,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:36.25,0:02:36.27,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì {\1c&HFF00&\u1}e{\r} usane tre
+Dialogue: 0,0:02:36.27,0:02:36.33,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:36.33,0:02:36.59,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e {\1c&HFF00&\u1}usane{\r} tre
+Dialogue: 0,0:02:36.59,0:02:36.63,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane tre
+Dialogue: 0,0:02:36.63,0:02:36.71,Default,,0,0,0,,meno di 100.000 views sono molto piccoli quindi sta in quel range lì e usane {\1c&HFF00&\u1}tre{\r}
+Dialogue: 0,0:02:37.26,0:02:37.30,Default,,0,0,0,,{\1c&HFF00&\u1}ne{\r} puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:37.30,0:02:37.32,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:37.32,0:02:37.40,Default,,0,0,0,,ne {\1c&HFF00&\u1}puoi{\r} usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:37.40,0:02:37.42,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:37.42,0:02:37.60,Default,,0,0,0,,ne puoi {\1c&HFF00&\u1}usare{\r} sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:37.60,0:02:37.68,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:37.68,0:02:37.84,Default,,0,0,0,,ne puoi usare {\1c&HFF00&\u1}sei{\r} ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:37.84,0:02:38.24,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:38.24,0:02:38.30,Default,,0,0,0,,ne puoi usare sei {\1c&HFF00&\u1}ma{\r} poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:38.30,0:02:38.34,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:38.34,0:02:38.46,Default,,0,0,0,,ne puoi usare sei ma {\1c&HFF00&\u1}poi{\r} la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:38.46,0:02:38.50,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:38.50,0:02:38.58,Default,,0,0,0,,ne puoi usare sei ma poi {\1c&HFF00&\u1}la{\r} strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:38.58,0:02:38.60,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:38.60,0:02:39.01,Default,,0,0,0,,ne puoi usare sei ma poi la {\1c&HFF00&\u1}strategia{\r} diventerebbe un po più complessa da
+Dialogue: 0,0:02:39.01,0:02:39.05,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:39.05,0:02:39.53,Default,,0,0,0,,ne puoi usare sei ma poi la strategia {\1c&HFF00&\u1}diventerebbe{\r} un po più complessa da
+Dialogue: 0,0:02:39.53,0:02:39.59,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:39.59,0:02:39.67,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe {\1c&HFF00&\u1}un{\r} po più complessa da
+Dialogue: 0,0:02:39.67,0:02:39.73,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:39.73,0:02:39.83,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un {\1c&HFF00&\u1}po{\r} più complessa da
+Dialogue: 0,0:02:39.83,0:02:39.97,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:39.97,0:02:40.09,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po {\1c&HFF00&\u1}più{\r} complessa da
+Dialogue: 0,0:02:40.09,0:02:40.65,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:40.65,0:02:41.25,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più {\1c&HFF00&\u1}complessa{\r} da
+Dialogue: 0,0:02:41.25,0:02:43.14,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa da
+Dialogue: 0,0:02:43.14,0:02:43.20,Default,,0,0,0,,ne puoi usare sei ma poi la strategia diventerebbe un po più complessa {\1c&HFF00&\u1}da{\r}
+Dialogue: 0,0:02:43.06,0:02:43.64,Default,,0,0,0,,{\1c&HFF00&\u1}spiegare{\r} adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:43.64,0:02:43.66,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:43.66,0:02:44.32,Default,,0,0,0,,spiegare {\1c&HFF00&\u1}adesso{\r} usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:44.32,0:02:44.36,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:44.36,0:02:44.60,Default,,0,0,0,,spiegare adesso {\1c&HFF00&\u1}usale{\r} così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:44.60,0:02:44.66,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:44.66,0:02:44.85,Default,,0,0,0,,spiegare adesso usale {\1c&HFF00&\u1}così{\r} comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:44.85,0:02:44.91,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:44.91,0:02:45.23,Default,,0,0,0,,spiegare adesso usale così {\1c&HFF00&\u1}comunque{\r} che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:45.23,0:02:45.27,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:45.27,0:02:45.37,Default,,0,0,0,,spiegare adesso usale così comunque {\1c&HFF00&\u1}che{\r} ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:45.37,0:02:45.45,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:45.45,0:02:45.53,Default,,0,0,0,,spiegare adesso usale così comunque che {\1c&HFF00&\u1}ti{\r} assicuro vanno benissimo evita e
+Dialogue: 0,0:02:45.53,0:02:45.57,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:45.57,0:02:45.91,Default,,0,0,0,,spiegare adesso usale così comunque che ti {\1c&HFF00&\u1}assicuro{\r} vanno benissimo evita e
+Dialogue: 0,0:02:45.91,0:02:45.93,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:45.93,0:02:46.11,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro {\1c&HFF00&\u1}vanno{\r} benissimo evita e
+Dialogue: 0,0:02:46.11,0:02:46.17,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:46.17,0:02:46.57,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno {\1c&HFF00&\u1}benissimo{\r} evita e
+Dialogue: 0,0:02:46.57,0:02:47.11,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:47.11,0:02:47.61,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo {\1c&HFF00&\u1}evita{\r} e
+Dialogue: 0,0:02:47.61,0:02:47.81,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita e
+Dialogue: 0,0:02:47.81,0:02:47.83,Default,,0,0,0,,spiegare adesso usale così comunque che ti assicuro vanno benissimo evita {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:02:48.04,0:02:48.60,Default,,0,0,0,,{\1c&HFF00&\u1}FYP,{\r} Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:48.60,0:02:49.14,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:49.14,0:02:49.42,Default,,0,0,0,,FYP, {\1c&HFF00&\u1}Viral{\r} Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:49.42,0:02:49.52,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:49.52,0:02:50.11,Default,,0,0,0,,FYP, Viral {\1c&HFF00&\u1}Italia,{\r} Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:50.11,0:02:50.49,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:50.49,0:02:50.93,Default,,0,0,0,,FYP, Viral Italia, {\1c&HFF00&\u1}Viral{\r} eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:50.93,0:02:50.95,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:50.95,0:02:51.25,Default,,0,0,0,,FYP, Viral Italia, Viral {\1c&HFF00&\u1}eccetera{\r} eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:51.25,0:02:51.29,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:51.29,0:02:52.39,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera {\1c&HFF00&\u1}eccetera.{\r} Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:52.39,0:02:52.43,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:52.43,0:02:52.97,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. {\1c&HFF00&\u1}Piuttosto{\r} niente, perché secondo me hanno
+Dialogue: 0,0:02:52.97,0:02:53.09,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:53.09,0:02:53.45,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto {\1c&HFF00&\u1}niente,{\r} perché secondo me hanno
+Dialogue: 0,0:02:53.45,0:02:54.01,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:54.01,0:02:54.27,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, {\1c&HFF00&\u1}perché{\r} secondo me hanno
+Dialogue: 0,0:02:54.27,0:02:54.33,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:54.33,0:02:54.61,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché {\1c&HFF00&\u1}secondo{\r} me hanno
+Dialogue: 0,0:02:54.61,0:02:54.67,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:54.67,0:02:54.75,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo {\1c&HFF00&\u1}me{\r} hanno
+Dialogue: 0,0:02:54.75,0:02:54.79,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me hanno
+Dialogue: 0,0:02:54.79,0:02:54.96,Default,,0,0,0,,FYP, Viral Italia, Viral eccetera eccetera. Piuttosto niente, perché secondo me {\1c&HFF00&\u1}hanno{\r}
+Dialogue: 0,0:02:59.07,0:02:59.35,Default,,0,0,0,,{\1c&HFF00&\u1}oggi{\r} poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:02:59.35,0:02:59.41,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:02:59.41,0:02:59.69,Default,,0,0,0,,oggi {\1c&HFF00&\u1}poco{\r} senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:02:59.69,0:02:59.71,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:02:59.71,0:03:0.29,Default,,0,0,0,,oggi poco {\1c&HFF00&\u1}senso,{\r} soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:0.29,0:03:0.31,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:0.31,0:03:0.86,Default,,0,0,0,,oggi poco senso, {\1c&HFF00&\u1}soprattutto{\r} se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:0.86,0:03:0.92,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:0.92,0:03:0.96,Default,,0,0,0,,oggi poco senso, soprattutto {\1c&HFF00&\u1}se{\r} facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:0.96,0:03:0.98,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:0.98,0:03:1.16,Default,,0,0,0,,oggi poco senso, soprattutto se {\1c&HFF00&\u1}facciamo{\r} video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.16,0:03:1.18,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.18,0:03:1.32,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo {\1c&HFF00&\u1}video{\r} in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.32,0:03:1.34,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.34,0:03:1.38,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video {\1c&HFF00&\u1}in{\r} italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.38,0:03:1.40,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.40,0:03:1.58,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in {\1c&HFF00&\u1}italiano.{\r} Se facciamo video in inglese
+Dialogue: 0,0:03:1.58,0:03:1.60,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.60,0:03:1.64,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. {\1c&HFF00&\u1}Se{\r} facciamo video in inglese
+Dialogue: 0,0:03:1.64,0:03:1.66,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.66,0:03:1.82,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se {\1c&HFF00&\u1}facciamo{\r} video in inglese
+Dialogue: 0,0:03:1.82,0:03:1.84,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.84,0:03:1.96,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo {\1c&HFF00&\u1}video{\r} in inglese
+Dialogue: 0,0:03:1.96,0:03:1.98,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:1.98,0:03:2.02,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video {\1c&HFF00&\u1}in{\r} inglese
+Dialogue: 0,0:03:2.02,0:03:2.04,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in inglese
+Dialogue: 0,0:03:2.04,0:03:2.18,Default,,0,0,0,,oggi poco senso, soprattutto se facciamo video in italiano. Se facciamo video in {\1c&HFF00&\u1}inglese{\r}
+Dialogue: 0,0:03:1.22,0:03:1.24,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:1.24,0:03:1.28,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:1.28,0:03:1.48,Default,,0,0,0,,o {\1c&HFF00&\u1}video{\r} in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:1.48,0:03:1.58,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:1.58,0:03:1.66,Default,,0,0,0,,o video {\1c&HFF00&\u1}in{\r} silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:1.66,0:03:1.74,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:1.74,0:03:2.40,Default,,0,0,0,,o video in {\1c&HFF00&\u1}silenzio,{\r} quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:2.40,0:03:2.53,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:2.53,0:03:2.69,Default,,0,0,0,,o video in silenzio, {\1c&HFF00&\u1}quindi{\r} solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:2.69,0:03:2.75,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:2.75,0:03:2.93,Default,,0,0,0,,o video in silenzio, quindi {\1c&HFF00&\u1}solo{\r} audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:2.93,0:03:2.99,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:2.99,0:03:3.39,Default,,0,0,0,,o video in silenzio, quindi solo {\1c&HFF00&\u1}audio,{\r} allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:3.39,0:03:3.81,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:3.81,0:03:4.05,Default,,0,0,0,,o video in silenzio, quindi solo audio, {\1c&HFF00&\u1}allora{\r} possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:4.05,0:03:4.29,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:4.29,0:03:4.67,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora {\1c&HFF00&\u1}possono{\r} iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:4.67,0:03:4.71,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:4.71,0:03:5.01,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono {\1c&HFF00&\u1}iniziare{\r} ad avere senso, cioè iniziano
+Dialogue: 0,0:03:5.01,0:03:5.03,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:5.03,0:03:5.09,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare {\1c&HFF00&\u1}ad{\r} avere senso, cioè iniziano
+Dialogue: 0,0:03:5.09,0:03:5.11,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:5.11,0:03:5.27,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad {\1c&HFF00&\u1}avere{\r} senso, cioè iniziano
+Dialogue: 0,0:03:5.27,0:03:5.35,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:5.35,0:03:5.55,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere {\1c&HFF00&\u1}senso,{\r} cioè iniziano
+Dialogue: 0,0:03:5.55,0:03:5.61,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:5.61,0:03:5.71,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, {\1c&HFF00&\u1}cioè{\r} iniziano
+Dialogue: 0,0:03:5.71,0:03:6.13,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè iniziano
+Dialogue: 0,0:03:6.13,0:03:6.56,Default,,0,0,0,,o video in silenzio, quindi solo audio, allora possono iniziare ad avere senso, cioè {\1c&HFF00&\u1}iniziano{\r}
+Dialogue: 0,0:03:6.56,0:03:6.68,Default,,0,0,0,,{\1c&HFF00&\u1}ad{\r} avere senso.
+Dialogue: 0,0:03:6.68,0:03:6.70,Default,,0,0,0,,ad avere senso.
+Dialogue: 0,0:03:6.70,0:03:6.86,Default,,0,0,0,,ad {\1c&HFF00&\u1}avere{\r} senso.
+Dialogue: 0,0:03:6.86,0:03:6.92,Default,,0,0,0,,ad avere senso.
+Dialogue: 0,0:03:6.92,0:03:7.24,Default,,0,0,0,,ad avere {\1c&HFF00&\u1}senso.{\r}

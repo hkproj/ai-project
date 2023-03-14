@@ -1,0 +1,175 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.64,0:00:1.00,Default,,0,0,0,,{\1c&HFF00&\u1}ok{\r} si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:1.00,0:00:1.04,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:1.04,0:00:1.10,Default,,0,0,0,,ok {\1c&HFF00&\u1}si{\r} sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:1.10,0:00:1.14,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:1.14,0:00:1.38,Default,,0,0,0,,ok si {\1c&HFF00&\u1}sente{\r} l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:1.38,0:00:1.46,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:1.46,0:00:1.80,Default,,0,0,0,,ok si sente {\1c&HFF00&\u1}l'audio{\r} o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:1.80,0:00:2.16,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:2.16,0:00:2.26,Default,,0,0,0,,ok si sente l'audio {\1c&HFF00&\u1}o{\r} aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:2.26,0:00:2.87,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:2.87,0:00:3.29,Default,,0,0,0,,ok si sente l'audio o {\1c&HFF00&\u1}aspettiamo{\r} un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:3.29,0:00:3.33,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,ok si sente l'audio o aspettiamo {\1c&HFF00&\u1}un{\r} minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:3.37,0:00:3.41,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:3.41,0:00:3.79,Default,,0,0,0,,ok si sente l'audio o aspettiamo un {\1c&HFF00&\u1}minuto{\r} non lo so non so se aspettare un
+Dialogue: 0,0:00:3.79,0:00:4.65,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:4.65,0:00:4.75,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto {\1c&HFF00&\u1}non{\r} lo so non so se aspettare un
+Dialogue: 0,0:00:4.75,0:00:4.77,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:4.77,0:00:4.85,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non {\1c&HFF00&\u1}lo{\r} so non so se aspettare un
+Dialogue: 0,0:00:4.85,0:00:4.91,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:4.91,0:00:5.11,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo {\1c&HFF00&\u1}so{\r} non so se aspettare un
+Dialogue: 0,0:00:5.11,0:00:6.63,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:6.63,0:00:6.75,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so {\1c&HFF00&\u1}non{\r} so se aspettare un
+Dialogue: 0,0:00:6.75,0:00:6.81,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:6.81,0:00:6.93,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non {\1c&HFF00&\u1}so{\r} se aspettare un
+Dialogue: 0,0:00:6.93,0:00:6.97,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:6.97,0:00:7.05,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so {\1c&HFF00&\u1}se{\r} aspettare un
+Dialogue: 0,0:00:7.05,0:00:7.07,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:7.07,0:00:7.54,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se {\1c&HFF00&\u1}aspettare{\r} un
+Dialogue: 0,0:00:7.54,0:00:7.58,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare un
+Dialogue: 0,0:00:7.58,0:00:7.62,Default,,0,0,0,,ok si sente l'audio o aspettiamo un minuto non lo so non so se aspettare {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:7.92,0:00:8.24,Default,,0,0,0,,{\1c&HFF00&\u1}minuto{\r} oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:8.24,0:00:8.32,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:8.32,0:00:8.68,Default,,0,0,0,,minuto {\1c&HFF00&\u1}oppure{\r} no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:8.68,0:00:8.70,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:8.70,0:00:8.74,Default,,0,0,0,,minuto oppure {\1c&HFF00&\u1}no{\r} grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:8.74,0:00:8.76,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:8.76,0:00:8.96,Default,,0,0,0,,minuto oppure no {\1c&HFF00&\u1}grande{\r} antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:8.96,0:00:9.01,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:9.01,0:00:9.35,Default,,0,0,0,,minuto oppure no grande {\1c&HFF00&\u1}antonio{\r} grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:9.35,0:00:9.47,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:9.47,0:00:9.73,Default,,0,0,0,,minuto oppure no grande antonio {\1c&HFF00&\u1}grazie{\r} per avermi dato conferma io guardo
+Dialogue: 0,0:00:9.73,0:00:9.77,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:9.77,0:00:9.87,Default,,0,0,0,,minuto oppure no grande antonio grazie {\1c&HFF00&\u1}per{\r} avermi dato conferma io guardo
+Dialogue: 0,0:00:9.87,0:00:9.91,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:9.91,0:00:10.15,Default,,0,0,0,,minuto oppure no grande antonio grazie per {\1c&HFF00&\u1}avermi{\r} dato conferma io guardo
+Dialogue: 0,0:00:10.15,0:00:10.21,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:10.21,0:00:10.39,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi {\1c&HFF00&\u1}dato{\r} conferma io guardo
+Dialogue: 0,0:00:10.39,0:00:10.43,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:10.43,0:00:10.85,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato {\1c&HFF00&\u1}conferma{\r} io guardo
+Dialogue: 0,0:00:10.85,0:00:11.03,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:11.03,0:00:11.09,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma {\1c&HFF00&\u1}io{\r} guardo
+Dialogue: 0,0:00:11.09,0:00:11.13,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io guardo
+Dialogue: 0,0:00:11.13,0:00:11.35,Default,,0,0,0,,minuto oppure no grande antonio grazie per avermi dato conferma io {\1c&HFF00&\u1}guardo{\r}
+Dialogue: 0,0:00:11.32,0:00:11.74,Default,,0,0,0,,{\1c&HFF00&\u1}giù{\r} per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:11.74,0:00:11.78,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:11.78,0:00:11.86,Default,,0,0,0,,giù {\1c&HFF00&\u1}per{\r} capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:11.86,0:00:11.88,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:11.88,0:00:12.16,Default,,0,0,0,,giù per {\1c&HFF00&\u1}capire{\r} se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:12.16,0:00:12.20,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:12.20,0:00:12.34,Default,,0,0,0,,giù per capire {\1c&HFF00&\u1}se{\r} tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:12.34,0:00:12.48,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:12.48,0:00:12.82,Default,,0,0,0,,giù per capire se {\1c&HFF00&\u1}tutto{\r} è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:12.82,0:00:12.90,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:12.90,0:00:13.04,Default,,0,0,0,,giù per capire se tutto {\1c&HFF00&\u1}è{\r} settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:13.04,0:00:13.45,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:13.45,0:00:13.83,Default,,0,0,0,,giù per capire se tutto è {\1c&HFF00&\u1}settato{\r} bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:13.83,0:00:13.91,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:13.91,0:00:14.11,Default,,0,0,0,,giù per capire se tutto è settato {\1c&HFF00&\u1}bene{\r} se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:14.11,0:00:14.17,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:14.17,0:00:14.25,Default,,0,0,0,,giù per capire se tutto è settato bene {\1c&HFF00&\u1}se{\r} tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:14.25,0:00:14.31,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:14.31,0:00:14.51,Default,,0,0,0,,giù per capire se tutto è settato bene se {\1c&HFF00&\u1}tutto{\r} sta funzionando bene poi non mi
+Dialogue: 0,0:00:14.51,0:00:14.57,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:14.57,0:00:14.67,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto {\1c&HFF00&\u1}sta{\r} funzionando bene poi non mi
+Dialogue: 0,0:00:14.67,0:00:14.73,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:14.73,0:00:15.13,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta {\1c&HFF00&\u1}funzionando{\r} bene poi non mi
+Dialogue: 0,0:00:15.13,0:00:15.19,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:15.19,0:00:15.35,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando {\1c&HFF00&\u1}bene{\r} poi non mi
+Dialogue: 0,0:00:15.35,0:00:15.43,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:15.43,0:00:15.53,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene {\1c&HFF00&\u1}poi{\r} non mi
+Dialogue: 0,0:00:15.53,0:00:15.57,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:15.57,0:00:15.67,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi {\1c&HFF00&\u1}non{\r} mi
+Dialogue: 0,0:00:15.67,0:00:16.21,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non mi
+Dialogue: 0,0:00:16.21,0:00:16.27,Default,,0,0,0,,giù per capire se tutto è settato bene se tutto sta funzionando bene poi non {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:00:18.73,0:00:20.27,Default,,0,0,0,,{\1c&HFF00&\u1}vedrete{\r} sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:20.27,0:00:20.33,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:20.33,0:00:20.73,Default,,0,0,0,,vedrete {\1c&HFF00&\u1}sempre{\r} guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:20.73,0:00:20.75,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:20.75,0:00:20.99,Default,,0,0,0,,vedrete sempre {\1c&HFF00&\u1}guardare{\r} lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:20.99,0:00:21.01,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.01,0:00:21.05,Default,,0,0,0,,vedrete sempre guardare {\1c&HFF00&\u1}lo{\r} schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.05,0:00:21.07,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.07,0:00:21.36,Default,,0,0,0,,vedrete sempre guardare lo {\1c&HFF00&\u1}schermo{\r} ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.36,0:00:21.38,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.38,0:00:21.60,Default,,0,0,0,,vedrete sempre guardare lo schermo {\1c&HFF00&\u1}ovviamente{\r} ho tutto qui in basso per
+Dialogue: 0,0:00:21.60,0:00:21.62,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.62,0:00:21.66,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente {\1c&HFF00&\u1}ho{\r} tutto qui in basso per
+Dialogue: 0,0:00:21.66,0:00:21.68,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.68,0:00:21.78,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho {\1c&HFF00&\u1}tutto{\r} qui in basso per
+Dialogue: 0,0:00:21.78,0:00:21.80,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.80,0:00:21.86,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto {\1c&HFF00&\u1}qui{\r} in basso per
+Dialogue: 0,0:00:21.86,0:00:21.88,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.88,0:00:21.92,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui {\1c&HFF00&\u1}in{\r} basso per
+Dialogue: 0,0:00:21.92,0:00:21.94,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:21.94,0:00:22.04,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in {\1c&HFF00&\u1}basso{\r} per
+Dialogue: 0,0:00:22.04,0:00:22.06,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso per
+Dialogue: 0,0:00:22.06,0:00:22.12,Default,,0,0,0,,vedrete sempre guardare lo schermo ovviamente ho tutto qui in basso {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:00:21.18,0:00:21.54,Default,,0,0,0,,{\1c&HFF00&\u1}capire{\r} se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:21.54,0:00:21.58,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:21.58,0:00:21.66,Default,,0,0,0,,capire {\1c&HFF00&\u1}se{\r} tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:21.66,0:00:21.90,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:21.90,0:00:22.14,Default,,0,0,0,,capire se {\1c&HFF00&\u1}tutto{\r} sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:22.14,0:00:22.20,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:22.20,0:00:22.30,Default,,0,0,0,,capire se tutto {\1c&HFF00&\u1}sta{\r} funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:22.30,0:00:22.38,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:22.38,0:00:22.86,Default,,0,0,0,,capire se tutto sta {\1c&HFF00&\u1}funzionando{\r} bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:22.86,0:00:22.92,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:22.92,0:00:23.11,Default,,0,0,0,,capire se tutto sta funzionando {\1c&HFF00&\u1}bene{\r} comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:23.11,0:00:23.69,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:23.69,0:00:24.07,Default,,0,0,0,,capire se tutto sta funzionando bene {\1c&HFF00&\u1}comunque{\r} l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:24.07,0:00:24.31,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:24.31,0:00:24.57,Default,,0,0,0,,capire se tutto sta funzionando bene comunque {\1c&HFF00&\u1}l'audio{\r} l'abbiamo un bel po' di
+Dialogue: 0,0:00:24.57,0:00:24.61,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:24.61,0:00:25.03,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio {\1c&HFF00&\u1}l'abbiamo{\r} un bel po' di
+Dialogue: 0,0:00:25.03,0:00:26.47,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:26.47,0:00:26.55,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo {\1c&HFF00&\u1}un{\r} bel po' di
+Dialogue: 0,0:00:26.55,0:00:26.59,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:26.59,0:00:26.71,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un {\1c&HFF00&\u1}bel{\r} po' di
+Dialogue: 0,0:00:26.71,0:00:26.75,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:26.75,0:00:26.81,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel {\1c&HFF00&\u1}po'{\r} di
+Dialogue: 0,0:00:26.81,0:00:26.85,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' di
+Dialogue: 0,0:00:26.85,0:00:26.89,Default,,0,0,0,,capire se tutto sta funzionando bene comunque l'audio l'abbiamo un bel po' {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:27.06,0:00:27.40,Default,,0,0,0,,{\1c&HFF00&\u1}persone{\r} sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:27.40,0:00:27.46,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:27.46,0:00:27.64,Default,,0,0,0,,persone {\1c&HFF00&\u1}sono{\r} già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:27.64,0:00:27.70,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:27.70,0:00:27.78,Default,,0,0,0,,persone sono {\1c&HFF00&\u1}già{\r} arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:27.78,0:00:27.82,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:27.82,0:00:28.20,Default,,0,0,0,,persone sono già {\1c&HFF00&\u1}arrivate,{\r} sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:28.20,0:00:28.50,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:28.50,0:00:28.72,Default,,0,0,0,,persone sono già arrivate, {\1c&HFF00&\u1}sì,{\r} non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:28.72,0:00:29.34,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:29.34,0:00:29.42,Default,,0,0,0,,persone sono già arrivate, sì, {\1c&HFF00&\u1}non{\r} so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:29.42,0:00:29.46,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:29.46,0:00:29.54,Default,,0,0,0,,persone sono già arrivate, sì, non {\1c&HFF00&\u1}so{\r} se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:29.54,0:00:29.56,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:29.56,0:00:29.64,Default,,0,0,0,,persone sono già arrivate, sì, non so {\1c&HFF00&\u1}se{\r} aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:29.64,0:00:29.68,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:29.68,0:00:30.20,Default,,0,0,0,,persone sono già arrivate, sì, non so se {\1c&HFF00&\u1}aspettare{\r} un minutino oppure no, in realtà
+Dialogue: 0,0:00:30.20,0:00:30.74,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:30.74,0:00:30.80,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare {\1c&HFF00&\u1}un{\r} minutino oppure no, in realtà
+Dialogue: 0,0:00:30.80,0:00:30.86,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:30.86,0:00:31.24,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un {\1c&HFF00&\u1}minutino{\r} oppure no, in realtà
+Dialogue: 0,0:00:31.24,0:00:31.26,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:31.26,0:00:31.54,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino {\1c&HFF00&\u1}oppure{\r} no, in realtà
+Dialogue: 0,0:00:31.54,0:00:31.60,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:31.60,0:00:31.80,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure {\1c&HFF00&\u1}no,{\r} in realtà
+Dialogue: 0,0:00:31.80,0:00:32.24,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:32.24,0:00:32.28,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, {\1c&HFF00&\u1}in{\r} realtà
+Dialogue: 0,0:00:32.28,0:00:32.30,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in realtà
+Dialogue: 0,0:00:32.30,0:00:32.42,Default,,0,0,0,,persone sono già arrivate, sì, non so se aspettare un minutino oppure no, in {\1c&HFF00&\u1}realtà{\r}

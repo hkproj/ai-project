@@ -1,0 +1,388 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.32,Default,,0,0,0,,{\1c&HFF00&\u1}secondo{\r} me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:0.32,0:00:0.36,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:0.36,0:00:0.46,Default,,0,0,0,,secondo {\1c&HFF00&\u1}me{\r} il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:0.46,0:00:0.74,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:0.74,0:00:0.80,Default,,0,0,0,,secondo me {\1c&HFF00&\u1}il{\r} primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:0.80,0:00:0.84,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:0.84,0:00:1.02,Default,,0,0,0,,secondo me il {\1c&HFF00&\u1}primo{\r} anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.02,0:00:1.08,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.08,0:00:1.32,Default,,0,0,0,,secondo me il primo {\1c&HFF00&\u1}anno{\r} va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.32,0:00:1.38,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.38,0:00:1.50,Default,,0,0,0,,secondo me il primo anno {\1c&HFF00&\u1}va{\r} goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.50,0:00:1.56,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.56,0:00:1.81,Default,,0,0,0,,secondo me il primo anno va {\1c&HFF00&\u1}goduto{\r} al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.81,0:00:1.87,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.87,0:00:1.93,Default,,0,0,0,,secondo me il primo anno va goduto {\1c&HFF00&\u1}al{\r} pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.93,0:00:1.99,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:1.99,0:00:2.33,Default,,0,0,0,,secondo me il primo anno va goduto al {\1c&HFF00&\u1}pieno{\r} perché mi sa che un anno come al
+Dialogue: 0,0:00:2.33,0:00:2.43,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:2.43,0:00:2.67,Default,,0,0,0,,secondo me il primo anno va goduto al pieno {\1c&HFF00&\u1}perché{\r} mi sa che un anno come al
+Dialogue: 0,0:00:2.67,0:00:3.03,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:3.03,0:00:3.11,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché {\1c&HFF00&\u1}mi{\r} sa che un anno come al
+Dialogue: 0,0:00:3.11,0:00:3.15,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:3.15,0:00:3.29,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi {\1c&HFF00&\u1}sa{\r} che un anno come al
+Dialogue: 0,0:00:3.29,0:00:3.39,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:3.39,0:00:3.53,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa {\1c&HFF00&\u1}che{\r} un anno come al
+Dialogue: 0,0:00:3.53,0:00:3.87,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:3.87,0:00:3.95,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che {\1c&HFF00&\u1}un{\r} anno come al
+Dialogue: 0,0:00:3.95,0:00:3.99,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:3.99,0:00:4.21,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un {\1c&HFF00&\u1}anno{\r} come al
+Dialogue: 0,0:00:4.21,0:00:4.25,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:4.25,0:00:4.41,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno {\1c&HFF00&\u1}come{\r} al
+Dialogue: 0,0:00:4.41,0:00:4.45,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come al
+Dialogue: 0,0:00:4.45,0:00:4.49,Default,,0,0,0,,secondo me il primo anno va goduto al pieno perché mi sa che un anno come {\1c&HFF00&\u1}al{\r}
+Dialogue: 0,0:00:4.70,0:00:4.88,Default,,0,0,0,,{\1c&HFF00&\u1}primo{\r} non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:4.88,0:00:4.92,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:4.92,0:00:5.02,Default,,0,0,0,,primo {\1c&HFF00&\u1}non{\r} vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:5.02,0:00:5.04,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:5.04,0:00:5.10,Default,,0,0,0,,primo non {\1c&HFF00&\u1}vi{\r} capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:5.10,0:00:5.14,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:5.14,0:00:5.50,Default,,0,0,0,,primo non vi {\1c&HFF00&\u1}capiterà{\r} mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:5.50,0:00:5.88,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:5.88,0:00:6.25,Default,,0,0,0,,primo non vi capiterà {\1c&HFF00&\u1}mai.{\r} Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:6.25,0:00:6.33,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:6.33,0:00:6.77,Default,,0,0,0,,primo non vi capiterà mai. {\1c&HFF00&\u1}Continuando{\r} il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:6.77,0:00:6.81,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:6.81,0:00:6.89,Default,,0,0,0,,primo non vi capiterà mai. Continuando {\1c&HFF00&\u1}il{\r} nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:6.89,0:00:6.93,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:6.93,0:00:7.19,Default,,0,0,0,,primo non vi capiterà mai. Continuando il {\1c&HFF00&\u1}nostro{\r} viaggio nelle cinque verità che
+Dialogue: 0,0:00:7.19,0:00:7.27,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:7.27,0:00:7.87,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro {\1c&HFF00&\u1}viaggio{\r} nelle cinque verità che
+Dialogue: 0,0:00:7.87,0:00:8.05,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:8.05,0:00:8.33,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio {\1c&HFF00&\u1}nelle{\r} cinque verità che
+Dialogue: 0,0:00:8.33,0:00:8.47,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:8.47,0:00:8.79,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle {\1c&HFF00&\u1}cinque{\r} verità che
+Dialogue: 0,0:00:8.79,0:00:8.83,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:8.83,0:00:9.15,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque {\1c&HFF00&\u1}verità{\r} che
+Dialogue: 0,0:00:9.15,0:00:9.17,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità che
+Dialogue: 0,0:00:9.17,0:00:9.23,Default,,0,0,0,,primo non vi capiterà mai. Continuando il nostro viaggio nelle cinque verità {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:9.30,0:00:9.72,Default,,0,0,0,,{\1c&HFF00&\u1}avevamo{\r} dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:9.72,0:00:9.74,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:9.74,0:00:9.86,Default,,0,0,0,,avevamo {\1c&HFF00&\u1}dovuto{\r} sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:9.86,0:00:9.88,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:9.88,0:00:10.14,Default,,0,0,0,,avevamo dovuto {\1c&HFF00&\u1}sapere{\r} prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:10.14,0:00:10.18,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:10.18,0:00:10.38,Default,,0,0,0,,avevamo dovuto sapere {\1c&HFF00&\u1}prima{\r} di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:10.38,0:00:10.40,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:10.40,0:00:10.48,Default,,0,0,0,,avevamo dovuto sapere prima {\1c&HFF00&\u1}di{\r} medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:10.48,0:00:10.52,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:10.52,0:00:11.11,Default,,0,0,0,,avevamo dovuto sapere prima di {\1c&HFF00&\u1}medicina,{\r} la seconda è secondo me la più
+Dialogue: 0,0:00:11.11,0:00:11.31,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:11.31,0:00:11.39,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, {\1c&HFF00&\u1}la{\r} seconda è secondo me la più
+Dialogue: 0,0:00:11.39,0:00:11.45,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:11.45,0:00:12.05,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la {\1c&HFF00&\u1}seconda{\r} è secondo me la più
+Dialogue: 0,0:00:12.05,0:00:12.31,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:12.31,0:00:12.37,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda {\1c&HFF00&\u1}è{\r} secondo me la più
+Dialogue: 0,0:00:12.37,0:00:12.43,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:12.43,0:00:12.71,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è {\1c&HFF00&\u1}secondo{\r} me la più
+Dialogue: 0,0:00:12.71,0:00:12.75,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:12.75,0:00:12.87,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo {\1c&HFF00&\u1}me{\r} la più
+Dialogue: 0,0:00:12.87,0:00:12.91,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:12.91,0:00:12.99,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me {\1c&HFF00&\u1}la{\r} più
+Dialogue: 0,0:00:12.99,0:00:13.11,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la più
+Dialogue: 0,0:00:13.11,0:00:13.19,Default,,0,0,0,,avevamo dovuto sapere prima di medicina, la seconda è secondo me la {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:00:13.20,0:00:13.94,Default,,0,0,0,,{\1c&HFF00&\u1}importante{\r} di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:13.94,0:00:13.98,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:13.98,0:00:14.06,Default,,0,0,0,,importante {\1c&HFF00&\u1}di{\r} tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:14.06,0:00:14.12,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:14.12,0:00:14.58,Default,,0,0,0,,importante di {\1c&HFF00&\u1}tutte,{\r} ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:14.58,0:00:14.62,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:14.62,0:00:15.01,Default,,0,0,0,,importante di tutte, {\1c&HFF00&\u1}ovvero{\r} quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.01,0:00:15.25,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.25,0:00:15.45,Default,,0,0,0,,importante di tutte, ovvero {\1c&HFF00&\u1}quello{\r} che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.45,0:00:15.49,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.49,0:00:15.65,Default,,0,0,0,,importante di tutte, ovvero quello {\1c&HFF00&\u1}che{\r} è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.65,0:00:15.81,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.81,0:00:15.85,Default,,0,0,0,,importante di tutte, ovvero quello che {\1c&HFF00&\u1}è{\r} in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.85,0:00:15.91,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.91,0:00:15.97,Default,,0,0,0,,importante di tutte, ovvero quello che è {\1c&HFF00&\u1}in{\r} realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.97,0:00:15.99,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:15.99,0:00:16.29,Default,,0,0,0,,importante di tutte, ovvero quello che è in {\1c&HFF00&\u1}realtà{\r} il messaggio del mio canale
+Dialogue: 0,0:00:16.29,0:00:16.31,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:16.31,0:00:16.47,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà {\1c&HFF00&\u1}il{\r} messaggio del mio canale
+Dialogue: 0,0:00:16.47,0:00:16.53,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:16.53,0:00:17.11,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il {\1c&HFF00&\u1}messaggio{\r} del mio canale
+Dialogue: 0,0:00:17.11,0:00:17.15,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:17.15,0:00:17.27,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio {\1c&HFF00&\u1}del{\r} mio canale
+Dialogue: 0,0:00:17.27,0:00:17.31,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:17.31,0:00:17.41,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del {\1c&HFF00&\u1}mio{\r} canale
+Dialogue: 0,0:00:17.41,0:00:17.45,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio canale
+Dialogue: 0,0:00:17.45,0:00:17.71,Default,,0,0,0,,importante di tutte, ovvero quello che è in realtà il messaggio del mio {\1c&HFF00&\u1}canale{\r}
+Dialogue: 0,0:00:18.28,0:00:18.58,Default,,0,0,0,,{\1c&HFF00&\u1}youtube,{\r} ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:18.58,0:00:18.60,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:18.60,0:00:19.02,Default,,0,0,0,,youtube, {\1c&HFF00&\u1}ovvero,{\r} e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.02,0:00:19.22,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.22,0:00:19.26,Default,,0,0,0,,youtube, ovvero, {\1c&HFF00&\u1}e{\r} l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.26,0:00:19.30,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.30,0:00:19.36,Default,,0,0,0,,youtube, ovvero, e {\1c&HFF00&\u1}l'ho{\r} detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.36,0:00:19.40,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.40,0:00:19.56,Default,,0,0,0,,youtube, ovvero, e l'ho {\1c&HFF00&\u1}detto{\r} due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.56,0:00:19.65,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.65,0:00:19.75,Default,,0,0,0,,youtube, ovvero, e l'ho detto {\1c&HFF00&\u1}due{\r} volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.75,0:00:19.79,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:19.79,0:00:20.09,Default,,0,0,0,,youtube, ovvero, e l'ho detto due {\1c&HFF00&\u1}volte{\r} vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:20.09,0:00:20.13,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:20.13,0:00:20.39,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte {\1c&HFF00&\u1}vabbè,{\r} quello che medicina non è fatta di
+Dialogue: 0,0:00:20.39,0:00:20.91,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:20.91,0:00:21.25,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, {\1c&HFF00&\u1}quello{\r} che medicina non è fatta di
+Dialogue: 0,0:00:21.25,0:00:21.35,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:21.35,0:00:21.51,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello {\1c&HFF00&\u1}che{\r} medicina non è fatta di
+Dialogue: 0,0:00:21.51,0:00:21.89,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:21.89,0:00:22.43,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che {\1c&HFF00&\u1}medicina{\r} non è fatta di
+Dialogue: 0,0:00:22.43,0:00:22.55,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:22.55,0:00:22.67,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina {\1c&HFF00&\u1}non{\r} è fatta di
+Dialogue: 0,0:00:22.67,0:00:22.73,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:22.73,0:00:22.79,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non {\1c&HFF00&\u1}è{\r} fatta di
+Dialogue: 0,0:00:22.79,0:00:22.91,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:22.91,0:00:23.23,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è {\1c&HFF00&\u1}fatta{\r} di
+Dialogue: 0,0:00:23.23,0:00:23.29,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta di
+Dialogue: 0,0:00:23.29,0:00:23.33,Default,,0,0,0,,youtube, ovvero, e l'ho detto due volte vabbè, quello che medicina non è fatta {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:23.60,0:00:23.82,Default,,0,0,0,,{\1c&HFF00&\u1}solo{\r} studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:23.82,0:00:23.86,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:23.86,0:00:24.30,Default,,0,0,0,,solo {\1c&HFF00&\u1}studio{\r} e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:24.30,0:00:24.52,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:24.52,0:00:24.58,Default,,0,0,0,,solo studio {\1c&HFF00&\u1}e{\r} di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:24.58,0:00:24.66,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:24.66,0:00:24.74,Default,,0,0,0,,solo studio e {\1c&HFF00&\u1}di{\r} solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:24.74,0:00:24.80,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:24.80,0:00:25.04,Default,,0,0,0,,solo studio e di {\1c&HFF00&\u1}solo{\r} libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:25.04,0:00:25.14,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:25.14,0:00:25.55,Default,,0,0,0,,solo studio e di solo {\1c&HFF00&\u1}libri{\r} ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:25.55,0:00:25.79,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:25.79,0:00:25.87,Default,,0,0,0,,solo studio e di solo libri {\1c&HFF00&\u1}ma{\r} è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:25.87,0:00:25.91,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:25.91,0:00:25.93,Default,,0,0,0,,solo studio e di solo libri ma {\1c&HFF00&\u1}è{\r} fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:25.93,0:00:26.07,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:26.07,0:00:26.47,Default,,0,0,0,,solo studio e di solo libri ma è {\1c&HFF00&\u1}fatta{\r} di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:26.47,0:00:26.61,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:26.61,0:00:26.73,Default,,0,0,0,,solo studio e di solo libri ma è fatta {\1c&HFF00&\u1}di{\r} vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:26.73,0:00:26.95,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:26.95,0:00:27.37,Default,,0,0,0,,solo studio e di solo libri ma è fatta di {\1c&HFF00&\u1}vita.{\r} Molti vi faranno un terrorismo
+Dialogue: 0,0:00:27.37,0:00:27.65,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:27.65,0:00:28.05,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. {\1c&HFF00&\u1}Molti{\r} vi faranno un terrorismo
+Dialogue: 0,0:00:28.05,0:00:28.11,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:28.11,0:00:28.19,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti {\1c&HFF00&\u1}vi{\r} faranno un terrorismo
+Dialogue: 0,0:00:28.19,0:00:28.25,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:28.25,0:00:28.61,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi {\1c&HFF00&\u1}faranno{\r} un terrorismo
+Dialogue: 0,0:00:28.61,0:00:28.65,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:28.65,0:00:28.73,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno {\1c&HFF00&\u1}un{\r} terrorismo
+Dialogue: 0,0:00:28.73,0:00:28.77,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un terrorismo
+Dialogue: 0,0:00:28.77,0:00:29.42,Default,,0,0,0,,solo studio e di solo libri ma è fatta di vita. Molti vi faranno un {\1c&HFF00&\u1}terrorismo{\r}
+Dialogue: 0,0:00:29.62,0:00:29.68,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:29.68,0:00:29.72,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:29.72,0:00:29.80,Default,,0,0,0,,che {\1c&HFF00&\u1}voi{\r} non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:29.80,0:00:29.82,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:29.82,0:00:29.94,Default,,0,0,0,,che voi {\1c&HFF00&\u1}non{\r} avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:29.94,0:00:29.96,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:29.96,0:00:30.16,Default,,0,0,0,,che voi non {\1c&HFF00&\u1}avete{\r} idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.16,0:00:30.18,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.18,0:00:30.36,Default,,0,0,0,,che voi non avete {\1c&HFF00&\u1}idea{\r} vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.36,0:00:30.42,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.42,0:00:30.48,Default,,0,0,0,,che voi non avete idea {\1c&HFF00&\u1}vi{\r} diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.48,0:00:30.52,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.52,0:00:30.86,Default,,0,0,0,,che voi non avete idea vi {\1c&HFF00&\u1}diranno{\r} no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.86,0:00:30.98,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:30.98,0:00:31.39,Default,,0,0,0,,che voi non avete idea vi diranno {\1c&HFF00&\u1}no{\r} devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:31.39,0:00:31.73,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:31.73,0:00:31.95,Default,,0,0,0,,che voi non avete idea vi diranno no {\1c&HFF00&\u1}devi{\r} stare a casa a studiare tutto il
+Dialogue: 0,0:00:31.95,0:00:32.01,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:32.01,0:00:32.27,Default,,0,0,0,,che voi non avete idea vi diranno no devi {\1c&HFF00&\u1}stare{\r} a casa a studiare tutto il
+Dialogue: 0,0:00:32.27,0:00:32.29,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:32.29,0:00:32.33,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare {\1c&HFF00&\u1}a{\r} casa a studiare tutto il
+Dialogue: 0,0:00:32.33,0:00:32.41,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:32.41,0:00:32.69,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a {\1c&HFF00&\u1}casa{\r} a studiare tutto il
+Dialogue: 0,0:00:32.69,0:00:32.71,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:32.71,0:00:32.73,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa {\1c&HFF00&\u1}a{\r} studiare tutto il
+Dialogue: 0,0:00:32.73,0:00:32.79,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:32.79,0:00:33.31,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a {\1c&HFF00&\u1}studiare{\r} tutto il
+Dialogue: 0,0:00:33.31,0:00:33.47,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:33.47,0:00:33.75,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare {\1c&HFF00&\u1}tutto{\r} il
+Dialogue: 0,0:00:33.75,0:00:33.79,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto il
+Dialogue: 0,0:00:33.79,0:00:33.83,Default,,0,0,0,,che voi non avete idea vi diranno no devi stare a casa a studiare tutto {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:34.18,0:00:34.38,Default,,0,0,0,,{\1c&HFF00&\u1}tempo{\r} non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:34.38,0:00:34.44,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:34.44,0:00:34.56,Default,,0,0,0,,tempo {\1c&HFF00&\u1}non{\r} vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:34.56,0:00:34.62,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:34.62,0:00:34.88,Default,,0,0,0,,tempo non {\1c&HFF00&\u1}vedrai{\r} più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:34.88,0:00:35.02,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.02,0:00:35.16,Default,,0,0,0,,tempo non vedrai {\1c&HFF00&\u1}più{\r} i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.16,0:00:35.26,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.26,0:00:35.30,Default,,0,0,0,,tempo non vedrai più {\1c&HFF00&\u1}i{\r} tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.30,0:00:35.34,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.34,0:00:35.46,Default,,0,0,0,,tempo non vedrai più i {\1c&HFF00&\u1}tuoi{\r} amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.46,0:00:35.48,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.48,0:00:35.97,Default,,0,0,0,,tempo non vedrai più i tuoi {\1c&HFF00&\u1}amici{\r} non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:35.97,0:00:36.31,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:36.31,0:00:36.41,Default,,0,0,0,,tempo non vedrai più i tuoi amici {\1c&HFF00&\u1}non{\r} uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:36.41,0:00:36.57,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:36.57,0:00:36.91,Default,,0,0,0,,tempo non vedrai più i tuoi amici non {\1c&HFF00&\u1}uscirai{\r} più di casa butterei la chiave
+Dialogue: 0,0:00:36.91,0:00:37.07,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:37.07,0:00:37.25,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai {\1c&HFF00&\u1}più{\r} di casa butterei la chiave
+Dialogue: 0,0:00:37.25,0:00:37.33,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:37.33,0:00:37.43,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più {\1c&HFF00&\u1}di{\r} casa butterei la chiave
+Dialogue: 0,0:00:37.43,0:00:37.51,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:37.51,0:00:37.91,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di {\1c&HFF00&\u1}casa{\r} butterei la chiave
+Dialogue: 0,0:00:37.91,0:00:38.09,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:38.09,0:00:38.61,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa {\1c&HFF00&\u1}butterei{\r} la chiave
+Dialogue: 0,0:00:38.61,0:00:38.67,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:38.67,0:00:38.75,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei {\1c&HFF00&\u1}la{\r} chiave
+Dialogue: 0,0:00:38.75,0:00:38.81,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la chiave
+Dialogue: 0,0:00:38.81,0:00:39.21,Default,,0,0,0,,tempo non vedrai più i tuoi amici non uscirai più di casa butterei la {\1c&HFF00&\u1}chiave{\r}
+Dialogue: 0,0:00:39.48,0:00:39.52,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:39.52,0:00:39.54,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:39.54,0:00:40.04,Default,,0,0,0,,in {\1c&HFF00&\u1}realtà{\r} tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.04,0:00:40.06,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.06,0:00:40.26,Default,,0,0,0,,in realtà {\1c&HFF00&\u1}tutto{\r} ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.26,0:00:40.34,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.34,0:00:40.46,Default,,0,0,0,,in realtà tutto {\1c&HFF00&\u1}ciò{\r} è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.46,0:00:40.64,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.64,0:00:40.70,Default,,0,0,0,,in realtà tutto ciò {\1c&HFF00&\u1}è{\r} falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.70,0:00:40.84,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:40.84,0:00:41.20,Default,,0,0,0,,in realtà tutto ciò è {\1c&HFF00&\u1}falso{\r} o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:41.20,0:00:41.41,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:41.41,0:00:41.43,Default,,0,0,0,,in realtà tutto ciò è falso {\1c&HFF00&\u1}o{\r} meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:41.43,0:00:41.49,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:41.49,0:00:41.85,Default,,0,0,0,,in realtà tutto ciò è falso o {\1c&HFF00&\u1}meglio{\r} è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:41.85,0:00:42.11,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:42.11,0:00:42.15,Default,,0,0,0,,in realtà tutto ciò è falso o meglio {\1c&HFF00&\u1}è{\r} falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:42.15,0:00:42.25,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:42.25,0:00:42.69,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è {\1c&HFF00&\u1}falso{\r} nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:42.69,0:00:42.99,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:42.99,0:00:43.25,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso {\1c&HFF00&\u1}nelle 90{\r} per cento dei casi poi
+Dialogue: 0,0:00:43.25,0:00:43.29,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:43.29,0:00:43.83,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 {\1c&HFF00&\u1}per{\r} cento dei casi poi
+Dialogue: 0,0:00:43.83,0:00:43.97,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:43.97,0:00:44.67,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per {\1c&HFF00&\u1}cento{\r} dei casi poi
+Dialogue: 0,0:00:44.67,0:00:44.71,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:44.71,0:00:44.83,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento {\1c&HFF00&\u1}dei{\r} casi poi
+Dialogue: 0,0:00:44.83,0:00:44.89,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:44.89,0:00:45.25,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei {\1c&HFF00&\u1}casi{\r} poi
+Dialogue: 0,0:00:45.25,0:00:45.58,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi poi
+Dialogue: 0,0:00:45.58,0:00:45.70,Default,,0,0,0,,in realtà tutto ciò è falso o meglio è falso nelle 90 per cento dei casi {\1c&HFF00&\u1}poi{\r}
+Dialogue: 0,0:00:45.62,0:00:45.66,Default,,0,0,0,,{\1c&HFF00&\u1}c'è{\r} un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:45.66,0:00:45.78,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:45.78,0:00:45.82,Default,,0,0,0,,c'è {\1c&HFF00&\u1}un 10{\r} per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:45.82,0:00:45.86,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:45.86,0:00:45.92,Default,,0,0,0,,c'è un 10 {\1c&HFF00&\u1}per{\r} cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:45.92,0:00:45.94,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:45.94,0:00:46.90,Default,,0,0,0,,c'è un 10 per {\1c&HFF00&\u1}cento{\r} della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:46.90,0:00:47.29,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:47.29,0:00:47.49,Default,,0,0,0,,c'è un 10 per cento {\1c&HFF00&\u1}della{\r} vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:47.49,0:00:47.51,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:47.51,0:00:47.81,Default,,0,0,0,,c'è un 10 per cento della {\1c&HFF00&\u1}vostra{\r} vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:47.81,0:00:47.87,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:47.87,0:00:48.09,Default,,0,0,0,,c'è un 10 per cento della vostra {\1c&HFF00&\u1}vita{\r} in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:48.09,0:00:48.11,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:48.11,0:00:48.17,Default,,0,0,0,,c'è un 10 per cento della vostra vita {\1c&HFF00&\u1}in{\r} cui effettivamente potrebbe essere
+Dialogue: 0,0:00:48.17,0:00:48.21,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:48.21,0:00:48.31,Default,,0,0,0,,c'è un 10 per cento della vostra vita in {\1c&HFF00&\u1}cui{\r} effettivamente potrebbe essere
+Dialogue: 0,0:00:48.31,0:00:48.33,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:48.33,0:00:48.83,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui {\1c&HFF00&\u1}effettivamente{\r} potrebbe essere
+Dialogue: 0,0:00:48.83,0:00:48.87,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:48.87,0:00:49.21,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente {\1c&HFF00&\u1}potrebbe{\r} essere
+Dialogue: 0,0:00:49.21,0:00:49.25,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe essere
+Dialogue: 0,0:00:49.25,0:00:49.49,Default,,0,0,0,,c'è un 10 per cento della vostra vita in cui effettivamente potrebbe {\1c&HFF00&\u1}essere{\r}
+Dialogue: 0,0:00:49.76,0:00:50.28,Default,,0,0,0,,{\1c&HFF00&\u1}abbastanza{\r} vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:50.28,0:00:50.32,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:50.32,0:00:50.70,Default,,0,0,0,,abbastanza {\1c&HFF00&\u1}vero{\r} ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:50.70,0:00:50.72,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:50.72,0:00:50.78,Default,,0,0,0,,abbastanza vero {\1c&HFF00&\u1}ma{\r} andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:50.78,0:00:50.80,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:50.80,0:00:51.06,Default,,0,0,0,,abbastanza vero ma {\1c&HFF00&\u1}andiamo{\r} con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:51.06,0:00:51.12,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:51.12,0:00:51.25,Default,,0,0,0,,abbastanza vero ma andiamo {\1c&HFF00&\u1}con{\r} ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:51.25,0:00:51.29,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:51.29,0:00:51.71,Default,,0,0,0,,abbastanza vero ma andiamo con {\1c&HFF00&\u1}ordine{\r} sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:51.71,0:00:51.93,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:51.93,0:00:52.63,Default,,0,0,0,,abbastanza vero ma andiamo con ordine {\1c&HFF00&\u1}sicuramente{\r} il fatto che voi dovete
+Dialogue: 0,0:00:52.63,0:00:52.97,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:52.97,0:00:53.03,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente {\1c&HFF00&\u1}il{\r} fatto che voi dovete
+Dialogue: 0,0:00:53.03,0:00:53.11,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:53.11,0:00:53.39,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il {\1c&HFF00&\u1}fatto{\r} che voi dovete
+Dialogue: 0,0:00:53.39,0:00:53.47,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:53.47,0:00:53.61,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto {\1c&HFF00&\u1}che{\r} voi dovete
+Dialogue: 0,0:00:53.61,0:00:53.83,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:53.83,0:00:53.97,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che {\1c&HFF00&\u1}voi{\r} dovete
+Dialogue: 0,0:00:53.97,0:00:53.99,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi dovete
+Dialogue: 0,0:00:53.99,0:00:54.15,Default,,0,0,0,,abbastanza vero ma andiamo con ordine sicuramente il fatto che voi {\1c&HFF00&\u1}dovete{\r}
+Dialogue: 0,0:00:54.34,0:00:54.56,Default,,0,0,0,,{\1c&HFF00&\u1}stare{\r} tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:54.56,0:00:54.60,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:54.60,0:00:54.78,Default,,0,0,0,,stare {\1c&HFF00&\u1}tutto{\r} il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:54.78,0:00:54.80,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:54.80,0:00:54.86,Default,,0,0,0,,stare tutto {\1c&HFF00&\u1}il{\r} tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:54.86,0:00:54.92,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:54.92,0:00:55.10,Default,,0,0,0,,stare tutto il {\1c&HFF00&\u1}tempo{\r} a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.10,0:00:55.12,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.12,0:00:55.14,Default,,0,0,0,,stare tutto il tempo {\1c&HFF00&\u1}a{\r} studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.14,0:00:55.20,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.20,0:00:55.59,Default,,0,0,0,,stare tutto il tempo a {\1c&HFF00&\u1}studiare{\r} non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.59,0:00:55.63,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.63,0:00:55.73,Default,,0,0,0,,stare tutto il tempo a studiare {\1c&HFF00&\u1}non{\r} è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.73,0:00:55.77,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.77,0:00:55.81,Default,,0,0,0,,stare tutto il tempo a studiare non {\1c&HFF00&\u1}è{\r} vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.81,0:00:55.87,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:55.87,0:00:56.05,Default,,0,0,0,,stare tutto il tempo a studiare non è {\1c&HFF00&\u1}vero{\r} perché c'è un periodo della vostra
+Dialogue: 0,0:00:56.05,0:00:56.09,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:56.09,0:00:56.29,Default,,0,0,0,,stare tutto il tempo a studiare non è vero {\1c&HFF00&\u1}perché{\r} c'è un periodo della vostra
+Dialogue: 0,0:00:56.29,0:00:56.31,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:56.31,0:00:56.35,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché {\1c&HFF00&\u1}c'è{\r} un periodo della vostra
+Dialogue: 0,0:00:56.35,0:00:56.39,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:56.39,0:00:56.51,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è {\1c&HFF00&\u1}un{\r} periodo della vostra
+Dialogue: 0,0:00:56.51,0:00:56.53,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:56.53,0:00:56.83,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un {\1c&HFF00&\u1}periodo{\r} della vostra
+Dialogue: 0,0:00:56.83,0:00:56.87,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:56.87,0:00:57.05,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo {\1c&HFF00&\u1}della{\r} vostra
+Dialogue: 0,0:00:57.05,0:00:57.07,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della vostra
+Dialogue: 0,0:00:57.07,0:00:57.27,Default,,0,0,0,,stare tutto il tempo a studiare non è vero perché c'è un periodo della {\1c&HFF00&\u1}vostra{\r}
+Dialogue: 0,0:00:57.28,0:00:57.32,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} cui non fate assolutamente nulla
+Dialogue: 0,0:00:57.32,0:00:57.34,Default,,0,0,0,,in cui non fate assolutamente nulla
+Dialogue: 0,0:00:57.34,0:00:57.40,Default,,0,0,0,,in {\1c&HFF00&\u1}cui{\r} non fate assolutamente nulla
+Dialogue: 0,0:00:57.40,0:00:57.42,Default,,0,0,0,,in cui non fate assolutamente nulla
+Dialogue: 0,0:00:57.42,0:00:57.48,Default,,0,0,0,,in cui {\1c&HFF00&\u1}non{\r} fate assolutamente nulla
+Dialogue: 0,0:00:57.48,0:00:57.50,Default,,0,0,0,,in cui non fate assolutamente nulla
+Dialogue: 0,0:00:57.50,0:00:57.58,Default,,0,0,0,,in cui non {\1c&HFF00&\u1}fate{\r} assolutamente nulla
+Dialogue: 0,0:00:57.58,0:00:57.60,Default,,0,0,0,,in cui non fate assolutamente nulla
+Dialogue: 0,0:00:57.60,0:00:57.86,Default,,0,0,0,,in cui non fate {\1c&HFF00&\u1}assolutamente{\r} nulla
+Dialogue: 0,0:00:57.86,0:00:57.88,Default,,0,0,0,,in cui non fate assolutamente nulla
+Dialogue: 0,0:00:57.88,0:00:57.98,Default,,0,0,0,,in cui non fate assolutamente {\1c&HFF00&\u1}nulla{\r}
+Dialogue: 0,0:00:59.38,0:00:59.68,Default,,0,0,0,,{\1c&HFF00&\u1}ottobre{\r} novembre dicembre
+Dialogue: 0,0:00:59.68,0:00:59.72,Default,,0,0,0,,ottobre novembre dicembre
+Dialogue: 0,0:00:59.72,0:01:0.03,Default,,0,0,0,,ottobre {\1c&HFF00&\u1}novembre{\r} dicembre
+Dialogue: 0,0:01:0.03,0:01:0.07,Default,,0,0,0,,ottobre novembre dicembre
+Dialogue: 0,0:01:0.07,0:01:0.43,Default,,0,0,0,,ottobre novembre {\1c&HFF00&\u1}dicembre{\r}
+Dialogue: 0,0:01:0.70,0:01:0.82,Default,,0,0,0,,{\1c&HFF00&\u1}si{\r} ozia totale
+Dialogue: 0,0:01:0.82,0:01:0.92,Default,,0,0,0,,si ozia totale
+Dialogue: 0,0:01:0.92,0:01:1.22,Default,,0,0,0,,si {\1c&HFF00&\u1}ozia{\r} totale
+Dialogue: 0,0:01:1.22,0:01:1.26,Default,,0,0,0,,si ozia totale
+Dialogue: 0,0:01:1.26,0:01:1.71,Default,,0,0,0,,si ozia {\1c&HFF00&\u1}totale{\r}
+Dialogue: 0,0:01:2.06,0:01:2.28,Default,,0,0,0,,{\1c&HFF00&\u1}marzo{\r} aprile maggio no maggio no
+Dialogue: 0,0:01:2.28,0:01:2.32,Default,,0,0,0,,marzo aprile maggio no maggio no
+Dialogue: 0,0:01:2.32,0:01:2.64,Default,,0,0,0,,marzo {\1c&HFF00&\u1}aprile{\r} maggio no maggio no
+Dialogue: 0,0:01:2.64,0:01:2.73,Default,,0,0,0,,marzo aprile maggio no maggio no
+Dialogue: 0,0:01:2.73,0:01:3.13,Default,,0,0,0,,marzo aprile {\1c&HFF00&\u1}maggio{\r} no maggio no
+Dialogue: 0,0:01:3.13,0:01:3.23,Default,,0,0,0,,marzo aprile maggio no maggio no
+Dialogue: 0,0:01:3.23,0:01:3.31,Default,,0,0,0,,marzo aprile maggio {\1c&HFF00&\u1}no{\r} maggio no
+Dialogue: 0,0:01:3.31,0:01:3.35,Default,,0,0,0,,marzo aprile maggio no maggio no
+Dialogue: 0,0:01:3.35,0:01:3.59,Default,,0,0,0,,marzo aprile maggio no {\1c&HFF00&\u1}maggio{\r} no
+Dialogue: 0,0:01:3.59,0:01:3.65,Default,,0,0,0,,marzo aprile maggio no maggio no
+Dialogue: 0,0:01:3.65,0:01:3.71,Default,,0,0,0,,marzo aprile maggio no maggio {\1c&HFF00&\u1}no{\r}
+Dialogue: 0,0:01:4.00,0:01:4.55,Default,,0,0,0,,{\1c&HFF00&\u1}marzo-aprile{\r} un altro ozio
+Dialogue: 0,0:01:4.55,0:01:4.79,Default,,0,0,0,,marzo-aprile un altro ozio
+Dialogue: 0,0:01:4.79,0:01:4.85,Default,,0,0,0,,marzo-aprile {\1c&HFF00&\u1}un{\r} altro ozio
+Dialogue: 0,0:01:4.85,0:01:4.89,Default,,0,0,0,,marzo-aprile un altro ozio
+Dialogue: 0,0:01:4.89,0:01:5.01,Default,,0,0,0,,marzo-aprile un {\1c&HFF00&\u1}altro{\r} ozio
+Dialogue: 0,0:01:5.01,0:01:5.03,Default,,0,0,0,,marzo-aprile un altro ozio
+Dialogue: 0,0:01:5.03,0:01:5.11,Default,,0,0,0,,marzo-aprile un altro {\1c&HFF00&\u1}ozio{\r}

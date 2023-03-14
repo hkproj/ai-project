@@ -1,0 +1,66 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.22,Default,,0,0,0,,{\1c&HFF00&\u1}ora{\r} veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:0.22,0:00:0.42,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:0.42,0:00:0.88,Default,,0,0,0,,ora {\1c&HFF00&\u1}veniamo{\r} alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:0.88,0:00:1.02,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:1.02,0:00:1.18,Default,,0,0,0,,ora veniamo {\1c&HFF00&\u1}alla{\r} quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:1.18,0:00:1.24,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:1.24,0:00:1.52,Default,,0,0,0,,ora veniamo alla {\1c&HFF00&\u1}quarta{\r} verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:1.52,0:00:1.56,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:1.56,0:00:1.97,Default,,0,0,0,,ora veniamo alla quarta {\1c&HFF00&\u1}verità{\r} che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:1.97,0:00:2.09,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.09,0:00:2.21,Default,,0,0,0,,ora veniamo alla quarta verità {\1c&HFF00&\u1}che{\r} secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.21,0:00:2.27,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.27,0:00:2.59,Default,,0,0,0,,ora veniamo alla quarta verità che {\1c&HFF00&\u1}secondo{\r} me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.59,0:00:2.65,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.65,0:00:2.83,Default,,0,0,0,,ora veniamo alla quarta verità che secondo {\1c&HFF00&\u1}me{\r} è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.83,0:00:2.85,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.85,0:00:2.87,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me {\1c&HFF00&\u1}è{\r} quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.87,0:00:2.95,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:2.95,0:00:3.19,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è {\1c&HFF00&\u1}quella{\r} più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:3.19,0:00:3.25,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:3.25,0:00:3.35,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella {\1c&HFF00&\u1}più{\r} bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:3.35,0:00:3.41,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:3.41,0:00:3.69,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più {\1c&HFF00&\u1}bella{\r} e più brutta allo stesso tempo
+Dialogue: 0,0:00:3.69,0:00:3.85,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:3.85,0:00:3.89,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella {\1c&HFF00&\u1}e{\r} più brutta allo stesso tempo
+Dialogue: 0,0:00:3.89,0:00:3.95,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:3.95,0:00:4.05,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e {\1c&HFF00&\u1}più{\r} brutta allo stesso tempo
+Dialogue: 0,0:00:4.05,0:00:4.09,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:4.09,0:00:4.37,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più {\1c&HFF00&\u1}brutta{\r} allo stesso tempo
+Dialogue: 0,0:00:4.37,0:00:4.49,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:4.49,0:00:4.67,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta {\1c&HFF00&\u1}allo{\r} stesso tempo
+Dialogue: 0,0:00:4.67,0:00:4.71,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:4.71,0:00:4.99,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo {\1c&HFF00&\u1}stesso{\r} tempo
+Dialogue: 0,0:00:4.99,0:00:5.05,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso tempo
+Dialogue: 0,0:00:5.05,0:00:5.41,Default,,0,0,0,,ora veniamo alla quarta verità che secondo me è quella più bella e più brutta allo stesso {\1c&HFF00&\u1}tempo{\r}
+Dialogue: 0,0:00:5.60,0:00:5.92,Default,,0,0,0,,{\1c&HFF00&\u1}ovvero{\r} i famosi tirocini
+Dialogue: 0,0:00:5.92,0:00:6.04,Default,,0,0,0,,ovvero i famosi tirocini
+Dialogue: 0,0:00:6.04,0:00:6.08,Default,,0,0,0,,ovvero {\1c&HFF00&\u1}i{\r} famosi tirocini
+Dialogue: 0,0:00:6.08,0:00:6.10,Default,,0,0,0,,ovvero i famosi tirocini
+Dialogue: 0,0:00:6.10,0:00:6.43,Default,,0,0,0,,ovvero i {\1c&HFF00&\u1}famosi{\r} tirocini
+Dialogue: 0,0:00:6.43,0:00:6.49,Default,,0,0,0,,ovvero i famosi tirocini
+Dialogue: 0,0:00:6.49,0:00:6.99,Default,,0,0,0,,ovvero i famosi {\1c&HFF00&\u1}tirocini{\r}
+Dialogue: 0,0:00:7.22,0:00:7.44,Default,,0,0,0,,{\1c&HFF00&\u1}Quante{\r} volte avrete visto su Instagram
+Dialogue: 0,0:00:7.44,0:00:7.48,Default,,0,0,0,,Quante volte avrete visto su Instagram
+Dialogue: 0,0:00:7.48,0:00:7.68,Default,,0,0,0,,Quante {\1c&HFF00&\u1}volte{\r} avrete visto su Instagram
+Dialogue: 0,0:00:7.68,0:00:7.72,Default,,0,0,0,,Quante volte avrete visto su Instagram
+Dialogue: 0,0:00:7.72,0:00:7.94,Default,,0,0,0,,Quante volte {\1c&HFF00&\u1}avrete{\r} visto su Instagram
+Dialogue: 0,0:00:7.94,0:00:7.98,Default,,0,0,0,,Quante volte avrete visto su Instagram
+Dialogue: 0,0:00:7.98,0:00:8.18,Default,,0,0,0,,Quante volte avrete {\1c&HFF00&\u1}visto{\r} su Instagram
+Dialogue: 0,0:00:8.18,0:00:8.24,Default,,0,0,0,,Quante volte avrete visto su Instagram
+Dialogue: 0,0:00:8.24,0:00:8.39,Default,,0,0,0,,Quante volte avrete visto {\1c&HFF00&\u1}su{\r} Instagram
+Dialogue: 0,0:00:8.39,0:00:8.41,Default,,0,0,0,,Quante volte avrete visto su Instagram
+Dialogue: 0,0:00:8.41,0:00:9.01,Default,,0,0,0,,Quante volte avrete visto su {\1c&HFF00&\u1}Instagram{\r}

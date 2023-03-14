@@ -1,0 +1,165 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.58,0:00:0.78,Default,,0,0,0,,{\1c&HFF00&\u1}siamo{\r} un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,siamo {\1c&HFF00&\u1}un{\r} po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:0.90,0:00:1.00,Default,,0,0,0,,siamo un {\1c&HFF00&\u1}po'{\r} più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:1.00,0:00:1.06,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:1.06,0:00:1.16,Default,,0,0,0,,siamo un po' {\1c&HFF00&\u1}più{\r} sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:1.16,0:00:1.22,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:1.22,0:00:2.10,Default,,0,0,0,,siamo un po' più {\1c&HFF00&\u1}sfenzerati,{\r} le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:2.10,0:00:2.51,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:2.51,0:00:2.59,Default,,0,0,0,,siamo un po' più sfenzerati, {\1c&HFF00&\u1}le{\r} materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:2.59,0:00:2.65,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:2.65,0:00:2.97,Default,,0,0,0,,siamo un po' più sfenzerati, le {\1c&HFF00&\u1}materie{\r} sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:2.97,0:00:3.07,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:3.07,0:00:3.27,Default,,0,0,0,,siamo un po' più sfenzerati, le materie {\1c&HFF00&\u1}sono{\r} più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:3.27,0:00:3.37,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:3.37,0:00:3.49,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono {\1c&HFF00&\u1}più{\r} semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:3.49,0:00:3.63,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:3.63,0:00:4.13,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più {\1c&HFF00&\u1}semplici,{\r} in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:4.13,0:00:4.15,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:4.15,0:00:4.45,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, {\1c&HFF00&\u1}in{\r} sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:4.45,0:00:4.51,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:4.51,0:00:5.19,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in {\1c&HFF00&\u1}sostanza{\r} è l'anno più facile di tutti
+Dialogue: 0,0:00:5.19,0:00:5.35,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:5.35,0:00:5.39,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza {\1c&HFF00&\u1}è{\r} l'anno più facile di tutti
+Dialogue: 0,0:00:5.39,0:00:5.47,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:5.47,0:00:5.75,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è {\1c&HFF00&\u1}l'anno{\r} più facile di tutti
+Dialogue: 0,0:00:5.75,0:00:5.81,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:5.81,0:00:5.91,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno {\1c&HFF00&\u1}più{\r} facile di tutti
+Dialogue: 0,0:00:5.91,0:00:5.99,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:5.99,0:00:6.29,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più {\1c&HFF00&\u1}facile{\r} di tutti
+Dialogue: 0,0:00:6.29,0:00:6.33,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:6.33,0:00:6.41,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile {\1c&HFF00&\u1}di{\r} tutti
+Dialogue: 0,0:00:6.41,0:00:6.47,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di tutti
+Dialogue: 0,0:00:6.47,0:00:6.84,Default,,0,0,0,,siamo un po' più sfenzerati, le materie sono più semplici, in sostanza è l'anno più facile di {\1c&HFF00&\u1}tutti{\r}
+Dialogue: 0,0:00:7.10,0:00:7.28,Default,,0,0,0,,{\1c&HFF00&\u1}anche{\r} se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:7.28,0:00:7.34,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:7.34,0:00:7.50,Default,,0,0,0,,anche {\1c&HFF00&\u1}se{\r} nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:7.50,0:00:7.86,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:7.86,0:00:8.22,Default,,0,0,0,,anche se {\1c&HFF00&\u1}nessuno{\r} lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:8.22,0:00:8.29,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:8.29,0:00:8.39,Default,,0,0,0,,anche se nessuno {\1c&HFF00&\u1}lo{\r} sa, perché nessuno lo sa?
+Dialogue: 0,0:00:8.39,0:00:8.45,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:8.45,0:00:8.65,Default,,0,0,0,,anche se nessuno lo {\1c&HFF00&\u1}sa,{\r} perché nessuno lo sa?
+Dialogue: 0,0:00:8.65,0:00:8.77,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:8.77,0:00:9.05,Default,,0,0,0,,anche se nessuno lo sa, {\1c&HFF00&\u1}perché{\r} nessuno lo sa?
+Dialogue: 0,0:00:9.05,0:00:9.13,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:9.13,0:00:9.45,Default,,0,0,0,,anche se nessuno lo sa, perché {\1c&HFF00&\u1}nessuno{\r} lo sa?
+Dialogue: 0,0:00:9.45,0:00:9.51,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:9.51,0:00:9.59,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno {\1c&HFF00&\u1}lo{\r} sa?
+Dialogue: 0,0:00:9.59,0:00:9.65,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo sa?
+Dialogue: 0,0:00:9.65,0:00:9.71,Default,,0,0,0,,anche se nessuno lo sa, perché nessuno lo {\1c&HFF00&\u1}sa?{\r}
+Dialogue: 0,0:00:10.00,0:00:10.40,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:10.40,0:00:10.48,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:10.48,0:00:10.54,Default,,0,0,0,,e {\1c&HFF00&\u1}l'ho{\r} imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:10.54,0:00:10.56,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:10.56,0:00:10.78,Default,,0,0,0,,e l'ho {\1c&HFF00&\u1}imparato{\r} sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:10.78,0:00:10.80,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:10.80,0:00:11.00,Default,,0,0,0,,e l'ho imparato {\1c&HFF00&\u1}sulla{\r} mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.00,0:00:11.02,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.02,0:00:11.16,Default,,0,0,0,,e l'ho imparato sulla {\1c&HFF00&\u1}mia{\r} pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.16,0:00:11.20,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.20,0:00:11.46,Default,,0,0,0,,e l'ho imparato sulla mia {\1c&HFF00&\u1}pelle,{\r} l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.46,0:00:11.48,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.48,0:00:11.64,Default,,0,0,0,,e l'ho imparato sulla mia pelle, {\1c&HFF00&\u1}l'ho{\r} scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.64,0:00:11.70,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:11.70,0:00:12.13,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho {\1c&HFF00&\u1}scoperto{\r} al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:12.13,0:00:12.27,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:12.27,0:00:12.37,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto {\1c&HFF00&\u1}al{\r} sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:12.37,0:00:12.45,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:12.45,0:00:12.75,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al {\1c&HFF00&\u1}sesto{\r} anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:12.75,0:00:12.85,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:12.85,0:00:13.09,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto {\1c&HFF00&\u1}anno{\r} sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:13.09,0:00:13.15,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:13.15,0:00:13.69,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno {\1c&HFF00&\u1}sostanzialmente,{\r} o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:13.69,0:00:13.71,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:13.71,0:00:13.73,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, {\1c&HFF00&\u1}o{\r} meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:13.73,0:00:13.77,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:13.77,0:00:13.97,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o {\1c&HFF00&\u1}meglio,{\r} tra il quinto e il sesto anno
+Dialogue: 0,0:00:13.97,0:00:14.01,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:14.01,0:00:14.11,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, {\1c&HFF00&\u1}tra{\r} il quinto e il sesto anno
+Dialogue: 0,0:00:14.11,0:00:14.15,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:14.15,0:00:14.19,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra {\1c&HFF00&\u1}il{\r} quinto e il sesto anno
+Dialogue: 0,0:00:14.19,0:00:14.25,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:14.25,0:00:14.43,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il {\1c&HFF00&\u1}quinto{\r} e il sesto anno
+Dialogue: 0,0:00:14.43,0:00:14.45,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:14.45,0:00:14.47,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto {\1c&HFF00&\u1}e{\r} il sesto anno
+Dialogue: 0,0:00:14.47,0:00:14.49,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:14.49,0:00:14.53,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e {\1c&HFF00&\u1}il{\r} sesto anno
+Dialogue: 0,0:00:14.53,0:00:14.55,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:14.55,0:00:14.83,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il {\1c&HFF00&\u1}sesto{\r} anno
+Dialogue: 0,0:00:14.83,0:00:14.89,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto anno
+Dialogue: 0,0:00:14.89,0:00:15.17,Default,,0,0,0,,e l'ho imparato sulla mia pelle, l'ho scoperto al sesto anno sostanzialmente, o meglio, tra il quinto e il sesto {\1c&HFF00&\u1}anno{\r}
+Dialogue: 0,0:00:15.38,0:00:15.44,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:15.44,0:00:15.46,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:15.46,0:00:15.68,Default,,0,0,0,,un {\1c&HFF00&\u1}primo{\r} anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:15.68,0:00:15.78,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:15.78,0:00:16.20,Default,,0,0,0,,un primo {\1c&HFF00&\u1}anno{\r} all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:16.20,0:00:16.36,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:16.36,0:00:17.13,Default,,0,0,0,,un primo anno {\1c&HFF00&\u1}all'apparenza{\r} può sembrare estremamente difficile
+Dialogue: 0,0:00:17.13,0:00:17.19,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:17.19,0:00:17.27,Default,,0,0,0,,un primo anno all'apparenza {\1c&HFF00&\u1}può{\r} sembrare estremamente difficile
+Dialogue: 0,0:00:17.27,0:00:17.37,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:17.37,0:00:17.75,Default,,0,0,0,,un primo anno all'apparenza può {\1c&HFF00&\u1}sembrare{\r} estremamente difficile
+Dialogue: 0,0:00:17.75,0:00:17.79,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:17.79,0:00:18.25,Default,,0,0,0,,un primo anno all'apparenza può sembrare {\1c&HFF00&\u1}estremamente{\r} difficile
+Dialogue: 0,0:00:18.25,0:00:18.29,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente difficile
+Dialogue: 0,0:00:18.29,0:00:18.85,Default,,0,0,0,,un primo anno all'apparenza può sembrare estremamente {\1c&HFF00&\u1}difficile{\r}
+Dialogue: 0,0:00:19.24,0:00:19.44,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:19.44,0:00:19.50,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:19.50,0:00:19.56,Default,,0,0,0,,perché {\1c&HFF00&\u1}si{\r} passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:19.56,0:00:19.62,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:19.62,0:00:19.96,Default,,0,0,0,,perché si {\1c&HFF00&\u1}passa{\r} da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:19.96,0:00:20.04,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:20.04,0:00:20.18,Default,,0,0,0,,perché si passa {\1c&HFF00&\u1}da{\r} un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:20.18,0:00:20.36,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:20.36,0:00:20.44,Default,,0,0,0,,perché si passa da {\1c&HFF00&\u1}un{\r} mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:20.44,0:00:20.52,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:20.52,0:00:21.05,Default,,0,0,0,,perché si passa da un {\1c&HFF00&\u1}mondo{\r} che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.05,0:00:21.19,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.19,0:00:21.33,Default,,0,0,0,,perché si passa da un mondo {\1c&HFF00&\u1}che{\r} è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.33,0:00:21.35,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.35,0:00:21.37,Default,,0,0,0,,perché si passa da un mondo che {\1c&HFF00&\u1}è{\r} un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.37,0:00:21.51,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.51,0:00:21.65,Default,,0,0,0,,perché si passa da un mondo che è {\1c&HFF00&\u1}un{\r} ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.65,0:00:21.69,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:21.69,0:00:22.09,Default,,0,0,0,,perché si passa da un mondo che è un {\1c&HFF00&\u1}ambiente{\r} liceale a quell'universitario
+Dialogue: 0,0:00:22.09,0:00:22.19,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:22.19,0:00:22.75,Default,,0,0,0,,perché si passa da un mondo che è un ambiente {\1c&HFF00&\u1}liceale{\r} a quell'universitario
+Dialogue: 0,0:00:22.75,0:00:22.89,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:22.89,0:00:22.93,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale {\1c&HFF00&\u1}a{\r} quell'universitario
+Dialogue: 0,0:00:22.93,0:00:23.03,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a quell'universitario
+Dialogue: 0,0:00:23.03,0:00:24.26,Default,,0,0,0,,perché si passa da un mondo che è un ambiente liceale a {\1c&HFF00&\u1}quell'universitario{\r}
+Dialogue: 0,0:00:24.44,0:00:24.70,Default,,0,0,0,,{\1c&HFF00&\u1}dove{\r} la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:24.70,0:00:24.93,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:24.93,0:00:25.01,Default,,0,0,0,,dove {\1c&HFF00&\u1}la{\r} materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:25.01,0:00:25.05,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:25.05,0:00:25.69,Default,,0,0,0,,dove la {\1c&HFF00&\u1}materia,{\r} la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:25.69,0:00:25.79,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:25.79,0:00:25.85,Default,,0,0,0,,dove la materia, {\1c&HFF00&\u1}la{\r} mole di lavoro ci può sembrare
+Dialogue: 0,0:00:25.85,0:00:25.91,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:25.91,0:00:26.15,Default,,0,0,0,,dove la materia, la {\1c&HFF00&\u1}mole{\r} di lavoro ci può sembrare
+Dialogue: 0,0:00:26.15,0:00:26.19,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:26.19,0:00:26.27,Default,,0,0,0,,dove la materia, la mole {\1c&HFF00&\u1}di{\r} lavoro ci può sembrare
+Dialogue: 0,0:00:26.27,0:00:26.31,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:26.31,0:00:26.68,Default,,0,0,0,,dove la materia, la mole di {\1c&HFF00&\u1}lavoro{\r} ci può sembrare
+Dialogue: 0,0:00:26.68,0:00:26.78,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:26.78,0:00:26.86,Default,,0,0,0,,dove la materia, la mole di lavoro {\1c&HFF00&\u1}ci{\r} può sembrare
+Dialogue: 0,0:00:26.86,0:00:26.92,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:26.92,0:00:27.02,Default,,0,0,0,,dove la materia, la mole di lavoro ci {\1c&HFF00&\u1}può{\r} sembrare
+Dialogue: 0,0:00:27.02,0:00:27.10,Default,,0,0,0,,dove la materia, la mole di lavoro ci può sembrare
+Dialogue: 0,0:00:27.10,0:00:27.32,Default,,0,0,0,,dove la materia, la mole di lavoro ci può {\1c&HFF00&\u1}sembrare{\r}

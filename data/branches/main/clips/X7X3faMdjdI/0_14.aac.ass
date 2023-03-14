@@ -1,0 +1,168 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.38,0:00:0.60,Default,,0,0,0,,{\1c&HFF00&\u1}sul{\r} gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:0.60,0:00:0.66,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:0.66,0:00:1.04,Default,,0,0,0,,sul {\1c&HFF00&\u1}gas,{\r} su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:1.04,0:00:1.18,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:1.18,0:00:1.30,Default,,0,0,0,,sul gas, {\1c&HFF00&\u1}su{\r} internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:1.30,0:00:1.36,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:1.36,0:00:2.21,Default,,0,0,0,,sul gas, su {\1c&HFF00&\u1}internet,{\r} sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:2.21,0:00:2.61,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:2.61,0:00:3.57,Default,,0,0,0,,sul gas, su internet, {\1c&HFF00&\u1}sull'assicurazione{\r} dell'auto e poi se
+Dialogue: 0,0:00:3.57,0:00:3.63,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:3.63,0:00:4.37,Default,,0,0,0,,sul gas, su internet, sull'assicurazione {\1c&HFF00&\u1}dell'auto{\r} e poi se
+Dialogue: 0,0:00:4.37,0:00:4.73,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:4.73,0:00:4.77,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto {\1c&HFF00&\u1}e{\r} poi se
+Dialogue: 0,0:00:4.77,0:00:4.97,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:4.97,0:00:5.43,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e {\1c&HFF00&\u1}poi{\r} se
+Dialogue: 0,0:00:5.43,0:00:5.59,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi se
+Dialogue: 0,0:00:5.59,0:00:5.65,Default,,0,0,0,,sul gas, su internet, sull'assicurazione dell'auto e poi {\1c&HFF00&\u1}se{\r}
+Dialogue: 0,0:00:5.78,0:00:6.16,Default,,0,0,0,,{\1c&HFF00&\u1}decidi{\r} di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:6.16,0:00:6.26,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:6.26,0:00:6.38,Default,,0,0,0,,decidi {\1c&HFF00&\u1}di{\r} cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:6.38,0:00:6.58,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:6.58,0:00:6.90,Default,,0,0,0,,decidi di {\1c&HFF00&\u1}cambiare{\r} gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:6.90,0:00:7.00,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:7.00,0:00:7.54,Default,,0,0,0,,decidi di cambiare {\1c&HFF00&\u1}gestore{\r} attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:7.54,0:00:7.85,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:7.85,0:00:8.37,Default,,0,0,0,,decidi di cambiare gestore {\1c&HFF00&\u1}attivarla{\r} automaticamente senza perdere tempo a
+Dialogue: 0,0:00:8.37,0:00:8.39,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:8.39,0:00:9.51,Default,,0,0,0,,decidi di cambiare gestore attivarla {\1c&HFF00&\u1}automaticamente{\r} senza perdere tempo a
+Dialogue: 0,0:00:9.51,0:00:9.91,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:9.91,0:00:10.41,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente {\1c&HFF00&\u1}senza{\r} perdere tempo a
+Dialogue: 0,0:00:10.41,0:00:10.55,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:10.55,0:00:10.93,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza {\1c&HFF00&\u1}perdere{\r} tempo a
+Dialogue: 0,0:00:10.93,0:00:11.03,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:11.03,0:00:11.66,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere {\1c&HFF00&\u1}tempo{\r} a
+Dialogue: 0,0:00:11.66,0:00:11.84,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo a
+Dialogue: 0,0:00:11.84,0:00:11.86,Default,,0,0,0,,decidi di cambiare gestore attivarla automaticamente senza perdere tempo {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:12.06,0:00:12.68,Default,,0,0,0,,{\1c&HFF00&\u1}continuare{\r} a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:12.68,0:00:12.78,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:12.78,0:00:12.84,Default,,0,0,0,,continuare {\1c&HFF00&\u1}a{\r} parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:12.84,0:00:12.92,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:12.92,0:00:13.49,Default,,0,0,0,,continuare a {\1c&HFF00&\u1}parlare{\r} con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:13.49,0:00:13.59,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:13.59,0:00:13.79,Default,,0,0,0,,continuare a parlare {\1c&HFF00&\u1}con{\r} l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:13.79,0:00:13.83,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:13.83,0:00:14.45,Default,,0,0,0,,continuare a parlare con {\1c&HFF00&\u1}l'assistenza{\r} a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:14.45,0:00:14.47,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:14.47,0:00:14.49,Default,,0,0,0,,continuare a parlare con l'assistenza {\1c&HFF00&\u1}a{\r} clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:14.49,0:00:14.55,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:14.55,0:00:15.03,Default,,0,0,0,,continuare a parlare con l'assistenza a {\1c&HFF00&\u1}clienti{\r} dei vari gestori viene fatto
+Dialogue: 0,0:00:15.03,0:00:15.21,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:15.21,0:00:15.41,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti {\1c&HFF00&\u1}dei{\r} vari gestori viene fatto
+Dialogue: 0,0:00:15.41,0:00:15.59,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:15.59,0:00:15.89,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei {\1c&HFF00&\u1}vari{\r} gestori viene fatto
+Dialogue: 0,0:00:15.89,0:00:16.07,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:16.07,0:00:16.73,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari {\1c&HFF00&\u1}gestori{\r} viene fatto
+Dialogue: 0,0:00:16.73,0:00:16.95,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:16.95,0:00:17.13,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori {\1c&HFF00&\u1}viene{\r} fatto
+Dialogue: 0,0:00:17.13,0:00:17.19,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene fatto
+Dialogue: 0,0:00:17.19,0:00:17.40,Default,,0,0,0,,continuare a parlare con l'assistenza a clienti dei vari gestori viene {\1c&HFF00&\u1}fatto{\r}
+Dialogue: 0,0:00:17.36,0:00:17.46,Default,,0,0,0,,{\1c&HFF00&\u1}tutto{\r} in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.46,0:00:17.48,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.48,0:00:17.52,Default,,0,0,0,,tutto {\1c&HFF00&\u1}in{\r} automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.52,0:00:17.54,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.54,0:00:17.74,Default,,0,0,0,,tutto in {\1c&HFF00&\u1}automatico{\r} trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.74,0:00:17.76,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.76,0:00:17.86,Default,,0,0,0,,tutto in automatico {\1c&HFF00&\u1}trovi{\r} il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.86,0:00:17.88,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.88,0:00:17.92,Default,,0,0,0,,tutto in automatico trovi {\1c&HFF00&\u1}il{\r} link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.92,0:00:17.94,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:17.94,0:00:18.02,Default,,0,0,0,,tutto in automatico trovi il {\1c&HFF00&\u1}link{\r} in descrizione al video in questo modo
+Dialogue: 0,0:00:18.02,0:00:18.04,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:18.04,0:00:18.08,Default,,0,0,0,,tutto in automatico trovi il link {\1c&HFF00&\u1}in{\r} descrizione al video in questo modo
+Dialogue: 0,0:00:18.08,0:00:18.10,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:18.10,0:00:18.32,Default,,0,0,0,,tutto in automatico trovi il link in {\1c&HFF00&\u1}descrizione{\r} al video in questo modo
+Dialogue: 0,0:00:18.32,0:00:18.34,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:18.34,0:00:18.38,Default,,0,0,0,,tutto in automatico trovi il link in descrizione {\1c&HFF00&\u1}al{\r} video in questo modo
+Dialogue: 0,0:00:18.38,0:00:18.40,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:18.40,0:00:18.52,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al {\1c&HFF00&\u1}video{\r} in questo modo
+Dialogue: 0,0:00:18.52,0:00:18.56,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:18.56,0:00:18.60,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video {\1c&HFF00&\u1}in{\r} questo modo
+Dialogue: 0,0:00:18.60,0:00:18.62,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:18.62,0:00:18.74,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in {\1c&HFF00&\u1}questo{\r} modo
+Dialogue: 0,0:00:18.74,0:00:18.76,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo modo
+Dialogue: 0,0:00:18.76,0:00:18.86,Default,,0,0,0,,tutto in automatico trovi il link in descrizione al video in questo {\1c&HFF00&\u1}modo{\r}
+Dialogue: 0,0:00:21.72,0:00:21.96,Default,,0,0,0,,{\1c&HFF00&\u1}potrai{\r} provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:21.96,0:00:22.08,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:22.08,0:00:22.70,Default,,0,0,0,,potrai {\1c&HFF00&\u1}provarla{\r} e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:22.70,0:00:22.88,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:22.88,0:00:22.92,Default,,0,0,0,,potrai provarla {\1c&HFF00&\u1}e{\r} poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:22.92,0:00:23.04,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:23.04,0:00:23.32,Default,,0,0,0,,potrai provarla e {\1c&HFF00&\u1}poi{\r} fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:23.32,0:00:23.52,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:23.52,0:00:23.75,Default,,0,0,0,,potrai provarla e poi {\1c&HFF00&\u1}fammi{\r} sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:23.75,0:00:23.83,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:23.83,0:00:24.37,Default,,0,0,0,,potrai provarla e poi fammi {\1c&HFF00&\u1}sapere{\r} se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:24.37,0:00:24.61,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:24.61,0:00:24.73,Default,,0,0,0,,potrai provarla e poi fammi sapere {\1c&HFF00&\u1}se{\r} effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:24.73,0:00:24.79,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:24.79,0:00:25.69,Default,,0,0,0,,potrai provarla e poi fammi sapere se {\1c&HFF00&\u1}effettivamente{\r} è fatto uno switch e se
+Dialogue: 0,0:00:25.69,0:00:25.71,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:25.71,0:00:25.73,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente {\1c&HFF00&\u1}è{\r} fatto uno switch e se
+Dialogue: 0,0:00:25.73,0:00:25.85,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:25.85,0:00:26.09,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è {\1c&HFF00&\u1}fatto{\r} uno switch e se
+Dialogue: 0,0:00:26.09,0:00:26.11,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:26.11,0:00:26.25,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto {\1c&HFF00&\u1}uno{\r} switch e se
+Dialogue: 0,0:00:26.25,0:00:26.35,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:26.35,0:00:26.85,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno {\1c&HFF00&\u1}switch{\r} e se
+Dialogue: 0,0:00:26.85,0:00:27.39,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:27.39,0:00:27.49,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch {\1c&HFF00&\u1}e{\r} se
+Dialogue: 0,0:00:27.49,0:00:27.70,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e se
+Dialogue: 0,0:00:27.70,0:00:27.76,Default,,0,0,0,,potrai provarla e poi fammi sapere se effettivamente è fatto uno switch e {\1c&HFF00&\u1}se{\r}
+Dialogue: 0,0:00:28.00,0:00:28.04,Default,,0,0,0,,{\1c&HFF00&\u1}ti{\r} sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:28.04,0:00:28.16,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:28.16,0:00:28.26,Default,,0,0,0,,ti {\1c&HFF00&\u1}sei{\r} trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:28.26,0:00:28.28,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:28.28,0:00:28.56,Default,,0,0,0,,ti sei {\1c&HFF00&\u1}trovato{\r} bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:28.56,0:00:28.66,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:28.66,0:00:28.96,Default,,0,0,0,,ti sei trovato {\1c&HFF00&\u1}bene{\r} perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:28.96,0:00:29.00,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.00,0:00:29.26,Default,,0,0,0,,ti sei trovato bene {\1c&HFF00&\u1}perché{\r} io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.26,0:00:29.36,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.36,0:00:29.44,Default,,0,0,0,,ti sei trovato bene perché {\1c&HFF00&\u1}io{\r} mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.44,0:00:29.60,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.60,0:00:29.67,Default,,0,0,0,,ti sei trovato bene perché io {\1c&HFF00&\u1}mi{\r} sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.67,0:00:29.71,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.71,0:00:29.85,Default,,0,0,0,,ti sei trovato bene perché io mi {\1c&HFF00&\u1}sono{\r} trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.85,0:00:29.91,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:29.91,0:00:30.19,Default,,0,0,0,,ti sei trovato bene perché io mi sono {\1c&HFF00&\u1}trovata{\r} veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:30.19,0:00:30.23,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:30.23,0:00:30.61,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata {\1c&HFF00&\u1}veramente{\r} bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:30.61,0:00:30.71,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:30.71,0:00:30.91,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente {\1c&HFF00&\u1}bene{\r} adesso invece ti suggerisco un
+Dialogue: 0,0:00:30.91,0:00:31.15,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:31.15,0:00:31.63,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene {\1c&HFF00&\u1}adesso{\r} invece ti suggerisco un
+Dialogue: 0,0:00:31.63,0:00:31.93,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:31.93,0:00:32.31,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso {\1c&HFF00&\u1}invece{\r} ti suggerisco un
+Dialogue: 0,0:00:32.31,0:00:32.51,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:32.51,0:00:32.79,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece {\1c&HFF00&\u1}ti{\r} suggerisco un
+Dialogue: 0,0:00:32.79,0:00:32.87,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:32.87,0:00:33.31,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti {\1c&HFF00&\u1}suggerisco{\r} un
+Dialogue: 0,0:00:33.31,0:00:33.35,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco un
+Dialogue: 0,0:00:33.35,0:00:33.39,Default,,0,0,0,,ti sei trovato bene perché io mi sono trovata veramente bene adesso invece ti suggerisco {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:33.66,0:00:33.98,Default,,0,0,0,,{\1c&HFF00&\u1}app{\r} molto pratica per riuscire a risparmiare
+Dialogue: 0,0:00:33.98,0:00:34.00,Default,,0,0,0,,app molto pratica per riuscire a risparmiare
+Dialogue: 0,0:00:34.00,0:00:34.24,Default,,0,0,0,,app {\1c&HFF00&\u1}molto{\r} pratica per riuscire a risparmiare
+Dialogue: 0,0:00:34.24,0:00:34.32,Default,,0,0,0,,app molto pratica per riuscire a risparmiare
+Dialogue: 0,0:00:34.32,0:00:34.80,Default,,0,0,0,,app molto {\1c&HFF00&\u1}pratica{\r} per riuscire a risparmiare
+Dialogue: 0,0:00:34.80,0:00:35.04,Default,,0,0,0,,app molto pratica per riuscire a risparmiare
+Dialogue: 0,0:00:35.04,0:00:35.42,Default,,0,0,0,,app molto pratica {\1c&HFF00&\u1}per{\r} riuscire a risparmiare
+Dialogue: 0,0:00:35.42,0:00:35.88,Default,,0,0,0,,app molto pratica per riuscire a risparmiare
+Dialogue: 0,0:00:35.88,0:00:36.59,Default,,0,0,0,,app molto pratica per {\1c&HFF00&\u1}riuscire{\r} a risparmiare
+Dialogue: 0,0:00:36.59,0:00:36.79,Default,,0,0,0,,app molto pratica per riuscire a risparmiare
+Dialogue: 0,0:00:36.79,0:00:36.93,Default,,0,0,0,,app molto pratica per riuscire {\1c&HFF00&\u1}a{\r} risparmiare
+Dialogue: 0,0:00:36.93,0:00:37.01,Default,,0,0,0,,app molto pratica per riuscire a risparmiare
+Dialogue: 0,0:00:37.01,0:00:37.63,Default,,0,0,0,,app molto pratica per riuscire a {\1c&HFF00&\u1}risparmiare{\r}

@@ -1,0 +1,821 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.12,0:00:1.20,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} stavo dicendo che semplicemente
+Dialogue: 0,0:00:1.20,0:00:1.51,Default,,0,0,0,,e stavo dicendo che semplicemente
+Dialogue: 0,0:00:1.51,0:00:1.73,Default,,0,0,0,,e {\1c&HFF00&\u1}stavo{\r} dicendo che semplicemente
+Dialogue: 0,0:00:1.73,0:00:1.77,Default,,0,0,0,,e stavo dicendo che semplicemente
+Dialogue: 0,0:00:1.77,0:00:2.23,Default,,0,0,0,,e stavo {\1c&HFF00&\u1}dicendo{\r} che semplicemente
+Dialogue: 0,0:00:2.23,0:00:2.75,Default,,0,0,0,,e stavo dicendo che semplicemente
+Dialogue: 0,0:00:2.75,0:00:2.93,Default,,0,0,0,,e stavo dicendo {\1c&HFF00&\u1}che{\r} semplicemente
+Dialogue: 0,0:00:2.93,0:00:3.29,Default,,0,0,0,,e stavo dicendo che semplicemente
+Dialogue: 0,0:00:3.29,0:00:4.03,Default,,0,0,0,,e stavo dicendo che {\1c&HFF00&\u1}semplicemente{\r}
+Dialogue: 0,0:00:4.44,0:00:4.72,Default,,0,0,0,,{\1c&HFF00&\u1}negli{\r} states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:4.72,0:00:4.74,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:4.74,0:00:5.30,Default,,0,0,0,,negli {\1c&HFF00&\u1}states{\r} tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.30,0:00:5.32,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.32,0:00:5.52,Default,,0,0,0,,negli states {\1c&HFF00&\u1}tutto{\r} quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.52,0:00:5.56,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.56,0:00:5.74,Default,,0,0,0,,negli states tutto {\1c&HFF00&\u1}quello{\r} che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.74,0:00:5.76,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.76,0:00:5.82,Default,,0,0,0,,negli states tutto quello {\1c&HFF00&\u1}che{\r} accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.82,0:00:5.84,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:5.84,0:00:6.07,Default,,0,0,0,,negli states tutto quello che {\1c&HFF00&\u1}accade{\r} negli states è poi riportato in italia
+Dialogue: 0,0:00:6.07,0:00:6.11,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:6.11,0:00:6.31,Default,,0,0,0,,negli states tutto quello che accade {\1c&HFF00&\u1}negli{\r} states è poi riportato in italia
+Dialogue: 0,0:00:6.31,0:00:6.37,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:6.37,0:00:6.85,Default,,0,0,0,,negli states tutto quello che accade negli {\1c&HFF00&\u1}states{\r} è poi riportato in italia
+Dialogue: 0,0:00:6.85,0:00:7.31,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:7.31,0:00:7.41,Default,,0,0,0,,negli states tutto quello che accade negli states {\1c&HFF00&\u1}è{\r} poi riportato in italia
+Dialogue: 0,0:00:7.41,0:00:8.47,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:8.47,0:00:8.67,Default,,0,0,0,,negli states tutto quello che accade negli states è {\1c&HFF00&\u1}poi{\r} riportato in italia
+Dialogue: 0,0:00:8.67,0:00:8.81,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:8.81,0:00:9.43,Default,,0,0,0,,negli states tutto quello che accade negli states è poi {\1c&HFF00&\u1}riportato{\r} in italia
+Dialogue: 0,0:00:9.43,0:00:9.47,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:9.47,0:00:9.55,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato {\1c&HFF00&\u1}in{\r} italia
+Dialogue: 0,0:00:9.55,0:00:9.57,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in italia
+Dialogue: 0,0:00:9.57,0:00:9.91,Default,,0,0,0,,negli states tutto quello che accade negli states è poi riportato in {\1c&HFF00&\u1}italia{\r}
+Dialogue: 0,0:00:9.90,0:00:9.92,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:9.92,0:00:9.94,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:9.94,0:00:10.14,Default,,0,0,0,,e {\1c&HFF00&\u1}ovviamente{\r} con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.14,0:00:10.16,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.16,0:00:10.22,Default,,0,0,0,,e ovviamente {\1c&HFF00&\u1}con{\r} chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.22,0:00:10.24,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.24,0:00:10.36,Default,,0,0,0,,e ovviamente con {\1c&HFF00&\u1}chiave{\r} diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.36,0:00:10.38,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.38,0:00:10.52,Default,,0,0,0,,e ovviamente con chiave {\1c&HFF00&\u1}diversa{\r} ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.52,0:00:10.54,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.54,0:00:10.58,Default,,0,0,0,,e ovviamente con chiave diversa {\1c&HFF00&\u1}ma{\r} non completamente diversa oggi su
+Dialogue: 0,0:00:10.58,0:00:10.60,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.60,0:00:10.66,Default,,0,0,0,,e ovviamente con chiave diversa ma {\1c&HFF00&\u1}non{\r} completamente diversa oggi su
+Dialogue: 0,0:00:10.66,0:00:10.68,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.68,0:00:10.94,Default,,0,0,0,,e ovviamente con chiave diversa ma non {\1c&HFF00&\u1}completamente{\r} diversa oggi su
+Dialogue: 0,0:00:10.94,0:00:10.96,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:10.96,0:00:11.10,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente {\1c&HFF00&\u1}diversa{\r} oggi su
+Dialogue: 0,0:00:11.10,0:00:11.12,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:11.12,0:00:11.20,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa {\1c&HFF00&\u1}oggi{\r} su
+Dialogue: 0,0:00:11.20,0:00:11.22,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi su
+Dialogue: 0,0:00:11.22,0:00:11.26,Default,,0,0,0,,e ovviamente con chiave diversa ma non completamente diversa oggi {\1c&HFF00&\u1}su{\r}
+Dialogue: 0,0:00:19.15,0:00:19.35,Default,,0,0,0,,{\1c&HFF00&\u1}tiktok{\r} ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.35,0:00:19.37,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.37,0:00:19.43,Default,,0,0,0,,tiktok {\1c&HFF00&\u1}ci{\r} sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.43,0:00:19.45,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.45,0:00:19.79,Default,,0,0,0,,tiktok ci {\1c&HFF00&\u1}sono{\r} un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.79,0:00:19.83,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.83,0:00:19.91,Default,,0,0,0,,tiktok ci sono {\1c&HFF00&\u1}un{\r} sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.91,0:00:19.95,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:19.95,0:00:20.31,Default,,0,0,0,,tiktok ci sono un {\1c&HFF00&\u1}sacco{\r} di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:20.31,0:00:20.33,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:20.33,0:00:20.39,Default,,0,0,0,,tiktok ci sono un sacco {\1c&HFF00&\u1}di{\r} format per chi non lo sapesse un format è
+Dialogue: 0,0:00:20.39,0:00:20.45,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:20.45,0:00:21.00,Default,,0,0,0,,tiktok ci sono un sacco di {\1c&HFF00&\u1}format{\r} per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.00,0:00:21.02,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.02,0:00:21.10,Default,,0,0,0,,tiktok ci sono un sacco di format {\1c&HFF00&\u1}per{\r} chi non lo sapesse un format è
+Dialogue: 0,0:00:21.10,0:00:21.12,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.12,0:00:21.18,Default,,0,0,0,,tiktok ci sono un sacco di format per {\1c&HFF00&\u1}chi{\r} non lo sapesse un format è
+Dialogue: 0,0:00:21.18,0:00:21.20,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.20,0:00:21.26,Default,,0,0,0,,tiktok ci sono un sacco di format per chi {\1c&HFF00&\u1}non{\r} lo sapesse un format è
+Dialogue: 0,0:00:21.26,0:00:21.28,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.28,0:00:21.38,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non {\1c&HFF00&\u1}lo{\r} sapesse un format è
+Dialogue: 0,0:00:21.38,0:00:21.40,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.40,0:00:21.54,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo {\1c&HFF00&\u1}sapesse{\r} un format è
+Dialogue: 0,0:00:21.54,0:00:21.56,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.56,0:00:21.60,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse {\1c&HFF00&\u1}un{\r} format è
+Dialogue: 0,0:00:21.60,0:00:21.62,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.62,0:00:21.76,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un {\1c&HFF00&\u1}format{\r} è
+Dialogue: 0,0:00:21.76,0:00:21.78,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format è
+Dialogue: 0,0:00:21.78,0:00:21.80,Default,,0,0,0,,tiktok ci sono un sacco di format per chi non lo sapesse un format {\1c&HFF00&\u1}è{\r}
+Dialogue: 0,0:00:20.58,0:00:21.16,Default,,0,0,0,,{\1c&HFF00&\u1}semplicemente{\r} un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:21.16,0:00:21.74,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:21.74,0:00:22.04,Default,,0,0,0,,semplicemente {\1c&HFF00&\u1}un{\r} tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:22.04,0:00:22.99,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:22.99,0:00:23.19,Default,,0,0,0,,semplicemente un {\1c&HFF00&\u1}tipo{\r} di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:23.19,0:00:23.25,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:23.25,0:00:23.31,Default,,0,0,0,,semplicemente un tipo {\1c&HFF00&\u1}di{\r} video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:23.31,0:00:23.35,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:23.35,0:00:23.69,Default,,0,0,0,,semplicemente un tipo di {\1c&HFF00&\u1}video{\r} che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:23.69,0:00:24.57,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:24.57,0:00:24.71,Default,,0,0,0,,semplicemente un tipo di video {\1c&HFF00&\u1}che{\r} viene creato da tantissimi creator e che
+Dialogue: 0,0:00:24.71,0:00:24.97,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:24.97,0:00:25.13,Default,,0,0,0,,semplicemente un tipo di video che {\1c&HFF00&\u1}viene{\r} creato da tantissimi creator e che
+Dialogue: 0,0:00:25.13,0:00:25.19,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:25.19,0:00:25.51,Default,,0,0,0,,semplicemente un tipo di video che viene {\1c&HFF00&\u1}creato{\r} da tantissimi creator e che
+Dialogue: 0,0:00:25.51,0:00:25.57,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:25.57,0:00:25.69,Default,,0,0,0,,semplicemente un tipo di video che viene creato {\1c&HFF00&\u1}da{\r} tantissimi creator e che
+Dialogue: 0,0:00:25.69,0:00:25.95,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:25.95,0:00:26.47,Default,,0,0,0,,semplicemente un tipo di video che viene creato da {\1c&HFF00&\u1}tantissimi{\r} creator e che
+Dialogue: 0,0:00:26.47,0:00:26.53,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:26.53,0:00:26.99,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi {\1c&HFF00&\u1}creator{\r} e che
+Dialogue: 0,0:00:26.99,0:00:28.22,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:28.22,0:00:28.26,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator {\1c&HFF00&\u1}e{\r} che
+Dialogue: 0,0:00:28.26,0:00:28.34,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e che
+Dialogue: 0,0:00:28.34,0:00:28.42,Default,,0,0,0,,semplicemente un tipo di video che viene creato da tantissimi creator e {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:28.38,0:00:30.43,Default,,0,0,0,,{\1c&HFF00&\u1}segue{\r} solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:30.43,0:00:30.45,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:30.45,0:00:32.67,Default,,0,0,0,,segue {\1c&HFF00&\u1}solitamente{\r} un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:32.67,0:00:32.85,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:32.85,0:00:32.89,Default,,0,0,0,,segue solitamente {\1c&HFF00&\u1}un{\r} hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:32.89,0:00:32.97,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:32.97,0:00:33.35,Default,,0,0,0,,segue solitamente un {\1c&HFF00&\u1}hashtag.{\r} Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:33.35,0:00:33.39,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:33.39,0:00:34.12,Default,,0,0,0,,segue solitamente un hashtag. {\1c&HFF00&\u1}Questo{\r} è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.12,0:00:34.14,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.14,0:00:34.16,Default,,0,0,0,,segue solitamente un hashtag. Questo {\1c&HFF00&\u1}è{\r} un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.16,0:00:34.18,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.18,0:00:34.38,Default,,0,0,0,,segue solitamente un hashtag. Questo è {\1c&HFF00&\u1}un{\r} format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.38,0:00:34.40,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.40,0:00:34.52,Default,,0,0,0,,segue solitamente un hashtag. Questo è un {\1c&HFF00&\u1}format.{\r} I format più famosi su tiktok
+Dialogue: 0,0:00:34.52,0:00:34.54,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.54,0:00:34.56,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. {\1c&HFF00&\u1}I{\r} format più famosi su tiktok
+Dialogue: 0,0:00:34.56,0:00:34.58,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.58,0:00:34.70,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I {\1c&HFF00&\u1}format{\r} più famosi su tiktok
+Dialogue: 0,0:00:34.70,0:00:34.72,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.72,0:00:34.78,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format {\1c&HFF00&\u1}più{\r} famosi su tiktok
+Dialogue: 0,0:00:34.78,0:00:34.80,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.80,0:00:34.92,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più {\1c&HFF00&\u1}famosi{\r} su tiktok
+Dialogue: 0,0:00:34.92,0:00:34.94,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:34.94,0:00:34.98,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi {\1c&HFF00&\u1}su{\r} tiktok
+Dialogue: 0,0:00:34.98,0:00:35.00,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su tiktok
+Dialogue: 0,0:00:35.00,0:00:35.12,Default,,0,0,0,,segue solitamente un hashtag. Questo è un format. I format più famosi su {\1c&HFF00&\u1}tiktok{\r}
+Dialogue: 0,0:00:34.44,0:00:34.70,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:34.70,0:00:34.94,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:34.94,0:00:35.16,Default,,0,0,0,,sono {\1c&HFF00&\u1}get{\r} ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:35.16,0:00:35.18,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:35.18,0:00:35.38,Default,,0,0,0,,sono get {\1c&HFF00&\u1}ready{\r} with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:35.38,0:00:35.40,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:35.40,0:00:35.59,Default,,0,0,0,,sono get ready {\1c&HFF00&\u1}with{\r} me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:35.59,0:00:35.63,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:35.63,0:00:35.77,Default,,0,0,0,,sono get ready with {\1c&HFF00&\u1}me{\r} che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:35.77,0:00:36.21,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:36.21,0:00:36.41,Default,,0,0,0,,sono get ready with me {\1c&HFF00&\u1}che{\r} è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:36.41,0:00:37.29,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:37.29,0:00:37.33,Default,,0,0,0,,sono get ready with me che {\1c&HFF00&\u1}è{\r} fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:37.33,0:00:37.39,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:37.39,0:00:37.59,Default,,0,0,0,,sono get ready with me che è {\1c&HFF00&\u1}fatto{\r} principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:37.59,0:00:37.65,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:37.65,0:00:38.27,Default,,0,0,0,,sono get ready with me che è fatto {\1c&HFF00&\u1}principalmente{\r} dalle ragazze ma anche
+Dialogue: 0,0:00:38.27,0:00:38.33,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:38.33,0:00:38.51,Default,,0,0,0,,sono get ready with me che è fatto principalmente {\1c&HFF00&\u1}dalle{\r} ragazze ma anche
+Dialogue: 0,0:00:38.51,0:00:38.55,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:38.55,0:00:38.91,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle {\1c&HFF00&\u1}ragazze{\r} ma anche
+Dialogue: 0,0:00:38.91,0:00:38.97,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:38.97,0:00:39.01,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze {\1c&HFF00&\u1}ma{\r} anche
+Dialogue: 0,0:00:39.01,0:00:39.03,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma anche
+Dialogue: 0,0:00:39.03,0:00:39.19,Default,,0,0,0,,sono get ready with me che è fatto principalmente dalle ragazze ma {\1c&HFF00&\u1}anche{\r}
+Dialogue: 0,0:00:39.18,0:00:39.22,Default,,0,0,0,,{\1c&HFF00&\u1}da{\r} qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:39.22,0:00:39.24,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:39.24,0:00:39.52,Default,,0,0,0,,da {\1c&HFF00&\u1}qualche{\r} ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:39.52,0:00:39.54,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:39.54,0:00:40.46,Default,,0,0,0,,da qualche {\1c&HFF00&\u1}ragazzo{\r} che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.46,0:00:40.50,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.50,0:00:40.74,Default,,0,0,0,,da qualche ragazzo {\1c&HFF00&\u1}che{\r} non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.74,0:00:40.78,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.78,0:00:40.86,Default,,0,0,0,,da qualche ragazzo che {\1c&HFF00&\u1}non{\r} è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.86,0:00:40.88,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.88,0:00:40.92,Default,,0,0,0,,da qualche ragazzo che non {\1c&HFF00&\u1}è{\r} altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.92,0:00:40.97,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:40.97,0:00:41.21,Default,,0,0,0,,da qualche ragazzo che non è {\1c&HFF00&\u1}altro{\r} che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:41.21,0:00:41.29,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:41.29,0:00:41.47,Default,,0,0,0,,da qualche ragazzo che non è altro {\1c&HFF00&\u1}che{\r} vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:41.47,0:00:42.11,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:42.11,0:00:42.19,Default,,0,0,0,,da qualche ragazzo che non è altro che {\1c&HFF00&\u1}vi{\r} faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:42.19,0:00:42.23,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:42.23,0:00:42.43,Default,,0,0,0,,da qualche ragazzo che non è altro che vi {\1c&HFF00&\u1}faccio{\r} vedere come mi vesto per fare
+Dialogue: 0,0:00:42.43,0:00:42.49,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:42.49,0:00:42.81,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio {\1c&HFF00&\u1}vedere{\r} come mi vesto per fare
+Dialogue: 0,0:00:42.81,0:00:42.91,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:42.91,0:00:43.11,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere {\1c&HFF00&\u1}come{\r} mi vesto per fare
+Dialogue: 0,0:00:43.11,0:00:43.21,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:43.21,0:00:43.27,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come {\1c&HFF00&\u1}mi{\r} vesto per fare
+Dialogue: 0,0:00:43.27,0:00:43.31,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:43.31,0:00:43.71,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi {\1c&HFF00&\u1}vesto{\r} per fare
+Dialogue: 0,0:00:43.71,0:00:43.81,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:43.81,0:00:44.03,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto {\1c&HFF00&\u1}per{\r} fare
+Dialogue: 0,0:00:44.03,0:00:44.11,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per fare
+Dialogue: 0,0:00:44.11,0:00:44.25,Default,,0,0,0,,da qualche ragazzo che non è altro che vi faccio vedere come mi vesto per {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:00:44.38,0:00:44.50,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:44.50,0:00:44.52,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:44.52,0:00:45.18,Default,,0,0,0,,una {\1c&HFF00&\u1}cosa.{\r} Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.18,0:00:45.20,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.20,0:00:45.36,Default,,0,0,0,,una cosa. {\1c&HFF00&\u1}Questo{\r} è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.36,0:00:45.38,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.38,0:00:45.40,Default,,0,0,0,,una cosa. Questo {\1c&HFF00&\u1}è{\r} un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.40,0:00:45.44,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.44,0:00:45.50,Default,,0,0,0,,una cosa. Questo è {\1c&HFF00&\u1}un{\r} format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.50,0:00:45.52,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.52,0:00:45.97,Default,,0,0,0,,una cosa. Questo è un {\1c&HFF00&\u1}format.{\r} Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:45.97,0:00:46.27,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:46.27,0:00:46.79,Default,,0,0,0,,una cosa. Questo è un format. {\1c&HFF00&\u1}Ultimamente{\r} però dato che la piattaforma si sta
+Dialogue: 0,0:00:46.79,0:00:46.85,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:46.85,0:00:46.99,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente {\1c&HFF00&\u1}però{\r} dato che la piattaforma si sta
+Dialogue: 0,0:00:46.99,0:00:47.09,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:47.09,0:00:47.25,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però {\1c&HFF00&\u1}dato{\r} che la piattaforma si sta
+Dialogue: 0,0:00:47.25,0:00:47.27,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:47.27,0:00:47.35,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato {\1c&HFF00&\u1}che{\r} la piattaforma si sta
+Dialogue: 0,0:00:47.35,0:00:47.41,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:47.41,0:00:47.45,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che {\1c&HFF00&\u1}la{\r} piattaforma si sta
+Dialogue: 0,0:00:47.45,0:00:47.49,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:47.49,0:00:48.01,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la {\1c&HFF00&\u1}piattaforma{\r} si sta
+Dialogue: 0,0:00:48.01,0:00:48.07,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:48.07,0:00:48.15,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma {\1c&HFF00&\u1}si{\r} sta
+Dialogue: 0,0:00:48.15,0:00:48.19,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si sta
+Dialogue: 0,0:00:48.19,0:00:48.33,Default,,0,0,0,,una cosa. Questo è un format. Ultimamente però dato che la piattaforma si {\1c&HFF00&\u1}sta{\r}
+Dialogue: 0,0:00:48.48,0:00:49.04,Default,,0,0,0,,{\1c&HFF00&\u1}avvicinando{\r} sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.04,0:00:49.10,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.10,0:00:49.32,Default,,0,0,0,,avvicinando {\1c&HFF00&\u1}sempre{\r} di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.32,0:00:49.36,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.36,0:00:49.42,Default,,0,0,0,,avvicinando sempre {\1c&HFF00&\u1}di{\r} più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.42,0:00:49.46,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.46,0:00:49.54,Default,,0,0,0,,avvicinando sempre di {\1c&HFF00&\u1}più{\r} a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.54,0:00:49.56,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.56,0:00:49.58,Default,,0,0,0,,avvicinando sempre di più {\1c&HFF00&\u1}a{\r} un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.58,0:00:49.62,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.62,0:00:49.70,Default,,0,0,0,,avvicinando sempre di più a {\1c&HFF00&\u1}un{\r} target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.70,0:00:49.74,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:49.74,0:00:50.03,Default,,0,0,0,,avvicinando sempre di più a un {\1c&HFF00&\u1}target{\r} adulto è esploso il format booktok ma
+Dialogue: 0,0:00:50.03,0:00:50.15,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:50.15,0:00:50.61,Default,,0,0,0,,avvicinando sempre di più a un target {\1c&HFF00&\u1}adulto{\r} è esploso il format booktok ma
+Dialogue: 0,0:00:50.61,0:00:51.07,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:51.07,0:00:51.09,Default,,0,0,0,,avvicinando sempre di più a un target adulto {\1c&HFF00&\u1}è{\r} esploso il format booktok ma
+Dialogue: 0,0:00:51.09,0:00:51.35,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:51.35,0:00:51.71,Default,,0,0,0,,avvicinando sempre di più a un target adulto è {\1c&HFF00&\u1}esploso{\r} il format booktok ma
+Dialogue: 0,0:00:51.71,0:00:51.75,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:51.75,0:00:51.81,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso {\1c&HFF00&\u1}il{\r} format booktok ma
+Dialogue: 0,0:00:51.81,0:00:51.87,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:51.87,0:00:52.27,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il {\1c&HFF00&\u1}format{\r} booktok ma
+Dialogue: 0,0:00:52.27,0:00:52.33,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:52.33,0:00:52.89,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format {\1c&HFF00&\u1}booktok{\r} ma
+Dialogue: 0,0:00:52.89,0:00:53.17,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok ma
+Dialogue: 0,0:00:53.17,0:00:53.21,Default,,0,0,0,,avvicinando sempre di più a un target adulto è esploso il format booktok {\1c&HFF00&\u1}ma{\r}
+Dialogue: 0,0:00:53.18,0:00:53.36,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:53.36,0:00:53.42,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:53.42,0:00:53.88,Default,,0,0,0,,è {\1c&HFF00&\u1}letteralmente{\r} esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:53.88,0:00:53.90,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:53.90,0:00:54.28,Default,,0,0,0,,è letteralmente {\1c&HFF00&\u1}esploso,{\r} tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:54.28,0:00:54.46,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:54.46,0:00:54.79,Default,,0,0,0,,è letteralmente esploso, {\1c&HFF00&\u1}tant'è{\r} che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:54.79,0:00:54.89,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:54.89,0:00:55.05,Default,,0,0,0,,è letteralmente esploso, tant'è {\1c&HFF00&\u1}che{\r} io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.05,0:00:55.45,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.45,0:00:55.53,Default,,0,0,0,,è letteralmente esploso, tant'è che {\1c&HFF00&\u1}io{\r} sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.53,0:00:55.57,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.57,0:00:55.71,Default,,0,0,0,,è letteralmente esploso, tant'è che io {\1c&HFF00&\u1}sono{\r} stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.71,0:00:55.73,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.73,0:00:55.91,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono {\1c&HFF00&\u1}stato{\r} in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.91,0:00:55.95,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:55.95,0:00:56.01,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato {\1c&HFF00&\u1}in{\r} Feltrinelli a Milano tre
+Dialogue: 0,0:00:56.01,0:00:56.05,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:56.05,0:00:56.59,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in {\1c&HFF00&\u1}Feltrinelli{\r} a Milano tre
+Dialogue: 0,0:00:56.59,0:00:56.63,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:56.63,0:00:56.67,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli {\1c&HFF00&\u1}a{\r} Milano tre
+Dialogue: 0,0:00:56.67,0:00:56.73,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:56.73,0:00:57.07,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a {\1c&HFF00&\u1}Milano{\r} tre
+Dialogue: 0,0:00:57.07,0:00:57.19,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano tre
+Dialogue: 0,0:00:57.19,0:00:57.25,Default,,0,0,0,,è letteralmente esploso, tant'è che io sono stato in Feltrinelli a Milano {\1c&HFF00&\u1}tre{\r}
+Dialogue: 0,0:00:57.26,0:00:57.38,Default,,0,0,0,,{\1c&HFF00&\u1}giorni{\r} fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.38,0:00:57.40,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.40,0:00:57.44,Default,,0,0,0,,giorni {\1c&HFF00&\u1}fa{\r} c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.44,0:00:57.46,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.46,0:00:57.50,Default,,0,0,0,,giorni fa {\1c&HFF00&\u1}c'è{\r} una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.50,0:00:57.52,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.52,0:00:57.58,Default,,0,0,0,,giorni fa c'è {\1c&HFF00&\u1}una{\r} vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.58,0:00:57.60,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.60,0:00:57.74,Default,,0,0,0,,giorni fa c'è una {\1c&HFF00&\u1}vetrina{\r} letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.74,0:00:57.76,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:57.76,0:00:58.02,Default,,0,0,0,,giorni fa c'è una vetrina {\1c&HFF00&\u1}letteralmente{\r} dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.02,0:00:58.04,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.04,0:00:58.20,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente {\1c&HFF00&\u1}dedicata{\r} a booktok, quel è un format no?
+Dialogue: 0,0:00:58.20,0:00:58.22,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.22,0:00:58.24,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata {\1c&HFF00&\u1}a{\r} booktok, quel è un format no?
+Dialogue: 0,0:00:58.24,0:00:58.26,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.26,0:00:58.40,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a {\1c&HFF00&\u1}booktok,{\r} quel è un format no?
+Dialogue: 0,0:00:58.40,0:00:58.42,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.42,0:00:58.50,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, {\1c&HFF00&\u1}quel{\r} è un format no?
+Dialogue: 0,0:00:58.50,0:00:58.52,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.52,0:00:58.54,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel {\1c&HFF00&\u1}è{\r} un format no?
+Dialogue: 0,0:00:58.54,0:00:58.56,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.56,0:00:58.60,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è {\1c&HFF00&\u1}un{\r} format no?
+Dialogue: 0,0:00:58.60,0:00:58.62,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.62,0:00:58.74,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un {\1c&HFF00&\u1}format{\r} no?
+Dialogue: 0,0:00:58.74,0:00:58.76,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format no?
+Dialogue: 0,0:00:58.76,0:00:58.80,Default,,0,0,0,,giorni fa c'è una vetrina letteralmente dedicata a booktok, quel è un format {\1c&HFF00&\u1}no?{\r}
+Dialogue: 0,0:01:3.90,0:01:3.94,Default,,0,0,0,,{\1c&HFF00&\u1}io{\r} l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:3.94,0:01:4.00,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.00,0:01:4.10,Default,,0,0,0,,io {\1c&HFF00&\u1}l'ho{\r} anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.10,0:01:4.18,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.18,0:01:4.34,Default,,0,0,0,,io l'ho {\1c&HFF00&\u1}anche{\r} fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.34,0:01:4.40,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.40,0:01:4.69,Default,,0,0,0,,io l'ho anche {\1c&HFF00&\u1}fatto{\r} sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.69,0:01:4.75,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.75,0:01:4.91,Default,,0,0,0,,io l'ho anche fatto {\1c&HFF00&\u1}sul{\r} mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.91,0:01:4.93,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:4.93,0:01:5.07,Default,,0,0,0,,io l'ho anche fatto sul {\1c&HFF00&\u1}mio{\r} canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.07,0:01:5.11,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.11,0:01:5.37,Default,,0,0,0,,io l'ho anche fatto sul mio {\1c&HFF00&\u1}canale{\r} tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.37,0:01:5.41,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.41,0:01:5.85,Default,,0,0,0,,io l'ho anche fatto sul mio canale {\1c&HFF00&\u1}tiktok{\r} e vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.85,0:01:5.87,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.87,0:01:5.89,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok {\1c&HFF00&\u1}e{\r} vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.89,0:01:5.93,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:5.93,0:01:5.99,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e {\1c&HFF00&\u1}vi{\r} dico che è andato abbastanza
+Dialogue: 0,0:01:5.99,0:01:6.03,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:6.03,0:01:6.19,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi {\1c&HFF00&\u1}dico{\r} che è andato abbastanza
+Dialogue: 0,0:01:6.19,0:01:6.23,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:6.23,0:01:6.29,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico {\1c&HFF00&\u1}che{\r} è andato abbastanza
+Dialogue: 0,0:01:6.29,0:01:6.31,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:6.31,0:01:6.33,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che {\1c&HFF00&\u1}è{\r} andato abbastanza
+Dialogue: 0,0:01:6.33,0:01:6.35,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:6.35,0:01:6.57,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è {\1c&HFF00&\u1}andato{\r} abbastanza
+Dialogue: 0,0:01:6.57,0:01:6.59,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato abbastanza
+Dialogue: 0,0:01:6.59,0:01:7.05,Default,,0,0,0,,io l'ho anche fatto sul mio canale tiktok e vi dico che è andato {\1c&HFF00&\u1}abbastanza{\r}
+Dialogue: 0,0:01:7.20,0:01:7.80,Default,,0,0,0,,{\1c&HFF00&\u1}bene{\r} ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:7.80,0:01:7.82,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:7.82,0:01:7.88,Default,,0,0,0,,bene {\1c&HFF00&\u1}ma{\r} ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:7.88,0:01:7.92,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:7.92,0:01:7.98,Default,,0,0,0,,bene ma {\1c&HFF00&\u1}ce{\r} ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:7.98,0:01:8.02,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:8.02,0:01:8.08,Default,,0,0,0,,bene ma ce {\1c&HFF00&\u1}ne{\r} sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:8.08,0:01:8.10,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:8.10,0:01:8.26,Default,,0,0,0,,bene ma ce ne {\1c&HFF00&\u1}sono{\r} tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:8.26,0:01:8.34,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:8.34,0:01:8.64,Default,,0,0,0,,bene ma ce ne sono {\1c&HFF00&\u1}tanti{\r} altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:8.64,0:01:8.70,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:8.70,0:01:9.05,Default,,0,0,0,,bene ma ce ne sono tanti {\1c&HFF00&\u1}altri{\r} gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:9.05,0:01:9.41,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:9.41,0:01:9.49,Default,,0,0,0,,bene ma ce ne sono tanti altri {\1c&HFF00&\u1}gli{\r} unboxing sono un format ma non è che un
+Dialogue: 0,0:01:9.49,0:01:9.53,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:9.53,0:01:10.31,Default,,0,0,0,,bene ma ce ne sono tanti altri gli {\1c&HFF00&\u1}unboxing{\r} sono un format ma non è che un
+Dialogue: 0,0:01:10.31,0:01:11.35,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:11.35,0:01:11.47,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing {\1c&HFF00&\u1}sono{\r} un format ma non è che un
+Dialogue: 0,0:01:11.47,0:01:11.51,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:11.51,0:01:11.59,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono {\1c&HFF00&\u1}un{\r} format ma non è che un
+Dialogue: 0,0:01:11.59,0:01:11.63,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:11.63,0:01:12.19,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un {\1c&HFF00&\u1}format{\r} ma non è che un
+Dialogue: 0,0:01:12.19,0:01:12.59,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:12.59,0:01:12.65,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format {\1c&HFF00&\u1}ma{\r} non è che un
+Dialogue: 0,0:01:12.65,0:01:12.69,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:12.69,0:01:12.77,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma {\1c&HFF00&\u1}non{\r} è che un
+Dialogue: 0,0:01:12.77,0:01:12.81,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:12.81,0:01:12.85,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non {\1c&HFF00&\u1}è{\r} che un
+Dialogue: 0,0:01:12.85,0:01:12.89,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:12.89,0:01:12.98,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è {\1c&HFF00&\u1}che{\r} un
+Dialogue: 0,0:01:12.98,0:01:13.04,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che un
+Dialogue: 0,0:01:13.04,0:01:13.10,Default,,0,0,0,,bene ma ce ne sono tanti altri gli unboxing sono un format ma non è che {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:01:13.02,0:01:13.66,Default,,0,0,0,,{\1c&HFF00&\u1}format{\r} che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:13.66,0:01:13.72,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:13.72,0:01:13.80,Default,,0,0,0,,format {\1c&HFF00&\u1}che{\r} è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:13.80,0:01:13.82,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:13.82,0:01:13.84,Default,,0,0,0,,format che {\1c&HFF00&\u1}è{\r} nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:13.84,0:01:13.88,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:13.88,0:01:14.04,Default,,0,0,0,,format che è {\1c&HFF00&\u1}nato{\r} su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.04,0:01:14.06,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.06,0:01:14.14,Default,,0,0,0,,format che è nato {\1c&HFF00&\u1}su{\r} tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.14,0:01:14.20,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.20,0:01:14.63,Default,,0,0,0,,format che è nato su {\1c&HFF00&\u1}tiktok{\r} oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.63,0:01:14.65,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.65,0:01:14.97,Default,,0,0,0,,format che è nato su tiktok {\1c&HFF00&\u1}oggi{\r} è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.97,0:01:14.99,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:14.99,0:01:15.01,Default,,0,0,0,,format che è nato su tiktok oggi {\1c&HFF00&\u1}è{\r} un format che era nato su tiktok non so
+Dialogue: 0,0:01:15.01,0:01:15.07,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:15.07,0:01:15.13,Default,,0,0,0,,format che è nato su tiktok oggi è {\1c&HFF00&\u1}un{\r} format che era nato su tiktok non so
+Dialogue: 0,0:01:15.13,0:01:15.15,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:15.15,0:01:15.37,Default,,0,0,0,,format che è nato su tiktok oggi è un {\1c&HFF00&\u1}format{\r} che era nato su tiktok non so
+Dialogue: 0,0:01:15.37,0:01:15.39,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:15.39,0:01:15.45,Default,,0,0,0,,format che è nato su tiktok oggi è un format {\1c&HFF00&\u1}che{\r} era nato su tiktok non so
+Dialogue: 0,0:01:15.45,0:01:15.55,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:15.55,0:01:15.65,Default,,0,0,0,,format che è nato su tiktok oggi è un format che {\1c&HFF00&\u1}era{\r} nato su tiktok non so
+Dialogue: 0,0:01:15.65,0:01:15.69,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:15.69,0:01:15.87,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era {\1c&HFF00&\u1}nato{\r} su tiktok non so
+Dialogue: 0,0:01:15.87,0:01:15.91,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:15.91,0:01:15.99,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato {\1c&HFF00&\u1}su{\r} tiktok non so
+Dialogue: 0,0:01:15.99,0:01:16.03,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:16.03,0:01:16.57,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su {\1c&HFF00&\u1}tiktok{\r} non so
+Dialogue: 0,0:01:16.57,0:01:17.09,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:17.09,0:01:17.23,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok {\1c&HFF00&\u1}non{\r} so
+Dialogue: 0,0:01:17.23,0:01:17.29,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non so
+Dialogue: 0,0:01:17.29,0:01:17.35,Default,,0,0,0,,format che è nato su tiktok oggi è un format che era nato su tiktok non {\1c&HFF00&\u1}so{\r}
+Dialogue: 0,0:01:17.34,0:01:17.80,Default,,0,0,0,,{\1c&HFF00&\u1}quanti{\r} anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:17.80,0:01:17.82,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:17.82,0:01:17.98,Default,,0,0,0,,quanti {\1c&HFF00&\u1}anni{\r} fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:17.98,0:01:18.00,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:18.00,0:01:18.10,Default,,0,0,0,,quanti anni {\1c&HFF00&\u1}fa{\r} se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:18.10,0:01:18.97,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:18.97,0:01:19.07,Default,,0,0,0,,quanti anni fa {\1c&HFF00&\u1}se{\r} qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.07,0:01:19.13,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.13,0:01:19.25,Default,,0,0,0,,quanti anni fa se {\1c&HFF00&\u1}qui{\r} giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.25,0:01:19.31,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.31,0:01:19.61,Default,,0,0,0,,quanti anni fa se qui {\1c&HFF00&\u1}giochiamo{\r} di creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.61,0:01:19.65,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.65,0:01:19.71,Default,,0,0,0,,quanti anni fa se qui giochiamo {\1c&HFF00&\u1}di{\r} creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.71,0:01:19.75,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:19.75,0:01:20.33,Default,,0,0,0,,quanti anni fa se qui giochiamo di {\1c&HFF00&\u1}creatività{\r} possiamo fare veramente un
+Dialogue: 0,0:01:20.33,0:01:20.79,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:20.79,0:01:21.07,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività {\1c&HFF00&\u1}possiamo{\r} fare veramente un
+Dialogue: 0,0:01:21.07,0:01:21.11,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:21.11,0:01:21.25,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo {\1c&HFF00&\u1}fare{\r} veramente un
+Dialogue: 0,0:01:21.25,0:01:21.31,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:21.31,0:01:21.75,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare {\1c&HFF00&\u1}veramente{\r} un
+Dialogue: 0,0:01:21.75,0:01:21.77,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente un
+Dialogue: 0,0:01:21.77,0:01:21.81,Default,,0,0,0,,quanti anni fa se qui giochiamo di creatività possiamo fare veramente {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:01:22.22,0:01:22.26,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:22.26,0:01:22.28,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:22.28,0:01:22.64,Default,,0,0,0,,un {\1c&HFF00&\u1}sacco{\r} di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:22.64,0:01:22.68,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:22.68,0:01:22.74,Default,,0,0,0,,un sacco {\1c&HFF00&\u1}di{\r} cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:22.74,0:01:22.78,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:22.78,0:01:23.30,Default,,0,0,0,,un sacco di {\1c&HFF00&\u1}cose{\r} interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:23.30,0:01:25.17,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:25.17,0:01:25.91,Default,,0,0,0,,un sacco di cose {\1c&HFF00&\u1}interessanti.{\r} Un personal trainer può giocare con la
+Dialogue: 0,0:01:25.91,0:01:26.07,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:26.07,0:01:26.15,Default,,0,0,0,,un sacco di cose interessanti. {\1c&HFF00&\u1}Un{\r} personal trainer può giocare con la
+Dialogue: 0,0:01:26.15,0:01:26.19,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:26.19,0:01:26.61,Default,,0,0,0,,un sacco di cose interessanti. Un {\1c&HFF00&\u1}personal{\r} trainer può giocare con la
+Dialogue: 0,0:01:26.61,0:01:26.65,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:26.65,0:01:27.01,Default,,0,0,0,,un sacco di cose interessanti. Un personal {\1c&HFF00&\u1}trainer{\r} può giocare con la
+Dialogue: 0,0:01:27.01,0:01:27.07,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:27.07,0:01:27.17,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer {\1c&HFF00&\u1}può{\r} giocare con la
+Dialogue: 0,0:01:27.17,0:01:27.25,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:27.25,0:01:27.55,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può {\1c&HFF00&\u1}giocare{\r} con la
+Dialogue: 0,0:01:27.55,0:01:27.57,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:27.57,0:01:27.67,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare {\1c&HFF00&\u1}con{\r} la
+Dialogue: 0,0:01:27.67,0:01:27.71,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con la
+Dialogue: 0,0:01:27.71,0:01:27.76,Default,,0,0,0,,un sacco di cose interessanti. Un personal trainer può giocare con {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:01:28.64,0:01:29.62,Default,,0,0,0,,{\1c&HFF00&\u1}creatività{\r} in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.62,0:01:29.64,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.64,0:01:29.70,Default,,0,0,0,,creatività {\1c&HFF00&\u1}in{\r} questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.70,0:01:29.72,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.72,0:01:29.85,Default,,0,0,0,,creatività in {\1c&HFF00&\u1}questo{\r} caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.85,0:01:29.87,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.87,0:01:29.95,Default,,0,0,0,,creatività in questo {\1c&HFF00&\u1}caso,{\r} no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.95,0:01:29.97,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:29.97,0:01:30.01,Default,,0,0,0,,creatività in questo caso, {\1c&HFF00&\u1}no?{\r} Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:30.01,0:01:30.03,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:30.03,0:01:30.13,Default,,0,0,0,,creatività in questo caso, no? {\1c&HFF00&\u1}Vuoi{\r} applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:30.13,0:01:30.19,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:30.19,0:01:30.69,Default,,0,0,0,,creatività in questo caso, no? Vuoi {\1c&HFF00&\u1}applicare{\r} un format tipo gli unboxing a
+Dialogue: 0,0:01:30.69,0:01:30.73,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:30.73,0:01:30.83,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare {\1c&HFF00&\u1}un{\r} format tipo gli unboxing a
+Dialogue: 0,0:01:30.83,0:01:30.87,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:30.87,0:01:31.53,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un {\1c&HFF00&\u1}format{\r} tipo gli unboxing a
+Dialogue: 0,0:01:31.53,0:01:31.89,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:31.89,0:01:32.07,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format {\1c&HFF00&\u1}tipo{\r} gli unboxing a
+Dialogue: 0,0:01:32.07,0:01:32.09,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:32.09,0:01:32.17,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo {\1c&HFF00&\u1}gli{\r} unboxing a
+Dialogue: 0,0:01:32.17,0:01:32.19,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:32.19,0:01:32.93,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli {\1c&HFF00&\u1}unboxing{\r} a
+Dialogue: 0,0:01:32.93,0:01:34.02,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing a
+Dialogue: 0,0:01:34.02,0:01:34.04,Default,,0,0,0,,creatività in questo caso, no? Vuoi applicare un format tipo gli unboxing {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:01:34.14,0:01:34.34,Default,,0,0,0,,{\1c&HFF00&\u1}quello{\r} che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:34.34,0:01:34.38,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:34.38,0:01:34.46,Default,,0,0,0,,quello {\1c&HFF00&\u1}che{\r} fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:34.46,0:01:34.54,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:34.54,0:01:34.76,Default,,0,0,0,,quello che {\1c&HFF00&\u1}fai,{\r} crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:34.76,0:01:35.90,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:35.90,0:01:36.23,Default,,0,0,0,,quello che fai, {\1c&HFF00&\u1}crei{\r} magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:36.23,0:01:36.27,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:36.27,0:01:36.55,Default,,0,0,0,,quello che fai, crei {\1c&HFF00&\u1}magari{\r} delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:36.55,0:01:36.63,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:36.63,0:01:37.11,Default,,0,0,0,,quello che fai, crei magari {\1c&HFF00&\u1}delle{\r} schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:37.11,0:01:37.41,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:37.41,0:01:37.75,Default,,0,0,0,,quello che fai, crei magari delle {\1c&HFF00&\u1}schede,{\r} non lo so, personalizzate o non
+Dialogue: 0,0:01:37.75,0:01:38.27,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:38.27,0:01:38.35,Default,,0,0,0,,quello che fai, crei magari delle schede, {\1c&HFF00&\u1}non{\r} lo so, personalizzate o non
+Dialogue: 0,0:01:38.35,0:01:38.41,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:38.41,0:01:38.47,Default,,0,0,0,,quello che fai, crei magari delle schede, non {\1c&HFF00&\u1}lo{\r} so, personalizzate o non
+Dialogue: 0,0:01:38.47,0:01:38.51,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:38.51,0:01:38.65,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo {\1c&HFF00&\u1}so,{\r} personalizzate o non
+Dialogue: 0,0:01:38.65,0:01:38.73,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:38.73,0:01:39.57,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, {\1c&HFF00&\u1}personalizzate{\r} o non
+Dialogue: 0,0:01:39.57,0:01:39.75,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:39.75,0:01:39.81,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate {\1c&HFF00&\u1}o{\r} non
+Dialogue: 0,0:01:39.81,0:01:39.93,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o non
+Dialogue: 0,0:01:39.93,0:01:40.06,Default,,0,0,0,,quello che fai, crei magari delle schede, non lo so, personalizzate o {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:01:39.98,0:01:40.26,Default,,0,0,0,,{\1c&HFF00&\u1}personalizzate{\r} per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.26,0:01:40.28,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.28,0:01:40.34,Default,,0,0,0,,personalizzate {\1c&HFF00&\u1}per{\r} tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.34,0:01:40.36,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.36,0:01:40.46,Default,,0,0,0,,personalizzate per {\1c&HFF00&\u1}tutti{\r} e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.46,0:01:40.48,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.48,0:01:40.50,Default,,0,0,0,,personalizzate per tutti {\1c&HFF00&\u1}e{\r} fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.50,0:01:40.52,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.52,0:01:40.58,Default,,0,0,0,,personalizzate per tutti e {\1c&HFF00&\u1}fai{\r} l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.58,0:01:40.60,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.60,0:01:40.78,Default,,0,0,0,,personalizzate per tutti e fai {\1c&HFF00&\u1}l'unboxing{\r} tipo delle schede e dici ok
+Dialogue: 0,0:01:40.78,0:01:40.80,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.80,0:01:40.88,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing {\1c&HFF00&\u1}tipo{\r} delle schede e dici ok
+Dialogue: 0,0:01:40.88,0:01:40.90,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:40.90,0:01:41.00,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo {\1c&HFF00&\u1}delle{\r} schede e dici ok
+Dialogue: 0,0:01:41.00,0:01:41.02,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:41.02,0:01:41.14,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle {\1c&HFF00&\u1}schede{\r} e dici ok
+Dialogue: 0,0:01:41.14,0:01:41.16,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:41.16,0:01:41.18,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede {\1c&HFF00&\u1}e{\r} dici ok
+Dialogue: 0,0:01:41.18,0:01:41.20,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:41.20,0:01:41.28,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e {\1c&HFF00&\u1}dici{\r} ok
+Dialogue: 0,0:01:41.28,0:01:41.30,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici ok
+Dialogue: 0,0:01:41.30,0:01:41.34,Default,,0,0,0,,personalizzate per tutti e fai l'unboxing tipo delle schede e dici {\1c&HFF00&\u1}ok{\r}
+Dialogue: 0,0:01:45.94,0:01:46.12,Default,,0,0,0,,{\1c&HFF00&\u1}qui{\r} abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.12,0:01:46.16,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.16,0:01:46.38,Default,,0,0,0,,qui {\1c&HFF00&\u1}abbiamo{\r} trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.38,0:01:46.42,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.42,0:01:46.70,Default,,0,0,0,,qui abbiamo {\1c&HFF00&\u1}trovato{\r} una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.70,0:01:46.74,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.74,0:01:46.82,Default,,0,0,0,,qui abbiamo trovato {\1c&HFF00&\u1}una{\r} scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.82,0:01:46.86,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:46.86,0:01:47.07,Default,,0,0,0,,qui abbiamo trovato una {\1c&HFF00&\u1}scheda{\r} intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:47.07,0:01:47.09,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:47.09,0:01:47.91,Default,,0,0,0,,qui abbiamo trovato una scheda {\1c&HFF00&\u1}intermedia{\r} quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:47.91,0:01:47.93,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:47.93,0:01:48.15,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia {\1c&HFF00&\u1}quindi{\r} magari ti leggi la scheda o la
+Dialogue: 0,0:01:48.15,0:01:48.19,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:48.19,0:01:48.45,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi {\1c&HFF00&\u1}magari{\r} ti leggi la scheda o la
+Dialogue: 0,0:01:48.45,0:01:48.49,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:48.49,0:01:48.57,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari {\1c&HFF00&\u1}ti{\r} leggi la scheda o la
+Dialogue: 0,0:01:48.57,0:01:48.61,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:48.61,0:01:48.83,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti {\1c&HFF00&\u1}leggi{\r} la scheda o la
+Dialogue: 0,0:01:48.83,0:01:48.89,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:48.89,0:01:48.95,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi {\1c&HFF00&\u1}la{\r} scheda o la
+Dialogue: 0,0:01:48.95,0:01:48.99,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:48.99,0:01:49.33,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la {\1c&HFF00&\u1}scheda{\r} o la
+Dialogue: 0,0:01:49.33,0:01:49.73,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:49.73,0:01:49.77,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda {\1c&HFF00&\u1}o{\r} la
+Dialogue: 0,0:01:49.77,0:01:49.81,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o la
+Dialogue: 0,0:01:49.81,0:01:49.87,Default,,0,0,0,,qui abbiamo trovato una scheda intermedia quindi magari ti leggi la scheda o {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:01:49.96,0:01:50.08,Default,,0,0,0,,{\1c&HFF00&\u1}fai{\r} leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.08,0:01:50.12,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.12,0:01:50.36,Default,,0,0,0,,fai {\1c&HFF00&\u1}leggere{\r} ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.36,0:01:50.40,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.40,0:01:50.46,Default,,0,0,0,,fai leggere {\1c&HFF00&\u1}ad{\r} altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.46,0:01:50.50,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.50,0:01:50.68,Default,,0,0,0,,fai leggere ad {\1c&HFF00&\u1}altre{\r} persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.68,0:01:50.72,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:50.72,0:01:51.10,Default,,0,0,0,,fai leggere ad altre {\1c&HFF00&\u1}persone{\r} e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:51.10,0:01:52.05,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.05,0:01:52.09,Default,,0,0,0,,fai leggere ad altre persone {\1c&HFF00&\u1}e{\r} gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.09,0:01:52.11,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.11,0:01:52.19,Default,,0,0,0,,fai leggere ad altre persone e {\1c&HFF00&\u1}gli{\r} fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.19,0:01:52.23,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.23,0:01:52.35,Default,,0,0,0,,fai leggere ad altre persone e gli {\1c&HFF00&\u1}fai{\r} dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.35,0:01:52.41,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.41,0:01:52.65,Default,,0,0,0,,fai leggere ad altre persone e gli fai {\1c&HFF00&\u1}dire{\r} boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.65,0:01:52.79,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:52.79,0:01:52.97,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire {\1c&HFF00&\u1}boh{\r} dimmi se questa scheda è
+Dialogue: 0,0:01:52.97,0:01:53.71,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:53.71,0:01:53.93,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh {\1c&HFF00&\u1}dimmi{\r} se questa scheda è
+Dialogue: 0,0:01:53.93,0:01:53.95,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:53.95,0:01:54.07,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi {\1c&HFF00&\u1}se{\r} questa scheda è
+Dialogue: 0,0:01:54.07,0:01:54.11,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:54.11,0:01:54.33,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se {\1c&HFF00&\u1}questa{\r} scheda è
+Dialogue: 0,0:01:54.33,0:01:54.37,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:54.37,0:01:54.69,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa {\1c&HFF00&\u1}scheda{\r} è
+Dialogue: 0,0:01:54.69,0:01:54.71,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda è
+Dialogue: 0,0:01:54.71,0:01:54.73,Default,,0,0,0,,fai leggere ad altre persone e gli fai dire boh dimmi se questa scheda {\1c&HFF00&\u1}è{\r}
+Dialogue: 0,0:01:55.10,0:01:55.60,Default,,0,0,0,,{\1c&HFF00&\u1}intermedia{\r} avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:55.60,0:01:55.62,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:55.62,0:01:56.14,Default,,0,0,0,,intermedia {\1c&HFF00&\u1}avanzata{\r} o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:56.14,0:01:56.18,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:56.18,0:01:56.23,Default,,0,0,0,,intermedia avanzata {\1c&HFF00&\u1}o{\r} base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:56.23,0:01:56.29,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:56.29,0:01:56.55,Default,,0,0,0,,intermedia avanzata o {\1c&HFF00&\u1}base{\r} eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:56.55,0:01:56.65,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:56.65,0:01:56.97,Default,,0,0,0,,intermedia avanzata o base {\1c&HFF00&\u1}eccetera{\r} eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:56.97,0:01:57.01,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:57.01,0:01:57.35,Default,,0,0,0,,intermedia avanzata o base eccetera {\1c&HFF00&\u1}eccetera{\r} o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:57.35,0:01:57.51,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:57.51,0:01:57.57,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera {\1c&HFF00&\u1}o{\r} se aggiungeresti o toglieresti
+Dialogue: 0,0:01:57.57,0:01:57.59,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:57.59,0:01:57.67,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o {\1c&HFF00&\u1}se{\r} aggiungeresti o toglieresti
+Dialogue: 0,0:01:57.67,0:01:57.69,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:57.69,0:01:58.21,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se {\1c&HFF00&\u1}aggiungeresti{\r} o toglieresti
+Dialogue: 0,0:01:58.21,0:01:58.23,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:58.23,0:01:58.27,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti {\1c&HFF00&\u1}o{\r} toglieresti
+Dialogue: 0,0:01:58.27,0:01:58.29,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o toglieresti
+Dialogue: 0,0:01:58.29,0:01:58.71,Default,,0,0,0,,intermedia avanzata o base eccetera eccetera o se aggiungeresti o {\1c&HFF00&\u1}toglieresti{\r}
+Dialogue: 0,0:01:58.68,0:01:59.36,Default,,0,0,0,,{\1c&HFF00&\u1}qualcosa{\r} o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.36,0:01:59.40,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.40,0:01:59.42,Default,,0,0,0,,qualcosa {\1c&HFF00&\u1}o{\r} se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.42,0:01:59.44,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.44,0:01:59.54,Default,,0,0,0,,qualcosa o {\1c&HFF00&\u1}se{\r} per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.54,0:01:59.58,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.58,0:01:59.68,Default,,0,0,0,,qualcosa o se {\1c&HFF00&\u1}per{\r} uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.68,0:01:59.70,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.70,0:01:59.94,Default,,0,0,0,,qualcosa o se per {\1c&HFF00&\u1}uomo{\r} o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.94,0:01:59.96,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.96,0:01:59.98,Default,,0,0,0,,qualcosa o se per uomo {\1c&HFF00&\u1}o{\r} donna cioè giocando con la creatività si può
+Dialogue: 0,0:01:59.98,0:02:0.04,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:0.04,0:02:0.33,Default,,0,0,0,,qualcosa o se per uomo o {\1c&HFF00&\u1}donna{\r} cioè giocando con la creatività si può
+Dialogue: 0,0:02:0.33,0:02:0.75,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:0.75,0:02:0.85,Default,,0,0,0,,qualcosa o se per uomo o donna {\1c&HFF00&\u1}cioè{\r} giocando con la creatività si può
+Dialogue: 0,0:02:0.85,0:02:1.35,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:1.35,0:02:1.69,Default,,0,0,0,,qualcosa o se per uomo o donna cioè {\1c&HFF00&\u1}giocando{\r} con la creatività si può
+Dialogue: 0,0:02:1.69,0:02:1.71,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:1.71,0:02:1.81,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando {\1c&HFF00&\u1}con{\r} la creatività si può
+Dialogue: 0,0:02:1.81,0:02:1.85,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:1.85,0:02:1.91,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con {\1c&HFF00&\u1}la{\r} creatività si può
+Dialogue: 0,0:02:1.91,0:02:1.93,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:1.93,0:02:2.49,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la {\1c&HFF00&\u1}creatività{\r} si può
+Dialogue: 0,0:02:2.49,0:02:2.77,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:2.77,0:02:2.85,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività {\1c&HFF00&\u1}si{\r} può
+Dialogue: 0,0:02:2.85,0:02:2.93,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si può
+Dialogue: 0,0:02:2.93,0:02:2.99,Default,,0,0,0,,qualcosa o se per uomo o donna cioè giocando con la creatività si {\1c&HFF00&\u1}può{\r}
+Dialogue: 0,0:02:2.96,0:02:3.14,Default,,0,0,0,,{\1c&HFF00&\u1}veramente{\r} fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.14,0:02:3.16,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.16,0:02:3.24,Default,,0,0,0,,veramente {\1c&HFF00&\u1}fare{\r} tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.24,0:02:3.26,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.26,0:02:3.46,Default,,0,0,0,,veramente fare {\1c&HFF00&\u1}tantissimo{\r} e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.46,0:02:3.48,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.48,0:02:3.50,Default,,0,0,0,,veramente fare tantissimo {\1c&HFF00&\u1}e{\r} si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.50,0:02:3.52,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.52,0:02:3.56,Default,,0,0,0,,veramente fare tantissimo e {\1c&HFF00&\u1}si{\r} può anche stimolare la creatività.
+Dialogue: 0,0:02:3.56,0:02:3.58,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.58,0:02:3.64,Default,,0,0,0,,veramente fare tantissimo e si {\1c&HFF00&\u1}può{\r} anche stimolare la creatività.
+Dialogue: 0,0:02:3.64,0:02:3.66,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.66,0:02:3.76,Default,,0,0,0,,veramente fare tantissimo e si può {\1c&HFF00&\u1}anche{\r} stimolare la creatività.
+Dialogue: 0,0:02:3.76,0:02:3.78,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.78,0:02:3.96,Default,,0,0,0,,veramente fare tantissimo e si può anche {\1c&HFF00&\u1}stimolare{\r} la creatività.
+Dialogue: 0,0:02:3.96,0:02:3.98,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:3.98,0:02:4.02,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare {\1c&HFF00&\u1}la{\r} creatività.
+Dialogue: 0,0:02:4.02,0:02:4.04,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la creatività.
+Dialogue: 0,0:02:4.04,0:02:4.28,Default,,0,0,0,,veramente fare tantissimo e si può anche stimolare la {\1c&HFF00&\u1}creatività.{\r}
+Dialogue: 0,0:02:7.50,0:02:7.74,Default,,0,0,0,,{\1c&HFF00&\u1}bene{\r} siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:7.74,0:02:8.18,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:8.18,0:02:8.36,Default,,0,0,0,,bene {\1c&HFF00&\u1}siamo{\r} alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:8.36,0:02:8.38,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:8.38,0:02:8.72,Default,,0,0,0,,bene siamo {\1c&HFF00&\u1}alle 20{\r} e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:8.72,0:02:8.76,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:8.76,0:02:8.78,Default,,0,0,0,,bene siamo alle 20 {\1c&HFF00&\u1}e 20{\r} super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:8.78,0:02:10.21,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:10.21,0:02:10.45,Default,,0,0,0,,bene siamo alle 20 e 20 {\1c&HFF00&\u1}super{\r} grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:10.45,0:02:10.49,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:10.49,0:02:10.77,Default,,0,0,0,,bene siamo alle 20 e 20 super {\1c&HFF00&\u1}grazie{\r} per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:10.77,0:02:10.83,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:10.83,0:02:10.93,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie {\1c&HFF00&\u1}per{\r} avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:10.93,0:02:10.97,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:10.97,0:02:11.21,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per {\1c&HFF00&\u1}avermi{\r} ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:11.21,0:02:11.25,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:11.25,0:02:11.67,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi {\1c&HFF00&\u1}ascoltato{\r} questo quarto d'ora ma
+Dialogue: 0,0:02:11.67,0:02:11.73,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:11.73,0:02:11.93,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato {\1c&HFF00&\u1}questo{\r} quarto d'ora ma
+Dialogue: 0,0:02:11.93,0:02:11.99,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:11.99,0:02:12.21,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo {\1c&HFF00&\u1}quarto{\r} d'ora ma
+Dialogue: 0,0:02:12.21,0:02:12.25,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:12.25,0:02:12.41,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto {\1c&HFF00&\u1}d'ora{\r} ma
+Dialogue: 0,0:02:12.41,0:02:12.45,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora ma
+Dialogue: 0,0:02:12.45,0:02:12.51,Default,,0,0,0,,bene siamo alle 20 e 20 super grazie per avermi ascoltato questo quarto d'ora {\1c&HFF00&\u1}ma{\r}
+Dialogue: 0,0:02:12.46,0:02:12.50,Default,,0,0,0,,{\1c&HFF00&\u1}ci{\r} tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.50,0:02:12.52,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.52,0:02:12.64,Default,,0,0,0,,ci {\1c&HFF00&\u1}tenevo{\r} a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.64,0:02:12.66,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.66,0:02:12.68,Default,,0,0,0,,ci tenevo {\1c&HFF00&\u1}a{\r} dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.68,0:02:12.70,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.70,0:02:12.80,Default,,0,0,0,,ci tenevo a {\1c&HFF00&\u1}dirvi{\r} queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.80,0:02:12.82,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.82,0:02:12.94,Default,,0,0,0,,ci tenevo a dirvi {\1c&HFF00&\u1}queste{\r} cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.94,0:02:12.96,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:12.96,0:02:13.04,Default,,0,0,0,,ci tenevo a dirvi queste {\1c&HFF00&\u1}cose{\r} che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.04,0:02:13.06,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.06,0:02:13.12,Default,,0,0,0,,ci tenevo a dirvi queste cose {\1c&HFF00&\u1}che{\r} per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.12,0:02:13.14,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.14,0:02:13.20,Default,,0,0,0,,ci tenevo a dirvi queste cose che {\1c&HFF00&\u1}per{\r} me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.20,0:02:13.22,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.22,0:02:13.26,Default,,0,0,0,,ci tenevo a dirvi queste cose che per {\1c&HFF00&\u1}me{\r} sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.26,0:02:13.28,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.28,0:02:13.36,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me {\1c&HFF00&\u1}sono{\r} infinitamente interessanti sono
+Dialogue: 0,0:02:13.36,0:02:13.38,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.38,0:02:13.64,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono {\1c&HFF00&\u1}infinitamente{\r} interessanti sono
+Dialogue: 0,0:02:13.64,0:02:13.66,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.66,0:02:13.94,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente {\1c&HFF00&\u1}interessanti{\r} sono
+Dialogue: 0,0:02:13.94,0:02:13.97,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti sono
+Dialogue: 0,0:02:13.97,0:02:14.05,Default,,0,0,0,,ci tenevo a dirvi queste cose che per me sono infinitamente interessanti {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:02:16.48,0:02:17.58,Default,,0,0,0,,{\1c&HFF00&\u1}l'elemente{\r} è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:17.58,0:02:17.62,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:17.62,0:02:17.68,Default,,0,0,0,,l'elemente {\1c&HFF00&\u1}è{\r} l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:17.68,0:02:17.78,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:17.78,0:02:18.19,Default,,0,0,0,,l'elemente è {\1c&HFF00&\u1}l'elemento{\r} fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:18.19,0:02:18.25,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:18.25,0:02:18.77,Default,,0,0,0,,l'elemente è l'elemento {\1c&HFF00&\u1}fondante{\r} di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:18.77,0:02:18.85,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:18.85,0:02:18.93,Default,,0,0,0,,l'elemente è l'elemento fondante {\1c&HFF00&\u1}di{\r} ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:18.93,0:02:19.13,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:19.13,0:02:19.33,Default,,0,0,0,,l'elemente è l'elemento fondante di {\1c&HFF00&\u1}ogni{\r} singolo contenuto su tiktok
+Dialogue: 0,0:02:19.33,0:02:19.41,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:19.41,0:02:19.71,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni {\1c&HFF00&\u1}singolo{\r} contenuto su tiktok
+Dialogue: 0,0:02:19.71,0:02:19.77,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:19.77,0:02:20.21,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo {\1c&HFF00&\u1}contenuto{\r} su tiktok
+Dialogue: 0,0:02:20.21,0:02:20.27,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:20.27,0:02:20.33,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto {\1c&HFF00&\u1}su{\r} tiktok
+Dialogue: 0,0:02:20.33,0:02:20.39,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su tiktok
+Dialogue: 0,0:02:20.39,0:02:20.79,Default,,0,0,0,,l'elemente è l'elemento fondante di ogni singolo contenuto su {\1c&HFF00&\u1}tiktok{\r}
+Dialogue: 0,0:02:21.16,0:02:21.28,Default,,0,0,0,,{\1c&HFF00&\u1}poi{\r} ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.28,0:02:21.52,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.52,0:02:21.60,Default,,0,0,0,,poi {\1c&HFF00&\u1}ce{\r} ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.60,0:02:21.72,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.72,0:02:21.76,Default,,0,0,0,,poi ce {\1c&HFF00&\u1}ne{\r} sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.76,0:02:21.78,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.78,0:02:21.86,Default,,0,0,0,,poi ce ne {\1c&HFF00&\u1}sono{\r} alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.86,0:02:21.88,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:21.88,0:02:22.16,Default,,0,0,0,,poi ce ne sono {\1c&HFF00&\u1}alcuni{\r} altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:22.16,0:02:22.24,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:22.24,0:02:22.44,Default,,0,0,0,,poi ce ne sono alcuni {\1c&HFF00&\u1}altri{\r} ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:22.44,0:02:22.48,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:22.48,0:02:22.56,Default,,0,0,0,,poi ce ne sono alcuni altri {\1c&HFF00&\u1}ma{\r} ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:22.56,0:02:22.62,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:22.62,0:02:23.09,Default,,0,0,0,,poi ce ne sono alcuni altri ma {\1c&HFF00&\u1}ovviamente{\r} li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:23.09,0:02:23.47,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:23.47,0:02:23.55,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente {\1c&HFF00&\u1}li{\r} lascio a chi entrarà nel corso
+Dialogue: 0,0:02:23.55,0:02:23.61,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:23.61,0:02:24.01,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li {\1c&HFF00&\u1}lascio{\r} a chi entrarà nel corso
+Dialogue: 0,0:02:24.01,0:02:24.25,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:24.25,0:02:24.49,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio {\1c&HFF00&\u1}a{\r} chi entrarà nel corso
+Dialogue: 0,0:02:24.49,0:02:24.63,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:24.63,0:02:24.81,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a {\1c&HFF00&\u1}chi{\r} entrarà nel corso
+Dialogue: 0,0:02:24.81,0:02:25.73,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:25.73,0:02:26.11,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi {\1c&HFF00&\u1}entrarà{\r} nel corso
+Dialogue: 0,0:02:26.11,0:02:26.15,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:26.15,0:02:26.27,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà {\1c&HFF00&\u1}nel{\r} corso
+Dialogue: 0,0:02:26.27,0:02:26.33,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel corso
+Dialogue: 0,0:02:26.33,0:02:26.63,Default,,0,0,0,,poi ce ne sono alcuni altri ma ovviamente li lascio a chi entrarà nel {\1c&HFF00&\u1}corso{\r}
+Dialogue: 0,0:02:27.24,0:02:27.48,Default,,0,0,0,,{\1c&HFF00&\u1}bene{\r} facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:27.48,0:02:27.70,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:27.70,0:02:28.14,Default,,0,0,0,,bene {\1c&HFF00&\u1}facciamoci{\r} un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.14,0:02:28.16,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.16,0:02:28.23,Default,,0,0,0,,bene facciamoci {\1c&HFF00&\u1}un{\r} po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.23,0:02:28.27,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.27,0:02:28.35,Default,,0,0,0,,bene facciamoci un {\1c&HFF00&\u1}po{\r} di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.35,0:02:28.37,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.37,0:02:28.45,Default,,0,0,0,,bene facciamoci un po {\1c&HFF00&\u1}di{\r} domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.45,0:02:28.49,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.49,0:02:28.75,Default,,0,0,0,,bene facciamoci un po di {\1c&HFF00&\u1}domande{\r} e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.75,0:02:28.77,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.77,0:02:28.79,Default,,0,0,0,,bene facciamoci un po di domande {\1c&HFF00&\u1}e{\r} risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.79,0:02:28.81,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:28.81,0:02:29.27,Default,,0,0,0,,bene facciamoci un po di domande e {\1c&HFF00&\u1}risposte{\r} quindi a basso mi vedrete
+Dialogue: 0,0:02:29.27,0:02:29.51,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:29.51,0:02:29.71,Default,,0,0,0,,bene facciamoci un po di domande e risposte {\1c&HFF00&\u1}quindi{\r} a basso mi vedrete
+Dialogue: 0,0:02:29.71,0:02:29.85,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:29.85,0:02:29.89,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi {\1c&HFF00&\u1}a{\r} basso mi vedrete
+Dialogue: 0,0:02:29.89,0:02:29.93,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:29.93,0:02:30.13,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a {\1c&HFF00&\u1}basso{\r} mi vedrete
+Dialogue: 0,0:02:30.13,0:02:30.57,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:30.57,0:02:30.63,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso {\1c&HFF00&\u1}mi{\r} vedrete
+Dialogue: 0,0:02:30.63,0:02:30.67,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi vedrete
+Dialogue: 0,0:02:30.67,0:02:30.97,Default,,0,0,0,,bene facciamoci un po di domande e risposte quindi a basso mi {\1c&HFF00&\u1}vedrete{\r}
+Dialogue: 0,0:02:30.96,0:02:31.64,Default,,0,0,0,,{\1c&HFF00&\u1}abbassare{\r} lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:31.64,0:02:31.66,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:31.66,0:02:31.70,Default,,0,0,0,,abbassare {\1c&HFF00&\u1}lo{\r} sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:31.70,0:02:31.72,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:31.72,0:02:31.90,Default,,0,0,0,,abbassare lo {\1c&HFF00&\u1}sguardo{\r} solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:31.90,0:02:31.94,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:31.94,0:02:32.08,Default,,0,0,0,,abbassare lo sguardo {\1c&HFF00&\u1}solo{\r} per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.08,0:02:32.10,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.10,0:02:32.18,Default,,0,0,0,,abbassare lo sguardo solo {\1c&HFF00&\u1}per{\r} leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.18,0:02:32.24,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.24,0:02:32.49,Default,,0,0,0,,abbassare lo sguardo solo per {\1c&HFF00&\u1}leggere{\r} le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.49,0:02:32.55,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.55,0:02:32.61,Default,,0,0,0,,abbassare lo sguardo solo per leggere {\1c&HFF00&\u1}le{\r} domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.61,0:02:32.67,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.67,0:02:32.97,Default,,0,0,0,,abbassare lo sguardo solo per leggere le {\1c&HFF00&\u1}domande{\r} perché le ho qui in basso e poi
+Dialogue: 0,0:02:32.97,0:02:33.01,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:33.01,0:02:33.23,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande {\1c&HFF00&\u1}perché{\r} le ho qui in basso e poi
+Dialogue: 0,0:02:33.23,0:02:33.61,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:33.61,0:02:33.67,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché {\1c&HFF00&\u1}le{\r} ho qui in basso e poi
+Dialogue: 0,0:02:33.67,0:02:33.69,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:33.69,0:02:33.75,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le {\1c&HFF00&\u1}ho{\r} qui in basso e poi
+Dialogue: 0,0:02:33.75,0:02:33.83,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:33.83,0:02:33.91,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho {\1c&HFF00&\u1}qui{\r} in basso e poi
+Dialogue: 0,0:02:33.91,0:02:33.93,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:33.93,0:02:33.99,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui {\1c&HFF00&\u1}in{\r} basso e poi
+Dialogue: 0,0:02:33.99,0:02:34.03,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:34.03,0:02:34.35,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in {\1c&HFF00&\u1}basso{\r} e poi
+Dialogue: 0,0:02:34.35,0:02:34.67,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:34.67,0:02:34.69,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso {\1c&HFF00&\u1}e{\r} poi
+Dialogue: 0,0:02:34.69,0:02:34.73,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e poi
+Dialogue: 0,0:02:34.73,0:02:34.83,Default,,0,0,0,,abbassare lo sguardo solo per leggere le domande perché le ho qui in basso e {\1c&HFF00&\u1}poi{\r}
+Dialogue: 0,0:02:34.80,0:02:34.84,Default,,0,0,0,,{\1c&HFF00&\u1}vi{\r} rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:34.84,0:02:34.86,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:34.86,0:02:36.09,Default,,0,0,0,,vi {\1c&HFF00&\u1}rispondo{\r} e partiamo dalle domande di di di di
+Dialogue: 0,0:02:36.09,0:02:36.13,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:36.13,0:02:36.21,Default,,0,0,0,,vi rispondo {\1c&HFF00&\u1}e{\r} partiamo dalle domande di di di di
+Dialogue: 0,0:02:36.21,0:02:36.29,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:36.29,0:02:36.63,Default,,0,0,0,,vi rispondo e {\1c&HFF00&\u1}partiamo{\r} dalle domande di di di di
+Dialogue: 0,0:02:36.63,0:02:36.67,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:36.67,0:02:36.89,Default,,0,0,0,,vi rispondo e partiamo {\1c&HFF00&\u1}dalle{\r} domande di di di di
+Dialogue: 0,0:02:36.89,0:02:36.97,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:36.97,0:02:37.33,Default,,0,0,0,,vi rispondo e partiamo dalle {\1c&HFF00&\u1}domande{\r} di di di di
+Dialogue: 0,0:02:37.33,0:02:37.41,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:37.41,0:02:37.53,Default,,0,0,0,,vi rispondo e partiamo dalle domande {\1c&HFF00&\u1}di{\r} di di di
+Dialogue: 0,0:02:37.53,0:02:37.98,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:37.98,0:02:38.06,Default,,0,0,0,,vi rispondo e partiamo dalle domande di {\1c&HFF00&\u1}di{\r} di di
+Dialogue: 0,0:02:38.06,0:02:38.14,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:38.14,0:02:38.22,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di {\1c&HFF00&\u1}di{\r} di
+Dialogue: 0,0:02:38.22,0:02:38.30,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di di
+Dialogue: 0,0:02:38.30,0:02:38.36,Default,,0,0,0,,vi rispondo e partiamo dalle domande di di di {\1c&HFF00&\u1}di{\r}
