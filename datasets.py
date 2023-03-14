@@ -16,9 +16,9 @@ class VideoDataset(Dataset):
         for item in path.iterdir():
             if item.is_file():
                 try:
-                    self.ids.append(fstools.getVideoIdFromFileName(item.name))
+                    self.ids.append(fstools.DatasetFSHelper.getVideoIdFromFileName(item.name))
                 except:
-                    logger.warning(f'Ignoring file {item.name}')
+                    logger.warning(f'Invalid file name {item}')
         
     def __len__(self):
         return len(self.ids)

@@ -14,6 +14,7 @@ import datetime
 import tools
 
 logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
+fs = fstools.DatasetFSHelper()
 
 def _extractFacesFromFrame(index: int, rgbFrame):
     faceLocations = face_recognition.face_locations(rgbFrame)
@@ -23,14 +24,14 @@ def _extractFacesFromFrame(index: int, rgbFrame):
 def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) -> None:
 
     # If the directory already exists, ignore this video
-    faceSavePath = fstools.getFacesPath(videoId)
+    faceSavePath = fs.getFacesPath(videoId)
     # Delete the directory and then re-create it
     if Path.exists(Path(faceSavePath)):
         logger.info(f'Ignoring video {videoId} because its directory already exists')
         return
 
     # Get the video's path
-    videoPath = fstools.getRawVideoPath(videoId)
+    videoPath = fs.getRawVideoPath(videoId)
     cap = cv2.VideoCapture(videoPath)
     fps = cap.get(cv2.CAP_PROP_FPS)
 
@@ -164,11 +165,11 @@ def loadIntervalsFile(filePath: str) -> list[tuple[float, float]]:
 
 def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int) -> None:
     if videoIds is None:
-        ds = VideoDataset(fstools.getRawVideoFolderPath())
+        ds = VideoDataset(fstools.DatasetFSHelper.getRawVideoFolderPath())
         videoIds = [videoId for videoId in ds]
     for videoId in videoIds:
         # Get the video's path
-        videoPath = fstools.getRawVideoPath(videoId)
+        videoPath = fs.getRawVideoPath(videoId)
         if not Path.exists(Path(videoPath)):
             raise FileNotFoundError()
     logger.debug(f'Will extract faces from {len(videoIds)} videos')
@@ -177,7 +178,7 @@ def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int) -> 
 
 def handleMergeFaces(videoId: str, sourceList: list, target: int) -> None:
     # Get the video's path
-    videoPath = fstools.getFacesPath(videoId)
+    videoPath = fs.getFacesPath(videoId)
     
     # Check arguments
     assert sourceList and len(sourceList) > 0, "Please indicate at least one source face"
@@ -222,7 +223,7 @@ def handleMergeFaces(videoId: str, sourceList: list, target: int) -> None:
 
 def handleCreateIntervals(videoId: str, target: int, maxDifference: int, warnLimit: int) -> None:
     # Get the video's path
-    videoPath = fstools.getFacesPath(videoId)
+    videoPath = fs.getFacesPath(videoId)
     if not Path.exists(Path(videoPath)):
         raise FileNotFoundError(videoPath)
     
@@ -276,14 +277,14 @@ def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, work
     assert minDuration > 0, "Minimum duration not specified"
 
     # Get the video's path
-    videoPath = fstools.getFacesPath(videoId)
+    videoPath = fs.getFacesPath(videoId)
     # Verify if the target file exists
     intervalsFilePath = Path(videoPath) / (str(targetIntervals) + '_intervals.csv')
     if not Path.exists(intervalsFilePath):
         raise FileNotFoundError(str(intervalsFilePath))
     
     # Verify the raw video exists
-    inputVideoPath = fstools.getRawVideoPath(videoId)
+    inputVideoPath = fs.getRawVideoPath(videoId)
     if not Path.exists(Path(inputVideoPath)):
         raise FileNotFoundError(str(inputVideoPath))
 
@@ -291,7 +292,7 @@ def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, work
     intervals = loadIntervalsFile(intervalsFilePath)
 
     # Make sure the output path exists
-    clipsPath = fstools.getClipsPath(videoId)
+    clipsPath = fs.getClipsPath(videoId)
     Path(clipsPath).mkdir(parents=True, exist_ok=True)
 
     for index, (start,end) in enumerate(intervals):
@@ -311,21 +312,21 @@ def handleExtractAudio(videoIds: list[str], rebuild: bool = False) -> None:
     if videoIds is None:
         # Get all the videoIds from the clips folder
         videoIds = []
-        path = Path(fstools.getClipsFolderPath())
+        path = Path(fs.getClipsFolderPath())
         for item in path.iterdir():
             if not item.is_file():
                 videoIds.append(item.name)
 
     for videoId in videoIds:
         # Get the video's path
-        clipsPath = fstools.getClipsPath(videoId)
+        clipsPath = fs.getClipsPath(videoId)
         if not Path.exists(Path(clipsPath)):
             raise FileNotFoundError()
     
     logger.debug(f'Will extract audio from {len(videoIds)} videos')
 
     for videoId in videoIds:
-        clipsPath = Path(fstools.getClipsPath(videoId))
+        clipsPath = Path(fs.getClipsPath(videoId))
         # Get all the video files in this folder
         for item in clipsPath.iterdir():
             if item.name.endswith(fstools.VIDEO_FILE_EXTENSION):
@@ -344,21 +345,21 @@ def handleTranscribeAudio(videoIds: list[str], rebuild: bool = False) -> None:
     if videoIds is None:
         # Get all the videoIds from the clips folder
         videoIds = []
-        path = Path(fstools.getClipsFolderPath())
+        path = Path(fs.getClipsFolderPath())
         for item in path.iterdir():
             if not item.is_file():
                 videoIds.append(item.name)
 
     for videoId in videoIds:
         # Get the video's path
-        clipsPath = fstools.getClipsPath(videoId)
+        clipsPath = fs.getClipsPath(videoId)
         if not Path.exists(Path(clipsPath)):
             raise FileNotFoundError()
     
     logger.info(f'Will transcribe audio from {len(videoIds)} video folders')
 
     for videoId in videoIds:
-        clipsPath = Path(fstools.getClipsPath(videoId))
+        clipsPath = Path(fs.getClipsPath(videoId))
         # Get all the audio files in this folder
         for item in clipsPath.iterdir():
             if item.name.endswith(fstools.AUDIO_FILE_EXTENSION):
@@ -395,9 +396,15 @@ if __name__ == '__main__':
     parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration')
     parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip')
     parser.add_argument('--rebuild', type=bool, required=False, default=False, help='Rebuild output')
+    parser.add_argument('--branch', type=str, required=False, default=None, help='Branch name')
 
     args = parser.parse_args()
-    #print(args)
+
+    if args.branch:
+        fs.setBranchName(args.branch)
+    
+    # Make sure the branch exists
+    fs.ensureBranchPathExists()
 
     if args.command == COMMAND_EXTRACT_FACES:
         handleExtractFacesCommand(args.workers, args.video_id, args.sleep)
