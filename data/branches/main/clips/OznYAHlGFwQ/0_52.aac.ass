@@ -1,0 +1,490 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.88,Default,,0,0,0,,{\1c&HFF00&\u1}sì{\r} allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:0.88,0:00:0.92,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:0.92,0:00:3.15,Default,,0,0,0,,sì {\1c&HFF00&\u1}allora{\r} meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:3.15,0:00:3.17,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:3.17,0:00:3.35,Default,,0,0,0,,sì allora {\1c&HFF00&\u1}meglio{\r} pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:3.39,0:00:3.79,Default,,0,0,0,,sì allora meglio {\1c&HFF00&\u1}pubblicare{\r} mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:3.79,0:00:3.85,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:3.85,0:00:4.13,Default,,0,0,0,,sì allora meglio pubblicare {\1c&HFF00&\u1}mattino{\r} o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:4.13,0:00:4.15,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:4.15,0:00:4.17,Default,,0,0,0,,sì allora meglio pubblicare mattino {\1c&HFF00&\u1}o{\r} pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:4.17,0:00:4.19,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:4.19,0:00:4.73,Default,,0,0,0,,sì allora meglio pubblicare mattino o {\1c&HFF00&\u1}pomeriggio{\r} bella domanda non c'è un
+Dialogue: 0,0:00:4.73,0:00:6.27,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:6.27,0:00:6.47,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio {\1c&HFF00&\u1}bella{\r} domanda non c'è un
+Dialogue: 0,0:00:6.47,0:00:6.51,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:6.51,0:00:6.87,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella {\1c&HFF00&\u1}domanda{\r} non c'è un
+Dialogue: 0,0:00:6.87,0:00:7.86,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:7.86,0:00:7.94,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda {\1c&HFF00&\u1}non{\r} c'è un
+Dialogue: 0,0:00:7.94,0:00:8.00,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:8.00,0:00:8.10,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non {\1c&HFF00&\u1}c'è{\r} un
+Dialogue: 0,0:00:8.10,0:00:8.12,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è un
+Dialogue: 0,0:00:8.12,0:00:8.18,Default,,0,0,0,,sì allora meglio pubblicare mattino o pomeriggio bella domanda non c'è {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:8.26,0:00:8.44,Default,,0,0,0,,{\1c&HFF00&\u1}meglio{\r} o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:8.44,0:00:8.46,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:8.46,0:00:8.48,Default,,0,0,0,,meglio {\1c&HFF00&\u1}o{\r} peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:8.48,0:00:8.56,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:8.56,0:00:9.58,Default,,0,0,0,,meglio o {\1c&HFF00&\u1}peggio,{\r} dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:9.58,0:00:9.62,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:9.62,0:00:10.01,Default,,0,0,0,,meglio o peggio, {\1c&HFF00&\u1}dipende{\r} tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:10.01,0:00:10.17,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:10.17,0:00:10.37,Default,,0,0,0,,meglio o peggio, dipende {\1c&HFF00&\u1}tutto{\r} dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:10.37,0:00:10.43,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:10.43,0:00:10.83,Default,,0,0,0,,meglio o peggio, dipende tutto {\1c&HFF00&\u1}dipende{\r} dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:10.83,0:00:12.03,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:12.03,0:00:12.17,Default,,0,0,0,,meglio o peggio, dipende tutto dipende {\1c&HFF00&\u1}dal{\r} tuo profilo dal tuo canale e
+Dialogue: 0,0:00:12.17,0:00:12.21,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:12.21,0:00:12.29,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal {\1c&HFF00&\u1}tuo{\r} profilo dal tuo canale e
+Dialogue: 0,0:00:12.29,0:00:12.35,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:12.35,0:00:12.73,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo {\1c&HFF00&\u1}profilo{\r} dal tuo canale e
+Dialogue: 0,0:00:12.73,0:00:12.89,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:12.89,0:00:13.01,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo {\1c&HFF00&\u1}dal{\r} tuo canale e
+Dialogue: 0,0:00:13.01,0:00:13.03,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:13.03,0:00:13.13,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal {\1c&HFF00&\u1}tuo{\r} canale e
+Dialogue: 0,0:00:13.13,0:00:13.17,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:13.17,0:00:13.49,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo {\1c&HFF00&\u1}canale{\r} e
+Dialogue: 0,0:00:13.49,0:00:13.71,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale e
+Dialogue: 0,0:00:13.71,0:00:13.73,Default,,0,0,0,,meglio o peggio, dipende tutto dipende dal tuo profilo dal tuo canale {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:14.16,0:00:14.70,Default,,0,0,0,,{\1c&HFF00&\u1}soprattutto{\r} dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:14.70,0:00:15.16,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:15.16,0:00:15.26,Default,,0,0,0,,soprattutto {\1c&HFF00&\u1}dal{\r} tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:15.26,0:00:15.30,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:15.30,0:00:15.38,Default,,0,0,0,,soprattutto dal {\1c&HFF00&\u1}tuo{\r} pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:15.38,0:00:15.42,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:15.42,0:00:15.79,Default,,0,0,0,,soprattutto dal tuo {\1c&HFF00&\u1}pubblico{\r} per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:15.79,0:00:16.65,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:16.65,0:00:16.77,Default,,0,0,0,,soprattutto dal tuo pubblico {\1c&HFF00&\u1}per{\r} sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:16.77,0:00:16.85,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:16.85,0:00:17.13,Default,,0,0,0,,soprattutto dal tuo pubblico per {\1c&HFF00&\u1}sapere{\r} quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:17.13,0:00:17.19,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:17.19,0:00:17.43,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere {\1c&HFF00&\u1}quando{\r} pubblicare nello specifico hai i
+Dialogue: 0,0:00:17.43,0:00:17.49,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:17.49,0:00:17.99,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando {\1c&HFF00&\u1}pubblicare{\r} nello specifico hai i
+Dialogue: 0,0:00:17.99,0:00:18.35,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:18.35,0:00:18.57,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare {\1c&HFF00&\u1}nello{\r} specifico hai i
+Dialogue: 0,0:00:18.57,0:00:18.61,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:18.61,0:00:19.29,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello {\1c&HFF00&\u1}specifico{\r} hai i
+Dialogue: 0,0:00:19.29,0:00:19.94,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:19.94,0:00:20.04,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico {\1c&HFF00&\u1}hai{\r} i
+Dialogue: 0,0:00:20.04,0:00:20.06,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai i
+Dialogue: 0,0:00:20.06,0:00:20.08,Default,,0,0,0,,soprattutto dal tuo pubblico per sapere quando pubblicare nello specifico hai {\1c&HFF00&\u1}i{\r}
+Dialogue: 0,0:00:20.14,0:00:20.26,Default,,0,0,0,,{\1c&HFF00&\u1}due{\r} modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:20.26,0:00:20.28,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:20.28,0:00:20.50,Default,,0,0,0,,due {\1c&HFF00&\u1}modi{\r} c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:20.50,0:00:20.94,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:20.94,0:00:21.04,Default,,0,0,0,,due modi {\1c&HFF00&\u1}c'è{\r} un mio video su youtube che si chiama
+Dialogue: 0,0:00:21.04,0:00:21.08,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:21.08,0:00:21.15,Default,,0,0,0,,due modi c'è {\1c&HFF00&\u1}un{\r} mio video su youtube che si chiama
+Dialogue: 0,0:00:21.15,0:00:21.19,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:21.19,0:00:21.29,Default,,0,0,0,,due modi c'è un {\1c&HFF00&\u1}mio{\r} video su youtube che si chiama
+Dialogue: 0,0:00:21.29,0:00:21.33,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:21.33,0:00:21.49,Default,,0,0,0,,due modi c'è un mio {\1c&HFF00&\u1}video{\r} su youtube che si chiama
+Dialogue: 0,0:00:21.49,0:00:21.53,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:21.53,0:00:21.61,Default,,0,0,0,,due modi c'è un mio video {\1c&HFF00&\u1}su{\r} youtube che si chiama
+Dialogue: 0,0:00:21.61,0:00:21.65,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:21.65,0:00:22.01,Default,,0,0,0,,due modi c'è un mio video su {\1c&HFF00&\u1}youtube{\r} che si chiama
+Dialogue: 0,0:00:22.01,0:00:22.35,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:22.35,0:00:22.43,Default,,0,0,0,,due modi c'è un mio video su youtube {\1c&HFF00&\u1}che{\r} si chiama
+Dialogue: 0,0:00:22.43,0:00:22.47,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:22.47,0:00:22.51,Default,,0,0,0,,due modi c'è un mio video su youtube che {\1c&HFF00&\u1}si{\r} chiama
+Dialogue: 0,0:00:22.51,0:00:22.55,Default,,0,0,0,,due modi c'è un mio video su youtube che si chiama
+Dialogue: 0,0:00:22.55,0:00:22.73,Default,,0,0,0,,due modi c'è un mio video su youtube che si {\1c&HFF00&\u1}chiama{\r}
+Dialogue: 0,0:00:23.00,0:00:23.18,Default,,0,0,0,,{\1c&HFF00&\u1}qual{\r} è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.18,0:00:23.20,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.20,0:00:23.22,Default,,0,0,0,,qual {\1c&HFF00&\u1}è{\r} il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.22,0:00:23.26,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.26,0:00:23.30,Default,,0,0,0,,qual è {\1c&HFF00&\u1}il{\r} miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.30,0:00:23.34,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.34,0:00:23.54,Default,,0,0,0,,qual è il {\1c&HFF00&\u1}miglior{\r} orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.54,0:00:23.58,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.58,0:00:23.84,Default,,0,0,0,,qual è il miglior {\1c&HFF00&\u1}orario{\r} per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.84,0:00:23.88,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:23.88,0:00:24.00,Default,,0,0,0,,qual è il miglior orario {\1c&HFF00&\u1}per{\r} pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:24.00,0:00:24.04,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:24.04,0:00:24.47,Default,,0,0,0,,qual è il miglior orario per {\1c&HFF00&\u1}pubblicare{\r} e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:24.47,0:00:24.97,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:24.97,0:00:24.99,Default,,0,0,0,,qual è il miglior orario per pubblicare {\1c&HFF00&\u1}e{\r} lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:24.99,0:00:25.05,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:25.05,0:00:25.11,Default,,0,0,0,,qual è il miglior orario per pubblicare e {\1c&HFF00&\u1}lì{\r} ti spiego in maniera abbastanza
+Dialogue: 0,0:00:25.11,0:00:25.17,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:25.17,0:00:25.25,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì {\1c&HFF00&\u1}ti{\r} spiego in maniera abbastanza
+Dialogue: 0,0:00:25.25,0:00:25.33,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:25.33,0:00:25.67,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti {\1c&HFF00&\u1}spiego{\r} in maniera abbastanza
+Dialogue: 0,0:00:25.67,0:00:25.71,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:25.71,0:00:25.75,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego {\1c&HFF00&\u1}in{\r} maniera abbastanza
+Dialogue: 0,0:00:25.75,0:00:25.79,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:25.79,0:00:26.03,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in {\1c&HFF00&\u1}maniera{\r} abbastanza
+Dialogue: 0,0:00:26.03,0:00:26.27,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera abbastanza
+Dialogue: 0,0:00:26.27,0:00:26.79,Default,,0,0,0,,qual è il miglior orario per pubblicare e lì ti spiego in maniera {\1c&HFF00&\u1}abbastanza{\r}
+Dialogue: 0,0:00:26.86,0:00:27.48,Default,,0,0,0,,{\1c&HFF00&\u1}approfondita{\r} qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:27.48,0:00:27.78,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:27.78,0:00:27.94,Default,,0,0,0,,approfondita {\1c&HFF00&\u1}qual{\r} è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:27.94,0:00:27.96,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:27.96,0:00:27.98,Default,,0,0,0,,approfondita qual {\1c&HFF00&\u1}è{\r} il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:27.98,0:00:28.02,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.02,0:00:28.08,Default,,0,0,0,,approfondita qual è {\1c&HFF00&\u1}il{\r} miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.08,0:00:28.12,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.12,0:00:28.39,Default,,0,0,0,,approfondita qual è il {\1c&HFF00&\u1}miglior{\r} orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.39,0:00:28.41,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.41,0:00:28.65,Default,,0,0,0,,approfondita qual è il miglior {\1c&HFF00&\u1}orario{\r} per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.65,0:00:28.67,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.67,0:00:28.79,Default,,0,0,0,,approfondita qual è il miglior orario {\1c&HFF00&\u1}per{\r} pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.79,0:00:28.83,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:28.83,0:00:29.27,Default,,0,0,0,,approfondita qual è il miglior orario per {\1c&HFF00&\u1}pubblicare{\r} se no dentro tiktok masters
+Dialogue: 0,0:00:29.27,0:00:29.75,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:29.75,0:00:29.81,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare {\1c&HFF00&\u1}se{\r} no dentro tiktok masters
+Dialogue: 0,0:00:29.81,0:00:29.85,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:29.85,0:00:29.97,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se {\1c&HFF00&\u1}no{\r} dentro tiktok masters
+Dialogue: 0,0:00:29.97,0:00:30.03,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:30.03,0:00:30.31,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no {\1c&HFF00&\u1}dentro{\r} tiktok masters
+Dialogue: 0,0:00:30.31,0:00:30.37,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:30.37,0:00:30.77,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro {\1c&HFF00&\u1}tiktok{\r} masters
+Dialogue: 0,0:00:30.77,0:00:30.79,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok masters
+Dialogue: 0,0:00:30.79,0:00:31.17,Default,,0,0,0,,approfondita qual è il miglior orario per pubblicare se no dentro tiktok {\1c&HFF00&\u1}masters{\r}
+Dialogue: 0,0:00:31.34,0:00:31.68,Default,,0,0,0,,{\1c&HFF00&\u1}ovviamente{\r} che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:31.68,0:00:31.70,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:31.70,0:00:31.78,Default,,0,0,0,,ovviamente {\1c&HFF00&\u1}che{\r} il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:31.78,0:00:31.80,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:31.80,0:00:31.84,Default,,0,0,0,,ovviamente che {\1c&HFF00&\u1}il{\r} mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:31.84,0:00:31.88,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:31.88,0:00:31.96,Default,,0,0,0,,ovviamente che il {\1c&HFF00&\u1}mio{\r} corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:31.96,0:00:32.02,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.02,0:00:32.30,Default,,0,0,0,,ovviamente che il mio {\1c&HFF00&\u1}corso{\r} ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.30,0:00:32.38,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.38,0:00:32.46,Default,,0,0,0,,ovviamente che il mio corso {\1c&HFF00&\u1}ci{\r} sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.46,0:00:32.50,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.50,0:00:32.69,Default,,0,0,0,,ovviamente che il mio corso ci {\1c&HFF00&\u1}sono{\r} due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.69,0:00:32.81,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.81,0:00:32.95,Default,,0,0,0,,ovviamente che il mio corso ci sono {\1c&HFF00&\u1}due{\r} lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:32.95,0:00:33.03,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:33.03,0:00:33.39,Default,,0,0,0,,ovviamente che il mio corso ci sono due {\1c&HFF00&\u1}lezioni{\r} dedicate a qual è il miglior
+Dialogue: 0,0:00:33.39,0:00:33.47,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:33.47,0:00:33.93,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni {\1c&HFF00&\u1}dedicate{\r} a qual è il miglior
+Dialogue: 0,0:00:33.93,0:00:33.95,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:33.95,0:00:33.97,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate {\1c&HFF00&\u1}a{\r} qual è il miglior
+Dialogue: 0,0:00:33.97,0:00:34.15,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:34.15,0:00:34.33,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a {\1c&HFF00&\u1}qual{\r} è il miglior
+Dialogue: 0,0:00:34.33,0:00:34.35,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:34.35,0:00:34.37,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual {\1c&HFF00&\u1}è{\r} il miglior
+Dialogue: 0,0:00:34.37,0:00:34.39,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:34.39,0:00:34.45,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è {\1c&HFF00&\u1}il{\r} miglior
+Dialogue: 0,0:00:34.45,0:00:34.49,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il miglior
+Dialogue: 0,0:00:34.49,0:00:34.69,Default,,0,0,0,,ovviamente che il mio corso ci sono due lezioni dedicate a qual è il {\1c&HFF00&\u1}miglior{\r}
+Dialogue: 0,0:00:34.90,0:00:35.10,Default,,0,0,0,,{\1c&HFF00&\u1}orario{\r} per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:35.10,0:00:35.12,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:35.12,0:00:35.18,Default,,0,0,0,,orario {\1c&HFF00&\u1}per{\r} pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:35.18,0:00:35.22,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:35.22,0:00:35.74,Default,,0,0,0,,orario per {\1c&HFF00&\u1}pubblicare{\r} come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:35.74,0:00:35.80,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:35.80,0:00:35.98,Default,,0,0,0,,orario per pubblicare {\1c&HFF00&\u1}come{\r} capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:35.98,0:00:36.06,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:36.06,0:00:36.45,Default,,0,0,0,,orario per pubblicare come {\1c&HFF00&\u1}capire{\r} se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:36.45,0:00:37.45,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:37.45,0:00:37.57,Default,,0,0,0,,orario per pubblicare come capire {\1c&HFF00&\u1}se{\r} pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:37.57,0:00:37.63,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:37.63,0:00:38.07,Default,,0,0,0,,orario per pubblicare come capire se {\1c&HFF00&\u1}pubblicare{\r} una certa ora o un'altra ora
+Dialogue: 0,0:00:38.07,0:00:38.11,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:38.11,0:00:38.21,Default,,0,0,0,,orario per pubblicare come capire se pubblicare {\1c&HFF00&\u1}una{\r} certa ora o un'altra ora
+Dialogue: 0,0:00:38.21,0:00:38.27,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:38.27,0:00:38.53,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una {\1c&HFF00&\u1}certa{\r} ora o un'altra ora
+Dialogue: 0,0:00:38.53,0:00:38.61,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:38.61,0:00:38.83,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa {\1c&HFF00&\u1}ora{\r} o un'altra ora
+Dialogue: 0,0:00:38.83,0:00:38.91,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:38.91,0:00:38.97,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora {\1c&HFF00&\u1}o{\r} un'altra ora
+Dialogue: 0,0:00:38.97,0:00:39.03,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:39.03,0:00:39.39,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o {\1c&HFF00&\u1}un'altra{\r} ora
+Dialogue: 0,0:00:39.39,0:00:39.47,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra ora
+Dialogue: 0,0:00:39.47,0:00:39.63,Default,,0,0,0,,orario per pubblicare come capire se pubblicare una certa ora o un'altra {\1c&HFF00&\u1}ora{\r}
+Dialogue: 0,0:00:39.60,0:00:40.22,Default,,0,0,0,,{\1c&HFF00&\u1}cambia{\r} tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.22,0:00:40.26,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.26,0:00:40.48,Default,,0,0,0,,cambia {\1c&HFF00&\u1}tutto{\r} però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.48,0:00:40.50,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.50,0:00:40.64,Default,,0,0,0,,cambia tutto {\1c&HFF00&\u1}però{\r} in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.64,0:00:40.68,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.68,0:00:40.74,Default,,0,0,0,,cambia tutto però {\1c&HFF00&\u1}in{\r} base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.74,0:00:40.76,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.76,0:00:40.94,Default,,0,0,0,,cambia tutto però in {\1c&HFF00&\u1}base{\r} al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.94,0:00:40.96,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:40.96,0:00:41.04,Default,,0,0,0,,cambia tutto però in base {\1c&HFF00&\u1}al{\r} profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:41.04,0:00:41.08,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:41.08,0:00:41.79,Default,,0,0,0,,cambia tutto però in base al {\1c&HFF00&\u1}profilo{\r} letteralmente cioè se io parlo di
+Dialogue: 0,0:00:41.79,0:00:41.81,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:41.81,0:00:42.49,Default,,0,0,0,,cambia tutto però in base al profilo {\1c&HFF00&\u1}letteralmente{\r} cioè se io parlo di
+Dialogue: 0,0:00:42.49,0:00:42.59,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:42.59,0:00:42.71,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente {\1c&HFF00&\u1}cioè{\r} se io parlo di
+Dialogue: 0,0:00:42.71,0:00:42.87,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:42.87,0:00:42.95,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè {\1c&HFF00&\u1}se{\r} io parlo di
+Dialogue: 0,0:00:42.95,0:00:43.01,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:43.01,0:00:43.07,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se {\1c&HFF00&\u1}io{\r} parlo di
+Dialogue: 0,0:00:43.07,0:00:43.13,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:43.13,0:00:43.39,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io {\1c&HFF00&\u1}parlo{\r} di
+Dialogue: 0,0:00:43.39,0:00:43.45,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo di
+Dialogue: 0,0:00:43.45,0:00:43.51,Default,,0,0,0,,cambia tutto però in base al profilo letteralmente cioè se io parlo {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:44.56,0:00:45.20,Default,,0,0,0,,{\1c&HFF00&\u1}marketing{\r} probabilmente la mia audience non sarà
+Dialogue: 0,0:00:45.20,0:00:45.93,Default,,0,0,0,,marketing probabilmente la mia audience non sarà
+Dialogue: 0,0:00:45.93,0:00:46.63,Default,,0,0,0,,marketing {\1c&HFF00&\u1}probabilmente{\r} la mia audience non sarà
+Dialogue: 0,0:00:46.63,0:00:46.73,Default,,0,0,0,,marketing probabilmente la mia audience non sarà
+Dialogue: 0,0:00:46.73,0:00:46.79,Default,,0,0,0,,marketing probabilmente {\1c&HFF00&\u1}la{\r} mia audience non sarà
+Dialogue: 0,0:00:46.79,0:00:46.81,Default,,0,0,0,,marketing probabilmente la mia audience non sarà
+Dialogue: 0,0:00:46.81,0:00:46.89,Default,,0,0,0,,marketing probabilmente la {\1c&HFF00&\u1}mia{\r} audience non sarà
+Dialogue: 0,0:00:46.89,0:00:46.91,Default,,0,0,0,,marketing probabilmente la mia audience non sarà
+Dialogue: 0,0:00:46.91,0:00:47.37,Default,,0,0,0,,marketing probabilmente la mia {\1c&HFF00&\u1}audience{\r} non sarà
+Dialogue: 0,0:00:47.37,0:00:47.55,Default,,0,0,0,,marketing probabilmente la mia audience non sarà
+Dialogue: 0,0:00:47.55,0:00:47.65,Default,,0,0,0,,marketing probabilmente la mia audience {\1c&HFF00&\u1}non{\r} sarà
+Dialogue: 0,0:00:47.65,0:00:47.71,Default,,0,0,0,,marketing probabilmente la mia audience non sarà
+Dialogue: 0,0:00:47.71,0:00:47.85,Default,,0,0,0,,marketing probabilmente la mia audience non {\1c&HFF00&\u1}sarà{\r}
+Dialogue: 0,0:00:48.04,0:00:48.48,Default,,0,0,0,,{\1c&HFF00&\u1}collegata{\r} alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:48.48,0:00:49.04,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:49.04,0:00:49.22,Default,,0,0,0,,collegata {\1c&HFF00&\u1}alle 4{\r} del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:49.22,0:00:49.78,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:49.78,0:00:49.91,Default,,0,0,0,,collegata alle 4 {\1c&HFF00&\u1}del{\r} pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:49.91,0:00:49.95,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:49.95,0:00:50.53,Default,,0,0,0,,collegata alle 4 del {\1c&HFF00&\u1}pomeriggio{\r} e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:50.53,0:00:50.87,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:50.87,0:00:50.95,Default,,0,0,0,,collegata alle 4 del pomeriggio {\1c&HFF00&\u1}e{\r} alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:50.95,0:00:51.51,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:51.51,0:00:52.09,Default,,0,0,0,,collegata alle 4 del pomeriggio e {\1c&HFF00&\u1}alle 11{\r} perché sta lavorando perché la mia
+Dialogue: 0,0:00:52.09,0:00:52.29,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:52.29,0:00:52.51,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 {\1c&HFF00&\u1}perché{\r} sta lavorando perché la mia
+Dialogue: 0,0:00:52.51,0:00:52.55,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:52.55,0:00:52.67,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché {\1c&HFF00&\u1}sta{\r} lavorando perché la mia
+Dialogue: 0,0:00:52.67,0:00:52.71,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:52.71,0:00:53.19,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta {\1c&HFF00&\u1}lavorando{\r} perché la mia
+Dialogue: 0,0:00:53.19,0:00:53.33,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:53.33,0:00:53.65,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando {\1c&HFF00&\u1}perché{\r} la mia
+Dialogue: 0,0:00:53.65,0:00:53.79,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:53.79,0:00:53.83,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché {\1c&HFF00&\u1}la{\r} mia
+Dialogue: 0,0:00:53.83,0:00:53.88,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la mia
+Dialogue: 0,0:00:53.88,0:00:53.94,Default,,0,0,0,,collegata alle 4 del pomeriggio e alle 11 perché sta lavorando perché la {\1c&HFF00&\u1}mia{\r}
+Dialogue: 0,0:00:53.88,0:00:54.04,Default,,0,0,0,,{\1c&HFF00&\u1}audience{\r} a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.04,0:00:54.06,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.06,0:00:54.08,Default,,0,0,0,,audience {\1c&HFF00&\u1}a{\r} quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.08,0:00:54.10,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.10,0:00:54.26,Default,,0,0,0,,audience a {\1c&HFF00&\u1}quell'ora{\r} è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.26,0:00:54.28,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.28,0:00:54.30,Default,,0,0,0,,audience a quell'ora {\1c&HFF00&\u1}è{\r} o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.30,0:00:54.32,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.32,0:00:54.34,Default,,0,0,0,,audience a quell'ora è {\1c&HFF00&\u1}o{\r} in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.34,0:00:54.36,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.36,0:00:54.40,Default,,0,0,0,,audience a quell'ora è o {\1c&HFF00&\u1}in{\r} ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.40,0:00:54.42,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.42,0:00:54.56,Default,,0,0,0,,audience a quell'ora è o in {\1c&HFF00&\u1}ufficio{\r} o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.56,0:00:54.58,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.58,0:00:54.60,Default,,0,0,0,,audience a quell'ora è o in ufficio {\1c&HFF00&\u1}o{\r} sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.60,0:00:54.62,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.62,0:00:54.68,Default,,0,0,0,,audience a quell'ora è o in ufficio o {\1c&HFF00&\u1}sta{\r} lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.68,0:00:54.70,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.70,0:00:54.88,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta {\1c&HFF00&\u1}lavorando{\r} a casa e non ha tempo di
+Dialogue: 0,0:00:54.88,0:00:54.90,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.90,0:00:54.92,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando {\1c&HFF00&\u1}a{\r} casa e non ha tempo di
+Dialogue: 0,0:00:54.92,0:00:54.94,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:54.94,0:00:55.02,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a {\1c&HFF00&\u1}casa{\r} e non ha tempo di
+Dialogue: 0,0:00:55.02,0:00:55.04,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:55.04,0:00:55.06,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa {\1c&HFF00&\u1}e{\r} non ha tempo di
+Dialogue: 0,0:00:55.06,0:00:55.08,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:55.08,0:00:55.14,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e {\1c&HFF00&\u1}non{\r} ha tempo di
+Dialogue: 0,0:00:55.14,0:00:55.16,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:55.16,0:00:55.20,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non {\1c&HFF00&\u1}ha{\r} tempo di
+Dialogue: 0,0:00:55.20,0:00:55.22,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:55.22,0:00:55.32,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha {\1c&HFF00&\u1}tempo{\r} di
+Dialogue: 0,0:00:55.32,0:00:55.34,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo di
+Dialogue: 0,0:00:55.34,0:00:55.38,Default,,0,0,0,,audience a quell'ora è o in ufficio o sta lavorando a casa e non ha tempo {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:57.92,0:00:58.42,Default,,0,0,0,,{\1c&HFF00&\u1}scrollare{\r} tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:58.42,0:00:58.46,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:58.46,0:00:58.90,Default,,0,0,0,,scrollare {\1c&HFF00&\u1}tiktok.{\r} Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:58.90,0:00:59.56,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:59.56,0:00:59.66,Default,,0,0,0,,scrollare tiktok. {\1c&HFF00&\u1}Se{\r} faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:59.66,0:00:59.70,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:59.70,0:00:59.97,Default,,0,0,0,,scrollare tiktok. Se {\1c&HFF00&\u1}faccio{\r} gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:59.97,0:00:59.99,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:00:59.99,0:01:0.13,Default,,0,0,0,,scrollare tiktok. Se faccio {\1c&HFF00&\u1}gli{\r} ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:0.13,0:01:0.29,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:0.29,0:01:1.11,Default,,0,0,0,,scrollare tiktok. Se faccio gli {\1c&HFF00&\u1}ASMR,{\r} per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:1.11,0:01:1.71,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:1.71,0:01:1.81,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, {\1c&HFF00&\u1}per{\r} chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:1.81,0:01:1.83,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:1.83,0:01:1.91,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per {\1c&HFF00&\u1}chi{\r} non lo sapesse anche questo è un
+Dialogue: 0,0:01:1.91,0:01:1.93,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:1.93,0:01:2.01,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi {\1c&HFF00&\u1}non{\r} lo sapesse anche questo è un
+Dialogue: 0,0:01:2.01,0:01:2.03,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:2.03,0:01:2.09,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non {\1c&HFF00&\u1}lo{\r} sapesse anche questo è un
+Dialogue: 0,0:01:2.09,0:01:2.13,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:2.13,0:01:2.53,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo {\1c&HFF00&\u1}sapesse{\r} anche questo è un
+Dialogue: 0,0:01:2.53,0:01:2.55,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:2.55,0:01:2.73,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse {\1c&HFF00&\u1}anche{\r} questo è un
+Dialogue: 0,0:01:2.73,0:01:2.79,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:2.79,0:01:2.99,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche {\1c&HFF00&\u1}questo{\r} è un
+Dialogue: 0,0:01:2.99,0:01:3.01,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:3.01,0:01:3.03,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo {\1c&HFF00&\u1}è{\r} un
+Dialogue: 0,0:01:3.03,0:01:3.07,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è un
+Dialogue: 0,0:01:3.07,0:01:3.13,Default,,0,0,0,,scrollare tiktok. Se faccio gli ASMR, per chi non lo sapesse anche questo è {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:01:3.32,0:01:3.70,Default,,0,0,0,,{\1c&HFF00&\u1}format,{\r} sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:3.70,0:01:3.72,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:3.72,0:01:3.92,Default,,0,0,0,,format, {\1c&HFF00&\u1}sono{\r} quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:3.92,0:01:3.96,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:3.96,0:01:4.10,Default,,0,0,0,,format, sono {\1c&HFF00&\u1}quei{\r} video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.10,0:01:4.12,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.12,0:01:4.32,Default,,0,0,0,,format, sono quei {\1c&HFF00&\u1}video{\r} in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.32,0:01:4.34,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.34,0:01:4.40,Default,,0,0,0,,format, sono quei video {\1c&HFF00&\u1}in{\r} cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.40,0:01:4.42,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.42,0:01:4.52,Default,,0,0,0,,format, sono quei video in {\1c&HFF00&\u1}cui{\r} faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.52,0:01:4.56,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.56,0:01:4.86,Default,,0,0,0,,format, sono quei video in cui {\1c&HFF00&\u1}faccio,{\r} in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:4.86,0:01:5.85,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:5.85,0:01:5.93,Default,,0,0,0,,format, sono quei video in cui faccio, {\1c&HFF00&\u1}in{\r} cui le persone fanno rumori e sono
+Dialogue: 0,0:01:5.93,0:01:5.99,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:5.99,0:01:6.15,Default,,0,0,0,,format, sono quei video in cui faccio, in {\1c&HFF00&\u1}cui{\r} le persone fanno rumori e sono
+Dialogue: 0,0:01:6.15,0:01:6.35,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:6.35,0:01:6.41,Default,,0,0,0,,format, sono quei video in cui faccio, in cui {\1c&HFF00&\u1}le{\r} persone fanno rumori e sono
+Dialogue: 0,0:01:6.41,0:01:6.45,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:6.45,0:01:6.77,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le {\1c&HFF00&\u1}persone{\r} fanno rumori e sono
+Dialogue: 0,0:01:6.77,0:01:6.83,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:6.83,0:01:7.05,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone {\1c&HFF00&\u1}fanno{\r} rumori e sono
+Dialogue: 0,0:01:7.05,0:01:7.11,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:7.11,0:01:7.47,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno {\1c&HFF00&\u1}rumori{\r} e sono
+Dialogue: 0,0:01:7.47,0:01:7.49,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:7.49,0:01:7.51,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori {\1c&HFF00&\u1}e{\r} sono
+Dialogue: 0,0:01:7.51,0:01:8.47,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e sono
+Dialogue: 0,0:01:8.47,0:01:8.61,Default,,0,0,0,,format, sono quei video in cui faccio, in cui le persone fanno rumori e {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:01:8.70,0:01:9.30,Default,,0,0,0,,{\1c&HFF00&\u1}rilassanti{\r} per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:9.30,0:01:9.34,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:9.34,0:01:9.44,Default,,0,0,0,,rilassanti {\1c&HFF00&\u1}per{\r} alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:9.44,0:01:9.52,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:9.52,0:01:9.74,Default,,0,0,0,,rilassanti per {\1c&HFF00&\u1}alcune{\r} persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:9.74,0:01:9.80,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:9.80,0:01:10.21,Default,,0,0,0,,rilassanti per alcune {\1c&HFF00&\u1}persone,{\r} per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:10.21,0:01:10.83,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:10.83,0:01:10.93,Default,,0,0,0,,rilassanti per alcune persone, {\1c&HFF00&\u1}per{\r} me non particolarmente, però alcuni li
+Dialogue: 0,0:01:10.93,0:01:10.97,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:10.97,0:01:11.05,Default,,0,0,0,,rilassanti per alcune persone, per {\1c&HFF00&\u1}me{\r} non particolarmente, però alcuni li
+Dialogue: 0,0:01:11.05,0:01:11.13,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:11.13,0:01:11.25,Default,,0,0,0,,rilassanti per alcune persone, per me {\1c&HFF00&\u1}non{\r} particolarmente, però alcuni li
+Dialogue: 0,0:01:11.25,0:01:11.31,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:11.31,0:01:12.09,Default,,0,0,0,,rilassanti per alcune persone, per me non {\1c&HFF00&\u1}particolarmente,{\r} però alcuni li
+Dialogue: 0,0:01:12.09,0:01:12.15,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:12.15,0:01:12.29,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, {\1c&HFF00&\u1}però{\r} alcuni li
+Dialogue: 0,0:01:12.29,0:01:12.35,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:12.35,0:01:12.67,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però {\1c&HFF00&\u1}alcuni{\r} li
+Dialogue: 0,0:01:12.67,0:01:12.73,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni li
+Dialogue: 0,0:01:12.73,0:01:12.77,Default,,0,0,0,,rilassanti per alcune persone, per me non particolarmente, però alcuni {\1c&HFF00&\u1}li{\r}
+Dialogue: 0,0:01:12.88,0:01:13.18,Default,,0,0,0,,{\1c&HFF00&\u1}trovano{\r} rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:13.18,0:01:13.20,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:13.20,0:01:13.76,Default,,0,0,0,,trovano {\1c&HFF00&\u1}rilassanti{\r} e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:13.76,0:01:14.58,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:14.58,0:01:14.62,Default,,0,0,0,,trovano rilassanti {\1c&HFF00&\u1}e{\r} a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:14.62,0:01:14.66,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:14.66,0:01:14.70,Default,,0,0,0,,trovano rilassanti e {\1c&HFF00&\u1}a{\r} quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:14.70,0:01:14.97,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:14.97,0:01:15.25,Default,,0,0,0,,trovano rilassanti e a {\1c&HFF00&\u1}quelli{\r} li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:15.25,0:01:15.31,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:15.31,0:01:15.37,Default,,0,0,0,,trovano rilassanti e a quelli {\1c&HFF00&\u1}li{\r} posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:15.37,0:01:15.41,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:15.41,0:01:15.71,Default,,0,0,0,,trovano rilassanti e a quelli li {\1c&HFF00&\u1}posso{\r} fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:15.71,0:01:16.13,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:16.13,0:01:16.29,Default,,0,0,0,,trovano rilassanti e a quelli li posso {\1c&HFF00&\u1}fare{\r} alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:16.29,0:01:16.31,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:16.31,0:01:16.61,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare {\1c&HFF00&\u1}alle 9{\r} di sera, alle 11 alcuni li
+Dialogue: 0,0:01:16.61,0:01:16.65,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:16.65,0:01:16.71,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 {\1c&HFF00&\u1}di{\r} sera, alle 11 alcuni li
+Dialogue: 0,0:01:16.71,0:01:16.75,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:16.75,0:01:17.07,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di {\1c&HFF00&\u1}sera,{\r} alle 11 alcuni li
+Dialogue: 0,0:01:17.07,0:01:17.57,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:17.57,0:01:18.19,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, {\1c&HFF00&\u1}alle 11{\r} alcuni li
+Dialogue: 0,0:01:18.19,0:01:18.45,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:18.45,0:01:18.71,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 {\1c&HFF00&\u1}alcuni{\r} li
+Dialogue: 0,0:01:18.71,0:01:18.75,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni li
+Dialogue: 0,0:01:18.75,0:01:18.82,Default,,0,0,0,,trovano rilassanti e a quelli li posso fare alle 9 di sera, alle 11 alcuni {\1c&HFF00&\u1}li{\r}
+Dialogue: 0,0:01:18.80,0:01:19.10,Default,,0,0,0,,{\1c&HFF00&\u1}usano{\r} per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:19.10,0:01:19.14,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:19.14,0:01:19.28,Default,,0,0,0,,usano {\1c&HFF00&\u1}per{\r} dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:19.28,0:01:19.32,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:19.32,0:01:19.98,Default,,0,0,0,,usano per {\1c&HFF00&\u1}dormire,{\r} quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:19.98,0:01:20.00,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:20.00,0:01:20.18,Default,,0,0,0,,usano per dormire, {\1c&HFF00&\u1}quindi{\r} tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:20.18,0:01:20.24,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:20.24,0:01:20.45,Default,,0,0,0,,usano per dormire, quindi {\1c&HFF00&\u1}tutto{\r} dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:20.45,0:01:20.51,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:20.51,0:01:21.45,Default,,0,0,0,,usano per dormire, quindi tutto {\1c&HFF00&\u1}dipende.{\r} Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:21.45,0:01:21.49,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:21.49,0:01:21.59,Default,,0,0,0,,usano per dormire, quindi tutto dipende. {\1c&HFF00&\u1}Fai{\r} un salto a vedere il video sul mio
+Dialogue: 0,0:01:21.59,0:01:21.63,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:21.63,0:01:21.71,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai {\1c&HFF00&\u1}un{\r} salto a vedere il video sul mio
+Dialogue: 0,0:01:21.71,0:01:21.73,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:21.73,0:01:22.03,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un {\1c&HFF00&\u1}salto{\r} a vedere il video sul mio
+Dialogue: 0,0:01:22.03,0:01:22.11,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:22.11,0:01:22.15,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto {\1c&HFF00&\u1}a{\r} vedere il video sul mio
+Dialogue: 0,0:01:22.15,0:01:22.19,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:22.19,0:01:22.43,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a {\1c&HFF00&\u1}vedere{\r} il video sul mio
+Dialogue: 0,0:01:22.43,0:01:22.47,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:22.47,0:01:22.53,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere {\1c&HFF00&\u1}il{\r} video sul mio
+Dialogue: 0,0:01:22.53,0:01:22.55,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:22.55,0:01:22.73,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il {\1c&HFF00&\u1}video{\r} sul mio
+Dialogue: 0,0:01:22.73,0:01:22.75,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:22.75,0:01:22.89,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video {\1c&HFF00&\u1}sul{\r} mio
+Dialogue: 0,0:01:22.89,0:01:22.91,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul mio
+Dialogue: 0,0:01:22.91,0:01:22.97,Default,,0,0,0,,usano per dormire, quindi tutto dipende. Fai un salto a vedere il video sul {\1c&HFF00&\u1}mio{\r}
+Dialogue: 0,0:01:23.66,0:01:24.32,Default,,0,0,0,,{\1c&HFF00&\u1}canale{\r} youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:24.32,0:01:24.42,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:24.42,0:01:24.91,Default,,0,0,0,,canale {\1c&HFF00&\u1}youtube{\r} così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:24.91,0:01:25.01,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:25.01,0:01:25.23,Default,,0,0,0,,canale youtube {\1c&HFF00&\u1}così{\r} magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:25.23,0:01:25.29,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:25.29,0:01:26.95,Default,,0,0,0,,canale youtube così {\1c&HFF00&\u1}magari{\r} una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:26.95,0:01:26.97,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:26.97,0:01:27.03,Default,,0,0,0,,canale youtube così magari {\1c&HFF00&\u1}una{\r} risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.03,0:01:27.07,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.07,0:01:27.23,Default,,0,0,0,,canale youtube così magari una {\1c&HFF00&\u1}risposta{\r} più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.23,0:01:27.27,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.27,0:01:27.33,Default,,0,0,0,,canale youtube così magari una risposta {\1c&HFF00&\u1}più{\r} specifica cosa fare quando non si
+Dialogue: 0,0:01:27.33,0:01:27.35,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.35,0:01:27.59,Default,,0,0,0,,canale youtube così magari una risposta più {\1c&HFF00&\u1}specifica{\r} cosa fare quando non si
+Dialogue: 0,0:01:27.59,0:01:27.61,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.61,0:01:27.75,Default,,0,0,0,,canale youtube così magari una risposta più specifica {\1c&HFF00&\u1}cosa{\r} fare quando non si
+Dialogue: 0,0:01:27.75,0:01:27.77,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.77,0:01:27.85,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa {\1c&HFF00&\u1}fare{\r} quando non si
+Dialogue: 0,0:01:27.85,0:01:27.87,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:27.87,0:01:27.99,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare {\1c&HFF00&\u1}quando{\r} non si
+Dialogue: 0,0:01:27.99,0:01:28.01,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:28.01,0:01:28.10,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando {\1c&HFF00&\u1}non{\r} si
+Dialogue: 0,0:01:28.10,0:01:28.12,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non si
+Dialogue: 0,0:01:28.12,0:01:28.16,Default,,0,0,0,,canale youtube così magari una risposta più specifica cosa fare quando non {\1c&HFF00&\u1}si{\r}
+Dialogue: 0,0:01:27.96,0:01:28.16,Default,,0,0,0,,{\1c&HFF00&\u1}cresce{\r} più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.16,0:01:28.18,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.18,0:01:28.26,Default,,0,0,0,,cresce {\1c&HFF00&\u1}più{\r} di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.26,0:01:28.28,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.28,0:01:28.36,Default,,0,0,0,,cresce più {\1c&HFF00&\u1}di{\r} follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.36,0:01:28.40,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.40,0:01:28.78,Default,,0,0,0,,cresce più di {\1c&HFF00&\u1}follower{\r} nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.78,0:01:28.82,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:28.82,0:01:29.29,Default,,0,0,0,,cresce più di follower {\1c&HFF00&\u1}nonostante{\r} buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:29.29,0:01:29.37,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:29.37,0:01:29.51,Default,,0,0,0,,cresce più di follower nonostante {\1c&HFF00&\u1}buone{\r} views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:29.51,0:01:29.59,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:29.59,0:01:29.93,Default,,0,0,0,,cresce più di follower nonostante buone {\1c&HFF00&\u1}views,{\r} anche in questo caso tutto dipende.
+Dialogue: 0,0:01:29.93,0:01:30.11,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:30.11,0:01:30.33,Default,,0,0,0,,cresce più di follower nonostante buone views, {\1c&HFF00&\u1}anche{\r} in questo caso tutto dipende.
+Dialogue: 0,0:01:30.33,0:01:30.37,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:30.37,0:01:30.43,Default,,0,0,0,,cresce più di follower nonostante buone views, anche {\1c&HFF00&\u1}in{\r} questo caso tutto dipende.
+Dialogue: 0,0:01:30.43,0:01:30.45,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:30.45,0:01:30.67,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in {\1c&HFF00&\u1}questo{\r} caso tutto dipende.
+Dialogue: 0,0:01:30.67,0:01:30.73,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:30.73,0:01:30.99,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo {\1c&HFF00&\u1}caso{\r} tutto dipende.
+Dialogue: 0,0:01:30.99,0:01:31.27,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:31.27,0:01:31.57,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso {\1c&HFF00&\u1}tutto{\r} dipende.
+Dialogue: 0,0:01:31.57,0:01:31.63,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto dipende.
+Dialogue: 0,0:01:31.63,0:01:32.10,Default,,0,0,0,,cresce più di follower nonostante buone views, anche in questo caso tutto {\1c&HFF00&\u1}dipende.{\r}

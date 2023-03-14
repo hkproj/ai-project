@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.00,0:00:1.26,Default,,0,0,0,,{\1c&HFF00&\u1}fare{\r} il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:1.26,0:00:1.40,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:1.40,0:00:1.52,Default,,0,0,0,,fare {\1c&HFF00&\u1}il{\r} cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:1.52,0:00:1.56,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:1.56,0:00:2.08,Default,,0,0,0,,fare il {\1c&HFF00&\u1}cambio{\r} sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:2.08,0:00:2.26,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:2.26,0:00:2.69,Default,,0,0,0,,fare il cambio {\1c&HFF00&\u1}sarà{\r} tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:2.69,0:00:3.07,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:3.07,0:00:3.59,Default,,0,0,0,,fare il cambio sarà {\1c&HFF00&\u1}tutto{\r} facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:3.59,0:00:4.03,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:4.03,0:00:4.51,Default,,0,0,0,,fare il cambio sarà tutto {\1c&HFF00&\u1}facile,{\r} sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:4.51,0:00:4.79,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:4.79,0:00:4.89,Default,,0,0,0,,fare il cambio sarà tutto facile, {\1c&HFF00&\u1}sì{\r} è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:4.89,0:00:5.07,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:5.07,0:00:5.13,Default,,0,0,0,,fare il cambio sarà tutto facile, sì {\1c&HFF00&\u1}è{\r} stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:5.13,0:00:5.35,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:5.35,0:00:5.61,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è {\1c&HFF00&\u1}stato{\r} così nel mio caso e quindi ti
+Dialogue: 0,0:00:5.61,0:00:5.67,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:5.67,0:00:5.87,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato {\1c&HFF00&\u1}così{\r} nel mio caso e quindi ti
+Dialogue: 0,0:00:5.87,0:00:5.93,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:5.93,0:00:6.07,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così {\1c&HFF00&\u1}nel{\r} mio caso e quindi ti
+Dialogue: 0,0:00:6.07,0:00:6.09,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:6.09,0:00:6.19,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel {\1c&HFF00&\u1}mio{\r} caso e quindi ti
+Dialogue: 0,0:00:6.19,0:00:6.27,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:6.27,0:00:6.55,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio {\1c&HFF00&\u1}caso{\r} e quindi ti
+Dialogue: 0,0:00:6.55,0:00:6.67,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:6.67,0:00:6.71,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso {\1c&HFF00&\u1}e{\r} quindi ti
+Dialogue: 0,0:00:6.71,0:00:6.77,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:6.77,0:00:7.06,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e {\1c&HFF00&\u1}quindi{\r} ti
+Dialogue: 0,0:00:7.06,0:00:7.32,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi ti
+Dialogue: 0,0:00:7.32,0:00:7.38,Default,,0,0,0,,fare il cambio sarà tutto facile, sì è stato così nel mio caso e quindi {\1c&HFF00&\u1}ti{\r}
+Dialogue: 0,0:00:10.75,0:00:11.39,Default,,0,0,0,,{\1c&HFF00&\u1}racconto{\r} in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:11.39,0:00:11.41,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:11.41,0:00:11.61,Default,,0,0,0,,racconto {\1c&HFF00&\u1}in{\r} questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:11.61,0:00:11.65,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:11.65,0:00:12.13,Default,,0,0,0,,racconto in {\1c&HFF00&\u1}questo{\r} caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.13,0:00:12.17,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.17,0:00:12.31,Default,,0,0,0,,racconto in questo {\1c&HFF00&\u1}caso{\r} proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.31,0:00:12.33,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.33,0:00:12.47,Default,,0,0,0,,racconto in questo caso {\1c&HFF00&\u1}proprio{\r} la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.47,0:00:12.50,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.50,0:00:12.54,Default,,0,0,0,,racconto in questo caso proprio {\1c&HFF00&\u1}la{\r} mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.54,0:00:12.56,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.56,0:00:12.62,Default,,0,0,0,,racconto in questo caso proprio la {\1c&HFF00&\u1}mia{\r} esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.62,0:00:12.64,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.64,0:00:12.84,Default,,0,0,0,,racconto in questo caso proprio la mia {\1c&HFF00&\u1}esperienza.{\r} Fondamentalmente non hai
+Dialogue: 0,0:00:12.84,0:00:12.86,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:12.86,0:00:13.24,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. {\1c&HFF00&\u1}Fondamentalmente{\r} non hai
+Dialogue: 0,0:00:13.24,0:00:13.26,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:13.26,0:00:13.32,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente {\1c&HFF00&\u1}non{\r} hai
+Dialogue: 0,0:00:13.32,0:00:13.34,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non hai
+Dialogue: 0,0:00:13.34,0:00:13.40,Default,,0,0,0,,racconto in questo caso proprio la mia esperienza. Fondamentalmente non {\1c&HFF00&\u1}hai{\r}
+Dialogue: 0,0:00:12.80,0:00:13.00,Default,,0,0,0,,{\1c&HFF00&\u1}nulla{\r} da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:13.00,0:00:13.04,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:13.04,0:00:13.12,Default,,0,0,0,,nulla {\1c&HFF00&\u1}da{\r} perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:13.12,0:00:13.16,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:13.16,0:00:13.74,Default,,0,0,0,,nulla da {\1c&HFF00&\u1}perdere{\r} ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:13.74,0:00:14.27,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:14.27,0:00:14.45,Default,,0,0,0,,nulla da perdere {\1c&HFF00&\u1}ma{\r} puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:14.45,0:00:14.63,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:14.63,0:00:15.01,Default,,0,0,0,,nulla da perdere ma {\1c&HFF00&\u1}puoi{\r} verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:15.01,0:00:15.19,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:15.19,0:00:15.97,Default,,0,0,0,,nulla da perdere ma puoi {\1c&HFF00&\u1}verificare{\r} se le tue bollette sono le migliori.
+Dialogue: 0,0:00:15.97,0:00:16.09,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:16.09,0:00:16.21,Default,,0,0,0,,nulla da perdere ma puoi verificare {\1c&HFF00&\u1}se{\r} le tue bollette sono le migliori.
+Dialogue: 0,0:00:16.21,0:00:16.35,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:16.35,0:00:16.43,Default,,0,0,0,,nulla da perdere ma puoi verificare se {\1c&HFF00&\u1}le{\r} tue bollette sono le migliori.
+Dialogue: 0,0:00:16.43,0:00:16.47,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:16.47,0:00:16.59,Default,,0,0,0,,nulla da perdere ma puoi verificare se le {\1c&HFF00&\u1}tue{\r} bollette sono le migliori.
+Dialogue: 0,0:00:16.59,0:00:16.65,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:16.65,0:00:17.09,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue {\1c&HFF00&\u1}bollette{\r} sono le migliori.
+Dialogue: 0,0:00:17.09,0:00:17.21,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:17.21,0:00:17.45,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette {\1c&HFF00&\u1}sono{\r} le migliori.
+Dialogue: 0,0:00:17.45,0:00:17.55,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:17.55,0:00:17.63,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono {\1c&HFF00&\u1}le{\r} migliori.
+Dialogue: 0,0:00:17.63,0:00:17.69,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le migliori.
+Dialogue: 0,0:00:17.69,0:00:18.09,Default,,0,0,0,,nulla da perdere ma puoi verificare se le tue bollette sono le {\1c&HFF00&\u1}migliori.{\r}
+Dialogue: 0,0:00:18.34,0:00:18.60,Default,,0,0,0,,{\1c&HFF00&\u1}Adesso{\r} ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:18.60,0:00:18.64,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:18.64,0:00:18.72,Default,,0,0,0,,Adesso {\1c&HFF00&\u1}ti{\r} parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:18.72,0:00:18.78,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:18.78,0:00:19.12,Default,,0,0,0,,Adesso ti {\1c&HFF00&\u1}parlo{\r} invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:19.12,0:00:19.16,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:19.16,0:00:19.42,Default,,0,0,0,,Adesso ti parlo {\1c&HFF00&\u1}invece{\r} di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:19.42,0:00:19.46,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:19.46,0:00:19.52,Default,,0,0,0,,Adesso ti parlo invece {\1c&HFF00&\u1}di{\r} un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:19.52,0:00:19.58,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:19.58,0:00:20.10,Default,,0,0,0,,Adesso ti parlo invece di {\1c&HFF00&\u1}un'app{\r} per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:20.10,0:00:20.22,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:20.22,0:00:20.38,Default,,0,0,0,,Adesso ti parlo invece di un'app {\1c&HFF00&\u1}per{\r} la divisione delle spese, quando si devono
+Dialogue: 0,0:00:20.38,0:00:20.50,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:20.50,0:00:20.56,Default,,0,0,0,,Adesso ti parlo invece di un'app per {\1c&HFF00&\u1}la{\r} divisione delle spese, quando si devono
+Dialogue: 0,0:00:20.56,0:00:20.64,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:20.64,0:00:21.21,Default,,0,0,0,,Adesso ti parlo invece di un'app per la {\1c&HFF00&\u1}divisione{\r} delle spese, quando si devono
+Dialogue: 0,0:00:21.21,0:00:21.29,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:21.29,0:00:21.47,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione {\1c&HFF00&\u1}delle{\r} spese, quando si devono
+Dialogue: 0,0:00:21.47,0:00:21.55,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:21.55,0:00:22.11,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle {\1c&HFF00&\u1}spese,{\r} quando si devono
+Dialogue: 0,0:00:22.11,0:00:22.29,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:22.29,0:00:22.59,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, {\1c&HFF00&\u1}quando{\r} si devono
+Dialogue: 0,0:00:22.59,0:00:23.13,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:23.13,0:00:23.19,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando {\1c&HFF00&\u1}si{\r} devono
+Dialogue: 0,0:00:23.19,0:00:23.25,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si devono
+Dialogue: 0,0:00:23.25,0:00:23.49,Default,,0,0,0,,Adesso ti parlo invece di un'app per la divisione delle spese, quando si {\1c&HFF00&\u1}devono{\r}
+Dialogue: 0,0:00:23.40,0:00:23.46,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} si devono dividere le specie.
+Dialogue: 0,0:00:23.46,0:00:23.50,Default,,0,0,0,,non si devono dividere le specie.
+Dialogue: 0,0:00:23.50,0:00:23.56,Default,,0,0,0,,non {\1c&HFF00&\u1}si{\r} devono dividere le specie.
+Dialogue: 0,0:00:23.56,0:00:23.68,Default,,0,0,0,,non si devono dividere le specie.
+Dialogue: 0,0:00:23.68,0:00:24.01,Default,,0,0,0,,non si {\1c&HFF00&\u1}devono{\r} dividere le specie.
+Dialogue: 0,0:00:24.01,0:00:24.09,Default,,0,0,0,,non si devono dividere le specie.
+Dialogue: 0,0:00:24.09,0:00:24.39,Default,,0,0,0,,non si devono {\1c&HFF00&\u1}dividere{\r} le specie.
+Dialogue: 0,0:00:24.39,0:00:24.45,Default,,0,0,0,,non si devono dividere le specie.
+Dialogue: 0,0:00:24.45,0:00:24.49,Default,,0,0,0,,non si devono dividere {\1c&HFF00&\u1}le{\r} specie.
+Dialogue: 0,0:00:24.49,0:00:24.51,Default,,0,0,0,,non si devono dividere le specie.
+Dialogue: 0,0:00:24.51,0:00:24.73,Default,,0,0,0,,non si devono dividere le {\1c&HFF00&\u1}specie.{\r}

@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.18,0:00:0.22,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.22,0:00:0.32,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.32,0:00:0.42,Default,,0,0,0,,e {\1c&HFF00&\u1}tra{\r} i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.42,0:00:0.46,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.46,0:00:0.50,Default,,0,0,0,,e tra {\1c&HFF00&\u1}i{\r} vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.50,0:00:0.54,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.54,0:00:0.77,Default,,0,0,0,,e tra i {\1c&HFF00&\u1}vari{\r} servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.77,0:00:0.83,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:0.83,0:00:1.27,Default,,0,0,0,,e tra i vari {\1c&HFF00&\u1}servizi{\r} che offre dà la possibilità
+Dialogue: 0,0:00:1.27,0:00:1.31,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:1.31,0:00:1.43,Default,,0,0,0,,e tra i vari servizi {\1c&HFF00&\u1}che{\r} offre dà la possibilità
+Dialogue: 0,0:00:1.43,0:00:1.53,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:1.53,0:00:2.06,Default,,0,0,0,,e tra i vari servizi che {\1c&HFF00&\u1}offre{\r} dà la possibilità
+Dialogue: 0,0:00:2.06,0:00:2.26,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:2.26,0:00:2.36,Default,,0,0,0,,e tra i vari servizi che offre {\1c&HFF00&\u1}dà{\r} la possibilità
+Dialogue: 0,0:00:2.36,0:00:2.42,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:2.42,0:00:2.48,Default,,0,0,0,,e tra i vari servizi che offre dà {\1c&HFF00&\u1}la{\r} possibilità
+Dialogue: 0,0:00:2.48,0:00:2.54,Default,,0,0,0,,e tra i vari servizi che offre dà la possibilità
+Dialogue: 0,0:00:2.54,0:00:3.02,Default,,0,0,0,,e tra i vari servizi che offre dà la {\1c&HFF00&\u1}possibilità{\r}

@@ -1,0 +1,549 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.36,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:0.48,0:00:0.60,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:0.60,0:00:1.04,Default,,0,0,0,,non {\1c&HFF00&\u1}tanto{\r} perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:1.04,0:00:1.16,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:1.16,0:00:1.58,Default,,0,0,0,,non tanto {\1c&HFF00&\u1}perché{\r} ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:1.58,0:00:2.25,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:2.25,0:00:2.35,Default,,0,0,0,,non tanto perché {\1c&HFF00&\u1}ti{\r} farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:2.35,0:00:2.41,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:2.41,0:00:2.59,Default,,0,0,0,,non tanto perché ti {\1c&HFF00&\u1}farà{\r} trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:2.59,0:00:2.69,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:2.69,0:00:3.17,Default,,0,0,0,,non tanto perché ti farà {\1c&HFF00&\u1}trovare{\r} la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:3.17,0:00:3.29,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:3.29,0:00:3.35,Default,,0,0,0,,non tanto perché ti farà trovare {\1c&HFF00&\u1}la{\r} tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:3.39,0:00:3.75,Default,,0,0,0,,non tanto perché ti farà trovare la {\1c&HFF00&\u1}tariffa{\r} migliore, ma ti spiego tutto
+Dialogue: 0,0:00:3.75,0:00:3.83,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:3.83,0:00:4.21,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa {\1c&HFF00&\u1}migliore,{\r} ma ti spiego tutto
+Dialogue: 0,0:00:4.21,0:00:4.29,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:4.29,0:00:4.37,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, {\1c&HFF00&\u1}ma{\r} ti spiego tutto
+Dialogue: 0,0:00:4.37,0:00:4.61,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:4.61,0:00:4.69,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma {\1c&HFF00&\u1}ti{\r} spiego tutto
+Dialogue: 0,0:00:4.69,0:00:4.73,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:4.73,0:00:4.99,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti {\1c&HFF00&\u1}spiego{\r} tutto
+Dialogue: 0,0:00:4.99,0:00:5.05,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego tutto
+Dialogue: 0,0:00:5.05,0:00:5.31,Default,,0,0,0,,non tanto perché ti farà trovare la tariffa migliore, ma ti spiego {\1c&HFF00&\u1}tutto{\r}
+Dialogue: 0,0:00:5.46,0:00:6.04,Default,,0,0,0,,{\1c&HFF00&\u1}dall'inizio.{\r} Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:6.04,0:00:6.10,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:6.10,0:00:6.82,Default,,0,0,0,,dall'inizio. {\1c&HFF00&\u1}Praticamente{\r} tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:6.82,0:00:7.00,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:7.00,0:00:7.10,Default,,0,0,0,,dall'inizio. Praticamente {\1c&HFF00&\u1}tu{\r} ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:7.10,0:00:7.20,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:7.20,0:00:7.29,Default,,0,0,0,,dall'inizio. Praticamente tu {\1c&HFF00&\u1}ti{\r} registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:7.29,0:00:7.43,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:7.43,0:00:7.93,Default,,0,0,0,,dall'inizio. Praticamente tu ti {\1c&HFF00&\u1}registri{\r} al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:7.93,0:00:7.95,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:7.95,0:00:8.07,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri {\1c&HFF00&\u1}al{\r} sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:8.07,0:00:8.17,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:8.17,0:00:8.73,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al {\1c&HFF00&\u1}sito,{\r} dici su che cosa vuoi verificare
+Dialogue: 0,0:00:8.73,0:00:8.93,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:8.93,0:00:9.13,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, {\1c&HFF00&\u1}dici{\r} su che cosa vuoi verificare
+Dialogue: 0,0:00:9.13,0:00:9.19,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:9.19,0:00:9.27,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici {\1c&HFF00&\u1}su{\r} che cosa vuoi verificare
+Dialogue: 0,0:00:9.27,0:00:9.33,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:9.33,0:00:9.43,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su {\1c&HFF00&\u1}che{\r} cosa vuoi verificare
+Dialogue: 0,0:00:9.43,0:00:9.51,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:9.51,0:00:9.83,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che {\1c&HFF00&\u1}cosa{\r} vuoi verificare
+Dialogue: 0,0:00:9.83,0:00:10.33,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:10.33,0:00:10.51,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa {\1c&HFF00&\u1}vuoi{\r} verificare
+Dialogue: 0,0:00:10.51,0:00:10.55,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi verificare
+Dialogue: 0,0:00:10.55,0:00:11.28,Default,,0,0,0,,dall'inizio. Praticamente tu ti registri al sito, dici su che cosa vuoi {\1c&HFF00&\u1}verificare{\r}
+Dialogue: 0,0:00:11.54,0:00:11.64,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:11.64,0:00:11.66,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:11.66,0:00:11.82,Default,,0,0,0,,se {\1c&HFF00&\u1}stai{\r} pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:11.82,0:00:11.86,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:11.86,0:00:12.16,Default,,0,0,0,,se stai {\1c&HFF00&\u1}pagando{\r} tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.16,0:00:12.20,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.20,0:00:12.58,Default,,0,0,0,,se stai pagando {\1c&HFF00&\u1}tanto,{\r} se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.58,0:00:12.64,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.64,0:00:12.72,Default,,0,0,0,,se stai pagando tanto, {\1c&HFF00&\u1}se{\r} c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.72,0:00:12.82,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.82,0:00:12.94,Default,,0,0,0,,se stai pagando tanto, se {\1c&HFF00&\u1}c'è{\r} un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.94,0:00:12.98,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:12.98,0:00:13.53,Default,,0,0,0,,se stai pagando tanto, se c'è {\1c&HFF00&\u1}un'offerta{\r} migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:13.53,0:00:13.61,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:13.61,0:00:14.11,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta {\1c&HFF00&\u1}migliore,{\r} inserisci dati, inserisci la
+Dialogue: 0,0:00:14.11,0:00:14.33,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:14.33,0:00:14.93,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, {\1c&HFF00&\u1}inserisci{\r} dati, inserisci la
+Dialogue: 0,0:00:14.93,0:00:15.01,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:15.01,0:00:15.53,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci {\1c&HFF00&\u1}dati,{\r} inserisci la
+Dialogue: 0,0:00:15.53,0:00:15.67,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:15.67,0:00:16.45,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, {\1c&HFF00&\u1}inserisci{\r} la
+Dialogue: 0,0:00:16.45,0:00:16.93,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci la
+Dialogue: 0,0:00:16.93,0:00:16.97,Default,,0,0,0,,se stai pagando tanto, se c'è un'offerta migliore, inserisci dati, inserisci {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:17.18,0:00:17.50,Default,,0,0,0,,{\1c&HFF00&\u1}bolletta,{\r} nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:17.50,0:00:17.56,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:17.56,0:00:17.66,Default,,0,0,0,,bolletta, {\1c&HFF00&\u1}nel{\r} mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:17.66,0:00:17.68,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:17.68,0:00:17.80,Default,,0,0,0,,bolletta, nel {\1c&HFF00&\u1}mio{\r} caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:17.80,0:00:17.86,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:17.86,0:00:18.12,Default,,0,0,0,,bolletta, nel mio {\1c&HFF00&\u1}caso{\r} inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:18.12,0:00:18.30,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:18.30,0:00:19.03,Default,,0,0,0,,bolletta, nel mio caso {\1c&HFF00&\u1}inserito{\r} quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:19.03,0:00:19.21,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:19.21,0:00:19.55,Default,,0,0,0,,bolletta, nel mio caso inserito {\1c&HFF00&\u1}quella{\r} dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:19.55,0:00:19.65,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:19.65,0:00:20.61,Default,,0,0,0,,bolletta, nel mio caso inserito quella {\1c&HFF00&\u1}dell'elettricità{\r} e mi han trovato tutte
+Dialogue: 0,0:00:20.61,0:00:21.13,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:21.13,0:00:21.19,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità {\1c&HFF00&\u1}e{\r} mi han trovato tutte
+Dialogue: 0,0:00:21.19,0:00:21.27,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:21.27,0:00:21.33,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e {\1c&HFF00&\u1}mi{\r} han trovato tutte
+Dialogue: 0,0:00:21.33,0:00:21.35,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:21.35,0:00:21.47,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi {\1c&HFF00&\u1}han{\r} trovato tutte
+Dialogue: 0,0:00:21.47,0:00:21.57,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:21.57,0:00:22.01,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han {\1c&HFF00&\u1}trovato{\r} tutte
+Dialogue: 0,0:00:22.01,0:00:22.13,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato tutte
+Dialogue: 0,0:00:22.13,0:00:22.35,Default,,0,0,0,,bolletta, nel mio caso inserito quella dell'elettricità e mi han trovato {\1c&HFF00&\u1}tutte{\r}
+Dialogue: 0,0:00:22.32,0:00:22.36,Default,,0,0,0,,{\1c&HFF00&\u1}le{\r} offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:22.36,0:00:22.38,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:22.38,0:00:22.96,Default,,0,0,0,,le {\1c&HFF00&\u1}offerte{\r} migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:22.96,0:00:23.02,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:23.02,0:00:23.66,Default,,0,0,0,,le offerte {\1c&HFF00&\u1}migliori.{\r} E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:23.66,0:00:23.78,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:23.78,0:00:23.82,Default,,0,0,0,,le offerte migliori. {\1c&HFF00&\u1}E{\r} qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:23.82,0:00:23.96,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:23.96,0:00:24.08,Default,,0,0,0,,le offerte migliori. E {\1c&HFF00&\u1}qui{\r} viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:24.08,0:00:24.25,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:24.25,0:00:24.45,Default,,0,0,0,,le offerte migliori. E qui {\1c&HFF00&\u1}viene{\r} il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:24.45,0:00:24.49,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:24.49,0:00:24.53,Default,,0,0,0,,le offerte migliori. E qui viene {\1c&HFF00&\u1}il{\r} bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:24.53,0:00:24.61,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:24.61,0:00:24.97,Default,,0,0,0,,le offerte migliori. E qui viene il {\1c&HFF00&\u1}bello,{\r} quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:24.97,0:00:25.11,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:25.11,0:00:25.39,Default,,0,0,0,,le offerte migliori. E qui viene il bello, {\1c&HFF00&\u1}quando{\r} poi ho selezionato quell'offerta
+Dialogue: 0,0:00:25.39,0:00:25.49,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:25.49,0:00:25.71,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando {\1c&HFF00&\u1}poi{\r} ho selezionato quell'offerta
+Dialogue: 0,0:00:25.71,0:00:25.75,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:25.75,0:00:25.85,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi {\1c&HFF00&\u1}ho{\r} selezionato quell'offerta
+Dialogue: 0,0:00:25.85,0:00:25.99,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:25.99,0:00:26.93,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho {\1c&HFF00&\u1}selezionato{\r} quell'offerta
+Dialogue: 0,0:00:26.93,0:00:26.99,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato quell'offerta
+Dialogue: 0,0:00:26.99,0:00:27.67,Default,,0,0,0,,le offerte migliori. E qui viene il bello, quando poi ho selezionato {\1c&HFF00&\u1}quell'offerta{\r}
+Dialogue: 0,0:00:27.92,0:00:28.00,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:28.00,0:00:28.04,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:28.04,0:00:28.16,Default,,0,0,0,,che {\1c&HFF00&\u1}mi{\r} piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:28.16,0:00:28.20,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:28.20,0:00:28.74,Default,,0,0,0,,che mi {\1c&HFF00&\u1}piaceva,{\r} il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:28.74,0:00:29.04,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:29.04,0:00:29.12,Default,,0,0,0,,che mi piaceva, {\1c&HFF00&\u1}il{\r} cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:29.12,0:00:29.20,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:29.20,0:00:29.61,Default,,0,0,0,,che mi piaceva, il {\1c&HFF00&\u1}cambio{\r} non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:29.61,0:00:29.77,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:29.77,0:00:29.89,Default,,0,0,0,,che mi piaceva, il cambio {\1c&HFF00&\u1}non{\r} lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:29.89,0:00:29.93,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:29.93,0:00:30.01,Default,,0,0,0,,che mi piaceva, il cambio non {\1c&HFF00&\u1}lo{\r} dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:30.01,0:00:30.05,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:30.05,0:00:30.35,Default,,0,0,0,,che mi piaceva, il cambio non lo {\1c&HFF00&\u1}dovevo{\r} fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:30.35,0:00:30.41,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:30.41,0:00:30.61,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo {\1c&HFF00&\u1}fare{\r} io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:30.61,0:00:30.83,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:30.83,0:00:31.07,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare {\1c&HFF00&\u1}io,{\r} non lo deve fare l'utente, ma
+Dialogue: 0,0:00:31.07,0:00:31.15,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:31.15,0:00:31.23,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, {\1c&HFF00&\u1}non{\r} lo deve fare l'utente, ma
+Dialogue: 0,0:00:31.23,0:00:31.27,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:31.27,0:00:31.35,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non {\1c&HFF00&\u1}lo{\r} deve fare l'utente, ma
+Dialogue: 0,0:00:31.35,0:00:31.39,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:31.39,0:00:31.57,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo {\1c&HFF00&\u1}deve{\r} fare l'utente, ma
+Dialogue: 0,0:00:31.57,0:00:31.69,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:31.69,0:00:31.91,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve {\1c&HFF00&\u1}fare{\r} l'utente, ma
+Dialogue: 0,0:00:31.91,0:00:31.97,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:31.97,0:00:32.63,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare {\1c&HFF00&\u1}l'utente,{\r} ma
+Dialogue: 0,0:00:32.63,0:00:33.09,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, ma
+Dialogue: 0,0:00:33.09,0:00:33.15,Default,,0,0,0,,che mi piaceva, il cambio non lo dovevo fare io, non lo deve fare l'utente, {\1c&HFF00&\u1}ma{\r}
+Dialogue: 0,0:00:33.42,0:00:33.68,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:33.68,0:00:33.76,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:33.76,0:00:33.98,Default,,0,0,0,,sono {\1c&HFF00&\u1}loro{\r} stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:33.98,0:00:34.04,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:34.04,0:00:34.66,Default,,0,0,0,,sono loro {\1c&HFF00&\u1}stessi{\r} che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:34.66,0:00:35.25,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:35.25,0:00:35.35,Default,,0,0,0,,sono loro stessi {\1c&HFF00&\u1}che{\r} fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:35.35,0:00:35.49,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:35.49,0:00:35.83,Default,,0,0,0,,sono loro stessi che {\1c&HFF00&\u1}fanno{\r} tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:35.83,0:00:35.93,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:35.93,0:00:36.21,Default,,0,0,0,,sono loro stessi che fanno {\1c&HFF00&\u1}tutti{\r} i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:36.21,0:00:36.23,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:36.23,0:00:36.25,Default,,0,0,0,,sono loro stessi che fanno tutti {\1c&HFF00&\u1}i{\r} cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:36.25,0:00:36.33,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:36.33,0:00:36.87,Default,,0,0,0,,sono loro stessi che fanno tutti i {\1c&HFF00&\u1}cambi{\r} per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:36.87,0:00:36.99,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:36.99,0:00:37.11,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi {\1c&HFF00&\u1}per{\r} farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:37.11,0:00:37.21,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:37.21,0:00:37.49,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per {\1c&HFF00&\u1}farti{\r} cambiare il gestore, quindi tu
+Dialogue: 0,0:00:37.49,0:00:37.55,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:37.55,0:00:37.91,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti {\1c&HFF00&\u1}cambiare{\r} il gestore, quindi tu
+Dialogue: 0,0:00:37.91,0:00:37.93,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:37.93,0:00:37.97,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare {\1c&HFF00&\u1}il{\r} gestore, quindi tu
+Dialogue: 0,0:00:37.97,0:00:38.05,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:38.05,0:00:38.47,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il {\1c&HFF00&\u1}gestore,{\r} quindi tu
+Dialogue: 0,0:00:38.47,0:00:38.57,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:38.57,0:00:39.74,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, {\1c&HFF00&\u1}quindi{\r} tu
+Dialogue: 0,0:00:39.74,0:00:40.12,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi tu
+Dialogue: 0,0:00:40.12,0:00:40.84,Default,,0,0,0,,sono loro stessi che fanno tutti i cambi per farti cambiare il gestore, quindi {\1c&HFF00&\u1}tu{\r}
+Dialogue: 0,0:00:38.88,0:00:39.62,Default,,0,0,0,,{\1c&HFF00&\u1}poi{\r} non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:39.62,0:00:39.64,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:39.64,0:00:39.78,Default,,0,0,0,,poi {\1c&HFF00&\u1}non{\r} fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:39.78,0:00:39.82,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:39.82,0:00:39.94,Default,,0,0,0,,poi non {\1c&HFF00&\u1}fai{\r} praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:39.94,0:00:39.98,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:39.98,0:00:40.64,Default,,0,0,0,,poi non fai {\1c&HFF00&\u1}praticamente{\r} nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:40.64,0:00:40.80,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:40.80,0:00:41.17,Default,,0,0,0,,poi non fai praticamente {\1c&HFF00&\u1}nulla{\r} e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:41.17,0:00:41.47,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:41.47,0:00:41.55,Default,,0,0,0,,poi non fai praticamente nulla {\1c&HFF00&\u1}e{\r} questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:41.55,0:00:41.73,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:41.73,0:00:41.99,Default,,0,0,0,,poi non fai praticamente nulla e {\1c&HFF00&\u1}questo{\r} sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:41.99,0:00:42.07,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:42.07,0:00:42.35,Default,,0,0,0,,poi non fai praticamente nulla e questo {\1c&HFF00&\u1}sito{\r} web, quest'app è tutta gratuita
+Dialogue: 0,0:00:42.35,0:00:42.41,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:42.41,0:00:42.83,Default,,0,0,0,,poi non fai praticamente nulla e questo sito {\1c&HFF00&\u1}web,{\r} quest'app è tutta gratuita
+Dialogue: 0,0:00:42.83,0:00:42.97,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:42.97,0:00:43.73,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, {\1c&HFF00&\u1}quest'app{\r} è tutta gratuita
+Dialogue: 0,0:00:43.73,0:00:44.17,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:44.17,0:00:44.23,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app {\1c&HFF00&\u1}è{\r} tutta gratuita
+Dialogue: 0,0:00:44.23,0:00:44.47,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:44.47,0:00:44.89,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è {\1c&HFF00&\u1}tutta{\r} gratuita
+Dialogue: 0,0:00:44.89,0:00:45.09,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta gratuita
+Dialogue: 0,0:00:45.09,0:00:45.64,Default,,0,0,0,,poi non fai praticamente nulla e questo sito web, quest'app è tutta {\1c&HFF00&\u1}gratuita{\r}
+Dialogue: 0,0:00:45.92,0:00:46.20,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:46.20,0:00:46.50,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:46.50,0:00:46.86,Default,,0,0,0,,perché {\1c&HFF00&\u1}loro{\r} fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:46.86,0:00:47.00,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:47.00,0:00:47.98,Default,,0,0,0,,perché loro {\1c&HFF00&\u1}fondamentalmente{\r} guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:47.98,0:00:48.15,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:48.15,0:00:48.91,Default,,0,0,0,,perché loro fondamentalmente {\1c&HFF00&\u1}guadagnano{\r} dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:48.91,0:00:49.05,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:49.05,0:00:49.35,Default,,0,0,0,,perché loro fondamentalmente guadagnano {\1c&HFF00&\u1}dal{\r} switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:49.35,0:00:49.55,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:49.55,0:00:50.11,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal {\1c&HFF00&\u1}switch,{\r} cioè guadagnano dal gestore
+Dialogue: 0,0:00:50.11,0:00:50.55,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:50.55,0:00:50.87,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, {\1c&HFF00&\u1}cioè{\r} guadagnano dal gestore
+Dialogue: 0,0:00:50.87,0:00:51.03,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:51.03,0:00:51.65,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè {\1c&HFF00&\u1}guadagnano{\r} dal gestore
+Dialogue: 0,0:00:51.65,0:00:51.93,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:51.93,0:00:52.45,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano {\1c&HFF00&\u1}dal{\r} gestore
+Dialogue: 0,0:00:52.45,0:00:52.65,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal gestore
+Dialogue: 0,0:00:52.65,0:00:53.30,Default,,0,0,0,,perché loro fondamentalmente guadagnano dal switch, cioè guadagnano dal {\1c&HFF00&\u1}gestore{\r}
+Dialogue: 0,0:00:54.20,0:00:54.50,Default,,0,0,0,,{\1c&HFF00&\u1}quindi{\r} non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:54.50,0:00:54.66,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:54.66,0:00:54.76,Default,,0,0,0,,quindi {\1c&HFF00&\u1}non{\r} vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:54.76,0:00:54.80,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:54.80,0:00:54.88,Default,,0,0,0,,quindi non {\1c&HFF00&\u1}vi{\r} sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:54.88,0:00:54.96,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:54.96,0:00:55.20,Default,,0,0,0,,quindi non vi {\1c&HFF00&\u1}sono{\r} costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:55.20,0:00:55.33,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:55.33,0:00:55.81,Default,,0,0,0,,quindi non vi sono {\1c&HFF00&\u1}costi{\r} che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:55.81,0:00:55.91,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:55.91,0:00:56.01,Default,,0,0,0,,quindi non vi sono costi {\1c&HFF00&\u1}che{\r} tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:56.01,0:00:56.09,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:56.09,0:00:56.19,Default,,0,0,0,,quindi non vi sono costi che {\1c&HFF00&\u1}tu{\r} devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:56.19,0:00:56.25,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:56.25,0:00:56.45,Default,,0,0,0,,quindi non vi sono costi che tu {\1c&HFF00&\u1}devi{\r} pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:56.45,0:00:56.53,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:56.53,0:00:57.03,Default,,0,0,0,,quindi non vi sono costi che tu devi {\1c&HFF00&\u1}pagare{\r} per questo cambio, puoi avere solo
+Dialogue: 0,0:00:57.03,0:00:57.41,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:57.41,0:00:57.55,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare {\1c&HFF00&\u1}per{\r} questo cambio, puoi avere solo
+Dialogue: 0,0:00:57.55,0:00:57.61,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:57.61,0:00:57.89,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per {\1c&HFF00&\u1}questo{\r} cambio, puoi avere solo
+Dialogue: 0,0:00:57.89,0:00:57.95,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:57.95,0:00:58.35,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo {\1c&HFF00&\u1}cambio,{\r} puoi avere solo
+Dialogue: 0,0:00:58.35,0:00:58.63,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:58.63,0:00:58.89,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, {\1c&HFF00&\u1}puoi{\r} avere solo
+Dialogue: 0,0:00:58.89,0:00:58.95,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:58.95,0:00:59.25,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi {\1c&HFF00&\u1}avere{\r} solo
+Dialogue: 0,0:00:59.25,0:00:59.37,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere solo
+Dialogue: 0,0:00:59.37,0:00:59.52,Default,,0,0,0,,quindi non vi sono costi che tu devi pagare per questo cambio, puoi avere {\1c&HFF00&\u1}solo{\r}
+Dialogue: 0,0:01:0.30,0:01:0.42,Default,,0,0,0,,{\1c&HFF00&\u1}dei{\r} vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.42,0:01:0.44,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.44,0:01:0.60,Default,,0,0,0,,dei {\1c&HFF00&\u1}vantaggi,{\r} ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.60,0:01:0.64,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.64,0:01:0.70,Default,,0,0,0,,dei vantaggi, {\1c&HFF00&\u1}ma{\r} non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.70,0:01:0.74,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.74,0:01:0.86,Default,,0,0,0,,dei vantaggi, ma {\1c&HFF00&\u1}non{\r} è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.86,0:01:0.92,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.92,0:01:0.96,Default,,0,0,0,,dei vantaggi, ma non {\1c&HFF00&\u1}è{\r} finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:0.96,0:01:1.08,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:1.08,0:01:1.49,Default,,0,0,0,,dei vantaggi, ma non è {\1c&HFF00&\u1}finita{\r} qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:1.49,0:01:1.65,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:1.65,0:01:1.85,Default,,0,0,0,,dei vantaggi, ma non è finita {\1c&HFF00&\u1}qui.{\r} Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:1.85,0:01:1.99,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:1.99,0:01:2.19,Default,,0,0,0,,dei vantaggi, ma non è finita qui. {\1c&HFF00&\u1}Altra{\r} cosa straordinaria e mi è successa
+Dialogue: 0,0:01:2.19,0:01:2.25,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:2.25,0:01:2.45,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra {\1c&HFF00&\u1}cosa{\r} straordinaria e mi è successa
+Dialogue: 0,0:01:2.45,0:01:2.49,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:2.49,0:01:3.19,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa {\1c&HFF00&\u1}straordinaria{\r} e mi è successa
+Dialogue: 0,0:01:3.19,0:01:3.41,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:3.41,0:01:3.47,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria {\1c&HFF00&\u1}e{\r} mi è successa
+Dialogue: 0,0:01:3.47,0:01:3.69,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:3.69,0:01:3.77,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e {\1c&HFF00&\u1}mi{\r} è successa
+Dialogue: 0,0:01:3.77,0:01:3.81,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:3.81,0:01:3.83,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi {\1c&HFF00&\u1}è{\r} successa
+Dialogue: 0,0:01:3.83,0:01:3.93,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è successa
+Dialogue: 0,0:01:3.93,0:01:4.49,Default,,0,0,0,,dei vantaggi, ma non è finita qui. Altra cosa straordinaria e mi è {\1c&HFF00&\u1}successa{\r}
+Dialogue: 0,0:01:4.80,0:01:5.40,Default,,0,0,0,,{\1c&HFF00&\u1}personalmente{\r} quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:5.40,0:01:5.50,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:5.50,0:01:5.84,Default,,0,0,0,,personalmente {\1c&HFF00&\u1}quindi{\r} non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:5.84,0:01:6.10,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:6.10,0:01:6.20,Default,,0,0,0,,personalmente quindi {\1c&HFF00&\u1}non{\r} è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:6.20,0:01:6.26,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:6.26,0:01:6.30,Default,,0,0,0,,personalmente quindi non {\1c&HFF00&\u1}è{\r} uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:6.30,0:01:6.42,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:6.42,0:01:6.59,Default,,0,0,0,,personalmente quindi non è {\1c&HFF00&\u1}uno{\r} spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:6.59,0:01:6.65,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:6.65,0:01:7.73,Default,,0,0,0,,personalmente quindi non è uno {\1c&HFF00&\u1}spot,{\r} loro dicono praticamente che se la
+Dialogue: 0,0:01:7.73,0:01:7.91,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:7.91,0:01:8.09,Default,,0,0,0,,personalmente quindi non è uno spot, {\1c&HFF00&\u1}loro{\r} dicono praticamente che se la
+Dialogue: 0,0:01:8.09,0:01:8.17,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:8.17,0:01:8.61,Default,,0,0,0,,personalmente quindi non è uno spot, loro {\1c&HFF00&\u1}dicono{\r} praticamente che se la
+Dialogue: 0,0:01:8.61,0:01:8.67,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:8.67,0:01:9.37,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono {\1c&HFF00&\u1}praticamente{\r} che se la
+Dialogue: 0,0:01:9.37,0:01:9.51,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:9.51,0:01:9.69,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente {\1c&HFF00&\u1}che{\r} se la
+Dialogue: 0,0:01:9.69,0:01:9.97,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:9.97,0:01:10.17,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che {\1c&HFF00&\u1}se{\r} la
+Dialogue: 0,0:01:10.17,0:01:10.78,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se la
+Dialogue: 0,0:01:10.78,0:01:10.84,Default,,0,0,0,,personalmente quindi non è uno spot, loro dicono praticamente che se {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:01:10.90,0:01:11.02,Default,,0,0,0,,{\1c&HFF00&\u1}tua{\r} tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.02,0:01:11.04,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.04,0:01:11.46,Default,,0,0,0,,tua {\1c&HFF00&\u1}tariffa{\r} è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.46,0:01:11.50,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.50,0:01:11.56,Default,,0,0,0,,tua tariffa {\1c&HFF00&\u1}è{\r} quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.56,0:01:11.64,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.64,0:01:11.88,Default,,0,0,0,,tua tariffa è {\1c&HFF00&\u1}quella{\r} migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.88,0:01:11.92,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:11.92,0:01:12.42,Default,,0,0,0,,tua tariffa è quella {\1c&HFF00&\u1}migliore{\r} non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:12.42,0:01:12.73,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:12.73,0:01:12.83,Default,,0,0,0,,tua tariffa è quella migliore {\1c&HFF00&\u1}non{\r} ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:12.83,0:01:12.89,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:12.89,0:01:13.01,Default,,0,0,0,,tua tariffa è quella migliore non {\1c&HFF00&\u1}ti{\r} proporranno altre tariffe perché ti
+Dialogue: 0,0:01:13.01,0:01:13.15,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:13.15,0:01:14.21,Default,,0,0,0,,tua tariffa è quella migliore non ti {\1c&HFF00&\u1}proporranno{\r} altre tariffe perché ti
+Dialogue: 0,0:01:14.21,0:01:14.49,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:14.49,0:01:14.95,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno {\1c&HFF00&\u1}altre{\r} tariffe perché ti
+Dialogue: 0,0:01:14.95,0:01:15.07,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:15.07,0:01:15.69,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre {\1c&HFF00&\u1}tariffe{\r} perché ti
+Dialogue: 0,0:01:15.69,0:01:16.01,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:16.01,0:01:16.39,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe {\1c&HFF00&\u1}perché{\r} ti
+Dialogue: 0,0:01:16.39,0:01:16.55,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché ti
+Dialogue: 0,0:01:16.55,0:01:16.62,Default,,0,0,0,,tua tariffa è quella migliore non ti proporranno altre tariffe perché {\1c&HFF00&\u1}ti{\r}
+Dialogue: 0,0:01:16.72,0:01:17.18,Default,,0,0,0,,{\1c&HFF00&\u1}diranno{\r} che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:17.18,0:01:17.28,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:17.28,0:01:17.50,Default,,0,0,0,,diranno {\1c&HFF00&\u1}che{\r} stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:17.50,0:01:17.96,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:17.96,0:01:18.16,Default,,0,0,0,,diranno che {\1c&HFF00&\u1}stai{\r} già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:18.16,0:01:18.28,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:18.28,0:01:18.38,Default,,0,0,0,,diranno che stai {\1c&HFF00&\u1}già{\r} usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:18.38,0:01:18.47,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:18.47,0:01:19.11,Default,,0,0,0,,diranno che stai già {\1c&HFF00&\u1}usando{\r} la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:19.11,0:01:19.23,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:19.23,0:01:19.29,Default,,0,0,0,,diranno che stai già usando {\1c&HFF00&\u1}la{\r} tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:19.29,0:01:19.35,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:19.35,0:01:19.83,Default,,0,0,0,,diranno che stai già usando la {\1c&HFF00&\u1}tariffa{\r} migliore, per esempio già stai usando la
+Dialogue: 0,0:01:19.83,0:01:19.95,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:19.95,0:01:20.37,Default,,0,0,0,,diranno che stai già usando la tariffa {\1c&HFF00&\u1}migliore,{\r} per esempio già stai usando la
+Dialogue: 0,0:01:20.37,0:01:20.43,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:20.43,0:01:20.55,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, {\1c&HFF00&\u1}per{\r} esempio già stai usando la
+Dialogue: 0,0:01:20.55,0:01:20.57,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:20.57,0:01:20.99,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per {\1c&HFF00&\u1}esempio{\r} già stai usando la
+Dialogue: 0,0:01:20.99,0:01:21.15,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:21.15,0:01:21.27,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio {\1c&HFF00&\u1}già{\r} stai usando la
+Dialogue: 0,0:01:21.27,0:01:21.33,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:21.33,0:01:21.47,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già {\1c&HFF00&\u1}stai{\r} usando la
+Dialogue: 0,0:01:21.47,0:01:21.51,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:21.51,0:01:22.01,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai {\1c&HFF00&\u1}usando{\r} la
+Dialogue: 0,0:01:22.01,0:01:22.15,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando la
+Dialogue: 0,0:01:22.15,0:01:22.19,Default,,0,0,0,,diranno che stai già usando la tariffa migliore, per esempio già stai usando {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:01:25.69,0:01:26.07,Default,,0,0,0,,{\1c&HFF00&\u1}tariffa{\r} migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:26.07,0:01:26.15,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:26.15,0:01:26.53,Default,,0,0,0,,tariffa {\1c&HFF00&\u1}migliore{\r} nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:26.53,0:01:26.63,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:26.63,0:01:26.89,Default,,0,0,0,,tariffa migliore {\1c&HFF00&\u1}nel{\r} tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:26.89,0:01:26.91,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:26.91,0:01:27.01,Default,,0,0,0,,tariffa migliore nel {\1c&HFF00&\u1}tuo{\r} caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.01,0:01:27.15,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.15,0:01:27.29,Default,,0,0,0,,tariffa migliore nel tuo {\1c&HFF00&\u1}caso{\r} per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.29,0:01:27.31,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.31,0:01:27.47,Default,,0,0,0,,tariffa migliore nel tuo caso {\1c&HFF00&\u1}per{\r} il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.47,0:01:27.49,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.49,0:01:27.53,Default,,0,0,0,,tariffa migliore nel tuo caso per {\1c&HFF00&\u1}il{\r} gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.53,0:01:27.59,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.59,0:01:27.65,Default,,0,0,0,,tariffa migliore nel tuo caso per il {\1c&HFF00&\u1}gas{\r} ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.65,0:01:27.68,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.68,0:01:27.72,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas {\1c&HFF00&\u1}ok?{\r} E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.72,0:01:27.76,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.76,0:01:27.78,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? {\1c&HFF00&\u1}E{\r} mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.78,0:01:27.80,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.80,0:01:27.84,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E {\1c&HFF00&\u1}mi{\r} è capitato personalmente che mi
+Dialogue: 0,0:01:27.84,0:01:27.86,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.86,0:01:27.88,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi {\1c&HFF00&\u1}è{\r} capitato personalmente che mi
+Dialogue: 0,0:01:27.88,0:01:27.90,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:27.90,0:01:28.08,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è {\1c&HFF00&\u1}capitato{\r} personalmente che mi
+Dialogue: 0,0:01:28.08,0:01:28.10,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:28.10,0:01:28.38,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato {\1c&HFF00&\u1}personalmente{\r} che mi
+Dialogue: 0,0:01:28.38,0:01:28.40,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:28.40,0:01:28.48,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente {\1c&HFF00&\u1}che{\r} mi
+Dialogue: 0,0:01:28.48,0:01:28.50,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che mi
+Dialogue: 0,0:01:28.50,0:01:28.54,Default,,0,0,0,,tariffa migliore nel tuo caso per il gas ok? E mi è capitato personalmente che {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:01:27.66,0:01:28.22,Default,,0,0,0,,{\1c&HFF00&\u1}dicessero{\r} che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.22,0:01:28.30,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.30,0:01:28.40,Default,,0,0,0,,dicessero {\1c&HFF00&\u1}che{\r} la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.40,0:01:28.46,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.46,0:01:28.52,Default,,0,0,0,,dicessero che {\1c&HFF00&\u1}la{\r} mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.52,0:01:28.56,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.56,0:01:28.66,Default,,0,0,0,,dicessero che la {\1c&HFF00&\u1}mia{\r} tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.66,0:01:28.70,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:28.70,0:01:29.04,Default,,0,0,0,,dicessero che la mia {\1c&HFF00&\u1}tariffa{\r} per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:29.04,0:01:29.10,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:29.10,0:01:29.20,Default,,0,0,0,,dicessero che la mia tariffa {\1c&HFF00&\u1}per{\r} il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:29.20,0:01:29.25,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:29.25,0:01:29.35,Default,,0,0,0,,dicessero che la mia tariffa per {\1c&HFF00&\u1}il{\r} gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:29.35,0:01:29.41,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:29.41,0:01:29.89,Default,,0,0,0,,dicessero che la mia tariffa per il {\1c&HFF00&\u1}gas{\r} invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:29.89,0:01:30.35,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:30.35,0:01:30.79,Default,,0,0,0,,dicessero che la mia tariffa per il gas {\1c&HFF00&\u1}invece{\r} era quella ottimale e non c'erano
+Dialogue: 0,0:01:30.79,0:01:30.93,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:30.93,0:01:31.07,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece {\1c&HFF00&\u1}era{\r} quella ottimale e non c'erano
+Dialogue: 0,0:01:31.07,0:01:31.13,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:31.13,0:01:31.35,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era {\1c&HFF00&\u1}quella{\r} ottimale e non c'erano
+Dialogue: 0,0:01:31.35,0:01:31.41,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:31.41,0:01:31.97,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella {\1c&HFF00&\u1}ottimale{\r} e non c'erano
+Dialogue: 0,0:01:31.97,0:01:32.11,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:32.11,0:01:32.15,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale {\1c&HFF00&\u1}e{\r} non c'erano
+Dialogue: 0,0:01:32.15,0:01:32.19,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:32.19,0:01:32.29,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e {\1c&HFF00&\u1}non{\r} c'erano
+Dialogue: 0,0:01:32.29,0:01:32.35,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non c'erano
+Dialogue: 0,0:01:32.35,0:01:32.61,Default,,0,0,0,,dicessero che la mia tariffa per il gas invece era quella ottimale e non {\1c&HFF00&\u1}c'erano{\r}
+Dialogue: 0,0:01:35.57,0:01:36.07,Default,,0,0,0,,{\1c&HFF00&\u1}gestori{\r} che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.07,0:01:36.17,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.17,0:01:36.25,Default,,0,0,0,,gestori {\1c&HFF00&\u1}che{\r} offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.25,0:01:36.33,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.33,0:01:36.71,Default,,0,0,0,,gestori che {\1c&HFF00&\u1}offrivano{\r} una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.71,0:01:36.75,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.75,0:01:36.81,Default,,0,0,0,,gestori che offrivano {\1c&HFF00&\u1}una{\r} tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.81,0:01:36.83,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:36.83,0:01:37.14,Default,,0,0,0,,gestori che offrivano una {\1c&HFF00&\u1}tariffa{\r} migliore. In questo modo sai se
+Dialogue: 0,0:01:37.14,0:01:37.16,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:37.16,0:01:37.34,Default,,0,0,0,,gestori che offrivano una tariffa {\1c&HFF00&\u1}migliore.{\r} In questo modo sai se
+Dialogue: 0,0:01:37.34,0:01:37.36,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:37.36,0:01:37.40,Default,,0,0,0,,gestori che offrivano una tariffa migliore. {\1c&HFF00&\u1}In{\r} questo modo sai se
+Dialogue: 0,0:01:37.40,0:01:37.42,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:37.42,0:01:37.54,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In {\1c&HFF00&\u1}questo{\r} modo sai se
+Dialogue: 0,0:01:37.54,0:01:37.56,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:37.56,0:01:37.66,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo {\1c&HFF00&\u1}modo{\r} sai se
+Dialogue: 0,0:01:37.66,0:01:37.68,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:37.68,0:01:37.74,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo {\1c&HFF00&\u1}sai{\r} se
+Dialogue: 0,0:01:37.74,0:01:37.76,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai se
+Dialogue: 0,0:01:37.76,0:01:37.80,Default,,0,0,0,,gestori che offrivano una tariffa migliore. In questo modo sai {\1c&HFF00&\u1}se{\r}
+Dialogue: 0,0:01:37.00,0:01:38.10,Default,,0,0,0,,{\1c&HFF00&\u1}effettivamente{\r} la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:38.10,0:01:38.32,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:38.32,0:01:38.40,Default,,0,0,0,,effettivamente {\1c&HFF00&\u1}la{\r} tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:38.40,0:01:38.46,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:38.46,0:01:38.83,Default,,0,0,0,,effettivamente la {\1c&HFF00&\u1}tua{\r} tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:38.83,0:01:39.25,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:39.25,0:01:39.89,Default,,0,0,0,,effettivamente la tua {\1c&HFF00&\u1}tariffa{\r} è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:39.89,0:01:40.45,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:40.45,0:01:40.53,Default,,0,0,0,,effettivamente la tua tariffa {\1c&HFF00&\u1}è{\r} la tariffa migliore sul mercato e
+Dialogue: 0,0:01:40.53,0:01:40.67,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:40.67,0:01:40.73,Default,,0,0,0,,effettivamente la tua tariffa è {\1c&HFF00&\u1}la{\r} tariffa migliore sul mercato e
+Dialogue: 0,0:01:40.73,0:01:40.77,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:40.77,0:01:41.19,Default,,0,0,0,,effettivamente la tua tariffa è la {\1c&HFF00&\u1}tariffa{\r} migliore sul mercato e
+Dialogue: 0,0:01:41.19,0:01:41.27,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:41.27,0:01:41.75,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa {\1c&HFF00&\u1}migliore{\r} sul mercato e
+Dialogue: 0,0:01:41.75,0:01:41.95,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:41.95,0:01:42.09,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore {\1c&HFF00&\u1}sul{\r} mercato e
+Dialogue: 0,0:01:42.09,0:01:42.13,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:42.13,0:01:42.63,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul {\1c&HFF00&\u1}mercato{\r} e
+Dialogue: 0,0:01:42.63,0:01:42.80,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato e
+Dialogue: 0,0:01:42.80,0:01:42.82,Default,,0,0,0,,effettivamente la tua tariffa è la tariffa migliore sul mercato {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:01:43.02,0:01:43.82,Default,,0,0,0,,{\1c&HFF00&\u1}periodicamente{\r} puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:43.82,0:01:43.96,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:43.96,0:01:44.16,Default,,0,0,0,,periodicamente {\1c&HFF00&\u1}puoi{\r} riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:44.16,0:01:44.32,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:44.32,0:01:45.09,Default,,0,0,0,,periodicamente puoi {\1c&HFF00&\u1}riprovare{\r} a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:45.09,0:01:45.61,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:45.61,0:01:45.65,Default,,0,0,0,,periodicamente puoi riprovare {\1c&HFF00&\u1}a{\r} verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:45.65,0:01:45.73,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:45.73,0:01:46.47,Default,,0,0,0,,periodicamente puoi riprovare a {\1c&HFF00&\u1}verificare{\r} se c'è una tariffa migliore e
+Dialogue: 0,0:01:46.47,0:01:46.53,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:46.53,0:01:46.63,Default,,0,0,0,,periodicamente puoi riprovare a verificare {\1c&HFF00&\u1}se{\r} c'è una tariffa migliore e
+Dialogue: 0,0:01:46.63,0:01:46.77,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:46.77,0:01:46.91,Default,,0,0,0,,periodicamente puoi riprovare a verificare se {\1c&HFF00&\u1}c'è{\r} una tariffa migliore e
+Dialogue: 0,0:01:46.91,0:01:47.15,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:47.15,0:01:47.27,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è {\1c&HFF00&\u1}una{\r} tariffa migliore e
+Dialogue: 0,0:01:47.27,0:01:47.31,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:47.31,0:01:47.79,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una {\1c&HFF00&\u1}tariffa{\r} migliore e
+Dialogue: 0,0:01:47.79,0:01:47.93,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:47.93,0:01:48.47,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa {\1c&HFF00&\u1}migliore{\r} e
+Dialogue: 0,0:01:48.47,0:01:48.70,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore e
+Dialogue: 0,0:01:48.70,0:01:48.72,Default,,0,0,0,,periodicamente puoi riprovare a verificare se c'è una tariffa migliore {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:01:49.00,0:01:49.02,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.02,0:01:49.04,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.04,0:01:49.30,Default,,0,0,0,,e {\1c&HFF00&\u1}poi{\r} non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.30,0:01:49.34,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.34,0:01:49.42,Default,,0,0,0,,e poi {\1c&HFF00&\u1}non{\r} devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.42,0:01:49.46,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.46,0:01:49.64,Default,,0,0,0,,e poi non {\1c&HFF00&\u1}devi{\r} pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.64,0:01:49.70,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:49.70,0:01:50.06,Default,,0,0,0,,e poi non devi {\1c&HFF00&\u1}pensare{\r} a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.06,0:01:50.18,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.18,0:01:50.20,Default,,0,0,0,,e poi non devi pensare {\1c&HFF00&\u1}a{\r} niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.20,0:01:50.26,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.26,0:01:50.48,Default,,0,0,0,,e poi non devi pensare a {\1c&HFF00&\u1}niente,{\r} lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.48,0:01:50.54,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.54,0:01:50.60,Default,,0,0,0,,e poi non devi pensare a niente, {\1c&HFF00&\u1}lo{\r} so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.60,0:01:50.62,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.62,0:01:50.74,Default,,0,0,0,,e poi non devi pensare a niente, lo {\1c&HFF00&\u1}so{\r} che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.74,0:01:50.76,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.76,0:01:50.88,Default,,0,0,0,,e poi non devi pensare a niente, lo so {\1c&HFF00&\u1}che{\r} sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:50.88,0:01:51.00,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:51.00,0:01:51.30,Default,,0,0,0,,e poi non devi pensare a niente, lo so che {\1c&HFF00&\u1}sembra{\r} stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:51.30,0:01:51.37,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:51.37,0:01:51.97,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra {\1c&HFF00&\u1}stranissimo{\r} ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:51.97,0:01:52.03,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:52.03,0:01:52.21,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo {\1c&HFF00&\u1}ma{\r} fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:52.21,0:01:52.27,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:52.27,0:01:52.71,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma {\1c&HFF00&\u1}fallo,{\r} metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:52.71,0:01:54.13,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.13,0:01:54.39,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, {\1c&HFF00&\u1}metto{\r} il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.39,0:01:54.45,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.45,0:01:54.63,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto {\1c&HFF00&\u1}il{\r} link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.63,0:01:54.69,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.69,0:01:54.87,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il {\1c&HFF00&\u1}link{\r} in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.87,0:01:54.89,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.89,0:01:54.97,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link {\1c&HFF00&\u1}in{\r} descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.97,0:01:54.99,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:54.99,0:01:55.69,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in {\1c&HFF00&\u1}descrizione,{\r} a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:55.69,0:01:55.71,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:55.71,0:01:55.73,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, {\1c&HFF00&\u1}a{\r} me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:55.73,0:01:55.79,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:55.79,0:01:55.87,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a {\1c&HFF00&\u1}me{\r} mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:55.87,0:01:55.91,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:55.91,0:01:55.97,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me {\1c&HFF00&\u1}mi{\r} sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:55.97,0:01:56.01,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:56.01,0:01:56.65,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi {\1c&HFF00&\u1}sembrava{\r} stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:56.65,0:01:57.32,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:57.32,0:01:57.92,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava {\1c&HFF00&\u1}stranissimo,{\r} detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:57.92,0:01:57.98,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:57.98,0:01:58.22,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, {\1c&HFF00&\u1}detto{\r} come, faranno tutto loro davvero
+Dialogue: 0,0:01:58.22,0:01:58.34,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:58.34,0:01:58.54,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto {\1c&HFF00&\u1}come,{\r} faranno tutto loro davvero
+Dialogue: 0,0:01:58.54,0:01:58.92,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:58.92,0:01:59.22,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, {\1c&HFF00&\u1}faranno{\r} tutto loro davvero
+Dialogue: 0,0:01:59.22,0:01:59.34,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:59.34,0:01:59.58,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno {\1c&HFF00&\u1}tutto{\r} loro davvero
+Dialogue: 0,0:01:59.58,0:01:59.66,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:01:59.66,0:01:59.94,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto {\1c&HFF00&\u1}loro{\r} davvero
+Dialogue: 0,0:01:59.94,0:02:0.02,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro davvero
+Dialogue: 0,0:02:0.02,0:02:0.44,Default,,0,0,0,,e poi non devi pensare a niente, lo so che sembra stranissimo ma fallo, metto il link in descrizione, a me mi sembrava stranissimo, detto come, faranno tutto loro {\1c&HFF00&\u1}davvero{\r}

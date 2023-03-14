@@ -1,0 +1,84 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.18,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:0.18,0:00:0.22,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:0.22,0:00:0.38,Default,,0,0,0,,il {\1c&HFF00&\u1}primo{\r} anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:0.38,0:00:0.48,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:0.48,0:00:0.76,Default,,0,0,0,,il primo {\1c&HFF00&\u1}anno{\r} è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:0.76,0:00:0.90,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:0.90,0:00:0.96,Default,,0,0,0,,il primo anno {\1c&HFF00&\u1}è{\r} abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:0.96,0:00:1.00,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:1.00,0:00:1.45,Default,,0,0,0,,il primo anno è {\1c&HFF00&\u1}abbastanza{\r} tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:1.45,0:00:1.51,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:1.51,0:00:1.99,Default,,0,0,0,,il primo anno è abbastanza {\1c&HFF00&\u1}tranquillo{\r} rispetto al test di medicina molto più
+Dialogue: 0,0:00:1.99,0:00:2.03,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:2.03,0:00:2.29,Default,,0,0,0,,il primo anno è abbastanza tranquillo {\1c&HFF00&\u1}rispetto{\r} al test di medicina molto più
+Dialogue: 0,0:00:2.29,0:00:2.31,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:2.31,0:00:2.41,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto {\1c&HFF00&\u1}al{\r} test di medicina molto più
+Dialogue: 0,0:00:2.41,0:00:2.43,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:2.43,0:00:2.63,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al {\1c&HFF00&\u1}test{\r} di medicina molto più
+Dialogue: 0,0:00:2.63,0:00:2.65,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:2.65,0:00:2.69,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test {\1c&HFF00&\u1}di{\r} medicina molto più
+Dialogue: 0,0:00:2.69,0:00:2.73,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:2.73,0:00:3.19,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di {\1c&HFF00&\u1}medicina{\r} molto più
+Dialogue: 0,0:00:3.19,0:00:3.31,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:3.31,0:00:3.53,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina {\1c&HFF00&\u1}molto{\r} più
+Dialogue: 0,0:00:3.53,0:00:3.61,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto più
+Dialogue: 0,0:00:3.61,0:00:3.67,Default,,0,0,0,,il primo anno è abbastanza tranquillo rispetto al test di medicina molto {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:00:4.04,0:00:4.30,Default,,0,0,0,,{\1c&HFF00&\u1}semplice{\r} poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:4.30,0:00:4.38,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:4.38,0:00:4.52,Default,,0,0,0,,semplice {\1c&HFF00&\u1}poi{\r} arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:4.52,0:00:4.54,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:4.54,0:00:4.76,Default,,0,0,0,,semplice poi {\1c&HFF00&\u1}arriva{\r} anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:4.76,0:00:4.78,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:4.78,0:00:5.37,Default,,0,0,0,,semplice poi arriva {\1c&HFF00&\u1}anatomia{\r} e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:5.37,0:00:5.53,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:5.53,0:00:5.57,Default,,0,0,0,,semplice poi arriva anatomia {\1c&HFF00&\u1}e{\r} ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:5.57,0:00:5.59,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:5.59,0:00:5.67,Default,,0,0,0,,semplice poi arriva anatomia e {\1c&HFF00&\u1}ti{\r} diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:5.67,0:00:5.71,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:5.71,0:00:6.13,Default,,0,0,0,,semplice poi arriva anatomia e ti {\1c&HFF00&\u1}diranno{\r} tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:6.13,0:00:6.23,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:6.23,0:00:7.01,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno {\1c&HFF00&\u1}tranquillo{\r} dopo anatomia è facile
+Dialogue: 0,0:00:7.01,0:00:7.05,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:7.05,0:00:7.21,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo {\1c&HFF00&\u1}dopo{\r} anatomia è facile
+Dialogue: 0,0:00:7.21,0:00:7.23,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:7.23,0:00:7.67,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo {\1c&HFF00&\u1}anatomia{\r} è facile
+Dialogue: 0,0:00:7.67,0:00:7.69,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:7.69,0:00:7.71,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia {\1c&HFF00&\u1}è{\r} facile
+Dialogue: 0,0:00:7.71,0:00:7.85,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è facile
+Dialogue: 0,0:00:7.85,0:00:8.35,Default,,0,0,0,,semplice poi arriva anatomia e ti diranno tranquillo dopo anatomia è {\1c&HFF00&\u1}facile{\r}
+Dialogue: 0,0:00:8.60,0:00:8.70,Default,,0,0,0,,{\1c&HFF00&\u1}Poi{\r} arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:8.70,0:00:8.72,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:8.72,0:00:8.96,Default,,0,0,0,,Poi {\1c&HFF00&\u1}arriva{\r} Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:8.96,0:00:9.02,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:9.02,0:00:9.74,Default,,0,0,0,,Poi arriva {\1c&HFF00&\u1}Fisiologia,{\r} tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:9.74,0:00:9.88,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:9.88,0:00:10.78,Default,,0,0,0,,Poi arriva Fisiologia, {\1c&HFF00&\u1}tranquillo{\r} dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:10.78,0:00:10.80,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:10.80,0:00:11.00,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo {\1c&HFF00&\u1}dopo{\r} Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:11.00,0:00:11.04,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:11.04,0:00:11.66,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo {\1c&HFF00&\u1}Fisiologia{\r} è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:11.66,0:00:11.68,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:11.68,0:00:11.70,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia {\1c&HFF00&\u1}è{\r} facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:11.70,0:00:11.86,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:11.86,0:00:12.38,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è {\1c&HFF00&\u1}facile,{\r} scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:12.38,0:00:12.44,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:12.44,0:00:12.83,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, {\1c&HFF00&\u1}scenderà,{\r} tranquillo ti troverai
+Dialogue: 0,0:00:12.83,0:00:12.95,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:12.95,0:00:13.17,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, {\1c&HFF00&\u1}tranquillo{\r} ti troverai
+Dialogue: 0,0:00:13.17,0:00:13.19,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:13.19,0:00:13.23,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo {\1c&HFF00&\u1}ti{\r} troverai
+Dialogue: 0,0:00:13.23,0:00:13.25,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti troverai
+Dialogue: 0,0:00:13.25,0:00:13.51,Default,,0,0,0,,Poi arriva Fisiologia, tranquillo dopo Fisiologia è facile, scenderà, tranquillo ti {\1c&HFF00&\u1}troverai{\r}

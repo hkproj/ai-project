@@ -1,0 +1,403 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.40,0:00:1.48,Default,,0,0,0,,{\1c&HFF00&\u1}su{\r} tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:1.48,0:00:1.54,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:1.54,0:00:1.92,Default,,0,0,0,,su {\1c&HFF00&\u1}tiktok{\r} mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:1.92,0:00:1.96,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:1.96,0:00:2.02,Default,,0,0,0,,su tiktok {\1c&HFF00&\u1}mi{\r} trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:2.02,0:00:2.06,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:2.06,0:00:2.26,Default,,0,0,0,,su tiktok mi {\1c&HFF00&\u1}trovi{\r} così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:2.26,0:00:2.30,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:2.30,0:00:2.51,Default,,0,0,0,,su tiktok mi trovi {\1c&HFF00&\u1}così,{\r} grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:2.51,0:00:3.27,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:3.27,0:00:3.63,Default,,0,0,0,,su tiktok mi trovi così, {\1c&HFF00&\u1}grazie{\r} a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:3.63,0:00:4.01,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.01,0:00:4.05,Default,,0,0,0,,su tiktok mi trovi così, grazie {\1c&HFF00&\u1}a{\r} tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.05,0:00:4.11,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.11,0:00:4.33,Default,,0,0,0,,su tiktok mi trovi così, grazie a {\1c&HFF00&\u1}tutti{\r} per essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.33,0:00:4.39,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.39,0:00:4.47,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti {\1c&HFF00&\u1}per{\r} essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.47,0:00:4.51,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.51,0:00:4.71,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per {\1c&HFF00&\u1}essere{\r} stati qui, potete condividere il
+Dialogue: 0,0:00:4.71,0:00:4.75,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:4.75,0:00:4.95,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere {\1c&HFF00&\u1}stati{\r} qui, potete condividere il
+Dialogue: 0,0:00:4.95,0:00:5.01,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:5.01,0:00:5.19,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati {\1c&HFF00&\u1}qui,{\r} potete condividere il
+Dialogue: 0,0:00:5.19,0:00:5.81,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:5.81,0:00:6.27,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, {\1c&HFF00&\u1}potete{\r} condividere il
+Dialogue: 0,0:00:6.27,0:00:7.43,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:7.43,0:00:7.90,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete {\1c&HFF00&\u1}condividere{\r} il
+Dialogue: 0,0:00:7.90,0:00:7.94,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere il
+Dialogue: 0,0:00:7.94,0:00:7.98,Default,,0,0,0,,su tiktok mi trovi così, grazie a tutti per essere stati qui, potete condividere {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:8.38,0:00:9.40,Default,,0,0,0,,{\1c&HFF00&\u1}codice{\r} e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.40,0:00:9.44,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.44,0:00:9.48,Default,,0,0,0,,codice {\1c&HFF00&\u1}e{\r} per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.48,0:00:9.52,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.52,0:00:9.62,Default,,0,0,0,,codice e {\1c&HFF00&\u1}per{\r} le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.62,0:00:9.66,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.66,0:00:9.72,Default,,0,0,0,,codice e per {\1c&HFF00&\u1}le{\r} prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.72,0:00:9.76,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.76,0:00:9.92,Default,,0,0,0,,codice e per le {\1c&HFF00&\u1}prime 50{\r} persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:9.92,0:00:10.45,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:10.45,0:00:10.81,Default,,0,0,0,,codice e per le prime 50 {\1c&HFF00&\u1}persone{\r} della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:10.81,0:00:11.11,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:11.11,0:00:11.33,Default,,0,0,0,,codice e per le prime 50 persone {\1c&HFF00&\u1}della{\r} mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:11.33,0:00:11.37,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:11.37,0:00:11.47,Default,,0,0,0,,codice e per le prime 50 persone della {\1c&HFF00&\u1}mia{\r} community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:11.47,0:00:11.53,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:11.53,0:00:11.93,Default,,0,0,0,,codice e per le prime 50 persone della mia {\1c&HFF00&\u1}community,{\r} quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:11.93,0:00:12.25,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:12.25,0:00:12.53,Default,,0,0,0,,codice e per le prime 50 persone della mia community, {\1c&HFF00&\u1}quindi{\r} l'ho annunciato prima qui
+Dialogue: 0,0:00:12.53,0:00:14.03,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:14.03,0:00:14.09,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi {\1c&HFF00&\u1}l'ho{\r} annunciato prima qui
+Dialogue: 0,0:00:14.09,0:00:14.13,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:14.13,0:00:14.47,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho {\1c&HFF00&\u1}annunciato{\r} prima qui
+Dialogue: 0,0:00:14.47,0:00:14.53,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:14.53,0:00:14.70,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato {\1c&HFF00&\u1}prima{\r} qui
+Dialogue: 0,0:00:14.70,0:00:14.82,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima qui
+Dialogue: 0,0:00:14.82,0:00:14.88,Default,,0,0,0,,codice e per le prime 50 persone della mia community, quindi l'ho annunciato prima {\1c&HFF00&\u1}qui{\r}
+Dialogue: 0,0:00:14.88,0:00:15.42,Default,,0,0,0,,{\1c&HFF00&\u1}perchè{\r} appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:15.42,0:00:15.44,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:15.44,0:00:15.60,Default,,0,0,0,,perchè {\1c&HFF00&\u1}appena{\r} lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:15.60,0:00:15.62,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:15.62,0:00:15.72,Default,,0,0,0,,perchè appena {\1c&HFF00&\u1}lo{\r} annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:15.72,0:00:15.76,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:15.76,0:00:16.14,Default,,0,0,0,,perchè appena lo {\1c&HFF00&\u1}annuncerò{\r} su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:16.14,0:00:16.18,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:16.18,0:00:16.26,Default,,0,0,0,,perchè appena lo annuncerò {\1c&HFF00&\u1}su{\r} tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:16.26,0:00:16.32,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:16.32,0:00:16.87,Default,,0,0,0,,perchè appena lo annuncerò su {\1c&HFF00&\u1}tiktok{\r} diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:16.87,0:00:16.99,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:16.99,0:00:17.27,Default,,0,0,0,,perchè appena lo annuncerò su tiktok {\1c&HFF00&\u1}diciamo{\r} che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.27,0:00:17.31,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.31,0:00:17.39,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo {\1c&HFF00&\u1}che{\r} il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.39,0:00:17.43,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.43,0:00:17.47,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che {\1c&HFF00&\u1}il{\r} codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.47,0:00:17.53,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.53,0:00:17.87,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il {\1c&HFF00&\u1}codice{\r} si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.87,0:00:17.97,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:17.97,0:00:18.05,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice {\1c&HFF00&\u1}si{\r} sarà bruciato in pochissimo
+Dialogue: 0,0:00:18.05,0:00:18.27,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:18.27,0:00:18.47,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si {\1c&HFF00&\u1}sarà{\r} bruciato in pochissimo
+Dialogue: 0,0:00:18.47,0:00:18.59,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:18.59,0:00:19.11,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà {\1c&HFF00&\u1}bruciato{\r} in pochissimo
+Dialogue: 0,0:00:19.11,0:00:19.17,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:19.17,0:00:19.23,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato {\1c&HFF00&\u1}in{\r} pochissimo
+Dialogue: 0,0:00:19.23,0:00:19.25,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in pochissimo
+Dialogue: 0,0:00:19.25,0:00:19.69,Default,,0,0,0,,perchè appena lo annuncerò su tiktok diciamo che il codice si sarà bruciato in {\1c&HFF00&\u1}pochissimo{\r}
+Dialogue: 0,0:00:19.98,0:00:20.62,Default,,0,0,0,,{\1c&HFF00&\u1}tempo{\r} quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:20.62,0:00:20.66,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:20.66,0:00:20.88,Default,,0,0,0,,tempo {\1c&HFF00&\u1}quindi{\r} potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:20.88,0:00:21.12,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:21.12,0:00:21.38,Default,,0,0,0,,tempo quindi {\1c&HFF00&\u1}potete{\r} condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:21.38,0:00:21.48,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:21.48,0:00:22.09,Default,,0,0,0,,tempo quindi potete {\1c&HFF00&\u1}condividerlo{\r} con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:22.09,0:00:22.21,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:22.21,0:00:22.35,Default,,0,0,0,,tempo quindi potete condividerlo {\1c&HFF00&\u1}con{\r} persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:22.35,0:00:22.39,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:22.39,0:00:22.67,Default,,0,0,0,,tempo quindi potete condividerlo con {\1c&HFF00&\u1}persone{\r} che pensate possano essere interessate, le
+Dialogue: 0,0:00:22.67,0:00:22.71,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:22.71,0:00:22.79,Default,,0,0,0,,tempo quindi potete condividerlo con persone {\1c&HFF00&\u1}che{\r} pensate possano essere interessate, le
+Dialogue: 0,0:00:22.79,0:00:22.85,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:22.85,0:00:23.31,Default,,0,0,0,,tempo quindi potete condividerlo con persone che {\1c&HFF00&\u1}pensate{\r} possano essere interessate, le
+Dialogue: 0,0:00:23.31,0:00:23.69,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:23.69,0:00:24.01,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate {\1c&HFF00&\u1}possano{\r} essere interessate, le
+Dialogue: 0,0:00:24.01,0:00:24.05,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:24.05,0:00:24.27,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano {\1c&HFF00&\u1}essere{\r} interessate, le
+Dialogue: 0,0:00:24.27,0:00:24.29,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:24.29,0:00:24.85,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere {\1c&HFF00&\u1}interessate,{\r} le
+Dialogue: 0,0:00:24.85,0:00:25.35,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, le
+Dialogue: 0,0:00:25.35,0:00:25.39,Default,,0,0,0,,tempo quindi potete condividerlo con persone che pensate possano essere interessate, {\1c&HFF00&\u1}le{\r}
+Dialogue: 0,0:00:25.58,0:00:25.88,Default,,0,0,0,,{\1c&HFF00&\u1}prime 50{\r} persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:25.88,0:00:26.24,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:26.24,0:00:26.54,Default,,0,0,0,,prime 50 {\1c&HFF00&\u1}persone{\r} riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:26.54,0:00:26.76,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:26.76,0:00:27.33,Default,,0,0,0,,prime 50 persone {\1c&HFF00&\u1}riceveranno{\r} uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:27.33,0:00:27.79,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:27.79,0:00:27.91,Default,,0,0,0,,prime 50 persone riceveranno {\1c&HFF00&\u1}uno{\r} sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:27.91,0:00:27.95,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:27.95,0:00:28.21,Default,,0,0,0,,prime 50 persone riceveranno uno {\1c&HFF00&\u1}sconto{\r} di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:28.21,0:00:28.25,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:28.25,0:00:28.31,Default,,0,0,0,,prime 50 persone riceveranno uno sconto {\1c&HFF00&\u1}di 50{\r} euro quindi 50 euro in meno
+Dialogue: 0,0:00:28.31,0:00:29.09,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:29.09,0:00:29.29,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 {\1c&HFF00&\u1}euro{\r} quindi 50 euro in meno
+Dialogue: 0,0:00:29.29,0:00:29.49,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:29.49,0:00:29.71,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro {\1c&HFF00&\u1}quindi 50{\r} euro in meno
+Dialogue: 0,0:00:29.71,0:00:30.35,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:30.35,0:00:30.49,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 {\1c&HFF00&\u1}euro{\r} in meno
+Dialogue: 0,0:00:30.49,0:00:30.51,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:30.51,0:00:30.55,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro {\1c&HFF00&\u1}in{\r} meno
+Dialogue: 0,0:00:30.55,0:00:30.61,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in meno
+Dialogue: 0,0:00:30.61,0:00:30.79,Default,,0,0,0,,prime 50 persone riceveranno uno sconto di 50 euro quindi 50 euro in {\1c&HFF00&\u1}meno{\r}
+Dialogue: 0,0:00:30.98,0:00:31.44,Default,,0,0,0,,{\1c&HFF00&\u1}direi{\r} che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:31.44,0:00:31.54,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:31.54,0:00:31.66,Default,,0,0,0,,direi {\1c&HFF00&\u1}che{\r} comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:31.66,0:00:31.68,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:31.68,0:00:32.60,Default,,0,0,0,,direi che {\1c&HFF00&\u1}comunque{\r} un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:32.60,0:00:32.64,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:32.64,0:00:32.74,Default,,0,0,0,,direi che comunque {\1c&HFF00&\u1}un{\r} ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:32.74,0:00:32.79,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:32.79,0:00:33.13,Default,,0,0,0,,direi che comunque un {\1c&HFF00&\u1}ottimo{\r} affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:33.13,0:00:33.33,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:33.33,0:00:33.71,Default,,0,0,0,,direi che comunque un ottimo {\1c&HFF00&\u1}affare{\r} stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:33.71,0:00:34.05,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:34.05,0:00:34.25,Default,,0,0,0,,direi che comunque un ottimo affare {\1c&HFF00&\u1}stato{\r} chiarissimo grazie a te per essere
+Dialogue: 0,0:00:34.25,0:00:34.31,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:34.31,0:00:34.77,Default,,0,0,0,,direi che comunque un ottimo affare stato {\1c&HFF00&\u1}chiarissimo{\r} grazie a te per essere
+Dialogue: 0,0:00:34.77,0:00:35.01,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:35.01,0:00:35.23,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo {\1c&HFF00&\u1}grazie{\r} a te per essere
+Dialogue: 0,0:00:35.23,0:00:35.27,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:35.27,0:00:35.29,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie {\1c&HFF00&\u1}a{\r} te per essere
+Dialogue: 0,0:00:35.29,0:00:35.37,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:35.37,0:00:35.65,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a {\1c&HFF00&\u1}te{\r} per essere
+Dialogue: 0,0:00:35.65,0:00:35.85,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:35.85,0:00:35.95,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te {\1c&HFF00&\u1}per{\r} essere
+Dialogue: 0,0:00:35.95,0:00:35.99,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per essere
+Dialogue: 0,0:00:35.99,0:00:36.17,Default,,0,0,0,,direi che comunque un ottimo affare stato chiarissimo grazie a te per {\1c&HFF00&\u1}essere{\r}
+Dialogue: 0,0:00:36.34,0:00:36.52,Default,,0,0,0,,{\1c&HFF00&\u1}stato{\r} qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:36.52,0:00:36.56,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:36.56,0:00:36.66,Default,,0,0,0,,stato {\1c&HFF00&\u1}qui{\r} grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:36.66,0:00:37.22,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:37.22,0:00:37.44,Default,,0,0,0,,stato qui {\1c&HFF00&\u1}grazie{\r} a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:37.44,0:00:37.46,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:37.46,0:00:37.52,Default,,0,0,0,,stato qui grazie {\1c&HFF00&\u1}a{\r} tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:37.52,0:00:37.56,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:37.56,0:00:37.84,Default,,0,0,0,,stato qui grazie a {\1c&HFF00&\u1}tutti{\r} vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:37.84,0:00:38.99,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:38.99,0:00:39.03,Default,,0,0,0,,stato qui grazie a tutti {\1c&HFF00&\u1}vi{\r} lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:39.03,0:00:39.07,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:39.07,0:00:39.39,Default,,0,0,0,,stato qui grazie a tutti vi {\1c&HFF00&\u1}lascio{\r} vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:39.39,0:00:39.81,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:39.81,0:00:39.87,Default,,0,0,0,,stato qui grazie a tutti vi lascio {\1c&HFF00&\u1}vi{\r} lascio perché a breve andrò il live su
+Dialogue: 0,0:00:39.87,0:00:39.91,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:39.91,0:00:40.13,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi {\1c&HFF00&\u1}lascio{\r} perché a breve andrò il live su
+Dialogue: 0,0:00:40.13,0:00:40.19,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:40.19,0:00:40.51,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio {\1c&HFF00&\u1}perché{\r} a breve andrò il live su
+Dialogue: 0,0:00:40.51,0:00:41.13,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:41.13,0:00:41.15,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché {\1c&HFF00&\u1}a{\r} breve andrò il live su
+Dialogue: 0,0:00:41.15,0:00:41.21,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:41.21,0:00:41.57,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a {\1c&HFF00&\u1}breve{\r} andrò il live su
+Dialogue: 0,0:00:41.57,0:00:41.81,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:41.81,0:00:42.07,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve {\1c&HFF00&\u1}andrò{\r} il live su
+Dialogue: 0,0:00:42.07,0:00:42.13,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:42.13,0:00:42.21,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò {\1c&HFF00&\u1}il{\r} live su
+Dialogue: 0,0:00:42.21,0:00:42.31,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:42.31,0:00:42.60,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il {\1c&HFF00&\u1}live{\r} su
+Dialogue: 0,0:00:42.60,0:00:42.62,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live su
+Dialogue: 0,0:00:42.62,0:00:42.68,Default,,0,0,0,,stato qui grazie a tutti vi lascio vi lascio perché a breve andrò il live {\1c&HFF00&\u1}su{\r}
+Dialogue: 0,0:00:43.00,0:00:43.46,Default,,0,0,0,,{\1c&HFF00&\u1}tiktok{\r} a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:43.46,0:00:43.48,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:43.48,0:00:43.50,Default,,0,0,0,,tiktok {\1c&HFF00&\u1}a{\r} breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:43.50,0:00:43.56,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:43.56,0:00:43.72,Default,,0,0,0,,tiktok a {\1c&HFF00&\u1}breve{\r} penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:43.72,0:00:43.78,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:43.78,0:00:44.06,Default,,0,0,0,,tiktok a breve {\1c&HFF00&\u1}penso{\r} fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:44.06,0:00:44.12,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:44.12,0:00:44.28,Default,,0,0,0,,tiktok a breve penso {\1c&HFF00&\u1}fra 40{\r} minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:44.28,0:00:45.15,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:45.15,0:00:45.45,Default,,0,0,0,,tiktok a breve penso fra 40 {\1c&HFF00&\u1}minuti{\r} tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:45.45,0:00:45.65,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:45.65,0:00:45.83,Default,,0,0,0,,tiktok a breve penso fra 40 minuti {\1c&HFF00&\u1}tempo{\r} di resettare tutto in cui farò
+Dialogue: 0,0:00:45.83,0:00:45.85,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:45.85,0:00:45.93,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo {\1c&HFF00&\u1}di{\r} resettare tutto in cui farò
+Dialogue: 0,0:00:45.93,0:00:46.03,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:46.03,0:00:46.49,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di {\1c&HFF00&\u1}resettare{\r} tutto in cui farò
+Dialogue: 0,0:00:46.49,0:00:46.53,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:46.53,0:00:46.81,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare {\1c&HFF00&\u1}tutto{\r} in cui farò
+Dialogue: 0,0:00:46.81,0:00:47.87,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:47.87,0:00:47.93,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto {\1c&HFF00&\u1}in{\r} cui farò
+Dialogue: 0,0:00:47.93,0:00:47.99,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:47.99,0:00:48.09,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in {\1c&HFF00&\u1}cui{\r} farò
+Dialogue: 0,0:00:48.09,0:00:48.15,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui farò
+Dialogue: 0,0:00:48.15,0:00:48.31,Default,,0,0,0,,tiktok a breve penso fra 40 minuti tempo di resettare tutto in cui {\1c&HFF00&\u1}farò{\r}
+Dialogue: 0,0:00:48.98,0:00:49.04,Default,,0,0,0,,{\1c&HFF00&\u1}lo{\r} stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.04,0:00:49.06,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.06,0:00:49.26,Default,,0,0,0,,lo {\1c&HFF00&\u1}stesso{\r} annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.26,0:00:49.30,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.30,0:00:49.67,Default,,0,0,0,,lo stesso {\1c&HFF00&\u1}annuncio{\r} ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.67,0:00:49.71,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.71,0:00:49.79,Default,,0,0,0,,lo stesso annuncio {\1c&HFF00&\u1}ma{\r} senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.79,0:00:49.85,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:49.85,0:00:50.09,Default,,0,0,0,,lo stesso annuncio ma {\1c&HFF00&\u1}senza{\r} la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:50.09,0:00:50.17,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:50.17,0:00:50.23,Default,,0,0,0,,lo stesso annuncio ma senza {\1c&HFF00&\u1}la{\r} parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:50.23,0:00:50.25,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:50.25,0:00:50.47,Default,,0,0,0,,lo stesso annuncio ma senza la {\1c&HFF00&\u1}parte{\r} iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:50.47,0:00:50.49,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:50.49,0:00:50.91,Default,,0,0,0,,lo stesso annuncio ma senza la parte {\1c&HFF00&\u1}iniziale{\r} quindi sarà una cosa molto
+Dialogue: 0,0:00:50.91,0:00:50.97,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:50.97,0:00:51.13,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale {\1c&HFF00&\u1}quindi{\r} sarà una cosa molto
+Dialogue: 0,0:00:51.13,0:00:51.17,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:51.17,0:00:51.31,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi {\1c&HFF00&\u1}sarà{\r} una cosa molto
+Dialogue: 0,0:00:51.31,0:00:51.33,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:51.33,0:00:51.41,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà {\1c&HFF00&\u1}una{\r} cosa molto
+Dialogue: 0,0:00:51.41,0:00:51.45,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:51.45,0:00:51.63,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una {\1c&HFF00&\u1}cosa{\r} molto
+Dialogue: 0,0:00:51.63,0:00:51.69,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa molto
+Dialogue: 0,0:00:51.69,0:00:51.91,Default,,0,0,0,,lo stesso annuncio ma senza la parte iniziale quindi sarà una cosa {\1c&HFF00&\u1}molto{\r}
+Dialogue: 0,0:00:52.06,0:00:52.94,Default,,0,0,0,,{\1c&HFF00&\u1}rapida{\r} da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:52.94,0:00:52.96,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:52.96,0:00:53.10,Default,,0,0,0,,rapida {\1c&HFF00&\u1}da{\r} dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.10,0:00:53.24,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.24,0:00:53.40,Default,,0,0,0,,rapida da {\1c&HFF00&\u1}dopo{\r} domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.40,0:00:53.44,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.44,0:00:53.67,Default,,0,0,0,,rapida da dopo {\1c&HFF00&\u1}domani{\r} in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.67,0:00:53.69,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.69,0:00:53.75,Default,,0,0,0,,rapida da dopo domani {\1c&HFF00&\u1}in{\r} poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.75,0:00:53.79,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.79,0:00:53.97,Default,,0,0,0,,rapida da dopo domani in {\1c&HFF00&\u1}poi{\r} il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:53.97,0:00:54.01,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:54.01,0:00:54.09,Default,,0,0,0,,rapida da dopo domani in poi {\1c&HFF00&\u1}il{\r} corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:54.09,0:00:54.19,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:54.19,0:00:54.49,Default,,0,0,0,,rapida da dopo domani in poi il {\1c&HFF00&\u1}corso{\r} sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:54.49,0:00:54.53,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:54.53,0:00:54.71,Default,,0,0,0,,rapida da dopo domani in poi il corso {\1c&HFF00&\u1}sarà{\r} sponsorizzato quindi se volete
+Dialogue: 0,0:00:54.71,0:00:54.75,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:54.75,0:00:55.51,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà {\1c&HFF00&\u1}sponsorizzato{\r} quindi se volete
+Dialogue: 0,0:00:55.51,0:00:55.81,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:55.81,0:00:56.07,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato {\1c&HFF00&\u1}quindi{\r} se volete
+Dialogue: 0,0:00:56.07,0:00:56.25,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:56.25,0:00:56.33,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi {\1c&HFF00&\u1}se{\r} volete
+Dialogue: 0,0:00:56.33,0:00:56.37,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se volete
+Dialogue: 0,0:00:56.37,0:00:56.59,Default,,0,0,0,,rapida da dopo domani in poi il corso sarà sponsorizzato quindi se {\1c&HFF00&\u1}volete{\r}
+Dialogue: 0,0:00:57.08,0:00:57.34,Default,,0,0,0,,{\1c&HFF00&\u1}sfruttare{\r} quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:57.34,0:00:57.38,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:57.38,0:00:57.96,Default,,0,0,0,,sfruttare {\1c&HFF00&\u1}quest'occasione{\r} volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:57.96,0:00:57.98,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:57.98,0:00:58.31,Default,,0,0,0,,sfruttare quest'occasione {\1c&HFF00&\u1}volete{\r} o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:58.31,0:00:58.45,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:58.45,0:00:58.49,Default,,0,0,0,,sfruttare quest'occasione volete {\1c&HFF00&\u1}o{\r} conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:58.49,0:00:58.53,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:58.53,0:00:58.91,Default,,0,0,0,,sfruttare quest'occasione volete o {\1c&HFF00&\u1}conoscete{\r} qualcuno che può sfruttare
+Dialogue: 0,0:00:58.91,0:00:58.97,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:58.97,0:00:59.43,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete {\1c&HFF00&\u1}qualcuno{\r} che può sfruttare
+Dialogue: 0,0:00:59.43,0:00:59.85,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:59.85,0:00:59.93,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno {\1c&HFF00&\u1}che{\r} può sfruttare
+Dialogue: 0,0:00:59.93,0:00:59.99,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:00:59.99,0:01:0.11,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che {\1c&HFF00&\u1}può{\r} sfruttare
+Dialogue: 0,0:01:0.11,0:01:0.19,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può sfruttare
+Dialogue: 0,0:01:0.19,0:01:0.55,Default,,0,0,0,,sfruttare quest'occasione volete o conoscete qualcuno che può {\1c&HFF00&\u1}sfruttare{\r}
+Dialogue: 0,0:01:0.54,0:01:1.68,Default,,0,0,0,,{\1c&HFF00&\u1}quest'occasione{\r} tiktokmasters.net guardatevi la landing vedete tutto
+Dialogue: 0,0:01:1.68,0:01:1.70,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing vedete tutto
+Dialogue: 0,0:01:1.70,0:01:3.27,Default,,0,0,0,,quest'occasione {\1c&HFF00&\u1}tiktokmasters.net{\r} guardatevi la landing vedete tutto
+Dialogue: 0,0:01:3.27,0:01:3.87,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing vedete tutto
+Dialogue: 0,0:01:3.87,0:01:4.29,Default,,0,0,0,,quest'occasione tiktokmasters.net {\1c&HFF00&\u1}guardatevi{\r} la landing vedete tutto
+Dialogue: 0,0:01:4.29,0:01:4.35,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing vedete tutto
+Dialogue: 0,0:01:4.35,0:01:4.39,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi {\1c&HFF00&\u1}la{\r} landing vedete tutto
+Dialogue: 0,0:01:4.39,0:01:4.45,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing vedete tutto
+Dialogue: 0,0:01:4.45,0:01:4.85,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la {\1c&HFF00&\u1}landing{\r} vedete tutto
+Dialogue: 0,0:01:4.85,0:01:4.91,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing vedete tutto
+Dialogue: 0,0:01:4.91,0:01:5.23,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing {\1c&HFF00&\u1}vedete{\r} tutto
+Dialogue: 0,0:01:5.23,0:01:5.25,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing vedete tutto
+Dialogue: 0,0:01:5.25,0:01:5.39,Default,,0,0,0,,quest'occasione tiktokmasters.net guardatevi la landing vedete {\1c&HFF00&\u1}tutto{\r}
+Dialogue: 0,0:01:5.58,0:01:5.92,Default,,0,0,0,,{\1c&HFF00&\u1}quello{\r} che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:5.92,0:01:5.96,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:5.96,0:01:6.02,Default,,0,0,0,,quello {\1c&HFF00&\u1}che{\r} ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:6.02,0:01:6.04,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:6.04,0:01:6.10,Default,,0,0,0,,quello che {\1c&HFF00&\u1}ho{\r} creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:6.10,0:01:6.12,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:6.12,0:01:6.46,Default,,0,0,0,,quello che ho {\1c&HFF00&\u1}creato{\r} ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:6.46,0:01:7.17,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:7.17,0:01:7.43,Default,,0,0,0,,quello che ho creato {\1c&HFF00&\u1}ditemi{\r} se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:7.43,0:01:7.93,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:7.93,0:01:8.01,Default,,0,0,0,,quello che ho creato ditemi {\1c&HFF00&\u1}se{\r} vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:8.01,0:01:8.07,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:8.07,0:01:8.13,Default,,0,0,0,,quello che ho creato ditemi se {\1c&HFF00&\u1}vi{\r} piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:8.13,0:01:8.19,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:8.19,0:01:8.47,Default,,0,0,0,,quello che ho creato ditemi se vi {\1c&HFF00&\u1}piace{\r} soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:8.47,0:01:8.53,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:8.53,0:01:9.01,Default,,0,0,0,,quello che ho creato ditemi se vi piace {\1c&HFF00&\u1}soprattutto{\r} quindi scrivetemi un
+Dialogue: 0,0:01:9.01,0:01:9.05,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:9.05,0:01:9.23,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto {\1c&HFF00&\u1}quindi{\r} scrivetemi un
+Dialogue: 0,0:01:9.23,0:01:9.29,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:9.29,0:01:9.73,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi {\1c&HFF00&\u1}scrivetemi{\r} un
+Dialogue: 0,0:01:9.73,0:01:9.77,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi un
+Dialogue: 0,0:01:9.77,0:01:9.81,Default,,0,0,0,,quello che ho creato ditemi se vi piace soprattutto quindi scrivetemi {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:01:9.78,0:01:10.58,Default,,0,0,0,,{\1c&HFF00&\u1}feedback{\r} anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:10.58,0:01:10.62,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:10.62,0:01:10.78,Default,,0,0,0,,feedback {\1c&HFF00&\u1}anche{\r} su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:10.78,0:01:10.80,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:10.80,0:01:10.92,Default,,0,0,0,,feedback anche {\1c&HFF00&\u1}su{\r} instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:10.92,0:01:10.94,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:10.94,0:01:11.48,Default,,0,0,0,,feedback anche su {\1c&HFF00&\u1}instagram{\r} fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:11.48,0:01:11.55,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:11.55,0:01:11.81,Default,,0,0,0,,feedback anche su instagram {\1c&HFF00&\u1}fabio{\r} trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:11.81,0:01:11.87,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:11.87,0:01:12.23,Default,,0,0,0,,feedback anche su instagram fabio {\1c&HFF00&\u1}trattino{\r} bassodale io vi aspetto e basta
+Dialogue: 0,0:01:12.23,0:01:12.29,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:12.29,0:01:12.77,Default,,0,0,0,,feedback anche su instagram fabio trattino {\1c&HFF00&\u1}bassodale{\r} io vi aspetto e basta
+Dialogue: 0,0:01:12.77,0:01:13.07,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:13.07,0:01:13.13,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale {\1c&HFF00&\u1}io{\r} vi aspetto e basta
+Dialogue: 0,0:01:13.13,0:01:13.17,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:13.17,0:01:13.23,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io {\1c&HFF00&\u1}vi{\r} aspetto e basta
+Dialogue: 0,0:01:13.23,0:01:13.27,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:13.27,0:01:13.67,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi {\1c&HFF00&\u1}aspetto{\r} e basta
+Dialogue: 0,0:01:13.67,0:01:14.17,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:14.17,0:01:14.29,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto {\1c&HFF00&\u1}e{\r} basta
+Dialogue: 0,0:01:14.29,0:01:14.35,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e basta
+Dialogue: 0,0:01:14.35,0:01:14.63,Default,,0,0,0,,feedback anche su instagram fabio trattino bassodale io vi aspetto e {\1c&HFF00&\u1}basta{\r}
+Dialogue: 0,0:01:14.82,0:01:15.06,Default,,0,0,0,,{\1c&HFF00&\u1}grazie{\r} a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.06,0:01:15.08,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.08,0:01:15.12,Default,,0,0,0,,grazie {\1c&HFF00&\u1}a{\r} tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.12,0:01:15.16,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.16,0:01:15.34,Default,,0,0,0,,grazie a {\1c&HFF00&\u1}tutti{\r} per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.34,0:01:15.36,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.36,0:01:15.46,Default,,0,0,0,,grazie a tutti {\1c&HFF00&\u1}per{\r} essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.46,0:01:15.50,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.50,0:01:15.70,Default,,0,0,0,,grazie a tutti per {\1c&HFF00&\u1}essere{\r} stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.70,0:01:15.72,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.72,0:01:15.92,Default,,0,0,0,,grazie a tutti per essere {\1c&HFF00&\u1}stati{\r} qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.92,0:01:15.98,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:15.98,0:01:16.10,Default,,0,0,0,,grazie a tutti per essere stati {\1c&HFF00&\u1}qui{\r} ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:16.10,0:01:17.33,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:17.33,0:01:17.61,Default,,0,0,0,,grazie a tutti per essere stati qui {\1c&HFF00&\u1}ci{\r} aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:17.61,0:01:17.69,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:17.69,0:01:18.17,Default,,0,0,0,,grazie a tutti per essere stati qui ci {\1c&HFF00&\u1}aggiorniamo{\r} e se volete ci vediamo
+Dialogue: 0,0:01:18.17,0:01:18.33,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:18.33,0:01:18.35,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo {\1c&HFF00&\u1}e{\r} se volete ci vediamo
+Dialogue: 0,0:01:18.35,0:01:18.41,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:18.41,0:01:18.49,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e {\1c&HFF00&\u1}se{\r} volete ci vediamo
+Dialogue: 0,0:01:18.49,0:01:18.53,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:18.53,0:01:18.79,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se {\1c&HFF00&\u1}volete{\r} ci vediamo
+Dialogue: 0,0:01:18.79,0:01:18.91,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:18.91,0:01:18.97,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete {\1c&HFF00&\u1}ci{\r} vediamo
+Dialogue: 0,0:01:18.97,0:01:18.99,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci vediamo
+Dialogue: 0,0:01:18.99,0:01:19.23,Default,,0,0,0,,grazie a tutti per essere stati qui ci aggiorniamo e se volete ci {\1c&HFF00&\u1}vediamo{\r}
+Dialogue: 0,0:01:19.10,0:01:19.98,Default,,0,0,0,,{\1c&HFF00&\u1}dall'altra{\r} parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:19.98,0:01:20.02,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:20.02,0:01:20.36,Default,,0,0,0,,dall'altra {\1c&HFF00&\u1}parte{\r} in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:20.36,0:01:20.42,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:20.42,0:01:20.48,Default,,0,0,0,,dall'altra parte {\1c&HFF00&\u1}in{\r} cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:20.48,0:01:20.52,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:20.52,0:01:20.64,Default,,0,0,0,,dall'altra parte in {\1c&HFF00&\u1}cui{\r} parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:20.64,0:01:20.96,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:20.96,0:01:21.26,Default,,0,0,0,,dall'altra parte in cui {\1c&HFF00&\u1}parliamo{\r} di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.26,0:01:21.31,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.31,0:01:21.37,Default,,0,0,0,,dall'altra parte in cui parliamo {\1c&HFF00&\u1}di{\r} TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.37,0:01:21.41,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.41,0:01:21.91,Default,,0,0,0,,dall'altra parte in cui parliamo di {\1c&HFF00&\u1}TikTok{\r} in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.91,0:01:21.93,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.93,0:01:21.97,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok {\1c&HFF00&\u1}in{\r} maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.97,0:01:21.99,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:21.99,0:01:22.25,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in {\1c&HFF00&\u1}maniera{\r} molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:22.25,0:01:22.35,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:22.35,0:01:22.69,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera {\1c&HFF00&\u1}molto{\r} molto più approfondita. Ciao!
+Dialogue: 0,0:01:22.69,0:01:22.75,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:22.75,0:01:22.99,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto {\1c&HFF00&\u1}molto{\r} più approfondita. Ciao!
+Dialogue: 0,0:01:22.99,0:01:23.03,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:23.03,0:01:23.13,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto {\1c&HFF00&\u1}più{\r} approfondita. Ciao!
+Dialogue: 0,0:01:23.13,0:01:23.15,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:23.15,0:01:24.01,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più {\1c&HFF00&\u1}approfondita.{\r} Ciao!
+Dialogue: 0,0:01:24.01,0:01:24.03,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. Ciao!
+Dialogue: 0,0:01:24.03,0:01:24.21,Default,,0,0,0,,dall'altra parte in cui parliamo di TikTok in maniera molto molto più approfondita. {\1c&HFF00&\u1}Ciao!{\r}

@@ -1,0 +1,99 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.26,0:00:1.90,Default,,0,0,0,,{\1c&HFF00&\u1}Buongiorno{\r} a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:1.90,0:00:1.92,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:1.92,0:00:1.94,Default,,0,0,0,,Buongiorno {\1c&HFF00&\u1}a{\r} tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:1.94,0:00:2.02,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:2.02,0:00:2.33,Default,,0,0,0,,Buongiorno a {\1c&HFF00&\u1}tutti{\r} ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:2.33,0:00:2.39,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:2.39,0:00:2.91,Default,,0,0,0,,Buongiorno a tutti {\1c&HFF00&\u1}ragazzi{\r} buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:2.91,0:00:3.13,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:3.13,0:00:4.15,Default,,0,0,0,,Buongiorno a tutti ragazzi {\1c&HFF00&\u1}buongiorno{\r} e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:4.15,0:00:4.29,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:4.29,0:00:4.33,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno {\1c&HFF00&\u1}e{\r} benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:4.33,0:00:4.39,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:4.39,0:00:4.99,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e {\1c&HFF00&\u1}benvenuti{\r} in questo nuovo video è un
+Dialogue: 0,0:00:4.99,0:00:5.17,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:5.17,0:00:5.25,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti {\1c&HFF00&\u1}in{\r} questo nuovo video è un
+Dialogue: 0,0:00:5.25,0:00:5.35,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:5.35,0:00:5.67,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in {\1c&HFF00&\u1}questo{\r} nuovo video è un
+Dialogue: 0,0:00:5.67,0:00:5.75,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:5.75,0:00:6.17,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo {\1c&HFF00&\u1}nuovo{\r} video è un
+Dialogue: 0,0:00:6.17,0:00:6.39,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:6.39,0:00:6.81,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo {\1c&HFF00&\u1}video{\r} è un
+Dialogue: 0,0:00:6.81,0:00:7.12,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:7.12,0:00:7.20,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video {\1c&HFF00&\u1}è{\r} un
+Dialogue: 0,0:00:7.20,0:00:7.32,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è un
+Dialogue: 0,0:00:7.32,0:00:7.40,Default,,0,0,0,,Buongiorno a tutti ragazzi buongiorno e benvenuti in questo nuovo video è {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:7.28,0:00:8.18,Default,,0,0,0,,{\1c&HFF00&\u1}video{\r} che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:8.18,0:00:8.32,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:8.32,0:00:8.44,Default,,0,0,0,,video {\1c&HFF00&\u1}che{\r} io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:8.44,0:00:8.56,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:8.56,0:00:8.76,Default,,0,0,0,,video che {\1c&HFF00&\u1}io{\r} pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:8.76,0:00:9.08,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:9.08,0:00:9.57,Default,,0,0,0,,video che io {\1c&HFF00&\u1}pensavo{\r} di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:9.57,0:00:9.61,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:9.61,0:00:9.69,Default,,0,0,0,,video che io pensavo {\1c&HFF00&\u1}di{\r} fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:9.69,0:00:9.75,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:9.75,0:00:10.11,Default,,0,0,0,,video che io pensavo di {\1c&HFF00&\u1}fare{\r} da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:10.11,0:00:10.23,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:10.23,0:00:10.33,Default,,0,0,0,,video che io pensavo di fare {\1c&HFF00&\u1}da{\r} tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:10.33,0:00:10.37,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:10.37,0:00:11.09,Default,,0,0,0,,video che io pensavo di fare da {\1c&HFF00&\u1}tantissimo{\r} tempo ma non ho mai tra
+Dialogue: 0,0:00:11.09,0:00:11.15,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:11.15,0:00:11.61,Default,,0,0,0,,video che io pensavo di fare da tantissimo {\1c&HFF00&\u1}tempo{\r} ma non ho mai tra
+Dialogue: 0,0:00:11.61,0:00:11.87,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:11.87,0:00:12.09,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo {\1c&HFF00&\u1}ma{\r} non ho mai tra
+Dialogue: 0,0:00:12.09,0:00:12.61,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:12.61,0:00:12.73,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma {\1c&HFF00&\u1}non{\r} ho mai tra
+Dialogue: 0,0:00:12.73,0:00:12.75,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:12.75,0:00:12.85,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non {\1c&HFF00&\u1}ho{\r} mai tra
+Dialogue: 0,0:00:12.85,0:00:12.89,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:12.89,0:00:13.07,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho {\1c&HFF00&\u1}mai{\r} tra
+Dialogue: 0,0:00:13.07,0:00:13.11,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai tra
+Dialogue: 0,0:00:13.11,0:00:13.22,Default,,0,0,0,,video che io pensavo di fare da tantissimo tempo ma non ho mai {\1c&HFF00&\u1}tra{\r}
+Dialogue: 0,0:00:13.36,0:00:13.72,Default,,0,0,0,,{\1c&HFF00&\u1}virgolette{\r} trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:13.72,0:00:13.74,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:13.74,0:00:14.26,Default,,0,0,0,,virgolette {\1c&HFF00&\u1}trovato{\r} il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:14.26,0:00:14.28,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:14.28,0:00:14.36,Default,,0,0,0,,virgolette trovato {\1c&HFF00&\u1}il{\r} coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:14.36,0:00:14.42,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:14.42,0:00:14.79,Default,,0,0,0,,virgolette trovato il {\1c&HFF00&\u1}coraggio{\r} per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:14.79,0:00:14.83,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:14.83,0:00:14.95,Default,,0,0,0,,virgolette trovato il coraggio {\1c&HFF00&\u1}per{\r} farlo perché comunque un video molto molto
+Dialogue: 0,0:00:14.95,0:00:15.03,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:15.03,0:00:15.31,Default,,0,0,0,,virgolette trovato il coraggio per {\1c&HFF00&\u1}farlo{\r} perché comunque un video molto molto
+Dialogue: 0,0:00:15.31,0:00:15.33,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:15.33,0:00:15.53,Default,,0,0,0,,virgolette trovato il coraggio per farlo {\1c&HFF00&\u1}perché{\r} comunque un video molto molto
+Dialogue: 0,0:00:15.53,0:00:15.61,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:15.61,0:00:15.95,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché {\1c&HFF00&\u1}comunque{\r} un video molto molto
+Dialogue: 0,0:00:15.95,0:00:15.99,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:15.99,0:00:16.07,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque {\1c&HFF00&\u1}un{\r} video molto molto
+Dialogue: 0,0:00:16.07,0:00:16.09,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:16.09,0:00:16.29,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un {\1c&HFF00&\u1}video{\r} molto molto
+Dialogue: 0,0:00:16.29,0:00:16.35,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:16.35,0:00:16.57,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video {\1c&HFF00&\u1}molto{\r} molto
+Dialogue: 0,0:00:16.57,0:00:16.63,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto molto
+Dialogue: 0,0:00:16.63,0:00:16.85,Default,,0,0,0,,virgolette trovato il coraggio per farlo perché comunque un video molto {\1c&HFF00&\u1}molto{\r}
+Dialogue: 0,0:00:17.14,0:00:17.50,Default,,0,0,0,,{\1c&HFF00&\u1}schietto,{\r} ma soprattutto un po' pesantuccio.
+Dialogue: 0,0:00:17.50,0:00:18.02,Default,,0,0,0,,schietto, ma soprattutto un po' pesantuccio.
+Dialogue: 0,0:00:18.02,0:00:18.12,Default,,0,0,0,,schietto, {\1c&HFF00&\u1}ma{\r} soprattutto un po' pesantuccio.
+Dialogue: 0,0:00:18.12,0:00:18.22,Default,,0,0,0,,schietto, ma soprattutto un po' pesantuccio.
+Dialogue: 0,0:00:18.22,0:00:19.00,Default,,0,0,0,,schietto, ma {\1c&HFF00&\u1}soprattutto{\r} un po' pesantuccio.
+Dialogue: 0,0:00:19.00,0:00:19.24,Default,,0,0,0,,schietto, ma soprattutto un po' pesantuccio.
+Dialogue: 0,0:00:19.24,0:00:19.32,Default,,0,0,0,,schietto, ma soprattutto {\1c&HFF00&\u1}un{\r} po' pesantuccio.
+Dialogue: 0,0:00:19.32,0:00:19.40,Default,,0,0,0,,schietto, ma soprattutto un po' pesantuccio.
+Dialogue: 0,0:00:19.40,0:00:19.56,Default,,0,0,0,,schietto, ma soprattutto un {\1c&HFF00&\u1}po'{\r} pesantuccio.
+Dialogue: 0,0:00:19.56,0:00:19.89,Default,,0,0,0,,schietto, ma soprattutto un po' pesantuccio.
+Dialogue: 0,0:00:19.89,0:00:20.81,Default,,0,0,0,,schietto, ma soprattutto un po' {\1c&HFF00&\u1}pesantuccio.{\r}

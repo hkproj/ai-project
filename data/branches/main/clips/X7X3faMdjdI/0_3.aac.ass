@@ -1,0 +1,103 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.20,0:00:0.68,Default,,0,0,0,,{\1c&HFF00&\u1}Infatti{\r} ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:0.68,0:00:0.88,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:0.88,0:00:1.06,Default,,0,0,0,,Infatti {\1c&HFF00&\u1}ogni{\r} giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:1.06,0:00:1.14,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:1.14,0:00:1.56,Default,,0,0,0,,Infatti ogni {\1c&HFF00&\u1}giorno{\r} spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:1.56,0:00:1.64,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:1.64,0:00:2.23,Default,,0,0,0,,Infatti ogni giorno {\1c&HFF00&\u1}spendiamo{\r} tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:2.23,0:00:2.51,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:2.51,0:00:3.07,Default,,0,0,0,,Infatti ogni giorno spendiamo {\1c&HFF00&\u1}tantissimi{\r} soldi per fare la spesa al
+Dialogue: 0,0:00:3.07,0:00:3.15,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:3.15,0:00:3.65,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi {\1c&HFF00&\u1}soldi{\r} per fare la spesa al
+Dialogue: 0,0:00:3.65,0:00:3.81,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:3.81,0:00:4.13,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi {\1c&HFF00&\u1}per{\r} fare la spesa al
+Dialogue: 0,0:00:4.13,0:00:4.33,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:4.33,0:00:4.89,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per {\1c&HFF00&\u1}fare{\r} la spesa al
+Dialogue: 0,0:00:4.89,0:00:5.07,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:5.07,0:00:5.15,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare {\1c&HFF00&\u1}la{\r} spesa al
+Dialogue: 0,0:00:5.15,0:00:5.21,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:5.21,0:00:5.79,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la {\1c&HFF00&\u1}spesa{\r} al
+Dialogue: 0,0:00:5.79,0:00:5.95,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa al
+Dialogue: 0,0:00:5.95,0:00:6.04,Default,,0,0,0,,Infatti ogni giorno spendiamo tantissimi soldi per fare la spesa {\1c&HFF00&\u1}al{\r}
+Dialogue: 0,0:00:6.00,0:00:6.94,Default,,0,0,0,,{\1c&HFF00&\u1}supermercato,{\r} i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:6.94,0:00:7.06,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:7.06,0:00:7.12,Default,,0,0,0,,supermercato, {\1c&HFF00&\u1}i{\r} costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:7.12,0:00:7.20,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:7.20,0:00:7.72,Default,,0,0,0,,supermercato, i {\1c&HFF00&\u1}costi{\r} sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:7.72,0:00:8.29,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:8.29,0:00:8.67,Default,,0,0,0,,supermercato, i costi {\1c&HFF00&\u1}sono{\r} aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:8.67,0:00:8.89,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:8.89,0:00:9.89,Default,,0,0,0,,supermercato, i costi sono {\1c&HFF00&\u1}aumentati{\r} in modo inverosimile e quindi è
+Dialogue: 0,0:00:9.89,0:00:10.09,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:10.09,0:00:10.17,Default,,0,0,0,,supermercato, i costi sono aumentati {\1c&HFF00&\u1}in{\r} modo inverosimile e quindi è
+Dialogue: 0,0:00:10.17,0:00:10.25,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:10.25,0:00:10.61,Default,,0,0,0,,supermercato, i costi sono aumentati in {\1c&HFF00&\u1}modo{\r} inverosimile e quindi è
+Dialogue: 0,0:00:10.61,0:00:10.85,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:10.85,0:00:11.73,Default,,0,0,0,,supermercato, i costi sono aumentati in modo {\1c&HFF00&\u1}inverosimile{\r} e quindi è
+Dialogue: 0,0:00:11.73,0:00:12.13,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:12.13,0:00:12.17,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile {\1c&HFF00&\u1}e{\r} quindi è
+Dialogue: 0,0:00:12.17,0:00:12.31,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:12.31,0:00:12.69,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e {\1c&HFF00&\u1}quindi{\r} è
+Dialogue: 0,0:00:12.69,0:00:13.20,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi è
+Dialogue: 0,0:00:13.20,0:00:13.22,Default,,0,0,0,,supermercato, i costi sono aumentati in modo inverosimile e quindi {\1c&HFF00&\u1}è{\r}
+Dialogue: 0,0:00:13.34,0:00:14.14,Default,,0,0,0,,{\1c&HFF00&\u1}importante{\r} acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:14.14,0:00:14.38,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:14.38,0:00:15.27,Default,,0,0,0,,importante {\1c&HFF00&\u1}acquistare{\r} alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:15.27,0:00:15.51,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:15.51,0:00:16.15,Default,,0,0,0,,importante acquistare {\1c&HFF00&\u1}alimenti{\r} di qualità però è importante riuscire a
+Dialogue: 0,0:00:16.15,0:00:16.25,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:16.25,0:00:16.33,Default,,0,0,0,,importante acquistare alimenti {\1c&HFF00&\u1}di{\r} qualità però è importante riuscire a
+Dialogue: 0,0:00:16.33,0:00:16.41,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:16.41,0:00:16.95,Default,,0,0,0,,importante acquistare alimenti di {\1c&HFF00&\u1}qualità{\r} però è importante riuscire a
+Dialogue: 0,0:00:16.95,0:00:17.15,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:17.15,0:00:17.47,Default,,0,0,0,,importante acquistare alimenti di qualità {\1c&HFF00&\u1}però{\r} è importante riuscire a
+Dialogue: 0,0:00:17.47,0:00:17.67,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:17.67,0:00:17.71,Default,,0,0,0,,importante acquistare alimenti di qualità però {\1c&HFF00&\u1}è{\r} importante riuscire a
+Dialogue: 0,0:00:17.71,0:00:17.75,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:17.75,0:00:18.51,Default,,0,0,0,,importante acquistare alimenti di qualità però è {\1c&HFF00&\u1}importante{\r} riuscire a
+Dialogue: 0,0:00:18.51,0:00:18.65,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:18.65,0:00:19.07,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante {\1c&HFF00&\u1}riuscire{\r} a
+Dialogue: 0,0:00:19.07,0:00:19.10,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire a
+Dialogue: 0,0:00:19.10,0:00:19.12,Default,,0,0,0,,importante acquistare alimenti di qualità però è importante riuscire {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:19.60,0:00:19.68,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:19.68,0:00:19.70,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:19.70,0:00:20.04,Default,,0,0,0,,non {\1c&HFF00&\u1}spendere{\r} tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:20.04,0:00:20.10,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:20.10,0:00:20.36,Default,,0,0,0,,non spendere {\1c&HFF00&\u1}tutto{\r} lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:20.36,0:00:20.42,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:20.42,0:00:20.48,Default,,0,0,0,,non spendere tutto {\1c&HFF00&\u1}lo{\r} stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:20.48,0:00:20.52,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:20.52,0:00:21.28,Default,,0,0,0,,non spendere tutto lo {\1c&HFF00&\u1}stipendio{\r} per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:21.28,0:00:21.52,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:21.52,0:00:21.86,Default,,0,0,0,,non spendere tutto lo stipendio {\1c&HFF00&\u1}per{\r} gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:21.86,0:00:22.24,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:22.24,0:00:22.34,Default,,0,0,0,,non spendere tutto lo stipendio per {\1c&HFF00&\u1}gli{\r} alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:22.34,0:00:22.36,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:22.36,0:00:22.91,Default,,0,0,0,,non spendere tutto lo stipendio per gli {\1c&HFF00&\u1}alimenti{\r} di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:22.91,0:00:23.03,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:23.03,0:00:23.13,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti {\1c&HFF00&\u1}di{\r} qualità l'app di cui ti parlo
+Dialogue: 0,0:00:23.13,0:00:23.21,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:23.21,0:00:23.53,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di {\1c&HFF00&\u1}qualità{\r} l'app di cui ti parlo
+Dialogue: 0,0:00:23.53,0:00:23.55,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:23.55,0:00:23.63,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità {\1c&HFF00&\u1}l'app{\r} di cui ti parlo
+Dialogue: 0,0:00:23.63,0:00:23.65,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:23.65,0:00:23.69,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app {\1c&HFF00&\u1}di{\r} cui ti parlo
+Dialogue: 0,0:00:23.69,0:00:23.71,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:23.71,0:00:23.77,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di {\1c&HFF00&\u1}cui{\r} ti parlo
+Dialogue: 0,0:00:23.77,0:00:23.79,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:23.79,0:00:23.83,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui {\1c&HFF00&\u1}ti{\r} parlo
+Dialogue: 0,0:00:23.83,0:00:24.03,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti parlo
+Dialogue: 0,0:00:24.03,0:00:25.01,Default,,0,0,0,,non spendere tutto lo stipendio per gli alimenti di qualità l'app di cui ti {\1c&HFF00&\u1}parlo{\r}

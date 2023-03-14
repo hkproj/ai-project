@@ -1,0 +1,58 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}Come{\r} no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:0.54,0:00:0.56,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:0.56,0:00:1.55,Default,,0,0,0,,Come {\1c&HFF00&\u1}no?{\r} Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:1.55,0:00:1.63,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:1.63,0:00:2.05,Default,,0,0,0,,Come no? {\1c&HFF00&\u1}Claudio{\r} sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:2.05,0:00:2.13,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:2.13,0:00:2.31,Default,,0,0,0,,Come no? Claudio {\1c&HFF00&\u1}sarà{\r} aggiornato il corso? Certo.
+Dialogue: 0,0:00:2.31,0:00:2.33,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:2.33,0:00:2.83,Default,,0,0,0,,Come no? Claudio sarà {\1c&HFF00&\u1}aggiornato{\r} il corso? Certo.
+Dialogue: 0,0:00:2.83,0:00:2.89,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:2.89,0:00:2.95,Default,,0,0,0,,Come no? Claudio sarà aggiornato {\1c&HFF00&\u1}il{\r} corso? Certo.
+Dialogue: 0,0:00:2.95,0:00:2.99,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:2.99,0:00:3.31,Default,,0,0,0,,Come no? Claudio sarà aggiornato il {\1c&HFF00&\u1}corso?{\r} Certo.
+Dialogue: 0,0:00:3.31,0:00:3.41,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? Certo.
+Dialogue: 0,0:00:3.41,0:00:3.79,Default,,0,0,0,,Come no? Claudio sarà aggiornato il corso? {\1c&HFF00&\u1}Certo.{\r}
+Dialogue: 0,0:00:4.42,0:00:4.56,Default,,0,0,0,,{\1c&HFF00&\u1}Fare{\r} live di crescita su TikTok?
+Dialogue: 0,0:00:4.56,0:00:4.62,Default,,0,0,0,,Fare live di crescita su TikTok?
+Dialogue: 0,0:00:4.62,0:00:4.82,Default,,0,0,0,,Fare {\1c&HFF00&\u1}live{\r} di crescita su TikTok?
+Dialogue: 0,0:00:4.82,0:00:4.86,Default,,0,0,0,,Fare live di crescita su TikTok?
+Dialogue: 0,0:00:4.86,0:00:4.92,Default,,0,0,0,,Fare live {\1c&HFF00&\u1}di{\r} crescita su TikTok?
+Dialogue: 0,0:00:4.92,0:00:4.96,Default,,0,0,0,,Fare live di crescita su TikTok?
+Dialogue: 0,0:00:4.96,0:00:5.37,Default,,0,0,0,,Fare live di {\1c&HFF00&\u1}crescita{\r} su TikTok?
+Dialogue: 0,0:00:5.37,0:00:5.39,Default,,0,0,0,,Fare live di crescita su TikTok?
+Dialogue: 0,0:00:5.39,0:00:5.43,Default,,0,0,0,,Fare live di crescita {\1c&HFF00&\u1}su{\r} TikTok?
+Dialogue: 0,0:00:5.43,0:00:5.47,Default,,0,0,0,,Fare live di crescita su TikTok?
+Dialogue: 0,0:00:5.47,0:00:6.03,Default,,0,0,0,,Fare live di crescita su {\1c&HFF00&\u1}TikTok?{\r}
+Dialogue: 0,0:00:6.00,0:00:6.04,Default,,0,0,0,,{\1c&HFF00&\u1}Sì,{\r} guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.04,0:00:6.06,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.06,0:00:6.18,Default,,0,0,0,,Sì, {\1c&HFF00&\u1}guarda{\r} anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.18,0:00:6.20,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.20,0:00:6.28,Default,,0,0,0,,Sì, guarda {\1c&HFF00&\u1}anzi{\r} forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.28,0:00:6.30,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.30,0:00:6.40,Default,,0,0,0,,Sì, guarda anzi {\1c&HFF00&\u1}forse{\r} ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.40,0:00:6.42,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.42,0:00:6.46,Default,,0,0,0,,Sì, guarda anzi forse {\1c&HFF00&\u1}ne{\r} faccio una stasera, così così.
+Dialogue: 0,0:00:6.46,0:00:6.48,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.48,0:00:6.60,Default,,0,0,0,,Sì, guarda anzi forse ne {\1c&HFF00&\u1}faccio{\r} una stasera, così così.
+Dialogue: 0,0:00:6.60,0:00:6.62,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.62,0:00:6.68,Default,,0,0,0,,Sì, guarda anzi forse ne faccio {\1c&HFF00&\u1}una{\r} stasera, così così.
+Dialogue: 0,0:00:6.68,0:00:6.70,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.70,0:00:6.84,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una {\1c&HFF00&\u1}stasera,{\r} così così.
+Dialogue: 0,0:00:6.84,0:00:6.86,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.86,0:00:6.94,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, {\1c&HFF00&\u1}così{\r} così.
+Dialogue: 0,0:00:6.94,0:00:6.96,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così così.
+Dialogue: 0,0:00:6.96,0:00:7.04,Default,,0,0,0,,Sì, guarda anzi forse ne faccio una stasera, così {\1c&HFF00&\u1}così.{\r}

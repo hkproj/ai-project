@@ -1,0 +1,109 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}Dipende.{\r} Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:0.54,0:00:0.72,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,Dipende. {\1c&HFF00&\u1}Man{\r} mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:0.78,0:00:0.88,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:0.88,0:00:1.12,Default,,0,0,0,,Dipende. Man {\1c&HFF00&\u1}mano,{\r} forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.12,0:00:1.16,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.16,0:00:1.38,Default,,0,0,0,,Dipende. Man mano, {\1c&HFF00&\u1}forse{\r} fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.38,0:00:1.42,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.42,0:00:1.56,Default,,0,0,0,,Dipende. Man mano, forse {\1c&HFF00&\u1}fai{\r} un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.56,0:00:1.58,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.58,0:00:1.62,Default,,0,0,0,,Dipende. Man mano, forse fai {\1c&HFF00&\u1}un{\r} terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.62,0:00:1.64,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.64,0:00:1.93,Default,,0,0,0,,Dipende. Man mano, forse fai un {\1c&HFF00&\u1}terzo{\r} anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.93,0:00:1.99,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:1.99,0:00:2.11,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo {\1c&HFF00&\u1}anno{\r} un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.11,0:00:2.13,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.13,0:00:2.17,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno {\1c&HFF00&\u1}un{\r} po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.17,0:00:2.21,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.21,0:00:2.29,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un {\1c&HFF00&\u1}po'{\r} più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.29,0:00:2.33,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.33,0:00:2.41,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' {\1c&HFF00&\u1}più{\r} tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.41,0:00:2.51,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:2.51,0:00:3.13,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più {\1c&HFF00&\u1}tranquillo,{\r} arriva il quarto e dici
+Dialogue: 0,0:00:3.13,0:00:3.55,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:3.55,0:00:3.79,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, {\1c&HFF00&\u1}arriva{\r} il quarto e dici
+Dialogue: 0,0:00:3.79,0:00:3.81,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:3.81,0:00:3.87,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva {\1c&HFF00&\u1}il{\r} quarto e dici
+Dialogue: 0,0:00:3.87,0:00:3.91,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:3.91,0:00:4.23,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il {\1c&HFF00&\u1}quarto{\r} e dici
+Dialogue: 0,0:00:4.23,0:00:4.25,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:4.25,0:00:4.27,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto {\1c&HFF00&\u1}e{\r} dici
+Dialogue: 0,0:00:4.27,0:00:4.37,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e dici
+Dialogue: 0,0:00:4.37,0:00:4.67,Default,,0,0,0,,Dipende. Man mano, forse fai un terzo anno un po' più tranquillo, arriva il quarto e {\1c&HFF00&\u1}dici{\r}
+Dialogue: 0,0:00:5.00,0:00:5.08,Default,,0,0,0,,{\1c&HFF00&\u1}Eh,{\r} quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:5.08,0:00:5.16,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:5.16,0:00:5.72,Default,,0,0,0,,Eh, {\1c&HFF00&\u1}quest'anno{\r} mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:5.72,0:00:5.90,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:5.90,0:00:5.94,Default,,0,0,0,,Eh, quest'anno {\1c&HFF00&\u1}mi{\r} avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:5.94,0:00:6.00,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:6.00,0:00:6.20,Default,,0,0,0,,Eh, quest'anno mi {\1c&HFF00&\u1}avevo{\r} psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:6.20,0:00:6.34,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:6.34,0:00:6.71,Default,,0,0,0,,Eh, quest'anno mi avevo {\1c&HFF00&\u1}psinca 1{\r} e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:6.71,0:00:7.15,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:7.15,0:00:7.19,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 {\1c&HFF00&\u1}e{\r} psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:7.19,0:00:7.25,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:7.25,0:00:7.63,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e {\1c&HFF00&\u1}psinca 2{\r} e non vi dico che cos'erano
+Dialogue: 0,0:00:7.63,0:00:8.05,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:8.05,0:00:8.09,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 {\1c&HFF00&\u1}e{\r} non vi dico che cos'erano
+Dialogue: 0,0:00:8.09,0:00:8.15,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:8.15,0:00:8.27,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e {\1c&HFF00&\u1}non{\r} vi dico che cos'erano
+Dialogue: 0,0:00:8.27,0:00:8.31,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:8.31,0:00:8.39,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non {\1c&HFF00&\u1}vi{\r} dico che cos'erano
+Dialogue: 0,0:00:8.39,0:00:8.41,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:8.41,0:00:8.59,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi {\1c&HFF00&\u1}dico{\r} che cos'erano
+Dialogue: 0,0:00:8.59,0:00:8.63,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:8.63,0:00:8.75,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico {\1c&HFF00&\u1}che{\r} cos'erano
+Dialogue: 0,0:00:8.75,0:00:8.83,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che cos'erano
+Dialogue: 0,0:00:8.83,0:00:9.39,Default,,0,0,0,,Eh, quest'anno mi avevo psinca 1 e psinca 2 e non vi dico che {\1c&HFF00&\u1}cos'erano{\r}
+Dialogue: 0,0:00:9.58,0:00:9.84,Default,,0,0,0,,{\1c&HFF00&\u1}Perché{\r} sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:9.84,0:00:9.90,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:9.90,0:00:10.34,Default,,0,0,0,,Perché {\1c&HFF00&\u1}sennò{\r} vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.34,0:00:10.42,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.42,0:00:10.46,Default,,0,0,0,,Perché sennò {\1c&HFF00&\u1}vi{\r} mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.46,0:00:10.52,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.52,0:00:10.82,Default,,0,0,0,,Perché sennò vi {\1c&HFF00&\u1}mettete{\r} a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.82,0:00:10.84,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.84,0:00:10.86,Default,,0,0,0,,Perché sennò vi mettete {\1c&HFF00&\u1}a{\r} piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.86,0:00:10.95,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:10.95,0:00:11.31,Default,,0,0,0,,Perché sennò vi mettete a {\1c&HFF00&\u1}piangere{\r} e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.31,0:00:11.33,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.33,0:00:11.35,Default,,0,0,0,,Perché sennò vi mettete a piangere {\1c&HFF00&\u1}e{\r} vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.35,0:00:11.39,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.39,0:00:11.47,Default,,0,0,0,,Perché sennò vi mettete a piangere e {\1c&HFF00&\u1}vi{\r} dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.47,0:00:11.53,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.53,0:00:11.65,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi {\1c&HFF00&\u1}dico,{\r} cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.65,0:00:11.77,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:11.77,0:00:12.29,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, {\1c&HFF00&\u1}cancellate{\r} l'iscrizione medicina
+Dialogue: 0,0:00:12.29,0:00:12.37,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:12.37,0:00:12.91,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate {\1c&HFF00&\u1}l'iscrizione{\r} medicina
+Dialogue: 0,0:00:12.91,0:00:12.97,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione medicina
+Dialogue: 0,0:00:12.97,0:00:13.49,Default,,0,0,0,,Perché sennò vi mettete a piangere e vi dico, cancellate l'iscrizione {\1c&HFF00&\u1}medicina{\r}
+Dialogue: 0,0:00:13.68,0:00:13.78,Default,,0,0,0,,{\1c&HFF00&\u1}poi{\r} ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:13.78,0:00:13.80,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:13.80,0:00:13.88,Default,,0,0,0,,poi {\1c&HFF00&\u1}ti{\r} diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:13.88,0:00:13.92,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:13.92,0:00:14.44,Default,,0,0,0,,poi ti {\1c&HFF00&\u1}diranno{\r} dai tranquillo dopo è nato
+Dialogue: 0,0:00:14.44,0:00:14.64,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:14.64,0:00:14.90,Default,,0,0,0,,poi ti diranno {\1c&HFF00&\u1}dai{\r} tranquillo dopo è nato
+Dialogue: 0,0:00:14.90,0:00:14.92,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:14.92,0:00:15.49,Default,,0,0,0,,poi ti diranno dai {\1c&HFF00&\u1}tranquillo{\r} dopo è nato
+Dialogue: 0,0:00:15.49,0:00:15.57,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:15.57,0:00:15.81,Default,,0,0,0,,poi ti diranno dai tranquillo {\1c&HFF00&\u1}dopo{\r} è nato
+Dialogue: 0,0:00:15.81,0:00:15.85,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:15.85,0:00:15.89,Default,,0,0,0,,poi ti diranno dai tranquillo dopo {\1c&HFF00&\u1}è{\r} nato
+Dialogue: 0,0:00:15.89,0:00:15.91,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è nato
+Dialogue: 0,0:00:15.91,0:00:16.15,Default,,0,0,0,,poi ti diranno dai tranquillo dopo è {\1c&HFF00&\u1}nato{\r}

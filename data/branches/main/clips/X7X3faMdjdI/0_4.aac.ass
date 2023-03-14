@@ -1,0 +1,124 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.14,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}aiuta{\r} anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:0.48,0:00:0.62,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:0.62,0:00:0.78,Default,,0,0,0,,aiuta {\1c&HFF00&\u1}anche{\r} a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,aiuta anche {\1c&HFF00&\u1}a{\r} combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:0.88,0:00:0.92,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:0.92,0:00:1.80,Default,,0,0,0,,aiuta anche a {\1c&HFF00&\u1}combattere{\r} lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:1.80,0:00:1.89,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:1.89,0:00:1.97,Default,,0,0,0,,aiuta anche a combattere {\1c&HFF00&\u1}lo{\r} spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:1.97,0:00:2.01,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:2.01,0:00:2.41,Default,,0,0,0,,aiuta anche a combattere lo {\1c&HFF00&\u1}spreco{\r} alimentare. Questo servizio permette a
+Dialogue: 0,0:00:2.41,0:00:2.47,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:2.47,0:00:3.29,Default,,0,0,0,,aiuta anche a combattere lo spreco {\1c&HFF00&\u1}alimentare.{\r} Questo servizio permette a
+Dialogue: 0,0:00:3.29,0:00:3.57,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:3.57,0:00:3.81,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. {\1c&HFF00&\u1}Questo{\r} servizio permette a
+Dialogue: 0,0:00:3.81,0:00:3.89,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:3.89,0:00:4.49,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo {\1c&HFF00&\u1}servizio{\r} permette a
+Dialogue: 0,0:00:4.49,0:00:4.75,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:4.75,0:00:5.37,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio {\1c&HFF00&\u1}permette{\r} a
+Dialogue: 0,0:00:5.37,0:00:5.54,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette a
+Dialogue: 0,0:00:5.54,0:00:5.56,Default,,0,0,0,,aiuta anche a combattere lo spreco alimentare. Questo servizio permette {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:5.84,0:00:6.74,Default,,0,0,0,,{\1c&HFF00&\u1}ristoranti,{\r} bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:6.74,0:00:6.88,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:6.88,0:00:7.44,Default,,0,0,0,,ristoranti, {\1c&HFF00&\u1}bar,{\r} fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:7.44,0:00:7.57,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:7.57,0:00:8.65,Default,,0,0,0,,ristoranti, bar, {\1c&HFF00&\u1}fruttivendoli,{\r} supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:8.65,0:00:8.75,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:8.75,0:00:9.95,Default,,0,0,0,,ristoranti, bar, fruttivendoli, {\1c&HFF00&\u1}supermercati{\r} di mettere a prezzo ridotto
+Dialogue: 0,0:00:9.95,0:00:10.65,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:10.65,0:00:10.75,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati {\1c&HFF00&\u1}di{\r} mettere a prezzo ridotto
+Dialogue: 0,0:00:10.75,0:00:10.87,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:10.87,0:00:11.43,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di {\1c&HFF00&\u1}mettere{\r} a prezzo ridotto
+Dialogue: 0,0:00:11.43,0:00:11.51,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:11.51,0:00:11.55,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere {\1c&HFF00&\u1}a{\r} prezzo ridotto
+Dialogue: 0,0:00:11.55,0:00:11.65,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:11.65,0:00:11.96,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a {\1c&HFF00&\u1}prezzo{\r} ridotto
+Dialogue: 0,0:00:11.96,0:00:12.06,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo ridotto
+Dialogue: 0,0:00:12.06,0:00:12.62,Default,,0,0,0,,ristoranti, bar, fruttivendoli, supermercati di mettere a prezzo {\1c&HFF00&\u1}ridotto{\r}
+Dialogue: 0,0:00:13.08,0:00:13.18,Default,,0,0,0,,{\1c&HFF00&\u1}gli{\r} alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:13.18,0:00:13.22,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:13.22,0:00:13.84,Default,,0,0,0,,gli {\1c&HFF00&\u1}alimenti{\r} in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:13.84,0:00:14.06,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:14.06,0:00:14.18,Default,,0,0,0,,gli alimenti {\1c&HFF00&\u1}in{\r} venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:14.18,0:00:14.24,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:14.24,0:00:14.85,Default,,0,0,0,,gli alimenti in {\1c&HFF00&\u1}venduti{\r} a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:14.85,0:00:15.01,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:15.01,0:00:15.07,Default,,0,0,0,,gli alimenti in venduti {\1c&HFF00&\u1}a{\r} fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:15.07,0:00:15.19,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:15.19,0:00:15.41,Default,,0,0,0,,gli alimenti in venduti a {\1c&HFF00&\u1}fine{\r} giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:15.41,0:00:15.49,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:15.49,0:00:16.11,Default,,0,0,0,,gli alimenti in venduti a fine {\1c&HFF00&\u1}giornata,{\r} quindi sono alimenti super buoni però
+Dialogue: 0,0:00:16.11,0:00:16.29,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:16.29,0:00:16.71,Default,,0,0,0,,gli alimenti in venduti a fine giornata, {\1c&HFF00&\u1}quindi{\r} sono alimenti super buoni però
+Dialogue: 0,0:00:16.71,0:00:16.91,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:16.91,0:00:17.11,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi {\1c&HFF00&\u1}sono{\r} alimenti super buoni però
+Dialogue: 0,0:00:17.11,0:00:17.15,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:17.15,0:00:17.79,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono {\1c&HFF00&\u1}alimenti{\r} super buoni però
+Dialogue: 0,0:00:17.79,0:00:18.07,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:18.07,0:00:18.37,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti {\1c&HFF00&\u1}super{\r} buoni però
+Dialogue: 0,0:00:18.37,0:00:18.47,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:18.47,0:00:18.91,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super {\1c&HFF00&\u1}buoni{\r} però
+Dialogue: 0,0:00:18.91,0:00:19.32,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni però
+Dialogue: 0,0:00:19.32,0:00:19.48,Default,,0,0,0,,gli alimenti in venduti a fine giornata, quindi sono alimenti super buoni {\1c&HFF00&\u1}però{\r}
+Dialogue: 0,0:00:19.78,0:00:19.86,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:19.86,0:00:19.88,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:19.88,0:00:20.14,Default,,0,0,0,,che {\1c&HFF00&\u1}hai{\r} ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:20.14,0:00:20.30,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:20.30,0:00:20.40,Default,,0,0,0,,che hai {\1c&HFF00&\u1}ad{\r} un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:20.40,0:00:20.44,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:20.44,0:00:20.54,Default,,0,0,0,,che hai ad {\1c&HFF00&\u1}un{\r} prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:20.54,0:00:20.62,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:20.62,0:00:21.04,Default,,0,0,0,,che hai ad un {\1c&HFF00&\u1}prezzo{\r} inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:21.04,0:00:21.18,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:21.18,0:00:21.87,Default,,0,0,0,,che hai ad un prezzo {\1c&HFF00&\u1}inferiore{\r} rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:21.87,0:00:21.95,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:21.95,0:00:22.65,Default,,0,0,0,,che hai ad un prezzo inferiore {\1c&HFF00&\u1}rispetto{\r} ad averli acquistati la mattina.
+Dialogue: 0,0:00:22.65,0:00:22.83,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:22.83,0:00:22.95,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto {\1c&HFF00&\u1}ad{\r} averli acquistati la mattina.
+Dialogue: 0,0:00:22.95,0:00:23.07,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:23.07,0:00:23.39,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad {\1c&HFF00&\u1}averli{\r} acquistati la mattina.
+Dialogue: 0,0:00:23.39,0:00:23.43,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:23.43,0:00:24.29,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli {\1c&HFF00&\u1}acquistati{\r} la mattina.
+Dialogue: 0,0:00:24.29,0:00:24.51,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:24.51,0:00:24.57,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati {\1c&HFF00&\u1}la{\r} mattina.
+Dialogue: 0,0:00:24.57,0:00:24.63,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la mattina.
+Dialogue: 0,0:00:24.63,0:00:25.23,Default,,0,0,0,,che hai ad un prezzo inferiore rispetto ad averli acquistati la {\1c&HFF00&\u1}mattina.{\r}
+Dialogue: 0,0:00:25.58,0:00:25.66,Default,,0,0,0,,{\1c&HFF00&\u1}Gli{\r} utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:25.66,0:00:25.72,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:25.72,0:00:26.20,Default,,0,0,0,,Gli {\1c&HFF00&\u1}utenti{\r} possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:26.20,0:00:26.32,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:26.32,0:00:26.64,Default,,0,0,0,,Gli utenti {\1c&HFF00&\u1}possono{\r} andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:26.64,0:00:26.68,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:26.68,0:00:26.92,Default,,0,0,0,,Gli utenti possono {\1c&HFF00&\u1}andare{\r} sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:26.92,0:00:27.00,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:27.00,0:00:27.66,Default,,0,0,0,,Gli utenti possono andare {\1c&HFF00&\u1}sull'app{\r} scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:27.66,0:00:27.94,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:27.94,0:00:28.44,Default,,0,0,0,,Gli utenti possono andare sull'app {\1c&HFF00&\u1}scegliere{\r} il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:28.44,0:00:28.64,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:28.64,0:00:28.90,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere {\1c&HFF00&\u1}il{\r} punto vendita più vicino e acquistare
+Dialogue: 0,0:00:28.90,0:00:29.06,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:29.06,0:00:29.32,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il {\1c&HFF00&\u1}punto{\r} vendita più vicino e acquistare
+Dialogue: 0,0:00:29.32,0:00:29.38,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:29.38,0:00:29.72,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto {\1c&HFF00&\u1}vendita{\r} più vicino e acquistare
+Dialogue: 0,0:00:29.72,0:00:29.80,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:29.80,0:00:29.93,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita {\1c&HFF00&\u1}più{\r} vicino e acquistare
+Dialogue: 0,0:00:29.93,0:00:30.01,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:30.01,0:00:30.57,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più {\1c&HFF00&\u1}vicino{\r} e acquistare
+Dialogue: 0,0:00:30.57,0:00:30.79,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:30.79,0:00:30.87,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino {\1c&HFF00&\u1}e{\r} acquistare
+Dialogue: 0,0:00:30.87,0:00:30.97,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e acquistare
+Dialogue: 0,0:00:30.97,0:00:31.77,Default,,0,0,0,,Gli utenti possono andare sull'app scegliere il punto vendita più vicino e {\1c&HFF00&\u1}acquistare{\r}

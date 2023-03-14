@@ -1,0 +1,106 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}soldi{\r} che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:0.50,0:00:0.54,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:0.54,0:00:0.64,Default,,0,0,0,,soldi {\1c&HFF00&\u1}che{\r} testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:0.64,0:00:0.72,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:0.72,0:00:1.06,Default,,0,0,0,,soldi che {\1c&HFF00&\u1}testerò{\r} nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:1.06,0:00:1.10,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:1.10,0:00:1.26,Default,,0,0,0,,soldi che testerò {\1c&HFF00&\u1}nel{\r} futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:1.26,0:00:1.32,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:1.32,0:00:2.11,Default,,0,0,0,,soldi che testerò nel {\1c&HFF00&\u1}futuro.{\r} Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.11,0:00:2.15,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.15,0:00:2.35,Default,,0,0,0,,soldi che testerò nel futuro. {\1c&HFF00&\u1}Bene,{\r} a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.35,0:00:2.41,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.41,0:00:2.43,Default,,0,0,0,,soldi che testerò nel futuro. Bene, {\1c&HFF00&\u1}a{\r} questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.43,0:00:2.49,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.49,0:00:2.71,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a {\1c&HFF00&\u1}questo{\r} punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.71,0:00:2.77,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.77,0:00:2.99,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo {\1c&HFF00&\u1}punto{\r} iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:2.99,0:00:3.05,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:3.05,0:00:3.55,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto {\1c&HFF00&\u1}iniziamo.{\r} Questo metodo, questa tecnica
+Dialogue: 0,0:00:3.55,0:00:4.11,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:4.11,0:00:4.39,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. {\1c&HFF00&\u1}Questo{\r} metodo, questa tecnica
+Dialogue: 0,0:00:4.39,0:00:4.45,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:4.45,0:00:4.79,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo {\1c&HFF00&\u1}metodo,{\r} questa tecnica
+Dialogue: 0,0:00:4.79,0:00:4.83,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:4.83,0:00:5.09,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, {\1c&HFF00&\u1}questa{\r} tecnica
+Dialogue: 0,0:00:5.09,0:00:5.17,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa tecnica
+Dialogue: 0,0:00:5.17,0:00:5.65,Default,,0,0,0,,soldi che testerò nel futuro. Bene, a questo punto iniziamo. Questo metodo, questa {\1c&HFF00&\u1}tecnica{\r}
+Dialogue: 0,0:00:5.60,0:00:6.16,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:6.16,0:00:6.26,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:6.26,0:00:6.38,Default,,0,0,0,,che {\1c&HFF00&\u1}ho{\r} utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:6.38,0:00:6.44,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:6.44,0:00:6.86,Default,,0,0,0,,che ho {\1c&HFF00&\u1}utilizzato{\r} non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:6.86,0:00:6.88,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:6.88,0:00:7.00,Default,,0,0,0,,che ho utilizzato {\1c&HFF00&\u1}non{\r} è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:7.00,0:00:7.06,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:7.06,0:00:7.10,Default,,0,0,0,,che ho utilizzato non {\1c&HFF00&\u1}è{\r} innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:7.10,0:00:7.18,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:7.18,0:00:7.73,Default,,0,0,0,,che ho utilizzato non è {\1c&HFF00&\u1}innovativa,{\r} esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:7.73,0:00:8.17,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:8.17,0:00:8.51,Default,,0,0,0,,che ho utilizzato non è innovativa, {\1c&HFF00&\u1}esiste{\r} già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:8.51,0:00:8.63,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:8.63,0:00:8.81,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste {\1c&HFF00&\u1}già{\r} ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:8.81,0:00:9.25,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.25,0:00:9.31,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già {\1c&HFF00&\u1}ed{\r} ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.31,0:00:9.35,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.35,0:00:9.43,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed {\1c&HFF00&\u1}ha{\r} un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.43,0:00:9.47,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.47,0:00:9.57,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha {\1c&HFF00&\u1}un{\r} nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.57,0:00:9.63,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.63,0:00:9.93,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un {\1c&HFF00&\u1}nome.{\r} Ma ve lo dirò alla fine
+Dialogue: 0,0:00:9.93,0:00:10.21,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:10.21,0:00:10.27,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. {\1c&HFF00&\u1}Ma{\r} ve lo dirò alla fine
+Dialogue: 0,0:00:10.27,0:00:10.35,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:10.35,0:00:10.41,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma {\1c&HFF00&\u1}ve{\r} lo dirò alla fine
+Dialogue: 0,0:00:10.41,0:00:10.47,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:10.47,0:00:10.51,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve {\1c&HFF00&\u1}lo{\r} dirò alla fine
+Dialogue: 0,0:00:10.51,0:00:10.57,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:10.57,0:00:10.71,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo {\1c&HFF00&\u1}dirò{\r} alla fine
+Dialogue: 0,0:00:10.71,0:00:10.77,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:10.77,0:00:10.93,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò {\1c&HFF00&\u1}alla{\r} fine
+Dialogue: 0,0:00:10.93,0:00:11.01,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla fine
+Dialogue: 0,0:00:11.01,0:00:11.17,Default,,0,0,0,,che ho utilizzato non è innovativa, esiste già ed ha un nome. Ma ve lo dirò alla {\1c&HFF00&\u1}fine{\r}
+Dialogue: 0,0:00:11.12,0:00:11.58,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:11.58,0:00:11.66,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:11.66,0:00:11.74,Default,,0,0,0,,perché {\1c&HFF00&\u1}se{\r} lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:11.74,0:00:11.78,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:11.78,0:00:11.90,Default,,0,0,0,,perché se {\1c&HFF00&\u1}lo{\r} andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:11.90,0:00:11.96,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:11.96,0:00:12.18,Default,,0,0,0,,perché se lo {\1c&HFF00&\u1}andate{\r} a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.18,0:00:12.22,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.22,0:00:12.24,Default,,0,0,0,,perché se lo andate {\1c&HFF00&\u1}a{\r} cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.24,0:00:12.34,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.34,0:00:12.69,Default,,0,0,0,,perché se lo andate a {\1c&HFF00&\u1}cercare{\r} su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.69,0:00:12.77,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.77,0:00:12.87,Default,,0,0,0,,perché se lo andate a cercare {\1c&HFF00&\u1}su{\r} Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.87,0:00:12.97,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:12.97,0:00:13.29,Default,,0,0,0,,perché se lo andate a cercare su {\1c&HFF00&\u1}Google,{\r} vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:13.29,0:00:13.63,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:13.63,0:00:13.69,Default,,0,0,0,,perché se lo andate a cercare su Google, {\1c&HFF00&\u1}vi{\r} si apre un mondo e vi cominci...
+Dialogue: 0,0:00:13.69,0:00:13.77,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:13.77,0:00:13.89,Default,,0,0,0,,perché se lo andate a cercare su Google, vi {\1c&HFF00&\u1}si{\r} apre un mondo e vi cominci...
+Dialogue: 0,0:00:13.89,0:00:13.95,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:13.95,0:00:14.13,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si {\1c&HFF00&\u1}apre{\r} un mondo e vi cominci...
+Dialogue: 0,0:00:14.13,0:00:14.21,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:14.21,0:00:14.31,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre {\1c&HFF00&\u1}un{\r} mondo e vi cominci...
+Dialogue: 0,0:00:14.31,0:00:14.35,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:14.35,0:00:14.53,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un {\1c&HFF00&\u1}mondo{\r} e vi cominci...
+Dialogue: 0,0:00:14.53,0:00:14.55,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:14.55,0:00:14.57,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo {\1c&HFF00&\u1}e{\r} vi cominci...
+Dialogue: 0,0:00:14.57,0:00:14.59,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:14.59,0:00:14.65,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e {\1c&HFF00&\u1}vi{\r} cominci...
+Dialogue: 0,0:00:14.65,0:00:14.79,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi cominci...
+Dialogue: 0,0:00:14.79,0:00:15.10,Default,,0,0,0,,perché se lo andate a cercare su Google, vi si apre un mondo e vi {\1c&HFF00&\u1}cominci...{\r}

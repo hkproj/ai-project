@@ -1,0 +1,233 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.20,0:00:0.44,Default,,0,0,0,,{\1c&HFF00&\u1}Pararsi{\r} al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:0.44,0:00:0.52,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:0.52,0:00:0.60,Default,,0,0,0,,Pararsi {\1c&HFF00&\u1}al{\r} test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:0.60,0:00:0.64,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:0.64,0:00:0.82,Default,,0,0,0,,Pararsi al {\1c&HFF00&\u1}test{\r} perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:0.82,0:00:0.86,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:0.86,0:00:1.04,Default,,0,0,0,,Pararsi al test {\1c&HFF00&\u1}perché{\r} comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:1.04,0:00:1.10,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:1.10,0:00:1.53,Default,,0,0,0,,Pararsi al test perché {\1c&HFF00&\u1}comporta{\r} ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:1.53,0:00:1.57,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:1.57,0:00:1.95,Default,,0,0,0,,Pararsi al test perché comporta {\1c&HFF00&\u1}ovviamente{\r} degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:1.95,0:00:1.99,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:1.99,0:00:2.21,Default,,0,0,0,,Pararsi al test perché comporta ovviamente {\1c&HFF00&\u1}degli{\r} impegno oltre poi ovviamente
+Dialogue: 0,0:00:2.21,0:00:2.23,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:2.23,0:00:2.83,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli {\1c&HFF00&\u1}impegno{\r} oltre poi ovviamente
+Dialogue: 0,0:00:2.83,0:00:3.21,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:3.21,0:00:3.47,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno {\1c&HFF00&\u1}oltre{\r} poi ovviamente
+Dialogue: 0,0:00:3.47,0:00:3.53,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:3.53,0:00:3.63,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre {\1c&HFF00&\u1}poi{\r} ovviamente
+Dialogue: 0,0:00:3.63,0:00:3.67,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi ovviamente
+Dialogue: 0,0:00:3.67,0:00:4.05,Default,,0,0,0,,Pararsi al test perché comporta ovviamente degli impegno oltre poi {\1c&HFF00&\u1}ovviamente{\r}
+Dialogue: 0,0:00:4.48,0:00:4.78,Default,,0,0,0,,{\1c&HFF00&\u1}L'averlo{\r} superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:4.78,0:00:4.82,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:4.82,0:00:5.20,Default,,0,0,0,,L'averlo {\1c&HFF00&\u1}superato{\r} meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:5.20,0:00:5.28,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:5.28,0:00:5.62,Default,,0,0,0,,L'averlo superato {\1c&HFF00&\u1}meno{\r} quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:5.62,0:00:5.82,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:5.82,0:00:5.98,Default,,0,0,0,,L'averlo superato meno {\1c&HFF00&\u1}quindi{\r} ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:5.98,0:00:6.00,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.00,0:00:6.04,Default,,0,0,0,,L'averlo superato meno quindi {\1c&HFF00&\u1}ho{\r} deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.04,0:00:6.07,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.07,0:00:6.29,Default,,0,0,0,,L'averlo superato meno quindi ho {\1c&HFF00&\u1}deciso{\r} di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.29,0:00:6.31,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.31,0:00:6.35,Default,,0,0,0,,L'averlo superato meno quindi ho deciso {\1c&HFF00&\u1}di{\r} fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.35,0:00:6.39,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.39,0:00:6.57,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di {\1c&HFF00&\u1}fare{\r} questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.57,0:00:6.63,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.63,0:00:6.89,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare {\1c&HFF00&\u1}questo{\r} video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.89,0:00:6.97,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:6.97,0:00:7.27,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo {\1c&HFF00&\u1}video{\r} dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:7.27,0:00:7.61,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:7.61,0:00:8.09,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video {\1c&HFF00&\u1}dicendovi{\r} le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.09,0:00:8.17,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.17,0:00:8.23,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi {\1c&HFF00&\u1}le{\r} mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.23,0:00:8.31,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.31,0:00:8.49,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le {\1c&HFF00&\u1}mie{\r} cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.49,0:00:8.59,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.59,0:00:8.93,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie {\1c&HFF00&\u1}cinque{\r} verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.93,0:00:8.97,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:8.97,0:00:9.27,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque {\1c&HFF00&\u1}verità{\r} che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:9.27,0:00:9.31,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:9.31,0:00:9.39,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità {\1c&HFF00&\u1}che{\r} avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:9.39,0:00:9.43,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:9.43,0:00:9.57,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che {\1c&HFF00&\u1}avrei{\r} voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:9.57,0:00:9.59,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:9.59,0:00:9.77,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei {\1c&HFF00&\u1}voluto{\r} sapere prima di studiare medicina
+Dialogue: 0,0:00:9.77,0:00:9.81,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:9.81,0:00:10.11,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto {\1c&HFF00&\u1}sapere{\r} prima di studiare medicina
+Dialogue: 0,0:00:10.11,0:00:10.17,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:10.17,0:00:10.37,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere {\1c&HFF00&\u1}prima{\r} di studiare medicina
+Dialogue: 0,0:00:10.37,0:00:10.41,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:10.41,0:00:10.47,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima {\1c&HFF00&\u1}di{\r} studiare medicina
+Dialogue: 0,0:00:10.47,0:00:10.51,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:10.51,0:00:10.84,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di {\1c&HFF00&\u1}studiare{\r} medicina
+Dialogue: 0,0:00:10.84,0:00:10.90,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare medicina
+Dialogue: 0,0:00:10.90,0:00:11.46,Default,,0,0,0,,L'averlo superato meno quindi ho deciso di fare questo video dicendovi le mie cinque verità che avrei voluto sapere prima di studiare {\1c&HFF00&\u1}medicina{\r}
+Dialogue: 0,0:00:11.74,0:00:11.82,Default,,0,0,0,,{\1c&HFF00&\u1}Io{\r} però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:11.82,0:00:11.88,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:11.88,0:00:12.08,Default,,0,0,0,,Io {\1c&HFF00&\u1}però{\r} come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:12.08,0:00:12.12,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:12.12,0:00:12.28,Default,,0,0,0,,Io però {\1c&HFF00&\u1}come{\r} sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:12.28,0:00:12.36,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:12.36,0:00:12.64,Default,,0,0,0,,Io però come {\1c&HFF00&\u1}sempre{\r} ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:12.64,0:00:12.68,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:12.68,0:00:13.02,Default,,0,0,0,,Io però come sempre {\1c&HFF00&\u1}ragazzi{\r} invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.02,0:00:13.09,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.09,0:00:13.35,Default,,0,0,0,,Io però come sempre ragazzi {\1c&HFF00&\u1}invito{\r} a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.35,0:00:13.37,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.37,0:00:13.39,Default,,0,0,0,,Io però come sempre ragazzi invito {\1c&HFF00&\u1}a{\r} iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.39,0:00:13.47,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.47,0:00:13.93,Default,,0,0,0,,Io però come sempre ragazzi invito a {\1c&HFF00&\u1}iscrivervi{\r} al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.93,0:00:13.97,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:13.97,0:00:14.07,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi {\1c&HFF00&\u1}al{\r} canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:14.07,0:00:14.11,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:14.11,0:00:14.57,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al {\1c&HFF00&\u1}canale{\r} mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:14.57,0:00:14.73,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:14.73,0:00:14.85,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale {\1c&HFF00&\u1}mi{\r} raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:14.85,0:00:14.89,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:14.89,0:00:15.43,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi {\1c&HFF00&\u1}raccomando{\r} attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:15.43,0:00:15.45,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:15.45,0:00:15.83,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando {\1c&HFF00&\u1}attivando{\r} anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:15.83,0:00:15.87,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:15.87,0:00:16.05,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando {\1c&HFF00&\u1}anche{\r} la campanella risulta essere fondamentale
+Dialogue: 0,0:00:16.05,0:00:16.11,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:16.11,0:00:16.17,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche {\1c&HFF00&\u1}la{\r} campanella risulta essere fondamentale
+Dialogue: 0,0:00:16.17,0:00:16.19,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:16.19,0:00:16.67,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la {\1c&HFF00&\u1}campanella{\r} risulta essere fondamentale
+Dialogue: 0,0:00:16.67,0:00:16.71,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:16.71,0:00:16.99,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella {\1c&HFF00&\u1}risulta{\r} essere fondamentale
+Dialogue: 0,0:00:16.99,0:00:17.01,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:17.01,0:00:17.26,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta {\1c&HFF00&\u1}essere{\r} fondamentale
+Dialogue: 0,0:00:17.26,0:00:17.32,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere fondamentale
+Dialogue: 0,0:00:17.32,0:00:18.16,Default,,0,0,0,,Io però come sempre ragazzi invito a iscrivervi al canale mi raccomando attivando anche la campanella risulta essere {\1c&HFF00&\u1}fondamentale{\r}
+Dialogue: 0,0:00:18.56,0:00:19.14,Default,,0,0,0,,{\1c&HFF00&\u1}Sostenetevi{\r} con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:19.14,0:00:19.16,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:19.16,0:00:19.34,Default,,0,0,0,,Sostenetevi {\1c&HFF00&\u1}con{\r} un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:19.34,0:00:19.36,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:19.36,0:00:19.46,Default,,0,0,0,,Sostenetevi con {\1c&HFF00&\u1}un{\r} like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:19.46,0:00:19.52,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:19.52,0:00:19.98,Default,,0,0,0,,Sostenetevi con un {\1c&HFF00&\u1}like{\r} anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:19.98,0:00:20.35,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:20.35,0:00:20.65,Default,,0,0,0,,Sostenetevi con un like {\1c&HFF00&\u1}anzi{\r} facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:20.65,0:00:20.71,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:20.71,0:00:21.07,Default,,0,0,0,,Sostenetevi con un like anzi {\1c&HFF00&\u1}facciamo{\r} un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:21.07,0:00:21.11,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:21.11,0:00:21.45,Default,,0,0,0,,Sostenetevi con un like anzi facciamo {\1c&HFF00&\u1}un'altra{\r} cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:21.45,0:00:21.53,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:21.53,0:00:21.89,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra {\1c&HFF00&\u1}cosa{\r} se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:21.89,0:00:22.15,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:22.15,0:00:22.27,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa {\1c&HFF00&\u1}se{\r} raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:22.27,0:00:22.35,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:22.35,0:00:22.93,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se {\1c&HFF00&\u1}raggiungiamo{\r} i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:22.93,0:00:22.95,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:22.95,0:00:22.97,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo {\1c&HFF00&\u1}i 500{\r} like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:22.97,0:00:23.63,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:23.63,0:00:23.95,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 {\1c&HFF00&\u1}like{\r} per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:23.95,0:00:23.99,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:23.99,0:00:24.11,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like {\1c&HFF00&\u1}per{\r} questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:24.11,0:00:24.19,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:24.19,0:00:24.49,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per {\1c&HFF00&\u1}questo{\r} video vi pubblico le 10 cose
+Dialogue: 0,0:00:24.49,0:00:24.55,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:24.55,0:00:24.95,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo {\1c&HFF00&\u1}video{\r} vi pubblico le 10 cose
+Dialogue: 0,0:00:24.95,0:00:25.17,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:25.17,0:00:25.27,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video {\1c&HFF00&\u1}vi{\r} pubblico le 10 cose
+Dialogue: 0,0:00:25.27,0:00:25.35,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:25.35,0:00:25.85,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi {\1c&HFF00&\u1}pubblico{\r} le 10 cose
+Dialogue: 0,0:00:25.85,0:00:26.00,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:26.00,0:00:26.10,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico {\1c&HFF00&\u1}le 10{\r} cose
+Dialogue: 0,0:00:26.10,0:00:26.70,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 cose
+Dialogue: 0,0:00:26.70,0:00:27.04,Default,,0,0,0,,Sostenetevi con un like anzi facciamo un'altra cosa se raggiungiamo i 500 like per questo video vi pubblico le 10 {\1c&HFF00&\u1}cose{\r}
+Dialogue: 0,0:00:27.20,0:00:27.28,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:27.28,0:00:27.32,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:27.32,0:00:27.48,Default,,0,0,0,,che {\1c&HFF00&\u1}avrei{\r} voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:27.48,0:00:27.50,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:27.50,0:00:27.70,Default,,0,0,0,,che avrei {\1c&HFF00&\u1}voluto{\r} sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:27.70,0:00:27.74,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:27.74,0:00:28.02,Default,,0,0,0,,che avrei voluto {\1c&HFF00&\u1}sapere{\r} prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.02,0:00:28.10,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.10,0:00:28.38,Default,,0,0,0,,che avrei voluto sapere {\1c&HFF00&\u1}prima{\r} di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.38,0:00:28.44,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.44,0:00:28.50,Default,,0,0,0,,che avrei voluto sapere prima {\1c&HFF00&\u1}di{\r} studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.50,0:00:28.54,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.54,0:00:28.90,Default,,0,0,0,,che avrei voluto sapere prima di {\1c&HFF00&\u1}studiare{\r} medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.90,0:00:28.96,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:28.96,0:00:29.59,Default,,0,0,0,,che avrei voluto sapere prima di studiare {\1c&HFF00&\u1}medicina{\r} e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:29.59,0:00:29.81,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:29.81,0:00:29.85,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina {\1c&HFF00&\u1}e{\r} poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:29.85,0:00:29.95,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:29.95,0:00:30.13,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e {\1c&HFF00&\u1}poi{\r} mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:30.13,0:00:30.17,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:30.17,0:00:30.23,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi {\1c&HFF00&\u1}mi{\r} raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:30.23,0:00:30.27,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:30.27,0:00:30.71,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi {\1c&HFF00&\u1}raccomando{\r} commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:30.71,0:00:30.77,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:30.77,0:00:31.15,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando {\1c&HFF00&\u1}commentate{\r} qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:31.15,0:00:31.19,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:31.19,0:00:31.29,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate {\1c&HFF00&\u1}qua{\r} sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:31.29,0:00:31.37,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:31.37,0:00:31.73,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua {\1c&HFF00&\u1}sotto{\r} se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:31.73,0:00:31.83,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:31.83,0:00:31.93,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto {\1c&HFF00&\u1}se{\r} voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:31.93,0:00:32.11,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:32.11,0:00:32.23,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se {\1c&HFF00&\u1}voi{\r} siete studenti di medicina e avete altre
+Dialogue: 0,0:00:32.23,0:00:32.27,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:32.27,0:00:32.49,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi {\1c&HFF00&\u1}siete{\r} studenti di medicina e avete altre
+Dialogue: 0,0:00:32.49,0:00:32.51,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:32.51,0:00:32.83,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete {\1c&HFF00&\u1}studenti{\r} di medicina e avete altre
+Dialogue: 0,0:00:32.83,0:00:32.87,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:32.87,0:00:32.93,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti {\1c&HFF00&\u1}di{\r} medicina e avete altre
+Dialogue: 0,0:00:32.93,0:00:32.97,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:32.97,0:00:33.37,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di {\1c&HFF00&\u1}medicina{\r} e avete altre
+Dialogue: 0,0:00:33.37,0:00:33.39,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:33.39,0:00:33.41,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina {\1c&HFF00&\u1}e{\r} avete altre
+Dialogue: 0,0:00:33.41,0:00:33.43,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:33.43,0:00:33.70,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e {\1c&HFF00&\u1}avete{\r} altre
+Dialogue: 0,0:00:33.70,0:00:33.74,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete altre
+Dialogue: 0,0:00:33.74,0:00:33.98,Default,,0,0,0,,che avrei voluto sapere prima di studiare medicina e poi mi raccomando commentate qua sotto se voi siete studenti di medicina e avete {\1c&HFF00&\u1}altre{\r}
+Dialogue: 0,0:00:33.90,0:00:34.02,Default,,0,0,0,,{\1c&HFF00&\u1}verità{\r} così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.02,0:00:34.04,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.04,0:00:34.12,Default,,0,0,0,,verità {\1c&HFF00&\u1}così{\r} magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.12,0:00:34.14,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.14,0:00:34.26,Default,,0,0,0,,verità così {\1c&HFF00&\u1}magari{\r} per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.26,0:00:34.28,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.28,0:00:34.34,Default,,0,0,0,,verità così magari {\1c&HFF00&\u1}per{\r} il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.34,0:00:34.36,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.36,0:00:34.40,Default,,0,0,0,,verità così magari per {\1c&HFF00&\u1}il{\r} prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.40,0:00:34.42,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.42,0:00:34.58,Default,,0,0,0,,verità così magari per il {\1c&HFF00&\u1}prossimo{\r} video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.58,0:00:34.60,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.60,0:00:34.70,Default,,0,0,0,,verità così magari per il prossimo {\1c&HFF00&\u1}video{\r} le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.70,0:00:34.72,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.72,0:00:34.76,Default,,0,0,0,,verità così magari per il prossimo video {\1c&HFF00&\u1}le{\r} inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.76,0:00:34.78,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:34.78,0:00:35.01,Default,,0,0,0,,verità così magari per il prossimo video le {\1c&HFF00&\u1}inizierà{\r} a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.01,0:00:35.03,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.03,0:00:35.05,Default,,0,0,0,,verità così magari per il prossimo video le inizierà {\1c&HFF00&\u1}a{\r} cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.05,0:00:35.11,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.11,0:00:35.27,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a {\1c&HFF00&\u1}cogliere{\r} e adesso via con la sigla
+Dialogue: 0,0:00:35.27,0:00:35.29,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.29,0:00:35.33,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere {\1c&HFF00&\u1}e{\r} adesso via con la sigla
+Dialogue: 0,0:00:35.33,0:00:35.35,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.35,0:00:35.59,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e {\1c&HFF00&\u1}adesso{\r} via con la sigla
+Dialogue: 0,0:00:35.59,0:00:35.65,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.65,0:00:35.73,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso {\1c&HFF00&\u1}via{\r} con la sigla
+Dialogue: 0,0:00:35.73,0:00:35.75,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.75,0:00:35.83,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via {\1c&HFF00&\u1}con{\r} la sigla
+Dialogue: 0,0:00:35.83,0:00:35.91,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.91,0:00:35.95,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con {\1c&HFF00&\u1}la{\r} sigla
+Dialogue: 0,0:00:35.95,0:00:35.97,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la sigla
+Dialogue: 0,0:00:35.97,0:00:36.07,Default,,0,0,0,,verità così magari per il prossimo video le inizierà a cogliere e adesso via con la {\1c&HFF00&\u1}sigla{\r}

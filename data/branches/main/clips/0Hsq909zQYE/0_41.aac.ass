@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:1.10,Default,,0,0,0,,{\1c&HFF00&\u1}Patologica{\r} e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:1.10,0:00:1.26,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:1.26,0:00:1.37,Default,,0,0,0,,Patologica {\1c&HFF00&\u1}e{\r} tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:1.37,0:00:1.59,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:1.59,0:00:1.97,Default,,0,0,0,,Patologica e {\1c&HFF00&\u1}tutto{\r} finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:1.97,0:00:2.09,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:2.09,0:00:2.51,Default,,0,0,0,,Patologica e tutto {\1c&HFF00&\u1}finito{\r} le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:2.51,0:00:2.59,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:2.59,0:00:2.69,Default,,0,0,0,,Patologica e tutto finito {\1c&HFF00&\u1}le{\r} materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:2.69,0:00:2.77,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:2.77,0:00:3.23,Default,,0,0,0,,Patologica e tutto finito le {\1c&HFF00&\u1}materie{\r} difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:3.23,0:00:3.29,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:3.29,0:00:3.98,Default,,0,0,0,,Patologica e tutto finito le materie {\1c&HFF00&\u1}difficili{\r} sono già fatte e tu dirai
+Dialogue: 0,0:00:3.98,0:00:4.38,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:4.38,0:00:4.58,Default,,0,0,0,,Patologica e tutto finito le materie difficili {\1c&HFF00&\u1}sono{\r} già fatte e tu dirai
+Dialogue: 0,0:00:4.58,0:00:4.66,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:4.66,0:00:4.78,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono {\1c&HFF00&\u1}già{\r} fatte e tu dirai
+Dialogue: 0,0:00:4.78,0:00:4.84,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:4.84,0:00:5.24,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già {\1c&HFF00&\u1}fatte{\r} e tu dirai
+Dialogue: 0,0:00:5.24,0:00:5.40,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:5.40,0:00:5.44,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte {\1c&HFF00&\u1}e{\r} tu dirai
+Dialogue: 0,0:00:5.44,0:00:5.50,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:5.50,0:00:5.60,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e {\1c&HFF00&\u1}tu{\r} dirai
+Dialogue: 0,0:00:5.60,0:00:5.62,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu dirai
+Dialogue: 0,0:00:5.62,0:00:5.94,Default,,0,0,0,,Patologica e tutto finito le materie difficili sono già fatte e tu {\1c&HFF00&\u1}dirai{\r}

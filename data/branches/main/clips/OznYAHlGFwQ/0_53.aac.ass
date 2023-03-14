@@ -1,0 +1,292 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.46,0:00:0.84,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:0.84,0:00:1.50,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:1.50,0:00:1.56,Default,,0,0,0,,perché {\1c&HFF00&\u1}si{\r} può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:1.56,0:00:1.62,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:1.62,0:00:1.72,Default,,0,0,0,,perché si {\1c&HFF00&\u1}può{\r} arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:1.72,0:00:1.76,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:1.76,0:00:2.07,Default,,0,0,0,,perché si può {\1c&HFF00&\u1}arrivare{\r} un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.07,0:00:2.11,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.11,0:00:2.17,Default,,0,0,0,,perché si può arrivare {\1c&HFF00&\u1}un{\r} momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.17,0:00:2.19,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.19,0:00:2.43,Default,,0,0,0,,perché si può arrivare un {\1c&HFF00&\u1}momento{\r} di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.43,0:00:2.47,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.47,0:00:2.55,Default,,0,0,0,,perché si può arrivare un momento {\1c&HFF00&\u1}di{\r} stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.55,0:00:2.59,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.59,0:00:2.99,Default,,0,0,0,,perché si può arrivare un momento di {\1c&HFF00&\u1}stallo,{\r} ma deve... ecco perché è importante
+Dialogue: 0,0:00:2.99,0:00:3.55,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:3.55,0:00:3.73,Default,,0,0,0,,perché si può arrivare un momento di stallo, {\1c&HFF00&\u1}ma{\r} deve... ecco perché è importante
+Dialogue: 0,0:00:3.73,0:00:4.31,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:4.31,0:00:4.57,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma {\1c&HFF00&\u1}deve...{\r} ecco perché è importante
+Dialogue: 0,0:00:4.57,0:00:5.03,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:5.03,0:00:5.23,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... {\1c&HFF00&\u1}ecco{\r} perché è importante
+Dialogue: 0,0:00:5.23,0:00:5.27,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:5.27,0:00:5.47,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco {\1c&HFF00&\u1}perché{\r} è importante
+Dialogue: 0,0:00:5.47,0:00:5.49,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:5.49,0:00:5.51,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché {\1c&HFF00&\u1}è{\r} importante
+Dialogue: 0,0:00:5.51,0:00:5.55,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è importante
+Dialogue: 0,0:00:5.55,0:00:5.95,Default,,0,0,0,,perché si può arrivare un momento di stallo, ma deve... ecco perché è {\1c&HFF00&\u1}importante{\r}
+Dialogue: 0,0:00:5.96,0:00:6.18,Default,,0,0,0,,{\1c&HFF00&\u1}lo{\r} studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:6.18,0:00:6.20,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:6.20,0:00:6.38,Default,,0,0,0,,lo {\1c&HFF00&\u1}studio{\r} preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:6.38,0:00:6.42,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:6.42,0:00:7.08,Default,,0,0,0,,lo studio {\1c&HFF00&\u1}preliminare.{\r} Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.08,0:00:7.10,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.10,0:00:7.18,Default,,0,0,0,,lo studio preliminare. {\1c&HFF00&\u1}Io{\r} quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.18,0:00:7.20,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.20,0:00:7.40,Default,,0,0,0,,lo studio preliminare. Io {\1c&HFF00&\u1}quando{\r} faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.40,0:00:7.44,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.44,0:00:7.65,Default,,0,0,0,,lo studio preliminare. Io quando {\1c&HFF00&\u1}faccio{\r} il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.65,0:00:7.69,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.69,0:00:7.75,Default,,0,0,0,,lo studio preliminare. Io quando faccio {\1c&HFF00&\u1}il{\r} mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.75,0:00:7.79,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.79,0:00:7.87,Default,,0,0,0,,lo studio preliminare. Io quando faccio il {\1c&HFF00&\u1}mio{\r} studio preliminare capisco quando
+Dialogue: 0,0:00:7.87,0:00:7.93,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:7.93,0:00:8.17,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio {\1c&HFF00&\u1}studio{\r} preliminare capisco quando
+Dialogue: 0,0:00:8.17,0:00:8.19,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:8.19,0:00:8.77,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio {\1c&HFF00&\u1}preliminare{\r} capisco quando
+Dialogue: 0,0:00:8.77,0:00:9.15,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:9.15,0:00:9.55,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare {\1c&HFF00&\u1}capisco{\r} quando
+Dialogue: 0,0:00:9.55,0:00:9.65,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco quando
+Dialogue: 0,0:00:9.65,0:00:10.03,Default,,0,0,0,,lo studio preliminare. Io quando faccio il mio studio preliminare capisco {\1c&HFF00&\u1}quando{\r}
+Dialogue: 0,0:00:10.38,0:00:10.50,Default,,0,0,0,,{\1c&HFF00&\u1}posso{\r} arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:10.50,0:00:10.52,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:10.52,0:00:10.86,Default,,0,0,0,,posso {\1c&HFF00&\u1}arrivare{\r} a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:10.86,0:00:10.90,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:10.90,0:00:10.96,Default,,0,0,0,,posso arrivare {\1c&HFF00&\u1}a{\r} un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:10.96,0:00:11.00,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.00,0:00:11.06,Default,,0,0,0,,posso arrivare a {\1c&HFF00&\u1}un{\r} momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.06,0:00:11.10,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.10,0:00:11.40,Default,,0,0,0,,posso arrivare a un {\1c&HFF00&\u1}momento{\r} di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.40,0:00:11.46,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.46,0:00:11.52,Default,,0,0,0,,posso arrivare a un momento {\1c&HFF00&\u1}di{\r} stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.52,0:00:11.59,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.59,0:00:11.95,Default,,0,0,0,,posso arrivare a un momento di {\1c&HFF00&\u1}stallo{\r} in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:11.95,0:00:12.11,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:12.11,0:00:12.17,Default,,0,0,0,,posso arrivare a un momento di stallo {\1c&HFF00&\u1}in{\r} cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:12.17,0:00:12.23,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:12.23,0:00:12.37,Default,,0,0,0,,posso arrivare a un momento di stallo in {\1c&HFF00&\u1}cui{\r} o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:12.37,0:00:12.61,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:12.61,0:00:12.73,Default,,0,0,0,,posso arrivare a un momento di stallo in cui {\1c&HFF00&\u1}o{\r} inizio a cambiare contenuti o non
+Dialogue: 0,0:00:12.73,0:00:12.91,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:12.91,0:00:13.19,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o {\1c&HFF00&\u1}inizio{\r} a cambiare contenuti o non
+Dialogue: 0,0:00:13.19,0:00:13.21,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:13.21,0:00:13.25,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio {\1c&HFF00&\u1}a{\r} cambiare contenuti o non
+Dialogue: 0,0:00:13.25,0:00:13.29,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:13.29,0:00:13.53,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a {\1c&HFF00&\u1}cambiare{\r} contenuti o non
+Dialogue: 0,0:00:13.53,0:00:13.59,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:13.59,0:00:13.97,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare {\1c&HFF00&\u1}contenuti{\r} o non
+Dialogue: 0,0:00:13.97,0:00:13.99,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:13.99,0:00:14.01,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti {\1c&HFF00&\u1}o{\r} non
+Dialogue: 0,0:00:14.01,0:00:14.03,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o non
+Dialogue: 0,0:00:14.03,0:00:14.09,Default,,0,0,0,,posso arrivare a un momento di stallo in cui o inizio a cambiare contenuti o {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:14.12,0:00:14.62,Default,,0,0,0,,{\1c&HFF00&\u1}cresco{\r} più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:14.62,0:00:15.18,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:15.18,0:00:15.28,Default,,0,0,0,,cresco {\1c&HFF00&\u1}più.{\r} Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:15.28,0:00:15.32,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:15.32,0:00:15.60,Default,,0,0,0,,cresco più. {\1c&HFF00&\u1}Perché?{\r} Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:15.60,0:00:15.68,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:15.68,0:00:15.98,Default,,0,0,0,,cresco più. Perché? {\1c&HFF00&\u1}Perché{\r} ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:15.98,0:00:16.33,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:16.33,0:00:16.57,Default,,0,0,0,,cresco più. Perché? Perché {\1c&HFF00&\u1}ogni{\r} audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:16.57,0:00:16.63,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:16.63,0:00:17.13,Default,,0,0,0,,cresco più. Perché? Perché ogni {\1c&HFF00&\u1}audience,{\r} ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:17.13,0:00:17.37,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:17.37,0:00:17.55,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, {\1c&HFF00&\u1}ogni{\r} nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:17.55,0:00:17.61,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:17.61,0:00:18.01,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni {\1c&HFF00&\u1}nicchia,{\r} ogni mercato su TikTok ha un
+Dialogue: 0,0:00:18.01,0:00:18.23,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:18.23,0:00:18.43,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, {\1c&HFF00&\u1}ogni{\r} mercato su TikTok ha un
+Dialogue: 0,0:00:18.43,0:00:18.53,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:18.53,0:00:19.05,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni {\1c&HFF00&\u1}mercato{\r} su TikTok ha un
+Dialogue: 0,0:00:19.05,0:00:19.09,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:19.09,0:00:19.17,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato {\1c&HFF00&\u1}su{\r} TikTok ha un
+Dialogue: 0,0:00:19.17,0:00:19.23,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:19.23,0:00:19.77,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su {\1c&HFF00&\u1}TikTok{\r} ha un
+Dialogue: 0,0:00:19.77,0:00:20.09,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:20.09,0:00:20.20,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok {\1c&HFF00&\u1}ha{\r} un
+Dialogue: 0,0:00:20.20,0:00:20.24,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha un
+Dialogue: 0,0:00:20.24,0:00:20.28,Default,,0,0,0,,cresco più. Perché? Perché ogni audience, ogni nicchia, ogni mercato su TikTok ha {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:20.46,0:00:20.66,Default,,0,0,0,,{\1c&HFF00&\u1}certo{\r} numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:20.66,0:00:20.68,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:20.68,0:00:20.90,Default,,0,0,0,,certo {\1c&HFF00&\u1}numero{\r} di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:20.90,0:00:20.92,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:20.92,0:00:21.02,Default,,0,0,0,,certo numero {\1c&HFF00&\u1}di{\r} persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:21.02,0:00:21.06,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:21.06,0:00:21.40,Default,,0,0,0,,certo numero di {\1c&HFF00&\u1}persone.{\r} Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:21.40,0:00:22.05,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:22.05,0:00:22.31,Default,,0,0,0,,certo numero di persone. {\1c&HFF00&\u1}Oltre{\r} quel numero sono poche le persone che
+Dialogue: 0,0:00:22.31,0:00:22.37,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:22.37,0:00:22.57,Default,,0,0,0,,certo numero di persone. Oltre {\1c&HFF00&\u1}quel{\r} numero sono poche le persone che
+Dialogue: 0,0:00:22.57,0:00:22.63,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:22.63,0:00:22.97,Default,,0,0,0,,certo numero di persone. Oltre quel {\1c&HFF00&\u1}numero{\r} sono poche le persone che
+Dialogue: 0,0:00:22.97,0:00:23.83,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:23.83,0:00:24.01,Default,,0,0,0,,certo numero di persone. Oltre quel numero {\1c&HFF00&\u1}sono{\r} poche le persone che
+Dialogue: 0,0:00:24.01,0:00:24.09,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:24.09,0:00:24.35,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono {\1c&HFF00&\u1}poche{\r} le persone che
+Dialogue: 0,0:00:24.35,0:00:24.43,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:24.43,0:00:24.49,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche {\1c&HFF00&\u1}le{\r} persone che
+Dialogue: 0,0:00:24.49,0:00:24.53,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:24.53,0:00:24.83,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le {\1c&HFF00&\u1}persone{\r} che
+Dialogue: 0,0:00:24.83,0:00:24.89,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone che
+Dialogue: 0,0:00:24.89,0:00:24.97,Default,,0,0,0,,certo numero di persone. Oltre quel numero sono poche le persone {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:25.38,0:00:26.70,Default,,0,0,0,,{\1c&HFF00&\u1}continueranno{\r} ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:26.70,0:00:26.72,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:26.72,0:00:26.76,Default,,0,0,0,,continueranno {\1c&HFF00&\u1}ad{\r} arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:26.76,0:00:26.78,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:26.78,0:00:26.94,Default,,0,0,0,,continueranno ad {\1c&HFF00&\u1}arrivare{\r} il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:26.94,0:00:27.02,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:27.02,0:00:27.06,Default,,0,0,0,,continueranno ad arrivare {\1c&HFF00&\u1}il{\r} mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:27.06,0:00:27.08,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:27.08,0:00:27.14,Default,,0,0,0,,continueranno ad arrivare il {\1c&HFF00&\u1}mio{\r} esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:27.14,0:00:27.18,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:27.18,0:00:27.63,Default,,0,0,0,,continueranno ad arrivare il mio {\1c&HFF00&\u1}esempio{\r} io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:27.63,0:00:28.01,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:28.01,0:00:28.13,Default,,0,0,0,,continueranno ad arrivare il mio esempio {\1c&HFF00&\u1}io{\r} sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:28.13,0:00:28.19,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:28.19,0:00:28.35,Default,,0,0,0,,continueranno ad arrivare il mio esempio io {\1c&HFF00&\u1}sono{\r} cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:28.35,0:00:28.39,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:28.39,0:00:28.77,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono {\1c&HFF00&\u1}cresciuto{\r} da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:28.77,0:00:28.85,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:28.85,0:00:29.77,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto {\1c&HFF00&\u1}da 0{\r} a 30.000 followers su tiktok in
+Dialogue: 0,0:00:29.77,0:00:30.61,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:30.61,0:00:30.65,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 {\1c&HFF00&\u1}a 30.000{\r} followers su tiktok in
+Dialogue: 0,0:00:30.65,0:00:30.97,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:30.97,0:00:31.47,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 {\1c&HFF00&\u1}followers{\r} su tiktok in
+Dialogue: 0,0:00:31.47,0:00:31.49,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:31.49,0:00:31.57,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers {\1c&HFF00&\u1}su{\r} tiktok in
+Dialogue: 0,0:00:31.57,0:00:31.63,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:31.63,0:00:32.08,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su {\1c&HFF00&\u1}tiktok{\r} in
+Dialogue: 0,0:00:32.08,0:00:32.32,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok in
+Dialogue: 0,0:00:32.32,0:00:32.44,Default,,0,0,0,,continueranno ad arrivare il mio esempio io sono cresciuto da 0 a 30.000 followers su tiktok {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:33.22,0:00:33.34,Default,,0,0,0,,{\1c&HFF00&\u1}due{\r} mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:33.34,0:00:33.38,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:33.38,0:00:33.70,Default,,0,0,0,,due {\1c&HFF00&\u1}mesi{\r} circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:33.70,0:00:34.20,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:34.20,0:00:34.62,Default,,0,0,0,,due mesi {\1c&HFF00&\u1}circa{\r} nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:34.62,0:00:35.93,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:35.93,0:00:36.15,Default,,0,0,0,,due mesi circa {\1c&HFF00&\u1}nei{\r} mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:36.15,0:00:36.21,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:36.21,0:00:36.43,Default,,0,0,0,,due mesi circa nei {\1c&HFF00&\u1}mesi{\r} successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:36.43,0:00:36.47,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:36.47,0:00:37.19,Default,,0,0,0,,due mesi circa nei mesi {\1c&HFF00&\u1}successivi{\r} il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.19,0:00:37.35,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.35,0:00:37.41,Default,,0,0,0,,due mesi circa nei mesi successivi {\1c&HFF00&\u1}il{\r} mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.41,0:00:37.43,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.43,0:00:37.51,Default,,0,0,0,,due mesi circa nei mesi successivi il {\1c&HFF00&\u1}mio{\r} profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.51,0:00:37.55,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.55,0:00:37.81,Default,,0,0,0,,due mesi circa nei mesi successivi il mio {\1c&HFF00&\u1}profilo{\r} è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.81,0:00:37.83,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.83,0:00:37.85,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo {\1c&HFF00&\u1}è{\r} cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.85,0:00:37.89,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:37.89,0:00:38.25,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è {\1c&HFF00&\u1}cresciuto{\r} molto lentamente perché perché
+Dialogue: 0,0:00:38.25,0:00:38.43,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:38.43,0:00:38.89,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto {\1c&HFF00&\u1}molto{\r} lentamente perché perché
+Dialogue: 0,0:00:38.89,0:00:38.95,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:38.95,0:00:39.57,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto {\1c&HFF00&\u1}lentamente{\r} perché perché
+Dialogue: 0,0:00:39.57,0:00:39.94,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:39.94,0:00:40.22,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente {\1c&HFF00&\u1}perché{\r} perché
+Dialogue: 0,0:00:40.22,0:00:40.30,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché perché
+Dialogue: 0,0:00:40.30,0:00:40.54,Default,,0,0,0,,due mesi circa nei mesi successivi il mio profilo è cresciuto molto lentamente perché {\1c&HFF00&\u1}perché{\r}
+Dialogue: 0,0:00:40.80,0:00:40.96,Default,,0,0,0,,{\1c&HFF00&\u1}tutte{\r} le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:40.96,0:00:40.98,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:40.98,0:00:41.12,Default,,0,0,0,,tutte {\1c&HFF00&\u1}le{\r} persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.12,0:00:41.14,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.14,0:00:41.38,Default,,0,0,0,,tutte le {\1c&HFF00&\u1}persone{\r} interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.38,0:00:41.40,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.40,0:00:41.80,Default,,0,0,0,,tutte le persone {\1c&HFF00&\u1}interessate{\r} a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.80,0:00:41.86,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.86,0:00:41.90,Default,,0,0,0,,tutte le persone interessate {\1c&HFF00&\u1}a{\r} quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.90,0:00:41.96,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:41.96,0:00:42.14,Default,,0,0,0,,tutte le persone interessate a {\1c&HFF00&\u1}quella{\r} tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:42.14,0:00:42.18,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:42.18,0:00:42.56,Default,,0,0,0,,tutte le persone interessate a quella {\1c&HFF00&\u1}tipologia{\r} di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:42.56,0:00:42.60,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:42.60,0:00:42.67,Default,,0,0,0,,tutte le persone interessate a quella tipologia {\1c&HFF00&\u1}di{\r} contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:42.67,0:00:42.71,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:42.71,0:00:43.27,Default,,0,0,0,,tutte le persone interessate a quella tipologia di {\1c&HFF00&\u1}contenuto{\r} mi seguivano già e non sono così
+Dialogue: 0,0:00:43.27,0:00:44.85,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:44.85,0:00:44.89,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto {\1c&HFF00&\u1}mi{\r} seguivano già e non sono così
+Dialogue: 0,0:00:44.89,0:00:44.95,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:44.95,0:00:45.37,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi {\1c&HFF00&\u1}seguivano{\r} già e non sono così
+Dialogue: 0,0:00:45.37,0:00:45.47,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:45.47,0:00:45.59,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano {\1c&HFF00&\u1}già{\r} e non sono così
+Dialogue: 0,0:00:45.59,0:00:46.45,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:46.45,0:00:46.49,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già {\1c&HFF00&\u1}e{\r} non sono così
+Dialogue: 0,0:00:46.49,0:00:46.61,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:46.61,0:00:46.75,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e {\1c&HFF00&\u1}non{\r} sono così
+Dialogue: 0,0:00:46.75,0:00:46.83,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:46.83,0:00:47.02,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non {\1c&HFF00&\u1}sono{\r} così
+Dialogue: 0,0:00:47.02,0:00:47.08,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono così
+Dialogue: 0,0:00:47.08,0:00:47.22,Default,,0,0,0,,tutte le persone interessate a quella tipologia di contenuto mi seguivano già e non sono {\1c&HFF00&\u1}così{\r}
+Dialogue: 0,0:00:48.14,0:00:48.24,Default,,0,0,0,,{\1c&HFF00&\u1}tante{\r} perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:48.24,0:00:48.28,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:48.28,0:00:48.48,Default,,0,0,0,,tante {\1c&HFF00&\u1}perché{\r} faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:48.48,0:00:48.54,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:48.54,0:00:48.76,Default,,0,0,0,,tante perché {\1c&HFF00&\u1}faccio{\r} contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:48.76,0:00:48.80,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:48.80,0:00:49.30,Default,,0,0,0,,tante perché faccio {\1c&HFF00&\u1}contenuti{\r} in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:49.30,0:00:49.47,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:49.47,0:00:49.53,Default,,0,0,0,,tante perché faccio contenuti {\1c&HFF00&\u1}in{\r} italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:49.53,0:00:49.57,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:49.57,0:00:50.03,Default,,0,0,0,,tante perché faccio contenuti in {\1c&HFF00&\u1}italiano{\r} se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:50.03,0:00:50.45,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:50.45,0:00:50.53,Default,,0,0,0,,tante perché faccio contenuti in italiano {\1c&HFF00&\u1}se{\r} facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:50.53,0:00:50.57,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:50.57,0:00:50.93,Default,,0,0,0,,tante perché faccio contenuti in italiano se {\1c&HFF00&\u1}facessi{\r} contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:50.93,0:00:50.99,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:50.99,0:00:51.57,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi {\1c&HFF00&\u1}contenuti{\r} o in silenzio o in lingua
+Dialogue: 0,0:00:51.57,0:00:51.97,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:51.97,0:00:52.03,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti {\1c&HFF00&\u1}o{\r} in silenzio o in lingua
+Dialogue: 0,0:00:52.03,0:00:52.11,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:52.11,0:00:52.21,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o {\1c&HFF00&\u1}in{\r} silenzio o in lingua
+Dialogue: 0,0:00:52.21,0:00:52.29,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:52.29,0:00:52.87,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in {\1c&HFF00&\u1}silenzio{\r} o in lingua
+Dialogue: 0,0:00:52.87,0:00:53.37,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:53.37,0:00:53.43,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio {\1c&HFF00&\u1}o{\r} in lingua
+Dialogue: 0,0:00:53.43,0:00:53.51,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:53.51,0:00:53.57,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o {\1c&HFF00&\u1}in{\r} lingua
+Dialogue: 0,0:00:53.57,0:00:53.61,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in lingua
+Dialogue: 0,0:00:53.61,0:00:53.82,Default,,0,0,0,,tante perché faccio contenuti in italiano se facessi contenuti o in silenzio o in {\1c&HFF00&\u1}lingua{\r}
+Dialogue: 0,0:00:53.80,0:00:53.94,Default,,0,0,0,,{\1c&HFF00&\u1}inglese{\r} ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:53.94,0:00:53.96,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:53.96,0:00:54.16,Default,,0,0,0,,inglese {\1c&HFF00&\u1}ovviamente{\r} parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.16,0:00:54.18,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.18,0:00:54.34,Default,,0,0,0,,inglese ovviamente {\1c&HFF00&\u1}parlerei{\r} a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.34,0:00:54.36,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.36,0:00:54.38,Default,,0,0,0,,inglese ovviamente parlerei {\1c&HFF00&\u1}a{\r} uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.38,0:00:54.40,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.40,0:00:54.46,Default,,0,0,0,,inglese ovviamente parlerei a {\1c&HFF00&\u1}uno{\r} dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.46,0:00:54.48,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.48,0:00:54.58,Default,,0,0,0,,inglese ovviamente parlerei a uno {\1c&HFF00&\u1}dance{\r} molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.58,0:00:54.60,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.60,0:00:54.70,Default,,0,0,0,,inglese ovviamente parlerei a uno dance {\1c&HFF00&\u1}molto{\r} molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.70,0:00:54.72,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.72,0:00:54.82,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto {\1c&HFF00&\u1}molto{\r} più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.82,0:00:54.84,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.84,0:00:54.90,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto {\1c&HFF00&\u1}più{\r} ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.90,0:00:54.92,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:54.92,0:00:55.02,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più {\1c&HFF00&\u1}ampia.{\r} Dipende, dovrei capire qui
+Dialogue: 0,0:00:55.02,0:00:55.04,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:55.04,0:00:55.18,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. {\1c&HFF00&\u1}Dipende,{\r} dovrei capire qui
+Dialogue: 0,0:00:55.18,0:00:55.20,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:55.20,0:00:55.32,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, {\1c&HFF00&\u1}dovrei{\r} capire qui
+Dialogue: 0,0:00:55.32,0:00:55.34,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:55.34,0:00:55.46,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei {\1c&HFF00&\u1}capire{\r} qui
+Dialogue: 0,0:00:55.46,0:00:55.48,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire qui
+Dialogue: 0,0:00:55.48,0:00:55.54,Default,,0,0,0,,inglese ovviamente parlerei a uno dance molto molto più ampia. Dipende, dovrei capire {\1c&HFF00&\u1}qui{\r}
+Dialogue: 0,0:01:0.44,0:01:0.53,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} questa
+Dialogue: 0,0:01:0.53,0:01:0.57,Default,,0,0,0,,in questa
+Dialogue: 0,0:01:0.57,0:01:0.70,Default,,0,0,0,,in {\1c&HFF00&\u1}questa{\r}

@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.60,0:00:0.62,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:0.62,0:00:0.66,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:0.66,0:00:0.78,Default,,0,0,0,,e {\1c&HFF00&\u1}dice{\r} vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:0.82,0:00:1.08,Default,,0,0,0,,e dice {\1c&HFF00&\u1}vabbè{\r} ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.08,0:00:1.18,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.18,0:00:1.24,Default,,0,0,0,,e dice vabbè {\1c&HFF00&\u1}ci{\r} credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.24,0:00:1.30,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.30,0:00:1.62,Default,,0,0,0,,e dice vabbè ci {\1c&HFF00&\u1}credo{\r} io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.62,0:00:1.70,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.70,0:00:1.78,Default,,0,0,0,,e dice vabbè ci credo {\1c&HFF00&\u1}io{\r} continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.78,0:00:1.84,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:1.84,0:00:2.29,Default,,0,0,0,,e dice vabbè ci credo io {\1c&HFF00&\u1}continuo{\r} a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:2.29,0:00:2.31,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:2.31,0:00:2.33,Default,,0,0,0,,e dice vabbè ci credo io continuo {\1c&HFF00&\u1}a{\r} studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:2.33,0:00:2.41,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:2.41,0:00:2.91,Default,,0,0,0,,e dice vabbè ci credo io continuo a {\1c&HFF00&\u1}studiare{\r} e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:2.91,0:00:3.09,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:3.09,0:00:3.15,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare {\1c&HFF00&\u1}e{\r} fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:3.15,0:00:3.21,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:3.21,0:00:3.31,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e {\1c&HFF00&\u1}fai{\r} fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:3.31,0:00:3.37,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:3.37,0:00:3.99,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai {\1c&HFF00&\u1}fisiologia,{\r} dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:3.99,0:00:4.11,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:4.11,0:00:4.35,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, {\1c&HFF00&\u1}dopo{\r} fisiologia c'è biochimico
+Dialogue: 0,0:00:4.35,0:00:4.39,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:4.39,0:00:5.11,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo {\1c&HFF00&\u1}fisiologia{\r} c'è biochimico
+Dialogue: 0,0:00:5.11,0:00:5.33,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:5.33,0:00:5.45,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia {\1c&HFF00&\u1}c'è{\r} biochimico
+Dialogue: 0,0:00:5.45,0:00:5.53,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è biochimico
+Dialogue: 0,0:00:5.53,0:00:6.14,Default,,0,0,0,,e dice vabbè ci credo io continuo a studiare e fai fisiologia, dopo fisiologia c'è {\1c&HFF00&\u1}biochimico{\r}
+Dialogue: 0,0:00:6.08,0:00:6.14,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:6.14,0:00:6.16,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:6.16,0:00:6.20,Default,,0,0,0,,che {\1c&HFF00&\u1}in{\r} alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:6.20,0:00:6.24,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:6.24,0:00:6.44,Default,,0,0,0,,che in {\1c&HFF00&\u1}alcune{\r} università è facile e in altre difficile.
+Dialogue: 0,0:00:6.44,0:00:6.46,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:6.46,0:00:6.78,Default,,0,0,0,,che in alcune {\1c&HFF00&\u1}università{\r} è facile e in altre difficile.
+Dialogue: 0,0:00:6.78,0:00:6.80,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:6.80,0:00:6.82,Default,,0,0,0,,che in alcune università {\1c&HFF00&\u1}è{\r} facile e in altre difficile.
+Dialogue: 0,0:00:6.82,0:00:6.94,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:6.94,0:00:7.30,Default,,0,0,0,,che in alcune università è {\1c&HFF00&\u1}facile{\r} e in altre difficile.
+Dialogue: 0,0:00:7.30,0:00:7.44,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:7.44,0:00:7.46,Default,,0,0,0,,che in alcune università è facile {\1c&HFF00&\u1}e{\r} in altre difficile.
+Dialogue: 0,0:00:7.46,0:00:7.50,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:7.50,0:00:7.56,Default,,0,0,0,,che in alcune università è facile e {\1c&HFF00&\u1}in{\r} altre difficile.
+Dialogue: 0,0:00:7.56,0:00:7.60,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:7.60,0:00:7.78,Default,,0,0,0,,che in alcune università è facile e in {\1c&HFF00&\u1}altre{\r} difficile.
+Dialogue: 0,0:00:7.78,0:00:7.89,Default,,0,0,0,,che in alcune università è facile e in altre difficile.
+Dialogue: 0,0:00:7.89,0:00:8.27,Default,,0,0,0,,che in alcune università è facile e in altre {\1c&HFF00&\u1}difficile.{\r}

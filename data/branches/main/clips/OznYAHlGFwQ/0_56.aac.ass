@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:2.16,0:00:2.28,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:2.28,0:00:2.34,Default,,0,0,0,,non si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:2.34,0:00:2.40,Default,,0,0,0,,non {\1c&HFF00&\u1}si{\r} sente più ok più viso l'aiutino
+Dialogue: 0,0:00:2.40,0:00:2.44,Default,,0,0,0,,non si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:2.44,0:00:2.66,Default,,0,0,0,,non si {\1c&HFF00&\u1}sente{\r} più ok più viso l'aiutino
+Dialogue: 0,0:00:2.66,0:00:2.82,Default,,0,0,0,,non si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:2.82,0:00:3.27,Default,,0,0,0,,non si sente {\1c&HFF00&\u1}più{\r} ok più viso l'aiutino
+Dialogue: 0,0:00:3.27,0:00:3.93,Default,,0,0,0,,non si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:3.93,0:00:4.45,Default,,0,0,0,,non si sente più {\1c&HFF00&\u1}ok{\r} più viso l'aiutino
+Dialogue: 0,0:00:4.45,0:00:5.07,Default,,0,0,0,,non si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:5.07,0:00:5.15,Default,,0,0,0,,non si sente più ok {\1c&HFF00&\u1}più{\r} viso l'aiutino
+Dialogue: 0,0:00:5.15,0:00:5.23,Default,,0,0,0,,non si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:5.23,0:00:5.37,Default,,0,0,0,,non si sente più ok più {\1c&HFF00&\u1}viso{\r} l'aiutino
+Dialogue: 0,0:00:5.37,0:00:5.45,Default,,0,0,0,,non si sente più ok più viso l'aiutino
+Dialogue: 0,0:00:5.45,0:00:5.91,Default,,0,0,0,,non si sente più ok più viso {\1c&HFF00&\u1}l'aiutino{\r}

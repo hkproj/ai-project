@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.06,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} puoi usare per risparmiare soldi.
+Dialogue: 0,0:00:0.06,0:00:0.08,Default,,0,0,0,,che puoi usare per risparmiare soldi.
+Dialogue: 0,0:00:0.08,0:00:0.16,Default,,0,0,0,,che {\1c&HFF00&\u1}puoi{\r} usare per risparmiare soldi.
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,che puoi usare per risparmiare soldi.
+Dialogue: 0,0:00:0.18,0:00:0.28,Default,,0,0,0,,che puoi {\1c&HFF00&\u1}usare{\r} per risparmiare soldi.
+Dialogue: 0,0:00:0.28,0:00:0.30,Default,,0,0,0,,che puoi usare per risparmiare soldi.
+Dialogue: 0,0:00:0.30,0:00:0.36,Default,,0,0,0,,che puoi usare {\1c&HFF00&\u1}per{\r} risparmiare soldi.
+Dialogue: 0,0:00:0.36,0:00:0.38,Default,,0,0,0,,che puoi usare per risparmiare soldi.
+Dialogue: 0,0:00:0.38,0:00:0.60,Default,,0,0,0,,che puoi usare per {\1c&HFF00&\u1}risparmiare{\r} soldi.
+Dialogue: 0,0:00:0.60,0:00:0.62,Default,,0,0,0,,che puoi usare per risparmiare soldi.
+Dialogue: 0,0:00:0.62,0:00:0.72,Default,,0,0,0,,che puoi usare per risparmiare {\1c&HFF00&\u1}soldi.{\r}
+Dialogue: 0,0:00:3.68,0:00:4.14,Default,,0,0,0,,{\1c&HFF00&\u1}Quest'app{\r} l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:4.14,0:00:4.20,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:4.20,0:00:4.76,Default,,0,0,0,,Quest'app {\1c&HFF00&\u1}l'utilizzate{\r} io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:4.76,0:00:4.84,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:4.84,0:00:4.92,Default,,0,0,0,,Quest'app l'utilizzate {\1c&HFF00&\u1}io{\r} stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:4.92,0:00:4.99,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:4.99,0:00:5.45,Default,,0,0,0,,Quest'app l'utilizzate io {\1c&HFF00&\u1}stessa{\r} per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:5.45,0:00:5.63,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:5.63,0:00:6.01,Default,,0,0,0,,Quest'app l'utilizzate io stessa {\1c&HFF00&\u1}per{\r} risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:6.01,0:00:6.19,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:6.19,0:00:7.25,Default,,0,0,0,,Quest'app l'utilizzate io stessa per {\1c&HFF00&\u1}risparmiare{\r} con l'energia elettrica,
+Dialogue: 0,0:00:7.25,0:00:7.53,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:7.53,0:00:7.68,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare {\1c&HFF00&\u1}con{\r} l'energia elettrica,
+Dialogue: 0,0:00:7.68,0:00:7.74,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:7.74,0:00:8.16,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con {\1c&HFF00&\u1}l'energia{\r} elettrica,
+Dialogue: 0,0:00:8.16,0:00:8.20,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia elettrica,
+Dialogue: 0,0:00:8.20,0:00:8.72,Default,,0,0,0,,Quest'app l'utilizzate io stessa per risparmiare con l'energia {\1c&HFF00&\u1}elettrica,{\r}
+Dialogue: 0,0:00:8.92,0:00:8.98,Default,,0,0,0,,{\1c&HFF00&\u1}si{\r} chiama switcho.
+Dialogue: 0,0:00:8.98,0:00:9.05,Default,,0,0,0,,si chiama switcho.
+Dialogue: 0,0:00:9.05,0:00:9.31,Default,,0,0,0,,si {\1c&HFF00&\u1}chiama{\r} switcho.
+Dialogue: 0,0:00:9.31,0:00:9.51,Default,,0,0,0,,si chiama switcho.
+Dialogue: 0,0:00:9.51,0:00:9.94,Default,,0,0,0,,si chiama {\1c&HFF00&\u1}switcho.{\r}
