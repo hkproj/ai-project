@@ -28,7 +28,7 @@ A lipreading model takes as input a sequence of images representing the lip area
 Given a clip in which the active speaker is fully visible and its aligned transcript, it is possible to generate shorter clips of a few words each as data samples for training and validation.
 For example, given a video clip that maps to the following short sentence of `N=15` words:
 
-    Il gatto correva veloce nella prateria, mentre il cane lo guardava da sotto un albero.
+*Il gatto correva veloce nella prateria, mentre il cane lo guardava da sotto un albero.*
 
 It is possible to generate `T=N-K+1` data samples of by taking a sliding window of size `K`. Punctuation is not counted, as it does not map to any viseme. For example, with `K=8`, it is possible to have the following `T=8` sliding windows:
 
@@ -47,19 +47,12 @@ The sliding window size `K` is a hyper-parameter of the model. This allows to le
 
 The pipeline is made up of the following steps:
 
-1. Download of all the videos
-1. Face recognition performed on all the frames of a video to extract all the faces that are recognized by the software.
-1. Selection of the face to consider for further processing and merging of the intervals in which it is recognized
-
-
-Below we deep dive in each of the steps.
-
 ## 1 - Video download
 
 There are many tools available online to download videos from the web. I will be using the popular `youtube-dl`, which allows to download videos in the chosen format and with the chosen quality. I will be using the following argument for the format *parameter*:
 
-```
--f "best[ext=mp4]"
+```bash
+youtube-dl [...] -f "best[ext=mp4]" [...]
 ```
 
 This tells the tool to download the best available format that uses the `mp4` extension. Different videos may have a different pixel density.
@@ -69,15 +62,41 @@ This tells the tool to download the best available format that uses the `mp4` ex
 Facial recognition is important for two reasons:
 
 1. Find all the faces that appear in the video so as to select which one to consider then cutting the video into clips, in which only selected face is visible (there may be other faces, but are ignored).
-2. Make sure the face is actually visible throughout the video, insomuch that a facial recognition software detects it.
+1. Make sure the face is actually visible throughout the video, insomuch that a facial recognition software detects it.
 
 Facial recognition is performed on each frame for each video. While perming this job, the following challenges have been faced:
 
 1. The same face may not be recognized as same by the facial recognition software. This can be due to many reasons, the easiest solution is to use a stronger model to perform this task. However, every model will come with a certain degree of imperfection.
-2. The face may not be fully visible, even if it is recognized. For example, the face of a person that is initially facing the camera and after some time is facing left can be recognized by a facial recognition library as still belonging to the same person, because facial recognition software can reconstruct the 3D mesh of the face even if it is not fully visible. The lip area, however, may not be fully visible. It is possible to discard such intervals of time in which the lip area is not fully visible, but since it can be still recognized by the facial recognition software, and since these intervals are not the majority of the intervals, they are kept in the final clips and the model is trained upon them.
+1. The face may not be fully visible, even if it is recognized. For example, the face of a person that is initially facing the camera and after some time is facing left can be recognized by a facial recognition library as still belonging to the same person, because facial recognition software can reconstruct the 3D mesh of the face even if it is not fully visible. The lip area, however, may not be fully visible. It is possible to discard such intervals of time in which the lip area is not fully visible, but since it can be still recognized by the facial recognition software, and since these intervals are not the majority of the intervals, they are kept in the final clips and the model is trained upon them.
 
 The output of this phase is a list of timestamps, corresponding to the frames in which a particular face is visible. This is done for all the faces recognized in the video.
 
 ## Face selection and intervals merging
 
-A video may contain multiple faces, so the facial recognition software exports one picture for every face it has recognized. It is the user's job to then indicate to the software which face it is interested in
+A video may contain multiple faces, so the facial recognition software exports one picture for every face it has recognized. For each face, the software does export not only a picture of the frame in which the face was first seen, but also a list of timestamps (in a text file), one for each of the frames in which the same face is seen again.
+With this approach, there are still some challenges to overcome:
+
+1. The facial recognition software may not recognize the same face but treat two different frames with the same person as different people. Of course this is a limitation of the facial recognition library used, but every library has its own non-zero error rate. This can be recognized by the user because the software exports two pictures of the same person with their own list of timestamps.
+1. A face may not be recognized in a given frame. This usually happens when the frame is blurry (the camera is out of focus).
+
+For example, a video in which a single person speaks from the time 00:00:13.000ms to 00:00:20:000ms, may produce the following output files:
+
+1. `Face 0.jpg`, with timestamps 00:00.13.000ms, 00:00:13.030ms, 00:00:13.060ms, [...], 00:00:18.150ms, [**missing 2 frames**], 00:00:18.240ms, [...]
+1. `Face 1.jpg`, with timestamps 00:00:18.180ms, 00:00:18.210ms
+
+The facial recognition software may treat the same person as two different people, one of them appearing only for two frames. This is obviously an error and the user can merge the two intervals into one big interval by telling the software that these two faces actually belong to the same person.
+
+Gaps in the intervals shorter than a threshold, which is a hyperparameter set to 200ms are also merged as a contiguous interval, because it means that the facial recognition library just didn't recognize the person for a short duration of time because of a blurry frame or a malfunction of the facial recognition library itself.
+
+## 4 - Clips extraction from the videoss
+
+The output of the previous step is a list of contiguous intervals in which the same face appears. This is used to cut the video into clips of a minimum duration (a hyperparameter set to 5s).
+For example, a video of many minutes in which the speaker alternates with a screencast of his computer, should automatically be cut and resulting in shorter clips in which only the speaker is visible.
+
+## 5 - Audio extraction
+
+The audio is extracted for each of the clips produced by the previous step
+
+## 6 - Audio transcription and alignment
+
+The audio extracted by the previous step is transcribed using the `Whisper` framework from OpenAI. Since `Whisper` does not automatically generate aligned subtitle files, I have used `WhisperX`, a popular fork of `Whisper` that automatically generates `SRT` files, with one line for each word spoken and the corresponding time bounds.
