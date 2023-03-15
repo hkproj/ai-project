@@ -10,10 +10,10 @@ The paper investigates the performance of state-of-the-art data augmentation and
 
 ## Data augmentation techniques
 
-4. Random Cropping: randomly crop a 88x88 patch from the mouth ROI (region of interest) during training. At test time, simply crop the central patch.
-5. Flipping: randomly flip all the frames in a video with probability of 0.5
-6. Mixup: create a new training sample by combining two video sequences and the corresponding targets.
-7. Time masking: mask N consecutive frames for each training sequence where N is sampled from a uniform distribution between 0 and Nmax. Each masked frame is replaced with the mean frame of the sequence it belongs to. This technique has been successful in ASR applications.
+1. Random Cropping: randomly crop a 88x88 patch from the mouth ROI (region of interest) during training. At test time, simply crop the central patch.
+2. Flipping: randomly flip all the frames in a video with probability of 0.5
+3. Mixup: create a new training sample by combining two video sequences and the corresponding targets.
+4. Time masking: mask N consecutive frames for each training sequence where N is sampled from a uniform distribution between 0 and Nmax. Each masked frame is replaced with the mean frame of the sequence it belongs to. This technique has been successful in ASR applications.
 
 ### Word boundary indicator
 
