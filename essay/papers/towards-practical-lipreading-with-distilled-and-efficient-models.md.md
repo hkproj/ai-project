@@ -2,6 +2,8 @@
 
 The paper works on single words, not sentences!
 
+In this work, we propose a series of innovations that significantly bridge that gap: first, we raise the state-of-the-art performance by a wide margin on LRW and LRW-1000 to 88.5 % and 46.6 %, respectively using self-distillation. Secondly, we propose a series of architectural changes, including a novel Depthwise Separable Temporal Convolutional Network (DS-TCN) head, that slashes the computational cost to a fraction of the (already quite efficient) original model. Thirdly, we show that knowledge distillation is a very effective tool for recovering performance of the lightweight models
+
 This paper proposes:
 
 1. Self-distillation to improve the model performance.
