@@ -24,7 +24,7 @@ Very few complications occur in the videos that these processing conditions do n
 
 We chose the X3D convolutional neural network model by Feichtenhofer (2020) since it is efficient for video classification in terms of accuracy and computational cost and well designed for the processing of spatiotemporal features
 
-Implementation available here: https://github.com/facebookresearch/SlowFast/blob/main/MODEL_ZOO.md
+Implementation available here: <https://github.com/facebookresearch/SlowFast/blob/main/MODEL_ZOO.md>
 
 ## Transfer learning
 

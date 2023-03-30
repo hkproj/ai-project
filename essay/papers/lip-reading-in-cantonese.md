@@ -47,4 +47,3 @@ We download a total of 417 hours of original videos from Bilibili, YouTube, TVB,
 ## Model architecture
 
 See the paper.
-

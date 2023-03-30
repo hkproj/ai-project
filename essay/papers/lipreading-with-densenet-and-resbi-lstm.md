@@ -36,4 +36,3 @@ The authors builds a novel dataset called "News, Speech, Talk show" dataset for 
 ### RNN
 
     A convolutional layer with 1×1 kernels and two-layer resBiLSTM are applied following the visual model. The goal of the convolutional layer is to reduce the dimension from 1024 to 512. Meanwhile, a shortcut is utilized in our resBi-LSTM layer to add the original information before layer to the information after the Bi-LSTM layer. Residual structure used here allows the information extracted from visual module to be perceived by all the LSTM layers.
-
