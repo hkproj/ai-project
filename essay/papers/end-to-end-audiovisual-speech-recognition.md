@@ -24,5 +24,3 @@ The BGRU outputs of each stream are concatenated and fed to another 2-layer BGRU
 ## Training
 
 Training is divided into 2 phases: first the audio/visual streams are trained independently and then the audiovisual network is trained end-to-end. During training data augmentation is performed on the video sequences of mouth ROIs. This is done by applying random cropping and horizontal flips with probability 50% to all frames of a given clip. Data augmentation is also applied to the audio sequences. During training babble noise at different levels (between -5 dB to 20 db) might be added to the original audio clip. The selection of one of the noise levels or the use of the clean audio is done using a uniform distribution.
-
-
