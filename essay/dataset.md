@@ -88,7 +88,7 @@ The facial recognition software may treat the same person as two different peopl
 
 Gaps in the intervals shorter than a threshold, which is a hyperparameter set to 200ms are also merged as a contiguous interval, because it means that the facial recognition library just didn't recognize the person for a short duration of time because of a blurry frame or a malfunction of the facial recognition library itself.
 
-## 4 - Clips extraction from the videoss
+## 4 - Clips extraction from the videos
 
 The output of the previous step is a list of contiguous intervals in which the same face appears. This is used to cut the video into clips of a minimum duration (a hyperparameter set to 5s).
 For example, a video of many minutes in which the speaker alternates with a screencast of his computer, should automatically be cut and resulting in shorter clips in which only the speaker is visible.
