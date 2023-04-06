@@ -21,7 +21,7 @@ def _extractFacesFromFrame(index: int, rgbFrame):
     faceEncodings = face_recognition.face_encodings(rgbFrame, faceLocations)
     return index, faceLocations, faceEncodings
 
-def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) -> None:
+def extractAllFacesFromVideo(videoId: str, sleep: int, minFaceWidth: int, minFaceHeight: int, frameBatchSize: int = 1) -> None:
 
     # If the directory already exists, ignore this video
     faceSavePath = fs.getFacesPath(videoId)
@@ -85,6 +85,15 @@ def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) 
             for (frame, rgbFrame, timestamp), frameFaceLocations, currentFrameFaceEncodings in zip(batch, batchFaceLocations, batchFaceEncodings):
 
                 for (top, right, bottom, left), currFaceEncoding in zip(frameFaceLocations, currentFrameFaceEncodings):
+                    # Calculate the size of the face
+                    faceWidth = (right - left)
+                    faceHeight = (bottom - top)
+
+                    # Ignore faces that are too small
+                    if faceWidth < minFaceWidth or faceHeight < minFaceHeight:
+                        logger.warn(f'Video {videoId} - Ignoring small face at {timestamp / 1000 :.4f}s.')
+                        continue
+
                     matches = face_recognition.compare_faces(faceEncodings, currFaceEncoding)
 
                     if True in matches:
@@ -97,7 +106,8 @@ def extractAllFacesFromVideo(videoId: str, sleep: int, frameBatchSize: int = 1) 
                         faceEncodings.append(currFaceEncoding)
                         faceTimestamps[insertIndex] = [timestamp]
                         faceFrames[insertIndex] = frame
-                        logger.debug(f'Video {videoId} - New face found at {timestamp / 1000 :.4f}s. Total faces: {len(faceEncodings)}')
+                        logger.debug(f'Video {videoId} - New face found at {timestamp / 1000 :.4f}s. Face width: {faceWidth}, face height: {faceHeight}. Total faces: {len(faceEncodings)}')
+    
                 if (time.time() - lastStatTime) > STAT_PRINT_INTERVAL:
                     processingSpeed = (globalFrameIndex / (time.time() - startTime))
                     timestampSeconds = timestamp / 1000
@@ -163,7 +173,7 @@ def loadIntervalsFile(filePath: str) -> list[tuple[float, float]]:
             intervals.append((start,end))
     return intervals
 
-def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int) -> None:
+def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int, minFaceWidth: int, minFaceHeight: int) -> None:
     if videoIds is None:
         ds = VideoDataset(fstools.DatasetFSHelper.getRawVideoFolderPath())
         videoIds = [videoId for videoId in ds]
@@ -174,7 +184,7 @@ def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int) -> 
             raise FileNotFoundError()
     logger.debug(f'Will extract faces from {len(videoIds)} videos')
     for videoId in videoIds:
-        extractAllFacesFromVideo(videoId, sleep, frameBatchSize=workers)
+        extractAllFacesFromVideo(videoId, sleep, minFaceWidth, minFaceHeight, frameBatchSize=workers)
 
 def handleMergeFaces(videoId: str, sourceList: list, target: int) -> None:
     # Get the video's path
@@ -397,6 +407,13 @@ if __name__ == '__main__':
     parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip')
     parser.add_argument('--rebuild', type=bool, required=False, default=False, help='Rebuild output')
     parser.add_argument('--branch', type=str, required=False, default=None, help='Branch name')
+    # Filtering based on the minimum face size is not useful because
+    # when the face is partially covered, even for a short time, the rectangle's size will be small
+    # but this doesn't mean that the face is small, it is just a little covered.
+    # Removing faces that are too small can be done when merging the faces, even if this can lead to 
+    # small faces (for example those contained in a small rectangle on the bottom-right overlay in a video to be included)
+    parser.add_argument('--min-face-width', type=int, required=False, default=0, help='Minimum face width')
+    parser.add_argument('--min-face-height', type=int, required=False, default=0, help='Minimum face height')
 
     args = parser.parse_args()
 
@@ -407,7 +424,7 @@ if __name__ == '__main__':
     fs.ensureBranchPathExists()
 
     if args.command == COMMAND_EXTRACT_FACES:
-        handleExtractFacesCommand(args.workers, args.video_id, args.sleep)
+        handleExtractFacesCommand(args.workers, args.video_id, args.sleep, args.min_face_width, args.min_face_height)
     elif args.command == COMMAND_MERGE_FACES:
         handleMergeFaces(args.video_id[0], args.source, args.target)
     elif args.command == COMMAND_CREATE_INTERVALS:
