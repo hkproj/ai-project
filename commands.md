@@ -1,7 +1,7 @@
 # Extract faces
 
 ```
-python data_processing.py extract-faces --workers 10
+python data_processing.py extract-faces --workers 10 --branch BRANCH_NAME
 ```
 
 # Merge faces
