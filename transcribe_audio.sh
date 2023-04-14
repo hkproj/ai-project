@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# This is needed otherwise it is not possible to activate the conda environment
 eval "$(conda shell.bash hook)"
 conda activate ai-project
 python -c "import os; import numpy; os.system('which whisperx')"
