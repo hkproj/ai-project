@@ -27,3 +27,15 @@ python data_processing.py create-clips --video-id VIDEOID --target TARGET --min-
 ```
 python data_processing.py extract-audio --video-id VIDEOID
 ```
+
+# Transcribe audio
+
+```
+python data_processing.py transcribe-audio --video-id VIDEOID
+```
+
+# Extract mini clips
+
+```
+python data_processing.py create-miniclips --video-id VIDEOID
+```
