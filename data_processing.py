@@ -11,6 +11,7 @@ import concurrent.futures
 import argparse
 import os
 import datetime
+from srtloader import SRTLoader
 import tools
 
 logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
@@ -21,11 +22,51 @@ def _extractFacesFromFrame(index: int, rgbFrame):
     faceEncodings = face_recognition.face_encodings(rgbFrame, faceLocations)
     return index, faceLocations, faceEncodings
 
-def extractAllFacesFromVideo(videoId: str, sleep: int, minFaceWidth: int, minFaceHeight: int, frameBatchSize: int = 1) -> None:
+def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
+    if videoIds is None:
+        # Get all the videoIds from the clips folder
+        videoIds = []
+        path = Path(fs.getClipsFolderPath())
+        for item in path.iterdir():
+            if not item.is_file():
+                videoIds.append(item.name)
 
+    for videoId in videoIds:
+        # Get the video's path
+        clipsPath = fs.getClipsPath(videoId)
+        if not Path.exists(Path(clipsPath)):
+            raise FileNotFoundError()
+    
+    logger.debug(f'Will extract mini clips from {len(videoIds)} videos')
+
+    for videoId in videoIds:
+        # Get all the mp4 files in the video's clips folder
+        clipsPath = fs.getClipsPath(videoId)
+        clips = []
+        for item in Path(clipsPath).iterdir():
+            if item.is_file() and item.suffix == '.mp4':
+                # Get the file name without extension
+                clipFileNameWithoutExtension = os.path.splitext(os.path.basename(item.name))[0]
+                clipSubtitlesFileName = clipFileNameWithoutExtension + ".aac.word.srt"
+                srtFilePath = os.path.join(clipsPath, clipSubtitlesFileName)
+                if not Path.exists(Path(srtFilePath)):
+                    logger.debug(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
+                    continue
+                # Load the SRT file and verify that there is at least the minimum number of words
+                srt = SRTLoader(srtFilePath)
+                allWords = srt.getAllWords()
+                if len(allWords) < numWords:
+                    logger.debug(f'Video {videoId} - Ignoring clip {item.name} because it has less than {numWords} words')
+                    continue
+                clips.append((clipFileNameWithoutExtension, clipSubtitlesFileName))
+                logger.info(f'Video {videoId} - Will generate miniclips from video {item.name} which contains {len(srt.getAllWords())} words')
+
+        
+                
+
+def extractAllFacesFromVideo(videoId: str, sleep: int, minFaceWidth: int, minFaceHeight: int, frameBatchSize: int = 1) -> None:
     # If the directory already exists, ignore this video
     faceSavePath = fs.getFacesPath(videoId)
-    # Delete the directory and then re-create it
     if Path.exists(Path(faceSavePath)):
         logger.info(f'Ignoring video {videoId} because its directory already exists')
         return
@@ -392,8 +433,9 @@ if __name__ == '__main__':
     COMMAND_CREATE_CLIPS = "create-clips"
     COMMAND_EXTRACT_AUDIO = "extract-audio"
     COMMAND_TRANSCRIBE_AUDIO = "transcribe-audio"
+    COMMAND_CREATE_MINICLIPS = "create-miniclips"
 
-    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO]
+    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO, COMMAND_CREATE_MINICLIPS]
 
     parser = argparse.ArgumentParser(prog = 'Video Processing',description = 'video processing utility')
     parser.add_argument('command', type=str, choices=choices, help='The operation to execute')
@@ -414,6 +456,8 @@ if __name__ == '__main__':
     # small faces (for example those contained in a small rectangle on the bottom-right overlay in a video to be included)
     parser.add_argument('--min-face-width', type=int, required=False, default=0, help='Minimum face width')
     parser.add_argument('--min-face-height', type=int, required=False, default=0, help='Minimum face height')
+    # For mini clip creation
+    parser.add_argument('--words', type=int, required=False, default=5, help='Number of words for each clip')
 
     args = parser.parse_args()
 
@@ -435,3 +479,5 @@ if __name__ == '__main__':
         handleExtractAudio(args.video_id, args.rebuild)
     elif args.command == COMMAND_TRANSCRIBE_AUDIO:
         handleTranscribeAudio(args.video_id, args.rebuild)
+    elif args.command == COMMAND_CREATE_MINICLIPS:
+        handleExtractMiniClips(args.video_id, args.words)

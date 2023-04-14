@@ -6,6 +6,7 @@ DATA_DIR = 'data'
 RAW_VIDEOS_DIR = 'raw_videos'
 FACES_DIR = 'faces'
 CLIPS_DIR = 'clips'
+MINI_CLIPS_DIR = 'miniclips'
 BRANCHES_DIR = 'branches'
 
 MODEL_BRANCH_NAME = '_model'
@@ -46,6 +47,10 @@ class DatasetFSHelper:
 
     def getClipsPath(self, videoId: str) -> str:
         path = Path('.') / DATA_DIR / BRANCHES_DIR / self.branch / CLIPS_DIR / videoId
+        return str(path)
+    
+    def getMiniClipsPath(self, videoId: str) -> str:
+        path = Path('.') / DATA_DIR / BRANCHES_DIR / self.branch / MINI_CLIPS_DIR / videoId
         return str(path)
     
     def ensureBranchPathExists(self) -> None:
