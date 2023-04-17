@@ -51,43 +51,45 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
                 clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.TRANSCRIPTION_FILE_EXTENSION
                 srtFilePath = os.path.join(clipsPath, clipSubtitlesFileName)
                 if not Path.exists(Path(srtFilePath)):
-                    logger.debug(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
+                    logger.warning(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
                     continue
                 # Load the SRT file and verify that there is at least the minimum number of words
                 srt = SRTLoader(srtFilePath)
                 allWords = srt.getAllWords()
 
                 # Check if there are lines with multiple words
-                for index, (originalTimestampString, start, end, word) in enumerate(allWords):
+                for index, (originalTimestampString, start, end, originalWord) in enumerate(allWords):
+
+                    # Perform any replacements as defined in the file
+                    replacementsFilePath = Path(transcript_cleaning.REPLACEMENTS_FILE).absolute()
+                    if not Path.exists(replacementsFilePath):
+                        raise Exception("Replacements file not found")
+                
+                    anyReplacements, transformedWord0 = transcript_cleaning.performReplacementsFromFile(str(replacementsFilePath), originalWord)
+
                     # Find any floating point number
-                    if transcript_cleaning.detectFloatingPointNumbers(word):
+                    if transcript_cleaning.detectFloatingPointNumbers(transformedWord0):
                         # Show a warning
-                        logger.warn(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found floating point number at index {index + 1}: {word}')
+                        logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found floating point number at index {index + 1}: {originalWord}')
                         # Do not process this line
                         continue
 
                     # Find any numbers and convert it
-                    anyNumbersFound, newWord1 = transcript_cleaning.convertAllNumbersToWords(word)
-                    if anyNumbersFound:
-                        logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Converted number at index {index + 1}')
-                        logger.debug(f'Old string: {word}')
-                        logger.debug(f'New string: {newWord1}')
-                    continue
+                    anyNumbersFound, transformedWord1 = transcript_cleaning.convertAllNumbersToWords(originalWord)
 
-                    anyCharRemoved, newWord2 = transcript_cleaning.removeUselessChars(newWord1)
-                    if anyCharRemoved:
-                        logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found special char at index {index + 1}')
-                        logger.debug(f'Old string: {newWord1}')
-                        logger.debug(f'New string: {newWord2}')
+                    anyCharRemoved, transformedWord2 = transcript_cleaning.removeUselessChars(transformedWord1)
 
                     #  Transform the case
-                    newWord3 = transcript_cleaning.transformCase(newWord2)
+                    transformedWord3 = transcript_cleaning.transformCase(transformedWord2)
 
                     # Check if there are still some invalid chars
-                    if transcript_cleaning.detectInvalidChars(newWord3):
-                        logger.warn(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found invalid char at index {index + 1}: {newWord3}')
+                    if transcript_cleaning.detectInvalidChars(transformedWord3):
+                        logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found invalid char at index {index + 1}: {transformedWord3}')
 
-                    allWords[index] = (originalTimestampString, start, end, newWord3)
+                    if anyNumbersFound or anyCharRemoved:
+                        logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Cleaned line {index + 1}: {originalWord} -> {transformedWord3}')
+
+                    allWords[index] = (originalTimestampString, start, end, transformedWord3)
 
                 srt.saveToFile(srtFilePath, allWords)
 

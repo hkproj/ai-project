@@ -1,0 +1,7 @@
+# Change "5.000" into "5000" (remove any dots or commas)
+(^|\s+)(\d+)(\.|\,){1}(0+){1}(\s+|$)
+\g<1>\g<2>\g<4>\g<5>
+
+# Transform 5% into "5 percento"
+(\d+)(\%{1})(\s+|$)
+\g<1> percento\g<3>
