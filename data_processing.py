@@ -3,9 +3,7 @@ from pathlib import Path
 import fstools
 from datasets import VideoDataset
 import face_recognition
-import shutil
 import time
-import logging
 from log import getLogger
 import concurrent.futures
 import argparse
