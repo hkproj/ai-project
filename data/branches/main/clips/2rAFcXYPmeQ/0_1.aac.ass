@@ -1,0 +1,68 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.26,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:0.26,0:00:0.44,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:0.44,0:00:0.54,Default,,0,0,0,,E {\1c&HFF00&\u1}per{\r} intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:0.54,0:00:0.60,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:0.60,0:00:1.16,Default,,0,0,0,,E per {\1c&HFF00&\u1}intenderci,{\r} l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:1.16,0:00:1.48,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:1.48,0:00:1.93,Default,,0,0,0,,E per intenderci, {\1c&HFF00&\u1}l'ultimo{\r} dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:1.93,0:00:2.01,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:2.01,0:00:2.13,Default,,0,0,0,,E per intenderci, l'ultimo {\1c&HFF00&\u1}dei{\r} giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:2.13,0:00:2.17,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:2.17,0:00:2.63,Default,,0,0,0,,E per intenderci, l'ultimo dei {\1c&HFF00&\u1}giocatori{\r} dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:2.63,0:00:2.69,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:2.69,0:00:3.29,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori {\1c&HFF00&\u1}dell'NBA,{\r} cioè quello che sta sempre in
+Dialogue: 0,0:00:3.29,0:00:3.33,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:3.33,0:00:3.45,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, {\1c&HFF00&\u1}cioè{\r} quello che sta sempre in
+Dialogue: 0,0:00:3.45,0:00:3.47,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:3.47,0:00:3.61,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè {\1c&HFF00&\u1}quello{\r} che sta sempre in
+Dialogue: 0,0:00:3.61,0:00:3.63,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:3.63,0:00:3.71,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello {\1c&HFF00&\u1}che{\r} sta sempre in
+Dialogue: 0,0:00:3.71,0:00:3.75,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:3.75,0:00:3.85,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che {\1c&HFF00&\u1}sta{\r} sempre in
+Dialogue: 0,0:00:3.85,0:00:3.89,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:3.89,0:00:4.09,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta {\1c&HFF00&\u1}sempre{\r} in
+Dialogue: 0,0:00:4.09,0:00:4.11,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre in
+Dialogue: 0,0:00:4.11,0:00:4.15,Default,,0,0,0,,E per intenderci, l'ultimo dei giocatori dell'NBA, cioè quello che sta sempre {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:4.16,0:00:4.60,Default,,0,0,0,,{\1c&HFF00&\u1}panchina{\r} e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:4.60,0:00:4.96,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:4.96,0:00:5.00,Default,,0,0,0,,panchina {\1c&HFF00&\u1}e{\r} che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.00,0:00:5.02,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.02,0:00:5.10,Default,,0,0,0,,panchina e {\1c&HFF00&\u1}che{\r} non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.10,0:00:5.12,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.12,0:00:5.22,Default,,0,0,0,,panchina e che {\1c&HFF00&\u1}non{\r} gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.22,0:00:5.24,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.24,0:00:5.44,Default,,0,0,0,,panchina e che non {\1c&HFF00&\u1}gioca{\r} mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.44,0:00:5.50,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.50,0:00:5.75,Default,,0,0,0,,panchina e che non gioca {\1c&HFF00&\u1}mai,{\r} per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.75,0:00:5.89,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.89,0:00:5.99,Default,,0,0,0,,panchina e che non gioca mai, {\1c&HFF00&\u1}per{\r} intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:5.99,0:00:6.05,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:6.05,0:00:6.63,Default,,0,0,0,,panchina e che non gioca mai, per {\1c&HFF00&\u1}intenderci,{\r} guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:6.63,0:00:7.01,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:7.01,0:00:7.47,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, {\1c&HFF00&\u1}guadagnerà{\r} qualcosa come un milioncino di
+Dialogue: 0,0:00:7.47,0:00:7.55,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:7.55,0:00:7.99,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà {\1c&HFF00&\u1}qualcosa{\r} come un milioncino di
+Dialogue: 0,0:00:7.99,0:00:8.07,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:8.07,0:00:8.34,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa {\1c&HFF00&\u1}come{\r} un milioncino di
+Dialogue: 0,0:00:8.34,0:00:8.52,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:8.52,0:00:8.58,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come {\1c&HFF00&\u1}un{\r} milioncino di
+Dialogue: 0,0:00:8.58,0:00:8.64,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:8.64,0:00:9.24,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un {\1c&HFF00&\u1}milioncino{\r} di
+Dialogue: 0,0:00:9.24,0:00:9.32,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino di
+Dialogue: 0,0:00:9.32,0:00:9.38,Default,,0,0,0,,panchina e che non gioca mai, per intenderci, guadagnerà qualcosa come un milioncino {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:9.36,0:00:9.44,Default,,0,0,0,,{\1c&HFF00&\u1}euro{\r} all'anno.
+Dialogue: 0,0:00:9.44,0:00:9.46,Default,,0,0,0,,euro all'anno.
+Dialogue: 0,0:00:9.46,0:00:9.61,Default,,0,0,0,,euro {\1c&HFF00&\u1}all'anno.{\r}

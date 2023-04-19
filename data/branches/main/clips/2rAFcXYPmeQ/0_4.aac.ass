@@ -1,0 +1,1235 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.28,0:00:0.46,Default,,0,0,0,,{\1c&HFF00&\u1}Ecco,{\r} tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:0.46,0:00:0.62,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:0.62,0:00:0.96,Default,,0,0,0,,Ecco, {\1c&HFF00&\u1}tutto{\r} ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:0.96,0:00:1.08,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.08,0:00:1.26,Default,,0,0,0,,Ecco, tutto {\1c&HFF00&\u1}ciò{\r} che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.26,0:00:1.36,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.36,0:00:1.46,Default,,0,0,0,,Ecco, tutto ciò {\1c&HFF00&\u1}che{\r} rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.46,0:00:1.50,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.50,0:00:1.74,Default,,0,0,0,,Ecco, tutto ciò che {\1c&HFF00&\u1}rende{\r} le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.74,0:00:1.82,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.82,0:00:1.89,Default,,0,0,0,,Ecco, tutto ciò che rende {\1c&HFF00&\u1}le{\r} transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.89,0:00:1.93,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:1.93,0:00:2.39,Default,,0,0,0,,Ecco, tutto ciò che rende le {\1c&HFF00&\u1}transizioni{\r} economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:2.39,0:00:2.45,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:2.45,0:00:2.95,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni {\1c&HFF00&\u1}economiche{\r} più veloci, più rapide, o che
+Dialogue: 0,0:00:2.95,0:00:3.15,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:3.15,0:00:3.27,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche {\1c&HFF00&\u1}più{\r} veloci, più rapide, o che
+Dialogue: 0,0:00:3.27,0:00:3.37,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:3.37,0:00:3.81,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più {\1c&HFF00&\u1}veloci,{\r} più rapide, o che
+Dialogue: 0,0:00:3.81,0:00:3.99,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:3.99,0:00:4.11,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, {\1c&HFF00&\u1}più{\r} rapide, o che
+Dialogue: 0,0:00:4.11,0:00:4.21,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:4.21,0:00:4.67,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più {\1c&HFF00&\u1}rapide,{\r} o che
+Dialogue: 0,0:00:4.67,0:00:5.07,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:5.07,0:00:5.17,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, {\1c&HFF00&\u1}o{\r} che
+Dialogue: 0,0:00:5.17,0:00:5.27,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o che
+Dialogue: 0,0:00:5.27,0:00:5.35,Default,,0,0,0,,Ecco, tutto ciò che rende le transizioni economiche più veloci, più rapide, o {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:5.72,0:00:6.22,Default,,0,0,0,,{\1c&HFF00&\u1}offusca{\r} magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:6.22,0:00:6.30,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:6.30,0:00:6.56,Default,,0,0,0,,offusca {\1c&HFF00&\u1}magari{\r} il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:6.56,0:00:6.58,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:6.58,0:00:6.62,Default,,0,0,0,,offusca magari {\1c&HFF00&\u1}il{\r} passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:6.62,0:00:6.68,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:6.68,0:00:7.16,Default,,0,0,0,,offusca magari il {\1c&HFF00&\u1}passaggio{\r} bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:7.16,0:00:7.28,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:7.28,0:00:7.43,Default,,0,0,0,,offusca magari il passaggio {\1c&HFF00&\u1}bre{\r} di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:7.43,0:00:7.47,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:7.47,0:00:7.55,Default,,0,0,0,,offusca magari il passaggio bre {\1c&HFF00&\u1}di{\r} mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:7.55,0:00:7.59,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:7.59,0:00:7.97,Default,,0,0,0,,offusca magari il passaggio bre di {\1c&HFF00&\u1}mano{\r} dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:7.97,0:00:8.01,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:8.01,0:00:8.15,Default,,0,0,0,,offusca magari il passaggio bre di mano {\1c&HFF00&\u1}dei{\r} bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:8.15,0:00:8.21,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:8.21,0:00:8.79,Default,,0,0,0,,offusca magari il passaggio bre di mano dei {\1c&HFF00&\u1}bigliettoni{\r} da te all'altro, riduce il dolore
+Dialogue: 0,0:00:8.79,0:00:8.85,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:8.85,0:00:8.91,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni {\1c&HFF00&\u1}da{\r} te all'altro, riduce il dolore
+Dialogue: 0,0:00:8.91,0:00:8.97,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:8.97,0:00:9.05,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da {\1c&HFF00&\u1}te{\r} all'altro, riduce il dolore
+Dialogue: 0,0:00:9.05,0:00:9.11,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:9.11,0:00:9.67,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te {\1c&HFF00&\u1}all'altro,{\r} riduce il dolore
+Dialogue: 0,0:00:9.67,0:00:10.25,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:10.25,0:00:10.75,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, {\1c&HFF00&\u1}riduce{\r} il dolore
+Dialogue: 0,0:00:10.75,0:00:10.77,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:10.77,0:00:10.83,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce {\1c&HFF00&\u1}il{\r} dolore
+Dialogue: 0,0:00:10.83,0:00:10.85,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il dolore
+Dialogue: 0,0:00:10.85,0:00:11.09,Default,,0,0,0,,offusca magari il passaggio bre di mano dei bigliettoni da te all'altro, riduce il {\1c&HFF00&\u1}dolore{\r}
+Dialogue: 0,0:00:11.10,0:00:11.36,Default,,0,0,0,,{\1c&HFF00&\u1}del{\r} pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:11.36,0:00:11.38,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:11.38,0:00:11.84,Default,,0,0,0,,del {\1c&HFF00&\u1}pagamento{\r} e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:11.84,0:00:11.86,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:11.86,0:00:11.88,Default,,0,0,0,,del pagamento {\1c&HFF00&\u1}e{\r} quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:11.88,0:00:11.96,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:11.96,0:00:12.28,Default,,0,0,0,,del pagamento e {\1c&HFF00&\u1}quindi{\r} rende più facile che tu spenda.
+Dialogue: 0,0:00:12.28,0:00:12.69,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:12.69,0:00:12.89,Default,,0,0,0,,del pagamento e quindi {\1c&HFF00&\u1}rende{\r} più facile che tu spenda.
+Dialogue: 0,0:00:12.89,0:00:12.93,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:12.93,0:00:13.03,Default,,0,0,0,,del pagamento e quindi rende {\1c&HFF00&\u1}più{\r} facile che tu spenda.
+Dialogue: 0,0:00:13.03,0:00:13.09,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:13.09,0:00:13.39,Default,,0,0,0,,del pagamento e quindi rende più {\1c&HFF00&\u1}facile{\r} che tu spenda.
+Dialogue: 0,0:00:13.39,0:00:13.43,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:13.43,0:00:13.51,Default,,0,0,0,,del pagamento e quindi rende più facile {\1c&HFF00&\u1}che{\r} tu spenda.
+Dialogue: 0,0:00:13.51,0:00:13.57,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:13.57,0:00:13.63,Default,,0,0,0,,del pagamento e quindi rende più facile che {\1c&HFF00&\u1}tu{\r} spenda.
+Dialogue: 0,0:00:13.63,0:00:13.69,Default,,0,0,0,,del pagamento e quindi rende più facile che tu spenda.
+Dialogue: 0,0:00:13.69,0:00:14.09,Default,,0,0,0,,del pagamento e quindi rende più facile che tu {\1c&HFF00&\u1}spenda.{\r}
+Dialogue: 0,0:00:14.38,0:00:14.52,Default,,0,0,0,,{\1c&HFF00&\u1}Ecco,{\r} voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:14.52,0:00:14.64,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:14.64,0:00:14.80,Default,,0,0,0,,Ecco, {\1c&HFF00&\u1}voglio{\r} dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:14.80,0:00:14.82,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:14.82,0:00:14.92,Default,,0,0,0,,Ecco, voglio {\1c&HFF00&\u1}dire{\r} che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:14.92,0:00:14.96,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:14.96,0:00:15.04,Default,,0,0,0,,Ecco, voglio dire {\1c&HFF00&\u1}che{\r} c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.04,0:00:15.08,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.08,0:00:15.16,Default,,0,0,0,,Ecco, voglio dire che {\1c&HFF00&\u1}c'è{\r} un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.16,0:00:15.22,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.22,0:00:15.58,Default,,0,0,0,,Ecco, voglio dire che c'è {\1c&HFF00&\u1}un'occasione{\r} secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.58,0:00:15.62,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.62,0:00:15.87,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione {\1c&HFF00&\u1}secondo{\r} me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.87,0:00:15.89,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.89,0:00:15.93,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo {\1c&HFF00&\u1}me{\r} a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.93,0:00:15.95,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.95,0:00:15.97,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me {\1c&HFF00&\u1}a{\r} questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:15.97,0:00:16.03,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:16.03,0:00:16.25,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a {\1c&HFF00&\u1}questa{\r} regola dei contanti, ovvero le
+Dialogue: 0,0:00:16.25,0:00:16.31,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:16.31,0:00:16.55,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa {\1c&HFF00&\u1}regola{\r} dei contanti, ovvero le
+Dialogue: 0,0:00:16.55,0:00:16.59,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:16.59,0:00:16.67,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola {\1c&HFF00&\u1}dei{\r} contanti, ovvero le
+Dialogue: 0,0:00:16.67,0:00:16.73,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:16.73,0:00:17.25,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei {\1c&HFF00&\u1}contanti,{\r} ovvero le
+Dialogue: 0,0:00:17.25,0:00:17.33,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:17.33,0:00:17.71,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, {\1c&HFF00&\u1}ovvero{\r} le
+Dialogue: 0,0:00:17.71,0:00:18.23,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero le
+Dialogue: 0,0:00:18.23,0:00:18.29,Default,,0,0,0,,Ecco, voglio dire che c'è un'occasione secondo me a questa regola dei contanti, ovvero {\1c&HFF00&\u1}le{\r}
+Dialogue: 0,0:00:18.40,0:00:18.92,Default,,0,0,0,,{\1c&HFF00&\u1}occasioni{\r} nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:18.92,0:00:19.08,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.08,0:00:19.24,Default,,0,0,0,,occasioni {\1c&HFF00&\u1}nelle{\r} quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.24,0:00:19.30,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.30,0:00:19.50,Default,,0,0,0,,occasioni nelle {\1c&HFF00&\u1}quali{\r} è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.50,0:00:19.65,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.65,0:00:19.69,Default,,0,0,0,,occasioni nelle quali {\1c&HFF00&\u1}è{\r} giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.69,0:00:19.75,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.75,0:00:19.97,Default,,0,0,0,,occasioni nelle quali è {\1c&HFF00&\u1}giusto{\r} che tu spenda del denaro.
+Dialogue: 0,0:00:19.97,0:00:19.99,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:19.99,0:00:20.07,Default,,0,0,0,,occasioni nelle quali è giusto {\1c&HFF00&\u1}che{\r} tu spenda del denaro.
+Dialogue: 0,0:00:20.07,0:00:20.13,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:20.13,0:00:20.19,Default,,0,0,0,,occasioni nelle quali è giusto che {\1c&HFF00&\u1}tu{\r} spenda del denaro.
+Dialogue: 0,0:00:20.19,0:00:20.21,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:20.21,0:00:20.53,Default,,0,0,0,,occasioni nelle quali è giusto che tu {\1c&HFF00&\u1}spenda{\r} del denaro.
+Dialogue: 0,0:00:20.53,0:00:20.55,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:20.55,0:00:20.69,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda {\1c&HFF00&\u1}del{\r} denaro.
+Dialogue: 0,0:00:20.69,0:00:20.73,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del denaro.
+Dialogue: 0,0:00:20.73,0:00:21.07,Default,,0,0,0,,occasioni nelle quali è giusto che tu spenda del {\1c&HFF00&\u1}denaro.{\r}
+Dialogue: 0,0:00:21.26,0:00:21.56,Default,,0,0,0,,{\1c&HFF00&\u1}Cioè{\r} durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:21.56,0:00:21.58,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:21.58,0:00:21.84,Default,,0,0,0,,Cioè {\1c&HFF00&\u1}durante{\r} la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:21.84,0:00:21.92,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:21.92,0:00:21.98,Default,,0,0,0,,Cioè durante {\1c&HFF00&\u1}la{\r} luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:21.98,0:00:22.00,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:22.00,0:00:22.14,Default,,0,0,0,,Cioè durante la {\1c&HFF00&\u1}luna{\r} di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:22.14,0:00:22.18,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:22.18,0:00:22.24,Default,,0,0,0,,Cioè durante la luna {\1c&HFF00&\u1}di{\r} miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:22.24,0:00:22.30,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:22.30,0:00:22.66,Default,,0,0,0,,Cioè durante la luna di {\1c&HFF00&\u1}miele,{\r} secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:22.66,0:00:22.80,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:22.80,0:00:23.25,Default,,0,0,0,,Cioè durante la luna di miele, {\1c&HFF00&\u1}secondo{\r} me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.25,0:00:23.27,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.27,0:00:23.39,Default,,0,0,0,,Cioè durante la luna di miele, secondo {\1c&HFF00&\u1}me,{\r} non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.39,0:00:23.43,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.43,0:00:23.53,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, {\1c&HFF00&\u1}non{\r} è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.53,0:00:23.57,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.57,0:00:23.59,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non {\1c&HFF00&\u1}è{\r} giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.59,0:00:23.65,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.65,0:00:23.83,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è {\1c&HFF00&\u1}giusto{\r} che tu dica troppe volte alt
+Dialogue: 0,0:00:23.83,0:00:23.87,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.87,0:00:23.93,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto {\1c&HFF00&\u1}che{\r} tu dica troppe volte alt
+Dialogue: 0,0:00:23.93,0:00:23.97,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:23.97,0:00:24.05,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che {\1c&HFF00&\u1}tu{\r} dica troppe volte alt
+Dialogue: 0,0:00:24.05,0:00:24.09,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:24.09,0:00:24.27,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu {\1c&HFF00&\u1}dica{\r} troppe volte alt
+Dialogue: 0,0:00:24.27,0:00:24.37,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:24.37,0:00:24.69,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica {\1c&HFF00&\u1}troppe{\r} volte alt
+Dialogue: 0,0:00:24.69,0:00:24.75,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:24.75,0:00:25.03,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe {\1c&HFF00&\u1}volte{\r} alt
+Dialogue: 0,0:00:25.03,0:00:25.23,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte alt
+Dialogue: 0,0:00:25.23,0:00:25.51,Default,,0,0,0,,Cioè durante la luna di miele, secondo me, non è giusto che tu dica troppe volte {\1c&HFF00&\u1}alt{\r}
+Dialogue: 0,0:00:25.92,0:00:26.14,Default,,0,0,0,,{\1c&HFF00&\u1}costa{\r} troppo.
+Dialogue: 0,0:00:26.14,0:00:26.18,Default,,0,0,0,,costa troppo.
+Dialogue: 0,0:00:26.18,0:00:26.57,Default,,0,0,0,,costa {\1c&HFF00&\u1}troppo.{\r}
+Dialogue: 0,0:00:26.92,0:00:27.06,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:27.06,0:00:27.10,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:27.10,0:00:27.26,Default,,0,0,0,,sono {\1c&HFF00&\u1}degli{\r} eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:27.26,0:00:27.30,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:27.30,0:00:27.60,Default,,0,0,0,,sono degli {\1c&HFF00&\u1}eventi{\r} speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:27.60,0:00:27.68,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:27.68,0:00:28.24,Default,,0,0,0,,sono degli eventi {\1c&HFF00&\u1}speciali.{\r} In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:28.24,0:00:28.56,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:28.56,0:00:28.67,Default,,0,0,0,,sono degli eventi speciali. {\1c&HFF00&\u1}In{\r} questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:28.67,0:00:28.73,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:28.73,0:00:28.95,Default,,0,0,0,,sono degli eventi speciali. In {\1c&HFF00&\u1}questi{\r} casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:28.95,0:00:28.99,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:28.99,0:00:29.23,Default,,0,0,0,,sono degli eventi speciali. In questi {\1c&HFF00&\u1}casi,{\r} quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:29.23,0:00:29.29,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:29.29,0:00:29.49,Default,,0,0,0,,sono degli eventi speciali. In questi casi, {\1c&HFF00&\u1}quindi,{\r} tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:29.49,0:00:29.63,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:29.63,0:00:29.83,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, {\1c&HFF00&\u1}tira{\r} fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:29.83,0:00:29.87,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:29.87,0:00:30.07,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira {\1c&HFF00&\u1}fuori{\r} la carta di plastica e divertiti,
+Dialogue: 0,0:00:30.07,0:00:30.13,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:30.13,0:00:30.19,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori {\1c&HFF00&\u1}la{\r} carta di plastica e divertiti,
+Dialogue: 0,0:00:30.19,0:00:30.25,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:30.25,0:00:30.49,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la {\1c&HFF00&\u1}carta{\r} di plastica e divertiti,
+Dialogue: 0,0:00:30.49,0:00:30.51,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:30.51,0:00:30.59,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta {\1c&HFF00&\u1}di{\r} plastica e divertiti,
+Dialogue: 0,0:00:30.59,0:00:30.65,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:30.65,0:00:31.11,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di {\1c&HFF00&\u1}plastica{\r} e divertiti,
+Dialogue: 0,0:00:31.11,0:00:31.49,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:31.49,0:00:31.57,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica {\1c&HFF00&\u1}e{\r} divertiti,
+Dialogue: 0,0:00:31.57,0:00:31.59,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e divertiti,
+Dialogue: 0,0:00:31.59,0:00:32.07,Default,,0,0,0,,sono degli eventi speciali. In questi casi, quindi, tira fuori la carta di plastica e {\1c&HFF00&\u1}divertiti,{\r}
+Dialogue: 0,0:00:32.18,0:00:32.38,Default,,0,0,0,,{\1c&HFF00&\u1}però{\r} fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:32.38,0:00:32.68,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:32.68,0:00:32.78,Default,,0,0,0,,però {\1c&HFF00&\u1}fai{\r} sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:32.78,0:00:32.82,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:32.82,0:00:32.88,Default,,0,0,0,,però fai {\1c&HFF00&\u1}sì{\r} che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:32.88,0:00:32.92,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:32.92,0:00:33.00,Default,,0,0,0,,però fai sì {\1c&HFF00&\u1}che{\r} queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.00,0:00:33.06,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.06,0:00:33.26,Default,,0,0,0,,però fai sì che {\1c&HFF00&\u1}queste{\r} siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.26,0:00:33.32,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.32,0:00:33.46,Default,,0,0,0,,però fai sì che queste {\1c&HFF00&\u1}siano{\r} delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.46,0:00:33.50,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.50,0:00:33.68,Default,,0,0,0,,però fai sì che queste siano {\1c&HFF00&\u1}delle{\r} eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.68,0:00:33.70,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:33.70,0:00:34.21,Default,,0,0,0,,però fai sì che queste siano delle {\1c&HFF00&\u1}eccezioni{\r} e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.21,0:00:34.45,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.45,0:00:34.49,Default,,0,0,0,,però fai sì che queste siano delle eccezioni {\1c&HFF00&\u1}e{\r} non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.49,0:00:34.55,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.55,0:00:34.67,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e {\1c&HFF00&\u1}non{\r} la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.67,0:00:34.73,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.73,0:00:34.79,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non {\1c&HFF00&\u1}la{\r} regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.79,0:00:34.83,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:34.83,0:00:35.15,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la {\1c&HFF00&\u1}regola.{\r} Quarta trappola potenzialmente
+Dialogue: 0,0:00:35.15,0:00:35.37,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:35.37,0:00:35.67,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. {\1c&HFF00&\u1}Quarta{\r} trappola potenzialmente
+Dialogue: 0,0:00:35.67,0:00:35.75,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:35.75,0:00:36.13,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta {\1c&HFF00&\u1}trappola{\r} potenzialmente
+Dialogue: 0,0:00:36.13,0:00:36.19,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola potenzialmente
+Dialogue: 0,0:00:36.19,0:00:36.87,Default,,0,0,0,,però fai sì che queste siano delle eccezioni e non la regola. Quarta trappola {\1c&HFF00&\u1}potenzialmente{\r}
+Dialogue: 0,0:00:37.08,0:00:37.84,Default,,0,0,0,,{\1c&HFF00&\u1}devastante{\r} si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:37.84,0:00:37.94,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:37.94,0:00:38.02,Default,,0,0,0,,devastante {\1c&HFF00&\u1}si{\r} basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.02,0:00:38.06,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.06,0:00:38.30,Default,,0,0,0,,devastante si {\1c&HFF00&\u1}basa{\r} sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.30,0:00:38.34,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.34,0:00:38.48,Default,,0,0,0,,devastante si basa {\1c&HFF00&\u1}sul{\r} principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.48,0:00:38.52,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.52,0:00:38.87,Default,,0,0,0,,devastante si basa sul {\1c&HFF00&\u1}principio{\r} psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.87,0:00:38.93,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:38.93,0:00:39.63,Default,,0,0,0,,devastante si basa sul principio {\1c&HFF00&\u1}psicologico{\r} per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:39.63,0:00:40.11,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:40.11,0:00:40.23,Default,,0,0,0,,devastante si basa sul principio psicologico {\1c&HFF00&\u1}per{\r} cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:40.23,0:00:40.29,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:40.29,0:00:40.43,Default,,0,0,0,,devastante si basa sul principio psicologico per {\1c&HFF00&\u1}cui{\r} il primo numero che viene detto all'interno
+Dialogue: 0,0:00:40.43,0:00:40.61,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:40.61,0:00:40.69,Default,,0,0,0,,devastante si basa sul principio psicologico per cui {\1c&HFF00&\u1}il{\r} primo numero che viene detto all'interno
+Dialogue: 0,0:00:40.69,0:00:40.75,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:40.75,0:00:40.97,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il {\1c&HFF00&\u1}primo{\r} numero che viene detto all'interno
+Dialogue: 0,0:00:40.97,0:00:41.03,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:41.03,0:00:41.35,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo {\1c&HFF00&\u1}numero{\r} che viene detto all'interno
+Dialogue: 0,0:00:41.35,0:00:41.43,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:41.43,0:00:41.51,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero {\1c&HFF00&\u1}che{\r} viene detto all'interno
+Dialogue: 0,0:00:41.51,0:00:41.53,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:41.53,0:00:41.69,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che {\1c&HFF00&\u1}viene{\r} detto all'interno
+Dialogue: 0,0:00:41.69,0:00:41.75,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:41.75,0:00:42.09,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene {\1c&HFF00&\u1}detto{\r} all'interno
+Dialogue: 0,0:00:42.09,0:00:42.33,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto all'interno
+Dialogue: 0,0:00:42.33,0:00:42.88,Default,,0,0,0,,devastante si basa sul principio psicologico per cui il primo numero che viene detto {\1c&HFF00&\u1}all'interno{\r}
+Dialogue: 0,0:00:42.86,0:00:42.90,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:42.90,0:00:42.92,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:42.92,0:00:42.98,Default,,0,0,0,,di {\1c&HFF00&\u1}una{\r} trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:42.98,0:00:43.00,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.00,0:00:43.20,Default,,0,0,0,,di una {\1c&HFF00&\u1}trattativa{\r} economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.20,0:00:43.22,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.22,0:00:43.40,Default,,0,0,0,,di una trattativa {\1c&HFF00&\u1}economica{\r} influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.40,0:00:43.42,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.42,0:00:43.60,Default,,0,0,0,,di una trattativa economica {\1c&HFF00&\u1}influenza{\r} quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.60,0:00:43.62,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.62,0:00:43.74,Default,,0,0,0,,di una trattativa economica influenza {\1c&HFF00&\u1}quelle{\r} che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.74,0:00:43.76,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.76,0:00:43.82,Default,,0,0,0,,di una trattativa economica influenza quelle {\1c&HFF00&\u1}che{\r} saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.82,0:00:43.84,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.84,0:00:43.98,Default,,0,0,0,,di una trattativa economica influenza quelle che {\1c&HFF00&\u1}saranno{\r} le tue scelte future. I menu ben
+Dialogue: 0,0:00:43.98,0:00:44.00,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:44.00,0:00:44.04,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno {\1c&HFF00&\u1}le{\r} tue scelte future. I menu ben
+Dialogue: 0,0:00:44.04,0:00:44.06,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:44.06,0:00:44.12,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le {\1c&HFF00&\u1}tue{\r} scelte future. I menu ben
+Dialogue: 0,0:00:44.12,0:00:44.14,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:44.14,0:00:44.26,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue {\1c&HFF00&\u1}scelte{\r} future. I menu ben
+Dialogue: 0,0:00:44.26,0:00:44.28,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:44.28,0:00:44.40,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte {\1c&HFF00&\u1}future.{\r} I menu ben
+Dialogue: 0,0:00:44.40,0:00:44.42,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:44.42,0:00:44.44,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. {\1c&HFF00&\u1}I{\r} menu ben
+Dialogue: 0,0:00:44.44,0:00:44.48,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:44.48,0:00:44.56,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I {\1c&HFF00&\u1}menu{\r} ben
+Dialogue: 0,0:00:44.56,0:00:44.58,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu ben
+Dialogue: 0,0:00:44.58,0:00:44.64,Default,,0,0,0,,di una trattativa economica influenza quelle che saranno le tue scelte future. I menu {\1c&HFF00&\u1}ben{\r}
+Dialogue: 0,0:00:48.58,0:00:49.28,Default,,0,0,0,,{\1c&HFF00&\u1}progettati,{\r} ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:49.28,0:00:49.30,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:49.30,0:00:49.34,Default,,0,0,0,,progettati, {\1c&HFF00&\u1}ad{\r} esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:49.34,0:00:49.36,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:49.36,0:00:49.76,Default,,0,0,0,,progettati, ad {\1c&HFF00&\u1}esempio,{\r} hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:49.76,0:00:50.26,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:50.26,0:00:50.44,Default,,0,0,0,,progettati, ad esempio, {\1c&HFF00&\u1}hanno{\r} solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:50.44,0:00:50.52,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:50.52,0:00:51.25,Default,,0,0,0,,progettati, ad esempio, hanno {\1c&HFF00&\u1}solitamente{\r} una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:51.25,0:00:51.53,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:51.53,0:00:51.67,Default,,0,0,0,,progettati, ad esempio, hanno solitamente {\1c&HFF00&\u1}una{\r} voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:51.67,0:00:51.73,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:51.73,0:00:52.09,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una {\1c&HFF00&\u1}voce{\r} ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:52.09,0:00:52.39,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:52.39,0:00:52.63,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce {\1c&HFF00&\u1}ben{\r} cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:52.63,0:00:52.73,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:52.73,0:00:53.11,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben {\1c&HFF00&\u1}cara,{\r} ben alta di costo di prezzo
+Dialogue: 0,0:00:53.11,0:00:53.17,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:53.17,0:00:53.31,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, {\1c&HFF00&\u1}ben{\r} alta di costo di prezzo
+Dialogue: 0,0:00:53.31,0:00:53.33,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:53.33,0:00:53.65,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben {\1c&HFF00&\u1}alta{\r} di costo di prezzo
+Dialogue: 0,0:00:53.65,0:00:53.69,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:53.69,0:00:53.77,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta {\1c&HFF00&\u1}di{\r} costo di prezzo
+Dialogue: 0,0:00:53.77,0:00:53.83,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:53.83,0:00:54.13,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di {\1c&HFF00&\u1}costo{\r} di prezzo
+Dialogue: 0,0:00:54.13,0:00:54.17,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:54.17,0:00:54.23,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo {\1c&HFF00&\u1}di{\r} prezzo
+Dialogue: 0,0:00:54.23,0:00:54.27,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di prezzo
+Dialogue: 0,0:00:54.27,0:00:54.63,Default,,0,0,0,,progettati, ad esempio, hanno solitamente una voce ben cara, ben alta di costo di {\1c&HFF00&\u1}prezzo{\r}
+Dialogue: 0,0:00:54.92,0:00:55.06,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.06,0:00:55.08,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.08,0:00:55.32,Default,,0,0,0,,in {\1c&HFF00&\u1}alto.{\r} Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.32,0:00:55.52,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.52,0:00:55.62,Default,,0,0,0,,in alto. {\1c&HFF00&\u1}Se{\r} il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.62,0:00:55.80,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.80,0:00:55.88,Default,,0,0,0,,in alto. Se {\1c&HFF00&\u1}il{\r} filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.88,0:00:55.94,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:55.94,0:00:56.22,Default,,0,0,0,,in alto. Se il {\1c&HFF00&\u1}filet{\r} mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:56.22,0:00:56.24,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:56.24,0:00:56.70,Default,,0,0,0,,in alto. Se il filet {\1c&HFF00&\u1}mignon{\r} costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:56.70,0:00:56.77,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:56.77,0:00:57.01,Default,,0,0,0,,in alto. Se il filet mignon {\1c&HFF00&\u1}costa 25{\r} euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:57.01,0:00:57.59,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:57.59,0:00:57.99,Default,,0,0,0,,in alto. Se il filet mignon costa 25 {\1c&HFF00&\u1}euro,{\r} va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:57.99,0:00:58.49,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:58.49,0:00:58.55,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, {\1c&HFF00&\u1}va{\r} a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:58.55,0:00:58.57,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:58.57,0:00:58.59,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va {\1c&HFF00&\u1}a{\r} finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:58.59,0:00:58.63,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:58.63,0:00:58.87,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a {\1c&HFF00&\u1}finire{\r} che ti sembra ragionevole spendere
+Dialogue: 0,0:00:58.87,0:00:58.91,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:58.91,0:00:59.01,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire {\1c&HFF00&\u1}che{\r} ti sembra ragionevole spendere
+Dialogue: 0,0:00:59.01,0:00:59.03,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:59.03,0:00:59.09,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che {\1c&HFF00&\u1}ti{\r} sembra ragionevole spendere
+Dialogue: 0,0:00:59.09,0:00:59.15,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:59.15,0:00:59.43,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti {\1c&HFF00&\u1}sembra{\r} ragionevole spendere
+Dialogue: 0,0:00:59.43,0:00:59.53,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:00:59.53,0:01:0.21,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra {\1c&HFF00&\u1}ragionevole{\r} spendere
+Dialogue: 0,0:01:0.21,0:01:0.27,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole spendere
+Dialogue: 0,0:01:0.27,0:01:0.70,Default,,0,0,0,,in alto. Se il filet mignon costa 25 euro, va a finire che ti sembra ragionevole {\1c&HFF00&\u1}spendere{\r}
+Dialogue: 0,0:01:1.42,0:01:1.62,Default,,0,0,0,,{\1c&HFF00&\u1}15 euro{\r} per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:1.62,0:01:1.64,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:1.64,0:01:1.76,Default,,0,0,0,,15 euro {\1c&HFF00&\u1}per{\r} un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:1.76,0:01:1.82,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:1.82,0:01:2.52,Default,,0,0,0,,15 euro per {\1c&HFF00&\u1}un'installata.{\r} Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:2.52,0:01:2.73,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:2.73,0:01:2.89,Default,,0,0,0,,15 euro per un'installata. {\1c&HFF00&\u1}Cioè{\r} insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:2.89,0:01:3.21,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:3.21,0:01:4.23,Default,,0,0,0,,15 euro per un'installata. Cioè {\1c&HFF00&\u1}insidiosamente{\r} tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:4.23,0:01:4.33,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:4.33,0:01:4.61,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente {\1c&HFF00&\u1}tutto{\r} il resto delle portate viene percepito
+Dialogue: 0,0:01:4.61,0:01:4.63,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:4.63,0:01:4.67,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto {\1c&HFF00&\u1}il{\r} resto delle portate viene percepito
+Dialogue: 0,0:01:4.67,0:01:4.75,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:4.75,0:01:4.97,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il {\1c&HFF00&\u1}resto{\r} delle portate viene percepito
+Dialogue: 0,0:01:4.97,0:01:5.01,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:5.01,0:01:5.17,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto {\1c&HFF00&\u1}delle{\r} portate viene percepito
+Dialogue: 0,0:01:5.17,0:01:5.21,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:5.21,0:01:5.85,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle {\1c&HFF00&\u1}portate{\r} viene percepito
+Dialogue: 0,0:01:5.85,0:01:6.09,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:6.09,0:01:6.27,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate {\1c&HFF00&\u1}viene{\r} percepito
+Dialogue: 0,0:01:6.27,0:01:6.35,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene percepito
+Dialogue: 0,0:01:6.35,0:01:6.78,Default,,0,0,0,,15 euro per un'installata. Cioè insidiosamente tutto il resto delle portate viene {\1c&HFF00&\u1}percepito{\r}
+Dialogue: 0,0:01:6.92,0:01:7.06,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.06,0:01:7.10,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.10,0:01:7.18,Default,,0,0,0,,come {\1c&HFF00&\u1}se{\r} fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.18,0:01:7.22,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.22,0:01:7.38,Default,,0,0,0,,come se {\1c&HFF00&\u1}fosse{\r} un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.38,0:01:7.40,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.40,0:01:7.48,Default,,0,0,0,,come se fosse {\1c&HFF00&\u1}un{\r} affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.48,0:01:7.54,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.54,0:01:7.96,Default,,0,0,0,,come se fosse un {\1c&HFF00&\u1}affare.{\r} Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:7.96,0:01:8.28,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:8.28,0:01:8.34,Default,,0,0,0,,come se fosse un affare. {\1c&HFF00&\u1}Se{\r} fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:8.34,0:01:8.43,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:8.43,0:01:8.61,Default,,0,0,0,,come se fosse un affare. Se {\1c&HFF00&\u1}fossi{\r} ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:8.61,0:01:8.65,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:8.65,0:01:8.71,Default,,0,0,0,,come se fosse un affare. Se fossi {\1c&HFF00&\u1}ad{\r} esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:8.71,0:01:8.73,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:8.73,0:01:9.03,Default,,0,0,0,,come se fosse un affare. Se fossi ad {\1c&HFF00&\u1}esempio{\r} un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:9.03,0:01:9.07,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:9.07,0:01:9.13,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio {\1c&HFF00&\u1}un{\r} agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:9.13,0:01:9.15,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:9.15,0:01:9.41,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un {\1c&HFF00&\u1}agente{\r} immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:9.41,0:01:9.43,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:9.43,0:01:10.05,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente {\1c&HFF00&\u1}immobiliare,{\r} io potrei farti vedere
+Dialogue: 0,0:01:10.05,0:01:10.27,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:10.27,0:01:10.35,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, {\1c&HFF00&\u1}io{\r} potrei farti vedere
+Dialogue: 0,0:01:10.35,0:01:10.39,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:10.39,0:01:10.59,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io {\1c&HFF00&\u1}potrei{\r} farti vedere
+Dialogue: 0,0:01:10.59,0:01:10.63,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:10.63,0:01:10.85,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei {\1c&HFF00&\u1}farti{\r} vedere
+Dialogue: 0,0:01:10.85,0:01:10.89,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti vedere
+Dialogue: 0,0:01:10.89,0:01:11.17,Default,,0,0,0,,come se fosse un affare. Se fossi ad esempio un agente immobiliare, io potrei farti {\1c&HFF00&\u1}vedere{\r}
+Dialogue: 0,0:01:11.40,0:01:11.68,Default,,0,0,0,,{\1c&HFF00&\u1}prima{\r} due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:11.68,0:01:12.22,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:12.22,0:01:12.40,Default,,0,0,0,,prima {\1c&HFF00&\u1}due{\r} case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:12.40,0:01:12.48,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:12.48,0:01:12.86,Default,,0,0,0,,prima due {\1c&HFF00&\u1}case{\r} di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:12.86,0:01:13.10,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:13.10,0:01:13.20,Default,,0,0,0,,prima due case {\1c&HFF00&\u1}di{\r} un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:13.20,0:01:13.57,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:13.57,0:01:13.69,Default,,0,0,0,,prima due case di {\1c&HFF00&\u1}un{\r} prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:13.69,0:01:13.75,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:13.75,0:01:14.15,Default,,0,0,0,,prima due case di un {\1c&HFF00&\u1}prezzo{\r} molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:14.15,0:01:14.37,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:14.37,0:01:14.71,Default,,0,0,0,,prima due case di un prezzo {\1c&HFF00&\u1}molto{\r} alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:14.71,0:01:14.77,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:14.77,0:01:15.13,Default,,0,0,0,,prima due case di un prezzo molto {\1c&HFF00&\u1}alto{\r} al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:15.13,0:01:15.65,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:15.65,0:01:15.73,Default,,0,0,0,,prima due case di un prezzo molto alto {\1c&HFF00&\u1}al{\r} di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:15.73,0:01:15.79,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:15.79,0:01:15.87,Default,,0,0,0,,prima due case di un prezzo molto alto al {\1c&HFF00&\u1}di{\r} fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:15.87,0:01:15.95,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:15.95,0:01:16.27,Default,,0,0,0,,prima due case di un prezzo molto alto al di {\1c&HFF00&\u1}fuori{\r} delle tue aspettative, delle tue
+Dialogue: 0,0:01:16.27,0:01:16.31,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:16.31,0:01:16.51,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori {\1c&HFF00&\u1}delle{\r} tue aspettative, delle tue
+Dialogue: 0,0:01:16.51,0:01:16.55,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:16.55,0:01:16.65,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle {\1c&HFF00&\u1}tue{\r} aspettative, delle tue
+Dialogue: 0,0:01:16.65,0:01:16.69,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:16.69,0:01:17.31,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue {\1c&HFF00&\u1}aspettative,{\r} delle tue
+Dialogue: 0,0:01:17.31,0:01:17.35,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:17.35,0:01:17.51,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, {\1c&HFF00&\u1}delle{\r} tue
+Dialogue: 0,0:01:17.51,0:01:17.53,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle tue
+Dialogue: 0,0:01:17.53,0:01:17.63,Default,,0,0,0,,prima due case di un prezzo molto alto al di fuori delle tue aspettative, delle {\1c&HFF00&\u1}tue{\r}
+Dialogue: 0,0:01:18.18,0:01:18.44,Default,,0,0,0,,{\1c&HFF00&\u1}portate,{\r} per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:18.44,0:01:18.46,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:18.46,0:01:18.64,Default,,0,0,0,,portate, {\1c&HFF00&\u1}per{\r} poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:18.64,0:01:18.72,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:18.72,0:01:18.86,Default,,0,0,0,,portate, per {\1c&HFF00&\u1}poi{\r} proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:18.86,0:01:18.90,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:18.90,0:01:19.30,Default,,0,0,0,,portate, per poi {\1c&HFF00&\u1}proporti{\r} una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:19.30,0:01:19.36,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:19.36,0:01:19.48,Default,,0,0,0,,portate, per poi proporti {\1c&HFF00&\u1}una{\r} terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:19.48,0:01:19.56,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:19.56,0:01:20.01,Default,,0,0,0,,portate, per poi proporti una {\1c&HFF00&\u1}terza{\r} casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:20.01,0:01:20.29,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:20.29,0:01:20.57,Default,,0,0,0,,portate, per poi proporti una terza {\1c&HFF00&\u1}casa{\r} più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:20.57,0:01:20.63,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:20.63,0:01:20.71,Default,,0,0,0,,portate, per poi proporti una terza casa {\1c&HFF00&\u1}più{\r} economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:20.71,0:01:20.75,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:20.75,0:01:21.25,Default,,0,0,0,,portate, per poi proporti una terza casa più {\1c&HFF00&\u1}economica,{\r} ma comunque più alta rispetto
+Dialogue: 0,0:01:21.25,0:01:21.29,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:21.29,0:01:21.35,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, {\1c&HFF00&\u1}ma{\r} comunque più alta rispetto
+Dialogue: 0,0:01:21.35,0:01:21.39,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:21.39,0:01:21.81,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma {\1c&HFF00&\u1}comunque{\r} più alta rispetto
+Dialogue: 0,0:01:21.81,0:01:22.31,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:22.31,0:01:22.41,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque {\1c&HFF00&\u1}più{\r} alta rispetto
+Dialogue: 0,0:01:22.41,0:01:22.49,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:22.49,0:01:22.87,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più {\1c&HFF00&\u1}alta{\r} rispetto
+Dialogue: 0,0:01:22.87,0:01:23.01,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta rispetto
+Dialogue: 0,0:01:23.01,0:01:23.31,Default,,0,0,0,,portate, per poi proporti una terza casa più economica, ma comunque più alta {\1c&HFF00&\u1}rispetto{\r}
+Dialogue: 0,0:01:23.32,0:01:23.74,Default,,0,0,0,,{\1c&HFF00&\u1}quelle{\r} che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:23.74,0:01:23.76,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:23.76,0:01:23.82,Default,,0,0,0,,quelle {\1c&HFF00&\u1}che{\r} erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:23.82,0:01:23.84,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:23.84,0:01:24.00,Default,,0,0,0,,quelle che {\1c&HFF00&\u1}erano{\r} le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.00,0:01:24.04,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.04,0:01:24.08,Default,,0,0,0,,quelle che erano {\1c&HFF00&\u1}le{\r} tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.08,0:01:24.10,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.10,0:01:24.20,Default,,0,0,0,,quelle che erano le {\1c&HFF00&\u1}tue{\r} aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.20,0:01:24.24,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.24,0:01:24.70,Default,,0,0,0,,quelle che erano le tue {\1c&HFF00&\u1}aspettative{\r} iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.70,0:01:24.74,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:24.74,0:01:25.31,Default,,0,0,0,,quelle che erano le tue aspettative {\1c&HFF00&\u1}iniziali{\r} e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:25.31,0:01:25.73,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:25.73,0:01:25.85,Default,,0,0,0,,quelle che erano le tue aspettative iniziali {\1c&HFF00&\u1}e{\r} vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:25.85,0:01:25.93,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:25.93,0:01:26.19,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e {\1c&HFF00&\u1}vedrai{\r} che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:26.19,0:01:26.23,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:26.23,0:01:26.31,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai {\1c&HFF00&\u1}che{\r} tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:26.31,0:01:26.39,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:26.39,0:01:26.63,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che {\1c&HFF00&\u1}tu{\r} allora sarai portato ad acquistarla
+Dialogue: 0,0:01:26.63,0:01:26.79,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:26.79,0:01:27.03,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu {\1c&HFF00&\u1}allora{\r} sarai portato ad acquistarla
+Dialogue: 0,0:01:27.03,0:01:27.07,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:27.07,0:01:27.25,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora {\1c&HFF00&\u1}sarai{\r} portato ad acquistarla
+Dialogue: 0,0:01:27.25,0:01:27.31,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:27.31,0:01:27.59,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai {\1c&HFF00&\u1}portato{\r} ad acquistarla
+Dialogue: 0,0:01:27.59,0:01:27.85,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:27.85,0:01:27.93,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato {\1c&HFF00&\u1}ad{\r} acquistarla
+Dialogue: 0,0:01:27.93,0:01:27.97,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad acquistarla
+Dialogue: 0,0:01:27.97,0:01:28.37,Default,,0,0,0,,quelle che erano le tue aspettative iniziali e vedrai che tu allora sarai portato ad {\1c&HFF00&\u1}acquistarla{\r}
+Dialogue: 0,0:01:28.36,0:01:28.42,Default,,0,0,0,,{\1c&HFF00&\u1}più{\r} facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.42,0:01:28.44,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.44,0:01:28.64,Default,,0,0,0,,più {\1c&HFF00&\u1}facilmente,{\r} perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.64,0:01:28.66,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.66,0:01:28.78,Default,,0,0,0,,più facilmente, {\1c&HFF00&\u1}perché{\r} la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.78,0:01:28.80,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.80,0:01:28.84,Default,,0,0,0,,più facilmente, perché {\1c&HFF00&\u1}la{\r} vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.84,0:01:28.86,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.86,0:01:28.98,Default,,0,0,0,,più facilmente, perché la {\1c&HFF00&\u1}vedrai{\r} come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:28.98,0:01:29.00,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.00,0:01:29.08,Default,,0,0,0,,più facilmente, perché la vedrai {\1c&HFF00&\u1}come{\r} più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.08,0:01:29.10,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.10,0:01:29.18,Default,,0,0,0,,più facilmente, perché la vedrai come {\1c&HFF00&\u1}più{\r} economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.18,0:01:29.20,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.20,0:01:29.38,Default,,0,0,0,,più facilmente, perché la vedrai come più {\1c&HFF00&\u1}economica{\r} rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.38,0:01:29.40,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.40,0:01:29.56,Default,,0,0,0,,più facilmente, perché la vedrai come più economica {\1c&HFF00&\u1}rispetto{\r} alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.56,0:01:29.58,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.58,0:01:29.66,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto {\1c&HFF00&\u1}alle{\r} due precedenti. Quindi,
+Dialogue: 0,0:01:29.66,0:01:29.68,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.68,0:01:29.74,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle {\1c&HFF00&\u1}due{\r} precedenti. Quindi,
+Dialogue: 0,0:01:29.74,0:01:29.76,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:29.76,0:01:29.98,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due {\1c&HFF00&\u1}precedenti.{\r} Quindi,
+Dialogue: 0,0:01:29.98,0:01:30.00,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. Quindi,
+Dialogue: 0,0:01:30.00,0:01:30.13,Default,,0,0,0,,più facilmente, perché la vedrai come più economica rispetto alle due precedenti. {\1c&HFF00&\u1}Quindi,{\r}
+Dialogue: 0,0:01:33.32,0:01:33.48,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:33.48,0:01:33.50,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:33.50,0:01:33.90,Default,,0,0,0,,come {\1c&HFF00&\u1}resisti{\r} al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:33.90,0:01:33.96,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:33.96,0:01:34.08,Default,,0,0,0,,come resisti {\1c&HFF00&\u1}al{\r} potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:34.08,0:01:34.16,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:34.16,0:01:34.72,Default,,0,0,0,,come resisti al {\1c&HFF00&\u1}potere,{\r} all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:34.72,0:01:34.90,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:34.90,0:01:35.89,Default,,0,0,0,,come resisti al potere, {\1c&HFF00&\u1}all'attrattiva{\r} del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:35.89,0:01:35.97,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:35.97,0:01:36.15,Default,,0,0,0,,come resisti al potere, all'attrattiva {\1c&HFF00&\u1}del{\r} primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:36.15,0:01:36.23,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:36.23,0:01:36.43,Default,,0,0,0,,come resisti al potere, all'attrattiva del {\1c&HFF00&\u1}primo{\r} prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:36.43,0:01:36.51,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:36.51,0:01:36.93,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo {\1c&HFF00&\u1}prezzo,{\r} potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:36.93,0:01:37.25,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:37.25,0:01:37.57,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, {\1c&HFF00&\u1}potresti{\r} ad esempio farti una ricerca su
+Dialogue: 0,0:01:37.57,0:01:37.59,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:37.59,0:01:37.63,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti {\1c&HFF00&\u1}ad{\r} esempio farti una ricerca su
+Dialogue: 0,0:01:37.63,0:01:37.65,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:37.65,0:01:37.93,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad {\1c&HFF00&\u1}esempio{\r} farti una ricerca su
+Dialogue: 0,0:01:37.93,0:01:38.01,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:38.01,0:01:38.27,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio {\1c&HFF00&\u1}farti{\r} una ricerca su
+Dialogue: 0,0:01:38.27,0:01:38.31,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:38.31,0:01:38.41,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti {\1c&HFF00&\u1}una{\r} ricerca su
+Dialogue: 0,0:01:38.41,0:01:38.45,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:38.45,0:01:38.89,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una {\1c&HFF00&\u1}ricerca{\r} su
+Dialogue: 0,0:01:38.89,0:01:39.11,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca su
+Dialogue: 0,0:01:39.11,0:01:39.16,Default,,0,0,0,,come resisti al potere, all'attrattiva del primo prezzo, potresti ad esempio farti una ricerca {\1c&HFF00&\u1}su{\r}
+Dialogue: 0,0:01:39.12,0:01:39.28,Default,,0,0,0,,{\1c&HFF00&\u1}internet{\r} per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.28,0:01:39.30,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.30,0:01:39.36,Default,,0,0,0,,internet {\1c&HFF00&\u1}per{\r} vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.36,0:01:39.38,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.38,0:01:39.50,Default,,0,0,0,,internet per {\1c&HFF00&\u1}vedere{\r} di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.50,0:01:39.52,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.52,0:01:39.56,Default,,0,0,0,,internet per vedere {\1c&HFF00&\u1}di{\r} norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.56,0:01:39.58,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.58,0:01:39.68,Default,,0,0,0,,internet per vedere di {\1c&HFF00&\u1}norma{\r} solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.68,0:01:39.70,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.70,0:01:39.92,Default,,0,0,0,,internet per vedere di norma {\1c&HFF00&\u1}solitamente{\r} le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.92,0:01:39.94,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.94,0:01:39.98,Default,,0,0,0,,internet per vedere di norma solitamente {\1c&HFF00&\u1}le{\r} persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:39.98,0:01:40.00,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.00,0:01:40.14,Default,,0,0,0,,internet per vedere di norma solitamente le {\1c&HFF00&\u1}persone{\r} quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.14,0:01:40.16,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.16,0:01:40.28,Default,,0,0,0,,internet per vedere di norma solitamente le persone {\1c&HFF00&\u1}quanto{\r} pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.28,0:01:40.30,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.30,0:01:40.42,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto {\1c&HFF00&\u1}pagano{\r} per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.42,0:01:40.44,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.44,0:01:40.50,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano {\1c&HFF00&\u1}per{\r} quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.50,0:01:40.52,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.52,0:01:40.92,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per {\1c&HFF00&\u1}quell'automobile.{\r} Così il prezzo
+Dialogue: 0,0:01:40.92,0:01:40.94,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:40.94,0:01:41.04,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. {\1c&HFF00&\u1}Così{\r} il prezzo
+Dialogue: 0,0:01:41.04,0:01:41.09,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:41.09,0:01:41.19,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così {\1c&HFF00&\u1}il{\r} prezzo
+Dialogue: 0,0:01:41.19,0:01:41.25,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il prezzo
+Dialogue: 0,0:01:41.25,0:01:41.43,Default,,0,0,0,,internet per vedere di norma solitamente le persone quanto pagano per quell'automobile. Così il {\1c&HFF00&\u1}prezzo{\r}
+Dialogue: 0,0:01:44.84,0:01:45.64,Default,,0,0,0,,{\1c&HFF00&\u1}consigliato{\r} per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:45.64,0:01:45.66,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:45.66,0:01:45.74,Default,,0,0,0,,consigliato {\1c&HFF00&\u1}per{\r} l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:45.74,0:01:45.78,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:45.78,0:01:46.18,Default,,0,0,0,,consigliato per {\1c&HFF00&\u1}l'acquisto{\r} avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:46.18,0:01:46.30,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:46.30,0:01:46.46,Default,,0,0,0,,consigliato per l'acquisto {\1c&HFF00&\u1}avrà{\r} meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:46.46,0:01:46.93,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:46.93,0:01:47.11,Default,,0,0,0,,consigliato per l'acquisto avrà {\1c&HFF00&\u1}meno{\r} influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:47.11,0:01:47.15,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:47.15,0:01:47.77,Default,,0,0,0,,consigliato per l'acquisto avrà meno {\1c&HFF00&\u1}influenza{\r} sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:47.77,0:01:47.99,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:47.99,0:01:48.15,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza {\1c&HFF00&\u1}sulla{\r} tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:48.15,0:01:48.17,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:48.17,0:01:48.29,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla {\1c&HFF00&\u1}tua{\r} decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:48.29,0:01:48.33,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:48.33,0:01:48.69,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua {\1c&HFF00&\u1}decisione{\r} finale. Quando noi abbiamo già
+Dialogue: 0,0:01:48.69,0:01:48.77,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:48.77,0:01:49.13,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione {\1c&HFF00&\u1}finale.{\r} Quando noi abbiamo già
+Dialogue: 0,0:01:49.13,0:01:49.31,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:49.31,0:01:49.51,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. {\1c&HFF00&\u1}Quando{\r} noi abbiamo già
+Dialogue: 0,0:01:49.51,0:01:49.55,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:49.55,0:01:49.65,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando {\1c&HFF00&\u1}noi{\r} abbiamo già
+Dialogue: 0,0:01:49.65,0:01:49.67,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:49.67,0:01:50.03,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi {\1c&HFF00&\u1}abbiamo{\r} già
+Dialogue: 0,0:01:50.03,0:01:50.21,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo già
+Dialogue: 0,0:01:50.21,0:01:50.29,Default,,0,0,0,,consigliato per l'acquisto avrà meno influenza sulla tua decisione finale. Quando noi abbiamo {\1c&HFF00&\u1}già{\r}
+Dialogue: 0,0:01:50.64,0:01:50.70,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:50.70,0:01:50.72,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:50.72,0:01:50.96,Default,,0,0,0,,un {\1c&HFF00&\u1}valore{\r} prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:50.96,0:01:51.02,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:51.02,0:01:51.76,Default,,0,0,0,,un valore {\1c&HFF00&\u1}prestabilito{\r} o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:51.76,0:01:51.90,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:51.90,0:01:51.96,Default,,0,0,0,,un valore prestabilito {\1c&HFF00&\u1}o{\r} una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:51.96,0:01:52.02,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:52.02,0:01:52.16,Default,,0,0,0,,un valore prestabilito o {\1c&HFF00&\u1}una{\r} fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:52.16,0:01:52.22,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:52.22,0:01:52.53,Default,,0,0,0,,un valore prestabilito o una {\1c&HFF00&\u1}fascia{\r} di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:52.53,0:01:52.59,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:52.59,0:01:52.65,Default,,0,0,0,,un valore prestabilito o una fascia {\1c&HFF00&\u1}di{\r} prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:52.65,0:01:52.71,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:52.71,0:01:53.05,Default,,0,0,0,,un valore prestabilito o una fascia di {\1c&HFF00&\u1}prezzo{\r} nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:53.05,0:01:53.13,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:53.13,0:01:53.33,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo {\1c&HFF00&\u1}nelle{\r} nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:53.33,0:01:53.39,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:53.39,0:01:53.59,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle {\1c&HFF00&\u1}nostre{\r} menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:53.59,0:01:53.67,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:53.67,0:01:54.01,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre {\1c&HFF00&\u1}menti,{\r} infatti, è più difficile per gli
+Dialogue: 0,0:01:54.01,0:01:54.45,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:54.45,0:01:54.93,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, {\1c&HFF00&\u1}infatti,{\r} è più difficile per gli
+Dialogue: 0,0:01:54.93,0:01:55.31,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:55.31,0:01:55.35,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, {\1c&HFF00&\u1}è{\r} più difficile per gli
+Dialogue: 0,0:01:55.35,0:01:55.39,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:55.39,0:01:55.47,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è {\1c&HFF00&\u1}più{\r} difficile per gli
+Dialogue: 0,0:01:55.47,0:01:55.53,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:55.53,0:01:55.95,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più {\1c&HFF00&\u1}difficile{\r} per gli
+Dialogue: 0,0:01:55.95,0:01:56.11,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:56.11,0:01:56.23,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile {\1c&HFF00&\u1}per{\r} gli
+Dialogue: 0,0:01:56.23,0:01:56.28,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per gli
+Dialogue: 0,0:01:56.28,0:01:56.36,Default,,0,0,0,,un valore prestabilito o una fascia di prezzo nelle nostre menti, infatti, è più difficile per {\1c&HFF00&\u1}gli{\r}
+Dialogue: 0,0:01:56.60,0:01:56.94,Default,,0,0,0,,{\1c&HFF00&\u1}estranei{\r} utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:56.94,0:01:57.42,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:57.42,0:01:58.06,Default,,0,0,0,,estranei {\1c&HFF00&\u1}utilizzare{\r} il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:58.06,0:01:58.26,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:58.26,0:01:58.36,Default,,0,0,0,,estranei utilizzare {\1c&HFF00&\u1}il{\r} potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:58.36,0:01:58.42,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:58.42,0:01:58.83,Default,,0,0,0,,estranei utilizzare il {\1c&HFF00&\u1}potere{\r} del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:58.83,0:01:58.87,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:58.87,0:01:59.01,Default,,0,0,0,,estranei utilizzare il potere {\1c&HFF00&\u1}del{\r} primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.01,0:01:59.03,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.03,0:01:59.23,Default,,0,0,0,,estranei utilizzare il potere del {\1c&HFF00&\u1}primo{\r} pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.23,0:01:59.27,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.27,0:01:59.59,Default,,0,0,0,,estranei utilizzare il potere del primo {\1c&HFF00&\u1}pezzo{\r} per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.59,0:01:59.67,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.67,0:01:59.81,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo {\1c&HFF00&\u1}per{\r} influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.81,0:01:59.87,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:01:59.87,0:02:0.79,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per {\1c&HFF00&\u1}influenzare{\r} le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:0.79,0:02:0.95,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:0.95,0:02:1.01,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare {\1c&HFF00&\u1}le{\r} nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:1.01,0:02:1.07,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:1.07,0:02:1.33,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le {\1c&HFF00&\u1}nostre{\r} menti. Infine, quinto punto,
+Dialogue: 0,0:02:1.33,0:02:1.39,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:1.39,0:02:1.75,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre {\1c&HFF00&\u1}menti.{\r} Infine, quinto punto,
+Dialogue: 0,0:02:1.75,0:02:2.01,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:2.01,0:02:2.29,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. {\1c&HFF00&\u1}Infine,{\r} quinto punto,
+Dialogue: 0,0:02:2.29,0:02:2.39,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:2.39,0:02:2.61,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, {\1c&HFF00&\u1}quinto{\r} punto,
+Dialogue: 0,0:02:2.61,0:02:2.67,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto punto,
+Dialogue: 0,0:02:2.67,0:02:3.00,Default,,0,0,0,,estranei utilizzare il potere del primo pezzo per influenzare le nostre menti. Infine, quinto {\1c&HFF00&\u1}punto,{\r}
+Dialogue: 0,0:02:4.64,0:02:5.17,Default,,0,0,0,,{\1c&HFF00&\u1}pensa{\r} alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.17,0:02:5.45,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.45,0:02:5.57,Default,,0,0,0,,pensa {\1c&HFF00&\u1}alla{\r} strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.57,0:02:5.59,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.59,0:02:5.77,Default,,0,0,0,,pensa alla {\1c&HFF00&\u1}strategia{\r} di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.77,0:02:5.79,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.79,0:02:5.83,Default,,0,0,0,,pensa alla strategia {\1c&HFF00&\u1}di{\r} Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.83,0:02:5.85,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:5.85,0:02:6.09,Default,,0,0,0,,pensa alla strategia di {\1c&HFF00&\u1}Ulisse.{\r} Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:6.09,0:02:6.17,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:6.17,0:02:6.29,Default,,0,0,0,,pensa alla strategia di Ulisse. {\1c&HFF00&\u1}Ulisse,{\r} per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:6.29,0:02:6.55,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:6.55,0:02:6.67,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, {\1c&HFF00&\u1}per{\r} resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:6.67,0:02:6.73,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:6.73,0:02:7.25,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per {\1c&HFF00&\u1}resistere{\r} alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:7.25,0:02:7.31,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:7.31,0:02:7.47,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere {\1c&HFF00&\u1}alla{\r} tentazione del suono delle sirene,
+Dialogue: 0,0:02:7.47,0:02:7.51,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:7.51,0:02:8.13,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla {\1c&HFF00&\u1}tentazione{\r} del suono delle sirene,
+Dialogue: 0,0:02:8.13,0:02:8.19,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:8.19,0:02:8.29,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione {\1c&HFF00&\u1}del{\r} suono delle sirene,
+Dialogue: 0,0:02:8.29,0:02:8.33,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:8.33,0:02:8.51,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del {\1c&HFF00&\u1}suono{\r} delle sirene,
+Dialogue: 0,0:02:8.51,0:02:8.55,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:8.55,0:02:8.67,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono {\1c&HFF00&\u1}delle{\r} sirene,
+Dialogue: 0,0:02:8.67,0:02:8.71,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle sirene,
+Dialogue: 0,0:02:8.71,0:02:9.04,Default,,0,0,0,,pensa alla strategia di Ulisse. Ulisse, per resistere alla tentazione del suono delle {\1c&HFF00&\u1}sirene,{\r}
+Dialogue: 0,0:02:9.00,0:02:9.48,Default,,0,0,0,,{\1c&HFF00&\u1}si{\r} era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:9.48,0:02:9.58,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:9.58,0:02:9.74,Default,,0,0,0,,si {\1c&HFF00&\u1}era{\r} fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:9.74,0:02:9.78,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:9.78,0:02:10.02,Default,,0,0,0,,si era {\1c&HFF00&\u1}fatto{\r} legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:10.02,0:02:10.08,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:10.08,0:02:10.58,Default,,0,0,0,,si era fatto {\1c&HFF00&\u1}legare{\r} all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:10.58,0:02:10.80,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:10.80,0:02:11.25,Default,,0,0,0,,si era fatto legare {\1c&HFF00&\u1}all'albero{\r} della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:11.25,0:02:11.29,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:11.29,0:02:11.51,Default,,0,0,0,,si era fatto legare all'albero {\1c&HFF00&\u1}della{\r} nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:11.51,0:02:11.55,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:11.55,0:02:12.45,Default,,0,0,0,,si era fatto legare all'albero della {\1c&HFF00&\u1}nave.{\r} Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:12.45,0:02:12.49,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:12.49,0:02:12.63,Default,,0,0,0,,si era fatto legare all'albero della nave. {\1c&HFF00&\u1}Ora,{\r} io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:12.63,0:02:12.75,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:12.75,0:02:12.85,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, {\1c&HFF00&\u1}io{\r} dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:12.85,0:02:12.89,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:12.89,0:02:13.15,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io {\1c&HFF00&\u1}dubito{\r} che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:13.15,0:02:13.19,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:13.19,0:02:13.29,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito {\1c&HFF00&\u1}che{\r} tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:13.29,0:02:13.35,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:13.35,0:02:13.59,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che {\1c&HFF00&\u1}tutti{\r} noi abbiamo a disposizione una
+Dialogue: 0,0:02:13.59,0:02:13.63,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:13.63,0:02:13.77,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti {\1c&HFF00&\u1}noi{\r} abbiamo a disposizione una
+Dialogue: 0,0:02:13.77,0:02:13.81,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:13.81,0:02:14.05,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi {\1c&HFF00&\u1}abbiamo{\r} a disposizione una
+Dialogue: 0,0:02:14.05,0:02:14.07,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:14.07,0:02:14.09,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo {\1c&HFF00&\u1}a{\r} disposizione una
+Dialogue: 0,0:02:14.09,0:02:14.13,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:14.13,0:02:14.77,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a {\1c&HFF00&\u1}disposizione{\r} una
+Dialogue: 0,0:02:14.77,0:02:15.38,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione una
+Dialogue: 0,0:02:15.38,0:02:15.48,Default,,0,0,0,,si era fatto legare all'albero della nave. Ora, io dubito che tutti noi abbiamo a disposizione {\1c&HFF00&\u1}una{\r}
+Dialogue: 0,0:02:15.78,0:02:16.00,Default,,0,0,0,,{\1c&HFF00&\u1}nostra{\r} nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.00,0:02:16.10,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.10,0:02:16.32,Default,,0,0,0,,nostra {\1c&HFF00&\u1}nave{\r} con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.32,0:02:16.34,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.34,0:02:16.40,Default,,0,0,0,,nostra nave {\1c&HFF00&\u1}con{\r} un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.40,0:02:16.72,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.72,0:02:16.80,Default,,0,0,0,,nostra nave con {\1c&HFF00&\u1}un{\r} albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.80,0:02:16.84,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:16.84,0:02:17.27,Default,,0,0,0,,nostra nave con un {\1c&HFF00&\u1}albero{\r} alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:17.27,0:02:17.63,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:17.63,0:02:17.79,Default,,0,0,0,,nostra nave con un albero {\1c&HFF00&\u1}alla{\r} quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:17.79,0:02:17.81,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:17.81,0:02:18.01,Default,,0,0,0,,nostra nave con un albero alla {\1c&HFF00&\u1}quale{\r} farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:18.01,0:02:18.07,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:18.07,0:02:18.33,Default,,0,0,0,,nostra nave con un albero alla quale {\1c&HFF00&\u1}farci{\r} legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:18.33,0:02:18.37,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:18.37,0:02:18.67,Default,,0,0,0,,nostra nave con un albero alla quale farci {\1c&HFF00&\u1}legare,{\r} però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:18.67,0:02:18.77,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:18.77,0:02:18.95,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, {\1c&HFF00&\u1}però,{\r} guarda, possiamo trovare delle
+Dialogue: 0,0:02:18.95,0:02:19.29,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:19.29,0:02:19.47,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, {\1c&HFF00&\u1}guarda,{\r} possiamo trovare delle
+Dialogue: 0,0:02:19.47,0:02:19.51,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:19.51,0:02:19.75,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, {\1c&HFF00&\u1}possiamo{\r} trovare delle
+Dialogue: 0,0:02:19.75,0:02:19.81,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:19.81,0:02:20.07,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo {\1c&HFF00&\u1}trovare{\r} delle
+Dialogue: 0,0:02:20.07,0:02:20.09,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare delle
+Dialogue: 0,0:02:20.09,0:02:20.25,Default,,0,0,0,,nostra nave con un albero alla quale farci legare, però, guarda, possiamo trovare {\1c&HFF00&\u1}delle{\r}
+Dialogue: 0,0:02:20.52,0:02:20.68,Default,,0,0,0,,{\1c&HFF00&\u1}altre{\r} soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:20.68,0:02:20.72,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:20.72,0:02:21.32,Default,,0,0,0,,altre {\1c&HFF00&\u1}soluzioni.{\r} E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:21.32,0:02:22.00,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.00,0:02:22.08,Default,,0,0,0,,altre soluzioni. {\1c&HFF00&\u1}E{\r} si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.08,0:02:22.20,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.20,0:02:22.28,Default,,0,0,0,,altre soluzioni. E {\1c&HFF00&\u1}si{\r} tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.28,0:02:22.34,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.34,0:02:22.59,Default,,0,0,0,,altre soluzioni. E si {\1c&HFF00&\u1}tratta{\r} più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.59,0:02:22.63,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.63,0:02:22.71,Default,,0,0,0,,altre soluzioni. E si tratta {\1c&HFF00&\u1}più{\r} dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.71,0:02:22.73,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.73,0:02:22.91,Default,,0,0,0,,altre soluzioni. E si tratta più {\1c&HFF00&\u1}dello{\r} specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.91,0:02:22.93,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:22.93,0:02:23.39,Default,,0,0,0,,altre soluzioni. E si tratta più dello {\1c&HFF00&\u1}specifico{\r} di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:23.39,0:02:23.49,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:23.49,0:02:23.55,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico {\1c&HFF00&\u1}di{\r} erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:23.55,0:02:23.59,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:23.59,0:02:24.01,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di {\1c&HFF00&\u1}erigere{\r} ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:24.01,0:02:24.27,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:24.27,0:02:24.59,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere {\1c&HFF00&\u1}ora{\r} delle barriere che ci aiutino a
+Dialogue: 0,0:02:24.59,0:02:24.87,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:24.87,0:02:25.19,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora {\1c&HFF00&\u1}delle{\r} barriere che ci aiutino a
+Dialogue: 0,0:02:25.19,0:02:25.33,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:25.33,0:02:26.05,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle {\1c&HFF00&\u1}barriere{\r} che ci aiutino a
+Dialogue: 0,0:02:26.05,0:02:26.29,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:26.29,0:02:26.39,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere {\1c&HFF00&\u1}che{\r} ci aiutino a
+Dialogue: 0,0:02:26.39,0:02:26.49,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:26.49,0:02:26.57,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che {\1c&HFF00&\u1}ci{\r} aiutino a
+Dialogue: 0,0:02:26.57,0:02:26.61,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:26.61,0:02:27.04,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci {\1c&HFF00&\u1}aiutino{\r} a
+Dialogue: 0,0:02:27.04,0:02:27.18,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino a
+Dialogue: 0,0:02:27.18,0:02:27.20,Default,,0,0,0,,altre soluzioni. E si tratta più dello specifico di erigere ora delle barriere che ci aiutino {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:02:30.59,0:02:31.09,Default,,0,0,0,,{\1c&HFF00&\u1}resistere{\r} dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:31.09,0:02:31.15,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:31.15,0:02:31.35,Default,,0,0,0,,resistere {\1c&HFF00&\u1}dopo{\r} alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:31.35,0:02:31.49,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:31.49,0:02:31.95,Default,,0,0,0,,resistere dopo {\1c&HFF00&\u1}alle{\r} varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:31.95,0:02:32.07,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:32.07,0:02:32.21,Default,,0,0,0,,resistere dopo alle {\1c&HFF00&\u1}varie{\r} tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:32.21,0:02:32.23,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:32.23,0:02:33.07,Default,,0,0,0,,resistere dopo alle varie {\1c&HFF00&\u1}tentazioni.{\r} Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.07,0:02:33.46,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.46,0:02:33.50,Default,,0,0,0,,resistere dopo alle varie tentazioni. {\1c&HFF00&\u1}Ad{\r} esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.50,0:02:33.52,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.52,0:02:33.66,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad {\1c&HFF00&\u1}esempio,{\r} potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.66,0:02:33.68,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.68,0:02:33.84,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, {\1c&HFF00&\u1}potresti{\r} andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.84,0:02:33.86,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:33.86,0:02:33.98,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti {\1c&HFF00&\u1}andare{\r} nel tuo conto corrente online e
+Dialogue: 0,0:02:33.98,0:02:34.00,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:34.00,0:02:34.06,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare {\1c&HFF00&\u1}nel{\r} tuo conto corrente online e
+Dialogue: 0,0:02:34.06,0:02:34.08,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:34.08,0:02:34.14,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel {\1c&HFF00&\u1}tuo{\r} conto corrente online e
+Dialogue: 0,0:02:34.14,0:02:34.16,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:34.16,0:02:34.26,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo {\1c&HFF00&\u1}conto{\r} corrente online e
+Dialogue: 0,0:02:34.26,0:02:34.28,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:34.28,0:02:34.44,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto {\1c&HFF00&\u1}corrente{\r} online e
+Dialogue: 0,0:02:34.44,0:02:34.46,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:34.46,0:02:34.58,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente {\1c&HFF00&\u1}online{\r} e
+Dialogue: 0,0:02:34.58,0:02:34.60,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online e
+Dialogue: 0,0:02:34.60,0:02:34.62,Default,,0,0,0,,resistere dopo alle varie tentazioni. Ad esempio, potresti andare nel tuo conto corrente online {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:02:33.70,0:02:34.04,Default,,0,0,0,,{\1c&HFF00&\u1}impostare{\r} un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:34.04,0:02:34.08,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:34.08,0:02:34.16,Default,,0,0,0,,impostare {\1c&HFF00&\u1}un{\r} trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:34.16,0:02:34.20,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:34.20,0:02:35.06,Default,,0,0,0,,impostare un {\1c&HFF00&\u1}trasferimento{\r} automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:35.06,0:02:35.33,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:35.33,0:02:35.99,Default,,0,0,0,,impostare un trasferimento {\1c&HFF00&\u1}automatico{\r} di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:35.99,0:02:36.05,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:36.05,0:02:36.13,Default,,0,0,0,,impostare un trasferimento automatico {\1c&HFF00&\u1}di{\r} denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:36.13,0:02:36.19,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:36.19,0:02:36.61,Default,,0,0,0,,impostare un trasferimento automatico di {\1c&HFF00&\u1}denaro{\r} nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:36.61,0:02:37.31,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:37.31,0:02:37.53,Default,,0,0,0,,impostare un trasferimento automatico di denaro {\1c&HFF00&\u1}nello{\r} stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:37.53,0:02:37.57,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:37.57,0:02:37.79,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello {\1c&HFF00&\u1}stesso{\r} giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:37.79,0:02:37.85,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:37.85,0:02:38.03,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso {\1c&HFF00&\u1}giorno{\r} in cui tu ricevi il tuo
+Dialogue: 0,0:02:38.03,0:02:38.05,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:38.05,0:02:38.11,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno {\1c&HFF00&\u1}in{\r} cui tu ricevi il tuo
+Dialogue: 0,0:02:38.11,0:02:38.15,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:38.15,0:02:38.27,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in {\1c&HFF00&\u1}cui{\r} tu ricevi il tuo
+Dialogue: 0,0:02:38.27,0:02:38.33,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:38.33,0:02:38.45,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui {\1c&HFF00&\u1}tu{\r} ricevi il tuo
+Dialogue: 0,0:02:38.45,0:02:38.47,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:38.47,0:02:38.85,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu {\1c&HFF00&\u1}ricevi{\r} il tuo
+Dialogue: 0,0:02:38.85,0:02:38.89,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:38.89,0:02:38.95,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi {\1c&HFF00&\u1}il{\r} tuo
+Dialogue: 0,0:02:38.95,0:02:38.99,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il tuo
+Dialogue: 0,0:02:38.99,0:02:39.09,Default,,0,0,0,,impostare un trasferimento automatico di denaro nello stesso giorno in cui tu ricevi il {\1c&HFF00&\u1}tuo{\r}
+Dialogue: 0,0:02:39.24,0:02:39.74,Default,,0,0,0,,{\1c&HFF00&\u1}stipendio.{\r} Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:39.74,0:02:40.02,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.02,0:02:40.20,Default,,0,0,0,,stipendio. {\1c&HFF00&\u1}Così,{\r} quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.20,0:02:40.36,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.36,0:02:40.60,Default,,0,0,0,,stipendio. Così, {\1c&HFF00&\u1}quando{\r} il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.60,0:02:40.64,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.64,0:02:40.68,Default,,0,0,0,,stipendio. Così, quando {\1c&HFF00&\u1}il{\r} tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.68,0:02:40.72,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.72,0:02:40.82,Default,,0,0,0,,stipendio. Così, quando il {\1c&HFF00&\u1}tuo{\r} stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.82,0:02:40.84,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:40.84,0:02:41.29,Default,,0,0,0,,stipendio. Così, quando il tuo {\1c&HFF00&\u1}stipendio{\r} viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:41.29,0:02:41.41,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:41.41,0:02:41.71,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio {\1c&HFF00&\u1}viene{\r} accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:41.71,0:02:41.91,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:41.91,0:02:42.71,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene {\1c&HFF00&\u1}accreditato,{\r} nello stesso momento una certa
+Dialogue: 0,0:02:42.71,0:02:43.25,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:43.25,0:02:43.41,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, {\1c&HFF00&\u1}nello{\r} stesso momento una certa
+Dialogue: 0,0:02:43.41,0:02:43.43,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:43.43,0:02:43.63,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello {\1c&HFF00&\u1}stesso{\r} momento una certa
+Dialogue: 0,0:02:43.63,0:02:43.69,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:43.69,0:02:44.23,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso {\1c&HFF00&\u1}momento{\r} una certa
+Dialogue: 0,0:02:44.23,0:02:44.49,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:44.49,0:02:44.63,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento {\1c&HFF00&\u1}una{\r} certa
+Dialogue: 0,0:02:44.63,0:02:44.71,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una certa
+Dialogue: 0,0:02:44.71,0:02:44.96,Default,,0,0,0,,stipendio. Così, quando il tuo stipendio viene accreditato, nello stesso momento una {\1c&HFF00&\u1}certa{\r}
+Dialogue: 0,0:02:45.34,0:02:45.62,Default,,0,0,0,,{\1c&HFF00&\u1}fetta{\r} X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:45.62,0:02:45.76,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:45.76,0:02:45.96,Default,,0,0,0,,fetta {\1c&HFF00&\u1}X{\r} viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:45.96,0:02:46.12,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:46.12,0:02:46.36,Default,,0,0,0,,fetta X {\1c&HFF00&\u1}viene{\r} trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:46.36,0:02:46.42,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:46.42,0:02:47.04,Default,,0,0,0,,fetta X viene {\1c&HFF00&\u1}trasferita{\r} su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:47.04,0:02:47.25,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:47.25,0:02:47.45,Default,,0,0,0,,fetta X viene trasferita {\1c&HFF00&\u1}su{\r} un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:47.45,0:02:47.55,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:47.55,0:02:47.81,Default,,0,0,0,,fetta X viene trasferita su {\1c&HFF00&\u1}un{\r} fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:47.81,0:02:47.91,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:47.91,0:02:48.21,Default,,0,0,0,,fetta X viene trasferita su un {\1c&HFF00&\u1}fondo{\r} deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:48.21,0:02:48.25,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:48.25,0:02:48.77,Default,,0,0,0,,fetta X viene trasferita su un fondo {\1c&HFF00&\u1}deposito{\r} risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:48.77,0:02:48.85,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:48.85,0:02:49.35,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito {\1c&HFF00&\u1}risparmio.{\r} Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:49.35,0:02:49.51,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:49.51,0:02:49.71,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. {\1c&HFF00&\u1}Questo{\r} ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:49.71,0:02:49.77,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:49.77,0:02:49.83,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo {\1c&HFF00&\u1}ti{\r} aiuterà molto a risparmiare,
+Dialogue: 0,0:02:49.83,0:02:49.87,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:49.87,0:02:50.19,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti {\1c&HFF00&\u1}aiuterà{\r} molto a risparmiare,
+Dialogue: 0,0:02:50.19,0:02:50.23,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:50.23,0:02:50.57,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà {\1c&HFF00&\u1}molto{\r} a risparmiare,
+Dialogue: 0,0:02:50.57,0:02:50.97,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:50.97,0:02:51.01,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto {\1c&HFF00&\u1}a{\r} risparmiare,
+Dialogue: 0,0:02:51.01,0:02:51.05,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a risparmiare,
+Dialogue: 0,0:02:51.05,0:02:51.98,Default,,0,0,0,,fetta X viene trasferita su un fondo deposito risparmio. Questo ti aiuterà molto a {\1c&HFF00&\u1}risparmiare,{\r}
+Dialogue: 0,0:02:52.08,0:02:52.14,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.14,0:02:52.18,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.18,0:02:52.52,Default,,0,0,0,,a {\1c&HFF00&\u1}mettere{\r} da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.52,0:02:52.76,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.76,0:02:52.80,Default,,0,0,0,,a mettere {\1c&HFF00&\u1}da{\r} parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.80,0:02:52.82,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.82,0:02:52.92,Default,,0,0,0,,a mettere da {\1c&HFF00&\u1}parte{\r} dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.92,0:02:52.94,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:52.94,0:02:53.00,Default,,0,0,0,,a mettere da parte {\1c&HFF00&\u1}dei{\r} soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.00,0:02:53.02,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.02,0:02:53.13,Default,,0,0,0,,a mettere da parte dei {\1c&HFF00&\u1}soldi,{\r} e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.13,0:02:53.15,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.15,0:02:53.17,Default,,0,0,0,,a mettere da parte dei soldi, {\1c&HFF00&\u1}e{\r} ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.17,0:02:53.19,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.19,0:02:53.25,Default,,0,0,0,,a mettere da parte dei soldi, e {\1c&HFF00&\u1}ci{\r} sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.25,0:02:53.31,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.31,0:02:53.43,Default,,0,0,0,,a mettere da parte dei soldi, e ci {\1c&HFF00&\u1}sono{\r} addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.43,0:02:53.47,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.47,0:02:53.91,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono {\1c&HFF00&\u1}addirittura{\r} delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.91,0:02:53.95,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:53.95,0:02:54.15,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura {\1c&HFF00&\u1}delle{\r} app che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.15,0:02:54.21,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.21,0:02:54.37,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle {\1c&HFF00&\u1}app{\r} che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.37,0:02:54.41,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.41,0:02:54.51,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app {\1c&HFF00&\u1}che{\r} lo fanno in automatico. Una
+Dialogue: 0,0:02:54.51,0:02:54.57,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.57,0:02:54.63,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che {\1c&HFF00&\u1}lo{\r} fanno in automatico. Una
+Dialogue: 0,0:02:54.63,0:02:54.67,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.67,0:02:54.85,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo {\1c&HFF00&\u1}fanno{\r} in automatico. Una
+Dialogue: 0,0:02:54.85,0:02:54.87,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.87,0:02:54.93,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno {\1c&HFF00&\u1}in{\r} automatico. Una
+Dialogue: 0,0:02:54.93,0:02:54.97,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:54.97,0:02:55.59,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in {\1c&HFF00&\u1}automatico.{\r} Una
+Dialogue: 0,0:02:55.59,0:02:55.83,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. Una
+Dialogue: 0,0:02:55.83,0:02:56.03,Default,,0,0,0,,a mettere da parte dei soldi, e ci sono addirittura delle app che lo fanno in automatico. {\1c&HFF00&\u1}Una{\r}
+Dialogue: 0,0:02:55.98,0:02:56.90,Default,,0,0,0,,{\1c&HFF00&\u1}addirittura{\r} mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:56.90,0:02:56.98,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:56.98,0:02:57.20,Default,,0,0,0,,addirittura {\1c&HFF00&\u1}mette{\r} in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.20,0:02:57.32,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.32,0:02:57.38,Default,,0,0,0,,addirittura mette {\1c&HFF00&\u1}in{\r} una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.38,0:02:57.40,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.40,0:02:57.48,Default,,0,0,0,,addirittura mette in {\1c&HFF00&\u1}una{\r} specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.48,0:02:57.52,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.52,0:02:57.76,Default,,0,0,0,,addirittura mette in una {\1c&HFF00&\u1}specie{\r} di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.76,0:02:57.78,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.78,0:02:57.83,Default,,0,0,0,,addirittura mette in una specie {\1c&HFF00&\u1}di{\r} salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.83,0:02:57.87,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:57.87,0:02:58.45,Default,,0,0,0,,addirittura mette in una specie di {\1c&HFF00&\u1}salvadanaio{\r} virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:58.45,0:02:58.51,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:58.51,0:02:59.13,Default,,0,0,0,,addirittura mette in una specie di salvadanaio {\1c&HFF00&\u1}virtuale{\r} gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:59.13,0:02:59.59,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:59.59,0:02:59.67,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale {\1c&HFF00&\u1}gli{\r} arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:59.67,0:02:59.71,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:02:59.71,0:03:0.47,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli {\1c&HFF00&\u1}arrotondamenti{\r} dei tuoi acquisti.
+Dialogue: 0,0:03:0.47,0:03:0.51,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:03:0.51,0:03:0.61,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti {\1c&HFF00&\u1}dei{\r} tuoi acquisti.
+Dialogue: 0,0:03:0.61,0:03:0.65,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:03:0.65,0:03:0.81,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei {\1c&HFF00&\u1}tuoi{\r} acquisti.
+Dialogue: 0,0:03:0.81,0:03:0.85,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi acquisti.
+Dialogue: 0,0:03:0.85,0:03:1.29,Default,,0,0,0,,addirittura mette in una specie di salvadanaio virtuale gli arrotondamenti dei tuoi {\1c&HFF00&\u1}acquisti.{\r}
+Dialogue: 0,0:03:1.66,0:03:1.74,Default,,0,0,0,,{\1c&HFF00&\u1}Se{\r} spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:1.74,0:03:1.80,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:1.80,0:03:2.10,Default,,0,0,0,,Se {\1c&HFF00&\u1}spendi,{\r} ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:2.10,0:03:2.14,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:2.14,0:03:2.20,Default,,0,0,0,,Se spendi, {\1c&HFF00&\u1}ad{\r} esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:2.20,0:03:2.24,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:2.24,0:03:2.52,Default,,0,0,0,,Se spendi, ad {\1c&HFF00&\u1}esempio, 12{\r} euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:2.52,0:03:2.98,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:2.98,0:03:3.12,Default,,0,0,0,,Se spendi, ad esempio, 12 {\1c&HFF00&\u1}euro{\r} e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:3.12,0:03:3.14,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:3.14,0:03:3.16,Default,,0,0,0,,Se spendi, ad esempio, 12 euro {\1c&HFF00&\u1}e 25{\r} centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:3.16,0:03:3.47,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:3.47,0:03:5.83,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 {\1c&HFF00&\u1}centesimi,{\r} i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:5.83,0:03:5.85,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:5.85,0:03:5.87,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, {\1c&HFF00&\u1}i 75{\r} centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:5.87,0:03:5.97,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:5.97,0:03:6.49,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 {\1c&HFF00&\u1}centesimi{\r} che mancano per arrivare a 13
+Dialogue: 0,0:03:6.49,0:03:6.55,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:6.55,0:03:6.63,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi {\1c&HFF00&\u1}che{\r} mancano per arrivare a 13
+Dialogue: 0,0:03:6.63,0:03:6.67,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:6.67,0:03:6.99,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che {\1c&HFF00&\u1}mancano{\r} per arrivare a 13
+Dialogue: 0,0:03:6.99,0:03:7.03,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:7.03,0:03:7.13,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano {\1c&HFF00&\u1}per{\r} arrivare a 13
+Dialogue: 0,0:03:7.13,0:03:7.19,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:7.19,0:03:7.47,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per {\1c&HFF00&\u1}arrivare{\r} a 13
+Dialogue: 0,0:03:7.47,0:03:7.49,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare a 13
+Dialogue: 0,0:03:7.49,0:03:7.51,Default,,0,0,0,,Se spendi, ad esempio, 12 euro e 25 centesimi, i 75 centesimi che mancano per arrivare {\1c&HFF00&\u1}a 13{\r}
+Dialogue: 0,0:03:8.20,0:03:8.50,Default,,0,0,0,,{\1c&HFF00&\u1}vengono{\r} messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:8.50,0:03:8.56,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:8.56,0:03:8.78,Default,,0,0,0,,vengono {\1c&HFF00&\u1}messi{\r} in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:8.78,0:03:8.82,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:8.82,0:03:8.88,Default,,0,0,0,,vengono messi {\1c&HFF00&\u1}in{\r} questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:8.88,0:03:8.90,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:8.90,0:03:9.10,Default,,0,0,0,,vengono messi in {\1c&HFF00&\u1}questo{\r} salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:9.10,0:03:9.14,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:9.14,0:03:9.69,Default,,0,0,0,,vengono messi in questo {\1c&HFF00&\u1}salvadanaio{\r} virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:9.69,0:03:9.73,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:9.73,0:03:10.25,Default,,0,0,0,,vengono messi in questo salvadanaio {\1c&HFF00&\u1}virtuale.{\r} In questo modo, bella storia,
+Dialogue: 0,0:03:10.25,0:03:10.47,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:10.47,0:03:10.53,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. {\1c&HFF00&\u1}In{\r} questo modo, bella storia,
+Dialogue: 0,0:03:10.53,0:03:10.55,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:10.55,0:03:10.75,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In {\1c&HFF00&\u1}questo{\r} modo, bella storia,
+Dialogue: 0,0:03:10.75,0:03:10.79,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:10.79,0:03:10.97,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo {\1c&HFF00&\u1}modo,{\r} bella storia,
+Dialogue: 0,0:03:10.97,0:03:11.01,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:11.01,0:03:11.23,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, {\1c&HFF00&\u1}bella{\r} storia,
+Dialogue: 0,0:03:11.23,0:03:11.27,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella storia,
+Dialogue: 0,0:03:11.27,0:03:11.45,Default,,0,0,0,,vengono messi in questo salvadanaio virtuale. In questo modo, bella {\1c&HFF00&\u1}storia,{\r}
+Dialogue: 0,0:03:11.48,0:03:11.54,Default,,0,0,0,,{\1c&HFF00&\u1}tu{\r} risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:11.54,0:03:11.56,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:11.56,0:03:12.24,Default,,0,0,0,,tu {\1c&HFF00&\u1}risparmi{\r} senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:12.24,0:03:12.34,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:12.34,0:03:12.56,Default,,0,0,0,,tu risparmi {\1c&HFF00&\u1}senza{\r} quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:12.56,0:03:12.66,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:12.66,0:03:12.88,Default,,0,0,0,,tu risparmi senza {\1c&HFF00&\u1}quasi{\r} neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:12.88,0:03:12.92,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:12.92,0:03:13.20,Default,,0,0,0,,tu risparmi senza quasi {\1c&HFF00&\u1}neanche{\r} accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:13.20,0:03:13.25,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:13.25,0:03:14.19,Default,,0,0,0,,tu risparmi senza quasi neanche {\1c&HFF00&\u1}accorgertene.{\r} Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:14.19,0:03:14.23,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:14.23,0:03:14.35,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. {\1c&HFF00&\u1}Ora{\r} attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:14.35,0:03:14.37,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:14.37,0:03:14.77,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora {\1c&HFF00&\u1}attenzione,{\r} la strategia di Ulysses ci è
+Dialogue: 0,0:03:14.77,0:03:14.83,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:14.83,0:03:14.89,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, {\1c&HFF00&\u1}la{\r} strategia di Ulysses ci è
+Dialogue: 0,0:03:14.89,0:03:14.91,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:14.91,0:03:15.35,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la {\1c&HFF00&\u1}strategia{\r} di Ulysses ci è
+Dialogue: 0,0:03:15.35,0:03:15.41,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:15.41,0:03:15.47,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia {\1c&HFF00&\u1}di{\r} Ulysses ci è
+Dialogue: 0,0:03:15.47,0:03:15.51,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:15.51,0:03:15.87,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di {\1c&HFF00&\u1}Ulysses{\r} ci è
+Dialogue: 0,0:03:15.87,0:03:15.89,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:15.89,0:03:15.93,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses {\1c&HFF00&\u1}ci{\r} è
+Dialogue: 0,0:03:15.93,0:03:15.95,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci è
+Dialogue: 0,0:03:15.95,0:03:15.97,Default,,0,0,0,,tu risparmi senza quasi neanche accorgertene. Ora attenzione, la strategia di Ulysses ci {\1c&HFF00&\u1}è{\r}
+Dialogue: 0,0:03:16.64,0:03:16.74,Default,,0,0,0,,{\1c&HFF00&\u1}molto{\r} utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:16.74,0:03:16.76,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:16.76,0:03:16.86,Default,,0,0,0,,molto {\1c&HFF00&\u1}utile,{\r} non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:16.86,0:03:16.88,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:16.88,0:03:16.94,Default,,0,0,0,,molto utile, {\1c&HFF00&\u1}non{\r} solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:16.94,0:03:16.96,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:16.96,0:03:17.04,Default,,0,0,0,,molto utile, non {\1c&HFF00&\u1}solo{\r} per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.04,0:03:17.06,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.06,0:03:17.12,Default,,0,0,0,,molto utile, non solo {\1c&HFF00&\u1}per{\r} le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.12,0:03:17.14,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.14,0:03:17.18,Default,,0,0,0,,molto utile, non solo per {\1c&HFF00&\u1}le{\r} finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.18,0:03:17.20,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.20,0:03:17.34,Default,,0,0,0,,molto utile, non solo per le {\1c&HFF00&\u1}finanze,{\r} ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.34,0:03:17.36,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.36,0:03:17.40,Default,,0,0,0,,molto utile, non solo per le finanze, {\1c&HFF00&\u1}ma{\r} più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.40,0:03:17.42,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.42,0:03:17.48,Default,,0,0,0,,molto utile, non solo per le finanze, ma {\1c&HFF00&\u1}più{\r} in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.48,0:03:17.50,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.50,0:03:17.54,Default,,0,0,0,,molto utile, non solo per le finanze, ma più {\1c&HFF00&\u1}in{\r} generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.54,0:03:17.56,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.56,0:03:17.72,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in {\1c&HFF00&\u1}generale{\r} per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.72,0:03:17.74,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.74,0:03:17.80,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale {\1c&HFF00&\u1}per{\r} le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.80,0:03:17.82,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.82,0:03:17.90,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per {\1c&HFF00&\u1}le{\r} tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.90,0:03:17.94,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:17.94,0:03:18.18,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le {\1c&HFF00&\u1}tentazioni{\r} future. Porta le tue
+Dialogue: 0,0:03:18.18,0:03:18.20,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:18.20,0:03:18.55,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni {\1c&HFF00&\u1}future.{\r} Porta le tue
+Dialogue: 0,0:03:18.55,0:03:18.57,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:18.57,0:03:18.71,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. {\1c&HFF00&\u1}Porta{\r} le tue
+Dialogue: 0,0:03:18.71,0:03:18.73,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:18.73,0:03:18.77,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta {\1c&HFF00&\u1}le{\r} tue
+Dialogue: 0,0:03:18.77,0:03:18.79,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le tue
+Dialogue: 0,0:03:18.79,0:03:18.85,Default,,0,0,0,,molto utile, non solo per le finanze, ma più in generale per le tentazioni future. Porta le {\1c&HFF00&\u1}tue{\r}
+Dialogue: 0,0:03:22.38,0:03:22.56,Default,,0,0,0,,{\1c&HFF00&\u1}chiavi{\r} dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:22.56,0:03:22.60,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:22.60,0:03:23.04,Default,,0,0,0,,chiavi {\1c&HFF00&\u1}dell'auto{\r} a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.04,0:03:23.10,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.10,0:03:23.16,Default,,0,0,0,,chiavi dell'auto {\1c&HFF00&\u1}a{\r} un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.16,0:03:23.20,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.20,0:03:23.28,Default,,0,0,0,,chiavi dell'auto a {\1c&HFF00&\u1}un{\r} amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.28,0:03:23.32,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.32,0:03:23.66,Default,,0,0,0,,chiavi dell'auto a un {\1c&HFF00&\u1}amico{\r} prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.66,0:03:23.74,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.74,0:03:23.95,Default,,0,0,0,,chiavi dell'auto a un amico {\1c&HFF00&\u1}prima{\r} di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.95,0:03:23.99,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:23.99,0:03:24.05,Default,,0,0,0,,chiavi dell'auto a un amico prima {\1c&HFF00&\u1}di{\r} andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.05,0:03:24.09,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.09,0:03:24.31,Default,,0,0,0,,chiavi dell'auto a un amico prima di {\1c&HFF00&\u1}andare{\r} a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.31,0:03:24.33,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.33,0:03:24.35,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare {\1c&HFF00&\u1}a{\r} bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.35,0:03:24.39,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.39,0:03:24.53,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a {\1c&HFF00&\u1}bere{\r} con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.53,0:03:24.57,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.57,0:03:24.65,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere {\1c&HFF00&\u1}con{\r} gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.65,0:03:24.67,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.67,0:03:24.77,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con {\1c&HFF00&\u1}gli{\r} amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.77,0:03:24.79,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:24.79,0:03:25.15,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli {\1c&HFF00&\u1}amici.{\r} Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:25.15,0:03:25.39,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:25.39,0:03:25.71,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. {\1c&HFF00&\u1}Chiedi{\r} a un tuo amico di cambiare
+Dialogue: 0,0:03:25.71,0:03:25.73,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:25.73,0:03:25.77,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi {\1c&HFF00&\u1}a{\r} un tuo amico di cambiare
+Dialogue: 0,0:03:25.77,0:03:25.83,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:25.83,0:03:25.89,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a {\1c&HFF00&\u1}un{\r} tuo amico di cambiare
+Dialogue: 0,0:03:25.89,0:03:25.93,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:25.93,0:03:25.99,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un {\1c&HFF00&\u1}tuo{\r} amico di cambiare
+Dialogue: 0,0:03:25.99,0:03:26.01,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:26.01,0:03:26.27,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo {\1c&HFF00&\u1}amico{\r} di cambiare
+Dialogue: 0,0:03:26.27,0:03:26.31,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:26.31,0:03:26.39,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico {\1c&HFF00&\u1}di{\r} cambiare
+Dialogue: 0,0:03:26.39,0:03:26.45,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di cambiare
+Dialogue: 0,0:03:26.45,0:03:26.95,Default,,0,0,0,,chiavi dell'auto a un amico prima di andare a bere con gli amici. Chiedi a un tuo amico di {\1c&HFF00&\u1}cambiare{\r}
+Dialogue: 0,0:03:26.92,0:03:27.30,Default,,0,0,0,,{\1c&HFF00&\u1}le{\r} password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:27.30,0:03:27.44,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:27.44,0:03:27.68,Default,,0,0,0,,le {\1c&HFF00&\u1}password{\r} dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:27.68,0:03:27.70,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:27.70,0:03:27.88,Default,,0,0,0,,le password {\1c&HFF00&\u1}dei{\r} tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:27.88,0:03:27.92,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:27.92,0:03:28.08,Default,,0,0,0,,le password dei {\1c&HFF00&\u1}tuoi{\r} accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:28.08,0:03:28.18,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:28.18,0:03:28.50,Default,,0,0,0,,le password dei tuoi {\1c&HFF00&\u1}accessi{\r} ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:28.50,0:03:28.52,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:28.52,0:03:28.64,Default,,0,0,0,,le password dei tuoi accessi {\1c&HFF00&\u1}ai{\r} social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:28.64,0:03:28.68,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:28.68,0:03:29.11,Default,,0,0,0,,le password dei tuoi accessi ai {\1c&HFF00&\u1}social{\r} quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:29.11,0:03:29.45,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:29.45,0:03:29.71,Default,,0,0,0,,le password dei tuoi accessi ai social {\1c&HFF00&\u1}quando{\r} hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:29.71,0:03:29.73,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:29.73,0:03:29.79,Default,,0,0,0,,le password dei tuoi accessi ai social quando {\1c&HFF00&\u1}hai{\r} bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:29.79,0:03:29.83,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:29.83,0:03:30.07,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai {\1c&HFF00&\u1}bisogno{\r} di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:30.07,0:03:30.11,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:30.11,0:03:30.17,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno {\1c&HFF00&\u1}di{\r} concentrarti e di fare urgentemente
+Dialogue: 0,0:03:30.17,0:03:30.25,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:30.25,0:03:31.15,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di {\1c&HFF00&\u1}concentrarti{\r} e di fare urgentemente
+Dialogue: 0,0:03:31.15,0:03:31.17,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:31.17,0:03:31.19,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti {\1c&HFF00&\u1}e{\r} di fare urgentemente
+Dialogue: 0,0:03:31.19,0:03:31.23,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:31.23,0:03:31.29,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e {\1c&HFF00&\u1}di{\r} fare urgentemente
+Dialogue: 0,0:03:31.29,0:03:31.35,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:31.35,0:03:31.55,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di {\1c&HFF00&\u1}fare{\r} urgentemente
+Dialogue: 0,0:03:31.55,0:03:31.61,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare urgentemente
+Dialogue: 0,0:03:31.61,0:03:32.32,Default,,0,0,0,,le password dei tuoi accessi ai social quando hai bisogno di concentrarti e di fare {\1c&HFF00&\u1}urgentemente{\r}
+Dialogue: 0,0:03:32.02,0:03:32.08,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:32.08,0:03:32.18,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:32.18,0:03:32.70,Default,,0,0,0,,un {\1c&HFF00&\u1}altro{\r} lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:32.70,0:03:32.74,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:32.74,0:03:33.36,Default,,0,0,0,,un altro {\1c&HFF00&\u1}lavoro{\r} e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:33.36,0:03:33.38,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:33.38,0:03:33.42,Default,,0,0,0,,un altro lavoro {\1c&HFF00&\u1}e{\r} così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:33.42,0:03:33.48,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:33.48,0:03:33.66,Default,,0,0,0,,un altro lavoro e {\1c&HFF00&\u1}così{\r} via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:33.66,0:03:33.70,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:33.70,0:03:34.13,Default,,0,0,0,,un altro lavoro e così {\1c&HFF00&\u1}via.{\r} Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.13,0:03:34.15,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.15,0:03:34.37,Default,,0,0,0,,un altro lavoro e così via. {\1c&HFF00&\u1}Bene,{\r} cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.37,0:03:34.39,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.39,0:03:34.49,Default,,0,0,0,,un altro lavoro e così via. Bene, {\1c&HFF00&\u1}cari{\r} amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.49,0:03:34.53,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.53,0:03:34.79,Default,,0,0,0,,un altro lavoro e così via. Bene, cari {\1c&HFF00&\u1}amici,{\r} anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.79,0:03:34.95,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:34.95,0:03:35.15,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, {\1c&HFF00&\u1}anche{\r} per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.15,0:03:35.21,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.21,0:03:35.31,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche {\1c&HFF00&\u1}per{\r} oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.31,0:03:35.37,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.37,0:03:35.57,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per {\1c&HFF00&\u1}oggi{\r} è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.57,0:03:35.73,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.73,0:03:35.79,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi {\1c&HFF00&\u1}è{\r} tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.79,0:03:35.87,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:35.87,0:03:36.19,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è {\1c&HFF00&\u1}tutto.{\r} Io aspetto nei commenti
+Dialogue: 0,0:03:36.19,0:03:36.37,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:36.37,0:03:36.45,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. {\1c&HFF00&\u1}Io{\r} aspetto nei commenti
+Dialogue: 0,0:03:36.45,0:03:36.49,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:36.49,0:03:36.89,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io {\1c&HFF00&\u1}aspetto{\r} nei commenti
+Dialogue: 0,0:03:36.89,0:03:36.95,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:36.95,0:03:37.05,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto {\1c&HFF00&\u1}nei{\r} commenti
+Dialogue: 0,0:03:37.05,0:03:37.11,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei commenti
+Dialogue: 0,0:03:37.11,0:03:37.41,Default,,0,0,0,,un altro lavoro e così via. Bene, cari amici, anche per oggi è tutto. Io aspetto nei {\1c&HFF00&\u1}commenti{\r}
+Dialogue: 0,0:03:37.64,0:03:38.10,Default,,0,0,0,,{\1c&HFF00&\u1}sottostanti{\r} come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:38.10,0:03:38.14,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:38.14,0:03:38.28,Default,,0,0,0,,sottostanti {\1c&HFF00&\u1}come{\r} sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:38.28,0:03:38.36,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:38.36,0:03:38.68,Default,,0,0,0,,sottostanti come {\1c&HFF00&\u1}sempre{\r} le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:38.68,0:03:39.14,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:39.14,0:03:39.20,Default,,0,0,0,,sottostanti come sempre {\1c&HFF00&\u1}le{\r} vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:39.20,0:03:39.26,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:39.26,0:03:39.77,Default,,0,0,0,,sottostanti come sempre le {\1c&HFF00&\u1}vostre{\r} strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:39.77,0:03:39.95,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:39.95,0:03:40.71,Default,,0,0,0,,sottostanti come sempre le vostre {\1c&HFF00&\u1}strategie{\r} per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:40.71,0:03:40.89,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:40.89,0:03:41.05,Default,,0,0,0,,sottostanti come sempre le vostre strategie {\1c&HFF00&\u1}per{\r} evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:41.05,0:03:41.21,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:41.21,0:03:41.79,Default,,0,0,0,,sottostanti come sempre le vostre strategie per {\1c&HFF00&\u1}evitare{\r} di cadere nelle trappole mentali
+Dialogue: 0,0:03:41.79,0:03:41.85,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:41.85,0:03:41.93,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare {\1c&HFF00&\u1}di{\r} cadere nelle trappole mentali
+Dialogue: 0,0:03:41.93,0:03:41.97,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:41.97,0:03:42.39,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di {\1c&HFF00&\u1}cadere{\r} nelle trappole mentali
+Dialogue: 0,0:03:42.39,0:03:42.47,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:42.47,0:03:42.67,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere {\1c&HFF00&\u1}nelle{\r} trappole mentali
+Dialogue: 0,0:03:42.67,0:03:42.75,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:42.75,0:03:43.11,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle {\1c&HFF00&\u1}trappole{\r} mentali
+Dialogue: 0,0:03:43.11,0:03:43.17,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole mentali
+Dialogue: 0,0:03:43.17,0:03:43.58,Default,,0,0,0,,sottostanti come sempre le vostre strategie per evitare di cadere nelle trappole {\1c&HFF00&\u1}mentali{\r}
+Dialogue: 0,0:03:43.56,0:03:43.62,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.62,0:03:43.64,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.64,0:03:43.72,Default,,0,0,0,,che {\1c&HFF00&\u1}ogni{\r} tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.72,0:03:43.74,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.74,0:03:43.84,Default,,0,0,0,,che ogni {\1c&HFF00&\u1}tanto{\r} il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.84,0:03:43.86,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.86,0:03:43.90,Default,,0,0,0,,che ogni tanto {\1c&HFF00&\u1}il{\r} mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.90,0:03:43.92,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:43.92,0:03:44.06,Default,,0,0,0,,che ogni tanto il {\1c&HFF00&\u1}mercato{\r} ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.06,0:03:44.08,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.08,0:03:44.12,Default,,0,0,0,,che ogni tanto il mercato {\1c&HFF00&\u1}ci{\r} fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.12,0:03:44.14,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.14,0:03:44.18,Default,,0,0,0,,che ogni tanto il mercato ci {\1c&HFF00&\u1}fa{\r} e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.18,0:03:44.20,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.20,0:03:44.22,Default,,0,0,0,,che ogni tanto il mercato ci fa {\1c&HFF00&\u1}e{\r} che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.22,0:03:44.24,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.24,0:03:44.30,Default,,0,0,0,,che ogni tanto il mercato ci fa e {\1c&HFF00&\u1}che{\r} ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.30,0:03:44.32,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.32,0:03:44.36,Default,,0,0,0,,che ogni tanto il mercato ci fa e che {\1c&HFF00&\u1}ci{\r} portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.36,0:03:44.38,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.38,0:03:44.52,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci {\1c&HFF00&\u1}portano{\r} poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.52,0:03:44.54,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.54,0:03:44.60,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano {\1c&HFF00&\u1}poi{\r} a spendere troppi soldi.
+Dialogue: 0,0:03:44.60,0:03:44.62,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.62,0:03:44.64,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi {\1c&HFF00&\u1}a{\r} spendere troppi soldi.
+Dialogue: 0,0:03:44.64,0:03:44.66,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.66,0:03:44.82,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a {\1c&HFF00&\u1}spendere{\r} troppi soldi.
+Dialogue: 0,0:03:44.82,0:03:44.84,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.84,0:03:44.96,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere {\1c&HFF00&\u1}troppi{\r} soldi.
+Dialogue: 0,0:03:44.96,0:03:44.98,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi soldi.
+Dialogue: 0,0:03:44.98,0:03:45.08,Default,,0,0,0,,che ogni tanto il mercato ci fa e che ci portano poi a spendere troppi {\1c&HFF00&\u1}soldi.{\r}
+Dialogue: 0,0:03:48.40,0:03:48.56,Default,,0,0,0,,{\1c&HFF00&\u1}Ciao{\r} e alla prossima!
+Dialogue: 0,0:03:48.56,0:03:48.79,Default,,0,0,0,,Ciao e alla prossima!
+Dialogue: 0,0:03:48.79,0:03:48.81,Default,,0,0,0,,Ciao {\1c&HFF00&\u1}e{\r} alla prossima!
+Dialogue: 0,0:03:48.81,0:03:48.83,Default,,0,0,0,,Ciao e alla prossima!
+Dialogue: 0,0:03:48.83,0:03:48.97,Default,,0,0,0,,Ciao e {\1c&HFF00&\u1}alla{\r} prossima!
+Dialogue: 0,0:03:48.97,0:03:48.99,Default,,0,0,0,,Ciao e alla prossima!
+Dialogue: 0,0:03:48.99,0:03:49.35,Default,,0,0,0,,Ciao e alla {\1c&HFF00&\u1}prossima!{\r}
