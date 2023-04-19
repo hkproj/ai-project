@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.80,0:00:1.04,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} luogo, verso dove, la destinazione.
+Dialogue: 0,0:00:1.04,0:00:1.14,Default,,0,0,0,,a luogo, verso dove, la destinazione.
+Dialogue: 0,0:00:1.14,0:00:1.72,Default,,0,0,0,,a {\1c&HFF00&\u1}luogo,{\r} verso dove, la destinazione.
+Dialogue: 0,0:00:1.72,0:00:2.42,Default,,0,0,0,,a luogo, verso dove, la destinazione.
+Dialogue: 0,0:00:2.42,0:00:3.36,Default,,0,0,0,,a luogo, {\1c&HFF00&\u1}verso{\r} dove, la destinazione.
+Dialogue: 0,0:00:3.36,0:00:3.71,Default,,0,0,0,,a luogo, verso dove, la destinazione.
+Dialogue: 0,0:00:3.71,0:00:4.51,Default,,0,0,0,,a luogo, verso {\1c&HFF00&\u1}dove,{\r} la destinazione.
+Dialogue: 0,0:00:4.51,0:00:5.07,Default,,0,0,0,,a luogo, verso dove, la destinazione.
+Dialogue: 0,0:00:5.07,0:00:5.25,Default,,0,0,0,,a luogo, verso dove, {\1c&HFF00&\u1}la{\r} destinazione.
+Dialogue: 0,0:00:5.25,0:00:5.49,Default,,0,0,0,,a luogo, verso dove, la destinazione.
+Dialogue: 0,0:00:5.49,0:00:7.13,Default,,0,0,0,,a luogo, verso dove, la {\1c&HFF00&\u1}destinazione.{\r}

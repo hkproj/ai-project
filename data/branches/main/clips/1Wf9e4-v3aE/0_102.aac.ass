@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.52,0:00:1.26,Default,,0,0,0,,{\1c&HFF00&\u1}nazioni,{\r} regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:1.26,0:00:1.91,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:1.91,0:00:2.65,Default,,0,0,0,,nazioni, {\1c&HFF00&\u1}regioni{\r} e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:2.65,0:00:3.13,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:3.13,0:00:3.17,Default,,0,0,0,,nazioni, regioni {\1c&HFF00&\u1}e{\r} continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:3.17,0:00:3.31,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:3.31,0:00:5.01,Default,,0,0,0,,nazioni, regioni e {\1c&HFF00&\u1}continenti{\r} con gli indirizzi, con le parole
+Dialogue: 0,0:00:5.01,0:00:5.03,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:5.03,0:00:5.17,Default,,0,0,0,,nazioni, regioni e continenti {\1c&HFF00&\u1}con{\r} gli indirizzi, con le parole
+Dialogue: 0,0:00:5.17,0:00:5.23,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:5.23,0:00:5.35,Default,,0,0,0,,nazioni, regioni e continenti con {\1c&HFF00&\u1}gli{\r} indirizzi, con le parole
+Dialogue: 0,0:00:5.35,0:00:5.39,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:5.39,0:00:6.06,Default,,0,0,0,,nazioni, regioni e continenti con gli {\1c&HFF00&\u1}indirizzi,{\r} con le parole
+Dialogue: 0,0:00:6.06,0:00:6.22,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:6.22,0:00:6.30,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, {\1c&HFF00&\u1}con{\r} le parole
+Dialogue: 0,0:00:6.30,0:00:6.32,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:6.32,0:00:6.36,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con {\1c&HFF00&\u1}le{\r} parole
+Dialogue: 0,0:00:6.36,0:00:6.44,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le parole
+Dialogue: 0,0:00:6.44,0:00:6.62,Default,,0,0,0,,nazioni, regioni e continenti con gli indirizzi, con le {\1c&HFF00&\u1}parole{\r}

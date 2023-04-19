@@ -1,0 +1,41 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.14,0:00:1.42,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:1.42,0:00:1.48,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:1.48,0:00:2.02,Default,,0,0,0,,con {\1c&HFF00&\u1}molte{\r} parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:2.02,0:00:2.34,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:2.34,0:00:2.87,Default,,0,0,0,,con molte {\1c&HFF00&\u1}parole{\r} femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:2.87,0:00:3.29,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:3.29,0:00:4.03,Default,,0,0,0,,con molte parole {\1c&HFF00&\u1}femminili{\r} in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:4.03,0:00:4.81,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:4.81,0:00:4.89,Default,,0,0,0,,con molte parole femminili {\1c&HFF00&\u1}in{\r} questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:4.89,0:00:4.93,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:4.93,0:00:5.19,Default,,0,0,0,,con molte parole femminili in {\1c&HFF00&\u1}questo{\r} caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:5.19,0:00:5.27,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:5.27,0:00:5.69,Default,,0,0,0,,con molte parole femminili in questo {\1c&HFF00&\u1}caso{\r} non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:5.69,0:00:6.07,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:6.07,0:00:6.43,Default,,0,0,0,,con molte parole femminili in questo caso {\1c&HFF00&\u1}non{\r} usiamo l'articolo usiamo la
+Dialogue: 0,0:00:6.43,0:00:6.73,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:6.73,0:00:7.29,Default,,0,0,0,,con molte parole femminili in questo caso non {\1c&HFF00&\u1}usiamo{\r} l'articolo usiamo la
+Dialogue: 0,0:00:7.29,0:00:7.51,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:7.51,0:00:8.07,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo {\1c&HFF00&\u1}l'articolo{\r} usiamo la
+Dialogue: 0,0:00:8.07,0:00:8.58,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:8.58,0:00:9.10,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo {\1c&HFF00&\u1}usiamo{\r} la
+Dialogue: 0,0:00:9.10,0:00:9.28,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo la
+Dialogue: 0,0:00:9.28,0:00:9.32,Default,,0,0,0,,con molte parole femminili in questo caso non usiamo l'articolo usiamo {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:9.28,0:00:9.52,Default,,0,0,0,,{\1c&HFF00&\u1}preposizione{\r} semplice IN.
+Dialogue: 0,0:00:9.52,0:00:9.54,Default,,0,0,0,,preposizione semplice IN.
+Dialogue: 0,0:00:9.54,0:00:9.70,Default,,0,0,0,,preposizione {\1c&HFF00&\u1}semplice{\r} IN.
+Dialogue: 0,0:00:9.70,0:00:9.72,Default,,0,0,0,,preposizione semplice IN.
+Dialogue: 0,0:00:9.72,0:00:9.76,Default,,0,0,0,,preposizione semplice {\1c&HFF00&\u1}IN.{\r}

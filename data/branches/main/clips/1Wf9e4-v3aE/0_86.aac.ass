@@ -1,0 +1,43 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.84,0:00:1.90,Default,,0,0,0,,{\1c&HFF00&\u1}tabaccheria{\r} per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:1.90,0:00:2.02,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:2.02,0:00:2.18,Default,,0,0,0,,tabaccheria {\1c&HFF00&\u1}per{\r} comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:2.18,0:00:2.28,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:2.28,0:00:2.99,Default,,0,0,0,,tabaccheria per {\1c&HFF00&\u1}comprare{\r} le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:2.99,0:00:3.15,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:3.15,0:00:3.23,Default,,0,0,0,,tabaccheria per comprare {\1c&HFF00&\u1}le{\r} sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:3.23,0:00:3.31,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:3.31,0:00:4.03,Default,,0,0,0,,tabaccheria per comprare le {\1c&HFF00&\u1}sigarette{\r} o per comprare i biglietti del tram e
+Dialogue: 0,0:00:4.03,0:00:4.47,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:4.47,0:00:4.51,Default,,0,0,0,,tabaccheria per comprare le sigarette {\1c&HFF00&\u1}o{\r} per comprare i biglietti del tram e
+Dialogue: 0,0:00:4.51,0:00:4.59,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:4.59,0:00:4.85,Default,,0,0,0,,tabaccheria per comprare le sigarette o {\1c&HFF00&\u1}per{\r} comprare i biglietti del tram e
+Dialogue: 0,0:00:4.85,0:00:4.97,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:4.97,0:00:5.71,Default,,0,0,0,,tabaccheria per comprare le sigarette o per {\1c&HFF00&\u1}comprare{\r} i biglietti del tram e
+Dialogue: 0,0:00:5.71,0:00:5.93,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:5.93,0:00:5.99,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare {\1c&HFF00&\u1}i{\r} biglietti del tram e
+Dialogue: 0,0:00:5.99,0:00:6.03,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:6.03,0:00:6.91,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i {\1c&HFF00&\u1}biglietti{\r} del tram e
+Dialogue: 0,0:00:6.91,0:00:7.05,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:7.05,0:00:7.23,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti {\1c&HFF00&\u1}del{\r} tram e
+Dialogue: 0,0:00:7.23,0:00:7.31,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:7.31,0:00:7.88,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del {\1c&HFF00&\u1}tram{\r} e
+Dialogue: 0,0:00:7.88,0:00:8.22,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram e
+Dialogue: 0,0:00:8.22,0:00:8.24,Default,,0,0,0,,tabaccheria per comprare le sigarette o per comprare i biglietti del tram {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:8.22,0:00:8.28,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} dell'autobus, ok?
+Dialogue: 0,0:00:8.28,0:00:8.32,Default,,0,0,0,,e dell'autobus, ok?
+Dialogue: 0,0:00:8.32,0:00:9.21,Default,,0,0,0,,e {\1c&HFF00&\u1}dell'autobus,{\r} ok?
+Dialogue: 0,0:00:9.21,0:00:9.76,Default,,0,0,0,,e dell'autobus, ok?
+Dialogue: 0,0:00:9.76,0:00:9.82,Default,,0,0,0,,e dell'autobus, {\1c&HFF00&\u1}ok?{\r}

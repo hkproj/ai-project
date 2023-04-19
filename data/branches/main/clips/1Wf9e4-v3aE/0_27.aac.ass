@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.24,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} i verbi all'infinito, per esempio
+Dialogue: 0,0:00:0.24,0:00:0.30,Default,,0,0,0,,con i verbi all'infinito, per esempio
+Dialogue: 0,0:00:0.30,0:00:0.36,Default,,0,0,0,,con {\1c&HFF00&\u1}i{\r} verbi all'infinito, per esempio
+Dialogue: 0,0:00:0.36,0:00:0.46,Default,,0,0,0,,con i verbi all'infinito, per esempio
+Dialogue: 0,0:00:0.46,0:00:1.08,Default,,0,0,0,,con i {\1c&HFF00&\u1}verbi{\r} all'infinito, per esempio
+Dialogue: 0,0:00:1.08,0:00:1.57,Default,,0,0,0,,con i verbi all'infinito, per esempio
+Dialogue: 0,0:00:1.57,0:00:3.09,Default,,0,0,0,,con i verbi {\1c&HFF00&\u1}all'infinito,{\r} per esempio
+Dialogue: 0,0:00:3.09,0:00:4.28,Default,,0,0,0,,con i verbi all'infinito, per esempio
+Dialogue: 0,0:00:4.28,0:00:4.62,Default,,0,0,0,,con i verbi all'infinito, {\1c&HFF00&\u1}per{\r} esempio
+Dialogue: 0,0:00:4.62,0:00:4.68,Default,,0,0,0,,con i verbi all'infinito, per esempio
+Dialogue: 0,0:00:4.68,0:00:5.32,Default,,0,0,0,,con i verbi all'infinito, per {\1c&HFF00&\u1}esempio{\r}

@@ -1,0 +1,99 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.84,0:00:1.46,Default,,0,0,0,,{\1c&HFF00&\u1}della{\r} casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:1.46,0:00:1.82,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:1.82,0:00:3.88,Default,,0,0,0,,della {\1c&HFF00&\u1}casa.{\r} Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:3.88,0:00:4.20,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:4.20,0:00:4.48,Default,,0,0,0,,della casa. {\1c&HFF00&\u1}Per{\r} esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:4.48,0:00:4.50,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:4.50,0:00:5.28,Default,,0,0,0,,della casa. Per {\1c&HFF00&\u1}esempio,{\r} sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:5.28,0:00:6.23,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:6.23,0:00:6.77,Default,,0,0,0,,della casa. Per esempio, {\1c&HFF00&\u1}sono{\r} in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:6.77,0:00:7.17,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:7.17,0:00:7.47,Default,,0,0,0,,della casa. Per esempio, sono {\1c&HFF00&\u1}in{\r} soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:7.47,0:00:7.87,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:7.87,0:00:8.81,Default,,0,0,0,,della casa. Per esempio, sono in {\1c&HFF00&\u1}soggiorno,{\r} vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:8.81,0:00:10.59,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:10.59,0:00:11.17,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, {\1c&HFF00&\u1}vai{\r} in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:11.17,0:00:11.57,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:11.57,0:00:11.93,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai {\1c&HFF00&\u1}in{\r} cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:11.93,0:00:12.27,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:12.27,0:00:13.07,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in {\1c&HFF00&\u1}cucina,{\r} vado in bagno. Con le stanze
+Dialogue: 0,0:00:13.07,0:00:15.29,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:15.29,0:00:15.93,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, {\1c&HFF00&\u1}vado{\r} in bagno. Con le stanze
+Dialogue: 0,0:00:15.93,0:00:16.27,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:16.27,0:00:16.70,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado {\1c&HFF00&\u1}in{\r} bagno. Con le stanze
+Dialogue: 0,0:00:16.70,0:00:17.08,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:17.08,0:00:17.80,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in {\1c&HFF00&\u1}bagno.{\r} Con le stanze
+Dialogue: 0,0:00:17.80,0:00:19.18,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:19.18,0:00:19.28,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. {\1c&HFF00&\u1}Con{\r} le stanze
+Dialogue: 0,0:00:19.28,0:00:19.32,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:19.32,0:00:19.40,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con {\1c&HFF00&\u1}le{\r} stanze
+Dialogue: 0,0:00:19.40,0:00:19.44,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le stanze
+Dialogue: 0,0:00:19.44,0:00:20.04,Default,,0,0,0,,della casa. Per esempio, sono in soggiorno, vai in cucina, vado in bagno. Con le {\1c&HFF00&\u1}stanze{\r}
+Dialogue: 0,0:00:20.18,0:00:20.96,Default,,0,0,0,,{\1c&HFF00&\u1}della{\r} casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:20.96,0:00:21.18,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:21.18,0:00:21.88,Default,,0,0,0,,della {\1c&HFF00&\u1}casa{\r} usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:21.88,0:00:22.02,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:22.02,0:00:22.70,Default,,0,0,0,,della casa {\1c&HFF00&\u1}usiamo{\r} in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:22.70,0:00:23.29,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:23.29,0:00:23.39,Default,,0,0,0,,della casa usiamo {\1c&HFF00&\u1}in{\r} cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:23.39,0:00:23.43,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:23.43,0:00:24.13,Default,,0,0,0,,della casa usiamo in {\1c&HFF00&\u1}cucina,{\r} in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:24.13,0:00:24.57,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:24.57,0:00:24.69,Default,,0,0,0,,della casa usiamo in cucina, {\1c&HFF00&\u1}in{\r} soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:24.69,0:00:24.75,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:24.75,0:00:25.57,Default,,0,0,0,,della casa usiamo in cucina, in {\1c&HFF00&\u1}soggiorno,{\r} in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:25.57,0:00:26.31,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:26.31,0:00:26.51,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, {\1c&HFF00&\u1}in{\r} sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:26.51,0:00:26.71,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:26.71,0:00:26.95,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in {\1c&HFF00&\u1}sala{\r} da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:26.95,0:00:26.99,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:26.99,0:00:27.07,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala {\1c&HFF00&\u1}da{\r} pranzo, in bagno, in camera da
+Dialogue: 0,0:00:27.07,0:00:27.11,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:27.11,0:00:27.77,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da {\1c&HFF00&\u1}pranzo,{\r} in bagno, in camera da
+Dialogue: 0,0:00:27.77,0:00:28.61,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:28.61,0:00:28.73,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, {\1c&HFF00&\u1}in{\r} bagno, in camera da
+Dialogue: 0,0:00:28.73,0:00:28.83,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:28.83,0:00:29.51,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in {\1c&HFF00&\u1}bagno,{\r} in camera da
+Dialogue: 0,0:00:29.51,0:00:30.38,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:30.38,0:00:30.52,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, {\1c&HFF00&\u1}in{\r} camera da
+Dialogue: 0,0:00:30.52,0:00:30.60,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:30.60,0:00:31.06,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in {\1c&HFF00&\u1}camera{\r} da
+Dialogue: 0,0:00:31.06,0:00:31.10,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera da
+Dialogue: 0,0:00:31.10,0:00:31.16,Default,,0,0,0,,della casa usiamo in cucina, in soggiorno, in sala da pranzo, in bagno, in camera {\1c&HFF00&\u1}da{\r}
+Dialogue: 0,0:00:31.12,0:00:32.28,Default,,0,0,0,,{\1c&HFF00&\u1}letto,{\r} in corridoio anche.
+Dialogue: 0,0:00:32.28,0:00:32.34,Default,,0,0,0,,letto, in corridoio anche.
+Dialogue: 0,0:00:32.34,0:00:32.40,Default,,0,0,0,,letto, {\1c&HFF00&\u1}in{\r} corridoio anche.
+Dialogue: 0,0:00:32.40,0:00:32.46,Default,,0,0,0,,letto, in corridoio anche.
+Dialogue: 0,0:00:32.46,0:00:33.27,Default,,0,0,0,,letto, in {\1c&HFF00&\u1}corridoio{\r} anche.
+Dialogue: 0,0:00:33.27,0:00:33.49,Default,,0,0,0,,letto, in corridoio anche.
+Dialogue: 0,0:00:33.49,0:00:33.85,Default,,0,0,0,,letto, in corridoio {\1c&HFF00&\u1}anche.{\r}
+Dialogue: 0,0:00:34.76,0:00:35.76,Default,,0,0,0,,{\1c&HFF00&\u1}attenzione{\r} a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:35.76,0:00:36.30,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:36.30,0:00:36.50,Default,,0,0,0,,attenzione {\1c&HFF00&\u1}a{\r} studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:36.50,0:00:37.26,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:37.26,0:00:38.00,Default,,0,0,0,,attenzione a {\1c&HFF00&\u1}studio.{\r} Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:38.00,0:00:38.96,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:38.96,0:00:39.46,Default,,0,0,0,,attenzione a studio. {\1c&HFF00&\u1}Con{\r} studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:39.46,0:00:39.78,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:39.78,0:00:40.51,Default,,0,0,0,,attenzione a studio. Con {\1c&HFF00&\u1}studio{\r} dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:40.51,0:00:40.99,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:40.99,0:00:41.63,Default,,0,0,0,,attenzione a studio. Con studio {\1c&HFF00&\u1}dobbiamo{\r} usare anche l'articolo.
+Dialogue: 0,0:00:41.63,0:00:41.97,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:41.97,0:00:42.55,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo {\1c&HFF00&\u1}usare{\r} anche l'articolo.
+Dialogue: 0,0:00:42.55,0:00:42.91,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:42.91,0:00:43.45,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare {\1c&HFF00&\u1}anche{\r} l'articolo.
+Dialogue: 0,0:00:43.45,0:00:43.71,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche l'articolo.
+Dialogue: 0,0:00:43.71,0:00:43.91,Default,,0,0,0,,attenzione a studio. Con studio dobbiamo usare anche {\1c&HFF00&\u1}l'articolo.{\r}

@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.36,Default,,0,0,0,,{\1c&HFF00&\u1}via,{\r} viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:0.36,0:00:0.42,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:0.42,0:00:0.90,Default,,0,0,0,,via, {\1c&HFF00&\u1}viale,{\r} piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:0.90,0:00:1.10,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:1.10,0:00:1.66,Default,,0,0,0,,via, viale, {\1c&HFF00&\u1}piazza,{\r} eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:1.66,0:00:2.14,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:2.14,0:00:2.76,Default,,0,0,0,,via, viale, piazza, {\1c&HFF00&\u1}eccetera,{\r} con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:2.76,0:00:3.66,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:3.66,0:00:3.82,Default,,0,0,0,,via, viale, piazza, eccetera, {\1c&HFF00&\u1}con{\r} le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:3.82,0:00:3.88,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:3.88,0:00:3.98,Default,,0,0,0,,via, viale, piazza, eccetera, con {\1c&HFF00&\u1}le{\r} stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:3.98,0:00:4.10,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:4.10,0:00:4.84,Default,,0,0,0,,via, viale, piazza, eccetera, con le {\1c&HFF00&\u1}stanze{\r} della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:4.84,0:00:4.98,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:4.98,0:00:5.26,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze {\1c&HFF00&\u1}della{\r} casa in soggiorno, in cucina.
+Dialogue: 0,0:00:5.26,0:00:5.34,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:5.34,0:00:5.80,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della {\1c&HFF00&\u1}casa{\r} in soggiorno, in cucina.
+Dialogue: 0,0:00:5.80,0:00:6.06,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:6.06,0:00:6.16,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa {\1c&HFF00&\u1}in{\r} soggiorno, in cucina.
+Dialogue: 0,0:00:6.16,0:00:6.22,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:6.22,0:00:6.97,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in {\1c&HFF00&\u1}soggiorno,{\r} in cucina.
+Dialogue: 0,0:00:6.97,0:00:7.19,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:7.19,0:00:7.29,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, {\1c&HFF00&\u1}in{\r} cucina.
+Dialogue: 0,0:00:7.29,0:00:7.35,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in cucina.
+Dialogue: 0,0:00:7.35,0:00:7.93,Default,,0,0,0,,via, viale, piazza, eccetera, con le stanze della casa in soggiorno, in {\1c&HFF00&\u1}cucina.{\r}

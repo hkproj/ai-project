@@ -3,9 +3,7 @@ from pathlib import Path
 import fstools
 from datasets import VideoDataset
 import face_recognition
-import shutil
 import time
-import logging
 from log import getLogger
 import concurrent.futures
 import argparse
@@ -13,6 +11,7 @@ import os
 import datetime
 from srtloader import SRTLoader
 import tools
+import transcript_cleaning
 
 logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
 fs = fstools.DatasetFSHelper()
@@ -21,6 +20,76 @@ def _extractFacesFromFrame(index: int, rgbFrame):
     faceLocations = face_recognition.face_locations(rgbFrame)
     faceEncodings = face_recognition.face_encodings(rgbFrame, faceLocations)
     return index, faceLocations, faceEncodings
+
+def handleCleanTranscript(videoIds: list[str]) -> None:
+    if videoIds is None:
+        # Get all the videoIds from the clips folder
+        videoIds = []
+        path = Path(fs.getClipsFolderPath())
+        for item in path.iterdir():
+            if not item.is_file():
+                videoIds.append(item.name)
+
+    for videoId in videoIds:
+        # Get the video's path
+        clipsPath = fs.getClipsPath(videoId)
+        if not Path.exists(Path(clipsPath)):
+            raise FileNotFoundError()
+    
+    logger.debug(f'Will clean punctuations from {len(videoIds)} videos')
+
+    for videoId in videoIds:
+        # Get all the mp4 files in the video's clips folder
+        clipsPath = fs.getClipsPath(videoId)
+        clips = []
+        for item in Path(clipsPath).iterdir():
+            if item.is_file() and item.suffix == '.mp4':
+                # Get the file name without extension
+                clipFileNameWithoutExtension = os.path.splitext(os.path.basename(item.name))[0]
+                clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.TRANSCRIPTION_FILE_EXTENSION
+                srtFilePath = os.path.join(clipsPath, clipSubtitlesFileName)
+                if not Path.exists(Path(srtFilePath)):
+                    logger.warning(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
+                    continue
+                # Load the SRT file and verify that there is at least the minimum number of words
+                srt = SRTLoader(srtFilePath)
+                allWords = srt.getAllWords()
+
+                # Check if there are lines with multiple words
+                for index, (originalTimestampString, start, end, originalWord) in enumerate(allWords):
+
+                    # Perform any replacements as defined in the file
+                    replacementsFilePath = Path(transcript_cleaning.REPLACEMENTS_FILE).absolute()
+                    if not Path.exists(replacementsFilePath):
+                        raise Exception("Replacements file not found")
+                
+                    anyReplacements, transformedWord0 = transcript_cleaning.performReplacementsFromFile(str(replacementsFilePath), originalWord)
+
+                    # Find any floating point number
+                    if transcript_cleaning.detectFloatingPointNumbers(transformedWord0):
+                        # Show a warning
+                        logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found floating point number at index {index + 1}: {originalWord}')
+                        # Do not process this line
+                        continue
+
+                    # Find any numbers and convert it
+                    anyNumbersFound, transformedWord1 = transcript_cleaning.convertAllNumbersToWords(originalWord)
+
+                    anyCharRemoved, transformedWord2 = transcript_cleaning.removeUselessChars(transformedWord1)
+
+                    #  Transform the case
+                    transformedWord3 = transcript_cleaning.transformCase(transformedWord2)
+
+                    # Check if there are still some invalid chars
+                    if transcript_cleaning.detectInvalidChars(transformedWord3):
+                        logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found invalid char at index {index + 1}: {transformedWord3}')
+
+                    if anyNumbersFound or anyCharRemoved:
+                        logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Cleaned line {index + 1}: {originalWord} -> {transformedWord3}')
+
+                    allWords[index] = (originalTimestampString, start, end, transformedWord3)
+
+                srt.saveToFile(srtFilePath, allWords)
 
 def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
     if videoIds is None:
@@ -44,10 +113,10 @@ def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
         clipsPath = fs.getClipsPath(videoId)
         clips = []
         for item in Path(clipsPath).iterdir():
-            if item.is_file() and item.suffix == '.mp4':
+            if item.is_file() and item.suffix == fstools.VIDEO_FILE_EXTENSION:
                 # Get the file name without extension
                 clipFileNameWithoutExtension = os.path.splitext(os.path.basename(item.name))[0]
-                clipSubtitlesFileName = clipFileNameWithoutExtension + ".aac.word.srt"
+                clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.TRANSCRIPTION_FILE_EXTENSION
                 srtFilePath = os.path.join(clipsPath, clipSubtitlesFileName)
                 if not Path.exists(Path(srtFilePath)):
                     logger.debug(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
@@ -55,14 +124,18 @@ def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
                 # Load the SRT file and verify that there is at least the minimum number of words
                 srt = SRTLoader(srtFilePath)
                 allWords = srt.getAllWords()
+
+                # Check if there are lines with multiple words
+                for index, (originalTimestampString, start, end, word) in enumerate(allWords):
+                    if len(word.split()) > 1:
+                        logger.warn(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Ignoring {word} because it contains multiple words at index {index+1}')
+
                 if len(allWords) < numWords:
                     logger.debug(f'Video {videoId} - Ignoring clip {item.name} because it has less than {numWords} words')
                     continue
-                clips.append((clipFileNameWithoutExtension, clipSubtitlesFileName))
-                logger.info(f'Video {videoId} - Will generate miniclips from video {item.name} which contains {len(srt.getAllWords())} words')
 
-        
-                
+                clips.append((item.name, clipSubtitlesFileName))
+                logger.info(f'Video {videoId} - Will generate miniclips from video {item.name} which contains {len(srt.getAllWords())} words')
 
 def extractAllFacesFromVideo(videoId: str, sleep: int, minFaceWidth: int, minFaceHeight: int, frameBatchSize: int = 1) -> None:
     # If the directory already exists, ignore this video
@@ -434,8 +507,9 @@ if __name__ == '__main__':
     COMMAND_EXTRACT_AUDIO = "extract-audio"
     COMMAND_TRANSCRIBE_AUDIO = "transcribe-audio"
     COMMAND_CREATE_MINICLIPS = "create-miniclips"
+    COMMAND_CLEAN_TRANSCRIPT = "clean-transcript"
 
-    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO, COMMAND_CREATE_MINICLIPS]
+    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO, COMMAND_CREATE_MINICLIPS, COMMAND_CLEAN_TRANSCRIPT]
 
     parser = argparse.ArgumentParser(prog = 'Video Processing',description = 'video processing utility')
     parser.add_argument('command', type=str, choices=choices, help='The operation to execute')
@@ -443,10 +517,10 @@ if __name__ == '__main__':
     parser.add_argument('--video-id', nargs='*', type=str, required=False, help='Video ID(s) to process')
     parser.add_argument('--source', nargs='+', type=int, required=False, help='Source faces to merge')
     parser.add_argument('--target', type=int, required=False, help='Target to merge to')
-    parser.add_argument('--max-diff', type=int, required=False, help='Max timestamp difference')
-    parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit')
-    parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration')
-    parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip')
+    parser.add_argument('--max-diff', type=int, required=False, help='Max timestamp difference (milliseconds)')
+    parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit (milliseconds)')
+    parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration (milliseconds)')
+    parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip (seconds)')
     parser.add_argument('--rebuild', type=bool, required=False, default=False, help='Rebuild output')
     parser.add_argument('--branch', type=str, required=False, default=None, help='Branch name')
     # Filtering based on the minimum face size is not useful because
@@ -481,3 +555,5 @@ if __name__ == '__main__':
         handleTranscribeAudio(args.video_id, args.rebuild)
     elif args.command == COMMAND_CREATE_MINICLIPS:
         handleExtractMiniClips(args.video_id, args.words)
+    elif args.command == COMMAND_CLEAN_TRANSCRIPT:
+        handleCleanTranscript(args.video_id)

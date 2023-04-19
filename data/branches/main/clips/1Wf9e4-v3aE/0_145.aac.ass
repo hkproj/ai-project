@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.38,0:00:0.58,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:0.58,0:00:0.78,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:0.78,0:00:1.28,Default,,0,0,0,,in {\1c&HFF00&\u1}Italia,{\r} a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:1.28,0:00:1.94,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:1.94,0:00:2.10,Default,,0,0,0,,in Italia, {\1c&HFF00&\u1}a{\r} Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:2.10,0:00:2.20,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:2.20,0:00:2.74,Default,,0,0,0,,in Italia, a {\1c&HFF00&\u1}Milano,{\r} in via Garibaldi 55, perché?
+Dialogue: 0,0:00:2.74,0:00:3.20,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:3.20,0:00:3.55,Default,,0,0,0,,in Italia, a Milano, {\1c&HFF00&\u1}in{\r} via Garibaldi 55, perché?
+Dialogue: 0,0:00:3.55,0:00:3.95,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:3.95,0:00:4.13,Default,,0,0,0,,in Italia, a Milano, in {\1c&HFF00&\u1}via{\r} Garibaldi 55, perché?
+Dialogue: 0,0:00:4.13,0:00:4.17,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:4.17,0:00:4.73,Default,,0,0,0,,in Italia, a Milano, in via {\1c&HFF00&\u1}Garibaldi 55,{\r} perché?
+Dialogue: 0,0:00:4.73,0:00:4.77,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, perché?
+Dialogue: 0,0:00:4.77,0:00:4.89,Default,,0,0,0,,in Italia, a Milano, in via Garibaldi 55, {\1c&HFF00&\u1}perché?{\r}

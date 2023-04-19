@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.34,0:00:0.74,Default,,0,0,0,,{\1c&HFF00&\u1}casa{\r} significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:0.74,0:00:1.36,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:1.36,0:00:1.90,Default,,0,0,0,,casa {\1c&HFF00&\u1}significa{\r} che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:1.90,0:00:2.00,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:2.00,0:00:2.12,Default,,0,0,0,,casa significa {\1c&HFF00&\u1}che{\r} entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:2.12,0:00:2.52,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:2.52,0:00:3.34,Default,,0,0,0,,casa significa che {\1c&HFF00&\u1}entro{\r} in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:3.34,0:00:3.53,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:3.53,0:00:3.65,Default,,0,0,0,,casa significa che entro {\1c&HFF00&\u1}in{\r} casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:3.65,0:00:3.73,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:3.73,0:00:4.15,Default,,0,0,0,,casa significa che entro in {\1c&HFF00&\u1}casa.{\r} Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:4.15,0:00:4.69,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:4.69,0:00:5.15,Default,,0,0,0,,casa significa che entro in casa. {\1c&HFF00&\u1}Prima{\r} ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:5.15,0:00:5.33,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:5.33,0:00:5.63,Default,,0,0,0,,casa significa che entro in casa. Prima {\1c&HFF00&\u1}ero{\r} fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:5.63,0:00:5.93,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:5.93,0:00:6.51,Default,,0,0,0,,casa significa che entro in casa. Prima ero {\1c&HFF00&\u1}fuori{\r} e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:6.51,0:00:6.93,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:6.93,0:00:6.99,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori {\1c&HFF00&\u1}e{\r} adesso entro in casa. Per esempio
+Dialogue: 0,0:00:6.99,0:00:7.05,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:7.05,0:00:7.67,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e {\1c&HFF00&\u1}adesso{\r} entro in casa. Per esempio
+Dialogue: 0,0:00:7.67,0:00:8.33,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:8.33,0:00:9.05,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso {\1c&HFF00&\u1}entro{\r} in casa. Per esempio
+Dialogue: 0,0:00:9.05,0:00:9.37,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:9.37,0:00:9.49,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro {\1c&HFF00&\u1}in{\r} casa. Per esempio
+Dialogue: 0,0:00:9.49,0:00:9.55,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:9.55,0:00:9.91,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in {\1c&HFF00&\u1}casa.{\r} Per esempio
+Dialogue: 0,0:00:9.91,0:00:10.30,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:10.30,0:00:10.40,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. {\1c&HFF00&\u1}Per{\r} esempio
+Dialogue: 0,0:00:10.40,0:00:10.46,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per esempio
+Dialogue: 0,0:00:10.46,0:00:10.88,Default,,0,0,0,,casa significa che entro in casa. Prima ero fuori e adesso entro in casa. Per {\1c&HFF00&\u1}esempio{\r}
+Dialogue: 0,0:00:11.70,0:00:11.96,Default,,0,0,0,,{\1c&HFF00&\u1}Sono{\r} in giardino e adesso vado in...
+Dialogue: 0,0:00:11.96,0:00:12.04,Default,,0,0,0,,Sono in giardino e adesso vado in...
+Dialogue: 0,0:00:12.04,0:00:12.12,Default,,0,0,0,,Sono {\1c&HFF00&\u1}in{\r} giardino e adesso vado in...
+Dialogue: 0,0:00:12.12,0:00:12.19,Default,,0,0,0,,Sono in giardino e adesso vado in...
+Dialogue: 0,0:00:12.19,0:00:12.79,Default,,0,0,0,,Sono in {\1c&HFF00&\u1}giardino{\r} e adesso vado in...
+Dialogue: 0,0:00:12.79,0:00:13.09,Default,,0,0,0,,Sono in giardino e adesso vado in...
+Dialogue: 0,0:00:13.09,0:00:13.15,Default,,0,0,0,,Sono in giardino {\1c&HFF00&\u1}e{\r} adesso vado in...
+Dialogue: 0,0:00:13.15,0:00:13.19,Default,,0,0,0,,Sono in giardino e adesso vado in...
+Dialogue: 0,0:00:13.19,0:00:13.70,Default,,0,0,0,,Sono in giardino e {\1c&HFF00&\u1}adesso{\r} vado in...
+Dialogue: 0,0:00:13.70,0:00:13.80,Default,,0,0,0,,Sono in giardino e adesso vado in...
+Dialogue: 0,0:00:13.80,0:00:14.10,Default,,0,0,0,,Sono in giardino e adesso {\1c&HFF00&\u1}vado{\r} in...
+Dialogue: 0,0:00:14.10,0:00:14.48,Default,,0,0,0,,Sono in giardino e adesso vado in...
+Dialogue: 0,0:00:14.48,0:00:14.68,Default,,0,0,0,,Sono in giardino e adesso vado {\1c&HFF00&\u1}in...{\r}

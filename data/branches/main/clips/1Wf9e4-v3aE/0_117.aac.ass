@@ -1,0 +1,28 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.68,Default,,0,0,0,,{\1c&HFF00&\u1}Centro{\r} e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:0.68,0:00:1.43,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:1.43,0:00:1.47,Default,,0,0,0,,Centro {\1c&HFF00&\u1}e{\r} abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:1.47,0:00:1.53,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:1.53,0:00:1.81,Default,,0,0,0,,Centro e {\1c&HFF00&\u1}abbiamo{\r} detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:1.81,0:00:1.87,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:1.87,0:00:2.27,Default,,0,0,0,,Centro e abbiamo {\1c&HFF00&\u1}detto{\r} constazione abbiamo due possibilità
+Dialogue: 0,0:00:2.27,0:00:2.45,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:2.45,0:00:3.39,Default,,0,0,0,,Centro e abbiamo detto {\1c&HFF00&\u1}constazione{\r} abbiamo due possibilità
+Dialogue: 0,0:00:3.39,0:00:3.67,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:3.67,0:00:4.11,Default,,0,0,0,,Centro e abbiamo detto constazione {\1c&HFF00&\u1}abbiamo{\r} due possibilità
+Dialogue: 0,0:00:4.11,0:00:4.26,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:4.26,0:00:4.50,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo {\1c&HFF00&\u1}due{\r} possibilità
+Dialogue: 0,0:00:4.50,0:00:4.58,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due possibilità
+Dialogue: 0,0:00:4.58,0:00:5.22,Default,,0,0,0,,Centro e abbiamo detto constazione abbiamo due {\1c&HFF00&\u1}possibilità{\r}

@@ -1,0 +1,111 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.92,0:00:1.36,Default,,0,0,0,,{\1c&HFF00&\u1}Vado{\r} in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:1.36,0:00:1.56,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:1.56,0:00:1.82,Default,,0,0,0,,Vado {\1c&HFF00&\u1}in{\r} edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:1.82,0:00:2.24,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:2.24,0:00:3.09,Default,,0,0,0,,Vado in {\1c&HFF00&\u1}edicola{\r} a comprare un giornale o una rivista.
+Dialogue: 0,0:00:3.09,0:00:3.67,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:3.67,0:00:3.73,Default,,0,0,0,,Vado in edicola {\1c&HFF00&\u1}a{\r} comprare un giornale o una rivista.
+Dialogue: 0,0:00:3.73,0:00:3.81,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:3.81,0:00:4.61,Default,,0,0,0,,Vado in edicola a {\1c&HFF00&\u1}comprare{\r} un giornale o una rivista.
+Dialogue: 0,0:00:4.61,0:00:4.79,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:4.79,0:00:4.91,Default,,0,0,0,,Vado in edicola a comprare {\1c&HFF00&\u1}un{\r} giornale o una rivista.
+Dialogue: 0,0:00:4.91,0:00:4.95,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:4.95,0:00:5.63,Default,,0,0,0,,Vado in edicola a comprare un {\1c&HFF00&\u1}giornale{\r} o una rivista.
+Dialogue: 0,0:00:5.63,0:00:5.93,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:5.93,0:00:6.05,Default,,0,0,0,,Vado in edicola a comprare un giornale {\1c&HFF00&\u1}o{\r} una rivista.
+Dialogue: 0,0:00:6.05,0:00:6.13,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:6.13,0:00:6.29,Default,,0,0,0,,Vado in edicola a comprare un giornale o {\1c&HFF00&\u1}una{\r} rivista.
+Dialogue: 0,0:00:6.29,0:00:6.33,Default,,0,0,0,,Vado in edicola a comprare un giornale o una rivista.
+Dialogue: 0,0:00:6.33,0:00:6.82,Default,,0,0,0,,Vado in edicola a comprare un giornale o una {\1c&HFF00&\u1}rivista.{\r}
+Dialogue: 0,0:00:8.06,0:00:8.38,Default,,0,0,0,,{\1c&HFF00&\u1}Vado{\r} in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:8.38,0:00:8.56,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:8.56,0:00:8.76,Default,,0,0,0,,Vado {\1c&HFF00&\u1}in{\r} montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:8.76,0:00:9.02,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:9.02,0:00:10.05,Default,,0,0,0,,Vado in {\1c&HFF00&\u1}montagna{\r} a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:10.05,0:00:10.93,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:10.93,0:00:10.99,Default,,0,0,0,,Vado in montagna {\1c&HFF00&\u1}a{\r} sciare o a fare una passeggiata.
+Dialogue: 0,0:00:10.99,0:00:11.03,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:11.03,0:00:11.85,Default,,0,0,0,,Vado in montagna a {\1c&HFF00&\u1}sciare{\r} o a fare una passeggiata.
+Dialogue: 0,0:00:11.85,0:00:12.43,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:12.43,0:00:12.49,Default,,0,0,0,,Vado in montagna a sciare {\1c&HFF00&\u1}o{\r} a fare una passeggiata.
+Dialogue: 0,0:00:12.49,0:00:12.59,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:12.59,0:00:12.63,Default,,0,0,0,,Vado in montagna a sciare o {\1c&HFF00&\u1}a{\r} fare una passeggiata.
+Dialogue: 0,0:00:12.63,0:00:12.69,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:12.69,0:00:12.97,Default,,0,0,0,,Vado in montagna a sciare o a {\1c&HFF00&\u1}fare{\r} una passeggiata.
+Dialogue: 0,0:00:12.97,0:00:13.03,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:13.03,0:00:13.13,Default,,0,0,0,,Vado in montagna a sciare o a fare {\1c&HFF00&\u1}una{\r} passeggiata.
+Dialogue: 0,0:00:13.13,0:00:13.17,Default,,0,0,0,,Vado in montagna a sciare o a fare una passeggiata.
+Dialogue: 0,0:00:13.17,0:00:13.88,Default,,0,0,0,,Vado in montagna a sciare o a fare una {\1c&HFF00&\u1}passeggiata.{\r}
+Dialogue: 0,0:00:14.98,0:00:15.40,Default,,0,0,0,,{\1c&HFF00&\u1}Vado{\r} in campagna.
+Dialogue: 0,0:00:15.40,0:00:15.81,Default,,0,0,0,,Vado in campagna.
+Dialogue: 0,0:00:15.81,0:00:16.03,Default,,0,0,0,,Vado {\1c&HFF00&\u1}in{\r} campagna.
+Dialogue: 0,0:00:16.03,0:00:16.31,Default,,0,0,0,,Vado in campagna.
+Dialogue: 0,0:00:16.31,0:00:17.11,Default,,0,0,0,,Vado in {\1c&HFF00&\u1}campagna.{\r}
+Dialogue: 0,0:00:18.84,0:00:19.24,Default,,0,0,0,,{\1c&HFF00&\u1}Vado{\r} in periferia.
+Dialogue: 0,0:00:19.24,0:00:19.46,Default,,0,0,0,,Vado in periferia.
+Dialogue: 0,0:00:19.46,0:00:19.75,Default,,0,0,0,,Vado {\1c&HFF00&\u1}in{\r} periferia.
+Dialogue: 0,0:00:19.75,0:00:20.07,Default,,0,0,0,,Vado in periferia.
+Dialogue: 0,0:00:20.07,0:00:20.75,Default,,0,0,0,,Vado in {\1c&HFF00&\u1}periferia.{\r}
+Dialogue: 0,0:00:22.72,0:00:22.80,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:22.80,0:00:22.86,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:22.86,0:00:22.92,Default,,0,0,0,,Non {\1c&HFF00&\u1}è{\r} una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:22.92,0:00:22.98,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:22.98,0:00:23.10,Default,,0,0,0,,Non è {\1c&HFF00&\u1}una{\r} regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:23.10,0:00:23.14,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:23.14,0:00:23.48,Default,,0,0,0,,Non è una {\1c&HFF00&\u1}regola,{\r} infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:23.48,0:00:23.66,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:23.66,0:00:24.25,Default,,0,0,0,,Non è una regola, {\1c&HFF00&\u1}infatti{\r} abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:24.25,0:00:24.43,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:24.43,0:00:25.01,Default,,0,0,0,,Non è una regola, infatti {\1c&HFF00&\u1}abbiamo{\r} anche parole maschili con IN.
+Dialogue: 0,0:00:25.01,0:00:25.19,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:25.19,0:00:25.69,Default,,0,0,0,,Non è una regola, infatti abbiamo {\1c&HFF00&\u1}anche{\r} parole maschili con IN.
+Dialogue: 0,0:00:25.69,0:00:25.89,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:25.89,0:00:26.43,Default,,0,0,0,,Non è una regola, infatti abbiamo anche {\1c&HFF00&\u1}parole{\r} maschili con IN.
+Dialogue: 0,0:00:26.43,0:00:26.53,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:26.53,0:00:27.19,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole {\1c&HFF00&\u1}maschili{\r} con IN.
+Dialogue: 0,0:00:27.19,0:00:27.33,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:27.33,0:00:27.69,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili {\1c&HFF00&\u1}con{\r} IN.
+Dialogue: 0,0:00:27.69,0:00:28.28,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con IN.
+Dialogue: 0,0:00:28.28,0:00:28.48,Default,,0,0,0,,Non è una regola, infatti abbiamo anche parole maschili con {\1c&HFF00&\u1}IN.{\r}
+Dialogue: 0,0:00:28.28,0:00:28.54,Default,,0,0,0,,{\1c&HFF00&\u1}In,{\r} per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:28.54,0:00:28.78,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:28.78,0:00:28.94,Default,,0,0,0,,In, {\1c&HFF00&\u1}per{\r} esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:28.94,0:00:28.98,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:28.98,0:00:29.57,Default,,0,0,0,,In, per {\1c&HFF00&\u1}esempio,{\r} vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:29.57,0:00:29.71,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:29.71,0:00:30.03,Default,,0,0,0,,In, per esempio, {\1c&HFF00&\u1}vado{\r} in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:30.03,0:00:30.19,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:30.19,0:00:30.41,Default,,0,0,0,,In, per esempio, vado {\1c&HFF00&\u1}in{\r} ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:30.41,0:00:30.75,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:30.75,0:00:31.25,Default,,0,0,0,,In, per esempio, vado in {\1c&HFF00&\u1}ufficio,{\r} vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.25,0:00:31.27,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.27,0:00:31.35,Default,,0,0,0,,In, per esempio, vado in ufficio, {\1c&HFF00&\u1}vado{\r} in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.35,0:00:31.37,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.37,0:00:31.44,Default,,0,0,0,,In, per esempio, vado in ufficio, vado {\1c&HFF00&\u1}in{\r} ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.44,0:00:31.46,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.46,0:00:31.60,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in {\1c&HFF00&\u1}ufficio,{\r} vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.60,0:00:31.62,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.62,0:00:31.70,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, {\1c&HFF00&\u1}vado{\r} in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.70,0:00:31.72,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.72,0:00:31.76,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado {\1c&HFF00&\u1}in{\r} ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.76,0:00:31.78,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.78,0:00:31.92,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in {\1c&HFF00&\u1}ufficio,{\r} vado in ufficio,
+Dialogue: 0,0:00:31.92,0:00:31.94,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:31.94,0:00:32.02,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, {\1c&HFF00&\u1}vado{\r} in ufficio,
+Dialogue: 0,0:00:32.02,0:00:32.04,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:32.04,0:00:32.08,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado {\1c&HFF00&\u1}in{\r} ufficio,
+Dialogue: 0,0:00:32.08,0:00:32.10,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in ufficio,
+Dialogue: 0,0:00:32.10,0:00:32.26,Default,,0,0,0,,In, per esempio, vado in ufficio, vado in ufficio, vado in ufficio, vado in {\1c&HFF00&\u1}ufficio,{\r}

@@ -39,8 +39,16 @@ class SRTLoader:
                 endTimestamp = endH * 3600 + endM * 60 + endS + endMS / 1000
                 words = lines[i+2].strip()
 
-                self.entries.append((startTimestamp, endTimestamp, words))
+                self.entries.append((timestampString, startTimestamp, endTimestamp, words))
             
 
     def getAllWords(self) -> list[tuple[float, float, str]]:
-        return [(startTimestamp, endTimestamp, words) for startTimestamp, endTimestamp, words in self.entries]
+        return [(originalTimestampString, startTimestamp, endTimestamp, words) for originalTimestampString, startTimestamp, endTimestamp, words in self.entries]
+    
+    def saveToFile(self, filePath: str, entries: list[tuple[float, float, str]]) -> None:
+        with open(filePath, 'w') as file:
+            for i, (originalTimestampString, startTimestamp, endTimestamp, words) in enumerate(entries):
+                file.write(f'{i+1}\n')
+                file.write(f'{originalTimestampString}')
+                file.write(f'{words}\n')
+                file.write('\n')
