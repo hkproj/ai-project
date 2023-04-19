@@ -1,0 +1,1103 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.05,0:00:1.11,Default,,0,0,0,,{\1c&HFF00&\u1}No.{\r}
+Dialogue: 0,0:00:1.50,0:00:1.68,Default,,0,0,0,,{\1c&HFF00&\u1}Dov'è?{\r}
+Dialogue: 0,0:00:2.00,0:00:2.04,Default,,0,0,0,,{\1c&HFF00&\u1}Mi{\r} sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.04,0:00:2.06,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.06,0:00:2.12,Default,,0,0,0,,Mi {\1c&HFF00&\u1}sei{\r} dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.12,0:00:2.14,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.14,0:00:2.22,Default,,0,0,0,,Mi sei {\1c&HFF00&\u1}dire{\r} dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.22,0:00:2.24,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.24,0:00:2.32,Default,,0,0,0,,Mi sei dire {\1c&HFF00&\u1}dov'è{\r} la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.32,0:00:2.34,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.34,0:00:2.38,Default,,0,0,0,,Mi sei dire dov'è {\1c&HFF00&\u1}la{\r} mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.38,0:00:2.40,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.40,0:00:2.46,Default,,0,0,0,,Mi sei dire dov'è la {\1c&HFF00&\u1}mia{\r} motivazione che non la trovo?
+Dialogue: 0,0:00:2.46,0:00:2.48,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.48,0:00:2.70,Default,,0,0,0,,Mi sei dire dov'è la mia {\1c&HFF00&\u1}motivazione{\r} che non la trovo?
+Dialogue: 0,0:00:2.70,0:00:2.72,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.72,0:00:2.78,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione {\1c&HFF00&\u1}che{\r} non la trovo?
+Dialogue: 0,0:00:2.78,0:00:2.80,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.80,0:00:2.86,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che {\1c&HFF00&\u1}non{\r} la trovo?
+Dialogue: 0,0:00:2.86,0:00:2.88,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.88,0:00:2.92,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non {\1c&HFF00&\u1}la{\r} trovo?
+Dialogue: 0,0:00:2.92,0:00:2.94,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la trovo?
+Dialogue: 0,0:00:2.94,0:00:3.04,Default,,0,0,0,,Mi sei dire dov'è la mia motivazione che non la {\1c&HFF00&\u1}trovo?{\r}
+Dialogue: 0,0:00:4.72,0:00:5.00,Default,,0,0,0,,{\1c&HFF00&\u1}Fermati!{\r}
+Dialogue: 0,0:00:5.60,0:00:5.68,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} rispondere!
+Dialogue: 0,0:00:5.68,0:00:5.70,Default,,0,0,0,,Non rispondere!
+Dialogue: 0,0:00:5.70,0:00:6.00,Default,,0,0,0,,Non {\1c&HFF00&\u1}rispondere!{\r}
+Dialogue: 0,0:00:6.60,0:00:6.64,Default,,0,0,0,,{\1c&HFF00&\u1}Tu{\r} non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.64,0:00:6.66,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.66,0:00:6.72,Default,,0,0,0,,Tu {\1c&HFF00&\u1}non{\r} puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.72,0:00:6.74,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.74,0:00:6.82,Default,,0,0,0,,Tu non {\1c&HFF00&\u1}puoi{\r} sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.82,0:00:6.84,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.84,0:00:6.96,Default,,0,0,0,,Tu non puoi {\1c&HFF00&\u1}sapere{\r} dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.96,0:00:6.98,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:6.98,0:00:7.06,Default,,0,0,0,,Tu non puoi sapere {\1c&HFF00&\u1}dove{\r} io posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.06,0:00:7.08,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.08,0:00:7.12,Default,,0,0,0,,Tu non puoi sapere dove {\1c&HFF00&\u1}io{\r} posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.12,0:00:7.14,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.14,0:00:7.24,Default,,0,0,0,,Tu non puoi sapere dove io {\1c&HFF00&\u1}posso{\r} trovare la mia motivazione.
+Dialogue: 0,0:00:7.24,0:00:7.26,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.26,0:00:7.40,Default,,0,0,0,,Tu non puoi sapere dove io posso {\1c&HFF00&\u1}trovare{\r} la mia motivazione.
+Dialogue: 0,0:00:7.40,0:00:7.42,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.42,0:00:7.46,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare {\1c&HFF00&\u1}la{\r} mia motivazione.
+Dialogue: 0,0:00:7.46,0:00:7.48,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.48,0:00:7.54,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la {\1c&HFF00&\u1}mia{\r} motivazione.
+Dialogue: 0,0:00:7.54,0:00:7.56,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia motivazione.
+Dialogue: 0,0:00:7.56,0:00:7.78,Default,,0,0,0,,Tu non puoi sapere dove io posso trovare la mia {\1c&HFF00&\u1}motivazione.{\r}
+Dialogue: 0,0:00:9.60,0:00:10.02,Default,,0,0,0,,{\1c&HFF00&\u1}Christian,{\r} voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:10.02,0:00:10.04,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:10.04,0:00:10.26,Default,,0,0,0,,Christian, {\1c&HFF00&\u1}voglio{\r} iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:10.26,0:00:10.28,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:10.28,0:00:10.78,Default,,0,0,0,,Christian, voglio {\1c&HFF00&\u1}iniziare{\r} ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:10.78,0:00:10.89,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:10.89,0:00:10.97,Default,,0,0,0,,Christian, voglio iniziare {\1c&HFF00&\u1}ma{\r} non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:10.97,0:00:11.05,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:11.05,0:00:11.15,Default,,0,0,0,,Christian, voglio iniziare ma {\1c&HFF00&\u1}non{\r} riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:11.15,0:00:11.19,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:11.19,0:00:11.43,Default,,0,0,0,,Christian, voglio iniziare ma non {\1c&HFF00&\u1}riesco{\r} a trovare la mia motivazione.
+Dialogue: 0,0:00:11.43,0:00:11.45,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:11.45,0:00:11.47,Default,,0,0,0,,Christian, voglio iniziare ma non riesco {\1c&HFF00&\u1}a{\r} trovare la mia motivazione.
+Dialogue: 0,0:00:11.47,0:00:11.51,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:11.51,0:00:11.77,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a {\1c&HFF00&\u1}trovare{\r} la mia motivazione.
+Dialogue: 0,0:00:11.77,0:00:11.83,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:11.83,0:00:11.87,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare {\1c&HFF00&\u1}la{\r} mia motivazione.
+Dialogue: 0,0:00:11.87,0:00:11.91,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:11.91,0:00:12.01,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la {\1c&HFF00&\u1}mia{\r} motivazione.
+Dialogue: 0,0:00:12.01,0:00:12.05,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia motivazione.
+Dialogue: 0,0:00:12.05,0:00:12.67,Default,,0,0,0,,Christian, voglio iniziare ma non riesco a trovare la mia {\1c&HFF00&\u1}motivazione.{\r}
+Dialogue: 0,0:00:13.00,0:00:13.20,Default,,0,0,0,,{\1c&HFF00&\u1}Come{\r} faccio?
+Dialogue: 0,0:00:13.20,0:00:13.24,Default,,0,0,0,,Come faccio?
+Dialogue: 0,0:00:13.24,0:00:13.52,Default,,0,0,0,,Come {\1c&HFF00&\u1}faccio?{\r}
+Dialogue: 0,0:00:13.88,0:00:14.38,Default,,0,0,0,,{\1c&HFF00&\u1}Mi{\r} puoi aiutare?
+Dialogue: 0,0:00:14.38,0:00:14.44,Default,,0,0,0,,Mi puoi aiutare?
+Dialogue: 0,0:00:14.44,0:00:14.52,Default,,0,0,0,,Mi {\1c&HFF00&\u1}puoi{\r} aiutare?
+Dialogue: 0,0:00:14.52,0:00:14.54,Default,,0,0,0,,Mi puoi aiutare?
+Dialogue: 0,0:00:14.54,0:00:14.83,Default,,0,0,0,,Mi puoi {\1c&HFF00&\u1}aiutare?{\r}
+Dialogue: 0,0:00:14.88,0:00:15.14,Default,,0,0,0,,{\1c&HFF00&\u1}L'aiuto{\r} più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.14,0:00:15.16,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.16,0:00:15.30,Default,,0,0,0,,L'aiuto {\1c&HFF00&\u1}più{\r} grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.30,0:00:15.32,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.32,0:00:15.46,Default,,0,0,0,,L'aiuto più {\1c&HFF00&\u1}grande{\r} che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.46,0:00:15.50,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.50,0:00:15.56,Default,,0,0,0,,L'aiuto più grande {\1c&HFF00&\u1}che{\r} io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.56,0:00:15.62,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.62,0:00:15.70,Default,,0,0,0,,L'aiuto più grande che {\1c&HFF00&\u1}io{\r} ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.70,0:00:15.72,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.72,0:00:15.78,Default,,0,0,0,,L'aiuto più grande che io {\1c&HFF00&\u1}ti{\r} posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.78,0:00:15.82,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:15.82,0:00:16.04,Default,,0,0,0,,L'aiuto più grande che io ti {\1c&HFF00&\u1}posso{\r} dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:16.04,0:00:16.10,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:16.10,0:00:16.41,Default,,0,0,0,,L'aiuto più grande che io ti posso {\1c&HFF00&\u1}dare{\r} è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:16.41,0:00:16.81,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:16.81,0:00:16.85,Default,,0,0,0,,L'aiuto più grande che io ti posso dare {\1c&HFF00&\u1}è{\r} che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:16.85,0:00:16.91,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:16.91,0:00:17.03,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è {\1c&HFF00&\u1}che{\r} io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:17.03,0:00:17.13,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:17.13,0:00:17.27,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che {\1c&HFF00&\u1}io{\r} non ti posso aiutare a trovare la
+Dialogue: 0,0:00:17.27,0:00:17.31,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:17.31,0:00:17.41,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io {\1c&HFF00&\u1}non{\r} ti posso aiutare a trovare la
+Dialogue: 0,0:00:17.41,0:00:17.43,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:17.43,0:00:17.51,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non {\1c&HFF00&\u1}ti{\r} posso aiutare a trovare la
+Dialogue: 0,0:00:17.51,0:00:17.57,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:17.57,0:00:17.87,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti {\1c&HFF00&\u1}posso{\r} aiutare a trovare la
+Dialogue: 0,0:00:17.87,0:00:18.03,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:18.03,0:00:18.45,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso {\1c&HFF00&\u1}aiutare{\r} a trovare la
+Dialogue: 0,0:00:18.45,0:00:18.47,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:18.47,0:00:18.49,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare {\1c&HFF00&\u1}a{\r} trovare la
+Dialogue: 0,0:00:18.49,0:00:18.53,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:18.53,0:00:18.71,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a {\1c&HFF00&\u1}trovare{\r} la
+Dialogue: 0,0:00:18.71,0:00:18.77,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare la
+Dialogue: 0,0:00:18.77,0:00:18.81,Default,,0,0,0,,L'aiuto più grande che io ti posso dare è che io non ti posso aiutare a trovare {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:18.80,0:00:18.86,Default,,0,0,0,,{\1c&HFF00&\u1}tua{\r} motivazione.
+Dialogue: 0,0:00:18.86,0:00:19.02,Default,,0,0,0,,tua motivazione.
+Dialogue: 0,0:00:19.02,0:00:19.67,Default,,0,0,0,,tua {\1c&HFF00&\u1}motivazione.{\r}
+Dialogue: 0,0:00:20.02,0:00:20.16,Default,,0,0,0,,{\1c&HFF00&\u1}Sei{\r} tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:20.16,0:00:20.26,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:20.26,0:00:20.42,Default,,0,0,0,,Sei {\1c&HFF00&\u1}tu{\r} che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:20.42,0:00:20.64,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:20.64,0:00:20.74,Default,,0,0,0,,Sei tu {\1c&HFF00&\u1}che{\r} devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:20.74,0:00:20.78,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:20.78,0:00:20.94,Default,,0,0,0,,Sei tu che {\1c&HFF00&\u1}devi{\r} trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:20.94,0:00:21.00,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:21.00,0:00:21.44,Default,,0,0,0,,Sei tu che devi {\1c&HFF00&\u1}trovare{\r} ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:21.44,0:00:21.71,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:21.71,0:00:21.85,Default,,0,0,0,,Sei tu che devi trovare {\1c&HFF00&\u1}ciò{\r} che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:21.85,0:00:21.89,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:21.89,0:00:21.99,Default,,0,0,0,,Sei tu che devi trovare ciò {\1c&HFF00&\u1}che{\r} ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:21.99,0:00:22.05,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:22.05,0:00:22.13,Default,,0,0,0,,Sei tu che devi trovare ciò che {\1c&HFF00&\u1}ti{\r} motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:22.13,0:00:22.17,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:22.17,0:00:22.49,Default,,0,0,0,,Sei tu che devi trovare ciò che ti {\1c&HFF00&\u1}motiva{\r} l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:22.49,0:00:22.55,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:22.55,0:00:23.11,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva {\1c&HFF00&\u1}l'azione{\r} per poi poterlo utilizzare come
+Dialogue: 0,0:00:23.11,0:00:23.57,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:23.57,0:00:23.69,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione {\1c&HFF00&\u1}per{\r} poi poterlo utilizzare come
+Dialogue: 0,0:00:23.69,0:00:23.75,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:23.75,0:00:23.87,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per {\1c&HFF00&\u1}poi{\r} poterlo utilizzare come
+Dialogue: 0,0:00:23.87,0:00:23.93,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:23.93,0:00:24.39,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi {\1c&HFF00&\u1}poterlo{\r} utilizzare come
+Dialogue: 0,0:00:24.39,0:00:24.57,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:24.57,0:00:25.17,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo {\1c&HFF00&\u1}utilizzare{\r} come
+Dialogue: 0,0:00:25.17,0:00:25.23,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare come
+Dialogue: 0,0:00:25.23,0:00:25.37,Default,,0,0,0,,Sei tu che devi trovare ciò che ti motiva l'azione per poi poterlo utilizzare {\1c&HFF00&\u1}come{\r}
+Dialogue: 0,0:00:25.36,0:00:25.44,Default,,0,0,0,,{\1c&HFF00&\u1}leva{\r} per raggiungere il tuo obiettivo.
+Dialogue: 0,0:00:25.44,0:00:25.46,Default,,0,0,0,,leva per raggiungere il tuo obiettivo.
+Dialogue: 0,0:00:25.46,0:00:25.52,Default,,0,0,0,,leva {\1c&HFF00&\u1}per{\r} raggiungere il tuo obiettivo.
+Dialogue: 0,0:00:25.52,0:00:25.54,Default,,0,0,0,,leva per raggiungere il tuo obiettivo.
+Dialogue: 0,0:00:25.54,0:00:25.76,Default,,0,0,0,,leva per {\1c&HFF00&\u1}raggiungere{\r} il tuo obiettivo.
+Dialogue: 0,0:00:25.76,0:00:25.78,Default,,0,0,0,,leva per raggiungere il tuo obiettivo.
+Dialogue: 0,0:00:25.78,0:00:25.82,Default,,0,0,0,,leva per raggiungere {\1c&HFF00&\u1}il{\r} tuo obiettivo.
+Dialogue: 0,0:00:25.82,0:00:25.84,Default,,0,0,0,,leva per raggiungere il tuo obiettivo.
+Dialogue: 0,0:00:25.84,0:00:25.90,Default,,0,0,0,,leva per raggiungere il {\1c&HFF00&\u1}tuo{\r} obiettivo.
+Dialogue: 0,0:00:25.90,0:00:25.92,Default,,0,0,0,,leva per raggiungere il tuo obiettivo.
+Dialogue: 0,0:00:25.92,0:00:26.10,Default,,0,0,0,,leva per raggiungere il tuo {\1c&HFF00&\u1}obiettivo.{\r}
+Dialogue: 0,0:00:27.54,0:00:27.76,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi{\r} in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:27.76,0:00:27.78,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:27.78,0:00:27.84,Default,,0,0,0,,Quindi {\1c&HFF00&\u1}in{\r} questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:27.84,0:00:27.88,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:27.88,0:00:28.06,Default,,0,0,0,,Quindi in {\1c&HFF00&\u1}questo{\r} senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.06,0:00:28.14,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.14,0:00:28.48,Default,,0,0,0,,Quindi in questo {\1c&HFF00&\u1}senso{\r} io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.48,0:00:28.68,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.68,0:00:28.80,Default,,0,0,0,,Quindi in questo senso {\1c&HFF00&\u1}io{\r} non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.80,0:00:28.84,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.84,0:00:28.94,Default,,0,0,0,,Quindi in questo senso io {\1c&HFF00&\u1}non{\r} ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.94,0:00:28.98,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:28.98,0:00:29.04,Default,,0,0,0,,Quindi in questo senso io non {\1c&HFF00&\u1}ti{\r} posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:29.04,0:00:29.10,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:29.10,0:00:29.36,Default,,0,0,0,,Quindi in questo senso io non ti {\1c&HFF00&\u1}posso{\r} aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:29.36,0:00:29.38,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:29.38,0:00:30.03,Default,,0,0,0,,Quindi in questo senso io non ti posso {\1c&HFF00&\u1}aiutare,{\r} ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:30.03,0:00:30.41,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:30.41,0:00:30.63,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, {\1c&HFF00&\u1}ma{\r} posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:30.63,0:00:31.15,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:31.15,0:00:31.41,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma {\1c&HFF00&\u1}posso{\r} aiutarti a capire come fare, posso
+Dialogue: 0,0:00:31.41,0:00:31.45,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:31.45,0:00:31.91,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso {\1c&HFF00&\u1}aiutarti{\r} a capire come fare, posso
+Dialogue: 0,0:00:31.91,0:00:31.95,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:31.95,0:00:31.99,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti {\1c&HFF00&\u1}a{\r} capire come fare, posso
+Dialogue: 0,0:00:31.99,0:00:32.03,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:32.03,0:00:32.29,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a {\1c&HFF00&\u1}capire{\r} come fare, posso
+Dialogue: 0,0:00:32.29,0:00:32.35,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:32.35,0:00:32.49,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire {\1c&HFF00&\u1}come{\r} fare, posso
+Dialogue: 0,0:00:32.49,0:00:32.57,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:32.57,0:00:32.91,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come {\1c&HFF00&\u1}fare,{\r} posso
+Dialogue: 0,0:00:32.91,0:00:33.13,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, posso
+Dialogue: 0,0:00:33.13,0:00:33.39,Default,,0,0,0,,Quindi in questo senso io non ti posso aiutare, ma posso aiutarti a capire come fare, {\1c&HFF00&\u1}posso{\r}
+Dialogue: 0,0:00:33.40,0:00:33.56,Default,,0,0,0,,{\1c&HFF00&\u1}aiutarti{\r} e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.56,0:00:33.58,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.58,0:00:33.60,Default,,0,0,0,,aiutarti {\1c&HFF00&\u1}e{\r} darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.60,0:00:33.62,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.62,0:00:33.72,Default,,0,0,0,,aiutarti e {\1c&HFF00&\u1}darti{\r} gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.72,0:00:33.74,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.74,0:00:33.80,Default,,0,0,0,,aiutarti e darti {\1c&HFF00&\u1}gli{\r} strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.80,0:00:33.82,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:33.82,0:00:34.00,Default,,0,0,0,,aiutarti e darti gli {\1c&HFF00&\u1}strumenti{\r} necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.00,0:00:34.02,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.02,0:00:34.20,Default,,0,0,0,,aiutarti e darti gli strumenti {\1c&HFF00&\u1}necessari{\r} per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.20,0:00:34.22,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.22,0:00:34.28,Default,,0,0,0,,aiutarti e darti gli strumenti necessari {\1c&HFF00&\u1}per{\r} trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.28,0:00:34.30,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.30,0:00:34.44,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per {\1c&HFF00&\u1}trovare{\r} ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.44,0:00:34.46,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.46,0:00:34.52,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare {\1c&HFF00&\u1}ciò{\r} che ti motiva all'azione.
+Dialogue: 0,0:00:34.52,0:00:34.54,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.54,0:00:34.60,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò {\1c&HFF00&\u1}che{\r} ti motiva all'azione.
+Dialogue: 0,0:00:34.60,0:00:34.62,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.62,0:00:34.66,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che {\1c&HFF00&\u1}ti{\r} motiva all'azione.
+Dialogue: 0,0:00:34.66,0:00:34.68,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.68,0:00:34.80,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti {\1c&HFF00&\u1}motiva{\r} all'azione.
+Dialogue: 0,0:00:34.80,0:00:34.82,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva all'azione.
+Dialogue: 0,0:00:34.82,0:00:35.00,Default,,0,0,0,,aiutarti e darti gli strumenti necessari per trovare ciò che ti motiva {\1c&HFF00&\u1}all'azione.{\r}
+Dialogue: 0,0:00:38.78,0:00:39.02,Default,,0,0,0,,{\1c&HFF00&\u1}Tieni{\r} benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.02,0:00:39.06,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.06,0:00:39.62,Default,,0,0,0,,Tieni {\1c&HFF00&\u1}benamente{\r} che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.62,0:00:39.70,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.70,0:00:39.78,Default,,0,0,0,,Tieni benamente {\1c&HFF00&\u1}che{\r} i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.78,0:00:39.82,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.82,0:00:39.86,Default,,0,0,0,,Tieni benamente che {\1c&HFF00&\u1}i{\r} motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.86,0:00:39.90,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:39.90,0:00:40.41,Default,,0,0,0,,Tieni benamente che i {\1c&HFF00&\u1}motivatori{\r} non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:40.41,0:00:40.47,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:40.47,0:00:40.57,Default,,0,0,0,,Tieni benamente che i motivatori {\1c&HFF00&\u1}non{\r} esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:40.57,0:00:40.61,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:40.61,0:00:41.09,Default,,0,0,0,,Tieni benamente che i motivatori non {\1c&HFF00&\u1}esistono,{\r} o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.09,0:00:41.19,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.19,0:00:41.23,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, {\1c&HFF00&\u1}o{\r} meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.23,0:00:41.25,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.25,0:00:41.55,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o {\1c&HFF00&\u1}meglio,{\r} i motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.55,0:00:41.71,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.71,0:00:41.75,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, {\1c&HFF00&\u1}i{\r} motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.75,0:00:41.79,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:41.79,0:00:42.31,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i {\1c&HFF00&\u1}motivatori{\r} sono quelli che fanno
+Dialogue: 0,0:00:42.31,0:00:42.41,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:42.41,0:00:42.57,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori {\1c&HFF00&\u1}sono{\r} quelli che fanno
+Dialogue: 0,0:00:42.57,0:00:42.69,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:42.69,0:00:42.99,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono {\1c&HFF00&\u1}quelli{\r} che fanno
+Dialogue: 0,0:00:42.99,0:00:43.05,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:43.05,0:00:43.13,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli {\1c&HFF00&\u1}che{\r} fanno
+Dialogue: 0,0:00:43.13,0:00:43.19,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che fanno
+Dialogue: 0,0:00:43.19,0:00:43.35,Default,,0,0,0,,Tieni benamente che i motivatori non esistono, o meglio, i motivatori sono quelli che {\1c&HFF00&\u1}fanno{\r}
+Dialogue: 0,0:00:43.34,0:00:43.68,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:43.68,0:00:43.70,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:43.70,0:00:43.90,Default,,0,0,0,,il {\1c&HFF00&\u1}tifo{\r} per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:43.90,0:00:44.00,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:44.00,0:00:44.06,Default,,0,0,0,,il tifo {\1c&HFF00&\u1}per{\r} te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:44.06,0:00:44.60,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:44.60,0:00:44.68,Default,,0,0,0,,il tifo per {\1c&HFF00&\u1}te,{\r} ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:44.68,0:00:44.70,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:44.70,0:00:44.78,Default,,0,0,0,,il tifo per te, {\1c&HFF00&\u1}ma{\r} non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:44.78,0:00:44.84,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:44.84,0:00:45.00,Default,,0,0,0,,il tifo per te, ma {\1c&HFF00&\u1}non{\r} sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:45.00,0:00:45.12,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:45.12,0:00:45.35,Default,,0,0,0,,il tifo per te, ma non {\1c&HFF00&\u1}sono{\r} quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:45.35,0:00:45.45,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:45.45,0:00:45.81,Default,,0,0,0,,il tifo per te, ma non sono {\1c&HFF00&\u1}quelli{\r} che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:45.81,0:00:45.91,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:45.91,0:00:46.01,Default,,0,0,0,,il tifo per te, ma non sono quelli {\1c&HFF00&\u1}che{\r} fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.01,0:00:46.09,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.09,0:00:46.31,Default,,0,0,0,,il tifo per te, ma non sono quelli che {\1c&HFF00&\u1}fanno{\r} il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.31,0:00:46.35,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.35,0:00:46.41,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno {\1c&HFF00&\u1}il{\r} lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.41,0:00:46.45,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.45,0:00:46.85,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il {\1c&HFF00&\u1}lavoro{\r} per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.85,0:00:46.99,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:46.99,0:00:47.13,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro {\1c&HFF00&\u1}per{\r} te, che fanno il lavoro al posto
+Dialogue: 0,0:00:47.13,0:00:47.23,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:47.23,0:00:47.43,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per {\1c&HFF00&\u1}te,{\r} che fanno il lavoro al posto
+Dialogue: 0,0:00:47.43,0:00:47.59,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:47.59,0:00:47.67,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, {\1c&HFF00&\u1}che{\r} fanno il lavoro al posto
+Dialogue: 0,0:00:47.67,0:00:47.73,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:47.73,0:00:47.87,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che {\1c&HFF00&\u1}fanno{\r} il lavoro al posto
+Dialogue: 0,0:00:47.87,0:00:47.89,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:47.89,0:00:47.93,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno {\1c&HFF00&\u1}il{\r} lavoro al posto
+Dialogue: 0,0:00:47.93,0:00:47.95,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:47.95,0:00:48.29,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il {\1c&HFF00&\u1}lavoro{\r} al posto
+Dialogue: 0,0:00:48.29,0:00:48.43,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:48.43,0:00:48.53,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro {\1c&HFF00&\u1}al{\r} posto
+Dialogue: 0,0:00:48.53,0:00:48.59,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al posto
+Dialogue: 0,0:00:48.59,0:00:48.87,Default,,0,0,0,,il tifo per te, ma non sono quelli che fanno il lavoro per te, che fanno il lavoro al {\1c&HFF00&\u1}posto{\r}
+Dialogue: 0,0:00:48.88,0:00:48.94,Default,,0,0,0,,{\1c&HFF00&\u1}tuo.{\r}
+Dialogue: 0,0:00:50.28,0:00:50.32,Default,,0,0,0,,{\1c&HFF00&\u1}Ti{\r} voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.32,0:00:50.34,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.34,0:00:50.46,Default,,0,0,0,,Ti {\1c&HFF00&\u1}voglio{\r} fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.46,0:00:50.48,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.48,0:00:50.56,Default,,0,0,0,,Ti voglio {\1c&HFF00&\u1}fare{\r} uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.56,0:00:50.58,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.58,0:00:50.64,Default,,0,0,0,,Ti voglio fare {\1c&HFF00&\u1}uno{\r} degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.64,0:00:50.66,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.66,0:00:50.76,Default,,0,0,0,,Ti voglio fare uno {\1c&HFF00&\u1}degli{\r} esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.76,0:00:50.78,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.78,0:00:50.90,Default,,0,0,0,,Ti voglio fare uno degli {\1c&HFF00&\u1}esempi{\r} per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.90,0:00:50.92,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:50.92,0:00:51.00,Default,,0,0,0,,Ti voglio fare uno degli esempi {\1c&HFF00&\u1}per{\r} aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.00,0:00:51.02,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.02,0:00:51.29,Default,,0,0,0,,Ti voglio fare uno degli esempi per {\1c&HFF00&\u1}aiutarti{\r} a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.29,0:00:51.31,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.31,0:00:51.33,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti {\1c&HFF00&\u1}a{\r} capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.33,0:00:51.35,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.35,0:00:51.69,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a {\1c&HFF00&\u1}capire,{\r} dato che funzionano sempre molto
+Dialogue: 0,0:00:51.69,0:00:51.73,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.73,0:00:51.87,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, {\1c&HFF00&\u1}dato{\r} che funzionano sempre molto
+Dialogue: 0,0:00:51.87,0:00:51.89,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:51.89,0:00:51.97,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato {\1c&HFF00&\u1}che{\r} funzionano sempre molto
+Dialogue: 0,0:00:51.97,0:00:52.05,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:52.05,0:00:52.49,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che {\1c&HFF00&\u1}funzionano{\r} sempre molto
+Dialogue: 0,0:00:52.49,0:00:52.57,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:52.57,0:00:52.89,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano {\1c&HFF00&\u1}sempre{\r} molto
+Dialogue: 0,0:00:52.89,0:00:53.05,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre molto
+Dialogue: 0,0:00:53.05,0:00:53.29,Default,,0,0,0,,Ti voglio fare uno degli esempi per aiutarti a capire, dato che funzionano sempre {\1c&HFF00&\u1}molto{\r}
+Dialogue: 0,0:00:53.56,0:00:53.70,Default,,0,0,0,,{\1c&HFF00&\u1}bene.{\r}
+Dialogue: 0,0:00:54.30,0:00:54.74,Default,,0,0,0,,{\1c&HFF00&\u1}Giacomino{\r} fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:54.74,0:00:54.76,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:54.76,0:00:54.80,Default,,0,0,0,,Giacomino {\1c&HFF00&\u1}fa{\r} un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:54.80,0:00:54.82,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:54.82,0:00:54.86,Default,,0,0,0,,Giacomino fa {\1c&HFF00&\u1}un{\r} lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:54.86,0:00:54.90,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:54.90,0:00:55.18,Default,,0,0,0,,Giacomino fa un {\1c&HFF00&\u1}lavoro{\r} che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:55.18,0:00:55.20,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:55.20,0:00:55.30,Default,,0,0,0,,Giacomino fa un lavoro {\1c&HFF00&\u1}che{\r} lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:55.30,0:00:55.32,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:55.32,0:00:55.42,Default,,0,0,0,,Giacomino fa un lavoro che {\1c&HFF00&\u1}lo{\r} opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:55.42,0:00:55.44,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:55.44,0:00:55.85,Default,,0,0,0,,Giacomino fa un lavoro che lo {\1c&HFF00&\u1}opprime.{\r} Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:55.85,0:00:56.05,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.05,0:00:56.23,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. {\1c&HFF00&\u1}Tutti{\r} i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.23,0:00:56.25,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.25,0:00:56.27,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti {\1c&HFF00&\u1}i{\r} giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.27,0:00:56.33,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.33,0:00:56.61,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i {\1c&HFF00&\u1}giorni{\r} al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.61,0:00:56.67,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.67,0:00:56.73,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni {\1c&HFF00&\u1}al{\r} lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.73,0:00:56.75,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:56.75,0:00:57.11,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al {\1c&HFF00&\u1}lavoro{\r} viene trattato male, viene
+Dialogue: 0,0:00:57.11,0:00:57.17,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:57.17,0:00:57.33,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro {\1c&HFF00&\u1}viene{\r} trattato male, viene
+Dialogue: 0,0:00:57.33,0:00:57.39,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:57.39,0:00:57.67,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene {\1c&HFF00&\u1}trattato{\r} male, viene
+Dialogue: 0,0:00:57.67,0:00:57.71,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:57.71,0:00:58.03,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato {\1c&HFF00&\u1}male,{\r} viene
+Dialogue: 0,0:00:58.03,0:00:58.35,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, viene
+Dialogue: 0,0:00:58.35,0:00:58.49,Default,,0,0,0,,Giacomino fa un lavoro che lo opprime. Tutti i giorni al lavoro viene trattato male, {\1c&HFF00&\u1}viene{\r}
+Dialogue: 0,0:00:58.48,0:00:58.60,Default,,0,0,0,,{\1c&HFF00&\u1}pagato{\r} poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:00:58.60,0:00:58.62,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:00:58.62,0:00:58.70,Default,,0,0,0,,pagato {\1c&HFF00&\u1}poco,{\r} ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:00:58.70,0:00:59.74,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:00:59.74,0:00:59.82,Default,,0,0,0,,pagato poco, {\1c&HFF00&\u1}ci{\r} va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:00:59.82,0:00:59.90,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:00:59.90,0:01:0.02,Default,,0,0,0,,pagato poco, ci {\1c&HFF00&\u1}va{\r} senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:0.02,0:01:0.38,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:0.38,0:01:0.71,Default,,0,0,0,,pagato poco, ci va {\1c&HFF00&\u1}senza{\r} voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:0.71,0:01:0.79,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:0.79,0:01:1.17,Default,,0,0,0,,pagato poco, ci va senza {\1c&HFF00&\u1}voglia,{\r} ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:1.17,0:01:1.33,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:1.33,0:01:1.41,Default,,0,0,0,,pagato poco, ci va senza voglia, {\1c&HFF00&\u1}ma{\r} a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:1.41,0:01:1.43,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:1.43,0:01:1.45,Default,,0,0,0,,pagato poco, ci va senza voglia, ma {\1c&HFF00&\u1}a{\r} casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:1.45,0:01:1.53,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:1.53,0:01:1.93,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a {\1c&HFF00&\u1}casa{\r} ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:1.93,0:01:2.19,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.19,0:01:2.27,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa {\1c&HFF00&\u1}ha{\r} una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.27,0:01:2.31,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.31,0:01:2.41,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha {\1c&HFF00&\u1}una{\r} famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.41,0:01:2.45,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.45,0:01:2.69,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una {\1c&HFF00&\u1}famiglia{\r} che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.69,0:01:2.73,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.73,0:01:2.81,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia {\1c&HFF00&\u1}che{\r} lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.81,0:01:2.85,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.85,0:01:2.89,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che {\1c&HFF00&\u1}lo{\r} aspetta, ha dei figli
+Dialogue: 0,0:01:2.89,0:01:2.91,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:2.91,0:01:3.37,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo {\1c&HFF00&\u1}aspetta,{\r} ha dei figli
+Dialogue: 0,0:01:3.37,0:01:3.87,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:3.87,0:01:3.93,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, {\1c&HFF00&\u1}ha{\r} dei figli
+Dialogue: 0,0:01:3.93,0:01:3.97,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:3.97,0:01:4.11,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha {\1c&HFF00&\u1}dei{\r} figli
+Dialogue: 0,0:01:4.11,0:01:4.23,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei figli
+Dialogue: 0,0:01:4.23,0:01:4.51,Default,,0,0,0,,pagato poco, ci va senza voglia, ma a casa ha una famiglia che lo aspetta, ha dei {\1c&HFF00&\u1}figli{\r}
+Dialogue: 0,0:01:4.62,0:01:4.98,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:4.98,0:01:5.06,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:5.06,0:01:5.42,Default,,0,0,0,,che {\1c&HFF00&\u1}mangiano{\r} solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:5.42,0:01:5.48,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:5.48,0:01:5.72,Default,,0,0,0,,che mangiano {\1c&HFF00&\u1}solo{\r} grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:5.72,0:01:5.78,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:5.78,0:01:6.12,Default,,0,0,0,,che mangiano solo {\1c&HFF00&\u1}grazie{\r} alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.12,0:01:6.29,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.29,0:01:6.43,Default,,0,0,0,,che mangiano solo grazie {\1c&HFF00&\u1}alla{\r} pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.43,0:01:6.49,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.49,0:01:6.79,Default,,0,0,0,,che mangiano solo grazie alla {\1c&HFF00&\u1}pagnotta{\r} che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.79,0:01:6.83,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.83,0:01:6.91,Default,,0,0,0,,che mangiano solo grazie alla pagnotta {\1c&HFF00&\u1}che{\r} lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.91,0:01:6.93,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:6.93,0:01:7.01,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che {\1c&HFF00&\u1}lui{\r} porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:7.01,0:01:7.05,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:7.05,0:01:7.25,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui {\1c&HFF00&\u1}porta{\r} a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:7.25,0:01:7.27,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:7.27,0:01:7.31,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta {\1c&HFF00&\u1}a{\r} casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:7.31,0:01:7.35,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:7.35,0:01:7.69,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a {\1c&HFF00&\u1}casa.{\r} Quindi Giacomino ha due
+Dialogue: 0,0:01:7.69,0:01:7.85,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:7.85,0:01:8.17,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. {\1c&HFF00&\u1}Quindi{\r} Giacomino ha due
+Dialogue: 0,0:01:8.17,0:01:8.21,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:8.21,0:01:8.73,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi {\1c&HFF00&\u1}Giacomino{\r} ha due
+Dialogue: 0,0:01:8.73,0:01:8.91,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:8.91,0:01:8.99,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino {\1c&HFF00&\u1}ha{\r} due
+Dialogue: 0,0:01:8.99,0:01:9.05,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha due
+Dialogue: 0,0:01:9.05,0:01:9.11,Default,,0,0,0,,che mangiano solo grazie alla pagnotta che lui porta a casa. Quindi Giacomino ha {\1c&HFF00&\u1}due{\r}
+Dialogue: 0,0:01:9.08,0:01:10.00,Default,,0,0,0,,{\1c&HFF00&\u1}possibilità,{\r} o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.00,0:01:10.06,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.06,0:01:10.10,Default,,0,0,0,,possibilità, {\1c&HFF00&\u1}o{\r} trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.10,0:01:10.16,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.16,0:01:10.38,Default,,0,0,0,,possibilità, o {\1c&HFF00&\u1}trova{\r} l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.38,0:01:10.44,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.44,0:01:10.64,Default,,0,0,0,,possibilità, o trova {\1c&HFF00&\u1}l'idea{\r} del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.64,0:01:10.68,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.68,0:01:10.80,Default,,0,0,0,,possibilità, o trova l'idea {\1c&HFF00&\u1}del{\r} secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.80,0:01:10.86,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:10.86,0:01:11.31,Default,,0,0,0,,possibilità, o trova l'idea del {\1c&HFF00&\u1}secolo{\r} per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:11.31,0:01:11.37,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:11.37,0:01:11.45,Default,,0,0,0,,possibilità, o trova l'idea del secolo {\1c&HFF00&\u1}per{\r} sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:11.45,0:01:11.51,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:11.51,0:01:11.93,Default,,0,0,0,,possibilità, o trova l'idea del secolo per {\1c&HFF00&\u1}sbancare{\r} il lunario, oppure continua a fare
+Dialogue: 0,0:01:11.93,0:01:11.95,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:11.95,0:01:11.99,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare {\1c&HFF00&\u1}il{\r} lunario, oppure continua a fare
+Dialogue: 0,0:01:11.99,0:01:12.03,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:12.03,0:01:12.49,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il {\1c&HFF00&\u1}lunario,{\r} oppure continua a fare
+Dialogue: 0,0:01:12.49,0:01:12.93,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:12.93,0:01:13.45,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, {\1c&HFF00&\u1}oppure{\r} continua a fare
+Dialogue: 0,0:01:13.45,0:01:13.59,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:13.59,0:01:14.11,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure {\1c&HFF00&\u1}continua{\r} a fare
+Dialogue: 0,0:01:14.11,0:01:14.23,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:14.23,0:01:14.27,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua {\1c&HFF00&\u1}a{\r} fare
+Dialogue: 0,0:01:14.27,0:01:14.33,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a fare
+Dialogue: 0,0:01:14.33,0:01:14.49,Default,,0,0,0,,possibilità, o trova l'idea del secolo per sbancare il lunario, oppure continua a {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:01:14.48,0:01:14.88,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:14.88,0:01:14.90,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:14.90,0:01:15.02,Default,,0,0,0,,il {\1c&HFF00&\u1}lavoro{\r} che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:15.02,0:01:15.04,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:15.04,0:01:15.10,Default,,0,0,0,,il lavoro {\1c&HFF00&\u1}che{\r} sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:15.10,0:01:15.12,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:15.12,0:01:15.20,Default,,0,0,0,,il lavoro che {\1c&HFF00&\u1}sta{\r} facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:15.20,0:01:15.24,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:15.24,0:01:15.66,Default,,0,0,0,,il lavoro che sta {\1c&HFF00&\u1}facendo,{\r} ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:15.66,0:01:16.00,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:16.00,0:01:16.08,Default,,0,0,0,,il lavoro che sta facendo, {\1c&HFF00&\u1}ma{\r} ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:16.08,0:01:16.12,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:16.12,0:01:16.21,Default,,0,0,0,,il lavoro che sta facendo, ma {\1c&HFF00&\u1}ti{\r} garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:16.21,0:01:16.25,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:16.25,0:01:16.85,Default,,0,0,0,,il lavoro che sta facendo, ma ti {\1c&HFF00&\u1}garantisco{\r} che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:16.85,0:01:17.17,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:17.17,0:01:17.25,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco {\1c&HFF00&\u1}che{\r} in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:17.25,0:01:17.31,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:17.31,0:01:17.39,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che {\1c&HFF00&\u1}in{\r} ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:17.39,0:01:17.45,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:17.45,0:01:17.61,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in {\1c&HFF00&\u1}ogni{\r} caso lo fa volentieri alla fine
+Dialogue: 0,0:01:17.61,0:01:17.69,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:17.69,0:01:17.97,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni {\1c&HFF00&\u1}caso{\r} lo fa volentieri alla fine
+Dialogue: 0,0:01:17.97,0:01:18.03,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:18.03,0:01:18.09,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso {\1c&HFF00&\u1}lo{\r} fa volentieri alla fine
+Dialogue: 0,0:01:18.09,0:01:18.13,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:18.13,0:01:18.21,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo {\1c&HFF00&\u1}fa{\r} volentieri alla fine
+Dialogue: 0,0:01:18.21,0:01:18.25,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:18.25,0:01:18.79,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa {\1c&HFF00&\u1}volentieri{\r} alla fine
+Dialogue: 0,0:01:18.79,0:01:18.81,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:18.81,0:01:18.93,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri {\1c&HFF00&\u1}alla{\r} fine
+Dialogue: 0,0:01:18.93,0:01:18.97,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla fine
+Dialogue: 0,0:01:18.97,0:01:19.09,Default,,0,0,0,,il lavoro che sta facendo, ma ti garantisco che in ogni caso lo fa volentieri alla {\1c&HFF00&\u1}fine{\r}
+Dialogue: 0,0:01:19.08,0:01:19.88,Default,,0,0,0,,{\1c&HFF00&\u1}dei{\r} conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:19.88,0:01:19.90,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:19.90,0:01:20.12,Default,,0,0,0,,dei {\1c&HFF00&\u1}conti.{\r} E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.12,0:01:20.14,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.14,0:01:20.16,Default,,0,0,0,,dei conti. {\1c&HFF00&\u1}E{\r} sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.16,0:01:20.26,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.26,0:01:20.36,Default,,0,0,0,,dei conti. E {\1c&HFF00&\u1}sai{\r} perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.36,0:01:20.38,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.38,0:01:20.66,Default,,0,0,0,,dei conti. E sai {\1c&HFF00&\u1}perché?{\r} Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.66,0:01:20.80,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:20.80,0:01:21.07,Default,,0,0,0,,dei conti. E sai perché? {\1c&HFF00&\u1}Perché{\r} a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.07,0:01:21.09,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.09,0:01:21.11,Default,,0,0,0,,dei conti. E sai perché? Perché {\1c&HFF00&\u1}a{\r} casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.11,0:01:21.19,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.19,0:01:21.57,Default,,0,0,0,,dei conti. E sai perché? Perché a {\1c&HFF00&\u1}casa{\r} ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.57,0:01:21.79,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.79,0:01:21.87,Default,,0,0,0,,dei conti. E sai perché? Perché a casa {\1c&HFF00&\u1}ha{\r} ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.87,0:01:21.97,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:21.97,0:01:22.09,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha {\1c&HFF00&\u1}ciò{\r} che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:22.09,0:01:22.13,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:22.13,0:01:22.23,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò {\1c&HFF00&\u1}che{\r} lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:22.23,0:01:22.27,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:22.27,0:01:22.33,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che {\1c&HFF00&\u1}lo{\r} motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:22.33,0:01:22.37,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:22.37,0:01:22.63,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo {\1c&HFF00&\u1}motiva{\r} all'azione, i suoi figli.
+Dialogue: 0,0:01:22.63,0:01:22.65,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:22.65,0:01:23.27,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva {\1c&HFF00&\u1}all'azione,{\r} i suoi figli.
+Dialogue: 0,0:01:23.27,0:01:23.41,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:23.41,0:01:23.47,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, {\1c&HFF00&\u1}i{\r} suoi figli.
+Dialogue: 0,0:01:23.47,0:01:23.51,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:23.51,0:01:23.65,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i {\1c&HFF00&\u1}suoi{\r} figli.
+Dialogue: 0,0:01:23.65,0:01:23.73,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi figli.
+Dialogue: 0,0:01:23.73,0:01:24.01,Default,,0,0,0,,dei conti. E sai perché? Perché a casa ha ciò che lo motiva all'azione, i suoi {\1c&HFF00&\u1}figli.{\r}
+Dialogue: 0,0:01:24.38,0:01:24.68,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi{\r} ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:24.68,0:01:24.92,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:24.92,0:01:25.16,Default,,0,0,0,,Quindi {\1c&HFF00&\u1}ogni{\r} giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:25.16,0:01:25.24,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:25.24,0:01:25.64,Default,,0,0,0,,Quindi ogni {\1c&HFF00&\u1}giorno,{\r} nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:25.64,0:01:25.76,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:25.76,0:01:26.33,Default,,0,0,0,,Quindi ogni giorno, {\1c&HFF00&\u1}nonostante{\r} tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:26.33,0:01:26.43,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:26.43,0:01:26.77,Default,,0,0,0,,Quindi ogni giorno, nonostante {\1c&HFF00&\u1}tutto,{\r} continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:26.77,0:01:26.89,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:26.89,0:01:27.25,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, {\1c&HFF00&\u1}continua{\r} a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.25,0:01:27.27,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.27,0:01:27.31,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua {\1c&HFF00&\u1}a{\r} fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.31,0:01:27.37,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.37,0:01:27.57,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a {\1c&HFF00&\u1}fare{\r} quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.57,0:01:27.63,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.63,0:01:27.87,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare {\1c&HFF00&\u1}quella{\r} vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.87,0:01:27.93,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:27.93,0:01:28.25,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella {\1c&HFF00&\u1}vita{\r} e sarebbe disposto a fare
+Dialogue: 0,0:01:28.25,0:01:28.57,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:28.57,0:01:28.61,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita {\1c&HFF00&\u1}e{\r} sarebbe disposto a fare
+Dialogue: 0,0:01:28.61,0:01:28.69,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:28.69,0:01:29.01,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e {\1c&HFF00&\u1}sarebbe{\r} disposto a fare
+Dialogue: 0,0:01:29.01,0:01:29.05,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:29.05,0:01:29.47,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe {\1c&HFF00&\u1}disposto{\r} a fare
+Dialogue: 0,0:01:29.47,0:01:29.49,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:29.49,0:01:29.51,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto {\1c&HFF00&\u1}a{\r} fare
+Dialogue: 0,0:01:29.51,0:01:29.59,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a fare
+Dialogue: 0,0:01:29.59,0:01:29.85,Default,,0,0,0,,Quindi ogni giorno, nonostante tutto, continua a fare quella vita e sarebbe disposto a {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:01:29.98,0:01:30.48,Default,,0,0,0,,{\1c&HFF00&\u1}molto{\r} di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:30.48,0:01:30.58,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:30.58,0:01:30.62,Default,,0,0,0,,molto {\1c&HFF00&\u1}di{\r} più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:30.62,0:01:30.66,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:30.66,0:01:31.00,Default,,0,0,0,,molto di {\1c&HFF00&\u1}più.{\r} Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:31.00,0:01:31.02,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:31.02,0:01:31.32,Default,,0,0,0,,molto di più. {\1c&HFF00&\u1}Perché{\r} questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:31.32,0:01:31.36,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:31.36,0:01:31.70,Default,,0,0,0,,molto di più. Perché {\1c&HFF00&\u1}questo?{\r} Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:31.70,0:01:32.05,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:32.05,0:01:32.31,Default,,0,0,0,,molto di più. Perché questo? {\1c&HFF00&\u1}Perché{\r} a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:32.31,0:01:32.35,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:32.35,0:01:32.37,Default,,0,0,0,,molto di più. Perché questo? Perché {\1c&HFF00&\u1}a{\r} casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:32.37,0:01:32.47,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:32.47,0:01:32.83,Default,,0,0,0,,molto di più. Perché questo? Perché a {\1c&HFF00&\u1}casa{\r} ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:32.83,0:01:32.85,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:32.85,0:01:33.01,Default,,0,0,0,,molto di più. Perché questo? Perché a casa {\1c&HFF00&\u1}ha{\r} i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:33.01,0:01:33.05,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:33.05,0:01:33.09,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha {\1c&HFF00&\u1}i{\r} suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:33.09,0:01:33.15,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:33.15,0:01:33.29,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i {\1c&HFF00&\u1}suoi{\r} figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:33.29,0:01:33.41,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:33.41,0:01:33.75,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi {\1c&HFF00&\u1}figli,{\r} ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:33.75,0:01:34.09,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:34.09,0:01:34.23,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, {\1c&HFF00&\u1}ha{\r} ciò che lo motiva all'azione
+Dialogue: 0,0:01:34.23,0:01:34.43,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:34.43,0:01:34.61,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha {\1c&HFF00&\u1}ciò{\r} che lo motiva all'azione
+Dialogue: 0,0:01:34.61,0:01:34.79,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:34.79,0:01:34.89,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò {\1c&HFF00&\u1}che{\r} lo motiva all'azione
+Dialogue: 0,0:01:34.89,0:01:34.93,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:34.93,0:01:34.99,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che {\1c&HFF00&\u1}lo{\r} motiva all'azione
+Dialogue: 0,0:01:34.99,0:01:35.05,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:35.05,0:01:35.37,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo {\1c&HFF00&\u1}motiva{\r} all'azione
+Dialogue: 0,0:01:35.37,0:01:35.41,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva all'azione
+Dialogue: 0,0:01:35.41,0:01:35.99,Default,,0,0,0,,molto di più. Perché questo? Perché a casa ha i suoi figli, ha ciò che lo motiva {\1c&HFF00&\u1}all'azione{\r}
+Dialogue: 0,0:01:36.10,0:01:36.44,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:36.44,0:01:36.46,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:36.46,0:01:36.78,Default,,0,0,0,,e {\1c&HFF00&\u1}questo{\r} motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:36.78,0:01:36.80,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:36.80,0:01:37.06,Default,,0,0,0,,e questo {\1c&HFF00&\u1}motiva{\r} all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:37.06,0:01:37.08,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:37.08,0:01:37.74,Default,,0,0,0,,e questo motiva {\1c&HFF00&\u1}all'azione{\r} è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:37.74,0:01:37.78,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:37.78,0:01:37.82,Default,,0,0,0,,e questo motiva all'azione {\1c&HFF00&\u1}è{\r} fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:37.82,0:01:38.09,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:38.09,0:01:38.79,Default,,0,0,0,,e questo motiva all'azione è {\1c&HFF00&\u1}fortissimo.{\r} Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:38.79,0:01:39.03,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:39.03,0:01:39.07,Default,,0,0,0,,e questo motiva all'azione è fortissimo. {\1c&HFF00&\u1}Un{\r} altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:39.07,0:01:39.11,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:39.11,0:01:39.27,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un {\1c&HFF00&\u1}altro{\r} esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:39.27,0:01:39.31,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:39.31,0:01:39.71,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro {\1c&HFF00&\u1}esempio.{\r} Io fino a qualche anno fa
+Dialogue: 0,0:01:39.71,0:01:40.01,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:40.01,0:01:40.07,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. {\1c&HFF00&\u1}Io{\r} fino a qualche anno fa
+Dialogue: 0,0:01:40.07,0:01:40.31,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:40.31,0:01:40.49,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io {\1c&HFF00&\u1}fino{\r} a qualche anno fa
+Dialogue: 0,0:01:40.49,0:01:40.51,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:40.51,0:01:40.53,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino {\1c&HFF00&\u1}a{\r} qualche anno fa
+Dialogue: 0,0:01:40.53,0:01:40.59,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:40.59,0:01:40.83,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a {\1c&HFF00&\u1}qualche{\r} anno fa
+Dialogue: 0,0:01:40.83,0:01:40.87,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:40.87,0:01:41.01,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche {\1c&HFF00&\u1}anno{\r} fa
+Dialogue: 0,0:01:41.01,0:01:41.07,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno fa
+Dialogue: 0,0:01:41.07,0:01:41.13,Default,,0,0,0,,e questo motiva all'azione è fortissimo. Un altro esempio. Io fino a qualche anno {\1c&HFF00&\u1}fa{\r}
+Dialogue: 0,0:01:42.08,0:01:42.14,Default,,0,0,0,,{\1c&HFF00&\u1}ero{\r} posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:42.14,0:01:42.18,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:42.18,0:01:42.84,Default,,0,0,0,,ero {\1c&HFF00&\u1}posseduto,{\r} ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:42.84,0:01:42.94,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:42.94,0:01:43.00,Default,,0,0,0,,ero posseduto, {\1c&HFF00&\u1}ti{\r} dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.00,0:01:43.02,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.02,0:01:43.16,Default,,0,0,0,,ero posseduto, ti {\1c&HFF00&\u1}dico{\r} la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.16,0:01:43.20,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.20,0:01:43.26,Default,,0,0,0,,ero posseduto, ti dico {\1c&HFF00&\u1}la{\r} realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.26,0:01:43.28,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.28,0:01:43.59,Default,,0,0,0,,ero posseduto, ti dico la {\1c&HFF00&\u1}realtà,{\r} posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.59,0:01:43.91,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:43.91,0:01:44.67,Default,,0,0,0,,ero posseduto, ti dico la realtà, {\1c&HFF00&\u1}posseduto{\r} da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:44.67,0:01:44.73,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:44.73,0:01:44.79,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto {\1c&HFF00&\u1}da{\r} una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:44.79,0:01:44.83,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:44.83,0:01:44.91,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da {\1c&HFF00&\u1}una{\r} psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:44.91,0:01:44.95,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:44.95,0:01:45.53,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una {\1c&HFF00&\u1}psoriasi{\r} incredibile. Tutto l'anno,
+Dialogue: 0,0:01:45.53,0:01:45.75,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:45.75,0:01:46.31,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi {\1c&HFF00&\u1}incredibile.{\r} Tutto l'anno,
+Dialogue: 0,0:01:46.31,0:01:46.45,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:46.45,0:01:46.67,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. {\1c&HFF00&\u1}Tutto{\r} l'anno,
+Dialogue: 0,0:01:46.67,0:01:46.71,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto l'anno,
+Dialogue: 0,0:01:46.71,0:01:47.05,Default,,0,0,0,,ero posseduto, ti dico la realtà, posseduto da una psoriasi incredibile. Tutto {\1c&HFF00&\u1}l'anno,{\r}
+Dialogue: 0,0:01:47.72,0:01:48.20,Default,,0,0,0,,{\1c&HFF00&\u1}giorni,{\r} creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:48.20,0:01:48.44,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:48.44,0:01:48.70,Default,,0,0,0,,giorni, {\1c&HFF00&\u1}creme{\r} su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:48.70,0:01:48.76,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:48.76,0:01:48.82,Default,,0,0,0,,giorni, creme {\1c&HFF00&\u1}su{\r} creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:48.82,0:01:48.88,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:48.88,0:01:49.24,Default,,0,0,0,,giorni, creme su {\1c&HFF00&\u1}creme,{\r} soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:49.24,0:01:49.51,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:49.51,0:01:49.79,Default,,0,0,0,,giorni, creme su creme, {\1c&HFF00&\u1}soldi{\r} su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:49.79,0:01:49.85,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:49.85,0:01:49.93,Default,,0,0,0,,giorni, creme su creme, soldi {\1c&HFF00&\u1}su{\r} soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:49.93,0:01:50.03,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:50.03,0:01:50.39,Default,,0,0,0,,giorni, creme su creme, soldi su {\1c&HFF00&\u1}soldi,{\r} ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:50.39,0:01:50.77,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:50.77,0:01:50.89,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, {\1c&HFF00&\u1}ed{\r} ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:50.89,0:01:50.95,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:50.95,0:01:51.17,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed {\1c&HFF00&\u1}ogni{\r} volta che andavo da uno specialista mi
+Dialogue: 0,0:01:51.17,0:01:51.23,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:51.23,0:01:51.55,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni {\1c&HFF00&\u1}volta{\r} che andavo da uno specialista mi
+Dialogue: 0,0:01:51.55,0:01:51.59,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:51.59,0:01:51.67,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta {\1c&HFF00&\u1}che{\r} andavo da uno specialista mi
+Dialogue: 0,0:01:51.67,0:01:51.71,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:51.71,0:01:52.01,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che {\1c&HFF00&\u1}andavo{\r} da uno specialista mi
+Dialogue: 0,0:01:52.01,0:01:52.05,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:52.05,0:01:52.11,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo {\1c&HFF00&\u1}da{\r} uno specialista mi
+Dialogue: 0,0:01:52.11,0:01:52.13,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:52.13,0:01:52.21,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da {\1c&HFF00&\u1}uno{\r} specialista mi
+Dialogue: 0,0:01:52.21,0:01:52.27,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:52.27,0:01:52.77,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno {\1c&HFF00&\u1}specialista{\r} mi
+Dialogue: 0,0:01:52.77,0:01:52.81,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista mi
+Dialogue: 0,0:01:52.81,0:01:52.85,Default,,0,0,0,,giorni, creme su creme, soldi su soldi, ed ogni volta che andavo da uno specialista {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:01:52.82,0:01:53.32,Default,,0,0,0,,{\1c&HFF00&\u1}sentivo{\r} dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:53.32,0:01:53.36,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:53.36,0:01:53.50,Default,,0,0,0,,sentivo {\1c&HFF00&\u1}dire{\r} non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:53.50,0:01:53.84,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:53.84,0:01:53.96,Default,,0,0,0,,sentivo dire {\1c&HFF00&\u1}non{\r} c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:53.96,0:01:54.02,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.02,0:01:54.10,Default,,0,0,0,,sentivo dire non {\1c&HFF00&\u1}c'è{\r} nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.10,0:01:54.16,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.16,0:01:54.36,Default,,0,0,0,,sentivo dire non c'è {\1c&HFF00&\u1}nulla{\r} da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.36,0:01:54.40,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.40,0:01:54.48,Default,,0,0,0,,sentivo dire non c'è nulla {\1c&HFF00&\u1}da{\r} fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.48,0:01:54.57,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.57,0:01:54.91,Default,,0,0,0,,sentivo dire non c'è nulla da {\1c&HFF00&\u1}fare.{\r} Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:54.91,0:01:55.05,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:55.05,0:01:55.13,Default,,0,0,0,,sentivo dire non c'è nulla da fare. {\1c&HFF00&\u1}Mi{\r} sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:55.13,0:01:55.19,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:55.19,0:01:55.33,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi {\1c&HFF00&\u1}sono{\r} chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:55.33,0:01:55.37,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:55.37,0:01:55.77,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono {\1c&HFF00&\u1}chiesto,{\r} è possibile? Allora ho iniziato
+Dialogue: 0,0:01:55.77,0:01:56.01,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:56.01,0:01:56.05,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, {\1c&HFF00&\u1}è{\r} possibile? Allora ho iniziato
+Dialogue: 0,0:01:56.05,0:01:56.19,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:56.19,0:01:56.79,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è {\1c&HFF00&\u1}possibile?{\r} Allora ho iniziato
+Dialogue: 0,0:01:56.79,0:01:57.15,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:57.15,0:01:57.41,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? {\1c&HFF00&\u1}Allora{\r} ho iniziato
+Dialogue: 0,0:01:57.41,0:01:57.43,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:57.43,0:01:57.47,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora {\1c&HFF00&\u1}ho{\r} iniziato
+Dialogue: 0,0:01:57.47,0:01:57.49,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho iniziato
+Dialogue: 0,0:01:57.49,0:01:57.77,Default,,0,0,0,,sentivo dire non c'è nulla da fare. Mi sono chiesto, è possibile? Allora ho {\1c&HFF00&\u1}iniziato{\r}
+Dialogue: 0,0:01:57.76,0:01:57.78,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:57.78,0:01:57.80,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:57.80,0:01:57.96,Default,,0,0,0,,a {\1c&HFF00&\u1}studiare{\r} come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:57.96,0:01:57.98,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:57.98,0:01:58.06,Default,,0,0,0,,a studiare {\1c&HFF00&\u1}come{\r} un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.06,0:01:58.08,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.08,0:01:58.12,Default,,0,0,0,,a studiare come {\1c&HFF00&\u1}un{\r} pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.12,0:01:58.14,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.14,0:01:58.24,Default,,0,0,0,,a studiare come un {\1c&HFF00&\u1}pazzo{\r} il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.24,0:01:58.26,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.26,0:01:58.30,Default,,0,0,0,,a studiare come un pazzo {\1c&HFF00&\u1}il{\r} tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.30,0:01:58.32,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.32,0:01:58.40,Default,,0,0,0,,a studiare come un pazzo il {\1c&HFF00&\u1}tema.{\r} L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.40,0:01:58.42,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.42,0:01:58.62,Default,,0,0,0,,a studiare come un pazzo il tema. {\1c&HFF00&\u1}L'apsoriasi{\r} è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.62,0:01:58.64,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.64,0:01:58.66,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi {\1c&HFF00&\u1}è{\r} causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.66,0:01:58.68,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.68,0:01:58.82,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è {\1c&HFF00&\u1}causata{\r} dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.82,0:01:58.84,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:58.84,0:01:59.18,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata {\1c&HFF00&\u1}dall'infiammazione,{\r} l'infiammazione
+Dialogue: 0,0:01:59.18,0:01:59.20,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, l'infiammazione
+Dialogue: 0,0:01:59.20,0:01:59.48,Default,,0,0,0,,a studiare come un pazzo il tema. L'apsoriasi è causata dall'infiammazione, {\1c&HFF00&\u1}l'infiammazione{\r}
+Dialogue: 0,0:02:3.04,0:02:3.06,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.06,0:02:3.08,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.08,0:02:3.22,Default,,0,0,0,,è {\1c&HFF00&\u1}causata{\r} in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.22,0:02:3.24,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.24,0:02:3.28,Default,,0,0,0,,è causata {\1c&HFF00&\u1}in{\r} gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.28,0:02:3.30,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.30,0:02:3.38,Default,,0,0,0,,è causata in {\1c&HFF00&\u1}gran{\r} parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.38,0:02:3.40,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.40,0:02:3.50,Default,,0,0,0,,è causata in gran {\1c&HFF00&\u1}parte{\r} dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.50,0:02:3.52,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.52,0:02:3.62,Default,,0,0,0,,è causata in gran parte {\1c&HFF00&\u1}dalla{\r} tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.62,0:02:3.64,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.64,0:02:3.70,Default,,0,0,0,,è causata in gran parte dalla {\1c&HFF00&\u1}tua{\r} alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.70,0:02:3.72,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.72,0:02:3.98,Default,,0,0,0,,è causata in gran parte dalla tua {\1c&HFF00&\u1}alimentazione{\r} e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:3.98,0:02:4.00,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.00,0:02:4.02,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione {\1c&HFF00&\u1}e{\r} dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.02,0:02:4.04,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.04,0:02:4.14,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e {\1c&HFF00&\u1}dallo{\r} stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.14,0:02:4.16,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.16,0:02:4.26,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo {\1c&HFF00&\u1}stile{\r} di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.26,0:02:4.28,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.28,0:02:4.32,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile {\1c&HFF00&\u1}di{\r} vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.32,0:02:4.34,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.34,0:02:4.42,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di {\1c&HFF00&\u1}vita{\r} che fai, quindi se elimino
+Dialogue: 0,0:02:4.42,0:02:4.44,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.44,0:02:4.50,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita {\1c&HFF00&\u1}che{\r} fai, quindi se elimino
+Dialogue: 0,0:02:4.50,0:02:4.52,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.52,0:02:4.58,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che {\1c&HFF00&\u1}fai,{\r} quindi se elimino
+Dialogue: 0,0:02:4.58,0:02:4.60,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.60,0:02:4.74,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, {\1c&HFF00&\u1}quindi{\r} se elimino
+Dialogue: 0,0:02:4.74,0:02:4.82,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.82,0:02:4.86,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi {\1c&HFF00&\u1}se{\r} elimino
+Dialogue: 0,0:02:4.86,0:02:4.88,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se elimino
+Dialogue: 0,0:02:4.88,0:02:5.03,Default,,0,0,0,,è causata in gran parte dalla tua alimentazione e dallo stile di vita che fai, quindi se {\1c&HFF00&\u1}elimino{\r}
+Dialogue: 0,0:02:9.18,0:02:9.30,Default,,0,0,0,,{\1c&HFF00&\u1}tutto{\r} ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.30,0:02:9.32,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.32,0:02:9.48,Default,,0,0,0,,tutto {\1c&HFF00&\u1}ciò{\r} che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.48,0:02:9.50,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.50,0:02:9.56,Default,,0,0,0,,tutto ciò {\1c&HFF00&\u1}che{\r} causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.56,0:02:9.58,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.58,0:02:9.74,Default,,0,0,0,,tutto ciò che {\1c&HFF00&\u1}causa{\r} l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.74,0:02:9.76,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:9.76,0:02:10.55,Default,,0,0,0,,tutto ciò che causa {\1c&HFF00&\u1}l'infiammazione{\r} e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:10.55,0:02:10.75,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:10.75,0:02:10.79,Default,,0,0,0,,tutto ciò che causa l'infiammazione {\1c&HFF00&\u1}e{\r} miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:10.79,0:02:10.85,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:10.85,0:02:11.31,Default,,0,0,0,,tutto ciò che causa l'infiammazione e {\1c&HFF00&\u1}miglioro{\r} drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:11.31,0:02:11.39,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:11.39,0:02:12.01,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro {\1c&HFF00&\u1}drasticamente{\r} il mio stile di vita potrai
+Dialogue: 0,0:02:12.01,0:02:12.05,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:12.05,0:02:12.09,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente {\1c&HFF00&\u1}il{\r} mio stile di vita potrai
+Dialogue: 0,0:02:12.09,0:02:12.11,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:12.11,0:02:12.19,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il {\1c&HFF00&\u1}mio{\r} stile di vita potrai
+Dialogue: 0,0:02:12.19,0:02:12.21,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:12.21,0:02:12.43,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio {\1c&HFF00&\u1}stile{\r} di vita potrai
+Dialogue: 0,0:02:12.43,0:02:12.45,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:12.45,0:02:12.51,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile {\1c&HFF00&\u1}di{\r} vita potrai
+Dialogue: 0,0:02:12.51,0:02:12.57,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:12.57,0:02:12.83,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di {\1c&HFF00&\u1}vita{\r} potrai
+Dialogue: 0,0:02:12.83,0:02:13.13,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita potrai
+Dialogue: 0,0:02:13.13,0:02:13.39,Default,,0,0,0,,tutto ciò che causa l'infiammazione e miglioro drasticamente il mio stile di vita {\1c&HFF00&\u1}potrai{\r}
+Dialogue: 0,0:02:13.60,0:02:14.12,Default,,0,0,0,,{\1c&HFF00&\u1}guarire.{\r} E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.12,0:02:14.14,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.14,0:02:14.16,Default,,0,0,0,,guarire. {\1c&HFF00&\u1}E{\r} così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.16,0:02:14.18,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.18,0:02:14.40,Default,,0,0,0,,guarire. E {\1c&HFF00&\u1}così{\r} è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.40,0:02:14.42,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.42,0:02:14.46,Default,,0,0,0,,guarire. E così {\1c&HFF00&\u1}è{\r} stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.46,0:02:14.52,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.52,0:02:14.90,Default,,0,0,0,,guarire. E così è {\1c&HFF00&\u1}stato,{\r} la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.90,0:02:14.98,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:14.98,0:02:15.04,Default,,0,0,0,,guarire. E così è stato, {\1c&HFF00&\u1}la{\r} psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:15.04,0:02:15.06,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:15.06,0:02:15.57,Default,,0,0,0,,guarire. E così è stato, la {\1c&HFF00&\u1}psoriasi{\r} è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:15.57,0:02:15.73,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:15.73,0:02:15.79,Default,,0,0,0,,guarire. E così è stato, la psoriasi {\1c&HFF00&\u1}è{\r} sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:15.79,0:02:15.87,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:15.87,0:02:16.57,Default,,0,0,0,,guarire. E così è stato, la psoriasi è {\1c&HFF00&\u1}sparita.{\r} Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:16.57,0:02:16.85,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:16.85,0:02:17.05,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. {\1c&HFF00&\u1}Zero{\r} soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:17.05,0:02:17.13,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:17.13,0:02:17.51,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero {\1c&HFF00&\u1}soldi,{\r} zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:17.51,0:02:17.87,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:17.87,0:02:18.05,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, {\1c&HFF00&\u1}zero{\r} medicine e zero medici. Il mio
+Dialogue: 0,0:02:18.05,0:02:18.11,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:18.11,0:02:18.59,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero {\1c&HFF00&\u1}medicine{\r} e zero medici. Il mio
+Dialogue: 0,0:02:18.59,0:02:18.61,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:18.61,0:02:18.63,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine {\1c&HFF00&\u1}e{\r} zero medici. Il mio
+Dialogue: 0,0:02:18.63,0:02:19.05,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:19.05,0:02:19.23,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e {\1c&HFF00&\u1}zero{\r} medici. Il mio
+Dialogue: 0,0:02:19.23,0:02:19.29,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:19.29,0:02:19.96,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero {\1c&HFF00&\u1}medici.{\r} Il mio
+Dialogue: 0,0:02:19.96,0:02:20.00,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:20.00,0:02:20.18,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. {\1c&HFF00&\u1}Il{\r} mio
+Dialogue: 0,0:02:20.18,0:02:20.22,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il mio
+Dialogue: 0,0:02:20.22,0:02:20.76,Default,,0,0,0,,guarire. E così è stato, la psoriasi è sparita. Zero soldi, zero medicine e zero medici. Il {\1c&HFF00&\u1}mio{\r}
+Dialogue: 0,0:02:20.12,0:02:20.70,Default,,0,0,0,,{\1c&HFF00&\u1}motivo{\r} all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:20.70,0:02:20.72,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:20.72,0:02:21.02,Default,,0,0,0,,motivo {\1c&HFF00&\u1}all'azione{\r} è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.02,0:02:21.04,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.04,0:02:21.06,Default,,0,0,0,,motivo all'azione {\1c&HFF00&\u1}è{\r} stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.06,0:02:21.10,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.10,0:02:21.32,Default,,0,0,0,,motivo all'azione è {\1c&HFF00&\u1}stato{\r} per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.32,0:02:21.36,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.36,0:02:21.48,Default,,0,0,0,,motivo all'azione è stato {\1c&HFF00&\u1}per{\r} me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.48,0:02:21.52,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.52,0:02:21.62,Default,,0,0,0,,motivo all'azione è stato per {\1c&HFF00&\u1}me{\r} devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:21.62,0:02:22.03,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:22.03,0:02:22.77,Default,,0,0,0,,motivo all'azione è stato per me {\1c&HFF00&\u1}devastante,{\r} non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:22.77,0:02:22.89,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:22.89,0:02:22.99,Default,,0,0,0,,motivo all'azione è stato per me devastante, {\1c&HFF00&\u1}non{\r} volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:22.99,0:02:23.03,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:23.03,0:02:23.27,Default,,0,0,0,,motivo all'azione è stato per me devastante, non {\1c&HFF00&\u1}volevo{\r} più essere oppresso da questa malattia e
+Dialogue: 0,0:02:23.27,0:02:23.33,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:23.33,0:02:23.43,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo {\1c&HFF00&\u1}più{\r} essere oppresso da questa malattia e
+Dialogue: 0,0:02:23.43,0:02:23.45,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:23.45,0:02:23.75,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più {\1c&HFF00&\u1}essere{\r} oppresso da questa malattia e
+Dialogue: 0,0:02:23.75,0:02:23.77,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:23.77,0:02:24.17,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere {\1c&HFF00&\u1}oppresso{\r} da questa malattia e
+Dialogue: 0,0:02:24.17,0:02:24.21,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:24.21,0:02:24.29,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso {\1c&HFF00&\u1}da{\r} questa malattia e
+Dialogue: 0,0:02:24.29,0:02:24.31,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:24.31,0:02:24.51,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da {\1c&HFF00&\u1}questa{\r} malattia e
+Dialogue: 0,0:02:24.51,0:02:24.55,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:24.55,0:02:24.95,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa {\1c&HFF00&\u1}malattia{\r} e
+Dialogue: 0,0:02:24.95,0:02:25.09,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia e
+Dialogue: 0,0:02:25.09,0:02:25.11,Default,,0,0,0,,motivo all'azione è stato per me devastante, non volevo più essere oppresso da questa malattia {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:02:25.24,0:02:25.56,Default,,0,0,0,,{\1c&HFF00&\u1}quindi{\r} mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:25.56,0:02:25.78,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:25.78,0:02:25.84,Default,,0,0,0,,quindi {\1c&HFF00&\u1}mi{\r} sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:25.84,0:02:25.96,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:25.96,0:02:26.22,Default,,0,0,0,,quindi mi {\1c&HFF00&\u1}sono{\r} adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:26.22,0:02:26.46,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:26.46,0:02:27.23,Default,,0,0,0,,quindi mi sono {\1c&HFF00&\u1}adoperato{\r} per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:27.23,0:02:27.31,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:27.31,0:02:27.41,Default,,0,0,0,,quindi mi sono adoperato {\1c&HFF00&\u1}per{\r} sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:27.41,0:02:27.47,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:27.47,0:02:28.13,Default,,0,0,0,,quindi mi sono adoperato per {\1c&HFF00&\u1}sconfiggerla.{\r} Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:28.13,0:02:28.39,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:28.39,0:02:28.53,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. {\1c&HFF00&\u1}Non{\r} ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:28.53,0:02:28.55,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:28.55,0:02:28.67,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non {\1c&HFF00&\u1}ho{\r} pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:28.67,0:02:28.89,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:28.89,0:02:29.29,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho {\1c&HFF00&\u1}pianto{\r} tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:29.29,0:02:29.33,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:29.33,0:02:29.49,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto {\1c&HFF00&\u1}tutti{\r} i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:29.49,0:02:29.53,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:29.53,0:02:29.55,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti {\1c&HFF00&\u1}i{\r} giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:29.55,0:02:29.59,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:29.59,0:02:29.93,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i {\1c&HFF00&\u1}giorni,{\r} mi sono adoperato tutti
+Dialogue: 0,0:02:29.93,0:02:29.99,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:29.99,0:02:30.07,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, {\1c&HFF00&\u1}mi{\r} sono adoperato tutti
+Dialogue: 0,0:02:30.07,0:02:30.17,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:30.17,0:02:30.41,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi {\1c&HFF00&\u1}sono{\r} adoperato tutti
+Dialogue: 0,0:02:30.41,0:02:30.65,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:30.65,0:02:31.43,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono {\1c&HFF00&\u1}adoperato{\r} tutti
+Dialogue: 0,0:02:31.43,0:02:31.54,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato tutti
+Dialogue: 0,0:02:31.54,0:02:31.72,Default,,0,0,0,,quindi mi sono adoperato per sconfiggerla. Non ho pianto tutti i giorni, mi sono adoperato {\1c&HFF00&\u1}tutti{\r}
+Dialogue: 0,0:02:31.74,0:02:31.82,Default,,0,0,0,,{\1c&HFF00&\u1}i{\r} giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:31.82,0:02:31.84,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:31.84,0:02:32.10,Default,,0,0,0,,i {\1c&HFF00&\u1}giorni{\r} per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:32.10,0:02:32.12,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:32.12,0:02:32.20,Default,,0,0,0,,i giorni {\1c&HFF00&\u1}per{\r} sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:32.20,0:02:32.26,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:32.26,0:02:33.04,Default,,0,0,0,,i giorni per {\1c&HFF00&\u1}sconfiggerla.{\r} È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.04,0:02:33.06,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.06,0:02:33.08,Default,,0,0,0,,i giorni per sconfiggerla. {\1c&HFF00&\u1}È{\r} una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.08,0:02:33.12,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.12,0:02:33.20,Default,,0,0,0,,i giorni per sconfiggerla. È {\1c&HFF00&\u1}una{\r} scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.20,0:02:33.24,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.24,0:02:33.59,Default,,0,0,0,,i giorni per sconfiggerla. È una {\1c&HFF00&\u1}scelta{\r} come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.59,0:02:33.67,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.67,0:02:33.81,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta {\1c&HFF00&\u1}come{\r} sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.81,0:02:33.87,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:33.87,0:02:34.17,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come {\1c&HFF00&\u1}sempre.{\r} Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:34.17,0:02:34.37,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:34.37,0:02:34.57,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. {\1c&HFF00&\u1}Come{\r} vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:34.57,0:02:34.65,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:34.65,0:02:34.99,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come {\1c&HFF00&\u1}vedi{\r} sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:34.99,0:02:35.17,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:35.17,0:02:35.29,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi {\1c&HFF00&\u1}sei{\r} ciò che ti motiva all'azione,
+Dialogue: 0,0:02:35.29,0:02:35.39,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:35.39,0:02:35.51,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei {\1c&HFF00&\u1}ciò{\r} che ti motiva all'azione,
+Dialogue: 0,0:02:35.51,0:02:35.57,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:35.57,0:02:35.67,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò {\1c&HFF00&\u1}che{\r} ti motiva all'azione,
+Dialogue: 0,0:02:35.67,0:02:35.75,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:35.75,0:02:35.83,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che {\1c&HFF00&\u1}ti{\r} motiva all'azione,
+Dialogue: 0,0:02:35.83,0:02:35.87,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:35.87,0:02:36.23,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti {\1c&HFF00&\u1}motiva{\r} all'azione,
+Dialogue: 0,0:02:36.23,0:02:36.25,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva all'azione,
+Dialogue: 0,0:02:36.25,0:02:36.91,Default,,0,0,0,,i giorni per sconfiggerla. È una scelta come sempre. Come vedi sei ciò che ti motiva {\1c&HFF00&\u1}all'azione,{\r}
+Dialogue: 0,0:02:37.18,0:02:37.24,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:37.24,0:02:37.34,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:37.34,0:02:38.02,Default,,0,0,0,,è {\1c&HFF00&\u1}fortissimo,{\r} vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.02,0:02:38.18,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.18,0:02:38.38,Default,,0,0,0,,è fortissimo, {\1c&HFF00&\u1}vieni{\r} mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.38,0:02:38.46,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.46,0:02:38.78,Default,,0,0,0,,è fortissimo, vieni {\1c&HFF00&\u1}mosso{\r} da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.78,0:02:38.82,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.82,0:02:38.90,Default,,0,0,0,,è fortissimo, vieni mosso {\1c&HFF00&\u1}da{\r} quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.90,0:02:38.97,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:38.97,0:02:39.31,Default,,0,0,0,,è fortissimo, vieni mosso da {\1c&HFF00&\u1}quello.{\r} Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:39.31,0:02:39.67,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:39.67,0:02:39.79,Default,,0,0,0,,è fortissimo, vieni mosso da quello. {\1c&HFF00&\u1}Non{\r} importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:39.79,0:02:39.87,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:39.87,0:02:40.31,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non {\1c&HFF00&\u1}importa{\r} nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:40.31,0:02:40.37,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:40.37,0:02:40.73,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa {\1c&HFF00&\u1}nulla,{\r} continui come un trattore lungo il tuo
+Dialogue: 0,0:02:40.73,0:02:41.07,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:41.07,0:02:41.59,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, {\1c&HFF00&\u1}continui{\r} come un trattore lungo il tuo
+Dialogue: 0,0:02:41.59,0:02:41.67,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:41.67,0:02:41.83,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui {\1c&HFF00&\u1}come{\r} un trattore lungo il tuo
+Dialogue: 0,0:02:41.83,0:02:41.87,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:41.87,0:02:41.97,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come {\1c&HFF00&\u1}un{\r} trattore lungo il tuo
+Dialogue: 0,0:02:41.97,0:02:42.03,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:42.03,0:02:42.57,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un {\1c&HFF00&\u1}trattore{\r} lungo il tuo
+Dialogue: 0,0:02:42.57,0:02:42.63,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:42.63,0:02:42.79,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore {\1c&HFF00&\u1}lungo{\r} il tuo
+Dialogue: 0,0:02:42.79,0:02:42.81,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:42.81,0:02:42.85,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo {\1c&HFF00&\u1}il{\r} tuo
+Dialogue: 0,0:02:42.85,0:02:42.89,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il tuo
+Dialogue: 0,0:02:42.89,0:02:42.96,Default,,0,0,0,,è fortissimo, vieni mosso da quello. Non importa nulla, continui come un trattore lungo il {\1c&HFF00&\u1}tuo{\r}
+Dialogue: 0,0:02:43.10,0:02:43.52,Default,,0,0,0,,{\1c&HFF00&\u1}percorso,{\r} non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:43.52,0:02:43.60,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:43.60,0:02:43.70,Default,,0,0,0,,percorso, {\1c&HFF00&\u1}non{\r} c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:43.70,0:02:43.74,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:43.74,0:02:43.80,Default,,0,0,0,,percorso, non {\1c&HFF00&\u1}c'è{\r} niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:43.80,0:02:43.88,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:43.88,0:02:44.06,Default,,0,0,0,,percorso, non c'è {\1c&HFF00&\u1}niente{\r} da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.06,0:02:44.12,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.12,0:02:44.20,Default,,0,0,0,,percorso, non c'è niente {\1c&HFF00&\u1}da{\r} fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.20,0:02:44.26,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.26,0:02:44.56,Default,,0,0,0,,percorso, non c'è niente da {\1c&HFF00&\u1}fare.{\r} Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.56,0:02:44.77,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.77,0:02:44.83,Default,,0,0,0,,percorso, non c'è niente da fare. {\1c&HFF00&\u1}Se{\r} invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.83,0:02:44.89,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:44.89,0:02:45.35,Default,,0,0,0,,percorso, non c'è niente da fare. Se {\1c&HFF00&\u1}invece{\r} ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:45.35,0:02:45.61,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:45.61,0:02:45.73,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece {\1c&HFF00&\u1}ciò{\r} che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:45.73,0:02:45.79,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:45.79,0:02:45.87,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò {\1c&HFF00&\u1}che{\r} ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:45.87,0:02:45.91,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:45.91,0:02:45.99,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che {\1c&HFF00&\u1}ti{\r} motiva l'azione è futile, ha
+Dialogue: 0,0:02:45.99,0:02:46.05,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:46.05,0:02:46.35,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti {\1c&HFF00&\u1}motiva{\r} l'azione è futile, ha
+Dialogue: 0,0:02:46.35,0:02:46.41,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:46.41,0:02:46.89,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva {\1c&HFF00&\u1}l'azione{\r} è futile, ha
+Dialogue: 0,0:02:46.89,0:02:46.91,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:46.91,0:02:46.93,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione {\1c&HFF00&\u1}è{\r} futile, ha
+Dialogue: 0,0:02:46.93,0:02:47.25,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:47.25,0:02:47.67,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è {\1c&HFF00&\u1}futile,{\r} ha
+Dialogue: 0,0:02:47.67,0:02:48.01,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, ha
+Dialogue: 0,0:02:48.01,0:02:48.05,Default,,0,0,0,,percorso, non c'è niente da fare. Se invece ciò che ti motiva l'azione è futile, {\1c&HFF00&\u1}ha{\r}
+Dialogue: 0,0:02:48.16,0:02:48.38,Default,,0,0,0,,{\1c&HFF00&\u1}poco{\r} significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:48.38,0:02:48.46,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:48.46,0:02:49.30,Default,,0,0,0,,poco {\1c&HFF00&\u1}significato,{\r} della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:49.30,0:02:49.36,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:49.36,0:02:49.54,Default,,0,0,0,,poco significato, {\1c&HFF00&\u1}della{\r} serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:49.54,0:02:49.60,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:49.60,0:02:50.01,Default,,0,0,0,,poco significato, della {\1c&HFF00&\u1}serie{\r} voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:50.01,0:02:50.41,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:50.41,0:02:50.65,Default,,0,0,0,,poco significato, della serie {\1c&HFF00&\u1}voglio{\r} dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:50.65,0:02:50.69,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:50.69,0:02:51.29,Default,,0,0,0,,poco significato, della serie voglio {\1c&HFF00&\u1}dimagrire{\r} per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:51.29,0:02:51.37,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:51.37,0:02:51.49,Default,,0,0,0,,poco significato, della serie voglio dimagrire {\1c&HFF00&\u1}per{\r} questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:51.49,0:02:51.55,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:51.55,0:02:51.81,Default,,0,0,0,,poco significato, della serie voglio dimagrire per {\1c&HFF00&\u1}questo{\r} estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:51.81,0:02:51.83,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:51.83,0:02:52.35,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo {\1c&HFF00&\u1}estate{\r} e poi dopo torno a mangiare
+Dialogue: 0,0:02:52.35,0:02:52.37,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:52.37,0:02:52.39,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate {\1c&HFF00&\u1}e{\r} poi dopo torno a mangiare
+Dialogue: 0,0:02:52.39,0:02:52.45,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:52.45,0:02:52.57,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e {\1c&HFF00&\u1}poi{\r} dopo torno a mangiare
+Dialogue: 0,0:02:52.57,0:02:52.61,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:52.61,0:02:52.81,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi {\1c&HFF00&\u1}dopo{\r} torno a mangiare
+Dialogue: 0,0:02:52.81,0:02:52.85,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:52.85,0:02:52.99,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo {\1c&HFF00&\u1}torno{\r} a mangiare
+Dialogue: 0,0:02:52.99,0:02:53.01,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:53.01,0:02:53.03,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno {\1c&HFF00&\u1}a{\r} mangiare
+Dialogue: 0,0:02:53.03,0:02:53.07,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a mangiare
+Dialogue: 0,0:02:53.07,0:02:53.31,Default,,0,0,0,,poco significato, della serie voglio dimagrire per questo estate e poi dopo torno a {\1c&HFF00&\u1}mangiare{\r}
+Dialogue: 0,0:02:53.48,0:02:53.68,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:53.68,0:02:53.76,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:53.76,0:02:53.98,Default,,0,0,0,,come {\1c&HFF00&\u1}prima,{\r} farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:53.98,0:02:54.42,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:54.42,0:02:54.80,Default,,0,0,0,,come prima, {\1c&HFF00&\u1}farai{\r} molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:54.80,0:02:54.94,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:54.94,0:02:55.25,Default,,0,0,0,,come prima, farai {\1c&HFF00&\u1}molta{\r} poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:55.25,0:02:55.33,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:55.33,0:02:55.59,Default,,0,0,0,,come prima, farai molta {\1c&HFF00&\u1}poca{\r} strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:55.59,0:02:55.63,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:55.63,0:02:56.07,Default,,0,0,0,,come prima, farai molta poca {\1c&HFF00&\u1}strada,{\r} garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:56.07,0:02:56.11,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:56.11,0:02:56.71,Default,,0,0,0,,come prima, farai molta poca strada, {\1c&HFF00&\u1}garantito.{\r} Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:56.71,0:02:56.87,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:56.87,0:02:57.11,Default,,0,0,0,,come prima, farai molta poca strada, garantito. {\1c&HFF00&\u1}Voglio{\r} imparare a mangiare bene perché sta
+Dialogue: 0,0:02:57.11,0:02:57.15,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:57.15,0:02:57.61,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio {\1c&HFF00&\u1}imparare{\r} a mangiare bene perché sta
+Dialogue: 0,0:02:57.61,0:02:57.63,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:57.63,0:02:57.67,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare {\1c&HFF00&\u1}a{\r} mangiare bene perché sta
+Dialogue: 0,0:02:57.67,0:02:57.71,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:57.71,0:02:58.05,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a {\1c&HFF00&\u1}mangiare{\r} bene perché sta
+Dialogue: 0,0:02:58.05,0:02:58.13,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:58.13,0:02:58.37,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare {\1c&HFF00&\u1}bene{\r} perché sta
+Dialogue: 0,0:02:58.37,0:02:58.41,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:58.41,0:02:58.61,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene {\1c&HFF00&\u1}perché{\r} sta
+Dialogue: 0,0:02:58.61,0:02:58.65,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché sta
+Dialogue: 0,0:02:58.65,0:02:58.71,Default,,0,0,0,,come prima, farai molta poca strada, garantito. Voglio imparare a mangiare bene perché {\1c&HFF00&\u1}sta{\r}
+Dialogue: 0,0:02:58.84,0:02:59.16,Default,,0,0,0,,{\1c&HFF00&\u1}arrivando{\r} l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:02:59.16,0:02:59.20,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:02:59.20,0:02:59.72,Default,,0,0,0,,arrivando {\1c&HFF00&\u1}l'estate,{\r} non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:02:59.72,0:02:59.86,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:02:59.86,0:03:0.02,Default,,0,0,0,,arrivando l'estate, {\1c&HFF00&\u1}non{\r} mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:0.02,0:03:0.08,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:0.08,0:03:0.14,Default,,0,0,0,,arrivando l'estate, non {\1c&HFF00&\u1}mi{\r} fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:0.14,0:03:0.22,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:0.22,0:03:0.43,Default,,0,0,0,,arrivando l'estate, non mi {\1c&HFF00&\u1}fare{\r} arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:0.43,0:03:0.47,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:0.47,0:03:1.19,Default,,0,0,0,,arrivando l'estate, non mi fare {\1c&HFF00&\u1}arrabbiare.{\r} Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:1.19,0:03:1.35,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:1.35,0:03:1.57,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. {\1c&HFF00&\u1}Voglio{\r} imparare a mangiare bene così per
+Dialogue: 0,0:03:1.57,0:03:1.59,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:1.59,0:03:2.03,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio {\1c&HFF00&\u1}imparare{\r} a mangiare bene così per
+Dialogue: 0,0:03:2.03,0:03:2.05,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:2.05,0:03:2.07,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare {\1c&HFF00&\u1}a{\r} mangiare bene così per
+Dialogue: 0,0:03:2.07,0:03:2.11,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:2.11,0:03:2.43,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a {\1c&HFF00&\u1}mangiare{\r} bene così per
+Dialogue: 0,0:03:2.43,0:03:2.51,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:2.51,0:03:2.79,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare {\1c&HFF00&\u1}bene{\r} così per
+Dialogue: 0,0:03:2.79,0:03:2.87,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:2.87,0:03:3.05,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene {\1c&HFF00&\u1}così{\r} per
+Dialogue: 0,0:03:3.05,0:03:3.11,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così per
+Dialogue: 0,0:03:3.11,0:03:3.19,Default,,0,0,0,,arrivando l'estate, non mi fare arrabbiare. Voglio imparare a mangiare bene così {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:03:3.20,0:03:3.54,Default,,0,0,0,,{\1c&HFF00&\u1}i{\r} prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:3.54,0:03:3.56,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:3.56,0:03:4.06,Default,,0,0,0,,i {\1c&HFF00&\u1}prossimi 3{\r} mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.06,0:03:4.10,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.10,0:03:4.26,Default,,0,0,0,,i prossimi 3 {\1c&HFF00&\u1}mesi{\r} avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.26,0:03:4.28,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.28,0:03:4.44,Default,,0,0,0,,i prossimi 3 mesi {\1c&HFF00&\u1}avrò{\r} un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.44,0:03:4.46,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.46,0:03:4.54,Default,,0,0,0,,i prossimi 3 mesi avrò {\1c&HFF00&\u1}un{\r} fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.54,0:03:4.60,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.60,0:03:4.94,Default,,0,0,0,,i prossimi 3 mesi avrò un {\1c&HFF00&\u1}fisico{\r} top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:4.94,0:03:5.13,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:5.13,0:03:5.49,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico {\1c&HFF00&\u1}top,{\r} poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:5.49,0:03:5.77,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:5.77,0:03:5.87,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, {\1c&HFF00&\u1}poi{\r} ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:5.87,0:03:5.93,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:5.93,0:03:5.99,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi {\1c&HFF00&\u1}ci{\r} ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:5.99,0:03:6.03,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:6.03,0:03:6.47,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci {\1c&HFF00&\u1}ripensierò{\r} il prossimo anno, non funziona.
+Dialogue: 0,0:03:6.47,0:03:6.49,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:6.49,0:03:6.55,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò {\1c&HFF00&\u1}il{\r} prossimo anno, non funziona.
+Dialogue: 0,0:03:6.55,0:03:6.59,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:6.59,0:03:6.95,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il {\1c&HFF00&\u1}prossimo{\r} anno, non funziona.
+Dialogue: 0,0:03:6.95,0:03:6.99,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:6.99,0:03:7.37,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo {\1c&HFF00&\u1}anno,{\r} non funziona.
+Dialogue: 0,0:03:7.37,0:03:7.73,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:7.73,0:03:7.87,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, {\1c&HFF00&\u1}non{\r} funziona.
+Dialogue: 0,0:03:7.87,0:03:7.93,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non funziona.
+Dialogue: 0,0:03:7.93,0:03:8.55,Default,,0,0,0,,i prossimi 3 mesi avrò un fisico top, poi ci ripensierò il prossimo anno, non {\1c&HFF00&\u1}funziona.{\r}
+Dialogue: 0,0:03:8.98,0:03:9.30,Default,,0,0,0,,{\1c&HFF00&\u1}Oppure{\r} ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:9.30,0:03:9.34,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:9.34,0:03:9.54,Default,,0,0,0,,Oppure {\1c&HFF00&\u1}ancora{\r} più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:9.54,0:03:9.58,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:9.58,0:03:9.66,Default,,0,0,0,,Oppure ancora {\1c&HFF00&\u1}più{\r} spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:9.66,0:03:9.70,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:9.70,0:03:10.00,Default,,0,0,0,,Oppure ancora più {\1c&HFF00&\u1}spesso{\r} mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:10.00,0:03:10.06,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:10.06,0:03:10.12,Default,,0,0,0,,Oppure ancora più spesso {\1c&HFF00&\u1}mi{\r} capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:10.12,0:03:10.16,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:10.16,0:03:10.40,Default,,0,0,0,,Oppure ancora più spesso mi {\1c&HFF00&\u1}capita{\r} questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:10.40,0:03:10.46,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:10.46,0:03:10.87,Default,,0,0,0,,Oppure ancora più spesso mi capita {\1c&HFF00&\u1}questo,{\r} voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:10.87,0:03:11.05,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:11.05,0:03:11.27,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, {\1c&HFF00&\u1}voglio{\r} imparare a mangiare bene perché...
+Dialogue: 0,0:03:11.27,0:03:11.29,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:11.29,0:03:11.73,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio {\1c&HFF00&\u1}imparare{\r} a mangiare bene perché...
+Dialogue: 0,0:03:11.73,0:03:11.77,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:11.77,0:03:11.79,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare {\1c&HFF00&\u1}a{\r} mangiare bene perché...
+Dialogue: 0,0:03:11.79,0:03:11.83,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:11.83,0:03:12.15,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a {\1c&HFF00&\u1}mangiare{\r} bene perché...
+Dialogue: 0,0:03:12.15,0:03:12.23,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:12.23,0:03:12.59,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare {\1c&HFF00&\u1}bene{\r} perché...
+Dialogue: 0,0:03:12.59,0:03:12.67,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene perché...
+Dialogue: 0,0:03:12.67,0:03:13.01,Default,,0,0,0,,Oppure ancora più spesso mi capita questo, voglio imparare a mangiare bene {\1c&HFF00&\u1}perché...{\r}

@@ -1,0 +1,62 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.44,0:00:0.86,Default,,0,0,0,,{\1c&HFF00&\u1}Vado{\r} a casa e vado a scuola.
+Dialogue: 0,0:00:0.86,0:00:1.24,Default,,0,0,0,,Vado a casa e vado a scuola.
+Dialogue: 0,0:00:1.24,0:00:1.36,Default,,0,0,0,,Vado {\1c&HFF00&\u1}a{\r} casa e vado a scuola.
+Dialogue: 0,0:00:1.36,0:00:1.46,Default,,0,0,0,,Vado a casa e vado a scuola.
+Dialogue: 0,0:00:1.46,0:00:1.97,Default,,0,0,0,,Vado a {\1c&HFF00&\u1}casa{\r} e vado a scuola.
+Dialogue: 0,0:00:1.97,0:00:2.59,Default,,0,0,0,,Vado a casa e vado a scuola.
+Dialogue: 0,0:00:2.59,0:00:2.67,Default,,0,0,0,,Vado a casa {\1c&HFF00&\u1}e{\r} vado a scuola.
+Dialogue: 0,0:00:2.67,0:00:2.75,Default,,0,0,0,,Vado a casa e vado a scuola.
+Dialogue: 0,0:00:2.75,0:00:3.13,Default,,0,0,0,,Vado a casa e {\1c&HFF00&\u1}vado{\r} a scuola.
+Dialogue: 0,0:00:3.13,0:00:3.55,Default,,0,0,0,,Vado a casa e vado a scuola.
+Dialogue: 0,0:00:3.55,0:00:3.73,Default,,0,0,0,,Vado a casa e vado {\1c&HFF00&\u1}a{\r} scuola.
+Dialogue: 0,0:00:3.73,0:00:3.83,Default,,0,0,0,,Vado a casa e vado a scuola.
+Dialogue: 0,0:00:3.83,0:00:4.31,Default,,0,0,0,,Vado a casa e vado a {\1c&HFF00&\u1}scuola.{\r}
+Dialogue: 0,0:00:5.26,0:00:5.36,Default,,0,0,0,,{\1c&HFF00&\u1}Con{\r} la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:5.36,0:00:5.42,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:5.42,0:00:5.46,Default,,0,0,0,,Con {\1c&HFF00&\u1}la{\r} parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:5.46,0:00:5.50,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:5.50,0:00:5.78,Default,,0,0,0,,Con la {\1c&HFF00&\u1}parola{\r} stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:5.78,0:00:5.86,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:5.86,0:00:6.48,Default,,0,0,0,,Con la parola {\1c&HFF00&\u1}stazione{\r} abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:6.48,0:00:6.84,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:6.84,0:00:7.26,Default,,0,0,0,,Con la parola stazione {\1c&HFF00&\u1}abbiamo{\r} due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:7.26,0:00:7.40,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:7.40,0:00:7.62,Default,,0,0,0,,Con la parola stazione abbiamo {\1c&HFF00&\u1}due{\r} possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:7.62,0:00:7.70,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:7.70,0:00:8.41,Default,,0,0,0,,Con la parola stazione abbiamo due {\1c&HFF00&\u1}possibilità,{\r} vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:8.41,0:00:8.81,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:8.81,0:00:9.13,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, {\1c&HFF00&\u1}vado{\r} alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:9.13,0:00:9.57,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:9.57,0:00:10.01,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado {\1c&HFF00&\u1}alla{\r} stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:10.01,0:00:10.19,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:10.19,0:00:10.85,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla {\1c&HFF00&\u1}stazione{\r} o vado in stazione e usiamo
+Dialogue: 0,0:00:10.85,0:00:10.87,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:10.87,0:00:10.89,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione {\1c&HFF00&\u1}o{\r} vado in stazione e usiamo
+Dialogue: 0,0:00:10.89,0:00:11.05,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:11.05,0:00:11.33,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o {\1c&HFF00&\u1}vado{\r} in stazione e usiamo
+Dialogue: 0,0:00:11.33,0:00:11.65,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:11.65,0:00:11.93,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado {\1c&HFF00&\u1}in{\r} stazione e usiamo
+Dialogue: 0,0:00:11.93,0:00:12.29,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:12.29,0:00:12.87,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in {\1c&HFF00&\u1}stazione{\r} e usiamo
+Dialogue: 0,0:00:12.87,0:00:14.72,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:14.72,0:00:14.76,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione {\1c&HFF00&\u1}e{\r} usiamo
+Dialogue: 0,0:00:14.76,0:00:14.88,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e usiamo
+Dialogue: 0,0:00:14.88,0:00:15.46,Default,,0,0,0,,Con la parola stazione abbiamo due possibilità, vado alla stazione o vado in stazione e {\1c&HFF00&\u1}usiamo{\r}
+Dialogue: 0,0:00:15.44,0:00:15.54,Default,,0,0,0,,{\1c&HFF00&\u1}vado{\r} o sono.
+Dialogue: 0,0:00:15.54,0:00:15.58,Default,,0,0,0,,vado o sono.
+Dialogue: 0,0:00:15.58,0:00:15.60,Default,,0,0,0,,vado {\1c&HFF00&\u1}o{\r} sono.
+Dialogue: 0,0:00:15.60,0:00:15.62,Default,,0,0,0,,vado o sono.
+Dialogue: 0,0:00:15.62,0:00:15.70,Default,,0,0,0,,vado o {\1c&HFF00&\u1}sono.{\r}

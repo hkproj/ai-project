@@ -1,0 +1,95 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.58,0:00:0.66,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:0.68,0:00:0.70,Default,,0,0,0,,Non {\1c&HFF00&\u1}è{\r} una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:0.70,0:00:0.80,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:0.80,0:00:0.92,Default,,0,0,0,,Non è {\1c&HFF00&\u1}una{\r} regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:0.92,0:00:1.00,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:1.00,0:00:1.30,Default,,0,0,0,,Non è una {\1c&HFF00&\u1}regola.{\r} Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:1.30,0:00:1.84,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:1.84,0:00:2.23,Default,,0,0,0,,Non è una regola. {\1c&HFF00&\u1}Nomi{\r} maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:2.23,0:00:2.41,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:2.41,0:00:3.11,Default,,0,0,0,,Non è una regola. Nomi {\1c&HFF00&\u1}maschili{\r} usiamo a e l'articolo.
+Dialogue: 0,0:00:3.11,0:00:3.49,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:3.49,0:00:4.01,Default,,0,0,0,,Non è una regola. Nomi maschili {\1c&HFF00&\u1}usiamo{\r} a e l'articolo.
+Dialogue: 0,0:00:4.01,0:00:4.31,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:4.31,0:00:4.47,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo {\1c&HFF00&\u1}a{\r} e l'articolo.
+Dialogue: 0,0:00:4.47,0:00:4.95,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:4.95,0:00:4.99,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a {\1c&HFF00&\u1}e{\r} l'articolo.
+Dialogue: 0,0:00:4.99,0:00:5.07,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e l'articolo.
+Dialogue: 0,0:00:5.07,0:00:5.63,Default,,0,0,0,,Non è una regola. Nomi maschili usiamo a e {\1c&HFF00&\u1}l'articolo.{\r}
+Dialogue: 0,0:00:6.52,0:00:7.56,Default,,0,0,0,,{\1c&HFF00&\u1}Attenzione{\r} alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:7.56,0:00:7.96,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:7.96,0:00:8.14,Default,,0,0,0,,Attenzione {\1c&HFF00&\u1}alla{\r} parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:8.14,0:00:8.20,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:8.20,0:00:8.62,Default,,0,0,0,,Attenzione alla {\1c&HFF00&\u1}parola{\r} teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:8.62,0:00:8.77,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:8.77,0:00:9.41,Default,,0,0,0,,Attenzione alla parola {\1c&HFF00&\u1}teatro.{\r} Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:9.41,0:00:9.95,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:9.95,0:00:10.69,Default,,0,0,0,,Attenzione alla parola teatro. {\1c&HFF00&\u1}Teatro{\r} è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:10.69,0:00:11.27,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:11.27,0:00:11.33,Default,,0,0,0,,Attenzione alla parola teatro. Teatro {\1c&HFF00&\u1}è{\r} maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:11.33,0:00:11.39,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:11.39,0:00:12.05,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è {\1c&HFF00&\u1}maschile,{\r} usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:12.05,0:00:12.41,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:12.41,0:00:12.77,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, {\1c&HFF00&\u1}usiamo{\r} a ma senza l'articolo.
+Dialogue: 0,0:00:12.77,0:00:13.07,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:13.07,0:00:13.27,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo {\1c&HFF00&\u1}a{\r} ma senza l'articolo.
+Dialogue: 0,0:00:13.27,0:00:13.69,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:13.69,0:00:13.79,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a {\1c&HFF00&\u1}ma{\r} senza l'articolo.
+Dialogue: 0,0:00:13.79,0:00:13.93,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:13.93,0:00:14.53,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma {\1c&HFF00&\u1}senza{\r} l'articolo.
+Dialogue: 0,0:00:14.53,0:00:14.80,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza l'articolo.
+Dialogue: 0,0:00:14.80,0:00:15.42,Default,,0,0,0,,Attenzione alla parola teatro. Teatro è maschile, usiamo a ma senza {\1c&HFF00&\u1}l'articolo.{\r}
+Dialogue: 0,0:00:15.88,0:00:16.84,Default,,0,0,0,,{\1c&HFF00&\u1}Semplicemente{\r} vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:16.84,0:00:17.02,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:17.02,0:00:17.46,Default,,0,0,0,,Semplicemente {\1c&HFF00&\u1}vado{\r} a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:17.46,0:00:17.78,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:17.78,0:00:17.92,Default,,0,0,0,,Semplicemente vado {\1c&HFF00&\u1}a{\r} teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:17.92,0:00:18.28,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:18.28,0:00:18.83,Default,,0,0,0,,Semplicemente vado a {\1c&HFF00&\u1}teatro.{\r} Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:18.83,0:00:20.77,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:20.77,0:00:21.13,Default,,0,0,0,,Semplicemente vado a teatro. {\1c&HFF00&\u1}Abbiamo{\r} detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:21.13,0:00:21.17,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:21.17,0:00:21.57,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo {\1c&HFF00&\u1}detto{\r} non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:21.57,0:00:21.79,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:21.79,0:00:21.97,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto {\1c&HFF00&\u1}non{\r} è una regola, infatti ci sono parole
+Dialogue: 0,0:00:21.97,0:00:22.09,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:22.09,0:00:22.17,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non {\1c&HFF00&\u1}è{\r} una regola, infatti ci sono parole
+Dialogue: 0,0:00:22.17,0:00:22.41,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:22.41,0:00:22.59,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è {\1c&HFF00&\u1}una{\r} regola, infatti ci sono parole
+Dialogue: 0,0:00:22.59,0:00:22.63,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:22.63,0:00:23.05,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una {\1c&HFF00&\u1}regola,{\r} infatti ci sono parole
+Dialogue: 0,0:00:23.05,0:00:23.33,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:23.33,0:00:24.17,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, {\1c&HFF00&\u1}infatti{\r} ci sono parole
+Dialogue: 0,0:00:24.17,0:00:24.53,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:24.53,0:00:24.63,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti {\1c&HFF00&\u1}ci{\r} sono parole
+Dialogue: 0,0:00:24.63,0:00:24.76,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:24.76,0:00:25.16,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci {\1c&HFF00&\u1}sono{\r} parole
+Dialogue: 0,0:00:25.16,0:00:25.28,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono parole
+Dialogue: 0,0:00:25.28,0:00:25.68,Default,,0,0,0,,Semplicemente vado a teatro. Abbiamo detto non è una regola, infatti ci sono {\1c&HFF00&\u1}parole{\r}
+Dialogue: 0,0:00:25.92,0:00:26.64,Default,,0,0,0,,{\1c&HFF00&\u1}femminili{\r} con A. Per esempio, vado al...
+Dialogue: 0,0:00:26.64,0:00:26.78,Default,,0,0,0,,femminili con A. Per esempio, vado al...
+Dialogue: 0,0:00:26.78,0:00:27.03,Default,,0,0,0,,femminili {\1c&HFF00&\u1}con{\r} A. Per esempio, vado al...
+Dialogue: 0,0:00:27.03,0:00:27.23,Default,,0,0,0,,femminili con A. Per esempio, vado al...
+Dialogue: 0,0:00:27.23,0:00:27.33,Default,,0,0,0,,femminili con {\1c&HFF00&\u1}A.{\r} Per esempio, vado al...
+Dialogue: 0,0:00:27.33,0:00:28.09,Default,,0,0,0,,femminili con A. Per esempio, vado al...
+Dialogue: 0,0:00:28.09,0:00:28.33,Default,,0,0,0,,femminili con A. {\1c&HFF00&\u1}Per{\r} esempio, vado al...
+Dialogue: 0,0:00:28.33,0:00:28.35,Default,,0,0,0,,femminili con A. Per esempio, vado al...
+Dialogue: 0,0:00:28.35,0:00:28.95,Default,,0,0,0,,femminili con A. Per {\1c&HFF00&\u1}esempio,{\r} vado al...
+Dialogue: 0,0:00:28.95,0:00:28.97,Default,,0,0,0,,femminili con A. Per esempio, vado al...
+Dialogue: 0,0:00:28.97,0:00:29.15,Default,,0,0,0,,femminili con A. Per esempio, {\1c&HFF00&\u1}vado{\r} al...
+Dialogue: 0,0:00:29.15,0:00:29.17,Default,,0,0,0,,femminili con A. Per esempio, vado al...
+Dialogue: 0,0:00:29.17,0:00:29.21,Default,,0,0,0,,femminili con A. Per esempio, vado {\1c&HFF00&\u1}al...{\r}

@@ -1,0 +1,55 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.92,0:00:1.46,Default,,0,0,0,,{\1c&HFF00&\u1}vado{\r} al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:1.46,0:00:2.16,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:2.16,0:00:2.56,Default,,0,0,0,,vado {\1c&HFF00&\u1}al{\r} ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:2.56,0:00:2.86,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:2.86,0:00:3.78,Default,,0,0,0,,vado al {\1c&HFF00&\u1}ristorante,{\r} vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:3.78,0:00:4.83,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:4.83,0:00:5.41,Default,,0,0,0,,vado al ristorante, {\1c&HFF00&\u1}vado{\r} al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:5.41,0:00:5.91,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:5.91,0:00:6.21,Default,,0,0,0,,vado al ristorante, vado {\1c&HFF00&\u1}al{\r} mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:6.21,0:00:6.33,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:6.33,0:00:6.83,Default,,0,0,0,,vado al ristorante, vado al {\1c&HFF00&\u1}mare,{\r} vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:6.83,0:00:7.83,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:7.83,0:00:8.41,Default,,0,0,0,,vado al ristorante, vado al mare, {\1c&HFF00&\u1}vado{\r} al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:8.41,0:00:8.81,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:8.81,0:00:9.03,Default,,0,0,0,,vado al ristorante, vado al mare, vado {\1c&HFF00&\u1}al{\r} lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:9.03,0:00:9.13,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:9.13,0:00:9.65,Default,,0,0,0,,vado al ristorante, vado al mare, vado al {\1c&HFF00&\u1}lago,{\r} vado al bar, vado al cinema
+Dialogue: 0,0:00:9.65,0:00:10.81,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:10.81,0:00:11.47,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, {\1c&HFF00&\u1}vado{\r} al bar, vado al cinema
+Dialogue: 0,0:00:11.47,0:00:11.85,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:11.85,0:00:11.97,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado {\1c&HFF00&\u1}al{\r} bar, vado al cinema
+Dialogue: 0,0:00:11.97,0:00:12.05,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:12.05,0:00:12.47,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al {\1c&HFF00&\u1}bar,{\r} vado al cinema
+Dialogue: 0,0:00:12.47,0:00:13.68,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:13.68,0:00:14.24,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, {\1c&HFF00&\u1}vado{\r} al cinema
+Dialogue: 0,0:00:14.24,0:00:14.64,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:14.64,0:00:14.82,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado {\1c&HFF00&\u1}al{\r} cinema
+Dialogue: 0,0:00:14.82,0:00:15.02,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al cinema
+Dialogue: 0,0:00:15.02,0:00:15.44,Default,,0,0,0,,vado al ristorante, vado al mare, vado al lago, vado al bar, vado al {\1c&HFF00&\u1}cinema{\r}
+Dialogue: 0,0:00:16.04,0:00:16.42,Default,,0,0,0,,{\1c&HFF00&\u1}cinema{\r} è maschile attenzione vado allo zoo
+Dialogue: 0,0:00:16.42,0:00:16.58,Default,,0,0,0,,cinema è maschile attenzione vado allo zoo
+Dialogue: 0,0:00:16.58,0:00:16.62,Default,,0,0,0,,cinema {\1c&HFF00&\u1}è{\r} maschile attenzione vado allo zoo
+Dialogue: 0,0:00:16.62,0:00:16.66,Default,,0,0,0,,cinema è maschile attenzione vado allo zoo
+Dialogue: 0,0:00:16.66,0:00:17.35,Default,,0,0,0,,cinema è {\1c&HFF00&\u1}maschile{\r} attenzione vado allo zoo
+Dialogue: 0,0:00:17.35,0:00:17.41,Default,,0,0,0,,cinema è maschile attenzione vado allo zoo
+Dialogue: 0,0:00:17.41,0:00:18.11,Default,,0,0,0,,cinema è maschile {\1c&HFF00&\u1}attenzione{\r} vado allo zoo
+Dialogue: 0,0:00:18.11,0:00:18.83,Default,,0,0,0,,cinema è maschile attenzione vado allo zoo
+Dialogue: 0,0:00:18.83,0:00:19.21,Default,,0,0,0,,cinema è maschile attenzione {\1c&HFF00&\u1}vado{\r} allo zoo
+Dialogue: 0,0:00:19.21,0:00:19.57,Default,,0,0,0,,cinema è maschile attenzione vado allo zoo
+Dialogue: 0,0:00:19.57,0:00:20.07,Default,,0,0,0,,cinema è maschile attenzione vado {\1c&HFF00&\u1}allo{\r} zoo
+Dialogue: 0,0:00:20.07,0:00:20.42,Default,,0,0,0,,cinema è maschile attenzione vado allo zoo
+Dialogue: 0,0:00:20.42,0:00:20.80,Default,,0,0,0,,cinema è maschile attenzione vado allo {\1c&HFF00&\u1}zoo{\r}

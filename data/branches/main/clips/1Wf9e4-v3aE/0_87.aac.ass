@@ -1,0 +1,91 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.46,0:00:1.66,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:1.66,0:00:1.70,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:1.70,0:00:2.20,Default,,0,0,0,,Per {\1c&HFF00&\u1}esempio,{\r} andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:2.20,0:00:3.16,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:3.16,0:00:3.81,Default,,0,0,0,,Per esempio, {\1c&HFF00&\u1}andiamo{\r} in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:3.81,0:00:4.05,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:4.05,0:00:4.29,Default,,0,0,0,,Per esempio, andiamo {\1c&HFF00&\u1}in{\r} gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:4.29,0:00:4.55,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:4.55,0:00:5.29,Default,,0,0,0,,Per esempio, andiamo in {\1c&HFF00&\u1}gelateria,{\r} vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:5.29,0:00:7.39,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:7.39,0:00:7.79,Default,,0,0,0,,Per esempio, andiamo in gelateria, {\1c&HFF00&\u1}vai{\r} in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:7.79,0:00:8.01,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:8.01,0:00:8.09,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai {\1c&HFF00&\u1}in{\r} farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:8.09,0:00:8.15,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:8.15,0:00:8.91,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in {\1c&HFF00&\u1}farmacia,{\r} mi prendi le medicine, per favore?
+Dialogue: 0,0:00:8.91,0:00:9.31,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:9.31,0:00:9.39,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, {\1c&HFF00&\u1}mi{\r} prendi le medicine, per favore?
+Dialogue: 0,0:00:9.39,0:00:9.47,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:9.47,0:00:9.97,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi {\1c&HFF00&\u1}prendi{\r} le medicine, per favore?
+Dialogue: 0,0:00:9.97,0:00:10.09,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:10.09,0:00:10.17,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi {\1c&HFF00&\u1}le{\r} medicine, per favore?
+Dialogue: 0,0:00:10.17,0:00:10.21,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:10.21,0:00:10.77,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le {\1c&HFF00&\u1}medicine,{\r} per favore?
+Dialogue: 0,0:00:10.77,0:00:10.79,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:10.79,0:00:10.85,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, {\1c&HFF00&\u1}per{\r} favore?
+Dialogue: 0,0:00:10.85,0:00:11.11,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per favore?
+Dialogue: 0,0:00:11.11,0:00:11.44,Default,,0,0,0,,Per esempio, andiamo in gelateria, vai in farmacia, mi prendi le medicine, per {\1c&HFF00&\u1}favore?{\r}
+Dialogue: 0,0:00:13.74,0:00:13.88,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:13.88,0:00:13.92,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:13.92,0:00:14.92,Default,,0,0,0,,E {\1c&HFF00&\u1}numero 5,{\r} usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:14.92,0:00:15.43,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:15.43,0:00:16.09,Default,,0,0,0,,E numero 5, {\1c&HFF00&\u1}usiamo{\r} IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:16.09,0:00:16.45,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:16.45,0:00:16.87,Default,,0,0,0,,E numero 5, usiamo {\1c&HFF00&\u1}IN{\r} con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:16.87,0:00:17.35,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:17.35,0:00:17.51,Default,,0,0,0,,E numero 5, usiamo IN {\1c&HFF00&\u1}con{\r} i mezzi di trasporto, ok?
+Dialogue: 0,0:00:17.51,0:00:17.55,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:17.55,0:00:17.59,Default,,0,0,0,,E numero 5, usiamo IN con {\1c&HFF00&\u1}i{\r} mezzi di trasporto, ok?
+Dialogue: 0,0:00:17.59,0:00:17.65,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:17.65,0:00:18.17,Default,,0,0,0,,E numero 5, usiamo IN con i {\1c&HFF00&\u1}mezzi{\r} di trasporto, ok?
+Dialogue: 0,0:00:18.17,0:00:18.45,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:18.45,0:00:18.55,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi {\1c&HFF00&\u1}di{\r} trasporto, ok?
+Dialogue: 0,0:00:18.55,0:00:18.61,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:18.61,0:00:19.45,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di {\1c&HFF00&\u1}trasporto,{\r} ok?
+Dialogue: 0,0:00:19.45,0:00:20.14,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, ok?
+Dialogue: 0,0:00:20.14,0:00:20.24,Default,,0,0,0,,E numero 5, usiamo IN con i mezzi di trasporto, {\1c&HFF00&\u1}ok?{\r}
+Dialogue: 0,0:00:20.00,0:00:20.04,Default,,0,0,0,,{\1c&HFF00&\u1}Sì,{\r} come mezzo per arrivare.
+Dialogue: 0,0:00:20.04,0:00:20.06,Default,,0,0,0,,Sì, come mezzo per arrivare.
+Dialogue: 0,0:00:20.06,0:00:20.14,Default,,0,0,0,,Sì, {\1c&HFF00&\u1}come{\r} mezzo per arrivare.
+Dialogue: 0,0:00:20.14,0:00:20.16,Default,,0,0,0,,Sì, come mezzo per arrivare.
+Dialogue: 0,0:00:20.16,0:00:20.26,Default,,0,0,0,,Sì, come {\1c&HFF00&\u1}mezzo{\r} per arrivare.
+Dialogue: 0,0:00:20.26,0:00:20.28,Default,,0,0,0,,Sì, come mezzo per arrivare.
+Dialogue: 0,0:00:20.28,0:00:20.34,Default,,0,0,0,,Sì, come mezzo {\1c&HFF00&\u1}per{\r} arrivare.
+Dialogue: 0,0:00:20.34,0:00:20.36,Default,,0,0,0,,Sì, come mezzo per arrivare.
+Dialogue: 0,0:00:20.36,0:00:20.52,Default,,0,0,0,,Sì, come mezzo per {\1c&HFF00&\u1}arrivare.{\r}
+Dialogue: 0,0:00:23.68,0:00:23.72,Default,,0,0,0,,{\1c&HFF00&\u1}O{\r} come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:23.72,0:00:23.80,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:23.80,0:00:24.00,Default,,0,0,0,,O {\1c&HFF00&\u1}come{\r} è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:24.00,0:00:24.02,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:24.02,0:00:24.04,Default,,0,0,0,,O come {\1c&HFF00&\u1}è{\r} stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:24.04,0:00:24.20,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:24.20,0:00:24.70,Default,,0,0,0,,O come è {\1c&HFF00&\u1}stato{\r} il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:24.70,0:00:24.86,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:24.86,0:00:24.98,Default,,0,0,0,,O come è stato {\1c&HFF00&\u1}il{\r} luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:24.98,0:00:25.10,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:25.10,0:00:25.64,Default,,0,0,0,,O come è stato il {\1c&HFF00&\u1}luogo?{\r} In questo momento sono in autobus.
+Dialogue: 0,0:00:25.64,0:00:25.98,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:25.98,0:00:26.06,Default,,0,0,0,,O come è stato il luogo? {\1c&HFF00&\u1}In{\r} questo momento sono in autobus.
+Dialogue: 0,0:00:26.06,0:00:26.12,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:26.12,0:00:26.44,Default,,0,0,0,,O come è stato il luogo? In {\1c&HFF00&\u1}questo{\r} momento sono in autobus.
+Dialogue: 0,0:00:26.44,0:00:26.52,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:26.52,0:00:27.16,Default,,0,0,0,,O come è stato il luogo? In questo {\1c&HFF00&\u1}momento{\r} sono in autobus.
+Dialogue: 0,0:00:27.16,0:00:27.48,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:27.48,0:00:27.99,Default,,0,0,0,,O come è stato il luogo? In questo momento {\1c&HFF00&\u1}sono{\r} in autobus.
+Dialogue: 0,0:00:27.99,0:00:28.35,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:28.35,0:00:28.67,Default,,0,0,0,,O come è stato il luogo? In questo momento sono {\1c&HFF00&\u1}in{\r} autobus.
+Dialogue: 0,0:00:28.67,0:00:28.89,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in autobus.
+Dialogue: 0,0:00:28.89,0:00:29.49,Default,,0,0,0,,O come è stato il luogo? In questo momento sono in {\1c&HFF00&\u1}autobus.{\r}

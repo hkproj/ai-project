@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.30,0:00:0.60,Default,,0,0,0,,{\1c&HFF00&\u1}Abito{\r} mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:0.60,0:00:0.84,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:0.84,0:00:0.96,Default,,0,0,0,,Abito {\1c&HFF00&\u1}mmh{\r} mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:0.96,0:00:1.08,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:1.08,0:00:1.62,Default,,0,0,0,,Abito mmh {\1c&HFF00&\u1}mmh{\r} Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:1.62,0:00:1.64,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:1.64,0:00:2.14,Default,,0,0,0,,Abito mmh mmh {\1c&HFF00&\u1}Italia{\r} mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:2.14,0:00:2.16,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:2.16,0:00:2.71,Default,,0,0,0,,Abito mmh mmh Italia {\1c&HFF00&\u1}mmh{\r} mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:2.71,0:00:2.95,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:2.95,0:00:3.09,Default,,0,0,0,,Abito mmh mmh Italia mmh {\1c&HFF00&\u1}mmh{\r} Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:3.09,0:00:3.37,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:3.37,0:00:3.87,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh {\1c&HFF00&\u1}Milano{\r} mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:3.87,0:00:3.89,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:3.89,0:00:4.07,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano {\1c&HFF00&\u1}mmh{\r} mmh via Garibaldi 55
+Dialogue: 0,0:00:4.07,0:00:4.27,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:4.27,0:00:4.85,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh {\1c&HFF00&\u1}mmh{\r} via Garibaldi 55
+Dialogue: 0,0:00:4.85,0:00:5.37,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:5.37,0:00:5.67,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh {\1c&HFF00&\u1}via{\r} Garibaldi 55
+Dialogue: 0,0:00:5.67,0:00:5.77,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via Garibaldi 55
+Dialogue: 0,0:00:5.77,0:00:6.43,Default,,0,0,0,,Abito mmh mmh Italia mmh mmh Milano mmh mmh via {\1c&HFF00&\u1}Garibaldi 55{\r}
+Dialogue: 0,0:00:7.96,0:00:8.64,Default,,0,0,0,,{\1c&HFF00&\u1}pensate{\r} a o in
+Dialogue: 0,0:00:8.64,0:00:8.71,Default,,0,0,0,,pensate a o in
+Dialogue: 0,0:00:8.71,0:00:8.73,Default,,0,0,0,,pensate {\1c&HFF00&\u1}a{\r} o in
+Dialogue: 0,0:00:8.73,0:00:8.87,Default,,0,0,0,,pensate a o in
+Dialogue: 0,0:00:8.87,0:00:8.99,Default,,0,0,0,,pensate a {\1c&HFF00&\u1}o{\r} in
+Dialogue: 0,0:00:8.99,0:00:9.07,Default,,0,0,0,,pensate a o in
+Dialogue: 0,0:00:9.07,0:00:9.11,Default,,0,0,0,,pensate a o {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:10.08,0:00:10.54,Default,,0,0,0,,{\1c&HFF00&\u1}Siete{\r} pronti?
+Dialogue: 0,0:00:10.54,0:00:10.56,Default,,0,0,0,,Siete pronti?
+Dialogue: 0,0:00:10.56,0:00:10.74,Default,,0,0,0,,Siete {\1c&HFF00&\u1}pronti?{\r}

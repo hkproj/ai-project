@@ -1,0 +1,69 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.74,Default,,0,0,0,,{\1c&HFF00&\u1}Queste{\r} sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:0.74,0:00:0.88,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:0.88,0:00:1.20,Default,,0,0,0,,Queste {\1c&HFF00&\u1}sono{\r} le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:1.20,0:00:1.28,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:1.28,0:00:1.38,Default,,0,0,0,,Queste sono {\1c&HFF00&\u1}le{\r} regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:1.38,0:00:1.48,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:1.48,0:00:1.98,Default,,0,0,0,,Queste sono le {\1c&HFF00&\u1}regole{\r} per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:1.98,0:00:2.18,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:2.18,0:00:2.34,Default,,0,0,0,,Queste sono le regole {\1c&HFF00&\u1}per{\r} usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:2.34,0:00:2.44,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:2.44,0:00:2.98,Default,,0,0,0,,Queste sono le regole per {\1c&HFF00&\u1}usare{\r} a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:2.98,0:00:3.58,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:3.58,0:00:3.68,Default,,0,0,0,,Queste sono le regole per usare {\1c&HFF00&\u1}a.{\r} Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:3.68,0:00:4.53,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:4.53,0:00:4.93,Default,,0,0,0,,Queste sono le regole per usare a. {\1c&HFF00&\u1}Adesso{\r} vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:4.93,0:00:5.03,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:5.03,0:00:5.75,Default,,0,0,0,,Queste sono le regole per usare a. Adesso {\1c&HFF00&\u1}vediamo{\r} le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:5.75,0:00:5.83,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:5.83,0:00:7.09,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo {\1c&HFF00&\u1}le 5{\r} regole per usare in. Usiamo in
+Dialogue: 0,0:00:7.09,0:00:7.75,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:7.75,0:00:8.21,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 {\1c&HFF00&\u1}regole{\r} per usare in. Usiamo in
+Dialogue: 0,0:00:8.21,0:00:8.51,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:8.51,0:00:8.71,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole {\1c&HFF00&\u1}per{\r} usare in. Usiamo in
+Dialogue: 0,0:00:8.71,0:00:8.81,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:8.81,0:00:9.31,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per {\1c&HFF00&\u1}usare{\r} in. Usiamo in
+Dialogue: 0,0:00:9.31,0:00:10.01,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:10.01,0:00:10.39,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare {\1c&HFF00&\u1}in.{\r} Usiamo in
+Dialogue: 0,0:00:10.39,0:00:12.02,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:12.02,0:00:12.38,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. {\1c&HFF00&\u1}Usiamo{\r} in
+Dialogue: 0,0:00:12.38,0:00:12.70,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo in
+Dialogue: 0,0:00:12.70,0:00:12.90,Default,,0,0,0,,Queste sono le regole per usare a. Adesso vediamo le 5 regole per usare in. Usiamo {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:13.44,0:00:13.60,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:13.60,0:00:13.68,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:13.68,0:00:13.74,Default,,0,0,0,,con {\1c&HFF00&\u1}i{\r} nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:13.74,0:00:13.84,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:13.84,0:00:14.34,Default,,0,0,0,,con i {\1c&HFF00&\u1}nomi{\r} di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:14.34,0:00:14.52,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:14.52,0:00:14.72,Default,,0,0,0,,con i nomi {\1c&HFF00&\u1}di{\r} nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:14.72,0:00:15.62,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:15.62,0:00:16.53,Default,,0,0,0,,con i nomi di {\1c&HFF00&\u1}nazioni,{\r} regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:16.53,0:00:17.61,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:17.61,0:00:18.35,Default,,0,0,0,,con i nomi di nazioni, {\1c&HFF00&\u1}regioni{\r} e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:18.35,0:00:18.37,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:18.37,0:00:18.39,Default,,0,0,0,,con i nomi di nazioni, regioni {\1c&HFF00&\u1}e{\r} continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:18.39,0:00:19.25,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:19.25,0:00:20.31,Default,,0,0,0,,con i nomi di nazioni, regioni e {\1c&HFF00&\u1}continenti.{\r} Per esempio, vado in Italia.
+Dialogue: 0,0:00:20.31,0:00:21.94,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:21.94,0:00:22.22,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. {\1c&HFF00&\u1}Per{\r} esempio, vado in Italia.
+Dialogue: 0,0:00:22.22,0:00:22.30,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:22.30,0:00:23.00,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per {\1c&HFF00&\u1}esempio,{\r} vado in Italia.
+Dialogue: 0,0:00:23.00,0:00:23.94,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:23.94,0:00:24.44,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, {\1c&HFF00&\u1}vado{\r} in Italia.
+Dialogue: 0,0:00:24.44,0:00:25.06,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:25.06,0:00:25.46,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado {\1c&HFF00&\u1}in{\r} Italia.
+Dialogue: 0,0:00:25.46,0:00:25.84,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in Italia.
+Dialogue: 0,0:00:25.84,0:00:26.42,Default,,0,0,0,,con i nomi di nazioni, regioni e continenti. Per esempio, vado in {\1c&HFF00&\u1}Italia.{\r}

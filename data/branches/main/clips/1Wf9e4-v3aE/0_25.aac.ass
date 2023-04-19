@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.26,0:00:0.28,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} una città, o Giulia va a New York
+Dialogue: 0,0:00:0.28,0:00:0.32,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:0.32,0:00:0.48,Default,,0,0,0,,è {\1c&HFF00&\u1}una{\r} città, o Giulia va a New York
+Dialogue: 0,0:00:0.48,0:00:0.52,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:0.52,0:00:0.88,Default,,0,0,0,,è una {\1c&HFF00&\u1}città,{\r} o Giulia va a New York
+Dialogue: 0,0:00:0.88,0:00:1.67,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:1.67,0:00:2.17,Default,,0,0,0,,è una città, {\1c&HFF00&\u1}o{\r} Giulia va a New York
+Dialogue: 0,0:00:2.17,0:00:3.49,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:3.49,0:00:4.03,Default,,0,0,0,,è una città, o {\1c&HFF00&\u1}Giulia{\r} va a New York
+Dialogue: 0,0:00:4.03,0:00:4.45,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:4.45,0:00:4.71,Default,,0,0,0,,è una città, o Giulia {\1c&HFF00&\u1}va{\r} a New York
+Dialogue: 0,0:00:4.71,0:00:5.16,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:5.16,0:00:5.28,Default,,0,0,0,,è una città, o Giulia va {\1c&HFF00&\u1}a{\r} New York
+Dialogue: 0,0:00:5.28,0:00:5.42,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:5.42,0:00:5.58,Default,,0,0,0,,è una città, o Giulia va a {\1c&HFF00&\u1}New{\r} York
+Dialogue: 0,0:00:5.58,0:00:5.72,Default,,0,0,0,,è una città, o Giulia va a New York
+Dialogue: 0,0:00:5.72,0:00:6.18,Default,,0,0,0,,è una città, o Giulia va a New {\1c&HFF00&\u1}York{\r}
