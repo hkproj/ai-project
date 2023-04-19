@@ -1,0 +1,24 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.18,0:00:1.06,Default,,0,0,0,,{\1c&HFF00&\u1}continente{\r} o loro vanno in Africa
+Dialogue: 0,0:00:1.06,0:00:1.80,Default,,0,0,0,,continente o loro vanno in Africa
+Dialogue: 0,0:00:1.80,0:00:2.20,Default,,0,0,0,,continente {\1c&HFF00&\u1}o{\r} loro vanno in Africa
+Dialogue: 0,0:00:2.20,0:00:2.90,Default,,0,0,0,,continente o loro vanno in Africa
+Dialogue: 0,0:00:2.90,0:00:3.36,Default,,0,0,0,,continente o {\1c&HFF00&\u1}loro{\r} vanno in Africa
+Dialogue: 0,0:00:3.36,0:00:3.94,Default,,0,0,0,,continente o loro vanno in Africa
+Dialogue: 0,0:00:3.94,0:00:4.56,Default,,0,0,0,,continente o loro {\1c&HFF00&\u1}vanno{\r} in Africa
+Dialogue: 0,0:00:4.56,0:00:4.82,Default,,0,0,0,,continente o loro vanno in Africa
+Dialogue: 0,0:00:4.82,0:00:4.96,Default,,0,0,0,,continente o loro vanno {\1c&HFF00&\u1}in{\r} Africa
+Dialogue: 0,0:00:4.96,0:00:5.18,Default,,0,0,0,,continente o loro vanno in Africa
+Dialogue: 0,0:00:5.18,0:00:5.68,Default,,0,0,0,,continente o loro vanno in {\1c&HFF00&\u1}Africa{\r}

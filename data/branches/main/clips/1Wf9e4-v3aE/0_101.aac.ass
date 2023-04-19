@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:1.50,Default,,0,0,0,,{\1c&HFF00&\u1}all'infinito{\r} e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:1.50,0:00:1.54,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:1.54,0:00:1.76,Default,,0,0,0,,all'infinito {\1c&HFF00&\u1}e{\r} con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:1.76,0:00:1.80,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:1.80,0:00:2.12,Default,,0,0,0,,all'infinito e {\1c&HFF00&\u1}con{\r} i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:2.12,0:00:2.32,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:2.32,0:00:2.36,Default,,0,0,0,,all'infinito e con {\1c&HFF00&\u1}i{\r} pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:2.36,0:00:2.44,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:2.44,0:00:3.04,Default,,0,0,0,,all'infinito e con i {\1c&HFF00&\u1}pasti{\r} colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:3.04,0:00:3.54,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:3.54,0:00:4.29,Default,,0,0,0,,all'infinito e con i pasti {\1c&HFF00&\u1}colazione{\r} pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:4.29,0:00:4.67,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:4.67,0:00:5.19,Default,,0,0,0,,all'infinito e con i pasti colazione {\1c&HFF00&\u1}pranzo{\r} merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:5.19,0:00:5.47,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:5.47,0:00:6.05,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo {\1c&HFF00&\u1}merenda{\r} e cena si usa IN con i nomi di
+Dialogue: 0,0:00:6.05,0:00:6.35,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:6.35,0:00:6.39,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda {\1c&HFF00&\u1}e{\r} cena si usa IN con i nomi di
+Dialogue: 0,0:00:6.39,0:00:6.49,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:6.49,0:00:6.75,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e {\1c&HFF00&\u1}cena{\r} si usa IN con i nomi di
+Dialogue: 0,0:00:6.75,0:00:7.59,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:7.59,0:00:7.69,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena {\1c&HFF00&\u1}si{\r} usa IN con i nomi di
+Dialogue: 0,0:00:7.69,0:00:7.79,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:7.79,0:00:7.99,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si {\1c&HFF00&\u1}usa{\r} IN con i nomi di
+Dialogue: 0,0:00:7.99,0:00:8.29,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:8.29,0:00:8.69,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa {\1c&HFF00&\u1}IN{\r} con i nomi di
+Dialogue: 0,0:00:8.69,0:00:9.23,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:9.23,0:00:9.43,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN {\1c&HFF00&\u1}con{\r} i nomi di
+Dialogue: 0,0:00:9.43,0:00:9.49,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:9.49,0:00:9.51,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con {\1c&HFF00&\u1}i{\r} nomi di
+Dialogue: 0,0:00:9.51,0:00:9.63,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:9.63,0:00:9.93,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i {\1c&HFF00&\u1}nomi{\r} di
+Dialogue: 0,0:00:9.93,0:00:9.95,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi di
+Dialogue: 0,0:00:9.95,0:00:9.99,Default,,0,0,0,,all'infinito e con i pasti colazione pranzo merenda e cena si usa IN con i nomi {\1c&HFF00&\u1}di{\r}

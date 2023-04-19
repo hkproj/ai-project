@@ -1,0 +1,187 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.42,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}i{\r} mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:0.48,0:00:0.52,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:0.52,0:00:0.86,Default,,0,0,0,,i {\1c&HFF00&\u1}mezzi{\r} di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:0.86,0:00:0.90,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:0.90,0:00:1.00,Default,,0,0,0,,i mezzi {\1c&HFF00&\u1}di{\r} trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:1.00,0:00:1.06,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:1.06,0:00:1.80,Default,,0,0,0,,i mezzi di {\1c&HFF00&\u1}trasporto,{\r} in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:1.80,0:00:2.24,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:2.24,0:00:2.36,Default,,0,0,0,,i mezzi di trasporto, {\1c&HFF00&\u1}in{\r} treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:2.36,0:00:2.46,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:2.46,0:00:2.88,Default,,0,0,0,,i mezzi di trasporto, in {\1c&HFF00&\u1}treno,{\r} in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:2.88,0:00:3.45,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:3.45,0:00:3.57,Default,,0,0,0,,i mezzi di trasporto, in treno, {\1c&HFF00&\u1}in{\r} autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:3.57,0:00:3.73,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:3.73,0:00:4.45,Default,,0,0,0,,i mezzi di trasporto, in treno, in {\1c&HFF00&\u1}autobus.{\r} Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:4.45,0:00:5.63,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:5.63,0:00:6.19,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. {\1c&HFF00&\u1}Ma{\r} con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:6.19,0:00:7.05,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:7.05,0:00:7.27,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma {\1c&HFF00&\u1}con{\r} tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:7.27,0:00:7.45,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:7.45,0:00:7.85,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con {\1c&HFF00&\u1}tutte{\r} le altre parole che cosa si usa?
+Dialogue: 0,0:00:7.85,0:00:7.91,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:7.91,0:00:8.01,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte {\1c&HFF00&\u1}le{\r} altre parole che cosa si usa?
+Dialogue: 0,0:00:8.01,0:00:8.09,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:8.09,0:00:8.49,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le {\1c&HFF00&\u1}altre{\r} parole che cosa si usa?
+Dialogue: 0,0:00:8.49,0:00:8.57,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:8.57,0:00:9.07,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre {\1c&HFF00&\u1}parole{\r} che cosa si usa?
+Dialogue: 0,0:00:9.07,0:00:9.34,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:9.34,0:00:9.42,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole {\1c&HFF00&\u1}che{\r} cosa si usa?
+Dialogue: 0,0:00:9.42,0:00:9.54,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:9.54,0:00:9.78,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che {\1c&HFF00&\u1}cosa{\r} si usa?
+Dialogue: 0,0:00:9.78,0:00:9.84,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:9.84,0:00:9.92,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa {\1c&HFF00&\u1}si{\r} usa?
+Dialogue: 0,0:00:9.92,0:00:10.06,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si usa?
+Dialogue: 0,0:00:10.06,0:00:10.30,Default,,0,0,0,,i mezzi di trasporto, in treno, in autobus. Ma con tutte le altre parole che cosa si {\1c&HFF00&\u1}usa?{\r}
+Dialogue: 0,0:00:10.28,0:00:10.34,Default,,0,0,0,,{\1c&HFF00&\u1}Con{\r} tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.34,0:00:10.36,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.36,0:00:10.46,Default,,0,0,0,,Con {\1c&HFF00&\u1}tutti{\r} gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.46,0:00:10.48,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.48,0:00:10.54,Default,,0,0,0,,Con tutti {\1c&HFF00&\u1}gli{\r} altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.54,0:00:10.56,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.56,0:00:10.66,Default,,0,0,0,,Con tutti gli {\1c&HFF00&\u1}altri{\r} posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.66,0:00:10.68,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.68,0:00:10.78,Default,,0,0,0,,Con tutti gli altri {\1c&HFF00&\u1}posti{\r} che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.78,0:00:10.80,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.80,0:00:10.86,Default,,0,0,0,,Con tutti gli altri posti {\1c&HFF00&\u1}che{\r} cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.86,0:00:10.88,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.88,0:00:10.96,Default,,0,0,0,,Con tutti gli altri posti che {\1c&HFF00&\u1}cosa{\r} si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.96,0:00:10.98,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:10.98,0:00:11.02,Default,,0,0,0,,Con tutti gli altri posti che cosa {\1c&HFF00&\u1}si{\r} usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.02,0:00:11.04,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.04,0:00:11.10,Default,,0,0,0,,Con tutti gli altri posti che cosa si {\1c&HFF00&\u1}usa?{\r} Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.10,0:00:11.12,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.12,0:00:11.16,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? {\1c&HFF00&\u1}Si{\r} usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.16,0:00:11.18,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.18,0:00:11.24,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si {\1c&HFF00&\u1}usa{\r} a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.24,0:00:11.26,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.26,0:00:11.28,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa {\1c&HFF00&\u1}a{\r} o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.28,0:00:11.30,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.30,0:00:11.32,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a {\1c&HFF00&\u1}o{\r} si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.32,0:00:11.34,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.34,0:00:11.38,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o {\1c&HFF00&\u1}si{\r} usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.38,0:00:11.40,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.40,0:00:11.46,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si {\1c&HFF00&\u1}usa{\r} in? Purtroppo, amici di
+Dialogue: 0,0:00:11.46,0:00:11.48,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.48,0:00:11.52,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa {\1c&HFF00&\u1}in?{\r} Purtroppo, amici di
+Dialogue: 0,0:00:11.52,0:00:11.54,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.54,0:00:11.72,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? {\1c&HFF00&\u1}Purtroppo,{\r} amici di
+Dialogue: 0,0:00:11.72,0:00:11.74,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.74,0:00:11.84,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, {\1c&HFF00&\u1}amici{\r} di
+Dialogue: 0,0:00:11.84,0:00:11.88,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici di
+Dialogue: 0,0:00:11.88,0:00:11.92,Default,,0,0,0,,Con tutti gli altri posti che cosa si usa? Si usa a o si usa in? Purtroppo, amici {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:20.54,0:00:20.92,Default,,0,0,0,,{\1c&HFF00&\u1}passione{\r} italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:20.92,0:00:21.04,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:21.04,0:00:21.66,Default,,0,0,0,,passione {\1c&HFF00&\u1}italiana,{\r} non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:21.66,0:00:21.98,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:21.98,0:00:22.28,Default,,0,0,0,,passione italiana, {\1c&HFF00&\u1}non{\r} c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:22.28,0:00:22.48,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:22.48,0:00:22.70,Default,,0,0,0,,passione italiana, non {\1c&HFF00&\u1}c'è{\r} una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:22.70,0:00:23.15,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:23.15,0:00:23.35,Default,,0,0,0,,passione italiana, non c'è {\1c&HFF00&\u1}una{\r} regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:23.35,0:00:23.43,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:23.43,0:00:23.95,Default,,0,0,0,,passione italiana, non c'è una {\1c&HFF00&\u1}regola{\r} per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:23.95,0:00:24.13,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:24.13,0:00:24.29,Default,,0,0,0,,passione italiana, non c'è una regola {\1c&HFF00&\u1}per{\r} le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:24.29,0:00:24.39,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:24.39,0:00:24.47,Default,,0,0,0,,passione italiana, non c'è una regola per {\1c&HFF00&\u1}le{\r} altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:24.47,0:00:24.53,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:24.53,0:00:24.99,Default,,0,0,0,,passione italiana, non c'è una regola per le {\1c&HFF00&\u1}altre{\r} parole. Qualche volta si usa a e
+Dialogue: 0,0:00:24.99,0:00:25.23,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:25.23,0:00:25.61,Default,,0,0,0,,passione italiana, non c'è una regola per le altre {\1c&HFF00&\u1}parole.{\r} Qualche volta si usa a e
+Dialogue: 0,0:00:25.61,0:00:26.45,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:26.45,0:00:26.81,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. {\1c&HFF00&\u1}Qualche{\r} volta si usa a e
+Dialogue: 0,0:00:26.81,0:00:26.87,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:26.87,0:00:27.27,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche {\1c&HFF00&\u1}volta{\r} si usa a e
+Dialogue: 0,0:00:27.27,0:00:27.37,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:27.37,0:00:27.45,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta {\1c&HFF00&\u1}si{\r} usa a e
+Dialogue: 0,0:00:27.45,0:00:27.51,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:27.51,0:00:27.67,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si {\1c&HFF00&\u1}usa{\r} a e
+Dialogue: 0,0:00:27.67,0:00:27.88,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:27.88,0:00:27.98,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa {\1c&HFF00&\u1}a{\r} e
+Dialogue: 0,0:00:27.98,0:00:28.42,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a e
+Dialogue: 0,0:00:28.42,0:00:28.44,Default,,0,0,0,,passione italiana, non c'è una regola per le altre parole. Qualche volta si usa a {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:28.42,0:00:28.48,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:28.48,0:00:28.56,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:28.56,0:00:28.84,Default,,0,0,0,,e {\1c&HFF00&\u1}qualche{\r} volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:28.84,0:00:28.90,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:28.90,0:00:29.28,Default,,0,0,0,,e qualche {\1c&HFF00&\u1}volta{\r} si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:29.28,0:00:29.40,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:29.40,0:00:29.48,Default,,0,0,0,,e qualche volta {\1c&HFF00&\u1}si{\r} usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:29.48,0:00:29.58,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:29.58,0:00:29.78,Default,,0,0,0,,e qualche volta si {\1c&HFF00&\u1}usa{\r} IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:29.78,0:00:30.08,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:30.08,0:00:30.36,Default,,0,0,0,,e qualche volta si usa {\1c&HFF00&\u1}IN,{\r} ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:30.36,0:00:31.46,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:31.46,0:00:31.77,Default,,0,0,0,,e qualche volta si usa IN, {\1c&HFF00&\u1}ma{\r} vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:31.77,0:00:32.31,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:32.31,0:00:32.83,Default,,0,0,0,,e qualche volta si usa IN, ma {\1c&HFF00&\u1}vorrei{\r} darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:32.83,0:00:32.93,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:32.93,0:00:33.51,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei {\1c&HFF00&\u1}darvi{\r} un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:33.51,0:00:33.83,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:33.83,0:00:33.95,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi {\1c&HFF00&\u1}un{\r} piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:33.95,0:00:34.07,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:34.07,0:00:34.63,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un {\1c&HFF00&\u1}piccolo{\r} aiuto, quello che dico adesso non
+Dialogue: 0,0:00:34.63,0:00:34.95,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:34.95,0:00:35.61,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo {\1c&HFF00&\u1}aiuto,{\r} quello che dico adesso non
+Dialogue: 0,0:00:35.61,0:00:36.57,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:36.57,0:00:36.93,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, {\1c&HFF00&\u1}quello{\r} che dico adesso non
+Dialogue: 0,0:00:36.93,0:00:36.97,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:36.97,0:00:37.07,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello {\1c&HFF00&\u1}che{\r} dico adesso non
+Dialogue: 0,0:00:37.07,0:00:37.15,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:37.15,0:00:37.47,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che {\1c&HFF00&\u1}dico{\r} adesso non
+Dialogue: 0,0:00:37.47,0:00:37.61,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:37.61,0:00:38.08,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico {\1c&HFF00&\u1}adesso{\r} non
+Dialogue: 0,0:00:38.08,0:00:38.50,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso non
+Dialogue: 0,0:00:38.50,0:00:38.94,Default,,0,0,0,,e qualche volta si usa IN, ma vorrei darvi un piccolo aiuto, quello che dico adesso {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:39.58,0:00:39.96,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:39.96,0:00:39.98,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:39.98,0:00:40.26,Default,,0,0,0,,è {\1c&HFF00&\u1}una{\r} regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:40.26,0:00:40.36,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:40.36,0:00:41.00,Default,,0,0,0,,è una {\1c&HFF00&\u1}regola{\r} assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:41.00,0:00:41.36,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:41.36,0:00:42.49,Default,,0,0,0,,è una regola {\1c&HFF00&\u1}assolutamente,{\r} è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:42.49,0:00:42.99,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:42.99,0:00:43.05,Default,,0,0,0,,è una regola assolutamente, {\1c&HFF00&\u1}è{\r} solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:43.05,0:00:43.19,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:43.19,0:00:43.53,Default,,0,0,0,,è una regola assolutamente, è {\1c&HFF00&\u1}solo{\r} un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:43.53,0:00:43.65,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:43.65,0:00:43.75,Default,,0,0,0,,è una regola assolutamente, è solo {\1c&HFF00&\u1}un{\r} piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:43.75,0:00:43.83,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:43.83,0:00:44.23,Default,,0,0,0,,è una regola assolutamente, è solo un {\1c&HFF00&\u1}piccolo{\r} aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:44.23,0:00:44.41,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:44.41,0:00:44.93,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo {\1c&HFF00&\u1}aiuto,{\r} non è una regola e quindi non funziona
+Dialogue: 0,0:00:44.93,0:00:45.63,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:45.63,0:00:45.75,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, {\1c&HFF00&\u1}non{\r} è una regola e quindi non funziona
+Dialogue: 0,0:00:45.75,0:00:45.85,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:45.85,0:00:45.91,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non {\1c&HFF00&\u1}è{\r} una regola e quindi non funziona
+Dialogue: 0,0:00:45.91,0:00:46.01,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:46.01,0:00:46.17,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è {\1c&HFF00&\u1}una{\r} regola e quindi non funziona
+Dialogue: 0,0:00:46.17,0:00:46.25,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:46.25,0:00:46.75,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una {\1c&HFF00&\u1}regola{\r} e quindi non funziona
+Dialogue: 0,0:00:46.75,0:00:46.97,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:46.97,0:00:47.03,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola {\1c&HFF00&\u1}e{\r} quindi non funziona
+Dialogue: 0,0:00:47.03,0:00:47.19,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:47.19,0:00:47.61,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e {\1c&HFF00&\u1}quindi{\r} non funziona
+Dialogue: 0,0:00:47.61,0:00:47.75,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:47.75,0:00:47.92,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi {\1c&HFF00&\u1}non{\r} funziona
+Dialogue: 0,0:00:47.92,0:00:48.08,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non funziona
+Dialogue: 0,0:00:48.08,0:00:48.82,Default,,0,0,0,,è una regola assolutamente, è solo un piccolo aiuto, non è una regola e quindi non {\1c&HFF00&\u1}funziona{\r}
+Dialogue: 0,0:00:49.16,0:00:50.19,Default,,0,0,0,,{\1c&HFF00&\u1}sempre,{\r} ma usiamo...
+Dialogue: 0,0:00:50.19,0:00:50.23,Default,,0,0,0,,sempre, ma usiamo...
+Dialogue: 0,0:00:50.23,0:00:50.31,Default,,0,0,0,,sempre, {\1c&HFF00&\u1}ma{\r} usiamo...
+Dialogue: 0,0:00:50.31,0:00:50.97,Default,,0,0,0,,sempre, ma usiamo...
+Dialogue: 0,0:00:50.97,0:00:51.34,Default,,0,0,0,,sempre, ma {\1c&HFF00&\u1}usiamo...{\r}

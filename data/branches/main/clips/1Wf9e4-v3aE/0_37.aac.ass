@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.32,0:00:0.72,Default,,0,0,0,,{\1c&HFF00&\u1}Vado{\r} a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,Vado {\1c&HFF00&\u1}a{\r} pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:0.82,0:00:0.92,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:0.92,0:00:1.58,Default,,0,0,0,,Vado a {\1c&HFF00&\u1}pranzo{\r} con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:1.58,0:00:2.29,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:2.29,0:00:2.49,Default,,0,0,0,,Vado a pranzo {\1c&HFF00&\u1}con{\r} Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:2.49,0:00:2.63,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:2.63,0:00:2.97,Default,,0,0,0,,Vado a pranzo con {\1c&HFF00&\u1}Nina{\r} o dove vai a cena, per esempio.
+Dialogue: 0,0:00:2.97,0:00:4.61,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:4.61,0:00:5.11,Default,,0,0,0,,Vado a pranzo con Nina {\1c&HFF00&\u1}o{\r} dove vai a cena, per esempio.
+Dialogue: 0,0:00:5.11,0:00:6.05,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:6.05,0:00:6.54,Default,,0,0,0,,Vado a pranzo con Nina o {\1c&HFF00&\u1}dove{\r} vai a cena, per esempio.
+Dialogue: 0,0:00:6.54,0:00:6.72,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:6.72,0:00:7.24,Default,,0,0,0,,Vado a pranzo con Nina o dove {\1c&HFF00&\u1}vai{\r} a cena, per esempio.
+Dialogue: 0,0:00:7.24,0:00:7.66,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:7.66,0:00:7.74,Default,,0,0,0,,Vado a pranzo con Nina o dove vai {\1c&HFF00&\u1}a{\r} cena, per esempio.
+Dialogue: 0,0:00:7.74,0:00:7.94,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:7.94,0:00:8.34,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a {\1c&HFF00&\u1}cena,{\r} per esempio.
+Dialogue: 0,0:00:8.34,0:00:9.04,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:9.04,0:00:9.22,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, {\1c&HFF00&\u1}per{\r} esempio.
+Dialogue: 0,0:00:9.22,0:00:9.24,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per esempio.
+Dialogue: 0,0:00:9.24,0:00:9.68,Default,,0,0,0,,Vado a pranzo con Nina o dove vai a cena, per {\1c&HFF00&\u1}esempio.{\r}

@@ -1,0 +1,101 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:2.33,Default,,0,0,0,,{\1c&HFF00&\u1}vado{\r} in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.33,0:00:2.35,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.35,0:00:2.39,Default,,0,0,0,,vado {\1c&HFF00&\u1}in{\r} stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.39,0:00:2.41,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.41,0:00:2.61,Default,,0,0,0,,vado in {\1c&HFF00&\u1}stazione.{\r} Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.61,0:00:2.63,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.63,0:00:2.69,Default,,0,0,0,,vado in stazione. {\1c&HFF00&\u1}Non{\r} è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.69,0:00:2.71,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.71,0:00:2.73,Default,,0,0,0,,vado in stazione. Non {\1c&HFF00&\u1}è{\r} una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.73,0:00:2.77,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.77,0:00:2.89,Default,,0,0,0,,vado in stazione. Non è {\1c&HFF00&\u1}una{\r} regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.89,0:00:2.93,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:2.93,0:00:3.33,Default,,0,0,0,,vado in stazione. Non è una {\1c&HFF00&\u1}regola{\r} ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.33,0:00:3.43,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.43,0:00:3.53,Default,,0,0,0,,vado in stazione. Non è una regola {\1c&HFF00&\u1}ma{\r} è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.53,0:00:3.57,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.57,0:00:3.65,Default,,0,0,0,,vado in stazione. Non è una regola ma {\1c&HFF00&\u1}è{\r} un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.65,0:00:3.71,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.71,0:00:3.79,Default,,0,0,0,,vado in stazione. Non è una regola ma è {\1c&HFF00&\u1}un{\r} piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.79,0:00:3.85,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:3.85,0:00:4.17,Default,,0,0,0,,vado in stazione. Non è una regola ma è un {\1c&HFF00&\u1}piccolo{\r} aiuto questo delle parole femminili
+Dialogue: 0,0:00:4.17,0:00:4.25,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:4.25,0:00:4.75,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo {\1c&HFF00&\u1}aiuto{\r} questo delle parole femminili
+Dialogue: 0,0:00:4.75,0:00:5.05,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:5.05,0:00:5.55,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto {\1c&HFF00&\u1}questo{\r} delle parole femminili
+Dialogue: 0,0:00:5.55,0:00:5.65,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:5.65,0:00:5.83,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo {\1c&HFF00&\u1}delle{\r} parole femminili
+Dialogue: 0,0:00:5.83,0:00:5.87,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:5.87,0:00:6.25,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle {\1c&HFF00&\u1}parole{\r} femminili
+Dialogue: 0,0:00:6.25,0:00:6.31,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole femminili
+Dialogue: 0,0:00:6.31,0:00:6.82,Default,,0,0,0,,vado in stazione. Non è una regola ma è un piccolo aiuto questo delle parole {\1c&HFF00&\u1}femminili{\r}
+Dialogue: 0,0:00:6.82,0:00:7.20,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:7.20,0:00:7.22,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:7.22,0:00:7.32,Default,,0,0,0,,e {\1c&HFF00&\u1}delle{\r} parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:7.32,0:00:7.36,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:7.36,0:00:7.56,Default,,0,0,0,,e delle {\1c&HFF00&\u1}parole{\r} maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:7.56,0:00:7.66,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:7.66,0:00:8.36,Default,,0,0,0,,e delle parole {\1c&HFF00&\u1}maschili{\r} e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:8.36,0:00:8.40,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:8.40,0:00:8.46,Default,,0,0,0,,e delle parole maschili {\1c&HFF00&\u1}e{\r} comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:8.46,0:00:8.54,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:8.54,0:00:9.21,Default,,0,0,0,,e delle parole maschili e {\1c&HFF00&\u1}comunque{\r} adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:9.21,0:00:9.39,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:9.39,0:00:9.91,Default,,0,0,0,,e delle parole maschili e comunque {\1c&HFF00&\u1}adesso{\r} avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:9.91,0:00:10.07,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:10.07,0:00:10.43,Default,,0,0,0,,e delle parole maschili e comunque adesso {\1c&HFF00&\u1}avete{\r} una bella lista di parole con a e parole
+Dialogue: 0,0:00:10.43,0:00:10.49,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:10.49,0:00:10.61,Default,,0,0,0,,e delle parole maschili e comunque adesso avete {\1c&HFF00&\u1}una{\r} bella lista di parole con a e parole
+Dialogue: 0,0:00:10.61,0:00:10.67,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:10.67,0:00:11.01,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una {\1c&HFF00&\u1}bella{\r} lista di parole con a e parole
+Dialogue: 0,0:00:11.01,0:00:11.07,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:11.07,0:00:11.59,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella {\1c&HFF00&\u1}lista{\r} di parole con a e parole
+Dialogue: 0,0:00:11.59,0:00:12.09,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:12.09,0:00:12.17,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista {\1c&HFF00&\u1}di{\r} parole con a e parole
+Dialogue: 0,0:00:12.17,0:00:12.25,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:12.25,0:00:12.61,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di {\1c&HFF00&\u1}parole{\r} con a e parole
+Dialogue: 0,0:00:12.61,0:00:12.67,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:12.67,0:00:12.85,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole {\1c&HFF00&\u1}con{\r} a e parole
+Dialogue: 0,0:00:12.85,0:00:13.03,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:13.03,0:00:13.21,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con {\1c&HFF00&\u1}a{\r} e parole
+Dialogue: 0,0:00:13.21,0:00:13.45,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:13.45,0:00:13.49,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a {\1c&HFF00&\u1}e{\r} parole
+Dialogue: 0,0:00:13.49,0:00:13.55,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e parole
+Dialogue: 0,0:00:13.55,0:00:13.86,Default,,0,0,0,,e delle parole maschili e comunque adesso avete una bella lista di parole con a e {\1c&HFF00&\u1}parole{\r}
+Dialogue: 0,0:00:13.86,0:00:14.00,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:14.00,0:00:14.02,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:14.02,0:00:15.68,Default,,0,0,0,,con {\1c&HFF00&\u1}in.{\r} Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:15.68,0:00:15.72,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:15.72,0:00:15.96,Default,,0,0,0,,con in. {\1c&HFF00&\u1}Ma{\r} attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:15.96,0:00:16.23,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:16.23,0:00:16.83,Default,,0,0,0,,con in. Ma {\1c&HFF00&\u1}attenzione{\r} attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:16.83,0:00:16.97,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:16.97,0:00:17.65,Default,,0,0,0,,con in. Ma attenzione {\1c&HFF00&\u1}attenzione{\r} amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:17.65,0:00:17.87,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:17.87,0:00:18.17,Default,,0,0,0,,con in. Ma attenzione attenzione {\1c&HFF00&\u1}amici{\r} di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:18.17,0:00:18.21,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:18.21,0:00:18.27,Default,,0,0,0,,con in. Ma attenzione attenzione amici {\1c&HFF00&\u1}di{\r} Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:18.27,0:00:18.33,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:18.33,0:00:18.71,Default,,0,0,0,,con in. Ma attenzione attenzione amici di {\1c&HFF00&\u1}Passione{\r} Italiana attenzione alla parola
+Dialogue: 0,0:00:18.71,0:00:18.77,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:18.77,0:00:19.21,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione {\1c&HFF00&\u1}Italiana{\r} attenzione alla parola
+Dialogue: 0,0:00:19.21,0:00:19.37,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:19.37,0:00:20.05,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana {\1c&HFF00&\u1}attenzione{\r} alla parola
+Dialogue: 0,0:00:20.05,0:00:20.31,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:20.31,0:00:20.49,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione {\1c&HFF00&\u1}alla{\r} parola
+Dialogue: 0,0:00:20.49,0:00:20.55,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla parola
+Dialogue: 0,0:00:20.55,0:00:20.96,Default,,0,0,0,,con in. Ma attenzione attenzione amici di Passione Italiana attenzione alla {\1c&HFF00&\u1}parola{\r}
+Dialogue: 0,0:00:21.26,0:00:21.36,Default,,0,0,0,,{\1c&HFF00&\u1}casa!{\r}

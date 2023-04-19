@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.52,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:0.52,0:00:0.62,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:0.62,0:00:1.16,Default,,0,0,0,,di {\1c&HFF00&\u1}città{\r} e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:1.16,0:00:1.80,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:1.80,0:00:1.90,Default,,0,0,0,,di città {\1c&HFF00&\u1}e{\r} di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:1.90,0:00:1.98,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:1.98,0:00:2.12,Default,,0,0,0,,di città e {\1c&HFF00&\u1}di{\r} paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:2.12,0:00:2.36,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:2.36,0:00:2.92,Default,,0,0,0,,di città e di {\1c&HFF00&\u1}paesi.{\r} Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:2.92,0:00:3.58,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:3.58,0:00:4.36,Default,,0,0,0,,di città e di paesi. {\1c&HFF00&\u1}Paesi{\r} nel senso di piccole città, ok?
+Dialogue: 0,0:00:4.36,0:00:4.59,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:4.59,0:00:4.83,Default,,0,0,0,,di città e di paesi. Paesi {\1c&HFF00&\u1}nel{\r} senso di piccole città, ok?
+Dialogue: 0,0:00:4.83,0:00:4.95,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:4.95,0:00:5.53,Default,,0,0,0,,di città e di paesi. Paesi nel {\1c&HFF00&\u1}senso{\r} di piccole città, ok?
+Dialogue: 0,0:00:5.53,0:00:5.63,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:5.63,0:00:5.81,Default,,0,0,0,,di città e di paesi. Paesi nel senso {\1c&HFF00&\u1}di{\r} piccole città, ok?
+Dialogue: 0,0:00:5.81,0:00:6.17,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:6.17,0:00:6.97,Default,,0,0,0,,di città e di paesi. Paesi nel senso di {\1c&HFF00&\u1}piccole{\r} città, ok?
+Dialogue: 0,0:00:6.97,0:00:7.29,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:7.29,0:00:8.69,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole {\1c&HFF00&\u1}città,{\r} ok?
+Dialogue: 0,0:00:8.69,0:00:8.83,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, ok?
+Dialogue: 0,0:00:8.83,0:00:8.87,Default,,0,0,0,,di città e di paesi. Paesi nel senso di piccole città, {\1c&HFF00&\u1}ok?{\r}

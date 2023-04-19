@@ -1,0 +1,30 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:1.20,Default,,0,0,0,,{\1c&HFF00&\u1}all'infinito{\r} e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:1.20,0:00:1.40,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:1.40,0:00:1.44,Default,,0,0,0,,all'infinito {\1c&HFF00&\u1}e{\r} si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:1.44,0:00:1.54,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:1.54,0:00:1.62,Default,,0,0,0,,all'infinito e {\1c&HFF00&\u1}si{\r} usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:1.62,0:00:1.80,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:1.80,0:00:2.12,Default,,0,0,0,,all'infinito e si {\1c&HFF00&\u1}usa{\r} A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:2.12,0:00:2.40,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:2.40,0:00:2.48,Default,,0,0,0,,all'infinito e si usa {\1c&HFF00&\u1}A.{\r} E l'ultima lunga, tre.
+Dialogue: 0,0:00:2.48,0:00:3.22,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:3.22,0:00:3.36,Default,,0,0,0,,all'infinito e si usa A. {\1c&HFF00&\u1}E{\r} l'ultima lunga, tre.
+Dialogue: 0,0:00:3.36,0:00:3.62,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:3.62,0:00:4.55,Default,,0,0,0,,all'infinito e si usa A. E {\1c&HFF00&\u1}l'ultima{\r} lunga, tre.
+Dialogue: 0,0:00:4.55,0:00:4.93,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:4.93,0:00:5.91,Default,,0,0,0,,all'infinito e si usa A. E l'ultima {\1c&HFF00&\u1}lunga,{\r} tre.
+Dialogue: 0,0:00:5.91,0:00:6.11,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, tre.
+Dialogue: 0,0:00:6.11,0:00:6.41,Default,,0,0,0,,all'infinito e si usa A. E l'ultima lunga, {\1c&HFF00&\u1}tre.{\r}

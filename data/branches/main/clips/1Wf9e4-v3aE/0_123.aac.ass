@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}Vado{\r} in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:0.50,0:00:0.96,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:0.96,0:00:1.22,Default,,0,0,0,,Vado {\1c&HFF00&\u1}in{\r} casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:1.22,0:00:1.34,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:1.34,0:00:1.74,Default,,0,0,0,,Vado in {\1c&HFF00&\u1}casa,{\r} tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:1.74,0:00:2.22,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:2.22,0:00:2.57,Default,,0,0,0,,Vado in casa, {\1c&HFF00&\u1}tutte{\r} e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:2.57,0:00:2.65,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:2.65,0:00:2.69,Default,,0,0,0,,Vado in casa, tutte {\1c&HFF00&\u1}e{\r} due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:2.69,0:00:2.79,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:2.79,0:00:3.07,Default,,0,0,0,,Vado in casa, tutte e {\1c&HFF00&\u1}due{\r} sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:3.07,0:00:3.51,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:3.51,0:00:3.85,Default,,0,0,0,,Vado in casa, tutte e due {\1c&HFF00&\u1}sono{\r} corrette, ma c'è una differenza.
+Dialogue: 0,0:00:3.85,0:00:4.07,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:4.07,0:00:4.79,Default,,0,0,0,,Vado in casa, tutte e due sono {\1c&HFF00&\u1}corrette,{\r} ma c'è una differenza.
+Dialogue: 0,0:00:4.79,0:00:5.89,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:5.89,0:00:5.97,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, {\1c&HFF00&\u1}ma{\r} c'è una differenza.
+Dialogue: 0,0:00:5.97,0:00:6.09,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:6.09,0:00:6.27,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma {\1c&HFF00&\u1}c'è{\r} una differenza.
+Dialogue: 0,0:00:6.27,0:00:6.37,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:6.37,0:00:6.49,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è {\1c&HFF00&\u1}una{\r} differenza.
+Dialogue: 0,0:00:6.49,0:00:6.53,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una differenza.
+Dialogue: 0,0:00:6.53,0:00:7.32,Default,,0,0,0,,Vado in casa, tutte e due sono corrette, ma c'è una {\1c&HFF00&\u1}differenza.{\r}
