@@ -7,7 +7,7 @@ python data_processing.py extract-faces --workers 10 --branch BRANCH_NAME
 # Merge faces
 
 ```
-python data_processing.py merge-faces --video-id VIDEOID --target TARGET --source SOURCE
+python data_processing.py merge-faces --video-id VIDEOID --target TARGET --source SOURCE1 SOURCE2 SOURCE3
 ```
 
 # Create intervals
