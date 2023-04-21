@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.24,Default,,0,0,0,,{\1c&HFF00&\u1}Perché{\r} tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:0.24,0:00:0.30,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:0.30,0:00:0.48,Default,,0,0,0,,Perché {\1c&HFF00&\u1}tanto{\r} se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:0.48,0:00:0.56,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:0.56,0:00:0.80,Default,,0,0,0,,Perché tanto {\1c&HFF00&\u1}se{\r} qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:0.82,0:00:1.08,Default,,0,0,0,,Perché tanto se {\1c&HFF00&\u1}qualcuno{\r} è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.08,0:00:1.10,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.10,0:00:1.12,Default,,0,0,0,,Perché tanto se qualcuno {\1c&HFF00&\u1}è{\r} in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.12,0:00:1.16,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.16,0:00:1.22,Default,,0,0,0,,Perché tanto se qualcuno è {\1c&HFF00&\u1}in{\r} pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.22,0:00:1.24,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.24,0:00:1.61,Default,,0,0,0,,Perché tanto se qualcuno è in {\1c&HFF00&\u1}pericolo,{\r} eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.61,0:00:1.71,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.71,0:00:1.79,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, {\1c&HFF00&\u1}eh,{\r} vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.79,0:00:1.81,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:1.81,0:00:2.21,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, {\1c&HFF00&\u1}vabbè,{\r} sì, tornerà.
+Dialogue: 0,0:00:2.21,0:00:2.23,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:2.23,0:00:2.35,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, {\1c&HFF00&\u1}sì,{\r} tornerà.
+Dialogue: 0,0:00:2.35,0:00:2.67,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, tornerà.
+Dialogue: 0,0:00:2.67,0:00:2.97,Default,,0,0,0,,Perché tanto se qualcuno è in pericolo, eh, vabbè, sì, {\1c&HFF00&\u1}tornerà.{\r}
+Dialogue: 0,0:00:4.93,0:00:5.01,Default,,0,0,0,,{\1c&HFF00&\u1}Vi{\r} sembra il caso?
+Dialogue: 0,0:00:5.01,0:00:5.11,Default,,0,0,0,,Vi sembra il caso?
+Dialogue: 0,0:00:5.11,0:00:5.47,Default,,0,0,0,,Vi {\1c&HFF00&\u1}sembra{\r} il caso?
+Dialogue: 0,0:00:5.47,0:00:5.51,Default,,0,0,0,,Vi sembra il caso?
+Dialogue: 0,0:00:5.51,0:00:5.57,Default,,0,0,0,,Vi sembra {\1c&HFF00&\u1}il{\r} caso?
+Dialogue: 0,0:00:5.57,0:00:5.65,Default,,0,0,0,,Vi sembra il caso?
+Dialogue: 0,0:00:5.65,0:00:5.97,Default,,0,0,0,,Vi sembra il {\1c&HFF00&\u1}caso?{\r}
+Dialogue: 0,0:00:6.66,0:00:6.72,Default,,0,0,0,,{\1c&HFF00&\u1}Vi{\r} sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:6.72,0:00:6.74,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:6.74,0:00:6.92,Default,,0,0,0,,Vi {\1c&HFF00&\u1}sembra{\r} il caso di costruirla così una storia?
+Dialogue: 0,0:00:6.92,0:00:6.96,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:6.96,0:00:7.02,Default,,0,0,0,,Vi sembra {\1c&HFF00&\u1}il{\r} caso di costruirla così una storia?
+Dialogue: 0,0:00:7.02,0:00:7.06,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:7.06,0:00:7.22,Default,,0,0,0,,Vi sembra il {\1c&HFF00&\u1}caso{\r} di costruirla così una storia?
+Dialogue: 0,0:00:7.22,0:00:7.26,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:7.26,0:00:7.33,Default,,0,0,0,,Vi sembra il caso {\1c&HFF00&\u1}di{\r} costruirla così una storia?
+Dialogue: 0,0:00:7.33,0:00:7.37,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:7.37,0:00:7.83,Default,,0,0,0,,Vi sembra il caso di {\1c&HFF00&\u1}costruirla{\r} così una storia?
+Dialogue: 0,0:00:7.83,0:00:7.87,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:7.87,0:00:8.05,Default,,0,0,0,,Vi sembra il caso di costruirla {\1c&HFF00&\u1}così{\r} una storia?
+Dialogue: 0,0:00:8.05,0:00:8.09,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:8.09,0:00:8.23,Default,,0,0,0,,Vi sembra il caso di costruirla così {\1c&HFF00&\u1}una{\r} storia?
+Dialogue: 0,0:00:8.23,0:00:8.25,Default,,0,0,0,,Vi sembra il caso di costruirla così una storia?
+Dialogue: 0,0:00:8.25,0:00:8.53,Default,,0,0,0,,Vi sembra il caso di costruirla così una {\1c&HFF00&\u1}storia?{\r}
+Dialogue: 0,0:00:8.96,0:00:9.20,Default,,0,0,0,,{\1c&HFF00&\u1}Quali{\r} emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:9.20,0:00:9.24,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:9.24,0:00:9.70,Default,,0,0,0,,Quali {\1c&HFF00&\u1}emozioni{\r} provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:9.70,0:00:9.78,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:9.78,0:00:10.12,Default,,0,0,0,,Quali emozioni {\1c&HFF00&\u1}provi{\r} se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.12,0:00:10.38,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.38,0:00:10.48,Default,,0,0,0,,Quali emozioni provi {\1c&HFF00&\u1}se{\r} non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.48,0:00:10.50,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.50,0:00:10.65,Default,,0,0,0,,Quali emozioni provi se {\1c&HFF00&\u1}non{\r} puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.65,0:00:10.73,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.73,0:00:10.87,Default,,0,0,0,,Quali emozioni provi se non {\1c&HFF00&\u1}puoi{\r} provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.87,0:00:10.99,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:10.99,0:00:11.35,Default,,0,0,0,,Quali emozioni provi se non puoi {\1c&HFF00&\u1}provare{\r} paura per il protagonista in pericolo?
+Dialogue: 0,0:00:11.35,0:00:11.81,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:11.81,0:00:12.39,Default,,0,0,0,,Quali emozioni provi se non puoi provare {\1c&HFF00&\u1}paura{\r} per il protagonista in pericolo?
+Dialogue: 0,0:00:12.39,0:00:12.55,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:12.55,0:00:12.67,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura {\1c&HFF00&\u1}per{\r} il protagonista in pericolo?
+Dialogue: 0,0:00:12.67,0:00:12.71,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:12.71,0:00:12.77,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per {\1c&HFF00&\u1}il{\r} protagonista in pericolo?
+Dialogue: 0,0:00:12.77,0:00:12.79,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:12.79,0:00:13.29,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il {\1c&HFF00&\u1}protagonista{\r} in pericolo?
+Dialogue: 0,0:00:13.29,0:00:13.33,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:13.33,0:00:13.39,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista {\1c&HFF00&\u1}in{\r} pericolo?
+Dialogue: 0,0:00:13.39,0:00:13.45,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in pericolo?
+Dialogue: 0,0:00:13.45,0:00:13.87,Default,,0,0,0,,Quali emozioni provi se non puoi provare paura per il protagonista in {\1c&HFF00&\u1}pericolo?{\r}
+Dialogue: 0,0:00:15.48,0:00:15.85,Default,,0,0,0,,{\1c&HFF00&\u1}Niente,{\r} zero. Assolutamente zero.
+Dialogue: 0,0:00:15.85,0:00:16.09,Default,,0,0,0,,Niente, zero. Assolutamente zero.
+Dialogue: 0,0:00:16.09,0:00:16.41,Default,,0,0,0,,Niente, {\1c&HFF00&\u1}zero.{\r} Assolutamente zero.
+Dialogue: 0,0:00:16.41,0:00:16.73,Default,,0,0,0,,Niente, zero. Assolutamente zero.
+Dialogue: 0,0:00:16.73,0:00:17.37,Default,,0,0,0,,Niente, zero. {\1c&HFF00&\u1}Assolutamente{\r} zero.
+Dialogue: 0,0:00:17.37,0:00:17.65,Default,,0,0,0,,Niente, zero. Assolutamente zero.
+Dialogue: 0,0:00:17.65,0:00:17.95,Default,,0,0,0,,Niente, zero. Assolutamente {\1c&HFF00&\u1}zero.{\r}
+Dialogue: 0,0:00:18.44,0:00:18.50,Default,,0,0,0,,{\1c&HFF00&\u1}In{\r} Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:18.50,0:00:18.54,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:18.54,0:00:18.98,Default,,0,0,0,,In {\1c&HFF00&\u1}Batman{\r} Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:18.98,0:00:19.08,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:19.08,0:00:19.30,Default,,0,0,0,,In Batman {\1c&HFF00&\u1}Dark{\r} Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:19.30,0:00:19.32,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:19.32,0:00:19.62,Default,,0,0,0,,In Batman Dark {\1c&HFF00&\u1}Knight{\r} Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:19.62,0:00:19.64,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:19.64,0:00:20.08,Default,,0,0,0,,In Batman Dark Knight {\1c&HFF00&\u1}Rises{\r} c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:20.08,0:00:20.28,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:20.28,0:00:20.38,Default,,0,0,0,,In Batman Dark Knight Rises {\1c&HFF00&\u1}c'è{\r} questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:20.38,0:00:20.46,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:20.46,0:00:20.68,Default,,0,0,0,,In Batman Dark Knight Rises c'è {\1c&HFF00&\u1}questa{\r} scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:20.68,0:00:20.74,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:20.74,0:00:21.02,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa {\1c&HFF00&\u1}scena{\r} in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.02,0:00:21.04,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.04,0:00:21.12,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena {\1c&HFF00&\u1}in{\r} cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.12,0:00:21.18,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.18,0:00:21.34,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in {\1c&HFF00&\u1}cui{\r} Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.34,0:00:21.58,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.58,0:00:21.82,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui {\1c&HFF00&\u1}Bruce{\r} Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.82,0:00:21.84,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:21.84,0:00:22.15,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce {\1c&HFF00&\u1}Wayne{\r} viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:22.15,0:00:22.27,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:22.27,0:00:22.47,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne {\1c&HFF00&\u1}viene{\r} rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:22.47,0:00:22.51,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:22.51,0:00:22.97,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene {\1c&HFF00&\u1}rinchiuso{\r} da Bane in un Gulag.
+Dialogue: 0,0:00:22.97,0:00:23.03,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:23.03,0:00:23.09,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso {\1c&HFF00&\u1}da{\r} Bane in un Gulag.
+Dialogue: 0,0:00:23.09,0:00:23.19,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:23.19,0:00:23.43,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da {\1c&HFF00&\u1}Bane{\r} in un Gulag.
+Dialogue: 0,0:00:23.43,0:00:23.67,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:23.67,0:00:23.77,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane {\1c&HFF00&\u1}in{\r} un Gulag.
+Dialogue: 0,0:00:23.77,0:00:23.81,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:23.81,0:00:23.97,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in {\1c&HFF00&\u1}un{\r} Gulag.
+Dialogue: 0,0:00:23.97,0:00:24.03,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un Gulag.
+Dialogue: 0,0:00:24.03,0:00:24.35,Default,,0,0,0,,In Batman Dark Knight Rises c'è questa scena in cui Bruce Wayne viene rinchiuso da Bane in un {\1c&HFF00&\u1}Gulag.{\r}
+Dialogue: 0,0:00:24.48,0:00:24.68,Default,,0,0,0,,{\1c&HFF00&\u1}Sottoterra{\r}

@@ -1,0 +1,222 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.32,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}Quando{\r} qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:0.48,0:00:0.52,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:0.52,0:00:0.84,Default,,0,0,0,,Quando {\1c&HFF00&\u1}qualsiasi{\r} cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:0.84,0:00:0.90,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:0.90,0:00:1.10,Default,,0,0,0,,Quando qualsiasi {\1c&HFF00&\u1}cosa{\r} ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:1.10,0:00:1.16,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:1.16,0:00:1.24,Default,,0,0,0,,Quando qualsiasi cosa {\1c&HFF00&\u1}ci{\r} piace, possiamo essere analitici,
+Dialogue: 0,0:00:1.24,0:00:1.30,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:1.30,0:00:1.63,Default,,0,0,0,,Quando qualsiasi cosa ci {\1c&HFF00&\u1}piace,{\r} possiamo essere analitici,
+Dialogue: 0,0:00:1.63,0:00:2.67,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:2.67,0:00:3.03,Default,,0,0,0,,Quando qualsiasi cosa ci piace, {\1c&HFF00&\u1}possiamo{\r} essere analitici,
+Dialogue: 0,0:00:3.03,0:00:3.09,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:3.09,0:00:3.41,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo {\1c&HFF00&\u1}essere{\r} analitici,
+Dialogue: 0,0:00:3.41,0:00:3.61,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere analitici,
+Dialogue: 0,0:00:3.61,0:00:4.31,Default,,0,0,0,,Quando qualsiasi cosa ci piace, possiamo essere {\1c&HFF00&\u1}analitici,{\r}
+Dialogue: 0,0:00:4.48,0:00:4.62,Default,,0,0,0,,{\1c&HFF00&\u1}proprio{\r} andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:4.62,0:00:4.64,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:4.64,0:00:4.76,Default,,0,0,0,,proprio {\1c&HFF00&\u1}andare{\r} al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:4.76,0:00:4.78,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:4.78,0:00:4.82,Default,,0,0,0,,proprio andare {\1c&HFF00&\u1}al{\r} dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:4.82,0:00:4.84,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:4.84,0:00:5.02,Default,,0,0,0,,proprio andare al {\1c&HFF00&\u1}dettaglio{\r} dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:5.02,0:00:5.04,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:5.04,0:00:5.22,Default,,0,0,0,,proprio andare al dettaglio {\1c&HFF00&\u1}dell'opera,{\r} e nessuno si lamenta.
+Dialogue: 0,0:00:5.22,0:00:5.24,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:5.24,0:00:5.26,Default,,0,0,0,,proprio andare al dettaglio dell'opera, {\1c&HFF00&\u1}e{\r} nessuno si lamenta.
+Dialogue: 0,0:00:5.26,0:00:5.28,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:5.28,0:00:5.42,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e {\1c&HFF00&\u1}nessuno{\r} si lamenta.
+Dialogue: 0,0:00:5.42,0:00:5.44,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:5.44,0:00:5.48,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno {\1c&HFF00&\u1}si{\r} lamenta.
+Dialogue: 0,0:00:5.48,0:00:5.50,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si lamenta.
+Dialogue: 0,0:00:5.50,0:00:5.64,Default,,0,0,0,,proprio andare al dettaglio dell'opera, e nessuno si {\1c&HFF00&\u1}lamenta.{\r}
+Dialogue: 0,0:00:9.44,0:00:9.90,Default,,0,0,0,,{\1c&HFF00&\u1}Anzi,{\r} tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:9.90,0:00:10.02,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.02,0:00:10.18,Default,,0,0,0,,Anzi, {\1c&HFF00&\u1}tutti{\r} a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.18,0:00:10.22,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.22,0:00:10.28,Default,,0,0,0,,Anzi, tutti {\1c&HFF00&\u1}a{\r} dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.28,0:00:10.32,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.32,0:00:10.57,Default,,0,0,0,,Anzi, tutti a {\1c&HFF00&\u1}dire,{\r} oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.57,0:00:10.61,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.61,0:00:10.67,Default,,0,0,0,,Anzi, tutti a dire, {\1c&HFF00&\u1}oh{\r} beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.67,0:00:10.75,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.75,0:00:10.95,Default,,0,0,0,,Anzi, tutti a dire, oh {\1c&HFF00&\u1}beh,{\r} quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.95,0:00:10.99,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:10.99,0:00:11.21,Default,,0,0,0,,Anzi, tutti a dire, oh beh, {\1c&HFF00&\u1}quella{\r} finezza io non l'avevo notata,
+Dialogue: 0,0:00:11.21,0:00:11.25,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:11.25,0:00:11.61,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella {\1c&HFF00&\u1}finezza{\r} io non l'avevo notata,
+Dialogue: 0,0:00:11.61,0:00:11.69,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:11.69,0:00:11.77,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza {\1c&HFF00&\u1}io{\r} non l'avevo notata,
+Dialogue: 0,0:00:11.77,0:00:11.81,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:11.81,0:00:11.89,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io {\1c&HFF00&\u1}non{\r} l'avevo notata,
+Dialogue: 0,0:00:11.89,0:00:11.91,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:11.91,0:00:12.15,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non {\1c&HFF00&\u1}l'avevo{\r} notata,
+Dialogue: 0,0:00:12.15,0:00:12.21,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo notata,
+Dialogue: 0,0:00:12.21,0:00:12.61,Default,,0,0,0,,Anzi, tutti a dire, oh beh, quella finezza io non l'avevo {\1c&HFF00&\u1}notata,{\r}
+Dialogue: 0,0:00:13.02,0:00:13.10,Default,,0,0,0,,{\1c&HFF00&\u1}sì{\r} sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.10,0:00:13.12,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.12,0:00:13.16,Default,,0,0,0,,sì {\1c&HFF00&\u1}sì,{\r} è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.16,0:00:13.18,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.18,0:00:13.20,Default,,0,0,0,,sì sì, {\1c&HFF00&\u1}è{\r} proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.20,0:00:13.24,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.24,0:00:13.48,Default,,0,0,0,,sì sì, è {\1c&HFF00&\u1}proprio{\r} vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.48,0:00:13.56,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.56,0:00:13.76,Default,,0,0,0,,sì sì, è proprio {\1c&HFF00&\u1}vero,{\r} no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.76,0:00:13.78,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.78,0:00:13.82,Default,,0,0,0,,sì sì, è proprio vero, {\1c&HFF00&\u1}no,{\r} ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:13.82,0:00:14.04,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:14.04,0:00:14.12,Default,,0,0,0,,sì sì, è proprio vero, no, {\1c&HFF00&\u1}ma{\r} quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:14.12,0:00:14.43,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:14.43,0:00:14.67,Default,,0,0,0,,sì sì, è proprio vero, no, ma {\1c&HFF00&\u1}quel{\r} piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:14.67,0:00:14.73,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:14.73,0:00:15.09,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel {\1c&HFF00&\u1}piccolo{\r} dettaglio fa la differenza.
+Dialogue: 0,0:00:15.09,0:00:15.15,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:15.15,0:00:15.65,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo {\1c&HFF00&\u1}dettaglio{\r} fa la differenza.
+Dialogue: 0,0:00:15.65,0:00:15.73,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:15.73,0:00:15.81,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio {\1c&HFF00&\u1}fa{\r} la differenza.
+Dialogue: 0,0:00:15.81,0:00:15.87,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:15.87,0:00:15.93,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa {\1c&HFF00&\u1}la{\r} differenza.
+Dialogue: 0,0:00:15.93,0:00:15.97,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la differenza.
+Dialogue: 0,0:00:15.97,0:00:16.67,Default,,0,0,0,,sì sì, è proprio vero, no, ma quel piccolo dettaglio fa la {\1c&HFF00&\u1}differenza.{\r}
+Dialogue: 0,0:00:17.04,0:00:17.18,Default,,0,0,0,,{\1c&HFF00&\u1}Quando{\r} invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.18,0:00:17.22,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.22,0:00:17.38,Default,,0,0,0,,Quando {\1c&HFF00&\u1}invece{\r} una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.38,0:00:17.42,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.42,0:00:17.50,Default,,0,0,0,,Quando invece {\1c&HFF00&\u1}una{\r} cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.50,0:00:17.52,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.52,0:00:17.70,Default,,0,0,0,,Quando invece una {\1c&HFF00&\u1}cosa{\r} non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.70,0:00:17.82,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.82,0:00:17.96,Default,,0,0,0,,Quando invece una cosa {\1c&HFF00&\u1}non{\r} ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:17.96,0:00:18.02,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:18.02,0:00:18.10,Default,,0,0,0,,Quando invece una cosa non {\1c&HFF00&\u1}ti{\r} piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:18.10,0:00:18.16,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:18.16,0:00:18.56,Default,,0,0,0,,Quando invece una cosa non ti {\1c&HFF00&\u1}piace{\r} ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:18.56,0:00:18.95,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:18.95,0:00:19.03,Default,,0,0,0,,Quando invece una cosa non ti piace {\1c&HFF00&\u1}ed{\r} entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:19.03,0:00:19.07,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:19.07,0:00:19.31,Default,,0,0,0,,Quando invece una cosa non ti piace ed {\1c&HFF00&\u1}entri{\r} nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:19.31,0:00:19.35,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:19.35,0:00:19.49,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri {\1c&HFF00&\u1}nel{\r} dettaglio, diventi pignolo.
+Dialogue: 0,0:00:19.49,0:00:19.53,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:19.53,0:00:20.05,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel {\1c&HFF00&\u1}dettaglio,{\r} diventi pignolo.
+Dialogue: 0,0:00:20.05,0:00:20.43,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:20.43,0:00:20.79,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, {\1c&HFF00&\u1}diventi{\r} pignolo.
+Dialogue: 0,0:00:20.79,0:00:20.87,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi pignolo.
+Dialogue: 0,0:00:20.87,0:00:21.39,Default,,0,0,0,,Quando invece una cosa non ti piace ed entri nel dettaglio, diventi {\1c&HFF00&\u1}pignolo.{\r}
+Dialogue: 0,0:00:23.08,0:00:23.24,Default,,0,0,0,,{\1c&HFF00&\u1}Questa{\r} è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.24,0:00:23.26,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.26,0:00:23.28,Default,,0,0,0,,Questa {\1c&HFF00&\u1}è{\r} una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.28,0:00:23.32,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.32,0:00:23.38,Default,,0,0,0,,Questa è {\1c&HFF00&\u1}una{\r} cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.38,0:00:23.40,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.40,0:00:23.55,Default,,0,0,0,,Questa è una {\1c&HFF00&\u1}cosa{\r} che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.55,0:00:23.57,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.57,0:00:23.63,Default,,0,0,0,,Questa è una cosa {\1c&HFF00&\u1}che{\r} non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.63,0:00:23.67,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.67,0:00:23.83,Default,,0,0,0,,Questa è una cosa che {\1c&HFF00&\u1}non{\r} sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.83,0:00:23.85,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:23.85,0:00:24.39,Default,,0,0,0,,Questa è una cosa che non {\1c&HFF00&\u1}sopporto,{\r} perché secondo me l'analisi
+Dialogue: 0,0:00:24.39,0:00:24.89,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:24.89,0:00:25.07,Default,,0,0,0,,Questa è una cosa che non sopporto, {\1c&HFF00&\u1}perché{\r} secondo me l'analisi
+Dialogue: 0,0:00:25.07,0:00:25.13,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:25.13,0:00:25.37,Default,,0,0,0,,Questa è una cosa che non sopporto, perché {\1c&HFF00&\u1}secondo{\r} me l'analisi
+Dialogue: 0,0:00:25.37,0:00:25.41,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:25.41,0:00:25.49,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo {\1c&HFF00&\u1}me{\r} l'analisi
+Dialogue: 0,0:00:25.49,0:00:25.55,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me l'analisi
+Dialogue: 0,0:00:25.55,0:00:26.05,Default,,0,0,0,,Questa è una cosa che non sopporto, perché secondo me {\1c&HFF00&\u1}l'analisi{\r}
+Dialogue: 0,0:00:27.20,0:00:27.26,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.26,0:00:27.28,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.28,0:00:27.42,Default,,0,0,0,,non {\1c&HFF00&\u1}ha{\r} un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.42,0:00:27.50,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.50,0:00:27.60,Default,,0,0,0,,non ha {\1c&HFF00&\u1}un{\r} volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.60,0:00:27.64,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.64,0:00:27.92,Default,,0,0,0,,non ha un {\1c&HFF00&\u1}volto{\r} positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.92,0:00:27.98,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:27.98,0:00:28.44,Default,,0,0,0,,non ha un volto {\1c&HFF00&\u1}positivo{\r} o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:28.44,0:00:28.46,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:28.46,0:00:28.48,Default,,0,0,0,,non ha un volto positivo {\1c&HFF00&\u1}o{\r} negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:28.48,0:00:28.54,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:28.54,0:00:28.94,Default,,0,0,0,,non ha un volto positivo o {\1c&HFF00&\u1}negativo,{\r} ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:28.94,0:00:29.05,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.05,0:00:29.13,Default,,0,0,0,,non ha un volto positivo o negativo, {\1c&HFF00&\u1}ha{\r} un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.13,0:00:29.17,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.17,0:00:29.27,Default,,0,0,0,,non ha un volto positivo o negativo, ha {\1c&HFF00&\u1}un{\r} volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.27,0:00:29.31,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.31,0:00:29.65,Default,,0,0,0,,non ha un volto positivo o negativo, ha un {\1c&HFF00&\u1}volto{\r} e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.65,0:00:29.69,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.69,0:00:29.73,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto {\1c&HFF00&\u1}e{\r} basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.73,0:00:29.89,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:29.89,0:00:30.35,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e {\1c&HFF00&\u1}basta,{\r} e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:30.35,0:00:30.49,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:30.49,0:00:30.53,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, {\1c&HFF00&\u1}e{\r} devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:30.53,0:00:30.57,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:30.57,0:00:30.75,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e {\1c&HFF00&\u1}devi{\r} guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:30.75,0:00:30.79,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:30.79,0:00:31.27,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi {\1c&HFF00&\u1}guardarla{\r} in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:31.27,0:00:31.31,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:31.31,0:00:31.37,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla {\1c&HFF00&\u1}in{\r} faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:31.37,0:00:31.43,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:31.43,0:00:31.71,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in {\1c&HFF00&\u1}faccia{\r} per quello che è, un'analisi.
+Dialogue: 0,0:00:31.71,0:00:31.75,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:31.75,0:00:31.85,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia {\1c&HFF00&\u1}per{\r} quello che è, un'analisi.
+Dialogue: 0,0:00:31.85,0:00:31.89,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:31.89,0:00:32.09,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per {\1c&HFF00&\u1}quello{\r} che è, un'analisi.
+Dialogue: 0,0:00:32.09,0:00:32.13,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:32.13,0:00:32.23,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello {\1c&HFF00&\u1}che{\r} è, un'analisi.
+Dialogue: 0,0:00:32.23,0:00:32.29,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:32.29,0:00:32.33,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che {\1c&HFF00&\u1}è,{\r} un'analisi.
+Dialogue: 0,0:00:32.33,0:00:32.73,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, un'analisi.
+Dialogue: 0,0:00:32.73,0:00:33.34,Default,,0,0,0,,non ha un volto positivo o negativo, ha un volto e basta, e devi guardarla in faccia per quello che è, {\1c&HFF00&\u1}un'analisi.{\r}
+Dialogue: 0,0:00:34.74,0:00:34.90,Default,,0,0,0,,{\1c&HFF00&\u1}Ora,{\r} il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:34.90,0:00:35.67,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:35.67,0:00:35.71,Default,,0,0,0,,Ora, {\1c&HFF00&\u1}il{\r} fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:35.71,0:00:35.73,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:35.73,0:00:35.87,Default,,0,0,0,,Ora, il {\1c&HFF00&\u1}fatto{\r} è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:35.87,0:00:35.89,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:35.89,0:00:35.91,Default,,0,0,0,,Ora, il fatto {\1c&HFF00&\u1}è{\r} che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:35.91,0:00:35.93,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:35.93,0:00:36.01,Default,,0,0,0,,Ora, il fatto è {\1c&HFF00&\u1}che{\r} quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.01,0:00:36.05,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.05,0:00:36.19,Default,,0,0,0,,Ora, il fatto è che {\1c&HFF00&\u1}quando{\r} una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.19,0:00:36.21,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.21,0:00:36.29,Default,,0,0,0,,Ora, il fatto è che quando {\1c&HFF00&\u1}una{\r} cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.29,0:00:36.31,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.31,0:00:36.47,Default,,0,0,0,,Ora, il fatto è che quando una {\1c&HFF00&\u1}cosa{\r} non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.47,0:00:36.49,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.49,0:00:36.57,Default,,0,0,0,,Ora, il fatto è che quando una cosa {\1c&HFF00&\u1}non{\r} ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.57,0:00:36.59,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.59,0:00:36.67,Default,,0,0,0,,Ora, il fatto è che quando una cosa non {\1c&HFF00&\u1}ti{\r} piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.67,0:00:36.71,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:36.71,0:00:37.01,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti {\1c&HFF00&\u1}piace,{\r} rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:37.01,0:00:37.23,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:37.23,0:00:37.41,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, {\1c&HFF00&\u1}rode{\r} in culo a tantissimi, eh?
+Dialogue: 0,0:00:37.41,0:00:37.45,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:37.45,0:00:37.53,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode {\1c&HFF00&\u1}in{\r} culo a tantissimi, eh?
+Dialogue: 0,0:00:37.53,0:00:37.59,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:37.59,0:00:37.87,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in {\1c&HFF00&\u1}culo{\r} a tantissimi, eh?
+Dialogue: 0,0:00:37.87,0:00:38.09,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:38.09,0:00:38.13,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo {\1c&HFF00&\u1}a{\r} tantissimi, eh?
+Dialogue: 0,0:00:38.13,0:00:38.19,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:38.19,0:00:39.06,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a {\1c&HFF00&\u1}tantissimi,{\r} eh?
+Dialogue: 0,0:00:39.06,0:00:39.08,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, eh?
+Dialogue: 0,0:00:39.08,0:00:39.12,Default,,0,0,0,,Ora, il fatto è che quando una cosa non ti piace, rode in culo a tantissimi, {\1c&HFF00&\u1}eh?{\r}
+Dialogue: 0,0:00:39.53,0:00:39.61,Default,,0,0,0,,{\1c&HFF00&\u1}L'ho{\r} detto anche un'altra
+Dialogue: 0,0:00:39.61,0:00:39.65,Default,,0,0,0,,L'ho detto anche un'altra
+Dialogue: 0,0:00:39.65,0:00:39.83,Default,,0,0,0,,L'ho {\1c&HFF00&\u1}detto{\r} anche un'altra
+Dialogue: 0,0:00:39.83,0:00:39.87,Default,,0,0,0,,L'ho detto anche un'altra
+Dialogue: 0,0:00:39.87,0:00:40.02,Default,,0,0,0,,L'ho detto {\1c&HFF00&\u1}anche{\r} un'altra
+Dialogue: 0,0:00:40.02,0:00:40.04,Default,,0,0,0,,L'ho detto anche un'altra
+Dialogue: 0,0:00:40.04,0:00:40.24,Default,,0,0,0,,L'ho detto anche {\1c&HFF00&\u1}un'altra{\r}

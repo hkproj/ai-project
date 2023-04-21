@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.90,0:00:1.32,Default,,0,0,0,,{\1c&HFF00&\u1}Sofia{\r} ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:1.32,0:00:1.47,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:1.47,0:00:1.55,Default,,0,0,0,,Sofia {\1c&HFF00&\u1}ha{\r} utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:1.55,0:00:1.61,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:1.61,0:00:2.35,Default,,0,0,0,,Sofia ha {\1c&HFF00&\u1}utilizzato{\r} il verbo andare perché indica un movimento
+Dialogue: 0,0:00:2.35,0:00:2.51,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:2.51,0:00:2.61,Default,,0,0,0,,Sofia ha utilizzato {\1c&HFF00&\u1}il{\r} verbo andare perché indica un movimento
+Dialogue: 0,0:00:2.61,0:00:2.67,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:2.67,0:00:2.99,Default,,0,0,0,,Sofia ha utilizzato il {\1c&HFF00&\u1}verbo{\r} andare perché indica un movimento
+Dialogue: 0,0:00:2.99,0:00:3.03,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:3.03,0:00:3.53,Default,,0,0,0,,Sofia ha utilizzato il verbo {\1c&HFF00&\u1}andare{\r} perché indica un movimento
+Dialogue: 0,0:00:3.53,0:00:3.95,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:3.95,0:00:4.38,Default,,0,0,0,,Sofia ha utilizzato il verbo andare {\1c&HFF00&\u1}perché{\r} indica un movimento
+Dialogue: 0,0:00:4.38,0:00:4.66,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:4.66,0:00:5.06,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché {\1c&HFF00&\u1}indica{\r} un movimento
+Dialogue: 0,0:00:5.06,0:00:5.26,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:5.26,0:00:5.40,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica {\1c&HFF00&\u1}un{\r} movimento
+Dialogue: 0,0:00:5.40,0:00:5.46,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un movimento
+Dialogue: 0,0:00:5.46,0:00:5.84,Default,,0,0,0,,Sofia ha utilizzato il verbo andare perché indica un {\1c&HFF00&\u1}movimento{\r}

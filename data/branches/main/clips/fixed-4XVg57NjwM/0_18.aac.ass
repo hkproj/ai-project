@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.70,0:00:1.10,Default,,0,0,0,,{\1c&HFF00&\u1}verso{\r} di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:1.10,0:00:1.30,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:1.30,0:00:1.38,Default,,0,0,0,,verso {\1c&HFF00&\u1}di{\r} me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:1.38,0:00:1.44,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:1.44,0:00:1.60,Default,,0,0,0,,verso di {\1c&HFF00&\u1}me,{\r} io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:1.60,0:00:2.44,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:2.44,0:00:2.55,Default,,0,0,0,,verso di me, {\1c&HFF00&\u1}io{\r} sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:2.55,0:00:2.63,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:2.63,0:00:2.87,Default,,0,0,0,,verso di me, io {\1c&HFF00&\u1}sarò{\r} al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:2.87,0:00:2.95,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:2.95,0:00:3.05,Default,,0,0,0,,verso di me, io sarò {\1c&HFF00&\u1}al{\r} mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:3.05,0:00:3.11,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:3.11,0:00:3.41,Default,,0,0,0,,verso di me, io sarò al {\1c&HFF00&\u1}mare,{\r} quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:3.41,0:00:3.99,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:3.99,0:00:4.29,Default,,0,0,0,,verso di me, io sarò al mare, {\1c&HFF00&\u1}quindi{\r} quella persona con cui io parlo viene
+Dialogue: 0,0:00:4.29,0:00:4.53,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:4.53,0:00:4.81,Default,,0,0,0,,verso di me, io sarò al mare, quindi {\1c&HFF00&\u1}quella{\r} persona con cui io parlo viene
+Dialogue: 0,0:00:4.81,0:00:4.85,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:4.85,0:00:5.41,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella {\1c&HFF00&\u1}persona{\r} con cui io parlo viene
+Dialogue: 0,0:00:5.41,0:00:5.75,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:5.75,0:00:5.89,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona {\1c&HFF00&\u1}con{\r} cui io parlo viene
+Dialogue: 0,0:00:5.89,0:00:5.97,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:5.97,0:00:6.11,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con {\1c&HFF00&\u1}cui{\r} io parlo viene
+Dialogue: 0,0:00:6.11,0:00:6.21,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:6.21,0:00:6.33,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui {\1c&HFF00&\u1}io{\r} parlo viene
+Dialogue: 0,0:00:6.33,0:00:6.41,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:6.41,0:00:6.83,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io {\1c&HFF00&\u1}parlo{\r} viene
+Dialogue: 0,0:00:6.83,0:00:7.52,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo viene
+Dialogue: 0,0:00:7.52,0:00:7.88,Default,,0,0,0,,verso di me, io sarò al mare, quindi quella persona con cui io parlo {\1c&HFF00&\u1}viene{\r}
+Dialogue: 0,0:00:7.84,0:00:8.10,Default,,0,0,0,,{\1c&HFF00&\u1}verso{\r} di me.
+Dialogue: 0,0:00:8.10,0:00:8.12,Default,,0,0,0,,verso di me.
+Dialogue: 0,0:00:8.12,0:00:8.16,Default,,0,0,0,,verso {\1c&HFF00&\u1}di{\r} me.
+Dialogue: 0,0:00:8.16,0:00:8.18,Default,,0,0,0,,verso di me.
+Dialogue: 0,0:00:8.18,0:00:8.24,Default,,0,0,0,,verso di {\1c&HFF00&\u1}me.{\r}

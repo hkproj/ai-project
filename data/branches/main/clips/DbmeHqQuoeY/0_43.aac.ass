@@ -1,0 +1,376 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.26,0:00:1.08,Default,,0,0,0,,{\1c&HFF00&\u1}funziona.{\r} Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.08,0:00:1.10,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.10,0:00:1.32,Default,,0,0,0,,funziona. {\1c&HFF00&\u1}Adesso{\r} non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.32,0:00:1.40,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.40,0:00:1.50,Default,,0,0,0,,funziona. Adesso {\1c&HFF00&\u1}non{\r} ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.50,0:00:1.54,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.54,0:00:1.60,Default,,0,0,0,,funziona. Adesso non {\1c&HFF00&\u1}ne{\r} ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.60,0:00:1.64,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.64,0:00:1.72,Default,,0,0,0,,funziona. Adesso non ne {\1c&HFF00&\u1}ho{\r} bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.72,0:00:1.76,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:1.76,0:00:2.27,Default,,0,0,0,,funziona. Adesso non ne ho {\1c&HFF00&\u1}bisogno,{\r} ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:2.27,0:00:2.45,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:2.45,0:00:2.53,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, {\1c&HFF00&\u1}ma{\r} una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:2.53,0:00:2.59,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:2.59,0:00:2.69,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma {\1c&HFF00&\u1}una{\r} volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:2.69,0:00:2.73,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:2.73,0:00:3.03,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una {\1c&HFF00&\u1}volta{\r} quando giravo per negozi, online, se
+Dialogue: 0,0:00:3.03,0:00:3.15,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:3.15,0:00:3.57,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta {\1c&HFF00&\u1}quando{\r} giravo per negozi, online, se
+Dialogue: 0,0:00:3.57,0:00:3.71,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:3.71,0:00:4.23,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando {\1c&HFF00&\u1}giravo{\r} per negozi, online, se
+Dialogue: 0,0:00:4.23,0:00:4.57,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:4.57,0:00:4.69,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo {\1c&HFF00&\u1}per{\r} negozi, online, se
+Dialogue: 0,0:00:4.69,0:00:4.77,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:4.77,0:00:5.45,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per {\1c&HFF00&\u1}negozi,{\r} online, se
+Dialogue: 0,0:00:5.45,0:00:5.65,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:5.65,0:00:6.27,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, {\1c&HFF00&\u1}online,{\r} se
+Dialogue: 0,0:00:6.27,0:00:6.78,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, se
+Dialogue: 0,0:00:6.78,0:00:6.84,Default,,0,0,0,,funziona. Adesso non ne ho bisogno, ma una volta quando giravo per negozi, online, {\1c&HFF00&\u1}se{\r}
+Dialogue: 0,0:00:6.84,0:00:7.20,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:7.20,0:00:7.22,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:7.22,0:00:7.92,Default,,0,0,0,,non {\1c&HFF00&\u1}acquistavo{\r} subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:7.92,0:00:7.98,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:7.98,0:00:8.32,Default,,0,0,0,,non acquistavo {\1c&HFF00&\u1}subito,{\r} la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.32,0:00:8.38,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.38,0:00:8.44,Default,,0,0,0,,non acquistavo subito, {\1c&HFF00&\u1}la{\r} maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.44,0:00:8.48,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.48,0:00:8.72,Default,,0,0,0,,non acquistavo subito, la {\1c&HFF00&\u1}maggior{\r} parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.72,0:00:8.76,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.76,0:00:8.95,Default,,0,0,0,,non acquistavo subito, la maggior {\1c&HFF00&\u1}parte{\r} delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.95,0:00:8.99,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:8.99,0:00:9.19,Default,,0,0,0,,non acquistavo subito, la maggior parte {\1c&HFF00&\u1}delle{\r} volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:9.19,0:00:9.23,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:9.23,0:00:9.59,Default,,0,0,0,,non acquistavo subito, la maggior parte delle {\1c&HFF00&\u1}volte,{\r} perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:9.59,0:00:10.17,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:10.17,0:00:10.49,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, {\1c&HFF00&\u1}perdevo{\r} l'interesse quasi immediatamente.
+Dialogue: 0,0:00:10.49,0:00:10.55,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:10.55,0:00:11.13,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo {\1c&HFF00&\u1}l'interesse{\r} quasi immediatamente.
+Dialogue: 0,0:00:11.13,0:00:11.43,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:11.43,0:00:11.67,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse {\1c&HFF00&\u1}quasi{\r} immediatamente.
+Dialogue: 0,0:00:11.67,0:00:11.69,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi immediatamente.
+Dialogue: 0,0:00:11.69,0:00:12.41,Default,,0,0,0,,non acquistavo subito, la maggior parte delle volte, perdevo l'interesse quasi {\1c&HFF00&\u1}immediatamente.{\r}
+Dialogue: 0,0:00:12.78,0:00:12.82,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:12.82,0:00:12.88,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:12.88,0:00:13.12,Default,,0,0,0,,E {\1c&HFF00&\u1}punto{\r} bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:13.12,0:00:13.18,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:13.18,0:00:13.52,Default,,0,0,0,,E punto {\1c&HFF00&\u1}bonus?{\r} Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:13.52,0:00:13.82,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:13.82,0:00:14.04,Default,,0,0,0,,E punto bonus? {\1c&HFF00&\u1}Dire{\r} no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:14.04,0:00:14.28,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:14.28,0:00:14.46,Default,,0,0,0,,E punto bonus? Dire {\1c&HFF00&\u1}no.{\r} Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:14.46,0:00:15.01,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:15.01,0:00:15.21,Default,,0,0,0,,E punto bonus? Dire no. {\1c&HFF00&\u1}Dire{\r} no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:15.21,0:00:15.27,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:15.27,0:00:15.45,Default,,0,0,0,,E punto bonus? Dire no. Dire {\1c&HFF00&\u1}no{\r} ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:15.45,0:00:15.65,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:15.65,0:00:15.75,Default,,0,0,0,,E punto bonus? Dire no. Dire no {\1c&HFF00&\u1}ad{\r} attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:15.75,0:00:15.79,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:15.79,0:00:16.15,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad {\1c&HFF00&\u1}attività{\r} troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:16.15,0:00:16.21,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:16.21,0:00:16.43,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività {\1c&HFF00&\u1}troppo{\r} costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:16.43,0:00:16.51,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:16.51,0:00:17.09,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo {\1c&HFF00&\u1}costose,{\r} ad appuntamenti e così via.
+Dialogue: 0,0:00:17.09,0:00:17.39,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:17.39,0:00:17.69,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, {\1c&HFF00&\u1}ad{\r} appuntamenti e così via.
+Dialogue: 0,0:00:17.69,0:00:17.71,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:17.71,0:00:18.51,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad {\1c&HFF00&\u1}appuntamenti{\r} e così via.
+Dialogue: 0,0:00:18.51,0:00:18.53,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:18.53,0:00:18.55,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti {\1c&HFF00&\u1}e{\r} così via.
+Dialogue: 0,0:00:18.55,0:00:18.83,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:18.83,0:00:19.03,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e {\1c&HFF00&\u1}così{\r} via.
+Dialogue: 0,0:00:19.03,0:00:19.09,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così via.
+Dialogue: 0,0:00:19.09,0:00:19.26,Default,,0,0,0,,E punto bonus? Dire no. Dire no ad attività troppo costose, ad appuntamenti e così {\1c&HFF00&\u1}via.{\r}
+Dialogue: 0,0:00:20.52,0:00:20.70,Default,,0,0,0,,{\1c&HFF00&\u1}Dire{\r} no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:20.70,0:00:20.72,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:20.72,0:00:20.80,Default,,0,0,0,,Dire {\1c&HFF00&\u1}no{\r} va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:20.80,0:00:20.82,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:20.82,0:00:20.86,Default,,0,0,0,,Dire no {\1c&HFF00&\u1}va{\r} bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:20.86,0:00:20.90,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:20.90,0:00:20.98,Default,,0,0,0,,Dire no va {\1c&HFF00&\u1}bene.{\r} Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:20.98,0:00:21.00,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.00,0:00:21.08,Default,,0,0,0,,Dire no va bene. {\1c&HFF00&\u1}Se{\r} sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.08,0:00:21.14,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.14,0:00:21.28,Default,,0,0,0,,Dire no va bene. Se {\1c&HFF00&\u1}sono{\r} invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.28,0:00:21.32,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.32,0:00:21.77,Default,,0,0,0,,Dire no va bene. Se sono {\1c&HFF00&\u1}invitata{\r} a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.77,0:00:21.79,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.79,0:00:21.81,Default,,0,0,0,,Dire no va bene. Se sono invitata {\1c&HFF00&\u1}a{\r} passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.81,0:00:21.87,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:21.87,0:00:22.15,Default,,0,0,0,,Dire no va bene. Se sono invitata a {\1c&HFF00&\u1}passare{\r} un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:22.15,0:00:22.21,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:22.21,0:00:22.27,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare {\1c&HFF00&\u1}un{\r} weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:22.27,0:00:22.35,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:22.35,0:00:22.97,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un {\1c&HFF00&\u1}weekend{\r} da qualche parte e so che la spesa
+Dialogue: 0,0:00:22.97,0:00:23.05,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:23.05,0:00:23.15,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend {\1c&HFF00&\u1}da{\r} qualche parte e so che la spesa
+Dialogue: 0,0:00:23.15,0:00:23.19,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:23.19,0:00:23.49,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da {\1c&HFF00&\u1}qualche{\r} parte e so che la spesa
+Dialogue: 0,0:00:23.49,0:00:23.59,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:23.59,0:00:23.99,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche {\1c&HFF00&\u1}parte{\r} e so che la spesa
+Dialogue: 0,0:00:23.99,0:00:24.15,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:24.15,0:00:24.19,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte {\1c&HFF00&\u1}e{\r} so che la spesa
+Dialogue: 0,0:00:24.19,0:00:24.27,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:24.27,0:00:24.37,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e {\1c&HFF00&\u1}so{\r} che la spesa
+Dialogue: 0,0:00:24.37,0:00:24.41,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:24.41,0:00:24.51,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so {\1c&HFF00&\u1}che{\r} la spesa
+Dialogue: 0,0:00:24.51,0:00:24.59,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:24.59,0:00:24.65,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che {\1c&HFF00&\u1}la{\r} spesa
+Dialogue: 0,0:00:24.65,0:00:24.69,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la spesa
+Dialogue: 0,0:00:24.69,0:00:24.95,Default,,0,0,0,,Dire no va bene. Se sono invitata a passare un weekend da qualche parte e so che la {\1c&HFF00&\u1}spesa{\r}
+Dialogue: 0,0:00:24.96,0:00:25.42,Default,,0,0,0,,{\1c&HFF00&\u1}sarà{\r} troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:25.42,0:00:25.46,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:25.46,0:00:25.68,Default,,0,0,0,,sarà {\1c&HFF00&\u1}troppo{\r} alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:25.68,0:00:25.76,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:25.76,0:00:25.98,Default,,0,0,0,,sarà troppo {\1c&HFF00&\u1}alta{\r} per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:25.98,0:00:26.02,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:26.02,0:00:26.16,Default,,0,0,0,,sarà troppo alta {\1c&HFF00&\u1}per{\r} me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:26.16,0:00:26.20,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:26.20,0:00:26.28,Default,,0,0,0,,sarà troppo alta per {\1c&HFF00&\u1}me,{\r} dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:26.28,0:00:26.66,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:26.66,0:00:26.93,Default,,0,0,0,,sarà troppo alta per me, {\1c&HFF00&\u1}dico{\r} di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:26.93,0:00:26.97,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:26.97,0:00:27.03,Default,,0,0,0,,sarà troppo alta per me, dico {\1c&HFF00&\u1}di{\r} no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:27.03,0:00:27.07,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:27.07,0:00:27.35,Default,,0,0,0,,sarà troppo alta per me, dico di {\1c&HFF00&\u1}no,{\r} oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:27.35,0:00:27.39,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:27.39,0:00:27.81,Default,,0,0,0,,sarà troppo alta per me, dico di no, {\1c&HFF00&\u1}oppure{\r} cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:27.81,0:00:28.25,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:28.25,0:00:28.47,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure {\1c&HFF00&\u1}cerco{\r} un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:28.47,0:00:28.53,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:28.53,0:00:29.23,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco {\1c&HFF00&\u1}un'alternativa{\r} da proporre. Ci sono
+Dialogue: 0,0:00:29.23,0:00:29.43,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:29.43,0:00:29.49,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa {\1c&HFF00&\u1}da{\r} proporre. Ci sono
+Dialogue: 0,0:00:29.49,0:00:29.55,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:29.55,0:00:30.01,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da {\1c&HFF00&\u1}proporre.{\r} Ci sono
+Dialogue: 0,0:00:30.01,0:00:30.23,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:30.23,0:00:30.29,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. {\1c&HFF00&\u1}Ci{\r} sono
+Dialogue: 0,0:00:30.29,0:00:30.35,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci sono
+Dialogue: 0,0:00:30.35,0:00:30.49,Default,,0,0,0,,sarà troppo alta per me, dico di no, oppure cerco un'alternativa da proporre. Ci {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:00:30.76,0:00:31.18,Default,,0,0,0,,{\1c&HFF00&\u1}tantissimi{\r} modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:31.18,0:00:31.24,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:31.24,0:00:31.48,Default,,0,0,0,,tantissimi {\1c&HFF00&\u1}modi{\r} di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:31.48,0:00:31.52,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:31.52,0:00:31.58,Default,,0,0,0,,tantissimi modi {\1c&HFF00&\u1}di{\r} risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:31.58,0:00:31.64,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:31.64,0:00:32.20,Default,,0,0,0,,tantissimi modi di {\1c&HFF00&\u1}risparmiare{\r} nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:32.20,0:00:32.34,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:32.34,0:00:32.53,Default,,0,0,0,,tantissimi modi di risparmiare {\1c&HFF00&\u1}nella{\r} quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:32.53,0:00:32.57,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:32.57,0:00:33.33,Default,,0,0,0,,tantissimi modi di risparmiare nella {\1c&HFF00&\u1}quotidianità{\r} e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:33.33,0:00:33.47,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:33.47,0:00:33.51,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità {\1c&HFF00&\u1}e{\r} quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:33.51,0:00:33.59,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:33.59,0:00:33.79,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e {\1c&HFF00&\u1}quando{\r} si inizia, si entra nella mentalità
+Dialogue: 0,0:00:33.79,0:00:33.91,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:33.91,0:00:34.05,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando {\1c&HFF00&\u1}si{\r} inizia, si entra nella mentalità
+Dialogue: 0,0:00:34.05,0:00:34.27,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:34.27,0:00:34.65,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si {\1c&HFF00&\u1}inizia,{\r} si entra nella mentalità
+Dialogue: 0,0:00:34.65,0:00:34.77,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:34.77,0:00:34.83,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, {\1c&HFF00&\u1}si{\r} entra nella mentalità
+Dialogue: 0,0:00:34.83,0:00:34.87,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:34.87,0:00:35.11,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si {\1c&HFF00&\u1}entra{\r} nella mentalità
+Dialogue: 0,0:00:35.11,0:00:35.57,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:35.57,0:00:35.75,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra {\1c&HFF00&\u1}nella{\r} mentalità
+Dialogue: 0,0:00:35.75,0:00:35.79,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella mentalità
+Dialogue: 0,0:00:35.79,0:00:36.29,Default,,0,0,0,,tantissimi modi di risparmiare nella quotidianità e quando si inizia, si entra nella {\1c&HFF00&\u1}mentalità{\r}
+Dialogue: 0,0:00:36.62,0:00:36.82,Default,,0,0,0,,{\1c&HFF00&\u1}del{\r} risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:36.82,0:00:36.86,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:36.86,0:00:37.30,Default,,0,0,0,,del {\1c&HFF00&\u1}risparmio,{\r} tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:37.30,0:00:37.40,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:37.40,0:00:37.58,Default,,0,0,0,,del risparmio, {\1c&HFF00&\u1}tutto{\r} diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:37.58,0:00:37.62,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:37.62,0:00:37.96,Default,,0,0,0,,del risparmio, tutto {\1c&HFF00&\u1}diventa{\r} più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:37.96,0:00:38.02,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:38.02,0:00:38.18,Default,,0,0,0,,del risparmio, tutto diventa {\1c&HFF00&\u1}più{\r} facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:38.18,0:00:38.61,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:38.61,0:00:39.11,Default,,0,0,0,,del risparmio, tutto diventa più {\1c&HFF00&\u1}facile{\r} e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:39.11,0:00:39.35,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:39.35,0:00:39.43,Default,,0,0,0,,del risparmio, tutto diventa più facile {\1c&HFF00&\u1}e{\r} automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:39.43,0:00:39.53,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:39.53,0:00:40.29,Default,,0,0,0,,del risparmio, tutto diventa più facile e {\1c&HFF00&\u1}automatico.{\r} Il risparmio non è qualcosa di
+Dialogue: 0,0:00:40.29,0:00:40.47,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:40.47,0:00:40.55,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. {\1c&HFF00&\u1}Il{\r} risparmio non è qualcosa di
+Dialogue: 0,0:00:40.55,0:00:40.61,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:40.61,0:00:41.01,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il {\1c&HFF00&\u1}risparmio{\r} non è qualcosa di
+Dialogue: 0,0:00:41.01,0:00:41.05,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:41.05,0:00:41.15,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio {\1c&HFF00&\u1}non{\r} è qualcosa di
+Dialogue: 0,0:00:41.15,0:00:41.19,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:41.19,0:00:41.25,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non {\1c&HFF00&\u1}è{\r} qualcosa di
+Dialogue: 0,0:00:41.25,0:00:41.29,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:41.29,0:00:41.61,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è {\1c&HFF00&\u1}qualcosa{\r} di
+Dialogue: 0,0:00:41.61,0:00:41.69,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa di
+Dialogue: 0,0:00:41.69,0:00:41.73,Default,,0,0,0,,del risparmio, tutto diventa più facile e automatico. Il risparmio non è qualcosa {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:41.72,0:00:42.46,Default,,0,0,0,,{\1c&HFF00&\u1}negativo,{\r} non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:42.46,0:00:42.48,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:42.48,0:00:42.56,Default,,0,0,0,,negativo, {\1c&HFF00&\u1}non{\r} si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:42.56,0:00:42.58,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:42.58,0:00:42.66,Default,,0,0,0,,negativo, non {\1c&HFF00&\u1}si{\r} tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:42.66,0:00:42.74,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:42.74,0:00:42.90,Default,,0,0,0,,negativo, non si {\1c&HFF00&\u1}tratta{\r} di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:42.90,0:00:43.00,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:43.00,0:00:43.06,Default,,0,0,0,,negativo, non si tratta {\1c&HFF00&\u1}di{\r} sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:43.06,0:00:43.12,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:43.12,0:00:43.81,Default,,0,0,0,,negativo, non si tratta di {\1c&HFF00&\u1}sacrificarsi,{\r} fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:43.81,0:00:43.91,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:43.91,0:00:44.07,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, {\1c&HFF00&\u1}fare{\r} renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:44.07,0:00:44.17,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:44.17,0:00:44.61,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare {\1c&HFF00&\u1}renunce,{\r} blablabla. Il risparmio significa
+Dialogue: 0,0:00:44.61,0:00:44.73,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:44.73,0:00:45.09,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, {\1c&HFF00&\u1}blablabla.{\r} Il risparmio significa
+Dialogue: 0,0:00:45.09,0:00:45.81,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:45.81,0:00:45.89,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. {\1c&HFF00&\u1}Il{\r} risparmio significa
+Dialogue: 0,0:00:45.89,0:00:45.95,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:45.95,0:00:46.43,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il {\1c&HFF00&\u1}risparmio{\r} significa
+Dialogue: 0,0:00:46.43,0:00:46.57,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio significa
+Dialogue: 0,0:00:46.57,0:00:46.99,Default,,0,0,0,,negativo, non si tratta di sacrificarsi, fare renunce, blablabla. Il risparmio {\1c&HFF00&\u1}significa{\r}
+Dialogue: 0,0:00:47.00,0:00:47.10,Default,,0,0,0,,{\1c&HFF00&\u1}avere{\r} rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.10,0:00:47.12,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.12,0:00:47.28,Default,,0,0,0,,avere {\1c&HFF00&\u1}rispetto{\r} per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.28,0:00:47.30,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.30,0:00:47.36,Default,,0,0,0,,avere rispetto {\1c&HFF00&\u1}per{\r} il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.36,0:00:47.38,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.38,0:00:47.42,Default,,0,0,0,,avere rispetto per {\1c&HFF00&\u1}il{\r} denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.42,0:00:47.44,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.44,0:00:47.56,Default,,0,0,0,,avere rispetto per il {\1c&HFF00&\u1}denaro,{\r} per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.56,0:00:47.58,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.58,0:00:47.64,Default,,0,0,0,,avere rispetto per il denaro, {\1c&HFF00&\u1}per{\r} il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.64,0:00:47.66,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.66,0:00:47.70,Default,,0,0,0,,avere rispetto per il denaro, per {\1c&HFF00&\u1}il{\r} proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.70,0:00:47.72,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.72,0:00:47.86,Default,,0,0,0,,avere rispetto per il denaro, per il {\1c&HFF00&\u1}proprio{\r} lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.86,0:00:47.88,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:47.88,0:00:48.00,Default,,0,0,0,,avere rispetto per il denaro, per il proprio {\1c&HFF00&\u1}lavoro{\r} e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.00,0:00:48.02,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.02,0:00:48.04,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro {\1c&HFF00&\u1}e{\r} quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.04,0:00:48.06,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.06,0:00:48.20,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e {\1c&HFF00&\u1}quindi{\r} per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.20,0:00:48.24,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.24,0:00:48.30,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi {\1c&HFF00&\u1}per{\r} se stessi. Fammi sapere
+Dialogue: 0,0:00:48.30,0:00:48.32,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.32,0:00:48.40,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per {\1c&HFF00&\u1}se{\r} stessi. Fammi sapere
+Dialogue: 0,0:00:48.40,0:00:48.42,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.42,0:00:48.66,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se {\1c&HFF00&\u1}stessi.{\r} Fammi sapere
+Dialogue: 0,0:00:48.66,0:00:48.70,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:48.70,0:00:49.06,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. {\1c&HFF00&\u1}Fammi{\r} sapere
+Dialogue: 0,0:00:49.06,0:00:49.09,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi sapere
+Dialogue: 0,0:00:49.09,0:00:49.61,Default,,0,0,0,,avere rispetto per il denaro, per il proprio lavoro e quindi per se stessi. Fammi {\1c&HFF00&\u1}sapere{\r}
+Dialogue: 0,0:00:53.32,0:00:53.78,Default,,0,0,0,,{\1c&HFF00&\u1}quali{\r} di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:53.78,0:00:53.80,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:53.80,0:00:53.84,Default,,0,0,0,,quali {\1c&HFF00&\u1}di{\r} questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:53.84,0:00:53.86,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:53.86,0:00:54.00,Default,,0,0,0,,quali di {\1c&HFF00&\u1}questi{\r} modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.00,0:00:54.06,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.06,0:00:54.24,Default,,0,0,0,,quali di questi {\1c&HFF00&\u1}modi{\r} vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.24,0:00:54.26,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.26,0:00:54.54,Default,,0,0,0,,quali di questi modi {\1c&HFF00&\u1}vorresti{\r} introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.54,0:00:54.58,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.58,0:00:54.97,Default,,0,0,0,,quali di questi modi vorresti {\1c&HFF00&\u1}introdurre{\r} nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.97,0:00:54.99,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:54.99,0:00:55.21,Default,,0,0,0,,quali di questi modi vorresti introdurre {\1c&HFF00&\u1}nella{\r} tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:55.21,0:00:55.25,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:55.25,0:00:55.37,Default,,0,0,0,,quali di questi modi vorresti introdurre nella {\1c&HFF00&\u1}tua{\r} vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:55.37,0:00:55.43,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:55.43,0:00:55.69,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua {\1c&HFF00&\u1}vita{\r} e se hai altri consigli lasciali
+Dialogue: 0,0:00:55.69,0:00:55.71,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:55.71,0:00:55.73,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita {\1c&HFF00&\u1}e{\r} se hai altri consigli lasciali
+Dialogue: 0,0:00:55.73,0:00:56.01,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:56.01,0:00:56.09,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e {\1c&HFF00&\u1}se{\r} hai altri consigli lasciali
+Dialogue: 0,0:00:56.09,0:00:56.11,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:56.11,0:00:56.21,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se {\1c&HFF00&\u1}hai{\r} altri consigli lasciali
+Dialogue: 0,0:00:56.21,0:00:56.25,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:56.25,0:00:56.45,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai {\1c&HFF00&\u1}altri{\r} consigli lasciali
+Dialogue: 0,0:00:56.45,0:00:56.51,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:56.51,0:00:56.93,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri {\1c&HFF00&\u1}consigli{\r} lasciali
+Dialogue: 0,0:00:56.93,0:00:57.35,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli lasciali
+Dialogue: 0,0:00:57.35,0:00:57.69,Default,,0,0,0,,quali di questi modi vorresti introdurre nella tua vita e se hai altri consigli {\1c&HFF00&\u1}lasciali{\r}
+Dialogue: 0,0:00:57.64,0:00:58.08,Default,,0,0,0,,{\1c&HFF00&\u1}sotto{\r} nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:58.08,0:00:58.10,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:58.10,0:00:58.20,Default,,0,0,0,,sotto {\1c&HFF00&\u1}nei{\r} commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:58.20,0:00:58.24,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:58.24,0:00:58.66,Default,,0,0,0,,sotto nei {\1c&HFF00&\u1}commenti.{\r} Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:58.66,0:00:59.20,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.20,0:00:59.28,Default,,0,0,0,,sotto nei commenti. {\1c&HFF00&\u1}Se{\r} il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.28,0:00:59.32,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.32,0:00:59.39,Default,,0,0,0,,sotto nei commenti. Se {\1c&HFF00&\u1}il{\r} video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.39,0:00:59.41,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.41,0:00:59.57,Default,,0,0,0,,sotto nei commenti. Se il {\1c&HFF00&\u1}video{\r} ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.57,0:00:59.65,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.65,0:00:59.71,Default,,0,0,0,,sotto nei commenti. Se il video {\1c&HFF00&\u1}ti{\r} è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.71,0:00:59.73,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.73,0:00:59.75,Default,,0,0,0,,sotto nei commenti. Se il video ti {\1c&HFF00&\u1}è{\r} stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.75,0:00:59.77,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:00:59.77,0:01:0.03,Default,,0,0,0,,sotto nei commenti. Se il video ti è {\1c&HFF00&\u1}stato{\r} utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:0.03,0:01:0.13,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:0.13,0:01:0.43,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato {\1c&HFF00&\u1}utile{\r} supportami con un like e iscriviti al
+Dialogue: 0,0:01:0.43,0:01:0.53,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:0.53,0:01:1.03,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile {\1c&HFF00&\u1}supportami{\r} con un like e iscriviti al
+Dialogue: 0,0:01:1.03,0:01:1.25,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:1.25,0:01:1.37,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami {\1c&HFF00&\u1}con{\r} un like e iscriviti al
+Dialogue: 0,0:01:1.37,0:01:1.43,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:1.43,0:01:1.51,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con {\1c&HFF00&\u1}un{\r} like e iscriviti al
+Dialogue: 0,0:01:1.51,0:01:1.57,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:1.57,0:01:1.91,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un {\1c&HFF00&\u1}like{\r} e iscriviti al
+Dialogue: 0,0:01:1.91,0:01:2.13,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:2.13,0:01:2.15,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like {\1c&HFF00&\u1}e{\r} iscriviti al
+Dialogue: 0,0:01:2.15,0:01:2.19,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:2.19,0:01:2.53,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e {\1c&HFF00&\u1}iscriviti{\r} al
+Dialogue: 0,0:01:2.53,0:01:2.57,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti al
+Dialogue: 0,0:01:2.57,0:01:2.63,Default,,0,0,0,,sotto nei commenti. Se il video ti è stato utile supportami con un like e iscriviti {\1c&HFF00&\u1}al{\r}
+Dialogue: 0,0:01:2.60,0:01:3.28,Default,,0,0,0,,{\1c&HFF00&\u1}canale{\r} per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:3.28,0:01:3.32,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:3.32,0:01:3.82,Default,,0,0,0,,canale {\1c&HFF00&\u1}per{\r} video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:3.82,0:01:3.86,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:3.86,0:01:4.06,Default,,0,0,0,,canale per {\1c&HFF00&\u1}video{\r} come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:4.06,0:01:4.12,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:4.12,0:01:4.29,Default,,0,0,0,,canale per video {\1c&HFF00&\u1}come{\r} questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:4.29,0:01:4.37,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:4.37,0:01:4.91,Default,,0,0,0,,canale per video come {\1c&HFF00&\u1}questo.{\r} Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:4.91,0:01:4.93,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:4.93,0:01:4.97,Default,,0,0,0,,canale per video come questo. {\1c&HFF00&\u1}Ci{\r} vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:4.97,0:01:5.01,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.01,0:01:5.21,Default,,0,0,0,,canale per video come questo. Ci {\1c&HFF00&\u1}vediamo{\r} al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.21,0:01:5.27,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.27,0:01:5.33,Default,,0,0,0,,canale per video come questo. Ci vediamo {\1c&HFF00&\u1}al{\r} prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.33,0:01:5.37,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.37,0:01:5.63,Default,,0,0,0,,canale per video come questo. Ci vediamo al {\1c&HFF00&\u1}prossimo{\r} video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.63,0:01:5.71,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.71,0:01:5.87,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo {\1c&HFF00&\u1}video{\r} e fino ad allora ti auguro
+Dialogue: 0,0:01:5.87,0:01:5.89,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.89,0:01:5.91,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video {\1c&HFF00&\u1}e{\r} fino ad allora ti auguro
+Dialogue: 0,0:01:5.91,0:01:5.99,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:5.99,0:01:6.11,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e {\1c&HFF00&\u1}fino{\r} ad allora ti auguro
+Dialogue: 0,0:01:6.11,0:01:6.13,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:6.13,0:01:6.23,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino {\1c&HFF00&\u1}ad{\r} allora ti auguro
+Dialogue: 0,0:01:6.23,0:01:6.25,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:6.25,0:01:6.49,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad {\1c&HFF00&\u1}allora{\r} ti auguro
+Dialogue: 0,0:01:6.49,0:01:6.61,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:6.61,0:01:6.67,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora {\1c&HFF00&\u1}ti{\r} auguro
+Dialogue: 0,0:01:6.67,0:01:6.71,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti auguro
+Dialogue: 0,0:01:6.71,0:01:7.01,Default,,0,0,0,,canale per video come questo. Ci vediamo al prossimo video e fino ad allora ti {\1c&HFF00&\u1}auguro{\r}
+Dialogue: 0,0:01:7.66,0:01:7.70,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} raggiungere il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:7.70,0:01:7.75,Default,,0,0,0,,di raggiungere il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:7.75,0:01:8.19,Default,,0,0,0,,di {\1c&HFF00&\u1}raggiungere{\r} il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:8.19,0:01:8.23,Default,,0,0,0,,di raggiungere il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:8.23,0:01:8.31,Default,,0,0,0,,di raggiungere {\1c&HFF00&\u1}il{\r} tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:8.31,0:01:8.33,Default,,0,0,0,,di raggiungere il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:8.33,0:01:8.41,Default,,0,0,0,,di raggiungere il {\1c&HFF00&\u1}tuo{\r} obiettivo finanziario. Peace!
+Dialogue: 0,0:01:8.41,0:01:8.45,Default,,0,0,0,,di raggiungere il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:8.45,0:01:8.79,Default,,0,0,0,,di raggiungere il tuo {\1c&HFF00&\u1}obiettivo{\r} finanziario. Peace!
+Dialogue: 0,0:01:8.79,0:01:8.87,Default,,0,0,0,,di raggiungere il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:8.87,0:01:9.50,Default,,0,0,0,,di raggiungere il tuo obiettivo {\1c&HFF00&\u1}finanziario.{\r} Peace!
+Dialogue: 0,0:01:9.50,0:01:9.84,Default,,0,0,0,,di raggiungere il tuo obiettivo finanziario. Peace!
+Dialogue: 0,0:01:9.84,0:01:10.12,Default,,0,0,0,,di raggiungere il tuo obiettivo finanziario. {\1c&HFF00&\u1}Peace!{\r}

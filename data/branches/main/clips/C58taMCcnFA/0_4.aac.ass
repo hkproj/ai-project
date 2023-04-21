@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.14,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}profondo{\r} del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:0.48,0:00:0.52,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:0.52,0:00:0.66,Default,,0,0,0,,profondo {\1c&HFF00&\u1}del{\r} cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:0.66,0:00:0.74,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:0.74,0:00:1.08,Default,,0,0,0,,profondo del {\1c&HFF00&\u1}cuore{\r} perché è una frase che parte da gente
+Dialogue: 0,0:00:1.08,0:00:1.16,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:1.16,0:00:1.65,Default,,0,0,0,,profondo del cuore {\1c&HFF00&\u1}perché{\r} è una frase che parte da gente
+Dialogue: 0,0:00:1.65,0:00:2.17,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:2.17,0:00:2.21,Default,,0,0,0,,profondo del cuore perché {\1c&HFF00&\u1}è{\r} una frase che parte da gente
+Dialogue: 0,0:00:2.21,0:00:2.25,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:2.25,0:00:2.35,Default,,0,0,0,,profondo del cuore perché è {\1c&HFF00&\u1}una{\r} frase che parte da gente
+Dialogue: 0,0:00:2.35,0:00:2.37,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:2.37,0:00:2.57,Default,,0,0,0,,profondo del cuore perché è una {\1c&HFF00&\u1}frase{\r} che parte da gente
+Dialogue: 0,0:00:2.57,0:00:2.61,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:2.61,0:00:2.73,Default,,0,0,0,,profondo del cuore perché è una frase {\1c&HFF00&\u1}che{\r} parte da gente
+Dialogue: 0,0:00:2.73,0:00:2.85,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:2.85,0:00:3.15,Default,,0,0,0,,profondo del cuore perché è una frase che {\1c&HFF00&\u1}parte{\r} da gente
+Dialogue: 0,0:00:3.15,0:00:3.21,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:3.21,0:00:3.29,Default,,0,0,0,,profondo del cuore perché è una frase che parte {\1c&HFF00&\u1}da{\r} gente
+Dialogue: 0,0:00:3.29,0:00:3.39,Default,,0,0,0,,profondo del cuore perché è una frase che parte da gente
+Dialogue: 0,0:00:3.39,0:00:3.83,Default,,0,0,0,,profondo del cuore perché è una frase che parte da {\1c&HFF00&\u1}gente{\r}
+Dialogue: 0,0:00:4.64,0:00:4.77,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} non capisce la differenza tra
+Dialogue: 0,0:00:4.77,0:00:4.91,Default,,0,0,0,,che non capisce la differenza tra
+Dialogue: 0,0:00:4.91,0:00:5.05,Default,,0,0,0,,che {\1c&HFF00&\u1}non{\r} capisce la differenza tra
+Dialogue: 0,0:00:5.05,0:00:5.11,Default,,0,0,0,,che non capisce la differenza tra
+Dialogue: 0,0:00:5.11,0:00:5.45,Default,,0,0,0,,che non {\1c&HFF00&\u1}capisce{\r} la differenza tra
+Dialogue: 0,0:00:5.45,0:00:5.51,Default,,0,0,0,,che non capisce la differenza tra
+Dialogue: 0,0:00:5.51,0:00:5.57,Default,,0,0,0,,che non capisce {\1c&HFF00&\u1}la{\r} differenza tra
+Dialogue: 0,0:00:5.57,0:00:5.59,Default,,0,0,0,,che non capisce la differenza tra
+Dialogue: 0,0:00:5.59,0:00:6.03,Default,,0,0,0,,che non capisce la {\1c&HFF00&\u1}differenza{\r} tra
+Dialogue: 0,0:00:6.03,0:00:6.09,Default,,0,0,0,,che non capisce la differenza tra
+Dialogue: 0,0:00:6.09,0:00:6.19,Default,,0,0,0,,che non capisce la differenza {\1c&HFF00&\u1}tra{\r}
+Dialogue: 0,0:00:6.14,0:00:6.92,Default,,0,0,0,,{\1c&HFF00&\u1}fra{\r} fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:6.92,0:00:6.98,Default,,0,0,0,,fra fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:6.98,0:00:7.83,Default,,0,0,0,,fra {\1c&HFF00&\u1}fruizione{\r} di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:7.83,0:00:7.97,Default,,0,0,0,,fra fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:7.97,0:00:8.03,Default,,0,0,0,,fra fruizione {\1c&HFF00&\u1}di{\r} un'opera e analisi di un'opera.
+Dialogue: 0,0:00:8.03,0:00:8.05,Default,,0,0,0,,fra fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:8.05,0:00:8.43,Default,,0,0,0,,fra fruizione di {\1c&HFF00&\u1}un'opera{\r} e analisi di un'opera.
+Dialogue: 0,0:00:8.43,0:00:8.57,Default,,0,0,0,,fra fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:8.57,0:00:8.63,Default,,0,0,0,,fra fruizione di un'opera {\1c&HFF00&\u1}e{\r} analisi di un'opera.
+Dialogue: 0,0:00:8.63,0:00:8.71,Default,,0,0,0,,fra fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:8.71,0:00:9.30,Default,,0,0,0,,fra fruizione di un'opera e {\1c&HFF00&\u1}analisi{\r} di un'opera.
+Dialogue: 0,0:00:9.30,0:00:9.86,Default,,0,0,0,,fra fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:9.86,0:00:9.92,Default,,0,0,0,,fra fruizione di un'opera e analisi {\1c&HFF00&\u1}di{\r} un'opera.
+Dialogue: 0,0:00:9.92,0:00:9.96,Default,,0,0,0,,fra fruizione di un'opera e analisi di un'opera.
+Dialogue: 0,0:00:9.96,0:00:10.30,Default,,0,0,0,,fra fruizione di un'opera e analisi di {\1c&HFF00&\u1}un'opera.{\r}

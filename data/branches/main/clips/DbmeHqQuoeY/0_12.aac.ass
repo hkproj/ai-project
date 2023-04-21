@@ -1,0 +1,110 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.06,0:00:0.16,Default,,0,0,0,,{\1c&HFF00&\u1}Noi{\r} abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:0.18,0:00:0.80,Default,,0,0,0,,Noi {\1c&HFF00&\u1}abbiamo{\r} mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:0.80,0:00:0.88,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:0.88,0:00:1.08,Default,,0,0,0,,Noi abbiamo {\1c&HFF00&\u1}mobili{\r} di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:1.08,0:00:1.16,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:1.16,0:00:1.26,Default,,0,0,0,,Noi abbiamo mobili {\1c&HFF00&\u1}di{\r} seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:1.26,0:00:1.28,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:1.28,0:00:1.60,Default,,0,0,0,,Noi abbiamo mobili di {\1c&HFF00&\u1}seconda{\r} mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:1.60,0:00:1.69,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:1.69,0:00:1.95,Default,,0,0,0,,Noi abbiamo mobili di seconda {\1c&HFF00&\u1}mano,{\r} vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:1.95,0:00:2.03,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:2.03,0:00:2.39,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, {\1c&HFF00&\u1}vestiti{\r} di seconda mano e ne sono felice.
+Dialogue: 0,0:00:2.39,0:00:2.45,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:2.45,0:00:2.51,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti {\1c&HFF00&\u1}di{\r} seconda mano e ne sono felice.
+Dialogue: 0,0:00:2.51,0:00:2.57,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:2.57,0:00:2.97,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di {\1c&HFF00&\u1}seconda{\r} mano e ne sono felice.
+Dialogue: 0,0:00:2.97,0:00:3.03,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:3.03,0:00:3.29,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda {\1c&HFF00&\u1}mano{\r} e ne sono felice.
+Dialogue: 0,0:00:3.29,0:00:3.63,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:3.63,0:00:3.67,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano {\1c&HFF00&\u1}e{\r} ne sono felice.
+Dialogue: 0,0:00:3.67,0:00:3.71,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:3.71,0:00:3.77,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e {\1c&HFF00&\u1}ne{\r} sono felice.
+Dialogue: 0,0:00:3.77,0:00:3.83,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:3.83,0:00:3.99,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne {\1c&HFF00&\u1}sono{\r} felice.
+Dialogue: 0,0:00:3.99,0:00:4.05,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono felice.
+Dialogue: 0,0:00:4.05,0:00:4.43,Default,,0,0,0,,Noi abbiamo mobili di seconda mano, vestiti di seconda mano e ne sono {\1c&HFF00&\u1}felice.{\r}
+Dialogue: 0,0:00:4.66,0:00:4.74,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:4.74,0:00:4.76,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:4.76,0:00:4.84,Default,,0,0,0,,Per {\1c&HFF00&\u1}chi{\r} non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:4.84,0:00:4.90,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:4.90,0:00:5.00,Default,,0,0,0,,Per chi {\1c&HFF00&\u1}non{\r} ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.00,0:00:5.02,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.02,0:00:5.06,Default,,0,0,0,,Per chi non {\1c&HFF00&\u1}ha{\r} mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.06,0:00:5.10,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.10,0:00:5.22,Default,,0,0,0,,Per chi non ha {\1c&HFF00&\u1}mai{\r} considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.22,0:00:5.28,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.28,0:00:5.82,Default,,0,0,0,,Per chi non ha mai {\1c&HFF00&\u1}considerato{\r} di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.82,0:00:5.92,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:5.92,0:00:6.14,Default,,0,0,0,,Per chi non ha mai considerato {\1c&HFF00&\u1}di{\r} comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:6.14,0:00:6.29,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:6.29,0:00:6.67,Default,,0,0,0,,Per chi non ha mai considerato di {\1c&HFF00&\u1}comprare{\r} usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:6.67,0:00:6.73,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:6.73,0:00:7.13,Default,,0,0,0,,Per chi non ha mai considerato di comprare {\1c&HFF00&\u1}usato{\r} pensate che oltre al risparmio state
+Dialogue: 0,0:00:7.13,0:00:7.19,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:7.19,0:00:7.61,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato {\1c&HFF00&\u1}pensate{\r} che oltre al risparmio state
+Dialogue: 0,0:00:7.61,0:00:7.69,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:7.69,0:00:7.81,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate {\1c&HFF00&\u1}che{\r} oltre al risparmio state
+Dialogue: 0,0:00:7.81,0:00:7.97,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:7.97,0:00:8.17,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che {\1c&HFF00&\u1}oltre{\r} al risparmio state
+Dialogue: 0,0:00:8.17,0:00:8.21,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:8.21,0:00:8.31,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre {\1c&HFF00&\u1}al{\r} risparmio state
+Dialogue: 0,0:00:8.31,0:00:8.37,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:8.37,0:00:8.93,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al {\1c&HFF00&\u1}risparmio{\r} state
+Dialogue: 0,0:00:8.93,0:00:9.03,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio state
+Dialogue: 0,0:00:9.03,0:00:9.25,Default,,0,0,0,,Per chi non ha mai considerato di comprare usato pensate che oltre al risparmio {\1c&HFF00&\u1}state{\r}
+Dialogue: 0,0:00:9.24,0:00:9.84,Default,,0,0,0,,{\1c&HFF00&\u1}aiutando{\r} il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:9.84,0:00:9.86,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:9.86,0:00:9.90,Default,,0,0,0,,aiutando {\1c&HFF00&\u1}il{\r} pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:9.90,0:00:9.92,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:9.92,0:00:10.28,Default,,0,0,0,,aiutando il {\1c&HFF00&\u1}pianeta,{\r} non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:10.28,0:00:10.50,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:10.50,0:00:10.60,Default,,0,0,0,,aiutando il pianeta, {\1c&HFF00&\u1}non{\r} state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:10.60,0:00:10.62,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:10.62,0:00:10.86,Default,,0,0,0,,aiutando il pianeta, non {\1c&HFF00&\u1}state{\r} usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:10.86,0:00:10.90,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:10.90,0:00:11.45,Default,,0,0,0,,aiutando il pianeta, non state {\1c&HFF00&\u1}usando{\r} nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:11.45,0:00:11.51,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:11.51,0:00:11.75,Default,,0,0,0,,aiutando il pianeta, non state usando {\1c&HFF00&\u1}nuove{\r} risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:11.75,0:00:11.81,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:11.81,0:00:12.31,Default,,0,0,0,,aiutando il pianeta, non state usando nuove {\1c&HFF00&\u1}risorse{\r} e state dandovi nuova vita a quella
+Dialogue: 0,0:00:12.31,0:00:12.33,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:12.33,0:00:12.35,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse {\1c&HFF00&\u1}e{\r} state dandovi nuova vita a quella
+Dialogue: 0,0:00:12.35,0:00:12.67,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:12.67,0:00:12.95,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e {\1c&HFF00&\u1}state{\r} dandovi nuova vita a quella
+Dialogue: 0,0:00:12.95,0:00:13.01,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:13.01,0:00:13.43,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state {\1c&HFF00&\u1}dandovi{\r} nuova vita a quella
+Dialogue: 0,0:00:13.43,0:00:13.61,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:13.61,0:00:13.85,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi {\1c&HFF00&\u1}nuova{\r} vita a quella
+Dialogue: 0,0:00:13.85,0:00:13.93,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:13.93,0:00:14.29,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova {\1c&HFF00&\u1}vita{\r} a quella
+Dialogue: 0,0:00:14.29,0:00:14.51,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:14.51,0:00:14.57,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita {\1c&HFF00&\u1}a{\r} quella
+Dialogue: 0,0:00:14.57,0:00:14.63,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a quella
+Dialogue: 0,0:00:14.63,0:00:14.85,Default,,0,0,0,,aiutando il pianeta, non state usando nuove risorse e state dandovi nuova vita a {\1c&HFF00&\u1}quella{\r}
+Dialogue: 0,0:00:15.14,0:00:15.32,Default,,0,0,0,,{\1c&HFF00&\u1}cosa{\r} è bellissimo.
+Dialogue: 0,0:00:15.32,0:00:15.48,Default,,0,0,0,,cosa è bellissimo.
+Dialogue: 0,0:00:15.48,0:00:15.52,Default,,0,0,0,,cosa {\1c&HFF00&\u1}è{\r} bellissimo.
+Dialogue: 0,0:00:15.52,0:00:15.56,Default,,0,0,0,,cosa è bellissimo.
+Dialogue: 0,0:00:15.56,0:00:16.01,Default,,0,0,0,,cosa è {\1c&HFF00&\u1}bellissimo.{\r}
+Dialogue: 0,0:00:16.28,0:00:16.52,Default,,0,0,0,,{\1c&HFF00&\u1}Passiamo{\r} al mondo cibo.
+Dialogue: 0,0:00:16.52,0:00:16.56,Default,,0,0,0,,Passiamo al mondo cibo.
+Dialogue: 0,0:00:16.56,0:00:16.65,Default,,0,0,0,,Passiamo {\1c&HFF00&\u1}al{\r} mondo cibo.
+Dialogue: 0,0:00:16.65,0:00:16.67,Default,,0,0,0,,Passiamo al mondo cibo.
+Dialogue: 0,0:00:16.67,0:00:16.87,Default,,0,0,0,,Passiamo al {\1c&HFF00&\u1}mondo{\r} cibo.
+Dialogue: 0,0:00:16.87,0:00:16.99,Default,,0,0,0,,Passiamo al mondo cibo.
+Dialogue: 0,0:00:16.99,0:00:17.23,Default,,0,0,0,,Passiamo al mondo {\1c&HFF00&\u1}cibo.{\r}

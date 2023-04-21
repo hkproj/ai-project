@@ -1,0 +1,86 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.42,0:00:0.72,Default,,0,0,0,,{\1c&HFF00&\u1}Prima{\r} di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:0.78,0:00:0.88,Default,,0,0,0,,Prima {\1c&HFF00&\u1}di{\r} parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:0.88,0:00:0.94,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:0.94,0:00:1.38,Default,,0,0,0,,Prima di {\1c&HFF00&\u1}parlare{\r} della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:1.38,0:00:1.52,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:1.52,0:00:1.80,Default,,0,0,0,,Prima di parlare {\1c&HFF00&\u1}della{\r} differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:1.80,0:00:1.90,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:1.90,0:00:2.59,Default,,0,0,0,,Prima di parlare della {\1c&HFF00&\u1}differenza{\r} nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:2.59,0:00:2.71,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:2.71,0:00:3.21,Default,,0,0,0,,Prima di parlare della differenza {\1c&HFF00&\u1}nell'uso{\r} di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:3.21,0:00:3.29,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:3.29,0:00:3.37,Default,,0,0,0,,Prima di parlare della differenza nell'uso {\1c&HFF00&\u1}di{\r} questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:3.37,0:00:3.45,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:3.45,0:00:3.79,Default,,0,0,0,,Prima di parlare della differenza nell'uso di {\1c&HFF00&\u1}questi{\r} due verbi vediamo velocemente la
+Dialogue: 0,0:00:3.79,0:00:3.91,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:3.91,0:00:4.07,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi {\1c&HFF00&\u1}due{\r} verbi vediamo velocemente la
+Dialogue: 0,0:00:4.07,0:00:4.13,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:4.13,0:00:4.55,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due {\1c&HFF00&\u1}verbi{\r} vediamo velocemente la
+Dialogue: 0,0:00:4.55,0:00:5.05,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:5.05,0:00:5.57,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi {\1c&HFF00&\u1}vediamo{\r} velocemente la
+Dialogue: 0,0:00:5.57,0:00:5.83,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:5.83,0:00:6.67,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo {\1c&HFF00&\u1}velocemente{\r} la
+Dialogue: 0,0:00:6.67,0:00:6.96,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente la
+Dialogue: 0,0:00:6.96,0:00:7.02,Default,,0,0,0,,Prima di parlare della differenza nell'uso di questi due verbi vediamo velocemente {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:7.42,0:00:7.50,Default,,0,0,0,,{\1c&HFF00&\u1}loro{\r} coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:7.50,0:00:7.52,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:7.52,0:00:8.16,Default,,0,0,0,,loro {\1c&HFF00&\u1}coniugazione{\r} al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:8.16,0:00:8.34,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:8.34,0:00:8.44,Default,,0,0,0,,loro coniugazione {\1c&HFF00&\u1}al{\r} presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:8.44,0:00:8.48,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:8.48,0:00:8.96,Default,,0,0,0,,loro coniugazione al {\1c&HFF00&\u1}presente{\r} indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:8.96,0:00:9.12,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:9.12,0:00:9.79,Default,,0,0,0,,loro coniugazione al presente {\1c&HFF00&\u1}indicativo,{\r} ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:9.79,0:00:10.27,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:10.27,0:00:10.65,Default,,0,0,0,,loro coniugazione al presente indicativo, {\1c&HFF00&\u1}ok?{\r} Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:10.65,0:00:11.43,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:11.43,0:00:11.67,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? {\1c&HFF00&\u1}Così{\r} sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:11.67,0:00:11.85,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:11.85,0:00:12.07,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così {\1c&HFF00&\u1}sarà{\r} più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:12.07,0:00:12.13,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:12.13,0:00:12.25,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà {\1c&HFF00&\u1}più{\r} facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:12.25,0:00:12.33,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:12.33,0:00:12.75,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più {\1c&HFF00&\u1}facile{\r} comprendere gli esempi successivi.
+Dialogue: 0,0:00:12.75,0:00:12.91,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:12.91,0:00:13.55,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile {\1c&HFF00&\u1}comprendere{\r} gli esempi successivi.
+Dialogue: 0,0:00:13.55,0:00:13.61,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:13.61,0:00:13.73,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere {\1c&HFF00&\u1}gli{\r} esempi successivi.
+Dialogue: 0,0:00:13.73,0:00:13.77,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:13.77,0:00:14.25,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli {\1c&HFF00&\u1}esempi{\r} successivi.
+Dialogue: 0,0:00:14.25,0:00:14.39,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi successivi.
+Dialogue: 0,0:00:14.39,0:00:15.00,Default,,0,0,0,,loro coniugazione al presente indicativo, ok? Così sarà più facile comprendere gli esempi {\1c&HFF00&\u1}successivi.{\r}
+Dialogue: 0,0:00:16.85,0:00:16.95,Default,,0,0,0,,{\1c&HFF00&\u1}Il{\r} verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:16.95,0:00:16.99,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:16.99,0:00:17.33,Default,,0,0,0,,Il {\1c&HFF00&\u1}verbo{\r} andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:17.33,0:00:17.49,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:17.49,0:00:17.95,Default,,0,0,0,,Il verbo {\1c&HFF00&\u1}andare{\r} si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:17.95,0:00:18.33,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:18.33,0:00:18.41,Default,,0,0,0,,Il verbo andare {\1c&HFF00&\u1}si{\r} coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:18.41,0:00:18.51,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:18.51,0:00:18.99,Default,,0,0,0,,Il verbo andare si {\1c&HFF00&\u1}coniuga{\r} al presente indicativo in questo modo.
+Dialogue: 0,0:00:18.99,0:00:19.13,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:19.13,0:00:19.23,Default,,0,0,0,,Il verbo andare si coniuga {\1c&HFF00&\u1}al{\r} presente indicativo in questo modo.
+Dialogue: 0,0:00:19.23,0:00:19.29,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:19.29,0:00:19.75,Default,,0,0,0,,Il verbo andare si coniuga al {\1c&HFF00&\u1}presente{\r} indicativo in questo modo.
+Dialogue: 0,0:00:19.75,0:00:19.81,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:19.81,0:00:20.50,Default,,0,0,0,,Il verbo andare si coniuga al presente {\1c&HFF00&\u1}indicativo{\r} in questo modo.
+Dialogue: 0,0:00:20.50,0:00:20.52,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:20.52,0:00:20.56,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo {\1c&HFF00&\u1}in{\r} questo modo.
+Dialogue: 0,0:00:20.56,0:00:20.58,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:20.58,0:00:20.72,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in {\1c&HFF00&\u1}questo{\r} modo.
+Dialogue: 0,0:00:20.72,0:00:20.74,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo modo.
+Dialogue: 0,0:00:20.74,0:00:20.82,Default,,0,0,0,,Il verbo andare si coniuga al presente indicativo in questo {\1c&HFF00&\u1}modo.{\r}

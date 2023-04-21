@@ -1,0 +1,212 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.14,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}Posso{\r} ripetere per dieci minuti?
+Dialogue: 0,0:00:0.30,0:00:0.34,Default,,0,0,0,,Posso ripetere per dieci minuti?
+Dialogue: 0,0:00:0.34,0:00:0.64,Default,,0,0,0,,Posso {\1c&HFF00&\u1}ripetere{\r} per dieci minuti?
+Dialogue: 0,0:00:0.64,0:00:0.70,Default,,0,0,0,,Posso ripetere per dieci minuti?
+Dialogue: 0,0:00:0.70,0:00:0.80,Default,,0,0,0,,Posso ripetere {\1c&HFF00&\u1}per{\r} dieci minuti?
+Dialogue: 0,0:00:0.80,0:00:0.88,Default,,0,0,0,,Posso ripetere per dieci minuti?
+Dialogue: 0,0:00:0.88,0:00:1.09,Default,,0,0,0,,Posso ripetere per {\1c&HFF00&\u1}dieci{\r} minuti?
+Dialogue: 0,0:00:1.09,0:00:1.13,Default,,0,0,0,,Posso ripetere per dieci minuti?
+Dialogue: 0,0:00:1.13,0:00:1.37,Default,,0,0,0,,Posso ripetere per dieci {\1c&HFF00&\u1}minuti?{\r}
+Dialogue: 0,0:00:1.88,0:00:1.92,Default,,0,0,0,,{\1c&HFF00&\u1}No,{\r} raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:1.92,0:00:1.96,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:1.96,0:00:2.08,Default,,0,0,0,,No, {\1c&HFF00&\u1}raga,{\r} il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.08,0:00:2.12,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.12,0:00:2.18,Default,,0,0,0,,No, raga, {\1c&HFF00&\u1}il{\r} film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.18,0:00:2.20,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.20,0:00:2.32,Default,,0,0,0,,No, raga, il {\1c&HFF00&\u1}film{\r} non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.32,0:00:2.34,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.34,0:00:2.40,Default,,0,0,0,,No, raga, il film {\1c&HFF00&\u1}non{\r} mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.40,0:00:2.42,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.42,0:00:2.48,Default,,0,0,0,,No, raga, il film non {\1c&HFF00&\u1}mi{\r} è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.48,0:00:2.50,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.50,0:00:2.52,Default,,0,0,0,,No, raga, il film non mi {\1c&HFF00&\u1}è{\r} piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.52,0:00:2.58,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.58,0:00:2.92,Default,,0,0,0,,No, raga, il film non mi è {\1c&HFF00&\u1}piaciuto,{\r} no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.92,0:00:2.96,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:2.96,0:00:3.00,Default,,0,0,0,,No, raga, il film non mi è piaciuto, {\1c&HFF00&\u1}no,{\r} no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.00,0:00:3.13,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.13,0:00:3.27,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, {\1c&HFF00&\u1}no,{\r} proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.27,0:00:3.31,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.31,0:00:3.53,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, {\1c&HFF00&\u1}proprio{\r} no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.53,0:00:3.59,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.59,0:00:3.75,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio {\1c&HFF00&\u1}no,{\r} eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.75,0:00:3.79,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.79,0:00:3.85,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, {\1c&HFF00&\u1}eh,{\r} parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:3.85,0:00:4.13,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:4.13,0:00:4.39,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, {\1c&HFF00&\u1}parere{\r} mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:4.39,0:00:4.45,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:4.45,0:00:4.65,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere {\1c&HFF00&\u1}mio,{\r} eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:4.65,0:00:4.71,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:4.71,0:00:4.77,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, {\1c&HFF00&\u1}eh,{\r} ma non mi è piaciuto.
+Dialogue: 0,0:00:4.77,0:00:4.83,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:4.83,0:00:4.91,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, {\1c&HFF00&\u1}ma{\r} non mi è piaciuto.
+Dialogue: 0,0:00:4.91,0:00:5.01,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:5.01,0:00:5.09,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma {\1c&HFF00&\u1}non{\r} mi è piaciuto.
+Dialogue: 0,0:00:5.09,0:00:5.11,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:5.11,0:00:5.15,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non {\1c&HFF00&\u1}mi{\r} è piaciuto.
+Dialogue: 0,0:00:5.15,0:00:5.17,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:5.17,0:00:5.19,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi {\1c&HFF00&\u1}è{\r} piaciuto.
+Dialogue: 0,0:00:5.19,0:00:5.23,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è piaciuto.
+Dialogue: 0,0:00:5.23,0:00:5.57,Default,,0,0,0,,No, raga, il film non mi è piaciuto, no, no, proprio no, eh, parere mio, eh, ma non mi è {\1c&HFF00&\u1}piaciuto.{\r}
+Dialogue: 0,0:00:6.42,0:00:6.56,Default,,0,0,0,,{\1c&HFF00&\u1}No,{\r} no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:6.56,0:00:6.58,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:6.58,0:00:6.82,Default,,0,0,0,,No, {\1c&HFF00&\u1}no,{\r} per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:6.82,0:00:6.97,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:6.97,0:00:7.07,Default,,0,0,0,,No, no, {\1c&HFF00&\u1}per{\r} me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:7.07,0:00:7.11,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:7.11,0:00:7.17,Default,,0,0,0,,No, no, per {\1c&HFF00&\u1}me,{\r} Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:7.17,0:00:7.31,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:7.31,0:00:7.69,Default,,0,0,0,,No, no, per me, {\1c&HFF00&\u1}Bruno,{\r} no, non mi è piaciuto.
+Dialogue: 0,0:00:7.69,0:00:7.73,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:7.73,0:00:7.77,Default,,0,0,0,,No, no, per me, Bruno, {\1c&HFF00&\u1}no,{\r} non mi è piaciuto.
+Dialogue: 0,0:00:7.77,0:00:7.89,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:7.89,0:00:7.97,Default,,0,0,0,,No, no, per me, Bruno, no, {\1c&HFF00&\u1}non{\r} mi è piaciuto.
+Dialogue: 0,0:00:7.97,0:00:7.99,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:7.99,0:00:8.03,Default,,0,0,0,,No, no, per me, Bruno, no, non {\1c&HFF00&\u1}mi{\r} è piaciuto.
+Dialogue: 0,0:00:8.03,0:00:8.05,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:8.05,0:00:8.07,Default,,0,0,0,,No, no, per me, Bruno, no, non mi {\1c&HFF00&\u1}è{\r} piaciuto.
+Dialogue: 0,0:00:8.07,0:00:8.11,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è piaciuto.
+Dialogue: 0,0:00:8.11,0:00:8.53,Default,,0,0,0,,No, no, per me, Bruno, no, non mi è {\1c&HFF00&\u1}piaciuto.{\r}
+Dialogue: 0,0:00:8.50,0:00:8.54,Default,,0,0,0,,{\1c&HFF00&\u1}Ve{\r} lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:8.54,0:00:8.56,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:8.56,0:00:8.64,Default,,0,0,0,,Ve {\1c&HFF00&\u1}lo{\r} immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:8.64,0:00:8.66,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:8.66,0:00:9.04,Default,,0,0,0,,Ve lo {\1c&HFF00&\u1}immaginate{\r} un video di dieci minuti così?
+Dialogue: 0,0:00:9.04,0:00:9.08,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:9.08,0:00:9.14,Default,,0,0,0,,Ve lo immaginate {\1c&HFF00&\u1}un{\r} video di dieci minuti così?
+Dialogue: 0,0:00:9.14,0:00:9.16,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:9.16,0:00:9.32,Default,,0,0,0,,Ve lo immaginate un {\1c&HFF00&\u1}video{\r} di dieci minuti così?
+Dialogue: 0,0:00:9.32,0:00:9.34,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:9.34,0:00:9.42,Default,,0,0,0,,Ve lo immaginate un video {\1c&HFF00&\u1}di{\r} dieci minuti così?
+Dialogue: 0,0:00:9.42,0:00:9.48,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:9.48,0:00:9.75,Default,,0,0,0,,Ve lo immaginate un video di {\1c&HFF00&\u1}dieci{\r} minuti così?
+Dialogue: 0,0:00:9.75,0:00:9.81,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:9.81,0:00:10.07,Default,,0,0,0,,Ve lo immaginate un video di dieci {\1c&HFF00&\u1}minuti{\r} così?
+Dialogue: 0,0:00:10.07,0:00:10.19,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti così?
+Dialogue: 0,0:00:10.19,0:00:10.37,Default,,0,0,0,,Ve lo immaginate un video di dieci minuti {\1c&HFF00&\u1}così?{\r}
+Dialogue: 0,0:00:11.26,0:00:11.34,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} ha senso.
+Dialogue: 0,0:00:11.34,0:00:11.38,Default,,0,0,0,,Non ha senso.
+Dialogue: 0,0:00:11.38,0:00:11.44,Default,,0,0,0,,Non {\1c&HFF00&\u1}ha{\r} senso.
+Dialogue: 0,0:00:11.44,0:00:11.50,Default,,0,0,0,,Non ha senso.
+Dialogue: 0,0:00:11.50,0:00:11.89,Default,,0,0,0,,Non ha {\1c&HFF00&\u1}senso.{\r}
+Dialogue: 0,0:00:12.38,0:00:12.60,Default,,0,0,0,,{\1c&HFF00&\u1}Perché{\r} dovrei fare un video del genere?
+Dialogue: 0,0:00:12.60,0:00:12.64,Default,,0,0,0,,Perché dovrei fare un video del genere?
+Dialogue: 0,0:00:12.64,0:00:12.84,Default,,0,0,0,,Perché {\1c&HFF00&\u1}dovrei{\r} fare un video del genere?
+Dialogue: 0,0:00:12.84,0:00:12.88,Default,,0,0,0,,Perché dovrei fare un video del genere?
+Dialogue: 0,0:00:12.88,0:00:12.98,Default,,0,0,0,,Perché dovrei {\1c&HFF00&\u1}fare{\r} un video del genere?
+Dialogue: 0,0:00:12.98,0:00:13.04,Default,,0,0,0,,Perché dovrei fare un video del genere?
+Dialogue: 0,0:00:13.04,0:00:13.08,Default,,0,0,0,,Perché dovrei fare {\1c&HFF00&\u1}un{\r} video del genere?
+Dialogue: 0,0:00:13.08,0:00:13.10,Default,,0,0,0,,Perché dovrei fare un video del genere?
+Dialogue: 0,0:00:13.10,0:00:13.33,Default,,0,0,0,,Perché dovrei fare un {\1c&HFF00&\u1}video{\r} del genere?
+Dialogue: 0,0:00:13.33,0:00:13.37,Default,,0,0,0,,Perché dovrei fare un video del genere?
+Dialogue: 0,0:00:13.37,0:00:13.53,Default,,0,0,0,,Perché dovrei fare un video {\1c&HFF00&\u1}del{\r} genere?
+Dialogue: 0,0:00:13.53,0:00:13.57,Default,,0,0,0,,Perché dovrei fare un video del genere?
+Dialogue: 0,0:00:13.57,0:00:13.89,Default,,0,0,0,,Perché dovrei fare un video del {\1c&HFF00&\u1}genere?{\r}
+Dialogue: 0,0:00:14.56,0:00:14.64,Default,,0,0,0,,{\1c&HFF00&\u1}Se{\r} devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:14.64,0:00:14.68,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:14.68,0:00:14.84,Default,,0,0,0,,Se {\1c&HFF00&\u1}devo{\r} fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:14.84,0:00:14.88,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:14.88,0:00:15.02,Default,,0,0,0,,Se devo {\1c&HFF00&\u1}fare{\r} un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:15.02,0:00:15.08,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:15.08,0:00:15.14,Default,,0,0,0,,Se devo fare {\1c&HFF00&\u1}un{\r} video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:15.14,0:00:15.20,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:15.20,0:00:15.48,Default,,0,0,0,,Se devo fare un {\1c&HFF00&\u1}video,{\r} vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:15.48,0:00:15.84,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:15.84,0:00:16.00,Default,,0,0,0,,Se devo fare un video, {\1c&HFF00&\u1}vado{\r} a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.00,0:00:16.02,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.02,0:00:16.04,Default,,0,0,0,,Se devo fare un video, vado {\1c&HFF00&\u1}a{\r} spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.04,0:00:16.12,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.12,0:00:16.55,Default,,0,0,0,,Se devo fare un video, vado a {\1c&HFF00&\u1}spiegare{\r} per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.55,0:00:16.61,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.61,0:00:16.75,Default,,0,0,0,,Se devo fare un video, vado a spiegare {\1c&HFF00&\u1}per{\r} filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.75,0:00:16.81,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.81,0:00:16.99,Default,,0,0,0,,Se devo fare un video, vado a spiegare per {\1c&HFF00&\u1}filo{\r} e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:16.99,0:00:17.01,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.01,0:00:17.03,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo {\1c&HFF00&\u1}e{\r} per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.03,0:00:17.07,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.07,0:00:17.17,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e {\1c&HFF00&\u1}per{\r} segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.17,0:00:17.25,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.25,0:00:17.55,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per {\1c&HFF00&\u1}segno{\r} cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.55,0:00:17.71,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.71,0:00:17.99,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno {\1c&HFF00&\u1}cosa{\r} non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:17.99,0:00:18.07,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.07,0:00:18.17,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa {\1c&HFF00&\u1}non{\r} mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.17,0:00:18.19,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.19,0:00:18.25,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non {\1c&HFF00&\u1}mi{\r} è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.25,0:00:18.27,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.27,0:00:18.31,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi {\1c&HFF00&\u1}è{\r} piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.31,0:00:18.37,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.37,0:00:18.71,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è {\1c&HFF00&\u1}piaciuto{\r} e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.71,0:00:18.73,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.73,0:00:18.75,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto {\1c&HFF00&\u1}e{\r} quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.75,0:00:18.87,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:18.87,0:00:19.09,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e {\1c&HFF00&\u1}quali{\r} sono le mancanze a livello tecnico
+Dialogue: 0,0:00:19.09,0:00:19.15,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:19.15,0:00:19.29,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali {\1c&HFF00&\u1}sono{\r} le mancanze a livello tecnico
+Dialogue: 0,0:00:19.29,0:00:19.35,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:19.35,0:00:19.43,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono {\1c&HFF00&\u1}le{\r} mancanze a livello tecnico
+Dialogue: 0,0:00:19.43,0:00:19.45,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:19.45,0:00:19.95,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le {\1c&HFF00&\u1}mancanze{\r} a livello tecnico
+Dialogue: 0,0:00:19.95,0:00:20.07,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:20.07,0:00:20.13,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze {\1c&HFF00&\u1}a{\r} livello tecnico
+Dialogue: 0,0:00:20.13,0:00:20.17,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:20.17,0:00:20.49,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a {\1c&HFF00&\u1}livello{\r} tecnico
+Dialogue: 0,0:00:20.49,0:00:20.55,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello tecnico
+Dialogue: 0,0:00:20.55,0:00:21.02,Default,,0,0,0,,Se devo fare un video, vado a spiegare per filo e per segno cosa non mi è piaciuto e quali sono le mancanze a livello {\1c&HFF00&\u1}tecnico{\r}
+Dialogue: 0,0:00:21.48,0:00:21.54,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:21.54,0:00:21.60,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:21.60,0:00:21.76,Default,,0,0,0,,e {\1c&HFF00&\u1}anche{\r} a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:21.76,0:00:21.80,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:21.80,0:00:21.86,Default,,0,0,0,,e anche {\1c&HFF00&\u1}a{\r} livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:21.86,0:00:21.90,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:21.90,0:00:22.44,Default,,0,0,0,,e anche a {\1c&HFF00&\u1}livello{\r} soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:22.44,0:00:23.05,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:23.05,0:00:23.65,Default,,0,0,0,,e anche a livello {\1c&HFF00&\u1}soggettivo,{\r} per me, in quell'opera.
+Dialogue: 0,0:00:23.65,0:00:23.97,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:23.97,0:00:24.15,Default,,0,0,0,,e anche a livello soggettivo, {\1c&HFF00&\u1}per{\r} me, in quell'opera.
+Dialogue: 0,0:00:24.15,0:00:24.27,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:24.27,0:00:24.41,Default,,0,0,0,,e anche a livello soggettivo, per {\1c&HFF00&\u1}me,{\r} in quell'opera.
+Dialogue: 0,0:00:24.41,0:00:24.97,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:24.97,0:00:25.07,Default,,0,0,0,,e anche a livello soggettivo, per me, {\1c&HFF00&\u1}in{\r} quell'opera.
+Dialogue: 0,0:00:25.07,0:00:25.11,Default,,0,0,0,,e anche a livello soggettivo, per me, in quell'opera.
+Dialogue: 0,0:00:25.11,0:00:25.63,Default,,0,0,0,,e anche a livello soggettivo, per me, in {\1c&HFF00&\u1}quell'opera.{\r}
+Dialogue: 0,0:00:26.18,0:00:26.34,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi{\r} non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.34,0:00:26.36,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.36,0:00:26.42,Default,,0,0,0,,Quindi {\1c&HFF00&\u1}non{\r} si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.42,0:00:26.44,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.44,0:00:26.50,Default,,0,0,0,,Quindi non {\1c&HFF00&\u1}si{\r} tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.50,0:00:26.52,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.52,0:00:26.70,Default,,0,0,0,,Quindi non si {\1c&HFF00&\u1}tratta{\r} di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.70,0:00:26.74,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.74,0:00:26.80,Default,,0,0,0,,Quindi non si tratta {\1c&HFF00&\u1}di{\r} pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.80,0:00:26.88,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:26.88,0:00:27.46,Default,,0,0,0,,Quindi non si tratta di {\1c&HFF00&\u1}pignoleria,{\r} perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.46,0:00:27.50,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.50,0:00:27.62,Default,,0,0,0,,Quindi non si tratta di pignoleria, {\1c&HFF00&\u1}perché{\r} ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.62,0:00:27.64,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.64,0:00:27.70,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché {\1c&HFF00&\u1}ce{\r} ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.70,0:00:27.72,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.72,0:00:27.76,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce {\1c&HFF00&\u1}ne{\r} sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.76,0:00:27.78,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:27.78,0:00:28.04,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne {\1c&HFF00&\u1}sarebbe{\r} pignoleria pure quando vi-
+Dialogue: 0,0:00:28.04,0:00:28.11,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:28.11,0:00:28.61,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe {\1c&HFF00&\u1}pignoleria{\r} pure quando vi-
+Dialogue: 0,0:00:28.61,0:00:28.67,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:28.67,0:00:28.79,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria {\1c&HFF00&\u1}pure{\r} quando vi-
+Dialogue: 0,0:00:28.79,0:00:28.85,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:28.85,0:00:29.03,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure {\1c&HFF00&\u1}quando{\r} vi-
+Dialogue: 0,0:00:29.03,0:00:29.09,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando vi-
+Dialogue: 0,0:00:29.09,0:00:29.15,Default,,0,0,0,,Quindi non si tratta di pignoleria, perché ce ne sarebbe pignoleria pure quando {\1c&HFF00&\u1}vi-{\r}

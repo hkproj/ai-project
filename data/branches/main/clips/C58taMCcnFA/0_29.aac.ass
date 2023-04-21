@@ -1,0 +1,119 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.34,Default,,0,0,0,,{\1c&HFF00&\u1}due{\r} ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:0.34,0:00:0.48,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:0.48,0:00:0.62,Default,,0,0,0,,due {\1c&HFF00&\u1}ore,{\r} sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:0.62,0:00:1.10,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:1.10,0:00:1.34,Default,,0,0,0,,due ore, {\1c&HFF00&\u1}sei{\r} perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:1.34,0:00:1.70,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:1.70,0:00:2.95,Default,,0,0,0,,due ore, sei {\1c&HFF00&\u1}perennemente{\r} preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:2.95,0:00:3.27,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:3.27,0:00:4.01,Default,,0,0,0,,due ore, sei perennemente {\1c&HFF00&\u1}preoccupato.{\r} Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:4.01,0:00:4.43,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:4.43,0:00:4.81,Default,,0,0,0,,due ore, sei perennemente preoccupato. {\1c&HFF00&\u1}Perché?{\r} Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:4.81,0:00:5.23,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:5.23,0:00:5.43,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? {\1c&HFF00&\u1}Perché{\r} questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:5.43,0:00:5.49,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:5.49,0:00:5.77,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché {\1c&HFF00&\u1}questa{\r} nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:5.77,0:00:5.85,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:5.85,0:00:6.13,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa {\1c&HFF00&\u1}nave{\r} qualcuno ha deciso di farla
+Dialogue: 0,0:00:6.13,0:00:6.19,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:6.19,0:00:6.57,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave {\1c&HFF00&\u1}qualcuno{\r} ha deciso di farla
+Dialogue: 0,0:00:6.57,0:00:6.61,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:6.61,0:00:6.67,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno {\1c&HFF00&\u1}ha{\r} deciso di farla
+Dialogue: 0,0:00:6.67,0:00:6.71,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:6.71,0:00:6.99,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha {\1c&HFF00&\u1}deciso{\r} di farla
+Dialogue: 0,0:00:6.99,0:00:7.06,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:7.06,0:00:7.12,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso {\1c&HFF00&\u1}di{\r} farla
+Dialogue: 0,0:00:7.12,0:00:7.16,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di farla
+Dialogue: 0,0:00:7.16,0:00:7.40,Default,,0,0,0,,due ore, sei perennemente preoccupato. Perché? Perché questa nave qualcuno ha deciso di {\1c&HFF00&\u1}farla{\r}
+Dialogue: 0,0:00:7.40,0:00:7.52,Default,,0,0,0,,{\1c&HFF00&\u1}andare{\r} più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.52,0:00:7.54,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.54,0:00:7.60,Default,,0,0,0,,andare {\1c&HFF00&\u1}più{\r} veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.60,0:00:7.62,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.62,0:00:7.74,Default,,0,0,0,,andare più {\1c&HFF00&\u1}veloce{\r} del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.74,0:00:7.76,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.76,0:00:7.82,Default,,0,0,0,,andare più veloce {\1c&HFF00&\u1}del{\r} normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.82,0:00:7.84,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.84,0:00:7.98,Default,,0,0,0,,andare più veloce del {\1c&HFF00&\u1}normale,{\r} per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:7.98,0:00:8.00,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.00,0:00:8.06,Default,,0,0,0,,andare più veloce del normale, {\1c&HFF00&\u1}per{\r} battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.06,0:00:8.08,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.08,0:00:8.22,Default,,0,0,0,,andare più veloce del normale, per {\1c&HFF00&\u1}battere{\r} un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.22,0:00:8.24,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.24,0:00:8.28,Default,,0,0,0,,andare più veloce del normale, per battere {\1c&HFF00&\u1}un{\r} record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.28,0:00:8.30,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.30,0:00:8.42,Default,,0,0,0,,andare più veloce del normale, per battere un {\1c&HFF00&\u1}record{\r} di traversata, per farla arrivare
+Dialogue: 0,0:00:8.42,0:00:8.44,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.44,0:00:8.48,Default,,0,0,0,,andare più veloce del normale, per battere un record {\1c&HFF00&\u1}di{\r} traversata, per farla arrivare
+Dialogue: 0,0:00:8.48,0:00:8.50,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.50,0:00:8.70,Default,,0,0,0,,andare più veloce del normale, per battere un record di {\1c&HFF00&\u1}traversata,{\r} per farla arrivare
+Dialogue: 0,0:00:8.70,0:00:8.72,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.72,0:00:8.78,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, {\1c&HFF00&\u1}per{\r} farla arrivare
+Dialogue: 0,0:00:8.78,0:00:8.80,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.80,0:00:8.90,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per {\1c&HFF00&\u1}farla{\r} arrivare
+Dialogue: 0,0:00:8.90,0:00:8.92,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla arrivare
+Dialogue: 0,0:00:8.92,0:00:9.08,Default,,0,0,0,,andare più veloce del normale, per battere un record di traversata, per farla {\1c&HFF00&\u1}arrivare{\r}
+Dialogue: 0,0:00:13.60,0:00:13.72,Default,,0,0,0,,{\1c&HFF00&\u1}al{\r} porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:13.72,0:00:13.82,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:13.82,0:00:14.28,Default,,0,0,0,,al {\1c&HFF00&\u1}porto{\r} molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:14.28,0:00:14.62,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:14.62,0:00:15.14,Default,,0,0,0,,al porto {\1c&HFF00&\u1}molto{\r} in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:15.14,0:00:15.18,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:15.18,0:00:15.26,Default,,0,0,0,,al porto molto {\1c&HFF00&\u1}in{\r} anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:15.26,0:00:15.30,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:15.30,0:00:15.96,Default,,0,0,0,,al porto molto in {\1c&HFF00&\u1}anticipo{\r} e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:15.96,0:00:16.53,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:16.53,0:00:16.57,Default,,0,0,0,,al porto molto in anticipo {\1c&HFF00&\u1}e{\r} per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:16.57,0:00:16.65,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:16.65,0:00:16.77,Default,,0,0,0,,al porto molto in anticipo e {\1c&HFF00&\u1}per{\r} rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:16.77,0:00:16.83,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:16.83,0:00:17.15,Default,,0,0,0,,al porto molto in anticipo e per {\1c&HFF00&\u1}rendere{\r} questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:17.15,0:00:17.21,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:17.21,0:00:17.47,Default,,0,0,0,,al porto molto in anticipo e per rendere {\1c&HFF00&\u1}questo{\r} loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:17.47,0:00:17.55,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:17.55,0:00:17.93,Default,,0,0,0,,al porto molto in anticipo e per rendere questo {\1c&HFF00&\u1}loro{\r} arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:17.93,0:00:18.17,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:18.17,0:00:18.73,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro {\1c&HFF00&\u1}arrivo{\r} epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:18.73,0:00:19.63,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:19.63,0:00:20.29,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo {\1c&HFF00&\u1}epocale,{\r} per farlo finire sui giornali.
+Dialogue: 0,0:00:20.29,0:00:20.55,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:20.55,0:00:20.67,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, {\1c&HFF00&\u1}per{\r} farlo finire sui giornali.
+Dialogue: 0,0:00:20.67,0:00:20.71,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:20.71,0:00:20.89,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per {\1c&HFF00&\u1}farlo{\r} finire sui giornali.
+Dialogue: 0,0:00:20.89,0:00:20.93,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:20.93,0:00:21.19,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo {\1c&HFF00&\u1}finire{\r} sui giornali.
+Dialogue: 0,0:00:21.19,0:00:21.25,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:21.25,0:00:21.40,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire {\1c&HFF00&\u1}sui{\r} giornali.
+Dialogue: 0,0:00:21.40,0:00:21.46,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui giornali.
+Dialogue: 0,0:00:21.46,0:00:21.96,Default,,0,0,0,,al porto molto in anticipo e per rendere questo loro arrivo epocale, per farlo finire sui {\1c&HFF00&\u1}giornali.{\r}
+Dialogue: 0,0:00:22.64,0:00:22.98,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi,{\r} dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:22.98,0:00:23.36,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:23.36,0:00:24.09,Default,,0,0,0,,Quindi, {\1c&HFF00&\u1}dall'inizio,{\r} partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:24.09,0:00:24.65,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:24.65,0:00:25.07,Default,,0,0,0,,Quindi, dall'inizio, {\1c&HFF00&\u1}partono{\r} con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:25.07,0:00:25.09,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:25.09,0:00:25.19,Default,,0,0,0,,Quindi, dall'inizio, partono {\1c&HFF00&\u1}con{\r} il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:25.19,0:00:25.23,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:25.23,0:00:25.29,Default,,0,0,0,,Quindi, dall'inizio, partono con {\1c&HFF00&\u1}il{\r} piede sbagliato e dicono ok.
+Dialogue: 0,0:00:25.29,0:00:25.33,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:25.33,0:00:25.51,Default,,0,0,0,,Quindi, dall'inizio, partono con il {\1c&HFF00&\u1}piede{\r} sbagliato e dicono ok.
+Dialogue: 0,0:00:25.51,0:00:25.55,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:25.55,0:00:25.99,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede {\1c&HFF00&\u1}sbagliato{\r} e dicono ok.
+Dialogue: 0,0:00:25.99,0:00:26.01,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:26.01,0:00:26.03,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato {\1c&HFF00&\u1}e{\r} dicono ok.
+Dialogue: 0,0:00:26.03,0:00:26.07,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:26.07,0:00:26.27,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e {\1c&HFF00&\u1}dicono{\r} ok.
+Dialogue: 0,0:00:26.27,0:00:26.31,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono ok.
+Dialogue: 0,0:00:26.31,0:00:26.38,Default,,0,0,0,,Quindi, dall'inizio, partono con il piede sbagliato e dicono {\1c&HFF00&\u1}ok.{\r}

@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.62,Default,,0,0,0,,{\1c&HFF00&\u1}lontano{\r} da Gotham, d'accordo?
+Dialogue: 0,0:00:0.62,0:00:0.66,Default,,0,0,0,,lontano da Gotham, d'accordo?
+Dialogue: 0,0:00:0.66,0:00:0.74,Default,,0,0,0,,lontano {\1c&HFF00&\u1}da{\r} Gotham, d'accordo?
+Dialogue: 0,0:00:0.74,0:00:0.78,Default,,0,0,0,,lontano da Gotham, d'accordo?
+Dialogue: 0,0:00:0.78,0:00:1.55,Default,,0,0,0,,lontano da {\1c&HFF00&\u1}Gotham,{\r} d'accordo?
+Dialogue: 0,0:00:1.55,0:00:1.57,Default,,0,0,0,,lontano da Gotham, d'accordo?
+Dialogue: 0,0:00:1.57,0:00:1.99,Default,,0,0,0,,lontano da Gotham, {\1c&HFF00&\u1}d'accordo?{\r}
+Dialogue: 0,0:00:3.37,0:00:3.45,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} una scena
+Dialogue: 0,0:00:3.45,0:00:3.47,Default,,0,0,0,,C'è una scena
+Dialogue: 0,0:00:3.47,0:00:3.57,Default,,0,0,0,,C'è {\1c&HFF00&\u1}una{\r} scena
+Dialogue: 0,0:00:3.57,0:00:3.61,Default,,0,0,0,,C'è una scena
+Dialogue: 0,0:00:3.61,0:00:3.97,Default,,0,0,0,,C'è una {\1c&HFF00&\u1}scena{\r}
+Dialogue: 0,0:00:5.70,0:00:5.80,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} è bella
+Dialogue: 0,0:00:5.80,0:00:5.86,Default,,0,0,0,,che è bella
+Dialogue: 0,0:00:5.86,0:00:5.88,Default,,0,0,0,,che {\1c&HFF00&\u1}è{\r} bella
+Dialogue: 0,0:00:5.88,0:00:6.05,Default,,0,0,0,,che è bella
+Dialogue: 0,0:00:6.05,0:00:6.41,Default,,0,0,0,,che è {\1c&HFF00&\u1}bella{\r}
+Dialogue: 0,0:00:7.44,0:00:7.60,Default,,0,0,0,,{\1c&HFF00&\u1}Cioè{\r} Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:7.60,0:00:7.66,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:7.66,0:00:7.88,Default,,0,0,0,,Cioè {\1c&HFF00&\u1}Bruce{\r} Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:7.88,0:00:7.90,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:7.90,0:00:8.06,Default,,0,0,0,,Cioè Bruce {\1c&HFF00&\u1}Wayne{\r} che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:8.06,0:00:8.10,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:8.10,0:00:8.26,Default,,0,0,0,,Cioè Bruce Wayne {\1c&HFF00&\u1}che{\r} dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:8.26,0:00:8.62,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:8.62,0:00:8.78,Default,,0,0,0,,Cioè Bruce Wayne che {\1c&HFF00&\u1}dal{\r} televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:8.78,0:00:8.84,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:8.84,0:00:9.40,Default,,0,0,0,,Cioè Bruce Wayne che dal {\1c&HFF00&\u1}televisore{\r} che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.40,0:00:9.44,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.44,0:00:9.52,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore {\1c&HFF00&\u1}che{\r} gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.52,0:00:9.54,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.54,0:00:9.60,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che {\1c&HFF00&\u1}gli{\r} ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.60,0:00:9.62,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.62,0:00:9.66,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli {\1c&HFF00&\u1}ha{\r} messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.66,0:00:9.72,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.72,0:00:9.94,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha {\1c&HFF00&\u1}messo{\r} nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.94,0:00:9.96,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:9.96,0:00:10.16,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo {\1c&HFF00&\u1}nella{\r} cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:10.16,0:00:10.22,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:10.22,0:00:10.64,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella {\1c&HFF00&\u1}cella{\r} riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:10.64,0:00:10.88,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:10.88,0:00:11.18,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella {\1c&HFF00&\u1}riesce{\r} a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.18,0:00:11.20,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.20,0:00:11.22,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce {\1c&HFF00&\u1}a{\r} vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.22,0:00:11.26,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.26,0:00:11.48,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a {\1c&HFF00&\u1}vedere{\r} cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.48,0:00:11.52,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.52,0:00:11.68,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere {\1c&HFF00&\u1}cosa{\r} succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.68,0:00:11.74,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:11.74,0:00:12.05,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa {\1c&HFF00&\u1}succede{\r} a Gotham ed è preoccupato
+Dialogue: 0,0:00:12.05,0:00:12.09,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:12.09,0:00:12.15,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede {\1c&HFF00&\u1}a{\r} Gotham ed è preoccupato
+Dialogue: 0,0:00:12.15,0:00:12.21,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:12.21,0:00:12.55,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a {\1c&HFF00&\u1}Gotham{\r} ed è preoccupato
+Dialogue: 0,0:00:12.55,0:00:13.05,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:13.05,0:00:13.13,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham {\1c&HFF00&\u1}ed{\r} è preoccupato
+Dialogue: 0,0:00:13.13,0:00:13.17,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:13.17,0:00:13.21,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed {\1c&HFF00&\u1}è{\r} preoccupato
+Dialogue: 0,0:00:13.21,0:00:13.29,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è preoccupato
+Dialogue: 0,0:00:13.29,0:00:13.59,Default,,0,0,0,,Cioè Bruce Wayne che dal televisore che gli ha messo nella cella riesce a vedere cosa succede a Gotham ed è {\1c&HFF00&\u1}preoccupato{\r}

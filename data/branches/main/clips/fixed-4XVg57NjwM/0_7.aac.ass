@@ -1,0 +1,53 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.88,0:00:1.18,Default,,0,0,0,,{\1c&HFF00&\u1}Furbo{\r} Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:1.18,0:00:1.22,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:1.22,0:00:1.64,Default,,0,0,0,,Furbo {\1c&HFF00&\u1}Luigi!{\r} Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:1.64,0:00:3.53,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:3.53,0:00:3.67,Default,,0,0,0,,Furbo Luigi! {\1c&HFF00&\u1}Hai{\r} notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:3.67,0:00:3.71,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:3.71,0:00:4.13,Default,,0,0,0,,Furbo Luigi! Hai {\1c&HFF00&\u1}notato{\r} che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:4.13,0:00:4.23,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:4.23,0:00:4.39,Default,,0,0,0,,Furbo Luigi! Hai notato {\1c&HFF00&\u1}che{\r} Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:4.39,0:00:4.71,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:4.71,0:00:5.17,Default,,0,0,0,,Furbo Luigi! Hai notato che {\1c&HFF00&\u1}Sofia{\r} ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:5.17,0:00:5.35,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:5.35,0:00:5.47,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia {\1c&HFF00&\u1}ha{\r} utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:5.47,0:00:5.61,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:5.61,0:00:6.33,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha {\1c&HFF00&\u1}utilizzato{\r} il verbo andare e Luigi il
+Dialogue: 0,0:00:6.33,0:00:6.47,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:6.47,0:00:6.55,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato {\1c&HFF00&\u1}il{\r} verbo andare e Luigi il
+Dialogue: 0,0:00:6.55,0:00:6.61,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:6.61,0:00:6.95,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il {\1c&HFF00&\u1}verbo{\r} andare e Luigi il
+Dialogue: 0,0:00:6.95,0:00:7.07,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:7.07,0:00:7.53,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo {\1c&HFF00&\u1}andare{\r} e Luigi il
+Dialogue: 0,0:00:7.53,0:00:9.48,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:9.48,0:00:9.52,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare {\1c&HFF00&\u1}e{\r} Luigi il
+Dialogue: 0,0:00:9.52,0:00:9.62,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:9.62,0:00:9.98,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e {\1c&HFF00&\u1}Luigi{\r} il
+Dialogue: 0,0:00:9.98,0:00:10.22,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi il
+Dialogue: 0,0:00:10.22,0:00:10.28,Default,,0,0,0,,Furbo Luigi! Hai notato che Sofia ha utilizzato il verbo andare e Luigi {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:10.24,0:00:10.32,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} verbo venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:10.32,0:00:10.36,Default,,0,0,0,,il verbo venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:10.36,0:00:10.68,Default,,0,0,0,,il {\1c&HFF00&\u1}verbo{\r} venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:10.68,0:00:10.98,Default,,0,0,0,,il verbo venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:10.98,0:00:11.41,Default,,0,0,0,,il verbo {\1c&HFF00&\u1}venire.{\r} Rivediamo il loro dialogo.
+Dialogue: 0,0:00:11.41,0:00:12.67,Default,,0,0,0,,il verbo venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:12.67,0:00:13.30,Default,,0,0,0,,il verbo venire. {\1c&HFF00&\u1}Rivediamo{\r} il loro dialogo.
+Dialogue: 0,0:00:13.30,0:00:13.48,Default,,0,0,0,,il verbo venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:13.48,0:00:13.54,Default,,0,0,0,,il verbo venire. Rivediamo {\1c&HFF00&\u1}il{\r} loro dialogo.
+Dialogue: 0,0:00:13.54,0:00:13.60,Default,,0,0,0,,il verbo venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:13.60,0:00:13.80,Default,,0,0,0,,il verbo venire. Rivediamo il {\1c&HFF00&\u1}loro{\r} dialogo.
+Dialogue: 0,0:00:13.80,0:00:13.88,Default,,0,0,0,,il verbo venire. Rivediamo il loro dialogo.
+Dialogue: 0,0:00:13.88,0:00:14.32,Default,,0,0,0,,il verbo venire. Rivediamo il loro {\1c&HFF00&\u1}dialogo.{\r}

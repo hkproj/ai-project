@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:3.08,0:00:3.52,Default,,0,0,0,,{\1c&HFF00&\u1}Domani{\r} io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:3.52,0:00:3.76,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:3.76,0:00:3.88,Default,,0,0,0,,Domani {\1c&HFF00&\u1}io{\r} sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:3.88,0:00:4.11,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:4.11,0:00:4.41,Default,,0,0,0,,Domani io {\1c&HFF00&\u1}sarò{\r} a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:4.41,0:00:4.53,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:4.53,0:00:4.55,Default,,0,0,0,,Domani io sarò {\1c&HFF00&\u1}a{\r} casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:4.55,0:00:4.63,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:4.63,0:00:5.01,Default,,0,0,0,,Domani io sarò a {\1c&HFF00&\u1}casa{\r} è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:5.01,0:00:6.73,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:6.73,0:00:6.77,Default,,0,0,0,,Domani io sarò a casa {\1c&HFF00&\u1}è{\r} la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:6.77,0:00:6.83,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:6.83,0:00:6.91,Default,,0,0,0,,Domani io sarò a casa è {\1c&HFF00&\u1}la{\r} mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:6.91,0:00:6.97,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:6.97,0:00:7.17,Default,,0,0,0,,Domani io sarò a casa è la {\1c&HFF00&\u1}mia{\r} casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:7.17,0:00:7.23,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:7.23,0:00:7.61,Default,,0,0,0,,Domani io sarò a casa è la mia {\1c&HFF00&\u1}casa{\r} e gli amici si muovono verso di me
+Dialogue: 0,0:00:7.61,0:00:8.29,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:8.29,0:00:8.39,Default,,0,0,0,,Domani io sarò a casa è la mia casa {\1c&HFF00&\u1}e{\r} gli amici si muovono verso di me
+Dialogue: 0,0:00:8.39,0:00:8.49,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:8.49,0:00:8.63,Default,,0,0,0,,Domani io sarò a casa è la mia casa e {\1c&HFF00&\u1}gli{\r} amici si muovono verso di me
+Dialogue: 0,0:00:8.63,0:00:8.67,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:8.67,0:00:9.09,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli {\1c&HFF00&\u1}amici{\r} si muovono verso di me
+Dialogue: 0,0:00:9.09,0:00:9.33,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:9.33,0:00:9.43,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici {\1c&HFF00&\u1}si{\r} muovono verso di me
+Dialogue: 0,0:00:9.43,0:00:9.55,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:9.55,0:00:10.03,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si {\1c&HFF00&\u1}muovono{\r} verso di me
+Dialogue: 0,0:00:10.03,0:00:10.19,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:10.19,0:00:10.61,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono {\1c&HFF00&\u1}verso{\r} di me
+Dialogue: 0,0:00:10.61,0:00:10.69,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:10.69,0:00:10.79,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso {\1c&HFF00&\u1}di{\r} me
+Dialogue: 0,0:00:10.79,0:00:10.85,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di me
+Dialogue: 0,0:00:10.85,0:00:10.91,Default,,0,0,0,,Domani io sarò a casa è la mia casa e gli amici si muovono verso di {\1c&HFF00&\u1}me{\r}

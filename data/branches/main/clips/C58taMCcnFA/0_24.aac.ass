@@ -1,0 +1,101 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}tanto{\r} perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:0.50,0:00:1.00,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:1.00,0:00:1.16,Default,,0,0,0,,tanto {\1c&HFF00&\u1}perché{\r} questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:1.16,0:00:1.20,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:1.20,0:00:1.38,Default,,0,0,0,,tanto perché {\1c&HFF00&\u1}questo{\r} discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:1.38,0:00:1.46,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:1.46,0:00:1.91,Default,,0,0,0,,tanto perché questo {\1c&HFF00&\u1}discorso{\r} che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:1.91,0:00:1.95,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:1.95,0:00:2.01,Default,,0,0,0,,tanto perché questo discorso {\1c&HFF00&\u1}che{\r} vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:2.01,0:00:2.05,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:2.05,0:00:2.11,Default,,0,0,0,,tanto perché questo discorso che {\1c&HFF00&\u1}vi{\r} sto facendo io della storia che deve dare
+Dialogue: 0,0:00:2.11,0:00:2.13,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:2.13,0:00:2.21,Default,,0,0,0,,tanto perché questo discorso che vi {\1c&HFF00&\u1}sto{\r} facendo io della storia che deve dare
+Dialogue: 0,0:00:2.21,0:00:2.27,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:2.27,0:00:2.53,Default,,0,0,0,,tanto perché questo discorso che vi sto {\1c&HFF00&\u1}facendo{\r} io della storia che deve dare
+Dialogue: 0,0:00:2.53,0:00:2.61,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:2.61,0:00:2.71,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo {\1c&HFF00&\u1}io{\r} della storia che deve dare
+Dialogue: 0,0:00:2.71,0:00:2.75,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:2.75,0:00:2.97,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io {\1c&HFF00&\u1}della{\r} storia che deve dare
+Dialogue: 0,0:00:2.97,0:00:3.03,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:3.03,0:00:3.51,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della {\1c&HFF00&\u1}storia{\r} che deve dare
+Dialogue: 0,0:00:3.51,0:00:3.57,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:3.57,0:00:3.67,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia {\1c&HFF00&\u1}che{\r} deve dare
+Dialogue: 0,0:00:3.67,0:00:3.81,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:3.81,0:00:4.15,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che {\1c&HFF00&\u1}deve{\r} dare
+Dialogue: 0,0:00:4.15,0:00:4.63,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve dare
+Dialogue: 0,0:00:4.63,0:00:4.85,Default,,0,0,0,,tanto perché questo discorso che vi sto facendo io della storia che deve {\1c&HFF00&\u1}dare{\r}
+Dialogue: 0,0:00:4.84,0:00:5.40,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:5.40,0:00:5.48,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:5.48,0:00:5.60,Default,,0,0,0,,una {\1c&HFF00&\u1}base{\r} al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:5.60,0:00:5.66,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:5.66,0:00:5.76,Default,,0,0,0,,una base {\1c&HFF00&\u1}al{\r} combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:5.76,0:00:5.80,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:5.80,0:00:6.56,Default,,0,0,0,,una base al {\1c&HFF00&\u1}combattimento{\r} la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:6.56,0:00:6.99,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:6.99,0:00:7.05,Default,,0,0,0,,una base al combattimento {\1c&HFF00&\u1}la{\r} fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:7.05,0:00:7.09,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:7.09,0:00:7.31,Default,,0,0,0,,una base al combattimento la {\1c&HFF00&\u1}fanno{\r} pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:7.31,0:00:7.35,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:7.35,0:00:7.49,Default,,0,0,0,,una base al combattimento la fanno {\1c&HFF00&\u1}pure{\r} nel wrestling prima di farli scornare
+Dialogue: 0,0:00:7.49,0:00:7.53,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:7.53,0:00:7.71,Default,,0,0,0,,una base al combattimento la fanno pure {\1c&HFF00&\u1}nel{\r} wrestling prima di farli scornare
+Dialogue: 0,0:00:7.71,0:00:7.73,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:7.73,0:00:8.31,Default,,0,0,0,,una base al combattimento la fanno pure nel {\1c&HFF00&\u1}wrestling{\r} prima di farli scornare
+Dialogue: 0,0:00:8.31,0:00:8.75,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:8.75,0:00:8.95,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling {\1c&HFF00&\u1}prima{\r} di farli scornare
+Dialogue: 0,0:00:8.95,0:00:9.01,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:9.01,0:00:9.07,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima {\1c&HFF00&\u1}di{\r} farli scornare
+Dialogue: 0,0:00:9.07,0:00:9.13,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:9.13,0:00:9.35,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di {\1c&HFF00&\u1}farli{\r} scornare
+Dialogue: 0,0:00:9.35,0:00:9.41,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli scornare
+Dialogue: 0,0:00:9.41,0:00:9.89,Default,,0,0,0,,una base al combattimento la fanno pure nel wrestling prima di farli {\1c&HFF00&\u1}scornare{\r}
+Dialogue: 0,0:00:9.88,0:00:10.52,Default,,0,0,0,,{\1c&HFF00&\u1}sul{\r} ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:10.52,0:00:10.72,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:10.72,0:00:10.80,Default,,0,0,0,,sul {\1c&HFF00&\u1}ring{\r} questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:10.80,0:00:10.84,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:10.84,0:00:11.08,Default,,0,0,0,,sul ring {\1c&HFF00&\u1}questi{\r} qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:11.08,0:00:11.16,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:11.16,0:00:11.36,Default,,0,0,0,,sul ring questi {\1c&HFF00&\u1}qui{\r} mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:11.36,0:00:11.70,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:11.70,0:00:12.00,Default,,0,0,0,,sul ring questi qui {\1c&HFF00&\u1}mandano{\r} in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:12.00,0:00:12.02,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:12.02,0:00:12.06,Default,,0,0,0,,sul ring questi qui mandano {\1c&HFF00&\u1}in{\r} onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:12.06,0:00:12.10,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:12.10,0:00:12.30,Default,,0,0,0,,sul ring questi qui mandano in {\1c&HFF00&\u1}onda{\r} dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:12.30,0:00:12.37,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:12.37,0:00:12.65,Default,,0,0,0,,sul ring questi qui mandano in onda {\1c&HFF00&\u1}dei{\r} degli rvm dei filmati delle delle
+Dialogue: 0,0:00:12.65,0:00:14.43,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:14.43,0:00:14.61,Default,,0,0,0,,sul ring questi qui mandano in onda dei {\1c&HFF00&\u1}degli{\r} rvm dei filmati delle delle
+Dialogue: 0,0:00:14.61,0:00:14.71,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:14.71,0:00:15.25,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli {\1c&HFF00&\u1}rvm{\r} dei filmati delle delle
+Dialogue: 0,0:00:15.25,0:00:15.29,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:15.29,0:00:15.41,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm {\1c&HFF00&\u1}dei{\r} filmati delle delle
+Dialogue: 0,0:00:15.41,0:00:15.49,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:15.49,0:00:16.13,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei {\1c&HFF00&\u1}filmati{\r} delle delle
+Dialogue: 0,0:00:16.13,0:00:16.53,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:16.53,0:00:17.54,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati {\1c&HFF00&\u1}delle{\r} delle
+Dialogue: 0,0:00:17.54,0:00:17.56,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle delle
+Dialogue: 0,0:00:17.56,0:00:17.74,Default,,0,0,0,,sul ring questi qui mandano in onda dei degli rvm dei filmati delle {\1c&HFF00&\u1}delle{\r}
+Dialogue: 0,0:00:17.88,0:00:18.30,Default,,0,0,0,,{\1c&HFF00&\u1}scenette{\r} dietro le quinte, perché?
+Dialogue: 0,0:00:18.30,0:00:18.34,Default,,0,0,0,,scenette dietro le quinte, perché?
+Dialogue: 0,0:00:18.34,0:00:18.56,Default,,0,0,0,,scenette {\1c&HFF00&\u1}dietro{\r} le quinte, perché?
+Dialogue: 0,0:00:18.56,0:00:18.62,Default,,0,0,0,,scenette dietro le quinte, perché?
+Dialogue: 0,0:00:18.62,0:00:18.69,Default,,0,0,0,,scenette dietro {\1c&HFF00&\u1}le{\r} quinte, perché?
+Dialogue: 0,0:00:18.69,0:00:18.75,Default,,0,0,0,,scenette dietro le quinte, perché?
+Dialogue: 0,0:00:18.75,0:00:19.07,Default,,0,0,0,,scenette dietro le {\1c&HFF00&\u1}quinte,{\r} perché?
+Dialogue: 0,0:00:19.07,0:00:19.15,Default,,0,0,0,,scenette dietro le quinte, perché?
+Dialogue: 0,0:00:19.15,0:00:19.41,Default,,0,0,0,,scenette dietro le quinte, {\1c&HFF00&\u1}perché?{\r}

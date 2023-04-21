@@ -1,0 +1,131 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.24,Default,,0,0,0,,{\1c&HFF00&\u1}Io{\r} personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:0.24,0:00:0.28,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:0.28,0:00:0.90,Default,,0,0,0,,Io {\1c&HFF00&\u1}personalmente{\r} non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:0.90,0:00:1.04,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.04,0:00:1.16,Default,,0,0,0,,Io personalmente {\1c&HFF00&\u1}non{\r} bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.16,0:00:1.24,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.24,0:00:1.44,Default,,0,0,0,,Io personalmente non {\1c&HFF00&\u1}bevo{\r} il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.44,0:00:1.46,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.46,0:00:1.54,Default,,0,0,0,,Io personalmente non bevo {\1c&HFF00&\u1}il{\r} caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.54,0:00:1.60,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.60,0:00:1.84,Default,,0,0,0,,Io personalmente non bevo il {\1c&HFF00&\u1}caffè{\r} al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.84,0:00:1.89,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:1.89,0:00:2.05,Default,,0,0,0,,Io personalmente non bevo il caffè {\1c&HFF00&\u1}al{\r} bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:2.05,0:00:2.09,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:2.09,0:00:2.31,Default,,0,0,0,,Io personalmente non bevo il caffè al {\1c&HFF00&\u1}bar{\r} come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:2.31,0:00:2.45,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:2.45,0:00:2.93,Default,,0,0,0,,Io personalmente non bevo il caffè al bar {\1c&HFF00&\u1}come{\r} routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:2.93,0:00:3.57,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:3.57,0:00:4.05,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come {\1c&HFF00&\u1}routine,{\r} ma a volte mi piace fare la
+Dialogue: 0,0:00:4.05,0:00:4.35,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:4.35,0:00:4.43,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, {\1c&HFF00&\u1}ma{\r} a volte mi piace fare la
+Dialogue: 0,0:00:4.43,0:00:4.45,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:4.45,0:00:4.47,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma {\1c&HFF00&\u1}a{\r} volte mi piace fare la
+Dialogue: 0,0:00:4.47,0:00:4.51,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:4.51,0:00:4.73,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a {\1c&HFF00&\u1}volte{\r} mi piace fare la
+Dialogue: 0,0:00:4.73,0:00:4.81,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:4.81,0:00:4.87,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte {\1c&HFF00&\u1}mi{\r} piace fare la
+Dialogue: 0,0:00:4.87,0:00:4.93,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:4.93,0:00:5.21,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi {\1c&HFF00&\u1}piace{\r} fare la
+Dialogue: 0,0:00:5.21,0:00:5.27,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:5.27,0:00:5.43,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace {\1c&HFF00&\u1}fare{\r} la
+Dialogue: 0,0:00:5.43,0:00:5.49,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare la
+Dialogue: 0,0:00:5.49,0:00:5.55,Default,,0,0,0,,Io personalmente non bevo il caffè al bar come routine, ma a volte mi piace fare {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:5.66,0:00:6.10,Default,,0,0,0,,{\1c&HFF00&\u1}colazione{\r} a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:6.10,0:00:6.12,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:6.12,0:00:6.16,Default,,0,0,0,,colazione {\1c&HFF00&\u1}a{\r} fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:6.16,0:00:6.20,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:6.20,0:00:6.46,Default,,0,0,0,,colazione a {\1c&HFF00&\u1}fuori,{\r} però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:6.46,0:00:6.50,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:6.50,0:00:6.68,Default,,0,0,0,,colazione a fuori, {\1c&HFF00&\u1}però{\r} è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:6.68,0:00:7.02,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:7.02,0:00:7.06,Default,,0,0,0,,colazione a fuori, però {\1c&HFF00&\u1}è{\r} più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:7.06,0:00:7.31,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:7.31,0:00:7.45,Default,,0,0,0,,colazione a fuori, però è {\1c&HFF00&\u1}più{\r} un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:7.45,0:00:7.63,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:7.63,0:00:7.73,Default,,0,0,0,,colazione a fuori, però è più {\1c&HFF00&\u1}un{\r} evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:7.73,0:00:7.79,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:7.79,0:00:8.23,Default,,0,0,0,,colazione a fuori, però è più un {\1c&HFF00&\u1}evento{\r} che qualcosa di quotidiano.
+Dialogue: 0,0:00:8.23,0:00:8.39,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:8.39,0:00:8.77,Default,,0,0,0,,colazione a fuori, però è più un evento {\1c&HFF00&\u1}che{\r} qualcosa di quotidiano.
+Dialogue: 0,0:00:8.77,0:00:9.31,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:9.31,0:00:9.65,Default,,0,0,0,,colazione a fuori, però è più un evento che {\1c&HFF00&\u1}qualcosa{\r} di quotidiano.
+Dialogue: 0,0:00:9.65,0:00:9.69,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:9.69,0:00:9.75,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa {\1c&HFF00&\u1}di{\r} quotidiano.
+Dialogue: 0,0:00:9.75,0:00:9.79,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di quotidiano.
+Dialogue: 0,0:00:9.79,0:00:10.37,Default,,0,0,0,,colazione a fuori, però è più un evento che qualcosa di {\1c&HFF00&\u1}quotidiano.{\r}
+Dialogue: 0,0:00:10.60,0:00:11.10,Default,,0,0,0,,{\1c&HFF00&\u1}Sembrerebbe{\r} che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.10,0:00:11.18,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.18,0:00:11.26,Default,,0,0,0,,Sembrerebbe {\1c&HFF00&\u1}che{\r} insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.26,0:00:11.32,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.32,0:00:11.68,Default,,0,0,0,,Sembrerebbe che {\1c&HFF00&\u1}insomma{\r} un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.68,0:00:11.86,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.86,0:00:11.94,Default,,0,0,0,,Sembrerebbe che insomma {\1c&HFF00&\u1}un{\r} euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.94,0:00:11.98,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:11.98,0:00:12.32,Default,,0,0,0,,Sembrerebbe che insomma un {\1c&HFF00&\u1}euro{\r} non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:12.32,0:00:12.53,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:12.53,0:00:12.67,Default,,0,0,0,,Sembrerebbe che insomma un euro {\1c&HFF00&\u1}non{\r} conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:12.67,0:00:12.77,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:12.77,0:00:13.19,Default,,0,0,0,,Sembrerebbe che insomma un euro non {\1c&HFF00&\u1}conta,{\r} però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:13.19,0:00:13.35,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:13.35,0:00:13.69,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, {\1c&HFF00&\u1}però{\r} a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:13.69,0:00:13.81,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:13.81,0:00:13.85,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però {\1c&HFF00&\u1}a{\r} volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:13.85,0:00:13.89,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:13.89,0:00:14.33,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a {\1c&HFF00&\u1}volte{\r} capuce o poi si aggiunge un
+Dialogue: 0,0:00:14.33,0:00:14.69,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:14.69,0:00:15.25,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte {\1c&HFF00&\u1}capuce{\r} o poi si aggiunge un
+Dialogue: 0,0:00:15.25,0:00:15.29,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:15.29,0:00:15.33,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce {\1c&HFF00&\u1}o{\r} poi si aggiunge un
+Dialogue: 0,0:00:15.33,0:00:15.39,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:15.39,0:00:15.51,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o {\1c&HFF00&\u1}poi{\r} si aggiunge un
+Dialogue: 0,0:00:15.51,0:00:15.55,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:15.55,0:00:15.61,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi {\1c&HFF00&\u1}si{\r} aggiunge un
+Dialogue: 0,0:00:15.61,0:00:15.65,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:15.65,0:00:16.07,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si {\1c&HFF00&\u1}aggiunge{\r} un
+Dialogue: 0,0:00:16.07,0:00:16.13,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge un
+Dialogue: 0,0:00:16.13,0:00:16.19,Default,,0,0,0,,Sembrerebbe che insomma un euro non conta, però a volte capuce o poi si aggiunge {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:16.16,0:00:16.26,Default,,0,0,0,,{\1c&HFF00&\u1}dolce,{\r} labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.26,0:00:16.28,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.28,0:00:16.48,Default,,0,0,0,,dolce, {\1c&HFF00&\u1}labbrioche{\r} e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.48,0:00:16.50,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.50,0:00:16.52,Default,,0,0,0,,dolce, labbrioche {\1c&HFF00&\u1}e{\r} non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.52,0:00:16.54,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.54,0:00:16.60,Default,,0,0,0,,dolce, labbrioche e {\1c&HFF00&\u1}non{\r} è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.60,0:00:16.62,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.62,0:00:16.64,Default,,0,0,0,,dolce, labbrioche e non {\1c&HFF00&\u1}è{\r} più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.64,0:00:16.66,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.66,0:00:16.72,Default,,0,0,0,,dolce, labbrioche e non è {\1c&HFF00&\u1}più{\r} un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.72,0:00:16.74,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.74,0:00:16.78,Default,,0,0,0,,dolce, labbrioche e non è più {\1c&HFF00&\u1}un{\r} euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.78,0:00:16.80,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.80,0:00:16.88,Default,,0,0,0,,dolce, labbrioche e non è più un {\1c&HFF00&\u1}euro{\r} ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.88,0:00:16.90,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.90,0:00:16.94,Default,,0,0,0,,dolce, labbrioche e non è più un euro {\1c&HFF00&\u1}ma{\r} tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.94,0:00:16.98,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:16.98,0:00:17.04,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma {\1c&HFF00&\u1}tre.{\r} E a fine mese si accumula.
+Dialogue: 0,0:00:17.04,0:00:17.06,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:17.06,0:00:17.08,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. {\1c&HFF00&\u1}E{\r} a fine mese si accumula.
+Dialogue: 0,0:00:17.08,0:00:17.10,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:17.10,0:00:17.12,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E {\1c&HFF00&\u1}a{\r} fine mese si accumula.
+Dialogue: 0,0:00:17.12,0:00:17.14,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:17.14,0:00:17.22,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a {\1c&HFF00&\u1}fine{\r} mese si accumula.
+Dialogue: 0,0:00:17.22,0:00:17.24,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:17.24,0:00:17.34,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine {\1c&HFF00&\u1}mese{\r} si accumula.
+Dialogue: 0,0:00:17.34,0:00:17.36,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:17.36,0:00:17.40,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese {\1c&HFF00&\u1}si{\r} accumula.
+Dialogue: 0,0:00:17.40,0:00:17.42,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si accumula.
+Dialogue: 0,0:00:17.42,0:00:17.58,Default,,0,0,0,,dolce, labbrioche e non è più un euro ma tre. E a fine mese si {\1c&HFF00&\u1}accumula.{\r}

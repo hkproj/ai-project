@@ -1,0 +1,886 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.06,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:0.06,0:00:0.16,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:0.16,0:00:0.42,Default,,0,0,0,,non {\1c&HFF00&\u1}dimenticatevi{\r} di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:0.42,0:00:0.44,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:0.44,0:00:0.48,Default,,0,0,0,,non dimenticatevi {\1c&HFF00&\u1}di{\r} dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:0.50,0:00:1.54,Default,,0,0,0,,non dimenticatevi di {\1c&HFF00&\u1}dormire{\r} e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:1.54,0:00:1.56,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:1.56,0:00:1.58,Default,,0,0,0,,non dimenticatevi di dormire {\1c&HFF00&\u1}e{\r} divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:1.58,0:00:1.60,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:1.60,0:00:2.17,Default,,0,0,0,,non dimenticatevi di dormire e {\1c&HFF00&\u1}divertirvi,{\r} giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:2.17,0:00:2.25,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:2.25,0:00:2.87,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, {\1c&HFF00&\u1}giocare,{\r} guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:2.87,0:00:2.95,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:2.95,0:00:3.23,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, {\1c&HFF00&\u1}guardare{\r} un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.23,0:00:3.29,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.29,0:00:3.35,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare {\1c&HFF00&\u1}un{\r} video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.39,0:00:3.61,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un {\1c&HFF00&\u1}video,{\r} guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.61,0:00:3.63,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.63,0:00:3.87,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, {\1c&HFF00&\u1}guardare{\r} un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.87,0:00:3.93,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.93,0:00:3.99,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare {\1c&HFF00&\u1}un{\r} film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:3.99,0:00:4.05,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:4.05,0:00:4.25,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un {\1c&HFF00&\u1}film,{\r} qualsiasi sia la vostra passione
+Dialogue: 0,0:00:4.25,0:00:4.37,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:4.37,0:00:4.63,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, {\1c&HFF00&\u1}qualsiasi{\r} sia la vostra passione
+Dialogue: 0,0:00:4.63,0:00:4.67,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:4.67,0:00:4.77,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi {\1c&HFF00&\u1}sia{\r} la vostra passione
+Dialogue: 0,0:00:4.77,0:00:4.81,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:4.81,0:00:4.87,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia {\1c&HFF00&\u1}la{\r} vostra passione
+Dialogue: 0,0:00:4.87,0:00:4.89,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:4.89,0:00:5.09,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la {\1c&HFF00&\u1}vostra{\r} passione
+Dialogue: 0,0:00:5.09,0:00:5.15,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra passione
+Dialogue: 0,0:00:5.15,0:00:5.51,Default,,0,0,0,,non dimenticatevi di dormire e divertirvi, giocare, guardare un video, guardare un film, qualsiasi sia la vostra {\1c&HFF00&\u1}passione{\r}
+Dialogue: 0,0:00:5.84,0:00:5.98,Default,,0,0,0,,{\1c&HFF00&\u1}così{\r} facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:5.98,0:00:6.02,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:6.02,0:00:6.34,Default,,0,0,0,,così {\1c&HFF00&\u1}facendo{\r} prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:6.34,0:00:6.38,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:6.38,0:00:6.68,Default,,0,0,0,,così facendo {\1c&HFF00&\u1}prendete{\r} due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:6.68,0:00:6.74,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:6.74,0:00:6.84,Default,,0,0,0,,così facendo prendete {\1c&HFF00&\u1}due{\r} piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:6.84,0:00:6.88,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:6.88,0:00:7.16,Default,,0,0,0,,così facendo prendete due {\1c&HFF00&\u1}piccioni{\r} con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.16,0:00:7.20,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.20,0:00:7.28,Default,,0,0,0,,così facendo prendete due piccioni {\1c&HFF00&\u1}con{\r} una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.28,0:00:7.32,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.32,0:00:7.43,Default,,0,0,0,,così facendo prendete due piccioni con {\1c&HFF00&\u1}una{\r} fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.43,0:00:7.47,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.47,0:00:7.77,Default,,0,0,0,,così facendo prendete due piccioni con una {\1c&HFF00&\u1}fava,{\r} riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.77,0:00:7.85,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:7.85,0:00:8.23,Default,,0,0,0,,così facendo prendete due piccioni con una fava, {\1c&HFF00&\u1}riducete{\r} lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:8.23,0:00:8.31,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:8.31,0:00:8.37,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete {\1c&HFF00&\u1}lo{\r} stress e migliorate la vostra performance
+Dialogue: 0,0:00:8.37,0:00:8.41,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:8.41,0:00:8.85,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo {\1c&HFF00&\u1}stress{\r} e migliorate la vostra performance
+Dialogue: 0,0:00:8.85,0:00:9.07,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:9.07,0:00:9.11,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress {\1c&HFF00&\u1}e{\r} migliorate la vostra performance
+Dialogue: 0,0:00:9.11,0:00:9.17,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:9.17,0:00:9.59,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e {\1c&HFF00&\u1}migliorate{\r} la vostra performance
+Dialogue: 0,0:00:9.59,0:00:9.65,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:9.65,0:00:9.71,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate {\1c&HFF00&\u1}la{\r} vostra performance
+Dialogue: 0,0:00:9.71,0:00:9.73,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:9.73,0:00:9.99,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la {\1c&HFF00&\u1}vostra{\r} performance
+Dialogue: 0,0:00:9.99,0:00:10.03,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra performance
+Dialogue: 0,0:00:10.03,0:00:10.73,Default,,0,0,0,,così facendo prendete due piccioni con una fava, riducete lo stress e migliorate la vostra {\1c&HFF00&\u1}performance{\r}
+Dialogue: 0,0:00:10.90,0:00:11.10,Default,,0,0,0,,{\1c&HFF00&\u1}cose{\r} utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:11.10,0:00:11.14,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:11.14,0:00:11.60,Default,,0,0,0,,cose {\1c&HFF00&\u1}utilissime{\r} all'università ma anche nella vita in generale
+Dialogue: 0,0:00:11.60,0:00:11.78,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:11.78,0:00:12.39,Default,,0,0,0,,cose utilissime {\1c&HFF00&\u1}all'università{\r} ma anche nella vita in generale
+Dialogue: 0,0:00:12.39,0:00:12.51,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:12.51,0:00:12.57,Default,,0,0,0,,cose utilissime all'università {\1c&HFF00&\u1}ma{\r} anche nella vita in generale
+Dialogue: 0,0:00:12.57,0:00:12.61,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:12.61,0:00:12.79,Default,,0,0,0,,cose utilissime all'università ma {\1c&HFF00&\u1}anche{\r} nella vita in generale
+Dialogue: 0,0:00:12.79,0:00:12.81,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:12.81,0:00:12.97,Default,,0,0,0,,cose utilissime all'università ma anche {\1c&HFF00&\u1}nella{\r} vita in generale
+Dialogue: 0,0:00:12.97,0:00:12.99,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:12.99,0:00:13.11,Default,,0,0,0,,cose utilissime all'università ma anche nella {\1c&HFF00&\u1}vita{\r} in generale
+Dialogue: 0,0:00:13.11,0:00:13.15,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:13.15,0:00:13.19,Default,,0,0,0,,cose utilissime all'università ma anche nella vita {\1c&HFF00&\u1}in{\r} generale
+Dialogue: 0,0:00:13.19,0:00:13.21,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in generale
+Dialogue: 0,0:00:13.21,0:00:13.59,Default,,0,0,0,,cose utilissime all'università ma anche nella vita in {\1c&HFF00&\u1}generale{\r}
+Dialogue: 0,0:00:13.60,0:00:14.34,Default,,0,0,0,,{\1c&HFF00&\u1}queste{\r} lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.34,0:00:14.36,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.36,0:00:14.54,Default,,0,0,0,,queste {\1c&HFF00&\u1}lezioni{\r} secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.54,0:00:14.56,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.56,0:00:14.70,Default,,0,0,0,,queste lezioni {\1c&HFF00&\u1}secondo{\r} me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.70,0:00:14.72,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.72,0:00:14.76,Default,,0,0,0,,queste lezioni secondo {\1c&HFF00&\u1}me{\r} le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.76,0:00:14.78,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.78,0:00:14.82,Default,,0,0,0,,queste lezioni secondo me {\1c&HFF00&\u1}le{\r} potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.82,0:00:14.84,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.84,0:00:14.96,Default,,0,0,0,,queste lezioni secondo me le {\1c&HFF00&\u1}potete{\r} applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.96,0:00:14.98,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:14.98,0:00:15.41,Default,,0,0,0,,queste lezioni secondo me le potete {\1c&HFF00&\u1}applicare{\r} anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:15.41,0:00:15.45,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:15.45,0:00:15.57,Default,,0,0,0,,queste lezioni secondo me le potete applicare {\1c&HFF00&\u1}anche{\r} dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:15.57,0:00:15.99,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:15.99,0:00:16.15,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche {\1c&HFF00&\u1}dopo{\r} l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:16.15,0:00:16.19,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:16.19,0:00:16.69,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo {\1c&HFF00&\u1}l'università{\r} o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:16.69,0:00:16.77,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:16.77,0:00:16.83,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università {\1c&HFF00&\u1}o{\r} prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:16.83,0:00:16.95,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:16.95,0:00:17.19,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o {\1c&HFF00&\u1}prima{\r} per chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.19,0:00:17.37,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.37,0:00:17.45,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima {\1c&HFF00&\u1}per{\r} chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.45,0:00:17.47,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.47,0:00:17.53,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per {\1c&HFF00&\u1}chi{\r} di voi va ancora al superiori
+Dialogue: 0,0:00:17.53,0:00:17.57,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.57,0:00:17.61,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi {\1c&HFF00&\u1}di{\r} voi va ancora al superiori
+Dialogue: 0,0:00:17.61,0:00:17.65,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.65,0:00:17.73,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di {\1c&HFF00&\u1}voi{\r} va ancora al superiori
+Dialogue: 0,0:00:17.73,0:00:17.77,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.77,0:00:17.85,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi {\1c&HFF00&\u1}va{\r} ancora al superiori
+Dialogue: 0,0:00:17.85,0:00:17.87,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:17.87,0:00:18.05,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va {\1c&HFF00&\u1}ancora{\r} al superiori
+Dialogue: 0,0:00:18.05,0:00:18.07,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:18.07,0:00:18.15,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora {\1c&HFF00&\u1}al{\r} superiori
+Dialogue: 0,0:00:18.15,0:00:18.19,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al superiori
+Dialogue: 0,0:00:18.19,0:00:18.61,Default,,0,0,0,,queste lezioni secondo me le potete applicare anche dopo l'università o prima per chi di voi va ancora al {\1c&HFF00&\u1}superiori{\r}
+Dialogue: 0,0:00:18.92,0:00:19.12,Default,,0,0,0,,{\1c&HFF00&\u1}ovvio{\r} magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:19.12,0:00:19.14,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:19.14,0:00:19.58,Default,,0,0,0,,ovvio {\1c&HFF00&\u1}magari{\r} in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:19.58,0:00:19.60,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:19.60,0:00:19.64,Default,,0,0,0,,ovvio magari {\1c&HFF00&\u1}in{\r} sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:19.64,0:00:19.66,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:19.66,0:00:20.14,Default,,0,0,0,,ovvio magari in {\1c&HFF00&\u1}sessione{\r} ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:20.14,0:00:20.32,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:20.32,0:00:20.54,Default,,0,0,0,,ovvio magari in sessione {\1c&HFF00&\u1}ovvero{\r} quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:20.54,0:00:20.60,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:20.60,0:00:20.86,Default,,0,0,0,,ovvio magari in sessione ovvero {\1c&HFF00&\u1}quando{\r} c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:20.86,0:00:21.01,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.01,0:00:21.11,Default,,0,0,0,,ovvio magari in sessione ovvero quando {\1c&HFF00&\u1}c'è{\r} il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.11,0:00:21.13,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.13,0:00:21.19,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è {\1c&HFF00&\u1}il{\r} periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.19,0:00:21.21,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.21,0:00:21.43,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il {\1c&HFF00&\u1}periodo{\r} di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.43,0:00:21.47,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.47,0:00:21.53,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo {\1c&HFF00&\u1}di{\r} esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.53,0:00:21.55,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.55,0:00:21.87,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di {\1c&HFF00&\u1}esami{\r} dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.87,0:00:21.93,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:21.93,0:00:22.23,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami {\1c&HFF00&\u1}dovrete{\r} diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:22.23,0:00:22.29,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:22.29,0:00:22.75,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete {\1c&HFF00&\u1}diminuire{\r} un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:22.75,0:00:22.81,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:22.81,0:00:22.87,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire {\1c&HFF00&\u1}un{\r} po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:22.87,0:00:22.91,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:22.91,0:00:23.07,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un {\1c&HFF00&\u1}po'{\r} il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:23.07,0:00:23.21,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:23.21,0:00:23.29,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' {\1c&HFF00&\u1}il{\r} tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:23.29,0:00:23.35,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:23.35,0:00:23.59,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il {\1c&HFF00&\u1}tempo{\r} libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:23.59,0:00:23.67,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:23.67,0:00:23.95,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo {\1c&HFF00&\u1}libero{\r} e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:23.95,0:00:24.03,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:24.03,0:00:24.07,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero {\1c&HFF00&\u1}e{\r} non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:24.07,0:00:24.09,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:24.09,0:00:24.17,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e {\1c&HFF00&\u1}non{\r} potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:24.17,0:00:24.21,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:24.21,0:00:24.49,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non {\1c&HFF00&\u1}potrete{\r} divertirvi tutti i giorni
+Dialogue: 0,0:00:24.49,0:00:24.53,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:24.53,0:00:25.03,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete {\1c&HFF00&\u1}divertirvi{\r} tutti i giorni
+Dialogue: 0,0:00:25.03,0:00:25.13,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:25.13,0:00:25.31,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi {\1c&HFF00&\u1}tutti{\r} i giorni
+Dialogue: 0,0:00:25.31,0:00:25.33,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:25.33,0:00:25.35,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti {\1c&HFF00&\u1}i{\r} giorni
+Dialogue: 0,0:00:25.35,0:00:25.41,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i giorni
+Dialogue: 0,0:00:25.41,0:00:25.74,Default,,0,0,0,,ovvio magari in sessione ovvero quando c'è il periodo di esami dovrete diminuire un po' il tempo libero e non potrete divertirvi tutti i {\1c&HFF00&\u1}giorni{\r}
+Dialogue: 0,0:00:26.00,0:00:26.18,Default,,0,0,0,,{\1c&HFF00&\u1}però{\r} è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:26.18,0:00:26.42,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:26.42,0:00:26.48,Default,,0,0,0,,però {\1c&HFF00&\u1}è{\r} importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:26.48,0:00:26.54,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:26.54,0:00:27.16,Default,,0,0,0,,però è {\1c&HFF00&\u1}importante{\r} anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.16,0:00:27.40,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.40,0:00:27.66,Default,,0,0,0,,però è importante {\1c&HFF00&\u1}anche{\r} in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.66,0:00:27.70,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.70,0:00:27.77,Default,,0,0,0,,però è importante anche {\1c&HFF00&\u1}in{\r} quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.77,0:00:27.79,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.79,0:00:27.93,Default,,0,0,0,,però è importante anche in {\1c&HFF00&\u1}quei{\r} momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.93,0:00:27.95,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:27.95,0:00:28.35,Default,,0,0,0,,però è importante anche in quei {\1c&HFF00&\u1}momenti{\r} trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:28.35,0:00:28.45,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:28.45,0:00:28.75,Default,,0,0,0,,però è importante anche in quei momenti {\1c&HFF00&\u1}trovare{\r} spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:28.75,0:00:28.81,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:28.81,0:00:29.29,Default,,0,0,0,,però è importante anche in quei momenti trovare {\1c&HFF00&\u1}spazio{\r} per il riposo mentale e fisico
+Dialogue: 0,0:00:29.29,0:00:29.41,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:29.41,0:00:29.61,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio {\1c&HFF00&\u1}per{\r} il riposo mentale e fisico
+Dialogue: 0,0:00:29.61,0:00:29.75,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:29.75,0:00:29.83,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per {\1c&HFF00&\u1}il{\r} riposo mentale e fisico
+Dialogue: 0,0:00:29.83,0:00:29.87,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:29.87,0:00:30.29,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il {\1c&HFF00&\u1}riposo{\r} mentale e fisico
+Dialogue: 0,0:00:30.29,0:00:30.55,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:30.55,0:00:31.01,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo {\1c&HFF00&\u1}mentale{\r} e fisico
+Dialogue: 0,0:00:31.01,0:00:31.15,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:31.15,0:00:31.21,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale {\1c&HFF00&\u1}e{\r} fisico
+Dialogue: 0,0:00:31.21,0:00:31.25,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e fisico
+Dialogue: 0,0:00:31.25,0:00:31.57,Default,,0,0,0,,però è importante anche in quei momenti trovare spazio per il riposo mentale e {\1c&HFF00&\u1}fisico{\r}
+Dialogue: 0,0:00:31.82,0:00:32.00,Default,,0,0,0,,{\1c&HFF00&\u1}andate{\r} a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.00,0:00:32.02,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.02,0:00:32.04,Default,,0,0,0,,andate {\1c&HFF00&\u1}a{\r} farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.04,0:00:32.06,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.06,0:00:32.20,Default,,0,0,0,,andate a {\1c&HFF00&\u1}farvi{\r} una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.20,0:00:32.22,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.22,0:00:32.30,Default,,0,0,0,,andate a farvi {\1c&HFF00&\u1}una{\r} corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.30,0:00:32.34,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.34,0:00:32.56,Default,,0,0,0,,andate a farvi una {\1c&HFF00&\u1}corsa,{\r} andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.56,0:00:32.58,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.58,0:00:32.80,Default,,0,0,0,,andate a farvi una corsa, {\1c&HFF00&\u1}andate{\r} a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.80,0:00:32.82,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.82,0:00:32.84,Default,,0,0,0,,andate a farvi una corsa, andate {\1c&HFF00&\u1}a{\r} farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.84,0:00:32.86,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:32.86,0:00:33.00,Default,,0,0,0,,andate a farvi una corsa, andate a {\1c&HFF00&\u1}farvi{\r} una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:33.00,0:00:33.04,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:33.04,0:00:33.11,Default,,0,0,0,,andate a farvi una corsa, andate a farvi {\1c&HFF00&\u1}una{\r} nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:33.11,0:00:33.17,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:33.17,0:00:33.61,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una {\1c&HFF00&\u1}nuotata,{\r} uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:33.61,0:00:33.79,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:33.79,0:00:33.99,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, {\1c&HFF00&\u1}uscite{\r} a bere una birra con i vostri amici
+Dialogue: 0,0:00:33.99,0:00:34.01,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.01,0:00:34.03,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite {\1c&HFF00&\u1}a{\r} bere una birra con i vostri amici
+Dialogue: 0,0:00:34.03,0:00:34.07,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.07,0:00:34.19,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a {\1c&HFF00&\u1}bere{\r} una birra con i vostri amici
+Dialogue: 0,0:00:34.19,0:00:34.21,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.21,0:00:34.29,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere {\1c&HFF00&\u1}una{\r} birra con i vostri amici
+Dialogue: 0,0:00:34.29,0:00:34.33,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.33,0:00:34.51,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una {\1c&HFF00&\u1}birra{\r} con i vostri amici
+Dialogue: 0,0:00:34.51,0:00:34.55,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.55,0:00:34.61,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra {\1c&HFF00&\u1}con{\r} i vostri amici
+Dialogue: 0,0:00:34.61,0:00:34.63,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.63,0:00:34.67,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con {\1c&HFF00&\u1}i{\r} vostri amici
+Dialogue: 0,0:00:34.67,0:00:34.69,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.69,0:00:34.91,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i {\1c&HFF00&\u1}vostri{\r} amici
+Dialogue: 0,0:00:34.91,0:00:34.95,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri amici
+Dialogue: 0,0:00:34.95,0:00:35.21,Default,,0,0,0,,andate a farvi una corsa, andate a farvi una nuotata, uscite a bere una birra con i vostri {\1c&HFF00&\u1}amici{\r}
+Dialogue: 0,0:00:35.34,0:00:35.56,Default,,0,0,0,,{\1c&HFF00&\u1}l'importante{\r} è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.56,0:00:35.58,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.58,0:00:35.60,Default,,0,0,0,,l'importante {\1c&HFF00&\u1}è{\r} che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.60,0:00:35.62,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.62,0:00:35.68,Default,,0,0,0,,l'importante è {\1c&HFF00&\u1}che{\r} trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.68,0:00:35.70,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.70,0:00:35.84,Default,,0,0,0,,l'importante è che {\1c&HFF00&\u1}trovate{\r} il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.84,0:00:35.86,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.86,0:00:35.90,Default,,0,0,0,,l'importante è che trovate {\1c&HFF00&\u1}il{\r} tempo per staccare dallo studio
+Dialogue: 0,0:00:35.90,0:00:35.92,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:35.92,0:00:36.02,Default,,0,0,0,,l'importante è che trovate il {\1c&HFF00&\u1}tempo{\r} per staccare dallo studio
+Dialogue: 0,0:00:36.02,0:00:36.04,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:36.04,0:00:36.10,Default,,0,0,0,,l'importante è che trovate il tempo {\1c&HFF00&\u1}per{\r} staccare dallo studio
+Dialogue: 0,0:00:36.10,0:00:36.12,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:36.12,0:00:36.28,Default,,0,0,0,,l'importante è che trovate il tempo per {\1c&HFF00&\u1}staccare{\r} dallo studio
+Dialogue: 0,0:00:36.28,0:00:36.30,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:36.30,0:00:36.40,Default,,0,0,0,,l'importante è che trovate il tempo per staccare {\1c&HFF00&\u1}dallo{\r} studio
+Dialogue: 0,0:00:36.40,0:00:36.42,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo studio
+Dialogue: 0,0:00:36.42,0:00:36.54,Default,,0,0,0,,l'importante è che trovate il tempo per staccare dallo {\1c&HFF00&\u1}studio{\r}
+Dialogue: 0,0:00:38.90,0:00:39.00,Default,,0,0,0,,{\1c&HFF00&\u1}ora{\r} che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.00,0:00:39.02,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.02,0:00:39.10,Default,,0,0,0,,ora {\1c&HFF00&\u1}che{\r} avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.10,0:00:39.12,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.12,0:00:39.28,Default,,0,0,0,,ora che {\1c&HFF00&\u1}avete{\r} sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.28,0:00:39.34,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.34,0:00:39.60,Default,,0,0,0,,ora che avete {\1c&HFF00&\u1}sentito{\r} questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.60,0:00:39.66,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.66,0:00:39.90,Default,,0,0,0,,ora che avete sentito {\1c&HFF00&\u1}questi{\r} consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.90,0:00:39.98,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:39.98,0:00:40.46,Default,,0,0,0,,ora che avete sentito questi {\1c&HFF00&\u1}consigli{\r} a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:40.46,0:00:40.75,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:40.75,0:00:40.79,Default,,0,0,0,,ora che avete sentito questi consigli {\1c&HFF00&\u1}a{\r} mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:40.79,0:00:40.83,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:40.83,0:00:40.91,Default,,0,0,0,,ora che avete sentito questi consigli a {\1c&HFF00&\u1}mio{\r} parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:40.91,0:00:40.95,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:40.95,0:00:41.21,Default,,0,0,0,,ora che avete sentito questi consigli a mio {\1c&HFF00&\u1}parere{\r} fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:41.21,0:00:41.29,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:41.29,0:00:41.87,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere {\1c&HFF00&\u1}fantastici{\r} di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:41.87,0:00:41.93,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:41.93,0:00:42.01,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici {\1c&HFF00&\u1}di{\r} persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:42.01,0:00:42.03,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:42.03,0:00:42.33,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di {\1c&HFF00&\u1}persone{\r} che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:42.33,0:00:42.35,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:42.35,0:00:42.43,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone {\1c&HFF00&\u1}che{\r} l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:42.43,0:00:42.45,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:42.45,0:00:42.89,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che {\1c&HFF00&\u1}l'università{\r} l'hanno già fatta e finita
+Dialogue: 0,0:00:42.89,0:00:42.95,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:42.95,0:00:43.17,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università {\1c&HFF00&\u1}l'hanno{\r} già fatta e finita
+Dialogue: 0,0:00:43.17,0:00:43.23,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:43.23,0:00:43.31,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno {\1c&HFF00&\u1}già{\r} fatta e finita
+Dialogue: 0,0:00:43.31,0:00:43.37,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:43.37,0:00:43.63,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già {\1c&HFF00&\u1}fatta{\r} e finita
+Dialogue: 0,0:00:43.63,0:00:43.81,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:43.81,0:00:43.85,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta {\1c&HFF00&\u1}e{\r} finita
+Dialogue: 0,0:00:43.85,0:00:43.89,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e finita
+Dialogue: 0,0:00:43.89,0:00:44.23,Default,,0,0,0,,ora che avete sentito questi consigli a mio parere fantastici di persone che l'università l'hanno già fatta e {\1c&HFF00&\u1}finita{\r}
+Dialogue: 0,0:00:44.72,0:00:44.88,Default,,0,0,0,,{\1c&HFF00&\u1}tutti{\r} con ottimi risultati
+Dialogue: 0,0:00:44.88,0:00:44.90,Default,,0,0,0,,tutti con ottimi risultati
+Dialogue: 0,0:00:44.90,0:00:45.02,Default,,0,0,0,,tutti {\1c&HFF00&\u1}con{\r} ottimi risultati
+Dialogue: 0,0:00:45.02,0:00:45.06,Default,,0,0,0,,tutti con ottimi risultati
+Dialogue: 0,0:00:45.06,0:00:45.30,Default,,0,0,0,,tutti con {\1c&HFF00&\u1}ottimi{\r} risultati
+Dialogue: 0,0:00:45.30,0:00:45.33,Default,,0,0,0,,tutti con ottimi risultati
+Dialogue: 0,0:00:45.33,0:00:45.79,Default,,0,0,0,,tutti con ottimi {\1c&HFF00&\u1}risultati{\r}
+Dialogue: 0,0:00:45.98,0:00:46.18,Default,,0,0,0,,{\1c&HFF00&\u1}vediamo{\r} quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:46.18,0:00:46.22,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:46.22,0:00:46.38,Default,,0,0,0,,vediamo {\1c&HFF00&\u1}quali{\r} sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:46.38,0:00:46.42,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:46.42,0:00:46.56,Default,,0,0,0,,vediamo quali {\1c&HFF00&\u1}sono{\r} stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:46.56,0:00:46.60,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:46.60,0:00:46.80,Default,,0,0,0,,vediamo quali sono {\1c&HFF00&\u1}stati{\r} i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:46.80,0:00:47.00,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.00,0:00:47.04,Default,,0,0,0,,vediamo quali sono stati {\1c&HFF00&\u1}i{\r} vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.04,0:00:47.08,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.08,0:00:47.45,Default,,0,0,0,,vediamo quali sono stati i {\1c&HFF00&\u1}vostri{\r} sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.45,0:00:47.59,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.59,0:00:47.91,Default,,0,0,0,,vediamo quali sono stati i vostri {\1c&HFF00&\u1}sbagli,{\r} i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.91,0:00:47.95,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.95,0:00:47.99,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, {\1c&HFF00&\u1}i{\r} vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:47.99,0:00:48.03,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:48.03,0:00:48.23,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i {\1c&HFF00&\u1}vostri{\r} errori di cui vi siete pentiti
+Dialogue: 0,0:00:48.23,0:00:48.29,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:48.29,0:00:48.49,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri {\1c&HFF00&\u1}errori{\r} di cui vi siete pentiti
+Dialogue: 0,0:00:48.49,0:00:48.51,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:48.51,0:00:48.59,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori {\1c&HFF00&\u1}di{\r} cui vi siete pentiti
+Dialogue: 0,0:00:48.59,0:00:48.63,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:48.63,0:00:48.75,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di {\1c&HFF00&\u1}cui{\r} vi siete pentiti
+Dialogue: 0,0:00:48.75,0:00:48.79,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:48.79,0:00:48.87,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui {\1c&HFF00&\u1}vi{\r} siete pentiti
+Dialogue: 0,0:00:48.87,0:00:48.91,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:48.91,0:00:49.07,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi {\1c&HFF00&\u1}siete{\r} pentiti
+Dialogue: 0,0:00:49.07,0:00:49.13,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete pentiti
+Dialogue: 0,0:00:49.13,0:00:49.53,Default,,0,0,0,,vediamo quali sono stati i vostri sbagli, i vostri errori di cui vi siete {\1c&HFF00&\u1}pentiti{\r}
+Dialogue: 0,0:00:49.80,0:00:49.86,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:49.86,0:00:49.98,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:49.98,0:00:50.54,Default,,0,0,0,,e {\1c&HFF00&\u1}commentiamoli{\r} cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:50.54,0:00:50.58,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:50.58,0:00:50.88,Default,,0,0,0,,e commentiamoli {\1c&HFF00&\u1}cercando{\r} di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:50.88,0:00:50.92,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:50.92,0:00:50.96,Default,,0,0,0,,e commentiamoli cercando {\1c&HFF00&\u1}di{\r} capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:50.96,0:00:51.00,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:51.00,0:00:51.35,Default,,0,0,0,,e commentiamoli cercando di {\1c&HFF00&\u1}capire{\r} cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:51.35,0:00:51.73,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:51.73,0:00:51.85,Default,,0,0,0,,e commentiamoli cercando di capire {\1c&HFF00&\u1}cosa{\r} è andato storto e come prevenirli
+Dialogue: 0,0:00:51.85,0:00:51.87,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:51.87,0:00:51.89,Default,,0,0,0,,e commentiamoli cercando di capire cosa {\1c&HFF00&\u1}è{\r} andato storto e come prevenirli
+Dialogue: 0,0:00:51.89,0:00:51.91,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:51.91,0:00:52.09,Default,,0,0,0,,e commentiamoli cercando di capire cosa è {\1c&HFF00&\u1}andato{\r} storto e come prevenirli
+Dialogue: 0,0:00:52.09,0:00:52.13,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:52.13,0:00:52.49,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato {\1c&HFF00&\u1}storto{\r} e come prevenirli
+Dialogue: 0,0:00:52.49,0:00:52.63,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:52.63,0:00:52.65,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto {\1c&HFF00&\u1}e{\r} come prevenirli
+Dialogue: 0,0:00:52.65,0:00:52.71,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:52.71,0:00:52.83,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e {\1c&HFF00&\u1}come{\r} prevenirli
+Dialogue: 0,0:00:52.83,0:00:52.87,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come prevenirli
+Dialogue: 0,0:00:52.87,0:00:53.35,Default,,0,0,0,,e commentiamoli cercando di capire cosa è andato storto e come {\1c&HFF00&\u1}prevenirli{\r}
+Dialogue: 0,0:00:53.42,0:00:53.64,Default,,0,0,0,,{\1c&HFF00&\u1}soprattutto{\r} perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:53.64,0:00:53.66,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:53.66,0:00:53.78,Default,,0,0,0,,soprattutto {\1c&HFF00&\u1}perché{\r} l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:53.78,0:00:53.80,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:53.80,0:00:54.02,Default,,0,0,0,,soprattutto perché {\1c&HFF00&\u1}l'università{\r} l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.02,0:00:54.04,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.04,0:00:54.10,Default,,0,0,0,,soprattutto perché l'università {\1c&HFF00&\u1}l'ha{\r} appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.10,0:00:54.12,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.12,0:00:54.24,Default,,0,0,0,,soprattutto perché l'università l'ha {\1c&HFF00&\u1}appena{\r} iniziata o la deve iniziare
+Dialogue: 0,0:00:54.24,0:00:54.26,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.26,0:00:54.42,Default,,0,0,0,,soprattutto perché l'università l'ha appena {\1c&HFF00&\u1}iniziata{\r} o la deve iniziare
+Dialogue: 0,0:00:54.42,0:00:54.44,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.44,0:00:54.46,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata {\1c&HFF00&\u1}o{\r} la deve iniziare
+Dialogue: 0,0:00:54.46,0:00:54.48,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.48,0:00:54.52,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o {\1c&HFF00&\u1}la{\r} deve iniziare
+Dialogue: 0,0:00:54.52,0:00:54.54,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.54,0:00:54.62,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la {\1c&HFF00&\u1}deve{\r} iniziare
+Dialogue: 0,0:00:54.62,0:00:54.64,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve iniziare
+Dialogue: 0,0:00:54.64,0:00:54.83,Default,,0,0,0,,soprattutto perché l'università l'ha appena iniziata o la deve {\1c&HFF00&\u1}iniziare{\r}
+Dialogue: 0,0:00:57.08,0:00:57.46,Default,,0,0,0,,{\1c&HFF00&\u1}ascoltare{\r} troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:57.46,0:00:57.50,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:57.50,0:00:57.74,Default,,0,0,0,,ascoltare {\1c&HFF00&\u1}troppo{\r} l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:57.74,0:00:57.82,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:57.82,0:00:58.16,Default,,0,0,0,,ascoltare troppo {\1c&HFF00&\u1}l'opinione{\r} degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:58.16,0:00:58.20,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:58.20,0:00:58.40,Default,,0,0,0,,ascoltare troppo l'opinione {\1c&HFF00&\u1}degli{\r} altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:58.40,0:00:58.44,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:58.44,0:00:58.79,Default,,0,0,0,,ascoltare troppo l'opinione degli {\1c&HFF00&\u1}altri{\r} e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:58.79,0:00:58.97,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:58.97,0:00:59.01,Default,,0,0,0,,ascoltare troppo l'opinione degli altri {\1c&HFF00&\u1}e{\r} farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:59.01,0:00:59.07,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:59.07,0:00:59.31,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e {\1c&HFF00&\u1}farsi{\r} influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:59.31,0:00:59.35,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:59.35,0:00:59.95,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi {\1c&HFF00&\u1}influenzare{\r} soprattutto l'università e nel lavoro
+Dialogue: 0,0:00:59.95,0:01:0.01,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:01:0.01,0:01:0.53,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare {\1c&HFF00&\u1}soprattutto{\r} l'università e nel lavoro
+Dialogue: 0,0:01:0.53,0:01:0.69,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:01:0.69,0:01:1.25,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto {\1c&HFF00&\u1}l'università{\r} e nel lavoro
+Dialogue: 0,0:01:1.25,0:01:1.41,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:01:1.41,0:01:1.45,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università {\1c&HFF00&\u1}e{\r} nel lavoro
+Dialogue: 0,0:01:1.45,0:01:1.47,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:01:1.47,0:01:1.61,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e {\1c&HFF00&\u1}nel{\r} lavoro
+Dialogue: 0,0:01:1.61,0:01:1.63,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel lavoro
+Dialogue: 0,0:01:1.63,0:01:1.91,Default,,0,0,0,,ascoltare troppo l'opinione degli altri e farsi influenzare soprattutto l'università e nel {\1c&HFF00&\u1}lavoro{\r}
+Dialogue: 0,0:01:2.42,0:01:2.68,Default,,0,0,0,,{\1c&HFF00&\u1}allora{\r} ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:2.68,0:01:2.72,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:2.72,0:01:3.10,Default,,0,0,0,,allora {\1c&HFF00&\u1}ragazzi{\r} ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:3.10,0:01:3.34,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:3.34,0:01:3.75,Default,,0,0,0,,allora ragazzi {\1c&HFF00&\u1}ricordatevi{\r} che il parere degli altri è importante
+Dialogue: 0,0:01:3.75,0:01:3.79,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:3.79,0:01:3.89,Default,,0,0,0,,allora ragazzi ricordatevi {\1c&HFF00&\u1}che{\r} il parere degli altri è importante
+Dialogue: 0,0:01:3.89,0:01:4.01,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:4.01,0:01:4.07,Default,,0,0,0,,allora ragazzi ricordatevi che {\1c&HFF00&\u1}il{\r} parere degli altri è importante
+Dialogue: 0,0:01:4.07,0:01:4.11,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:4.11,0:01:4.35,Default,,0,0,0,,allora ragazzi ricordatevi che il {\1c&HFF00&\u1}parere{\r} degli altri è importante
+Dialogue: 0,0:01:4.35,0:01:4.39,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:4.39,0:01:4.57,Default,,0,0,0,,allora ragazzi ricordatevi che il parere {\1c&HFF00&\u1}degli{\r} altri è importante
+Dialogue: 0,0:01:4.57,0:01:4.59,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:4.59,0:01:4.89,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli {\1c&HFF00&\u1}altri{\r} è importante
+Dialogue: 0,0:01:4.89,0:01:5.05,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:5.05,0:01:5.11,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri {\1c&HFF00&\u1}è{\r} importante
+Dialogue: 0,0:01:5.11,0:01:5.27,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è importante
+Dialogue: 0,0:01:5.27,0:01:5.91,Default,,0,0,0,,allora ragazzi ricordatevi che il parere degli altri è {\1c&HFF00&\u1}importante{\r}
+Dialogue: 0,0:01:6.08,0:01:6.26,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.26,0:01:6.28,Default,,0,0,0,,perché a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.28,0:01:6.30,Default,,0,0,0,,perché {\1c&HFF00&\u1}a{\r} volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.30,0:01:6.32,Default,,0,0,0,,perché a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.32,0:01:6.52,Default,,0,0,0,,perché a {\1c&HFF00&\u1}volte{\r} vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.52,0:01:6.56,Default,,0,0,0,,perché a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.56,0:01:6.64,Default,,0,0,0,,perché a volte {\1c&HFF00&\u1}vi{\r} fanno capire dove sbagliate
+Dialogue: 0,0:01:6.64,0:01:6.66,Default,,0,0,0,,perché a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.66,0:01:6.82,Default,,0,0,0,,perché a volte vi {\1c&HFF00&\u1}fanno{\r} capire dove sbagliate
+Dialogue: 0,0:01:6.82,0:01:6.90,Default,,0,0,0,,perché a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:6.90,0:01:7.11,Default,,0,0,0,,perché a volte vi fanno {\1c&HFF00&\u1}capire{\r} dove sbagliate
+Dialogue: 0,0:01:7.11,0:01:7.17,Default,,0,0,0,,perché a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:7.17,0:01:7.29,Default,,0,0,0,,perché a volte vi fanno capire {\1c&HFF00&\u1}dove{\r} sbagliate
+Dialogue: 0,0:01:7.29,0:01:7.33,Default,,0,0,0,,perché a volte vi fanno capire dove sbagliate
+Dialogue: 0,0:01:7.33,0:01:7.85,Default,,0,0,0,,perché a volte vi fanno capire dove {\1c&HFF00&\u1}sbagliate{\r}
+Dialogue: 0,0:01:8.06,0:01:8.08,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.08,0:01:8.12,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.12,0:01:8.34,Default,,0,0,0,,o {\1c&HFF00&\u1}comunque{\r} avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.34,0:01:8.36,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.36,0:01:8.52,Default,,0,0,0,,o comunque {\1c&HFF00&\u1}avere{\r} qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.52,0:01:8.56,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.56,0:01:8.84,Default,,0,0,0,,o comunque avere {\1c&HFF00&\u1}qualcuno{\r} che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.84,0:01:8.86,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.86,0:01:8.94,Default,,0,0,0,,o comunque avere qualcuno {\1c&HFF00&\u1}che{\r} la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.94,0:01:8.98,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:8.98,0:01:9.02,Default,,0,0,0,,o comunque avere qualcuno che {\1c&HFF00&\u1}la{\r} pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:9.02,0:01:9.06,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:9.06,0:01:9.29,Default,,0,0,0,,o comunque avere qualcuno che la {\1c&HFF00&\u1}pensa{\r} diversamente è sempre buona cosa
+Dialogue: 0,0:01:9.29,0:01:9.33,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:9.33,0:01:9.93,Default,,0,0,0,,o comunque avere qualcuno che la pensa {\1c&HFF00&\u1}diversamente{\r} è sempre buona cosa
+Dialogue: 0,0:01:9.93,0:01:10.07,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:10.07,0:01:10.11,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente {\1c&HFF00&\u1}è{\r} sempre buona cosa
+Dialogue: 0,0:01:10.11,0:01:10.17,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:10.17,0:01:10.39,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è {\1c&HFF00&\u1}sempre{\r} buona cosa
+Dialogue: 0,0:01:10.39,0:01:10.43,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:10.43,0:01:10.59,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre {\1c&HFF00&\u1}buona{\r} cosa
+Dialogue: 0,0:01:10.59,0:01:10.63,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona cosa
+Dialogue: 0,0:01:10.63,0:01:10.91,Default,,0,0,0,,o comunque avere qualcuno che la pensa diversamente è sempre buona {\1c&HFF00&\u1}cosa{\r}
+Dialogue: 0,0:01:11.24,0:01:11.30,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.30,0:01:11.32,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.32,0:01:11.46,Default,,0,0,0,,ma {\1c&HFF00&\u1}alla{\r} fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.46,0:01:11.50,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.50,0:01:11.62,Default,,0,0,0,,ma alla {\1c&HFF00&\u1}fine{\r} la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.62,0:01:11.70,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.70,0:01:11.76,Default,,0,0,0,,ma alla fine {\1c&HFF00&\u1}la{\r} vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.76,0:01:11.78,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.78,0:01:11.98,Default,,0,0,0,,ma alla fine la {\1c&HFF00&\u1}vita{\r} è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:11.98,0:01:12.12,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:12.12,0:01:12.16,Default,,0,0,0,,ma alla fine la vita {\1c&HFF00&\u1}è{\r} vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:12.16,0:01:12.20,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:12.20,0:01:12.53,Default,,0,0,0,,ma alla fine la vita è {\1c&HFF00&\u1}vostra,{\r} quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:12.53,0:01:12.61,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:12.61,0:01:12.81,Default,,0,0,0,,ma alla fine la vita è vostra, {\1c&HFF00&\u1}quindi{\r} non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:12.81,0:01:12.97,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:12.97,0:01:13.09,Default,,0,0,0,,ma alla fine la vita è vostra, quindi {\1c&HFF00&\u1}non{\r} vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:13.09,0:01:13.15,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:13.15,0:01:13.57,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non {\1c&HFF00&\u1}vivetela{\r} secondo quello che pensano gli altri
+Dialogue: 0,0:01:13.57,0:01:13.63,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:13.63,0:01:13.91,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela {\1c&HFF00&\u1}secondo{\r} quello che pensano gli altri
+Dialogue: 0,0:01:13.91,0:01:13.93,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:13.93,0:01:14.09,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo {\1c&HFF00&\u1}quello{\r} che pensano gli altri
+Dialogue: 0,0:01:14.09,0:01:14.13,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:14.13,0:01:14.21,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello {\1c&HFF00&\u1}che{\r} pensano gli altri
+Dialogue: 0,0:01:14.21,0:01:14.25,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:14.25,0:01:14.55,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che {\1c&HFF00&\u1}pensano{\r} gli altri
+Dialogue: 0,0:01:14.55,0:01:14.61,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:14.61,0:01:14.71,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano {\1c&HFF00&\u1}gli{\r} altri
+Dialogue: 0,0:01:14.71,0:01:14.73,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli altri
+Dialogue: 0,0:01:14.73,0:01:14.97,Default,,0,0,0,,ma alla fine la vita è vostra, quindi non vivetela secondo quello che pensano gli {\1c&HFF00&\u1}altri{\r}
+Dialogue: 0,0:01:15.22,0:01:15.40,Default,,0,0,0,,{\1c&HFF00&\u1}siete{\r} voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:15.40,0:01:15.42,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:15.42,0:01:15.62,Default,,0,0,0,,siete {\1c&HFF00&\u1}voi{\r} a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:15.62,0:01:15.70,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:15.70,0:01:15.72,Default,,0,0,0,,siete voi {\1c&HFF00&\u1}a{\r} decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:15.72,0:01:15.74,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:15.74,0:01:16.10,Default,,0,0,0,,siete voi a {\1c&HFF00&\u1}decidere,{\r} vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:16.10,0:01:16.51,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:16.51,0:01:16.79,Default,,0,0,0,,siete voi a decidere, {\1c&HFF00&\u1}vivetela{\r} secondo quello che piace a voi
+Dialogue: 0,0:01:16.79,0:01:16.83,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:16.83,0:01:17.07,Default,,0,0,0,,siete voi a decidere, vivetela {\1c&HFF00&\u1}secondo{\r} quello che piace a voi
+Dialogue: 0,0:01:17.07,0:01:17.09,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:17.09,0:01:17.23,Default,,0,0,0,,siete voi a decidere, vivetela secondo {\1c&HFF00&\u1}quello{\r} che piace a voi
+Dialogue: 0,0:01:17.23,0:01:17.25,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:17.25,0:01:17.33,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello {\1c&HFF00&\u1}che{\r} piace a voi
+Dialogue: 0,0:01:17.33,0:01:17.37,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:17.37,0:01:17.59,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che {\1c&HFF00&\u1}piace{\r} a voi
+Dialogue: 0,0:01:17.59,0:01:17.61,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:17.61,0:01:17.63,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace {\1c&HFF00&\u1}a{\r} voi
+Dialogue: 0,0:01:17.63,0:01:17.67,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a voi
+Dialogue: 0,0:01:17.67,0:01:17.81,Default,,0,0,0,,siete voi a decidere, vivetela secondo quello che piace a {\1c&HFF00&\u1}voi{\r}
+Dialogue: 0,0:01:18.02,0:01:18.24,Default,,0,0,0,,{\1c&HFF00&\u1}avere{\r} sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:18.24,0:01:18.30,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:18.30,0:01:18.52,Default,,0,0,0,,avere {\1c&HFF00&\u1}sempre{\r} la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:18.52,0:01:18.56,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:18.56,0:01:18.62,Default,,0,0,0,,avere sempre {\1c&HFF00&\u1}la{\r} sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:18.62,0:01:18.68,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:18.68,0:01:19.08,Default,,0,0,0,,avere sempre la {\1c&HFF00&\u1}sensazione{\r} di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.08,0:01:19.12,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.12,0:01:19.16,Default,,0,0,0,,avere sempre la sensazione {\1c&HFF00&\u1}di{\r} aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.16,0:01:19.18,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.18,0:01:19.30,Default,,0,0,0,,avere sempre la sensazione di {\1c&HFF00&\u1}aver{\r} sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.30,0:01:19.36,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.36,0:01:19.75,Default,,0,0,0,,avere sempre la sensazione di aver {\1c&HFF00&\u1}sbagliato{\r} strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.75,0:01:19.81,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:19.81,0:01:20.23,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato {\1c&HFF00&\u1}strada,{\r} tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:20.23,0:01:20.41,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:20.41,0:01:20.49,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, {\1c&HFF00&\u1}tra{\r} parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:20.49,0:01:20.53,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:20.53,0:01:20.89,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra {\1c&HFF00&\u1}parentesi{\r} ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:20.89,0:01:21.05,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:21.05,0:01:21.61,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi {\1c&HFF00&\u1}ingegneria,{\r} ma non aver mai cambiato
+Dialogue: 0,0:01:21.61,0:01:21.75,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:21.75,0:01:21.79,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, {\1c&HFF00&\u1}ma{\r} non aver mai cambiato
+Dialogue: 0,0:01:21.79,0:01:21.83,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:21.83,0:01:21.93,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma {\1c&HFF00&\u1}non{\r} aver mai cambiato
+Dialogue: 0,0:01:21.93,0:01:21.97,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:21.97,0:01:22.11,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non {\1c&HFF00&\u1}aver{\r} mai cambiato
+Dialogue: 0,0:01:22.11,0:01:22.13,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:22.13,0:01:22.25,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver {\1c&HFF00&\u1}mai{\r} cambiato
+Dialogue: 0,0:01:22.25,0:01:22.29,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai cambiato
+Dialogue: 0,0:01:22.29,0:01:22.75,Default,,0,0,0,,avere sempre la sensazione di aver sbagliato strada, tra parentesi ingegneria, ma non aver mai {\1c&HFF00&\u1}cambiato{\r}
+Dialogue: 0,0:01:22.94,0:01:22.98,Default,,0,0,0,,{\1c&HFF00&\u1}io{\r} ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:22.98,0:01:23.02,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.02,0:01:23.10,Default,,0,0,0,,io {\1c&HFF00&\u1}ci{\r} sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.10,0:01:23.12,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.12,0:01:23.26,Default,,0,0,0,,io ci {\1c&HFF00&\u1}sono{\r} passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.26,0:01:23.30,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.30,0:01:23.60,Default,,0,0,0,,io ci sono {\1c&HFF00&\u1}passato{\r} in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.60,0:01:23.62,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.62,0:01:23.68,Default,,0,0,0,,io ci sono passato {\1c&HFF00&\u1}in{\r} primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.68,0:01:23.70,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:23.70,0:01:24.02,Default,,0,0,0,,io ci sono passato in {\1c&HFF00&\u1}primis{\r} da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.02,0:01:24.06,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.06,0:01:24.12,Default,,0,0,0,,io ci sono passato in primis {\1c&HFF00&\u1}da{\r} questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.12,0:01:24.16,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.16,0:01:24.38,Default,,0,0,0,,io ci sono passato in primis da {\1c&HFF00&\u1}questa{\r} cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.38,0:01:24.42,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.42,0:01:24.75,Default,,0,0,0,,io ci sono passato in primis da questa {\1c&HFF00&\u1}cosa{\r} quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.75,0:01:24.91,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:24.91,0:01:25.11,Default,,0,0,0,,io ci sono passato in primis da questa cosa {\1c&HFF00&\u1}quindi{\r} se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.11,0:01:25.19,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.19,0:01:25.35,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi {\1c&HFF00&\u1}se{\r} hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.35,0:01:25.49,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.49,0:01:25.61,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se {\1c&HFF00&\u1}hai{\r} la sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.61,0:01:25.65,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.65,0:01:25.73,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai {\1c&HFF00&\u1}la{\r} sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.73,0:01:25.77,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:25.77,0:01:26.43,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la {\1c&HFF00&\u1}sensazione{\r} o avete la sensazione che
+Dialogue: 0,0:01:26.43,0:01:26.55,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:26.55,0:01:26.59,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione {\1c&HFF00&\u1}o{\r} avete la sensazione che
+Dialogue: 0,0:01:26.59,0:01:26.65,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:26.65,0:01:26.85,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o {\1c&HFF00&\u1}avete{\r} la sensazione che
+Dialogue: 0,0:01:26.85,0:01:26.91,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:26.91,0:01:26.95,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete {\1c&HFF00&\u1}la{\r} sensazione che
+Dialogue: 0,0:01:26.95,0:01:26.99,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:26.99,0:01:27.39,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la {\1c&HFF00&\u1}sensazione{\r} che
+Dialogue: 0,0:01:27.39,0:01:27.45,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione che
+Dialogue: 0,0:01:27.45,0:01:27.51,Default,,0,0,0,,io ci sono passato in primis da questa cosa quindi se hai la sensazione o avete la sensazione {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:01:27.44,0:01:28.18,Default,,0,0,0,,{\1c&HFF00&\u1}state{\r} davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:28.18,0:01:28.20,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:28.20,0:01:28.42,Default,,0,0,0,,state {\1c&HFF00&\u1}davvero{\r} sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:28.42,0:01:28.46,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:28.46,0:01:28.88,Default,,0,0,0,,state davvero {\1c&HFF00&\u1}sbagliando{\r} strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:28.88,0:01:28.94,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:28.94,0:01:29.29,Default,,0,0,0,,state davvero sbagliando {\1c&HFF00&\u1}strada{\r} che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:29.29,0:01:29.43,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:29.43,0:01:29.55,Default,,0,0,0,,state davvero sbagliando strada {\1c&HFF00&\u1}che{\r} tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:29.55,0:01:29.69,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:29.69,0:01:29.91,Default,,0,0,0,,state davvero sbagliando strada che {\1c&HFF00&\u1}tenete{\r} presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:29.91,0:01:29.95,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:29.95,0:01:30.29,Default,,0,0,0,,state davvero sbagliando strada che tenete {\1c&HFF00&\u1}presente{\r} è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:30.29,0:01:30.45,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:30.45,0:01:30.49,Default,,0,0,0,,state davvero sbagliando strada che tenete presente {\1c&HFF00&\u1}è{\r} diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:30.49,0:01:30.55,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:30.55,0:01:30.99,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è {\1c&HFF00&\u1}diverso{\r} davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:30.99,0:01:31.11,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:31.11,0:01:31.33,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso {\1c&HFF00&\u1}davvero{\r} un momento no quello ce l'avrete
+Dialogue: 0,0:01:31.33,0:01:31.35,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:31.35,0:01:31.41,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero {\1c&HFF00&\u1}un{\r} momento no quello ce l'avrete
+Dialogue: 0,0:01:31.41,0:01:31.43,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:31.43,0:01:31.71,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un {\1c&HFF00&\u1}momento{\r} no quello ce l'avrete
+Dialogue: 0,0:01:31.71,0:01:31.75,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:31.75,0:01:31.89,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento {\1c&HFF00&\u1}no{\r} quello ce l'avrete
+Dialogue: 0,0:01:31.89,0:01:31.95,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:31.95,0:01:32.15,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no {\1c&HFF00&\u1}quello{\r} ce l'avrete
+Dialogue: 0,0:01:32.15,0:01:32.41,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:32.41,0:01:32.51,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello {\1c&HFF00&\u1}ce{\r} l'avrete
+Dialogue: 0,0:01:32.51,0:01:32.53,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce l'avrete
+Dialogue: 0,0:01:32.53,0:01:32.79,Default,,0,0,0,,state davvero sbagliando strada che tenete presente è diverso davvero un momento no quello ce {\1c&HFF00&\u1}l'avrete{\r}
+Dialogue: 0,0:01:32.64,0:01:32.76,Default,,0,0,0,,{\1c&HFF00&\u1}sempre{\r} sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:32.76,0:01:32.78,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:32.78,0:01:32.84,Default,,0,0,0,,sempre {\1c&HFF00&\u1}sia{\r} che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:32.84,0:01:32.86,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:32.86,0:01:32.92,Default,,0,0,0,,sempre sia {\1c&HFF00&\u1}che{\r} facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:32.92,0:01:32.94,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:32.94,0:01:33.10,Default,,0,0,0,,sempre sia che {\1c&HFF00&\u1}facciate{\r} una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.10,0:01:33.12,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.12,0:01:33.18,Default,,0,0,0,,sempre sia che facciate {\1c&HFF00&\u1}una{\r} cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.18,0:01:33.20,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.20,0:01:33.28,Default,,0,0,0,,sempre sia che facciate una {\1c&HFF00&\u1}cosa{\r} che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.28,0:01:33.30,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.30,0:01:33.36,Default,,0,0,0,,sempre sia che facciate una cosa {\1c&HFF00&\u1}che{\r} non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.36,0:01:33.38,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.38,0:01:33.44,Default,,0,0,0,,sempre sia che facciate una cosa che {\1c&HFF00&\u1}non{\r} vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.44,0:01:33.46,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.46,0:01:33.50,Default,,0,0,0,,sempre sia che facciate una cosa che non {\1c&HFF00&\u1}vi{\r} piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.50,0:01:33.52,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.52,0:01:33.62,Default,,0,0,0,,sempre sia che facciate una cosa che non vi {\1c&HFF00&\u1}piace{\r} sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.62,0:01:33.64,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.64,0:01:33.70,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace {\1c&HFF00&\u1}sia{\r} che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.70,0:01:33.72,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.72,0:01:33.78,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia {\1c&HFF00&\u1}che{\r} facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.78,0:01:33.80,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.80,0:01:33.96,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che {\1c&HFF00&\u1}facciate{\r} una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.96,0:01:33.98,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:33.98,0:01:34.04,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate {\1c&HFF00&\u1}una{\r} cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.04,0:01:34.06,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.06,0:01:34.14,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una {\1c&HFF00&\u1}cosa{\r} che vi piace ma se vi
+Dialogue: 0,0:01:34.14,0:01:34.16,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.16,0:01:34.22,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa {\1c&HFF00&\u1}che{\r} vi piace ma se vi
+Dialogue: 0,0:01:34.22,0:01:34.24,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.24,0:01:34.28,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che {\1c&HFF00&\u1}vi{\r} piace ma se vi
+Dialogue: 0,0:01:34.28,0:01:34.30,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.30,0:01:34.40,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi {\1c&HFF00&\u1}piace{\r} ma se vi
+Dialogue: 0,0:01:34.40,0:01:34.42,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.42,0:01:34.46,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace {\1c&HFF00&\u1}ma{\r} se vi
+Dialogue: 0,0:01:34.46,0:01:34.48,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.48,0:01:34.53,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma {\1c&HFF00&\u1}se{\r} vi
+Dialogue: 0,0:01:34.53,0:01:34.55,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se vi
+Dialogue: 0,0:01:34.55,0:01:34.59,Default,,0,0,0,,sempre sia che facciate una cosa che non vi piace sia che facciate una cosa che vi piace ma se {\1c&HFF00&\u1}vi{\r}
+Dialogue: 0,0:01:38.04,0:01:38.56,Default,,0,0,0,,{\1c&HFF00&\u1}accorgete{\r} che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:38.56,0:01:38.58,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:38.58,0:01:38.64,Default,,0,0,0,,accorgete {\1c&HFF00&\u1}che{\r} state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:38.64,0:01:38.66,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:38.66,0:01:38.82,Default,,0,0,0,,accorgete che {\1c&HFF00&\u1}state{\r} facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:38.82,0:01:38.84,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:38.84,0:01:39.06,Default,,0,0,0,,accorgete che state {\1c&HFF00&\u1}facendo{\r} una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.06,0:01:39.08,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.08,0:01:39.18,Default,,0,0,0,,accorgete che state facendo {\1c&HFF00&\u1}una{\r} cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.18,0:01:39.20,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.20,0:01:39.32,Default,,0,0,0,,accorgete che state facendo una {\1c&HFF00&\u1}cosa{\r} che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.32,0:01:39.36,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.36,0:01:39.46,Default,,0,0,0,,accorgete che state facendo una cosa {\1c&HFF00&\u1}che{\r} davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.46,0:01:39.50,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.50,0:01:39.81,Default,,0,0,0,,accorgete che state facendo una cosa che {\1c&HFF00&\u1}davvero{\r} non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.81,0:01:39.95,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:39.95,0:01:40.07,Default,,0,0,0,,accorgete che state facendo una cosa che davvero {\1c&HFF00&\u1}non{\r} vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:40.07,0:01:40.11,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:40.11,0:01:40.17,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non {\1c&HFF00&\u1}vi{\r} piace la detestate forse è il caso di
+Dialogue: 0,0:01:40.17,0:01:40.21,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:40.21,0:01:40.51,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi {\1c&HFF00&\u1}piace{\r} la detestate forse è il caso di
+Dialogue: 0,0:01:40.51,0:01:40.57,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:40.57,0:01:40.63,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace {\1c&HFF00&\u1}la{\r} detestate forse è il caso di
+Dialogue: 0,0:01:40.63,0:01:40.67,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:40.67,0:01:41.27,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la {\1c&HFF00&\u1}detestate{\r} forse è il caso di
+Dialogue: 0,0:01:41.27,0:01:41.71,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:41.71,0:01:41.91,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate {\1c&HFF00&\u1}forse{\r} è il caso di
+Dialogue: 0,0:01:41.91,0:01:41.93,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:41.93,0:01:41.95,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse {\1c&HFF00&\u1}è{\r} il caso di
+Dialogue: 0,0:01:41.95,0:01:41.97,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:41.97,0:01:42.01,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è {\1c&HFF00&\u1}il{\r} caso di
+Dialogue: 0,0:01:42.01,0:01:42.03,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:42.03,0:01:42.17,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il {\1c&HFF00&\u1}caso{\r} di
+Dialogue: 0,0:01:42.17,0:01:42.21,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso di
+Dialogue: 0,0:01:42.21,0:01:42.25,Default,,0,0,0,,accorgete che state facendo una cosa che davvero non vi piace la detestate forse è il caso {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:01:42.20,0:01:42.94,Default,,0,0,0,,{\1c&HFF00&\u1}cambiare{\r} strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:42.94,0:01:43.48,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:43.48,0:01:43.60,Default,,0,0,0,,cambiare {\1c&HFF00&\u1}strada{\r} non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:43.60,0:01:43.62,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:43.62,0:01:43.70,Default,,0,0,0,,cambiare strada {\1c&HFF00&\u1}non{\r} è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:43.70,0:01:43.74,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:43.74,0:01:43.78,Default,,0,0,0,,cambiare strada non {\1c&HFF00&\u1}è{\r} semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:43.78,0:01:43.84,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:43.84,0:01:44.29,Default,,0,0,0,,cambiare strada non è {\1c&HFF00&\u1}semplice{\r} nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.29,0:01:44.31,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.31,0:01:44.63,Default,,0,0,0,,cambiare strada non è semplice {\1c&HFF00&\u1}nessuno{\r} ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.63,0:01:44.65,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.65,0:01:44.69,Default,,0,0,0,,cambiare strada non è semplice nessuno {\1c&HFF00&\u1}ha{\r} detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.69,0:01:44.71,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.71,0:01:44.89,Default,,0,0,0,,cambiare strada non è semplice nessuno ha {\1c&HFF00&\u1}detto{\r} che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.89,0:01:44.91,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.91,0:01:44.99,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto {\1c&HFF00&\u1}che{\r} è semplice però non escludetelo a priori
+Dialogue: 0,0:01:44.99,0:01:45.01,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:45.01,0:01:45.03,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che {\1c&HFF00&\u1}è{\r} semplice però non escludetelo a priori
+Dialogue: 0,0:01:45.03,0:01:45.07,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:45.07,0:01:45.47,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è {\1c&HFF00&\u1}semplice{\r} però non escludetelo a priori
+Dialogue: 0,0:01:45.47,0:01:45.53,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:45.53,0:01:45.69,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice {\1c&HFF00&\u1}però{\r} non escludetelo a priori
+Dialogue: 0,0:01:45.69,0:01:45.81,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:45.81,0:01:45.91,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però {\1c&HFF00&\u1}non{\r} escludetelo a priori
+Dialogue: 0,0:01:45.91,0:01:45.95,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:45.95,0:01:46.39,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non {\1c&HFF00&\u1}escludetelo{\r} a priori
+Dialogue: 0,0:01:46.39,0:01:46.41,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:46.41,0:01:46.43,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo {\1c&HFF00&\u1}a{\r} priori
+Dialogue: 0,0:01:46.43,0:01:46.47,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a priori
+Dialogue: 0,0:01:46.47,0:01:46.75,Default,,0,0,0,,cambiare strada non è semplice nessuno ha detto che è semplice però non escludetelo a {\1c&HFF00&\u1}priori{\r}
+Dialogue: 0,0:01:46.80,0:01:47.32,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:47.32,0:01:47.34,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:47.34,0:01:47.62,Default,,0,0,0,,il {\1c&HFF00&\u1}confronto{\r} coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:47.62,0:01:47.64,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:47.64,0:01:47.74,Default,,0,0,0,,il confronto {\1c&HFF00&\u1}coi{\r} colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:47.74,0:01:47.76,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:47.76,0:01:48.14,Default,,0,0,0,,il confronto coi {\1c&HFF00&\u1}colleghi{\r} sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.14,0:01:48.22,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.22,0:01:48.39,Default,,0,0,0,,il confronto coi colleghi {\1c&HFF00&\u1}sul{\r} voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.39,0:01:48.41,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.41,0:01:48.57,Default,,0,0,0,,il confronto coi colleghi sul {\1c&HFF00&\u1}voto{\r} della media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.57,0:01:48.61,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.61,0:01:48.79,Default,,0,0,0,,il confronto coi colleghi sul voto {\1c&HFF00&\u1}della{\r} media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.79,0:01:48.83,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:48.83,0:01:49.05,Default,,0,0,0,,il confronto coi colleghi sul voto della {\1c&HFF00&\u1}media{\r} finale della triennale non serviva granché
+Dialogue: 0,0:01:49.05,0:01:49.09,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:49.09,0:01:49.31,Default,,0,0,0,,il confronto coi colleghi sul voto della media {\1c&HFF00&\u1}finale{\r} della triennale non serviva granché
+Dialogue: 0,0:01:49.31,0:01:49.35,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:49.35,0:01:49.49,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale {\1c&HFF00&\u1}della{\r} triennale non serviva granché
+Dialogue: 0,0:01:49.49,0:01:49.51,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:49.51,0:01:49.99,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della {\1c&HFF00&\u1}triennale{\r} non serviva granché
+Dialogue: 0,0:01:49.99,0:01:50.19,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:50.19,0:01:50.29,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale {\1c&HFF00&\u1}non{\r} serviva granché
+Dialogue: 0,0:01:50.29,0:01:50.33,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:50.33,0:01:50.59,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non {\1c&HFF00&\u1}serviva{\r} granché
+Dialogue: 0,0:01:50.59,0:01:50.67,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva granché
+Dialogue: 0,0:01:50.67,0:01:50.95,Default,,0,0,0,,il confronto coi colleghi sul voto della media finale della triennale non serviva {\1c&HFF00&\u1}granché{\r}
+Dialogue: 0,0:01:51.40,0:01:51.62,Default,,0,0,0,,{\1c&HFF00&\u1}Beh{\r} qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:51.62,0:01:51.66,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:51.66,0:01:51.78,Default,,0,0,0,,Beh {\1c&HFF00&\u1}qui{\r} ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:51.78,0:01:52.64,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:52.64,0:01:52.70,Default,,0,0,0,,Beh qui {\1c&HFF00&\u1}ti{\r} sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:52.70,0:01:52.72,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:52.72,0:01:52.83,Default,,0,0,0,,Beh qui ti {\1c&HFF00&\u1}sei{\r} risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:52.83,0:01:52.87,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:52.87,0:01:53.21,Default,,0,0,0,,Beh qui ti sei {\1c&HFF00&\u1}risposto{\r} da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:53.21,0:01:53.25,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:53.25,0:01:53.33,Default,,0,0,0,,Beh qui ti sei risposto {\1c&HFF00&\u1}da{\r} solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:53.33,0:01:53.39,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:53.39,0:01:53.61,Default,,0,0,0,,Beh qui ti sei risposto da {\1c&HFF00&\u1}solo,{\r} non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:53.61,0:01:53.85,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:53.85,0:01:53.95,Default,,0,0,0,,Beh qui ti sei risposto da solo, {\1c&HFF00&\u1}non{\r} serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:53.95,0:01:54.01,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:54.01,0:01:54.19,Default,,0,0,0,,Beh qui ti sei risposto da solo, non {\1c&HFF00&\u1}serve{\r} a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:54.19,0:01:54.21,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:54.21,0:01:54.23,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve {\1c&HFF00&\u1}a{\r} niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:54.23,0:01:54.25,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:54.25,0:01:54.45,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a {\1c&HFF00&\u1}niente{\r} confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:54.45,0:01:54.51,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:54.51,0:01:54.99,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente {\1c&HFF00&\u1}confrontarsi{\r} con gli altri perché ogni
+Dialogue: 0,0:01:54.99,0:01:55.03,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:55.03,0:01:55.11,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi {\1c&HFF00&\u1}con{\r} gli altri perché ogni
+Dialogue: 0,0:01:55.11,0:01:55.13,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:55.13,0:01:55.23,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con {\1c&HFF00&\u1}gli{\r} altri perché ogni
+Dialogue: 0,0:01:55.23,0:01:55.25,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:55.25,0:01:55.49,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli {\1c&HFF00&\u1}altri{\r} perché ogni
+Dialogue: 0,0:01:55.49,0:01:55.53,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:55.53,0:01:55.75,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri {\1c&HFF00&\u1}perché{\r} ogni
+Dialogue: 0,0:01:55.75,0:01:56.03,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché ogni
+Dialogue: 0,0:01:56.03,0:01:56.19,Default,,0,0,0,,Beh qui ti sei risposto da solo, non serve a niente confrontarsi con gli altri perché {\1c&HFF00&\u1}ogni{\r}
+Dialogue: 0,0:01:56.12,0:01:56.84,Default,,0,0,0,,{\1c&HFF00&\u1}viaggio{\r} è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:56.84,0:01:56.88,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:56.88,0:01:56.92,Default,,0,0,0,,viaggio {\1c&HFF00&\u1}è{\r} diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:56.92,0:01:56.94,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:56.94,0:01:57.36,Default,,0,0,0,,viaggio è {\1c&HFF00&\u1}diverso,{\r} il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.36,0:01:57.50,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.50,0:01:57.57,Default,,0,0,0,,viaggio è diverso, {\1c&HFF00&\u1}il{\r} viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.57,0:01:57.61,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.61,0:01:57.83,Default,,0,0,0,,viaggio è diverso, il {\1c&HFF00&\u1}viaggio{\r} di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.83,0:01:57.87,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.87,0:01:57.93,Default,,0,0,0,,viaggio è diverso, il viaggio {\1c&HFF00&\u1}di{\r} ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.93,0:01:57.97,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:57.97,0:01:58.21,Default,,0,0,0,,viaggio è diverso, il viaggio di {\1c&HFF00&\u1}ognuno{\r} è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.21,0:01:58.23,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.23,0:01:58.25,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno {\1c&HFF00&\u1}è{\r} diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.25,0:01:58.27,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.27,0:01:58.57,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è {\1c&HFF00&\u1}diverso{\r} da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.57,0:01:58.59,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.59,0:01:58.63,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso {\1c&HFF00&\u1}da{\r} quello degli altri. Se due persone
+Dialogue: 0,0:01:58.63,0:01:58.65,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.65,0:01:58.81,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da {\1c&HFF00&\u1}quello{\r} degli altri. Se due persone
+Dialogue: 0,0:01:58.81,0:01:58.83,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:58.83,0:01:58.99,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello {\1c&HFF00&\u1}degli{\r} altri. Se due persone
+Dialogue: 0,0:01:58.99,0:01:59.03,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:59.03,0:01:59.29,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli {\1c&HFF00&\u1}altri.{\r} Se due persone
+Dialogue: 0,0:01:59.29,0:01:59.47,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:59.47,0:01:59.55,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. {\1c&HFF00&\u1}Se{\r} due persone
+Dialogue: 0,0:01:59.55,0:01:59.59,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:59.59,0:01:59.67,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se {\1c&HFF00&\u1}due{\r} persone
+Dialogue: 0,0:01:59.67,0:01:59.69,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due persone
+Dialogue: 0,0:01:59.69,0:01:59.91,Default,,0,0,0,,viaggio è diverso, il viaggio di ognuno è diverso da quello degli altri. Se due {\1c&HFF00&\u1}persone{\r}
+Dialogue: 0,0:01:59.84,0:02:0.06,Default,,0,0,0,,{\1c&HFF00&\u1}ha{\r} due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.06,0:02:0.08,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.08,0:02:0.16,Default,,0,0,0,,ha {\1c&HFF00&\u1}due{\r} voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.16,0:02:0.18,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.18,0:02:0.34,Default,,0,0,0,,ha due {\1c&HFF00&\u1}voti{\r} diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.34,0:02:0.38,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.38,0:02:0.78,Default,,0,0,0,,ha due voti {\1c&HFF00&\u1}diversi{\r} non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.78,0:02:0.86,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.86,0:02:0.96,Default,,0,0,0,,ha due voti diversi {\1c&HFF00&\u1}non{\r} vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.96,0:02:0.98,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:0.98,0:02:1.11,Default,,0,0,0,,ha due voti diversi non {\1c&HFF00&\u1}vuol{\r} dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.11,0:02:1.13,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.13,0:02:1.23,Default,,0,0,0,,ha due voti diversi non vuol {\1c&HFF00&\u1}dire{\r} che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.23,0:02:1.25,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.25,0:02:1.31,Default,,0,0,0,,ha due voti diversi non vuol dire {\1c&HFF00&\u1}che{\r} quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.31,0:02:1.35,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.35,0:02:1.51,Default,,0,0,0,,ha due voti diversi non vuol dire che {\1c&HFF00&\u1}quello{\r} che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.51,0:02:1.53,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.53,0:02:1.59,Default,,0,0,0,,ha due voti diversi non vuol dire che quello {\1c&HFF00&\u1}che{\r} hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.59,0:02:1.61,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.61,0:02:1.67,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che {\1c&HFF00&\u1}hai{\r} i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.67,0:02:1.69,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.69,0:02:1.71,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai {\1c&HFF00&\u1}i{\r} voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.71,0:02:1.73,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.73,0:02:1.81,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i {\1c&HFF00&\u1}voti{\r} più bassi sia meno bravo,
+Dialogue: 0,0:02:1.81,0:02:1.85,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.85,0:02:1.91,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti {\1c&HFF00&\u1}più{\r} bassi sia meno bravo,
+Dialogue: 0,0:02:1.91,0:02:1.95,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:1.95,0:02:2.21,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più {\1c&HFF00&\u1}bassi{\r} sia meno bravo,
+Dialogue: 0,0:02:2.21,0:02:2.25,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:2.25,0:02:2.35,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi {\1c&HFF00&\u1}sia{\r} meno bravo,
+Dialogue: 0,0:02:2.35,0:02:2.39,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:2.39,0:02:2.53,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia {\1c&HFF00&\u1}meno{\r} bravo,
+Dialogue: 0,0:02:2.53,0:02:2.59,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno bravo,
+Dialogue: 0,0:02:2.59,0:02:2.83,Default,,0,0,0,,ha due voti diversi non vuol dire che quello che hai i voti più bassi sia meno {\1c&HFF00&\u1}bravo,{\r}
+Dialogue: 0,0:02:2.80,0:02:3.36,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:3.36,0:02:3.38,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:3.38,0:02:3.94,Default,,0,0,0,,non {\1c&HFF00&\u1}necessariamente{\r} e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:3.94,0:02:4.06,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:4.06,0:02:4.10,Default,,0,0,0,,non necessariamente {\1c&HFF00&\u1}e{\r} comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:4.10,0:02:4.14,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:4.14,0:02:4.50,Default,,0,0,0,,non necessariamente e {\1c&HFF00&\u1}comunque{\r} non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:4.50,0:02:4.86,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:4.86,0:02:4.96,Default,,0,0,0,,non necessariamente e comunque {\1c&HFF00&\u1}non{\r} ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:4.96,0:02:4.98,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:4.98,0:02:5.04,Default,,0,0,0,,non necessariamente e comunque non {\1c&HFF00&\u1}ha{\r} senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.04,0:02:5.08,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.08,0:02:5.34,Default,,0,0,0,,non necessariamente e comunque non ha {\1c&HFF00&\u1}senso{\r} confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.34,0:02:5.40,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.40,0:02:5.86,Default,,0,0,0,,non necessariamente e comunque non ha senso {\1c&HFF00&\u1}confrontare{\r} il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.86,0:02:5.88,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.88,0:02:5.94,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare {\1c&HFF00&\u1}il{\r} proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.94,0:02:5.98,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:5.98,0:02:6.20,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il {\1c&HFF00&\u1}proprio{\r} viaggio con quello degli altri.
+Dialogue: 0,0:02:6.20,0:02:6.28,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:6.28,0:02:6.60,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio {\1c&HFF00&\u1}viaggio{\r} con quello degli altri.
+Dialogue: 0,0:02:6.60,0:02:6.68,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:6.68,0:02:6.78,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio {\1c&HFF00&\u1}con{\r} quello degli altri.
+Dialogue: 0,0:02:6.78,0:02:6.80,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:6.80,0:02:6.94,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con {\1c&HFF00&\u1}quello{\r} degli altri.
+Dialogue: 0,0:02:6.94,0:02:6.98,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:6.98,0:02:7.14,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello {\1c&HFF00&\u1}degli{\r} altri.
+Dialogue: 0,0:02:7.14,0:02:7.16,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli altri.
+Dialogue: 0,0:02:7.16,0:02:7.38,Default,,0,0,0,,non necessariamente e comunque non ha senso confrontare il proprio viaggio con quello degli {\1c&HFF00&\u1}altri.{\r}
+Dialogue: 0,0:02:8.12,0:02:8.32,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} anno con quella
+Dialogue: 0,0:02:8.32,0:02:8.34,Default,,0,0,0,,un anno con quella
+Dialogue: 0,0:02:8.34,0:02:8.46,Default,,0,0,0,,un {\1c&HFF00&\u1}anno{\r} con quella
+Dialogue: 0,0:02:8.46,0:02:8.52,Default,,0,0,0,,un anno con quella
+Dialogue: 0,0:02:8.52,0:02:8.60,Default,,0,0,0,,un anno {\1c&HFF00&\u1}con{\r} quella
+Dialogue: 0,0:02:8.60,0:02:8.62,Default,,0,0,0,,un anno con quella
+Dialogue: 0,0:02:8.62,0:02:8.76,Default,,0,0,0,,un anno con {\1c&HFF00&\u1}quella{\r}

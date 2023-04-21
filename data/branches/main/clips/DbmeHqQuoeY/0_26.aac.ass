@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.40,0:00:1.06,Default,,0,0,0,,{\1c&HFF00&\u1}bicarbonato,{\r} percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:1.06,0:00:1.20,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:1.20,0:00:2.04,Default,,0,0,0,,bicarbonato, {\1c&HFF00&\u1}percarbonato,{\r} acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:2.04,0:00:2.20,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:2.20,0:00:2.51,Default,,0,0,0,,bicarbonato, percarbonato, {\1c&HFF00&\u1}acido{\r} citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:2.51,0:00:2.61,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:2.61,0:00:3.15,Default,,0,0,0,,bicarbonato, percarbonato, acido {\1c&HFF00&\u1}citrico,{\r} aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:3.15,0:00:3.63,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:3.63,0:00:4.29,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, {\1c&HFF00&\u1}aceto,{\r} limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:4.29,0:00:4.91,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:4.91,0:00:5.59,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, {\1c&HFF00&\u1}limone,{\r} oli essenziali se si vuole,
+Dialogue: 0,0:00:5.59,0:00:5.87,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:5.87,0:00:6.01,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, {\1c&HFF00&\u1}oli{\r} essenziali se si vuole,
+Dialogue: 0,0:00:6.01,0:00:6.05,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:6.05,0:00:6.83,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli {\1c&HFF00&\u1}essenziali{\r} se si vuole,
+Dialogue: 0,0:00:6.83,0:00:6.91,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:6.91,0:00:7.01,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali {\1c&HFF00&\u1}se{\r} si vuole,
+Dialogue: 0,0:00:7.01,0:00:7.09,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:7.09,0:00:7.18,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se {\1c&HFF00&\u1}si{\r} vuole,
+Dialogue: 0,0:00:7.18,0:00:7.28,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si vuole,
+Dialogue: 0,0:00:7.28,0:00:7.60,Default,,0,0,0,,bicarbonato, percarbonato, acido citrico, aceto, limone, oli essenziali se si {\1c&HFF00&\u1}vuole,{\r}
+Dialogue: 0,0:00:8.06,0:00:8.34,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:8.34,0:00:8.82,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:8.82,0:00:9.36,Default,,0,0,0,,sono {\1c&HFF00&\u1}ottimi,{\r} costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:9.36,0:00:9.65,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:9.65,0:00:10.13,Default,,0,0,0,,sono ottimi, {\1c&HFF00&\u1}costano{\r} poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:10.13,0:00:10.23,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:10.23,0:00:10.75,Default,,0,0,0,,sono ottimi, costano {\1c&HFF00&\u1}poco{\r} e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:10.75,0:00:10.99,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:10.99,0:00:11.13,Default,,0,0,0,,sono ottimi, costano poco {\1c&HFF00&\u1}e{\r} si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.13,0:00:11.43,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.43,0:00:11.49,Default,,0,0,0,,sono ottimi, costano poco e {\1c&HFF00&\u1}si{\r} possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.49,0:00:11.53,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.53,0:00:11.73,Default,,0,0,0,,sono ottimi, costano poco e si {\1c&HFF00&\u1}possono{\r} fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.73,0:00:11.77,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.77,0:00:11.89,Default,,0,0,0,,sono ottimi, costano poco e si possono {\1c&HFF00&\u1}fare{\r} appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.89,0:00:11.91,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:11.91,0:00:12.15,Default,,0,0,0,,sono ottimi, costano poco e si possono fare {\1c&HFF00&\u1}appunto{\r} dei prodotti per pulire
+Dialogue: 0,0:00:12.15,0:00:12.21,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:12.21,0:00:12.29,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto {\1c&HFF00&\u1}dei{\r} prodotti per pulire
+Dialogue: 0,0:00:12.29,0:00:12.35,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:12.35,0:00:12.67,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei {\1c&HFF00&\u1}prodotti{\r} per pulire
+Dialogue: 0,0:00:12.67,0:00:12.73,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:12.73,0:00:12.83,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti {\1c&HFF00&\u1}per{\r} pulire
+Dialogue: 0,0:00:12.83,0:00:12.91,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per pulire
+Dialogue: 0,0:00:12.91,0:00:13.25,Default,,0,0,0,,sono ottimi, costano poco e si possono fare appunto dei prodotti per {\1c&HFF00&\u1}pulire{\r}
+Dialogue: 0,0:00:13.54,0:00:14.06,Default,,0,0,0,,{\1c&HFF00&\u1}senza{\r} le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:14.06,0:00:14.53,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:14.53,0:00:14.59,Default,,0,0,0,,senza {\1c&HFF00&\u1}le{\r} schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:14.59,0:00:14.63,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:14.63,0:00:15.27,Default,,0,0,0,,senza le {\1c&HFF00&\u1}schifezze{\r} in commercio e pure la plastica.
+Dialogue: 0,0:00:15.27,0:00:15.41,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:15.41,0:00:15.49,Default,,0,0,0,,senza le schifezze {\1c&HFF00&\u1}in{\r} commercio e pure la plastica.
+Dialogue: 0,0:00:15.49,0:00:15.55,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:15.55,0:00:16.31,Default,,0,0,0,,senza le schifezze in {\1c&HFF00&\u1}commercio{\r} e pure la plastica.
+Dialogue: 0,0:00:16.31,0:00:16.47,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:16.47,0:00:16.51,Default,,0,0,0,,senza le schifezze in commercio {\1c&HFF00&\u1}e{\r} pure la plastica.
+Dialogue: 0,0:00:16.51,0:00:16.57,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:16.57,0:00:16.72,Default,,0,0,0,,senza le schifezze in commercio e {\1c&HFF00&\u1}pure{\r} la plastica.
+Dialogue: 0,0:00:16.72,0:00:16.80,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:16.80,0:00:16.84,Default,,0,0,0,,senza le schifezze in commercio e pure {\1c&HFF00&\u1}la{\r} plastica.
+Dialogue: 0,0:00:16.84,0:00:16.88,Default,,0,0,0,,senza le schifezze in commercio e pure la plastica.
+Dialogue: 0,0:00:16.88,0:00:17.32,Default,,0,0,0,,senza le schifezze in commercio e pure la {\1c&HFF00&\u1}plastica.{\r}

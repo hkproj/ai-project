@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.26,Default,,0,0,0,,{\1c&HFF00&\u1}Una{\r} volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:0.26,0:00:0.28,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:0.28,0:00:0.48,Default,,0,0,0,,Una {\1c&HFF00&\u1}volta{\r} pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:0.48,0:00:0.54,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:0.54,0:00:0.82,Default,,0,0,0,,Una volta {\1c&HFF00&\u1}pagavo{\r} decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:0.82,0:00:0.98,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:0.98,0:00:1.54,Default,,0,0,0,,Una volta pagavo {\1c&HFF00&\u1}decisamente{\r} troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:1.54,0:00:1.68,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:1.68,0:00:1.97,Default,,0,0,0,,Una volta pagavo decisamente {\1c&HFF00&\u1}troppo{\r} per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:1.97,0:00:2.03,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:2.03,0:00:2.13,Default,,0,0,0,,Una volta pagavo decisamente troppo {\1c&HFF00&\u1}per{\r} l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:2.13,0:00:2.17,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:2.17,0:00:2.55,Default,,0,0,0,,Una volta pagavo decisamente troppo per {\1c&HFF00&\u1}l'offerta{\r} sul telefono e così tante altre persone,
+Dialogue: 0,0:00:2.55,0:00:2.61,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:2.61,0:00:2.73,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta {\1c&HFF00&\u1}sul{\r} telefono e così tante altre persone,
+Dialogue: 0,0:00:2.73,0:00:2.79,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:2.79,0:00:3.13,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul {\1c&HFF00&\u1}telefono{\r} e così tante altre persone,
+Dialogue: 0,0:00:3.13,0:00:3.15,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:3.15,0:00:3.17,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono {\1c&HFF00&\u1}e{\r} così tante altre persone,
+Dialogue: 0,0:00:3.17,0:00:3.21,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:3.21,0:00:3.39,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e {\1c&HFF00&\u1}così{\r} tante altre persone,
+Dialogue: 0,0:00:3.39,0:00:3.49,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:3.49,0:00:3.71,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così {\1c&HFF00&\u1}tante{\r} altre persone,
+Dialogue: 0,0:00:3.71,0:00:3.75,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:3.75,0:00:3.97,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante {\1c&HFF00&\u1}altre{\r} persone,
+Dialogue: 0,0:00:3.97,0:00:4.05,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre persone,
+Dialogue: 0,0:00:4.05,0:00:4.51,Default,,0,0,0,,Una volta pagavo decisamente troppo per l'offerta sul telefono e così tante altre {\1c&HFF00&\u1}persone,{\r}
+Dialogue: 0,0:00:4.92,0:00:5.18,Default,,0,0,0,,{\1c&HFF00&\u1}poi{\r} mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:5.18,0:00:5.20,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:5.20,0:00:5.30,Default,,0,0,0,,poi {\1c&HFF00&\u1}mi{\r} sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:5.30,0:00:5.46,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:5.46,0:00:5.62,Default,,0,0,0,,poi mi {\1c&HFF00&\u1}sono{\r} informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:5.62,0:00:5.64,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:5.64,0:00:5.98,Default,,0,0,0,,poi mi sono {\1c&HFF00&\u1}informata{\r} e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:5.98,0:00:6.00,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:6.00,0:00:6.02,Default,,0,0,0,,poi mi sono informata {\1c&HFF00&\u1}e{\r} ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:6.02,0:00:6.04,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:6.04,0:00:6.14,Default,,0,0,0,,poi mi sono informata e {\1c&HFF00&\u1}ho{\r} cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:6.14,0:00:6.20,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:6.20,0:00:6.71,Default,,0,0,0,,poi mi sono informata e ho {\1c&HFF00&\u1}cambiato.{\r} C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:6.71,0:00:6.99,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:6.99,0:00:7.09,Default,,0,0,0,,poi mi sono informata e ho cambiato. {\1c&HFF00&\u1}C'è{\r} il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:7.09,0:00:7.13,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:7.13,0:00:7.19,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è {\1c&HFF00&\u1}il{\r} costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:7.19,0:00:7.25,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:7.25,0:00:7.51,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il {\1c&HFF00&\u1}costo{\r} iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:7.51,0:00:7.57,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:7.57,0:00:7.97,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo {\1c&HFF00&\u1}iniziale{\r} del cambiamento, ma decisamente
+Dialogue: 0,0:00:7.97,0:00:8.03,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:8.03,0:00:8.17,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale {\1c&HFF00&\u1}del{\r} cambiamento, ma decisamente
+Dialogue: 0,0:00:8.17,0:00:8.21,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:8.21,0:00:8.77,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del {\1c&HFF00&\u1}cambiamento,{\r} ma decisamente
+Dialogue: 0,0:00:8.77,0:00:8.87,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:8.87,0:00:9.05,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, {\1c&HFF00&\u1}ma{\r} decisamente
+Dialogue: 0,0:00:9.05,0:00:9.43,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma decisamente
+Dialogue: 0,0:00:9.43,0:00:9.91,Default,,0,0,0,,poi mi sono informata e ho cambiato. C'è il costo iniziale del cambiamento, ma {\1c&HFF00&\u1}decisamente{\r}
+Dialogue: 0,0:00:9.92,0:00:10.10,Default,,0,0,0,,{\1c&HFF00&\u1}vale{\r} la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.10,0:00:10.26,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.26,0:00:10.34,Default,,0,0,0,,vale {\1c&HFF00&\u1}la{\r} pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.34,0:00:10.38,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.38,0:00:10.64,Default,,0,0,0,,vale la {\1c&HFF00&\u1}pena.{\r} Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.64,0:00:10.66,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.66,0:00:10.76,Default,,0,0,0,,vale la pena. {\1c&HFF00&\u1}Per{\r} me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.76,0:00:10.80,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.80,0:00:10.86,Default,,0,0,0,,vale la pena. Per {\1c&HFF00&\u1}me{\r} era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.86,0:00:10.90,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:10.90,0:00:11.02,Default,,0,0,0,,vale la pena. Per me {\1c&HFF00&\u1}era{\r} importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:11.02,0:00:11.06,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:11.06,0:00:11.42,Default,,0,0,0,,vale la pena. Per me era {\1c&HFF00&\u1}importante{\r} avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:11.42,0:00:11.44,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:11.44,0:00:11.69,Default,,0,0,0,,vale la pena. Per me era importante {\1c&HFF00&\u1}avere{\r} tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:11.69,0:00:11.77,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:11.77,0:00:11.99,Default,,0,0,0,,vale la pena. Per me era importante avere {\1c&HFF00&\u1}tanti{\r} gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:11.99,0:00:12.05,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:12.05,0:00:12.53,Default,,0,0,0,,vale la pena. Per me era importante avere tanti {\1c&HFF00&\u1}gigabyte{\r} nell'offerta e che non fosse
+Dialogue: 0,0:00:12.53,0:00:12.55,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:12.55,0:00:13.29,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte {\1c&HFF00&\u1}nell'offerta{\r} e che non fosse
+Dialogue: 0,0:00:13.29,0:00:13.59,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:13.59,0:00:13.65,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta {\1c&HFF00&\u1}e{\r} che non fosse
+Dialogue: 0,0:00:13.65,0:00:13.75,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:13.75,0:00:13.83,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e {\1c&HFF00&\u1}che{\r} non fosse
+Dialogue: 0,0:00:13.83,0:00:13.87,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:13.87,0:00:13.97,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che {\1c&HFF00&\u1}non{\r} fosse
+Dialogue: 0,0:00:13.97,0:00:14.03,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non fosse
+Dialogue: 0,0:00:14.03,0:00:14.21,Default,,0,0,0,,vale la pena. Per me era importante avere tanti gigabyte nell'offerta e che non {\1c&HFF00&\u1}fosse{\r}
+Dialogue: 0,0:00:14.20,0:00:14.84,Default,,0,0,0,,{\1c&HFF00&\u1}collegato{\r} alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:14.84,0:00:14.98,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:14.98,0:00:15.16,Default,,0,0,0,,collegato {\1c&HFF00&\u1}alla{\r} banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:15.16,0:00:15.20,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:15.20,0:00:15.48,Default,,0,0,0,,collegato alla {\1c&HFF00&\u1}banca,{\r} al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:15.48,0:00:15.56,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:15.56,0:00:15.68,Default,,0,0,0,,collegato alla banca, {\1c&HFF00&\u1}al{\r} conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:15.68,0:00:15.82,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:15.82,0:00:16.04,Default,,0,0,0,,collegato alla banca, al {\1c&HFF00&\u1}conto{\r} corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:16.04,0:00:16.10,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:16.10,0:00:16.52,Default,,0,0,0,,collegato alla banca, al conto {\1c&HFF00&\u1}corrente,{\r} ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:16.52,0:00:17.02,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:17.02,0:00:17.18,Default,,0,0,0,,collegato alla banca, al conto corrente, {\1c&HFF00&\u1}ma{\r} io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:17.18,0:00:17.20,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:17.20,0:00:17.24,Default,,0,0,0,,collegato alla banca, al conto corrente, ma {\1c&HFF00&\u1}io{\r} voglio sempre essere in controllo delle
+Dialogue: 0,0:00:17.24,0:00:17.32,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:17.32,0:00:17.52,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io {\1c&HFF00&\u1}voglio{\r} sempre essere in controllo delle
+Dialogue: 0,0:00:17.52,0:00:17.58,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:17.58,0:00:17.82,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio {\1c&HFF00&\u1}sempre{\r} essere in controllo delle
+Dialogue: 0,0:00:17.82,0:00:17.84,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:17.84,0:00:18.10,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre {\1c&HFF00&\u1}essere{\r} in controllo delle
+Dialogue: 0,0:00:18.10,0:00:18.16,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:18.16,0:00:18.24,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere {\1c&HFF00&\u1}in{\r} controllo delle
+Dialogue: 0,0:00:18.24,0:00:18.28,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:18.28,0:00:18.68,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in {\1c&HFF00&\u1}controllo{\r} delle
+Dialogue: 0,0:00:18.68,0:00:18.70,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo delle
+Dialogue: 0,0:00:18.70,0:00:18.82,Default,,0,0,0,,collegato alla banca, al conto corrente, ma io voglio sempre essere in controllo {\1c&HFF00&\u1}delle{\r}
+Dialogue: 0,0:00:18.92,0:00:18.98,Default,,0,0,0,,{\1c&HFF00&\u1}mie{\r} uscite.
+Dialogue: 0,0:00:18.98,0:00:19.00,Default,,0,0,0,,mie uscite.
+Dialogue: 0,0:00:19.00,0:00:19.12,Default,,0,0,0,,mie {\1c&HFF00&\u1}uscite.{\r}

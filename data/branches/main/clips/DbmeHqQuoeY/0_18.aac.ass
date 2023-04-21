@@ -1,0 +1,278 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.26,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:0.26,0:00:0.34,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:0.34,0:00:0.54,Default,,0,0,0,,Non {\1c&HFF00&\u1}dico{\r} assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:0.54,0:00:0.56,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:0.56,0:00:1.12,Default,,0,0,0,,Non dico {\1c&HFF00&\u1}assolutamente{\r} di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:1.12,0:00:1.18,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:1.18,0:00:1.24,Default,,0,0,0,,Non dico assolutamente {\1c&HFF00&\u1}di{\r} non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:1.24,0:00:1.30,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:1.30,0:00:1.60,Default,,0,0,0,,Non dico assolutamente di {\1c&HFF00&\u1}non{\r} mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:1.60,0:00:1.78,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:1.78,0:00:2.11,Default,,0,0,0,,Non dico assolutamente di non {\1c&HFF00&\u1}mangiare{\r} mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:2.11,0:00:2.17,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:2.17,0:00:2.33,Default,,0,0,0,,Non dico assolutamente di non mangiare {\1c&HFF00&\u1}mai{\r} fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:2.33,0:00:2.47,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:2.47,0:00:2.75,Default,,0,0,0,,Non dico assolutamente di non mangiare mai {\1c&HFF00&\u1}fuori,{\r} ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:2.75,0:00:2.99,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:2.99,0:00:3.13,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, {\1c&HFF00&\u1}ma{\r} si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:3.13,0:00:3.47,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:3.47,0:00:3.53,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma {\1c&HFF00&\u1}si{\r} potrebbe cominciare con mangiare
+Dialogue: 0,0:00:3.53,0:00:3.59,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:3.59,0:00:3.89,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si {\1c&HFF00&\u1}potrebbe{\r} cominciare con mangiare
+Dialogue: 0,0:00:3.89,0:00:3.95,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:3.95,0:00:4.47,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe {\1c&HFF00&\u1}cominciare{\r} con mangiare
+Dialogue: 0,0:00:4.47,0:00:4.61,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:4.61,0:00:4.79,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare {\1c&HFF00&\u1}con{\r} mangiare
+Dialogue: 0,0:00:4.79,0:00:5.15,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con mangiare
+Dialogue: 0,0:00:5.15,0:00:5.41,Default,,0,0,0,,Non dico assolutamente di non mangiare mai fuori, ma si potrebbe cominciare con {\1c&HFF00&\u1}mangiare{\r}
+Dialogue: 0,0:00:5.40,0:00:5.50,Default,,0,0,0,,{\1c&HFF00&\u1}fuori{\r} una volta in meno del solito.
+Dialogue: 0,0:00:5.50,0:00:5.52,Default,,0,0,0,,fuori una volta in meno del solito.
+Dialogue: 0,0:00:5.52,0:00:5.58,Default,,0,0,0,,fuori {\1c&HFF00&\u1}una{\r} volta in meno del solito.
+Dialogue: 0,0:00:5.58,0:00:5.60,Default,,0,0,0,,fuori una volta in meno del solito.
+Dialogue: 0,0:00:5.60,0:00:5.70,Default,,0,0,0,,fuori una {\1c&HFF00&\u1}volta{\r} in meno del solito.
+Dialogue: 0,0:00:5.70,0:00:5.72,Default,,0,0,0,,fuori una volta in meno del solito.
+Dialogue: 0,0:00:5.72,0:00:5.76,Default,,0,0,0,,fuori una volta {\1c&HFF00&\u1}in{\r} meno del solito.
+Dialogue: 0,0:00:5.76,0:00:5.78,Default,,0,0,0,,fuori una volta in meno del solito.
+Dialogue: 0,0:00:5.78,0:00:5.86,Default,,0,0,0,,fuori una volta in {\1c&HFF00&\u1}meno{\r} del solito.
+Dialogue: 0,0:00:5.86,0:00:5.88,Default,,0,0,0,,fuori una volta in meno del solito.
+Dialogue: 0,0:00:5.88,0:00:5.94,Default,,0,0,0,,fuori una volta in meno {\1c&HFF00&\u1}del{\r} solito.
+Dialogue: 0,0:00:5.94,0:00:5.96,Default,,0,0,0,,fuori una volta in meno del solito.
+Dialogue: 0,0:00:5.96,0:00:6.08,Default,,0,0,0,,fuori una volta in meno del {\1c&HFF00&\u1}solito.{\r}
+Dialogue: 0,0:00:7.86,0:00:8.50,Default,,0,0,0,,{\1c&HFF00&\u1}Oppure{\r} mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:8.50,0:00:8.52,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:8.52,0:00:8.66,Default,,0,0,0,,Oppure {\1c&HFF00&\u1}mettere{\r} un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:8.66,0:00:8.70,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:8.70,0:00:8.78,Default,,0,0,0,,Oppure mettere {\1c&HFF00&\u1}un{\r} limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:8.78,0:00:8.84,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:8.84,0:00:9.14,Default,,0,0,0,,Oppure mettere un {\1c&HFF00&\u1}limite{\r} massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.14,0:00:9.22,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.22,0:00:9.60,Default,,0,0,0,,Oppure mettere un limite {\1c&HFF00&\u1}massimo{\r} in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.60,0:00:9.66,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.66,0:00:9.70,Default,,0,0,0,,Oppure mettere un limite massimo {\1c&HFF00&\u1}in{\r} base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.70,0:00:9.74,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.74,0:00:9.89,Default,,0,0,0,,Oppure mettere un limite massimo in {\1c&HFF00&\u1}base{\r} alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.89,0:00:9.93,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:9.93,0:00:10.05,Default,,0,0,0,,Oppure mettere un limite massimo in base {\1c&HFF00&\u1}alle{\r} proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:10.05,0:00:10.09,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:10.09,0:00:10.39,Default,,0,0,0,,Oppure mettere un limite massimo in base alle {\1c&HFF00&\u1}proprie{\r} necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:10.39,0:00:10.45,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:10.45,0:00:11.03,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie {\1c&HFF00&\u1}necessità,{\r} per me è circa 1-2 volte
+Dialogue: 0,0:00:11.03,0:00:11.47,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:11.47,0:00:11.59,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, {\1c&HFF00&\u1}per{\r} me è circa 1-2 volte
+Dialogue: 0,0:00:11.59,0:00:11.65,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:11.65,0:00:11.83,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per {\1c&HFF00&\u1}me{\r} è circa 1-2 volte
+Dialogue: 0,0:00:11.83,0:00:11.97,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:11.97,0:00:12.01,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me {\1c&HFF00&\u1}è{\r} circa 1-2 volte
+Dialogue: 0,0:00:12.01,0:00:12.13,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:12.13,0:00:12.51,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è {\1c&HFF00&\u1}circa{\r} 1-2 volte
+Dialogue: 0,0:00:12.51,0:00:12.53,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:12.53,0:00:12.55,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa {\1c&HFF00&\u1}1-2{\r} volte
+Dialogue: 0,0:00:12.55,0:00:12.83,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 volte
+Dialogue: 0,0:00:12.83,0:00:12.99,Default,,0,0,0,,Oppure mettere un limite massimo in base alle proprie necessità, per me è circa 1-2 {\1c&HFF00&\u1}volte{\r}
+Dialogue: 0,0:00:14.18,0:00:14.29,Default,,0,0,0,,{\1c&HFF00&\u1}al{\r} mese.
+Dialogue: 0,0:00:14.29,0:00:14.31,Default,,0,0,0,,al mese.
+Dialogue: 0,0:00:14.31,0:00:14.47,Default,,0,0,0,,al {\1c&HFF00&\u1}mese.{\r}
+Dialogue: 0,0:00:14.54,0:00:14.70,Default,,0,0,0,,{\1c&HFF00&\u1}Tuttavia{\r} vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:14.70,0:00:14.72,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:14.72,0:00:14.80,Default,,0,0,0,,Tuttavia {\1c&HFF00&\u1}vi{\r} consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:14.80,0:00:14.82,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:14.82,0:00:15.18,Default,,0,0,0,,Tuttavia vi {\1c&HFF00&\u1}consiglio{\r} di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.18,0:00:15.20,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.20,0:00:15.28,Default,,0,0,0,,Tuttavia vi consiglio {\1c&HFF00&\u1}di{\r} non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.28,0:00:15.30,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.30,0:00:15.46,Default,,0,0,0,,Tuttavia vi consiglio di {\1c&HFF00&\u1}non{\r} cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.46,0:00:15.48,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.48,0:00:15.80,Default,,0,0,0,,Tuttavia vi consiglio di non {\1c&HFF00&\u1}cercare{\r} di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.80,0:00:15.84,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.84,0:00:15.92,Default,,0,0,0,,Tuttavia vi consiglio di non cercare {\1c&HFF00&\u1}di{\r} risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.92,0:00:15.98,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:15.98,0:00:16.44,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di {\1c&HFF00&\u1}risparmiare{\r} troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:16.44,0:00:16.65,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:16.65,0:00:16.99,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare {\1c&HFF00&\u1}troppo{\r} sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:16.99,0:00:17.21,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:17.21,0:00:17.37,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo {\1c&HFF00&\u1}sul{\r} cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:17.37,0:00:17.49,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:17.49,0:00:17.83,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul {\1c&HFF00&\u1}cibo,{\r} va bene diminuire certe quantità,
+Dialogue: 0,0:00:17.83,0:00:17.99,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:17.99,0:00:18.05,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, {\1c&HFF00&\u1}va{\r} bene diminuire certe quantità,
+Dialogue: 0,0:00:18.05,0:00:18.11,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:18.11,0:00:18.33,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va {\1c&HFF00&\u1}bene{\r} diminuire certe quantità,
+Dialogue: 0,0:00:18.33,0:00:18.39,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:18.39,0:00:18.87,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene {\1c&HFF00&\u1}diminuire{\r} certe quantità,
+Dialogue: 0,0:00:18.87,0:00:19.03,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:19.03,0:00:19.25,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire {\1c&HFF00&\u1}certe{\r} quantità,
+Dialogue: 0,0:00:19.25,0:00:19.31,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe quantità,
+Dialogue: 0,0:00:19.31,0:00:19.75,Default,,0,0,0,,Tuttavia vi consiglio di non cercare di risparmiare troppo sul cibo, va bene diminuire certe {\1c&HFF00&\u1}quantità,{\r}
+Dialogue: 0,0:00:20.36,0:00:20.72,Default,,0,0,0,,{\1c&HFF00&\u1}smettere{\r} di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:20.72,0:00:20.76,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:20.76,0:00:20.82,Default,,0,0,0,,smettere {\1c&HFF00&\u1}di{\r} acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:20.82,0:00:20.86,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:20.86,0:00:21.38,Default,,0,0,0,,smettere di {\1c&HFF00&\u1}acquistare{\r} cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:21.38,0:00:21.40,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:21.40,0:00:21.70,Default,,0,0,0,,smettere di acquistare {\1c&HFF00&\u1}cibo{\r} preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:21.70,0:00:21.74,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:21.74,0:00:22.57,Default,,0,0,0,,smettere di acquistare cibo {\1c&HFF00&\u1}preconfezionato{\r} e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:22.57,0:00:22.59,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:22.59,0:00:22.61,Default,,0,0,0,,smettere di acquistare cibo preconfezionato {\1c&HFF00&\u1}e{\r} schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:22.61,0:00:22.83,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:22.83,0:00:23.25,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e {\1c&HFF00&\u1}schifezze{\r} varie, ma non risparmiare troppo
+Dialogue: 0,0:00:23.25,0:00:23.29,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:23.29,0:00:23.65,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze {\1c&HFF00&\u1}varie,{\r} ma non risparmiare troppo
+Dialogue: 0,0:00:23.65,0:00:23.95,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:23.95,0:00:24.03,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, {\1c&HFF00&\u1}ma{\r} non risparmiare troppo
+Dialogue: 0,0:00:24.03,0:00:24.13,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:24.13,0:00:24.25,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma {\1c&HFF00&\u1}non{\r} risparmiare troppo
+Dialogue: 0,0:00:24.25,0:00:24.31,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:24.31,0:00:24.91,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non {\1c&HFF00&\u1}risparmiare{\r} troppo
+Dialogue: 0,0:00:24.91,0:00:25.01,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare troppo
+Dialogue: 0,0:00:25.01,0:00:25.29,Default,,0,0,0,,smettere di acquistare cibo preconfezionato e schifezze varie, ma non risparmiare {\1c&HFF00&\u1}troppo{\r}
+Dialogue: 0,0:00:25.48,0:00:25.68,Default,,0,0,0,,{\1c&HFF00&\u1}sulla{\r} qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:25.68,0:00:25.74,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:25.74,0:00:26.14,Default,,0,0,0,,sulla {\1c&HFF00&\u1}qualità,{\r} anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:26.14,0:00:26.56,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:26.56,0:00:26.96,Default,,0,0,0,,sulla qualità, {\1c&HFF00&\u1}anzi{\r} io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:26.96,0:00:27.72,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:27.72,0:00:27.78,Default,,0,0,0,,sulla qualità, anzi {\1c&HFF00&\u1}io{\r} per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:27.78,0:00:27.82,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:27.82,0:00:27.94,Default,,0,0,0,,sulla qualità, anzi io {\1c&HFF00&\u1}per{\r} esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:27.94,0:00:27.98,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:27.98,0:00:28.29,Default,,0,0,0,,sulla qualità, anzi io per {\1c&HFF00&\u1}esempio{\r} una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:28.29,0:00:28.35,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:28.35,0:00:28.47,Default,,0,0,0,,sulla qualità, anzi io per esempio {\1c&HFF00&\u1}una{\r} volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:28.47,0:00:28.53,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:28.53,0:00:29.11,Default,,0,0,0,,sulla qualità, anzi io per esempio una {\1c&HFF00&\u1}volta{\r} al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:29.11,0:00:29.51,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:29.51,0:00:29.59,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta {\1c&HFF00&\u1}al{\r} mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:29.59,0:00:29.65,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:29.65,0:00:29.93,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al {\1c&HFF00&\u1}mese{\r} circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:29.93,0:00:30.03,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:30.03,0:00:30.33,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese {\1c&HFF00&\u1}circa{\r} vado in un negozio bio e acquisto
+Dialogue: 0,0:00:30.33,0:00:30.39,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:30.39,0:00:30.63,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa {\1c&HFF00&\u1}vado{\r} in un negozio bio e acquisto
+Dialogue: 0,0:00:30.63,0:00:30.67,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:30.67,0:00:30.73,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado {\1c&HFF00&\u1}in{\r} un negozio bio e acquisto
+Dialogue: 0,0:00:30.73,0:00:30.77,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:30.77,0:00:30.85,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in {\1c&HFF00&\u1}un{\r} negozio bio e acquisto
+Dialogue: 0,0:00:30.85,0:00:30.91,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:30.91,0:00:31.31,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un {\1c&HFF00&\u1}negozio{\r} bio e acquisto
+Dialogue: 0,0:00:31.31,0:00:31.43,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:31.43,0:00:31.67,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio {\1c&HFF00&\u1}bio{\r} e acquisto
+Dialogue: 0,0:00:31.67,0:00:31.75,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:31.75,0:00:31.81,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio {\1c&HFF00&\u1}e{\r} acquisto
+Dialogue: 0,0:00:31.81,0:00:31.87,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e acquisto
+Dialogue: 0,0:00:31.87,0:00:32.43,Default,,0,0,0,,sulla qualità, anzi io per esempio una volta al mese circa vado in un negozio bio e {\1c&HFF00&\u1}acquisto{\r}
+Dialogue: 0,0:00:34.22,0:00:34.98,Default,,0,0,0,,{\1c&HFF00&\u1}ingredienti{\r} come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:34.98,0:00:35.00,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.00,0:00:35.08,Default,,0,0,0,,ingredienti {\1c&HFF00&\u1}come{\r} paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.08,0:00:35.10,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.10,0:00:35.28,Default,,0,0,0,,ingredienti come {\1c&HFF00&\u1}paste{\r} con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.28,0:00:35.32,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.32,0:00:35.46,Default,,0,0,0,,ingredienti come paste {\1c&HFF00&\u1}con{\r} grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.46,0:00:35.50,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.50,0:00:35.74,Default,,0,0,0,,ingredienti come paste con {\1c&HFF00&\u1}grani{\r} antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.74,0:00:35.80,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:35.80,0:00:36.49,Default,,0,0,0,,ingredienti come paste con grani {\1c&HFF00&\u1}antichi,{\r} latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:36.49,0:00:37.07,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:37.07,0:00:37.47,Default,,0,0,0,,ingredienti come paste con grani antichi, {\1c&HFF00&\u1}latte{\r} e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:37.47,0:00:38.25,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:38.25,0:00:38.29,Default,,0,0,0,,ingredienti come paste con grani antichi, latte {\1c&HFF00&\u1}e{\r} panna di soia bio e così via. Credo
+Dialogue: 0,0:00:38.29,0:00:38.39,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:38.39,0:00:38.79,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e {\1c&HFF00&\u1}panna{\r} di soia bio e così via. Credo
+Dialogue: 0,0:00:38.79,0:00:38.83,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:38.83,0:00:38.91,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna {\1c&HFF00&\u1}di{\r} soia bio e così via. Credo
+Dialogue: 0,0:00:38.91,0:00:39.01,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:39.01,0:00:39.25,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di {\1c&HFF00&\u1}soia{\r} bio e così via. Credo
+Dialogue: 0,0:00:39.25,0:00:39.35,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:39.35,0:00:39.73,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia {\1c&HFF00&\u1}bio{\r} e così via. Credo
+Dialogue: 0,0:00:39.73,0:00:40.07,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:40.07,0:00:40.11,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio {\1c&HFF00&\u1}e{\r} così via. Credo
+Dialogue: 0,0:00:40.11,0:00:40.17,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:40.17,0:00:40.33,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e {\1c&HFF00&\u1}così{\r} via. Credo
+Dialogue: 0,0:00:40.33,0:00:40.39,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:40.39,0:00:40.47,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così {\1c&HFF00&\u1}via.{\r} Credo
+Dialogue: 0,0:00:40.47,0:00:40.49,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. Credo
+Dialogue: 0,0:00:40.49,0:00:40.61,Default,,0,0,0,,ingredienti come paste con grani antichi, latte e panna di soia bio e così via. {\1c&HFF00&\u1}Credo{\r}
+Dialogue: 0,0:00:41.12,0:00:41.18,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.18,0:00:41.24,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.24,0:00:41.32,Default,,0,0,0,,che {\1c&HFF00&\u1}la{\r} spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.32,0:00:41.38,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.38,0:00:41.60,Default,,0,0,0,,che la {\1c&HFF00&\u1}spesa{\r} per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.60,0:00:41.62,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.62,0:00:41.68,Default,,0,0,0,,che la spesa {\1c&HFF00&\u1}per{\r} il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.68,0:00:41.98,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:41.98,0:00:42.08,Default,,0,0,0,,che la spesa per {\1c&HFF00&\u1}il{\r} buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:42.08,0:00:42.16,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:42.16,0:00:42.36,Default,,0,0,0,,che la spesa per il {\1c&HFF00&\u1}buon{\r} cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:42.36,0:00:42.46,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:42.46,0:00:42.82,Default,,0,0,0,,che la spesa per il buon {\1c&HFF00&\u1}cibo{\r} deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:42.82,0:00:42.96,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:42.96,0:00:43.11,Default,,0,0,0,,che la spesa per il buon cibo {\1c&HFF00&\u1}deve{\r} essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:43.11,0:00:43.15,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:43.15,0:00:43.47,Default,,0,0,0,,che la spesa per il buon cibo deve {\1c&HFF00&\u1}essere{\r} maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:43.47,0:00:43.87,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:43.87,0:00:44.41,Default,,0,0,0,,che la spesa per il buon cibo deve essere {\1c&HFF00&\u1}maggiore{\r} a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:44.41,0:00:45.11,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:45.11,0:00:45.27,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore {\1c&HFF00&\u1}a{\r} tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:45.27,0:00:45.45,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:45.45,0:00:45.75,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a {\1c&HFF00&\u1}tanto{\r} altro, invece spesso dedichiamo
+Dialogue: 0,0:00:45.75,0:00:45.81,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:45.81,0:00:46.15,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto {\1c&HFF00&\u1}altro,{\r} invece spesso dedichiamo
+Dialogue: 0,0:00:46.15,0:00:46.21,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:46.21,0:00:46.47,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, {\1c&HFF00&\u1}invece{\r} spesso dedichiamo
+Dialogue: 0,0:00:46.47,0:00:46.51,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:46.51,0:00:46.77,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece {\1c&HFF00&\u1}spesso{\r} dedichiamo
+Dialogue: 0,0:00:46.77,0:00:46.83,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso dedichiamo
+Dialogue: 0,0:00:46.83,0:00:47.34,Default,,0,0,0,,che la spesa per il buon cibo deve essere maggiore a tanto altro, invece spesso {\1c&HFF00&\u1}dedichiamo{\r}
+Dialogue: 0,0:00:47.58,0:00:47.78,Default,,0,0,0,,{\1c&HFF00&\u1}tante{\r} risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:47.78,0:00:47.82,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:47.82,0:00:48.24,Default,,0,0,0,,tante {\1c&HFF00&\u1}risorse{\r} ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:48.24,0:00:48.42,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:48.42,0:00:48.52,Default,,0,0,0,,tante risorse {\1c&HFF00&\u1}ad{\r} altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:48.52,0:00:48.56,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:48.56,0:00:48.94,Default,,0,0,0,,tante risorse ad {\1c&HFF00&\u1}altro{\r} e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:48.94,0:00:49.54,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:49.54,0:00:49.75,Default,,0,0,0,,tante risorse ad altro {\1c&HFF00&\u1}e{\r} poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:49.75,0:00:49.93,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:49.93,0:00:50.05,Default,,0,0,0,,tante risorse ad altro e {\1c&HFF00&\u1}poi{\r} cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:50.05,0:00:50.11,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:50.11,0:00:50.55,Default,,0,0,0,,tante risorse ad altro e poi {\1c&HFF00&\u1}cerchiamo{\r} di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:50.55,0:00:50.67,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:50.67,0:00:50.93,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo {\1c&HFF00&\u1}di{\r} fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:50.93,0:00:51.27,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:51.27,0:00:51.45,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di {\1c&HFF00&\u1}fare{\r} del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:51.45,0:00:51.51,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:51.51,0:00:51.63,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare {\1c&HFF00&\u1}del{\r} tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:51.63,0:00:51.71,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:51.71,0:00:51.97,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del {\1c&HFF00&\u1}tutto{\r} per risparmiare sul cibo.
+Dialogue: 0,0:00:51.97,0:00:52.05,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:52.05,0:00:52.15,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto {\1c&HFF00&\u1}per{\r} risparmiare sul cibo.
+Dialogue: 0,0:00:52.15,0:00:52.19,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:52.19,0:00:52.67,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per {\1c&HFF00&\u1}risparmiare{\r} sul cibo.
+Dialogue: 0,0:00:52.67,0:00:52.75,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:52.75,0:00:52.89,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare {\1c&HFF00&\u1}sul{\r} cibo.
+Dialogue: 0,0:00:52.89,0:00:52.99,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul cibo.
+Dialogue: 0,0:00:52.99,0:00:53.21,Default,,0,0,0,,tante risorse ad altro e poi cerchiamo di fare del tutto per risparmiare sul {\1c&HFF00&\u1}cibo.{\r}
+Dialogue: 0,0:00:53.52,0:00:53.70,Default,,0,0,0,,{\1c&HFF00&\u1}Ok,{\r} non era l'ultima, c'è un'altra.
+Dialogue: 0,0:00:53.70,0:00:53.74,Default,,0,0,0,,Ok, non era l'ultima, c'è un'altra.
+Dialogue: 0,0:00:53.74,0:00:53.84,Default,,0,0,0,,Ok, {\1c&HFF00&\u1}non{\r} era l'ultima, c'è un'altra.
+Dialogue: 0,0:00:53.84,0:00:53.90,Default,,0,0,0,,Ok, non era l'ultima, c'è un'altra.
+Dialogue: 0,0:00:53.90,0:00:54.01,Default,,0,0,0,,Ok, non {\1c&HFF00&\u1}era{\r} l'ultima, c'è un'altra.
+Dialogue: 0,0:00:54.01,0:00:54.09,Default,,0,0,0,,Ok, non era l'ultima, c'è un'altra.
+Dialogue: 0,0:00:54.09,0:00:54.43,Default,,0,0,0,,Ok, non era {\1c&HFF00&\u1}l'ultima,{\r} c'è un'altra.
+Dialogue: 0,0:00:54.43,0:00:54.49,Default,,0,0,0,,Ok, non era l'ultima, c'è un'altra.
+Dialogue: 0,0:00:54.49,0:00:54.61,Default,,0,0,0,,Ok, non era l'ultima, {\1c&HFF00&\u1}c'è{\r} un'altra.
+Dialogue: 0,0:00:54.61,0:00:54.65,Default,,0,0,0,,Ok, non era l'ultima, c'è un'altra.
+Dialogue: 0,0:00:54.65,0:00:54.95,Default,,0,0,0,,Ok, non era l'ultima, c'è {\1c&HFF00&\u1}un'altra.{\r}

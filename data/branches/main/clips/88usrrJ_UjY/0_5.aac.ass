@@ -1,0 +1,293 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.06,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}Primo{\r} a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:0.30,0:00:0.40,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:0.40,0:00:0.46,Default,,0,0,0,,Primo {\1c&HFF00&\u1}a{\r} dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:0.46,0:00:0.50,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:0.50,0:00:0.76,Default,,0,0,0,,Primo a {\1c&HFF00&\u1}dire{\r} che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:0.76,0:00:0.98,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:0.98,0:00:1.08,Default,,0,0,0,,Primo a dire {\1c&HFF00&\u1}che{\r} le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.08,0:00:1.20,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.20,0:00:1.26,Default,,0,0,0,,Primo a dire che {\1c&HFF00&\u1}le{\r} persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.26,0:00:1.30,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.30,0:00:1.56,Default,,0,0,0,,Primo a dire che le {\1c&HFF00&\u1}persone{\r} si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.56,0:00:1.64,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.64,0:00:1.70,Default,,0,0,0,,Primo a dire che le persone {\1c&HFF00&\u1}si{\r} stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.70,0:00:1.76,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:1.76,0:00:2.23,Default,,0,0,0,,Primo a dire che le persone si {\1c&HFF00&\u1}stressano{\r} troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:2.23,0:00:2.35,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:2.35,0:00:2.69,Default,,0,0,0,,Primo a dire che le persone si stressano {\1c&HFF00&\u1}troppo,{\r} a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:2.69,0:00:2.85,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:2.85,0:00:2.89,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, {\1c&HFF00&\u1}a{\r} volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:2.89,0:00:2.91,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:2.91,0:00:3.31,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a {\1c&HFF00&\u1}volte,{\r} concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:3.31,0:00:3.53,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:3.53,0:00:4.23,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, {\1c&HFF00&\u1}concentrandosi{\r} sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:4.23,0:00:4.41,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:4.41,0:00:4.61,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi {\1c&HFF00&\u1}sul{\r} voto, solo sul voto, sulla media
+Dialogue: 0,0:00:4.61,0:00:4.65,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:4.65,0:00:4.91,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul {\1c&HFF00&\u1}voto,{\r} solo sul voto, sulla media
+Dialogue: 0,0:00:4.91,0:00:5.01,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:5.01,0:00:5.17,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, {\1c&HFF00&\u1}solo{\r} sul voto, sulla media
+Dialogue: 0,0:00:5.17,0:00:5.23,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:5.23,0:00:5.37,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo {\1c&HFF00&\u1}sul{\r} voto, sulla media
+Dialogue: 0,0:00:5.37,0:00:5.43,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:5.43,0:00:5.69,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul {\1c&HFF00&\u1}voto,{\r} sulla media
+Dialogue: 0,0:00:5.69,0:00:5.87,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:5.87,0:00:6.03,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, {\1c&HFF00&\u1}sulla{\r} media
+Dialogue: 0,0:00:6.03,0:00:6.07,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla media
+Dialogue: 0,0:00:6.07,0:00:6.32,Default,,0,0,0,,Primo a dire che le persone si stressano troppo, a volte, concentrandosi sul voto, solo sul voto, sulla {\1c&HFF00&\u1}media{\r}
+Dialogue: 0,0:00:6.40,0:00:6.50,Default,,0,0,0,,{\1c&HFF00&\u1}Oddio{\r} non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.50,0:00:6.52,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.52,0:00:6.58,Default,,0,0,0,,Oddio {\1c&HFF00&\u1}non{\r} ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.58,0:00:6.60,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.60,0:00:6.64,Default,,0,0,0,,Oddio non {\1c&HFF00&\u1}ho{\r} preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.64,0:00:6.66,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.66,0:00:6.76,Default,,0,0,0,,Oddio non ho {\1c&HFF00&\u1}preso 28,{\r} oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.76,0:00:6.80,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.80,0:00:6.90,Default,,0,0,0,,Oddio non ho preso 28, {\1c&HFF00&\u1}oddio{\r} non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.90,0:00:6.92,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.92,0:00:6.98,Default,,0,0,0,,Oddio non ho preso 28, oddio {\1c&HFF00&\u1}non{\r} ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:6.98,0:00:7.00,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.00,0:00:7.04,Default,,0,0,0,,Oddio non ho preso 28, oddio non {\1c&HFF00&\u1}ho{\r} preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.04,0:00:7.06,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.06,0:00:7.16,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho {\1c&HFF00&\u1}preso 29,{\r} rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.16,0:00:7.20,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.20,0:00:7.34,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, {\1c&HFF00&\u1}rifiuto{\r} un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.34,0:00:7.36,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.36,0:00:7.40,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto {\1c&HFF00&\u1}un 25{\r} perché voglio chissà che voto
+Dialogue: 0,0:00:7.40,0:00:7.44,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.44,0:00:7.56,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 {\1c&HFF00&\u1}perché{\r} voglio chissà che voto
+Dialogue: 0,0:00:7.56,0:00:7.58,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.58,0:00:7.70,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché {\1c&HFF00&\u1}voglio{\r} chissà che voto
+Dialogue: 0,0:00:7.70,0:00:7.72,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.72,0:00:7.84,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio {\1c&HFF00&\u1}chissà{\r} che voto
+Dialogue: 0,0:00:7.84,0:00:7.86,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.86,0:00:7.92,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà {\1c&HFF00&\u1}che{\r} voto
+Dialogue: 0,0:00:7.92,0:00:7.94,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che voto
+Dialogue: 0,0:00:7.94,0:00:8.02,Default,,0,0,0,,Oddio non ho preso 28, oddio non ho preso 29, rifiuto un 25 perché voglio chissà che {\1c&HFF00&\u1}voto{\r}
+Dialogue: 0,0:00:11.34,0:00:11.38,Default,,0,0,0,,{\1c&HFF00&\u1}I{\r} voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.38,0:00:11.42,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.42,0:00:11.58,Default,,0,0,0,,I {\1c&HFF00&\u1}voti{\r} non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.58,0:00:11.64,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.64,0:00:11.78,Default,,0,0,0,,I voti {\1c&HFF00&\u1}non{\r} sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.78,0:00:11.82,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.82,0:00:11.94,Default,,0,0,0,,I voti non {\1c&HFF00&\u1}sono{\r} così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.94,0:00:11.98,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:11.98,0:00:12.12,Default,,0,0,0,,I voti non sono {\1c&HFF00&\u1}così{\r} importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:12.12,0:00:12.16,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:12.16,0:00:12.66,Default,,0,0,0,,I voti non sono così {\1c&HFF00&\u1}importanti,{\r} infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:12.66,0:00:12.82,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:12.82,0:00:13.11,Default,,0,0,0,,I voti non sono così importanti, {\1c&HFF00&\u1}infatti{\r} almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.11,0:00:13.21,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.21,0:00:13.41,Default,,0,0,0,,I voti non sono così importanti, infatti {\1c&HFF00&\u1}almeno{\r} che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.41,0:00:13.45,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.45,0:00:13.53,Default,,0,0,0,,I voti non sono così importanti, infatti almeno {\1c&HFF00&\u1}che{\r} non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.53,0:00:13.55,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.55,0:00:13.65,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che {\1c&HFF00&\u1}non{\r} siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.65,0:00:13.69,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.69,0:00:13.85,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non {\1c&HFF00&\u1}siano{\r} strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:13.85,0:00:14.01,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:14.01,0:00:14.65,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano {\1c&HFF00&\u1}strettamente{\r} necessari per entrare in qualche programma
+Dialogue: 0,0:00:14.65,0:00:14.71,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:14.71,0:00:15.27,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente {\1c&HFF00&\u1}necessari{\r} per entrare in qualche programma
+Dialogue: 0,0:00:15.27,0:00:15.29,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:15.29,0:00:15.39,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari {\1c&HFF00&\u1}per{\r} entrare in qualche programma
+Dialogue: 0,0:00:15.39,0:00:15.45,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:15.45,0:00:15.69,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per {\1c&HFF00&\u1}entrare{\r} in qualche programma
+Dialogue: 0,0:00:15.69,0:00:15.71,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:15.71,0:00:15.77,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare {\1c&HFF00&\u1}in{\r} qualche programma
+Dialogue: 0,0:00:15.77,0:00:15.79,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:15.79,0:00:16.03,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in {\1c&HFF00&\u1}qualche{\r} programma
+Dialogue: 0,0:00:16.03,0:00:16.07,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche programma
+Dialogue: 0,0:00:16.07,0:00:16.49,Default,,0,0,0,,I voti non sono così importanti, infatti almeno che non siano strettamente necessari per entrare in qualche {\1c&HFF00&\u1}programma{\r}
+Dialogue: 0,0:00:16.52,0:00:16.56,Default,,0,0,0,,{\1c&HFF00&\u1}ad{\r} esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:16.56,0:00:16.78,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:16.78,0:00:16.94,Default,,0,0,0,,ad {\1c&HFF00&\u1}esempio{\r} qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:16.94,0:00:16.96,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:16.96,0:00:17.68,Default,,0,0,0,,ad esempio {\1c&HFF00&\u1}qualche{\r} internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:17.68,0:00:17.70,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:17.70,0:00:17.94,Default,,0,0,0,,ad esempio qualche {\1c&HFF00&\u1}internship{\r} o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:17.94,0:00:18.02,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.02,0:00:18.04,Default,,0,0,0,,ad esempio qualche internship {\1c&HFF00&\u1}o{\r} qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.04,0:00:18.06,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.06,0:00:18.57,Default,,0,0,0,,ad esempio qualche internship o {\1c&HFF00&\u1}qualche{\r} programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.57,0:00:18.59,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.59,0:00:18.89,Default,,0,0,0,,ad esempio qualche internship o qualche {\1c&HFF00&\u1}programma{\r} con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.89,0:00:18.91,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.91,0:00:18.99,Default,,0,0,0,,ad esempio qualche internship o qualche programma {\1c&HFF00&\u1}con{\r} l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:18.99,0:00:19.01,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:19.01,0:00:19.57,Default,,0,0,0,,ad esempio qualche internship o qualche programma con {\1c&HFF00&\u1}l'università,{\r} dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:19.57,0:00:19.69,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:19.69,0:00:19.79,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, {\1c&HFF00&\u1}dei{\r} voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:19.79,0:00:19.83,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:19.83,0:00:20.05,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei {\1c&HFF00&\u1}voti{\r} ve li dovete un po' sbattere
+Dialogue: 0,0:00:20.05,0:00:20.09,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:20.09,0:00:20.13,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti {\1c&HFF00&\u1}ve{\r} li dovete un po' sbattere
+Dialogue: 0,0:00:20.13,0:00:20.17,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:20.17,0:00:20.23,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve {\1c&HFF00&\u1}li{\r} dovete un po' sbattere
+Dialogue: 0,0:00:20.23,0:00:20.25,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:20.25,0:00:20.45,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li {\1c&HFF00&\u1}dovete{\r} un po' sbattere
+Dialogue: 0,0:00:20.45,0:00:20.49,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:20.49,0:00:20.55,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete {\1c&HFF00&\u1}un{\r} po' sbattere
+Dialogue: 0,0:00:20.55,0:00:20.57,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:20.57,0:00:20.67,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un {\1c&HFF00&\u1}po'{\r} sbattere
+Dialogue: 0,0:00:20.67,0:00:20.83,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' sbattere
+Dialogue: 0,0:00:20.83,0:00:21.23,Default,,0,0,0,,ad esempio qualche internship o qualche programma con l'università, dei voti ve li dovete un po' {\1c&HFF00&\u1}sbattere{\r}
+Dialogue: 0,0:00:21.58,0:00:21.74,Default,,0,0,0,,{\1c&HFF00&\u1}Voti{\r} e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:21.74,0:00:21.80,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:21.80,0:00:21.84,Default,,0,0,0,,Voti {\1c&HFF00&\u1}e{\r} media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:21.84,0:00:21.88,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:21.88,0:00:22.14,Default,,0,0,0,,Voti e {\1c&HFF00&\u1}media{\r} non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.14,0:00:22.26,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.26,0:00:22.42,Default,,0,0,0,,Voti e media {\1c&HFF00&\u1}non{\r} sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.42,0:00:22.52,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.52,0:00:22.68,Default,,0,0,0,,Voti e media non {\1c&HFF00&\u1}sono{\r} una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.68,0:00:22.70,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.70,0:00:22.80,Default,,0,0,0,,Voti e media non sono {\1c&HFF00&\u1}una{\r} buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.80,0:00:22.82,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.82,0:00:22.98,Default,,0,0,0,,Voti e media non sono una {\1c&HFF00&\u1}buona{\r} misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:22.98,0:00:23.02,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:23.02,0:00:23.24,Default,,0,0,0,,Voti e media non sono una buona {\1c&HFF00&\u1}misura{\r} delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:23.24,0:00:23.26,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:23.26,0:00:23.40,Default,,0,0,0,,Voti e media non sono una buona misura {\1c&HFF00&\u1}delle{\r} vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:23.40,0:00:23.44,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:23.44,0:00:23.69,Default,,0,0,0,,Voti e media non sono una buona misura delle {\1c&HFF00&\u1}vostre{\r} skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:23.69,0:00:23.75,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:23.75,0:00:24.17,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre {\1c&HFF00&\u1}skills,{\r} quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:24.17,0:00:24.31,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:24.31,0:00:24.53,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, {\1c&HFF00&\u1}quindi{\r} rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:24.53,0:00:24.71,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:24.71,0:00:25.15,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi {\1c&HFF00&\u1}rifiutate{\r} solo se strettamente necessario
+Dialogue: 0,0:00:25.15,0:00:25.31,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:25.31,0:00:25.49,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate {\1c&HFF00&\u1}solo{\r} se strettamente necessario
+Dialogue: 0,0:00:25.49,0:00:25.55,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:25.55,0:00:25.63,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo {\1c&HFF00&\u1}se{\r} strettamente necessario
+Dialogue: 0,0:00:25.63,0:00:25.91,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:25.91,0:00:26.69,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se {\1c&HFF00&\u1}strettamente{\r} necessario
+Dialogue: 0,0:00:26.69,0:00:26.75,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente necessario
+Dialogue: 0,0:00:26.75,0:00:27.41,Default,,0,0,0,,Voti e media non sono una buona misura delle vostre skills, quindi rifiutate solo se strettamente {\1c&HFF00&\u1}necessario{\r}
+Dialogue: 0,0:00:27.76,0:00:27.92,Default,,0,0,0,,{\1c&HFF00&\u1}fini{\r} dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:27.92,0:00:27.96,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:27.96,0:00:28.64,Default,,0,0,0,,fini {\1c&HFF00&\u1}dell'esperienza{\r} che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:28.64,0:00:28.76,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:28.76,0:00:28.82,Default,,0,0,0,,fini dell'esperienza {\1c&HFF00&\u1}che{\r} volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:28.82,0:00:28.84,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:28.84,0:00:29.09,Default,,0,0,0,,fini dell'esperienza che {\1c&HFF00&\u1}volete{\r} fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.09,0:00:29.13,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.13,0:00:29.33,Default,,0,0,0,,fini dell'esperienza che volete {\1c&HFF00&\u1}fare{\r} e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.33,0:00:29.43,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.43,0:00:29.47,Default,,0,0,0,,fini dell'esperienza che volete fare {\1c&HFF00&\u1}e{\r} che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.47,0:00:29.49,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.49,0:00:29.59,Default,,0,0,0,,fini dell'esperienza che volete fare e {\1c&HFF00&\u1}che{\r} sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.59,0:00:29.65,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:29.65,0:00:30.05,Default,,0,0,0,,fini dell'esperienza che volete fare e che {\1c&HFF00&\u1}sognate.{\r} Piuttosto concentratevi su
+Dialogue: 0,0:00:30.05,0:00:30.31,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:30.31,0:00:30.73,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. {\1c&HFF00&\u1}Piuttosto{\r} concentratevi su
+Dialogue: 0,0:00:30.73,0:00:30.83,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:30.83,0:00:31.39,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto {\1c&HFF00&\u1}concentratevi{\r} su
+Dialogue: 0,0:00:31.39,0:00:31.43,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi su
+Dialogue: 0,0:00:31.43,0:00:31.47,Default,,0,0,0,,fini dell'esperienza che volete fare e che sognate. Piuttosto concentratevi {\1c&HFF00&\u1}su{\r}
+Dialogue: 0,0:00:31.72,0:00:32.10,Default,,0,0,0,,{\1c&HFF00&\u1}esperienze{\r} pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.10,0:00:32.14,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.14,0:00:32.48,Default,,0,0,0,,esperienze {\1c&HFF00&\u1}pratiche{\r} come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.48,0:00:32.50,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.50,0:00:32.64,Default,,0,0,0,,esperienze pratiche {\1c&HFF00&\u1}come{\r} dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.64,0:00:32.68,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.68,0:00:32.83,Default,,0,0,0,,esperienze pratiche come {\1c&HFF00&\u1}dice{\r} il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.83,0:00:32.85,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.85,0:00:32.89,Default,,0,0,0,,esperienze pratiche come dice {\1c&HFF00&\u1}il{\r} mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.89,0:00:32.93,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.93,0:00:32.99,Default,,0,0,0,,esperienze pratiche come dice il {\1c&HFF00&\u1}mio{\r} amico, chiedete ai professori se potete
+Dialogue: 0,0:00:32.99,0:00:33.01,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:33.01,0:00:33.33,Default,,0,0,0,,esperienze pratiche come dice il mio {\1c&HFF00&\u1}amico,{\r} chiedete ai professori se potete
+Dialogue: 0,0:00:33.33,0:00:33.53,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:33.53,0:00:33.79,Default,,0,0,0,,esperienze pratiche come dice il mio amico, {\1c&HFF00&\u1}chiedete{\r} ai professori se potete
+Dialogue: 0,0:00:33.79,0:00:33.81,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:33.81,0:00:33.85,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete {\1c&HFF00&\u1}ai{\r} professori se potete
+Dialogue: 0,0:00:33.85,0:00:33.89,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:33.89,0:00:34.29,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai {\1c&HFF00&\u1}professori{\r} se potete
+Dialogue: 0,0:00:34.29,0:00:34.33,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:34.33,0:00:34.37,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori {\1c&HFF00&\u1}se{\r} potete
+Dialogue: 0,0:00:34.37,0:00:34.41,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se potete
+Dialogue: 0,0:00:34.41,0:00:34.57,Default,,0,0,0,,esperienze pratiche come dice il mio amico, chiedete ai professori se {\1c&HFF00&\u1}potete{\r}
+Dialogue: 0,0:00:34.54,0:00:35.10,Default,,0,0,0,,{\1c&HFF00&\u1}aiutarli{\r} nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.10,0:00:35.14,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.14,0:00:35.24,Default,,0,0,0,,aiutarli {\1c&HFF00&\u1}nella{\r} ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.24,0:00:35.26,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.26,0:00:35.54,Default,,0,0,0,,aiutarli nella {\1c&HFF00&\u1}ricerca,{\r} in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.54,0:00:35.56,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.56,0:00:35.60,Default,,0,0,0,,aiutarli nella ricerca, {\1c&HFF00&\u1}in{\r} laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.60,0:00:35.72,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:35.72,0:00:36.47,Default,,0,0,0,,aiutarli nella ricerca, in {\1c&HFF00&\u1}laboratorio{\r} o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:36.47,0:00:36.69,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:36.69,0:00:36.73,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio {\1c&HFF00&\u1}o{\r} in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:36.73,0:00:36.77,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:36.77,0:00:36.83,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o {\1c&HFF00&\u1}in{\r} qualche esperienza pratica, è molto
+Dialogue: 0,0:00:36.83,0:00:36.87,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:36.87,0:00:37.07,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in {\1c&HFF00&\u1}qualche{\r} esperienza pratica, è molto
+Dialogue: 0,0:00:37.07,0:00:37.11,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:37.11,0:00:37.49,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche {\1c&HFF00&\u1}esperienza{\r} pratica, è molto
+Dialogue: 0,0:00:37.49,0:00:37.55,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:37.55,0:00:37.93,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza {\1c&HFF00&\u1}pratica,{\r} è molto
+Dialogue: 0,0:00:37.93,0:00:38.13,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:38.13,0:00:38.17,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, {\1c&HFF00&\u1}è{\r} molto
+Dialogue: 0,0:00:38.17,0:00:38.23,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è molto
+Dialogue: 0,0:00:38.23,0:00:38.41,Default,,0,0,0,,aiutarli nella ricerca, in laboratorio o in qualche esperienza pratica, è {\1c&HFF00&\u1}molto{\r}
+Dialogue: 0,0:00:38.36,0:00:38.80,Default,,0,0,0,,{\1c&HFF00&\u1}più{\r} utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:38.80,0:00:38.98,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:38.98,0:00:39.10,Default,,0,0,0,,più {\1c&HFF00&\u1}utile,{\r} avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.10,0:00:39.14,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.14,0:00:39.38,Default,,0,0,0,,più utile, {\1c&HFF00&\u1}avrete{\r} molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.38,0:00:39.46,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.46,0:00:39.64,Default,,0,0,0,,più utile, avrete {\1c&HFF00&\u1}molto{\r} più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.64,0:00:39.68,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.68,0:00:39.77,Default,,0,0,0,,più utile, avrete molto {\1c&HFF00&\u1}più{\r} skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.77,0:00:39.81,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:39.81,0:00:40.17,Default,,0,0,0,,più utile, avrete molto più {\1c&HFF00&\u1}skills{\r} e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:40.17,0:00:40.39,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:40.39,0:00:40.45,Default,,0,0,0,,più utile, avrete molto più skills {\1c&HFF00&\u1}e{\r} è anche più vendibile nel mondo del
+Dialogue: 0,0:00:40.45,0:00:40.65,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:40.65,0:00:40.67,Default,,0,0,0,,più utile, avrete molto più skills e {\1c&HFF00&\u1}è{\r} anche più vendibile nel mondo del
+Dialogue: 0,0:00:40.67,0:00:40.71,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:40.71,0:00:40.91,Default,,0,0,0,,più utile, avrete molto più skills e è {\1c&HFF00&\u1}anche{\r} più vendibile nel mondo del
+Dialogue: 0,0:00:40.91,0:00:40.97,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:40.97,0:00:41.05,Default,,0,0,0,,più utile, avrete molto più skills e è anche {\1c&HFF00&\u1}più{\r} vendibile nel mondo del
+Dialogue: 0,0:00:41.05,0:00:41.11,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:41.11,0:00:41.47,Default,,0,0,0,,più utile, avrete molto più skills e è anche più {\1c&HFF00&\u1}vendibile{\r} nel mondo del
+Dialogue: 0,0:00:41.47,0:00:41.51,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:41.51,0:00:41.63,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile {\1c&HFF00&\u1}nel{\r} mondo del
+Dialogue: 0,0:00:41.63,0:00:41.65,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:41.65,0:00:41.81,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel {\1c&HFF00&\u1}mondo{\r} del
+Dialogue: 0,0:00:41.81,0:00:41.85,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo del
+Dialogue: 0,0:00:41.85,0:00:41.93,Default,,0,0,0,,più utile, avrete molto più skills e è anche più vendibile nel mondo {\1c&HFF00&\u1}del{\r}
+Dialogue: 0,0:00:42.50,0:00:42.56,Default,,0,0,0,,{\1c&HFF00&\u1}In{\r} generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:42.56,0:00:42.60,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:42.60,0:00:43.03,Default,,0,0,0,,In {\1c&HFF00&\u1}generale{\r} l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:43.03,0:00:43.19,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:43.19,0:00:43.81,Default,,0,0,0,,In generale {\1c&HFF00&\u1}l'esperienza{\r} in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:43.81,0:00:43.95,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:43.95,0:00:44.01,Default,,0,0,0,,In generale l'esperienza {\1c&HFF00&\u1}in{\r} qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:44.01,0:00:44.03,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:44.03,0:00:44.41,Default,,0,0,0,,In generale l'esperienza in {\1c&HFF00&\u1}qualsiasi{\r} curriculum è sempre buona cosa.
+Dialogue: 0,0:00:44.41,0:00:44.47,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:44.47,0:00:44.94,Default,,0,0,0,,In generale l'esperienza in qualsiasi {\1c&HFF00&\u1}curriculum{\r} è sempre buona cosa.
+Dialogue: 0,0:00:44.94,0:00:45.08,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:45.08,0:00:45.12,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum {\1c&HFF00&\u1}è{\r} sempre buona cosa.
+Dialogue: 0,0:00:45.12,0:00:45.22,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:45.22,0:00:45.52,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è {\1c&HFF00&\u1}sempre{\r} buona cosa.
+Dialogue: 0,0:00:45.52,0:00:45.64,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:45.64,0:00:45.84,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre {\1c&HFF00&\u1}buona{\r} cosa.
+Dialogue: 0,0:00:45.84,0:00:45.88,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona cosa.
+Dialogue: 0,0:00:45.88,0:00:45.98,Default,,0,0,0,,In generale l'esperienza in qualsiasi curriculum è sempre buona {\1c&HFF00&\u1}cosa.{\r}

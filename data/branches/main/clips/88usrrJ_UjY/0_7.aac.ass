@@ -1,0 +1,184 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.34,0:00:0.40,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:0.40,0:00:0.44,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:0.44,0:00:0.66,Default,,0,0,0,,in {\1c&HFF00&\u1}testa{\r} il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:0.66,0:00:0.84,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:0.84,0:00:0.90,Default,,0,0,0,,in testa {\1c&HFF00&\u1}il{\r} numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:0.90,0:00:0.96,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:0.96,0:00:1.18,Default,,0,0,0,,in testa il {\1c&HFF00&\u1}numero{\r} di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.18,0:00:1.22,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.22,0:00:1.28,Default,,0,0,0,,in testa il numero {\1c&HFF00&\u1}di{\r} ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.28,0:00:1.34,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.34,0:00:1.56,Default,,0,0,0,,in testa il numero di {\1c&HFF00&\u1}ore{\r} o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.56,0:00:1.58,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.58,0:00:1.60,Default,,0,0,0,,in testa il numero di ore {\1c&HFF00&\u1}o{\r} il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.60,0:00:1.64,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.64,0:00:1.69,Default,,0,0,0,,in testa il numero di ore o {\1c&HFF00&\u1}il{\r} numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.69,0:00:1.73,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.73,0:00:1.93,Default,,0,0,0,,in testa il numero di ore o il {\1c&HFF00&\u1}numero{\r} di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.93,0:00:1.97,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:1.97,0:00:2.03,Default,,0,0,0,,in testa il numero di ore o il numero {\1c&HFF00&\u1}di{\r} giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:2.03,0:00:2.07,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:2.07,0:00:2.41,Default,,0,0,0,,in testa il numero di ore o il numero di {\1c&HFF00&\u1}giorni{\r} conta davvero poco se poi l'esito
+Dialogue: 0,0:00:2.41,0:00:2.57,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:2.57,0:00:2.89,Default,,0,0,0,,in testa il numero di ore o il numero di giorni {\1c&HFF00&\u1}conta{\r} davvero poco se poi l'esito
+Dialogue: 0,0:00:2.89,0:00:2.97,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:2.97,0:00:3.39,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta {\1c&HFF00&\u1}davvero{\r} poco se poi l'esito
+Dialogue: 0,0:00:3.39,0:00:3.53,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:3.53,0:00:3.87,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero {\1c&HFF00&\u1}poco{\r} se poi l'esito
+Dialogue: 0,0:00:3.87,0:00:4.01,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:4.01,0:00:4.09,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco {\1c&HFF00&\u1}se{\r} poi l'esito
+Dialogue: 0,0:00:4.09,0:00:4.15,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:4.15,0:00:4.35,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se {\1c&HFF00&\u1}poi{\r} l'esito
+Dialogue: 0,0:00:4.35,0:00:4.51,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi l'esito
+Dialogue: 0,0:00:4.51,0:00:4.75,Default,,0,0,0,,in testa il numero di ore o il numero di giorni conta davvero poco se poi {\1c&HFF00&\u1}l'esito{\r}
+Dialogue: 0,0:00:4.84,0:00:5.26,Default,,0,0,0,,{\1c&HFF00&\u1}dell'esame{\r} non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.26,0:00:5.30,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.30,0:00:5.38,Default,,0,0,0,,dell'esame {\1c&HFF00&\u1}non{\r} è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.38,0:00:5.44,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.44,0:00:5.48,Default,,0,0,0,,dell'esame non {\1c&HFF00&\u1}è{\r} quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.48,0:00:5.50,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.50,0:00:5.68,Default,,0,0,0,,dell'esame non è {\1c&HFF00&\u1}quello{\r} che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.68,0:00:5.72,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.72,0:00:5.78,Default,,0,0,0,,dell'esame non è quello {\1c&HFF00&\u1}che{\r} desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.78,0:00:5.82,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:5.82,0:00:6.49,Default,,0,0,0,,dell'esame non è quello che {\1c&HFF00&\u1}desiderate{\r} se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:6.49,0:00:6.51,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:6.51,0:00:6.57,Default,,0,0,0,,dell'esame non è quello che desiderate {\1c&HFF00&\u1}se{\r} non riuscite a venire a capo a questo
+Dialogue: 0,0:00:6.57,0:00:6.59,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:6.59,0:00:6.67,Default,,0,0,0,,dell'esame non è quello che desiderate se {\1c&HFF00&\u1}non{\r} riuscite a venire a capo a questo
+Dialogue: 0,0:00:6.67,0:00:6.69,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:6.69,0:00:6.93,Default,,0,0,0,,dell'esame non è quello che desiderate se non {\1c&HFF00&\u1}riuscite{\r} a venire a capo a questo
+Dialogue: 0,0:00:6.93,0:00:6.95,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:6.95,0:00:6.97,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite {\1c&HFF00&\u1}a{\r} venire a capo a questo
+Dialogue: 0,0:00:6.97,0:00:7.01,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:7.01,0:00:7.21,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a {\1c&HFF00&\u1}venire{\r} a capo a questo
+Dialogue: 0,0:00:7.21,0:00:7.23,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:7.23,0:00:7.25,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire {\1c&HFF00&\u1}a{\r} capo a questo
+Dialogue: 0,0:00:7.25,0:00:7.29,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:7.29,0:00:7.49,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a {\1c&HFF00&\u1}capo{\r} a questo
+Dialogue: 0,0:00:7.49,0:00:7.51,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:7.51,0:00:7.53,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo {\1c&HFF00&\u1}a{\r} questo
+Dialogue: 0,0:00:7.53,0:00:7.59,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a questo
+Dialogue: 0,0:00:7.59,0:00:7.75,Default,,0,0,0,,dell'esame non è quello che desiderate se non riuscite a venire a capo a {\1c&HFF00&\u1}questo{\r}
+Dialogue: 0,0:00:7.90,0:00:8.28,Default,,0,0,0,,{\1c&HFF00&\u1}problema{\r} molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:8.28,0:00:8.30,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:8.30,0:00:8.48,Default,,0,0,0,,problema {\1c&HFF00&\u1}molto{\r} probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:8.48,0:00:8.50,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:8.50,0:00:9.02,Default,,0,0,0,,problema molto {\1c&HFF00&\u1}probabilmente{\r} il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:9.02,0:00:9.15,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:9.15,0:00:9.23,Default,,0,0,0,,problema molto probabilmente {\1c&HFF00&\u1}il{\r} vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:9.23,0:00:9.27,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:9.27,0:00:9.49,Default,,0,0,0,,problema molto probabilmente il {\1c&HFF00&\u1}vostro{\r} problema è il metodo fatemi questa
+Dialogue: 0,0:00:9.49,0:00:9.53,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:9.53,0:00:9.87,Default,,0,0,0,,problema molto probabilmente il vostro {\1c&HFF00&\u1}problema{\r} è il metodo fatemi questa
+Dialogue: 0,0:00:9.87,0:00:9.99,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:9.99,0:00:10.03,Default,,0,0,0,,problema molto probabilmente il vostro problema {\1c&HFF00&\u1}è{\r} il metodo fatemi questa
+Dialogue: 0,0:00:10.03,0:00:10.21,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:10.21,0:00:10.29,Default,,0,0,0,,problema molto probabilmente il vostro problema è {\1c&HFF00&\u1}il{\r} metodo fatemi questa
+Dialogue: 0,0:00:10.29,0:00:10.33,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:10.33,0:00:10.63,Default,,0,0,0,,problema molto probabilmente il vostro problema è il {\1c&HFF00&\u1}metodo{\r} fatemi questa
+Dialogue: 0,0:00:10.63,0:00:10.91,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:10.91,0:00:11.17,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo {\1c&HFF00&\u1}fatemi{\r} questa
+Dialogue: 0,0:00:11.17,0:00:11.21,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi questa
+Dialogue: 0,0:00:11.21,0:00:11.37,Default,,0,0,0,,problema molto probabilmente il vostro problema è il metodo fatemi {\1c&HFF00&\u1}questa{\r}
+Dialogue: 0,0:00:11.48,0:00:12.04,Default,,0,0,0,,{\1c&HFF00&\u1}domanda{\r} ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.04,0:00:12.08,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.08,0:00:12.14,Default,,0,0,0,,domanda {\1c&HFF00&\u1}ho{\r} sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.14,0:00:12.18,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.18,0:00:12.42,Default,,0,0,0,,domanda ho {\1c&HFF00&\u1}sempre{\r} lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.42,0:00:12.48,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.48,0:00:12.52,Default,,0,0,0,,domanda ho sempre {\1c&HFF00&\u1}lo{\r} stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.52,0:00:12.56,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.56,0:00:12.78,Default,,0,0,0,,domanda ho sempre lo {\1c&HFF00&\u1}stesso{\r} metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.78,0:00:12.82,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:12.82,0:00:13.09,Default,,0,0,0,,domanda ho sempre lo stesso {\1c&HFF00&\u1}metodo{\r} e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:13.09,0:00:13.25,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:13.25,0:00:13.33,Default,,0,0,0,,domanda ho sempre lo stesso metodo {\1c&HFF00&\u1}e{\r} gli esami vanno sempre male forse il
+Dialogue: 0,0:00:13.33,0:00:13.53,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:13.53,0:00:13.63,Default,,0,0,0,,domanda ho sempre lo stesso metodo e {\1c&HFF00&\u1}gli{\r} esami vanno sempre male forse il
+Dialogue: 0,0:00:13.63,0:00:13.65,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:13.65,0:00:13.87,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli {\1c&HFF00&\u1}esami{\r} vanno sempre male forse il
+Dialogue: 0,0:00:13.87,0:00:13.89,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:13.89,0:00:14.03,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami {\1c&HFF00&\u1}vanno{\r} sempre male forse il
+Dialogue: 0,0:00:14.03,0:00:14.07,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:14.07,0:00:14.29,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno {\1c&HFF00&\u1}sempre{\r} male forse il
+Dialogue: 0,0:00:14.29,0:00:14.33,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:14.33,0:00:14.63,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre {\1c&HFF00&\u1}male{\r} forse il
+Dialogue: 0,0:00:14.63,0:00:15.09,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:15.09,0:00:15.29,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male {\1c&HFF00&\u1}forse{\r} il
+Dialogue: 0,0:00:15.29,0:00:15.33,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse il
+Dialogue: 0,0:00:15.33,0:00:15.37,Default,,0,0,0,,domanda ho sempre lo stesso metodo e gli esami vanno sempre male forse {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:15.36,0:00:15.52,Default,,0,0,0,,{\1c&HFF00&\u1}problema{\r} non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.52,0:00:15.54,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.54,0:00:15.60,Default,,0,0,0,,problema {\1c&HFF00&\u1}non{\r} sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.60,0:00:15.62,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.62,0:00:15.70,Default,,0,0,0,,problema non {\1c&HFF00&\u1}sono{\r} io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.70,0:00:15.72,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.72,0:00:15.76,Default,,0,0,0,,problema non sono {\1c&HFF00&\u1}io{\r} ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.76,0:00:15.78,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.78,0:00:15.82,Default,,0,0,0,,problema non sono io {\1c&HFF00&\u1}ma{\r} il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.82,0:00:15.84,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.84,0:00:15.88,Default,,0,0,0,,problema non sono io ma {\1c&HFF00&\u1}il{\r} metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.88,0:00:15.90,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:15.90,0:00:16.02,Default,,0,0,0,,problema non sono io ma il {\1c&HFF00&\u1}metodo{\r} lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.02,0:00:16.04,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.04,0:00:16.10,Default,,0,0,0,,problema non sono io ma il metodo {\1c&HFF00&\u1}lui{\r} mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.10,0:00:16.12,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.12,0:00:16.16,Default,,0,0,0,,problema non sono io ma il metodo lui {\1c&HFF00&\u1}mi{\r} conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.16,0:00:16.18,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.18,0:00:16.36,Default,,0,0,0,,problema non sono io ma il metodo lui mi {\1c&HFF00&\u1}conseglie{\r} anche un libro da leggere
+Dialogue: 0,0:00:16.36,0:00:16.38,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.38,0:00:16.48,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie {\1c&HFF00&\u1}anche{\r} un libro da leggere
+Dialogue: 0,0:00:16.48,0:00:16.50,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.50,0:00:16.54,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche {\1c&HFF00&\u1}un{\r} libro da leggere
+Dialogue: 0,0:00:16.54,0:00:16.56,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.56,0:00:16.66,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un {\1c&HFF00&\u1}libro{\r} da leggere
+Dialogue: 0,0:00:16.66,0:00:16.68,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.68,0:00:16.72,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro {\1c&HFF00&\u1}da{\r} leggere
+Dialogue: 0,0:00:16.72,0:00:16.75,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da leggere
+Dialogue: 0,0:00:16.75,0:00:16.89,Default,,0,0,0,,problema non sono io ma il metodo lui mi conseglie anche un libro da {\1c&HFF00&\u1}leggere{\r}
+Dialogue: 0,0:00:19.40,0:00:19.70,Default,,0,0,0,,{\1c&HFF00&\u1}pragmat{\r} thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:19.70,0:00:19.92,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:19.92,0:00:20.31,Default,,0,0,0,,pragmat {\1c&HFF00&\u1}thinking{\r} and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:20.31,0:00:20.41,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:20.41,0:00:20.49,Default,,0,0,0,,pragmat thinking {\1c&HFF00&\u1}and{\r} learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:20.49,0:00:20.55,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:20.55,0:00:20.97,Default,,0,0,0,,pragmat thinking and {\1c&HFF00&\u1}learning{\r} che se siete interessati vi lascio in
+Dialogue: 0,0:00:20.97,0:00:21.21,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:21.21,0:00:21.29,Default,,0,0,0,,pragmat thinking and learning {\1c&HFF00&\u1}che{\r} se siete interessati vi lascio in
+Dialogue: 0,0:00:21.29,0:00:21.41,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:21.41,0:00:21.49,Default,,0,0,0,,pragmat thinking and learning che {\1c&HFF00&\u1}se{\r} siete interessati vi lascio in
+Dialogue: 0,0:00:21.49,0:00:21.51,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:21.51,0:00:21.67,Default,,0,0,0,,pragmat thinking and learning che se {\1c&HFF00&\u1}siete{\r} interessati vi lascio in
+Dialogue: 0,0:00:21.67,0:00:21.69,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:21.69,0:00:22.23,Default,,0,0,0,,pragmat thinking and learning che se siete {\1c&HFF00&\u1}interessati{\r} vi lascio in
+Dialogue: 0,0:00:22.23,0:00:22.35,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:22.35,0:00:22.41,Default,,0,0,0,,pragmat thinking and learning che se siete interessati {\1c&HFF00&\u1}vi{\r} lascio in
+Dialogue: 0,0:00:22.41,0:00:22.45,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:22.45,0:00:22.63,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi {\1c&HFF00&\u1}lascio{\r} in
+Dialogue: 0,0:00:22.63,0:00:22.67,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio in
+Dialogue: 0,0:00:22.67,0:00:22.71,Default,,0,0,0,,pragmat thinking and learning che se siete interessati vi lascio {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:22.82,0:00:23.33,Default,,0,0,0,,{\1c&HFF00&\u1}descrizione{\r} con i link di Amazon.
+Dialogue: 0,0:00:23.33,0:00:23.41,Default,,0,0,0,,descrizione con i link di Amazon.
+Dialogue: 0,0:00:23.41,0:00:23.49,Default,,0,0,0,,descrizione {\1c&HFF00&\u1}con{\r} i link di Amazon.
+Dialogue: 0,0:00:23.49,0:00:23.51,Default,,0,0,0,,descrizione con i link di Amazon.
+Dialogue: 0,0:00:23.51,0:00:23.55,Default,,0,0,0,,descrizione con {\1c&HFF00&\u1}i{\r} link di Amazon.
+Dialogue: 0,0:00:23.55,0:00:23.59,Default,,0,0,0,,descrizione con i link di Amazon.
+Dialogue: 0,0:00:23.59,0:00:23.73,Default,,0,0,0,,descrizione con i {\1c&HFF00&\u1}link{\r} di Amazon.
+Dialogue: 0,0:00:23.73,0:00:23.77,Default,,0,0,0,,descrizione con i link di Amazon.
+Dialogue: 0,0:00:23.77,0:00:23.83,Default,,0,0,0,,descrizione con i link {\1c&HFF00&\u1}di{\r} Amazon.
+Dialogue: 0,0:00:23.83,0:00:23.85,Default,,0,0,0,,descrizione con i link di Amazon.
+Dialogue: 0,0:00:23.85,0:00:24.12,Default,,0,0,0,,descrizione con i link di {\1c&HFF00&\u1}Amazon.{\r}

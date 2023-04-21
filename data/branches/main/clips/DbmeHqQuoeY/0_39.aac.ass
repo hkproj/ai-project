@@ -1,0 +1,65 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.24,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.24,0:00:0.30,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.30,0:00:0.38,Default,,0,0,0,,a {\1c&HFF00&\u1}me{\r} piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.40,0:00:0.60,Default,,0,0,0,,a me {\1c&HFF00&\u1}piace{\r} fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.60,0:00:0.64,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.64,0:00:0.78,Default,,0,0,0,,a me piace {\1c&HFF00&\u1}fare{\r} attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:0.82,0:00:1.16,Default,,0,0,0,,a me piace fare {\1c&HFF00&\u1}attività{\r} a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.16,0:00:1.18,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.18,0:00:1.20,Default,,0,0,0,,a me piace fare attività {\1c&HFF00&\u1}a{\r} casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.20,0:00:1.32,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.32,0:00:1.62,Default,,0,0,0,,a me piace fare attività a {\1c&HFF00&\u1}casa{\r} e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.62,0:00:1.82,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.82,0:00:1.85,Default,,0,0,0,,a me piace fare attività a casa {\1c&HFF00&\u1}e{\r} all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.85,0:00:1.91,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:1.91,0:00:2.53,Default,,0,0,0,,a me piace fare attività a casa e {\1c&HFF00&\u1}all'aperto,{\r} non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:2.53,0:00:3.15,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:3.15,0:00:3.25,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, {\1c&HFF00&\u1}non{\r} ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:3.25,0:00:3.29,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:3.29,0:00:3.37,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non {\1c&HFF00&\u1}ho{\r} un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:3.37,0:00:3.43,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:3.43,0:00:3.51,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho {\1c&HFF00&\u1}un{\r} abbonamento alla palestra, ho a
+Dialogue: 0,0:00:3.51,0:00:3.53,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:3.53,0:00:4.03,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un {\1c&HFF00&\u1}abbonamento{\r} alla palestra, ho a
+Dialogue: 0,0:00:4.03,0:00:4.07,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:4.07,0:00:4.21,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento {\1c&HFF00&\u1}alla{\r} palestra, ho a
+Dialogue: 0,0:00:4.21,0:00:4.27,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:4.27,0:00:4.83,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla {\1c&HFF00&\u1}palestra,{\r} ho a
+Dialogue: 0,0:00:4.83,0:00:5.21,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:5.21,0:00:5.27,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, {\1c&HFF00&\u1}ho{\r} a
+Dialogue: 0,0:00:5.27,0:00:5.31,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho a
+Dialogue: 0,0:00:5.31,0:00:5.33,Default,,0,0,0,,a me piace fare attività a casa e all'aperto, non ho un abbonamento alla palestra, ho {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:5.64,0:00:5.94,Default,,0,0,0,,{\1c&HFF00&\u1}casa{\r} dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:5.94,0:00:6.44,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:6.44,0:00:6.56,Default,,0,0,0,,casa {\1c&HFF00&\u1}dei{\r} pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:6.56,0:00:6.62,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:6.62,0:00:7.00,Default,,0,0,0,,casa dei {\1c&HFF00&\u1}pesi,{\r} degli elastici e una corda per saltare.
+Dialogue: 0,0:00:7.00,0:00:7.28,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:7.28,0:00:7.44,Default,,0,0,0,,casa dei pesi, {\1c&HFF00&\u1}degli{\r} elastici e una corda per saltare.
+Dialogue: 0,0:00:7.44,0:00:7.46,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:7.46,0:00:8.06,Default,,0,0,0,,casa dei pesi, degli {\1c&HFF00&\u1}elastici{\r} e una corda per saltare.
+Dialogue: 0,0:00:8.06,0:00:8.26,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:8.26,0:00:8.32,Default,,0,0,0,,casa dei pesi, degli elastici {\1c&HFF00&\u1}e{\r} una corda per saltare.
+Dialogue: 0,0:00:8.32,0:00:8.38,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:8.38,0:00:8.58,Default,,0,0,0,,casa dei pesi, degli elastici e {\1c&HFF00&\u1}una{\r} corda per saltare.
+Dialogue: 0,0:00:8.58,0:00:8.70,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:8.70,0:00:8.96,Default,,0,0,0,,casa dei pesi, degli elastici e una {\1c&HFF00&\u1}corda{\r} per saltare.
+Dialogue: 0,0:00:8.96,0:00:9.00,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:9.00,0:00:9.10,Default,,0,0,0,,casa dei pesi, degli elastici e una corda {\1c&HFF00&\u1}per{\r} saltare.
+Dialogue: 0,0:00:9.10,0:00:9.16,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per saltare.
+Dialogue: 0,0:00:9.16,0:00:9.56,Default,,0,0,0,,casa dei pesi, degli elastici e una corda per {\1c&HFF00&\u1}saltare.{\r}

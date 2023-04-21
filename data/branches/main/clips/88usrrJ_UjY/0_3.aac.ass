@@ -1,0 +1,63 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}Ammetto{\r} i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:0.48,0:00:0.52,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:0.52,0:00:0.58,Default,,0,0,0,,Ammetto {\1c&HFF00&\u1}i{\r} consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:0.58,0:00:0.62,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:0.62,0:00:0.92,Default,,0,0,0,,Ammetto i {\1c&HFF00&\u1}consigli{\r} che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:0.92,0:00:0.96,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:0.96,0:00:1.06,Default,,0,0,0,,Ammetto i consigli {\1c&HFF00&\u1}che{\r} mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.06,0:00:1.12,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.12,0:00:1.16,Default,,0,0,0,,Ammetto i consigli che {\1c&HFF00&\u1}mi{\r} hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.16,0:00:1.18,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.18,0:00:1.33,Default,,0,0,0,,Ammetto i consigli che mi {\1c&HFF00&\u1}hanno{\r} dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.33,0:00:1.35,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.35,0:00:1.47,Default,,0,0,0,,Ammetto i consigli che mi hanno {\1c&HFF00&\u1}dato{\r} i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.47,0:00:1.49,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.49,0:00:1.51,Default,,0,0,0,,Ammetto i consigli che mi hanno dato {\1c&HFF00&\u1}i{\r} miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.51,0:00:1.53,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.53,0:00:1.61,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i {\1c&HFF00&\u1}miei{\r} amici che hanno finito l'università,
+Dialogue: 0,0:00:1.61,0:00:1.63,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.63,0:00:1.89,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei {\1c&HFF00&\u1}amici{\r} che hanno finito l'università,
+Dialogue: 0,0:00:1.89,0:00:1.95,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:1.95,0:00:2.07,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici {\1c&HFF00&\u1}che{\r} hanno finito l'università,
+Dialogue: 0,0:00:2.07,0:00:2.19,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:2.19,0:00:2.39,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che {\1c&HFF00&\u1}hanno{\r} finito l'università,
+Dialogue: 0,0:00:2.39,0:00:2.43,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:2.43,0:00:2.67,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno {\1c&HFF00&\u1}finito{\r} l'università,
+Dialogue: 0,0:00:2.67,0:00:2.71,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito l'università,
+Dialogue: 0,0:00:2.71,0:00:3.19,Default,,0,0,0,,Ammetto i consigli che mi hanno dato i miei amici che hanno finito {\1c&HFF00&\u1}l'università,{\r}
+Dialogue: 0,0:00:3.40,0:00:3.44,Default,,0,0,0,,{\1c&HFF00&\u1}mi{\r} hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:3.44,0:00:3.46,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:3.46,0:00:3.60,Default,,0,0,0,,mi {\1c&HFF00&\u1}hanno{\r} davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:3.60,0:00:3.64,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:3.64,0:00:3.86,Default,,0,0,0,,mi hanno {\1c&HFF00&\u1}davvero{\r} sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:3.86,0:00:3.92,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:3.92,0:00:4.33,Default,,0,0,0,,mi hanno davvero {\1c&HFF00&\u1}sorpreso,{\r} infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:4.33,0:00:4.39,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:4.39,0:00:4.61,Default,,0,0,0,,mi hanno davvero sorpreso, {\1c&HFF00&\u1}infatti{\r} ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:4.61,0:00:4.65,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:4.65,0:00:4.73,Default,,0,0,0,,mi hanno davvero sorpreso, infatti {\1c&HFF00&\u1}ad{\r} alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:4.73,0:00:4.75,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:4.75,0:00:5.07,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad {\1c&HFF00&\u1}alcuni{\r} non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:5.07,0:00:5.13,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:5.13,0:00:5.21,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni {\1c&HFF00&\u1}non{\r} ci avevo nemmeno pensato.
+Dialogue: 0,0:00:5.21,0:00:5.23,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:5.23,0:00:5.29,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non {\1c&HFF00&\u1}ci{\r} avevo nemmeno pensato.
+Dialogue: 0,0:00:5.29,0:00:5.31,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:5.31,0:00:5.53,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci {\1c&HFF00&\u1}avevo{\r} nemmeno pensato.
+Dialogue: 0,0:00:5.53,0:00:5.57,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:5.57,0:00:5.81,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo {\1c&HFF00&\u1}nemmeno{\r} pensato.
+Dialogue: 0,0:00:5.81,0:00:5.85,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno pensato.
+Dialogue: 0,0:00:5.85,0:00:6.28,Default,,0,0,0,,mi hanno davvero sorpreso, infatti ad alcuni non ci avevo nemmeno {\1c&HFF00&\u1}pensato.{\r}

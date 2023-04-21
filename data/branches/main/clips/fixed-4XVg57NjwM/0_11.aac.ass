@@ -1,0 +1,122 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.40,0:00:0.64,Default,,0,0,0,,{\1c&HFF00&\u1}Sofía{\r} e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:0.64,0:00:0.78,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,Sofía {\1c&HFF00&\u1}e{\r} Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:0.88,0:00:1.30,Default,,0,0,0,,Sofía e {\1c&HFF00&\u1}Luigi{\r} sono qui, il mare è lontano
+Dialogue: 0,0:00:1.30,0:00:1.69,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:1.69,0:00:1.89,Default,,0,0,0,,Sofía e Luigi {\1c&HFF00&\u1}sono{\r} qui, il mare è lontano
+Dialogue: 0,0:00:1.89,0:00:2.01,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:2.01,0:00:2.21,Default,,0,0,0,,Sofía e Luigi sono {\1c&HFF00&\u1}qui,{\r} il mare è lontano
+Dialogue: 0,0:00:2.21,0:00:2.93,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:2.93,0:00:3.03,Default,,0,0,0,,Sofía e Luigi sono qui, {\1c&HFF00&\u1}il{\r} mare è lontano
+Dialogue: 0,0:00:3.03,0:00:3.11,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:3.11,0:00:3.45,Default,,0,0,0,,Sofía e Luigi sono qui, il {\1c&HFF00&\u1}mare{\r} è lontano
+Dialogue: 0,0:00:3.45,0:00:3.63,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:3.63,0:00:3.73,Default,,0,0,0,,Sofía e Luigi sono qui, il mare {\1c&HFF00&\u1}è{\r} lontano
+Dialogue: 0,0:00:3.73,0:00:3.99,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è lontano
+Dialogue: 0,0:00:3.99,0:00:4.57,Default,,0,0,0,,Sofía e Luigi sono qui, il mare è {\1c&HFF00&\u1}lontano{\r}
+Dialogue: 0,0:00:7.31,0:00:7.37,Default,,0,0,0,,{\1c&HFF00&\u1}Da{\r} entrambi
+Dialogue: 0,0:00:7.37,0:00:7.41,Default,,0,0,0,,Da entrambi
+Dialogue: 0,0:00:7.41,0:00:7.91,Default,,0,0,0,,Da {\1c&HFF00&\u1}entrambi{\r}
+Dialogue: 0,0:00:9.12,0:00:9.48,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi{\r} il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:9.48,0:00:9.74,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:9.74,0:00:9.84,Default,,0,0,0,,Quindi {\1c&HFF00&\u1}il{\r} verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:9.84,0:00:9.90,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:9.90,0:00:10.20,Default,,0,0,0,,Quindi il {\1c&HFF00&\u1}verbo{\r} andare si usa per parlare di un movimento
+Dialogue: 0,0:00:10.20,0:00:10.24,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:10.24,0:00:10.69,Default,,0,0,0,,Quindi il verbo {\1c&HFF00&\u1}andare{\r} si usa per parlare di un movimento
+Dialogue: 0,0:00:10.69,0:00:10.87,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:10.87,0:00:10.99,Default,,0,0,0,,Quindi il verbo andare {\1c&HFF00&\u1}si{\r} usa per parlare di un movimento
+Dialogue: 0,0:00:10.99,0:00:11.09,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:11.09,0:00:11.33,Default,,0,0,0,,Quindi il verbo andare si {\1c&HFF00&\u1}usa{\r} per parlare di un movimento
+Dialogue: 0,0:00:11.33,0:00:11.51,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:11.51,0:00:11.65,Default,,0,0,0,,Quindi il verbo andare si usa {\1c&HFF00&\u1}per{\r} parlare di un movimento
+Dialogue: 0,0:00:11.65,0:00:11.77,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:11.77,0:00:12.31,Default,,0,0,0,,Quindi il verbo andare si usa per {\1c&HFF00&\u1}parlare{\r} di un movimento
+Dialogue: 0,0:00:12.31,0:00:12.43,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:12.43,0:00:12.53,Default,,0,0,0,,Quindi il verbo andare si usa per parlare {\1c&HFF00&\u1}di{\r} un movimento
+Dialogue: 0,0:00:12.53,0:00:12.57,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:12.57,0:00:12.69,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di {\1c&HFF00&\u1}un{\r} movimento
+Dialogue: 0,0:00:12.69,0:00:12.81,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un movimento
+Dialogue: 0,0:00:12.81,0:00:13.52,Default,,0,0,0,,Quindi il verbo andare si usa per parlare di un {\1c&HFF00&\u1}movimento{\r}
+Dialogue: 0,0:00:13.90,0:00:14.18,Default,,0,0,0,,{\1c&HFF00&\u1}verso{\r} un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:14.18,0:00:14.26,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:14.26,0:00:14.36,Default,,0,0,0,,verso {\1c&HFF00&\u1}un{\r} luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:14.36,0:00:14.42,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:14.42,0:00:14.77,Default,,0,0,0,,verso un {\1c&HFF00&\u1}luogo{\r} lontano da tutte le persone che parlano
+Dialogue: 0,0:00:14.77,0:00:15.11,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:15.11,0:00:15.73,Default,,0,0,0,,verso un luogo {\1c&HFF00&\u1}lontano{\r} da tutte le persone che parlano
+Dialogue: 0,0:00:15.73,0:00:15.91,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:15.91,0:00:16.01,Default,,0,0,0,,verso un luogo lontano {\1c&HFF00&\u1}da{\r} tutte le persone che parlano
+Dialogue: 0,0:00:16.01,0:00:16.19,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:16.19,0:00:16.55,Default,,0,0,0,,verso un luogo lontano da {\1c&HFF00&\u1}tutte{\r} le persone che parlano
+Dialogue: 0,0:00:16.55,0:00:16.61,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:16.61,0:00:16.69,Default,,0,0,0,,verso un luogo lontano da tutte {\1c&HFF00&\u1}le{\r} persone che parlano
+Dialogue: 0,0:00:16.69,0:00:16.75,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:16.75,0:00:17.27,Default,,0,0,0,,verso un luogo lontano da tutte le {\1c&HFF00&\u1}persone{\r} che parlano
+Dialogue: 0,0:00:17.27,0:00:17.35,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:17.35,0:00:17.45,Default,,0,0,0,,verso un luogo lontano da tutte le persone {\1c&HFF00&\u1}che{\r} parlano
+Dialogue: 0,0:00:17.45,0:00:17.53,Default,,0,0,0,,verso un luogo lontano da tutte le persone che parlano
+Dialogue: 0,0:00:17.53,0:00:18.03,Default,,0,0,0,,verso un luogo lontano da tutte le persone che {\1c&HFF00&\u1}parlano{\r}
+Dialogue: 0,0:00:18.94,0:00:19.44,Default,,0,0,0,,{\1c&HFF00&\u1}Nessuna{\r} delle persone è in quel luogo
+Dialogue: 0,0:00:19.44,0:00:19.59,Default,,0,0,0,,Nessuna delle persone è in quel luogo
+Dialogue: 0,0:00:19.59,0:00:19.85,Default,,0,0,0,,Nessuna {\1c&HFF00&\u1}delle{\r} persone è in quel luogo
+Dialogue: 0,0:00:19.85,0:00:19.91,Default,,0,0,0,,Nessuna delle persone è in quel luogo
+Dialogue: 0,0:00:19.91,0:00:20.41,Default,,0,0,0,,Nessuna delle {\1c&HFF00&\u1}persone{\r} è in quel luogo
+Dialogue: 0,0:00:20.41,0:00:20.61,Default,,0,0,0,,Nessuna delle persone è in quel luogo
+Dialogue: 0,0:00:20.61,0:00:20.73,Default,,0,0,0,,Nessuna delle persone {\1c&HFF00&\u1}è{\r} in quel luogo
+Dialogue: 0,0:00:20.73,0:00:21.55,Default,,0,0,0,,Nessuna delle persone è in quel luogo
+Dialogue: 0,0:00:21.55,0:00:21.63,Default,,0,0,0,,Nessuna delle persone è {\1c&HFF00&\u1}in{\r} quel luogo
+Dialogue: 0,0:00:21.63,0:00:21.69,Default,,0,0,0,,Nessuna delle persone è in quel luogo
+Dialogue: 0,0:00:21.69,0:00:21.83,Default,,0,0,0,,Nessuna delle persone è in {\1c&HFF00&\u1}quel{\r} luogo
+Dialogue: 0,0:00:21.83,0:00:21.87,Default,,0,0,0,,Nessuna delle persone è in quel luogo
+Dialogue: 0,0:00:21.87,0:00:22.13,Default,,0,0,0,,Nessuna delle persone è in quel {\1c&HFF00&\u1}luogo{\r}
+Dialogue: 0,0:00:23.77,0:00:24.17,Default,,0,0,0,,{\1c&HFF00&\u1}Luigi{\r} andiamo al mare
+Dialogue: 0,0:00:24.17,0:00:24.57,Default,,0,0,0,,Luigi andiamo al mare
+Dialogue: 0,0:00:24.57,0:00:25.07,Default,,0,0,0,,Luigi {\1c&HFF00&\u1}andiamo{\r} al mare
+Dialogue: 0,0:00:25.07,0:00:25.13,Default,,0,0,0,,Luigi andiamo al mare
+Dialogue: 0,0:00:25.13,0:00:25.25,Default,,0,0,0,,Luigi andiamo {\1c&HFF00&\u1}al{\r} mare
+Dialogue: 0,0:00:25.25,0:00:25.33,Default,,0,0,0,,Luigi andiamo al mare
+Dialogue: 0,0:00:25.33,0:00:25.65,Default,,0,0,0,,Luigi andiamo al {\1c&HFF00&\u1}mare{\r}
+Dialogue: 0,0:00:27.20,0:00:27.30,Default,,0,0,0,,{\1c&HFF00&\u1}Il{\r} mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:27.30,0:00:27.34,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:27.34,0:00:27.62,Default,,0,0,0,,Il {\1c&HFF00&\u1}mare{\r} è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:27.62,0:00:27.78,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:27.78,0:00:27.82,Default,,0,0,0,,Il mare {\1c&HFF00&\u1}è{\r} là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:27.82,0:00:28.04,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:28.04,0:00:28.19,Default,,0,0,0,,Il mare è {\1c&HFF00&\u1}là.{\r} Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:28.19,0:00:28.69,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:28.69,0:00:29.05,Default,,0,0,0,,Il mare è là. {\1c&HFF00&\u1}Luigi{\r} e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:29.05,0:00:29.21,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:29.21,0:00:29.25,Default,,0,0,0,,Il mare è là. Luigi {\1c&HFF00&\u1}e{\r} Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:29.25,0:00:29.31,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:29.31,0:00:29.71,Default,,0,0,0,,Il mare è là. Luigi e {\1c&HFF00&\u1}Sofia{\r} non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:29.71,0:00:30.07,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:30.07,0:00:30.25,Default,,0,0,0,,Il mare è là. Luigi e Sofia {\1c&HFF00&\u1}non{\r} sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:30.25,0:00:30.39,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:30.39,0:00:30.67,Default,,0,0,0,,Il mare è là. Luigi e Sofia non {\1c&HFF00&\u1}sono{\r} al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:30.67,0:00:30.83,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:30.83,0:00:30.93,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono {\1c&HFF00&\u1}al{\r} mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:30.93,0:00:30.99,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:30.99,0:00:31.29,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al {\1c&HFF00&\u1}mare.{\r} Vediamo degli altri esempi.
+Dialogue: 0,0:00:31.29,0:00:33.52,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:33.52,0:00:33.96,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. {\1c&HFF00&\u1}Vediamo{\r} degli altri esempi.
+Dialogue: 0,0:00:33.96,0:00:34.14,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:34.14,0:00:34.36,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo {\1c&HFF00&\u1}degli{\r} altri esempi.
+Dialogue: 0,0:00:34.36,0:00:34.38,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:34.38,0:00:34.62,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli {\1c&HFF00&\u1}altri{\r} esempi.
+Dialogue: 0,0:00:34.62,0:00:34.66,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri esempi.
+Dialogue: 0,0:00:34.66,0:00:35.06,Default,,0,0,0,,Il mare è là. Luigi e Sofia non sono al mare. Vediamo degli altri {\1c&HFF00&\u1}esempi.{\r}

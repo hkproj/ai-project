@@ -1,0 +1,128 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.34,0:00:0.68,Default,,0,0,0,,{\1c&HFF00&\u1}faremo{\r} un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:0.68,0:00:0.88,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:0.88,0:00:0.98,Default,,0,0,0,,faremo {\1c&HFF00&\u1}un{\r} esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:0.98,0:00:1.02,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:1.02,0:00:1.76,Default,,0,0,0,,faremo un {\1c&HFF00&\u1}esercizio{\r} per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:1.76,0:00:1.92,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:1.92,0:00:2.31,Default,,0,0,0,,faremo un esercizio {\1c&HFF00&\u1}per{\r} praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:2.31,0:00:2.51,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:2.51,0:00:3.13,Default,,0,0,0,,faremo un esercizio per {\1c&HFF00&\u1}praticare{\r} l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:3.13,0:00:3.25,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:3.25,0:00:3.55,Default,,0,0,0,,faremo un esercizio per praticare {\1c&HFF00&\u1}l'uso{\r} di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:3.55,0:00:3.59,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:3.59,0:00:3.67,Default,,0,0,0,,faremo un esercizio per praticare l'uso {\1c&HFF00&\u1}di{\r} questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:3.67,0:00:3.75,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:3.75,0:00:4.07,Default,,0,0,0,,faremo un esercizio per praticare l'uso di {\1c&HFF00&\u1}questi{\r} due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:4.07,0:00:4.15,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:4.15,0:00:4.27,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi {\1c&HFF00&\u1}due{\r} verbi, ok? Quindi continua a
+Dialogue: 0,0:00:4.27,0:00:4.33,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:4.33,0:00:4.67,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due {\1c&HFF00&\u1}verbi,{\r} ok? Quindi continua a
+Dialogue: 0,0:00:4.67,0:00:4.87,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:4.87,0:00:5.27,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, {\1c&HFF00&\u1}ok?{\r} Quindi continua a
+Dialogue: 0,0:00:5.27,0:00:5.67,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:5.67,0:00:5.95,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? {\1c&HFF00&\u1}Quindi{\r} continua a
+Dialogue: 0,0:00:5.95,0:00:6.21,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:6.21,0:00:6.68,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi {\1c&HFF00&\u1}continua{\r} a
+Dialogue: 0,0:00:6.68,0:00:6.70,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua a
+Dialogue: 0,0:00:6.70,0:00:6.72,Default,,0,0,0,,faremo un esercizio per praticare l'uso di questi due verbi, ok? Quindi continua {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:6.96,0:00:7.38,Default,,0,0,0,,{\1c&HFF00&\u1}guardare{\r} questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:7.38,0:00:7.46,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:7.46,0:00:7.72,Default,,0,0,0,,guardare {\1c&HFF00&\u1}questo{\r} video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:7.72,0:00:7.76,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:7.76,0:00:8.06,Default,,0,0,0,,guardare questo {\1c&HFF00&\u1}video.{\r} Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:8.06,0:00:9.20,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:9.20,0:00:9.49,Default,,0,0,0,,guardare questo video. {\1c&HFF00&\u1}Verbo{\r} venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:9.49,0:00:9.59,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:9.59,0:00:9.95,Default,,0,0,0,,guardare questo video. Verbo {\1c&HFF00&\u1}venire.{\r} Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:9.95,0:00:11.41,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:11.41,0:00:11.53,Default,,0,0,0,,guardare questo video. Verbo venire. {\1c&HFF00&\u1}Il{\r} verbo venire si usa quando una persona
+Dialogue: 0,0:00:11.53,0:00:11.59,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:11.59,0:00:11.91,Default,,0,0,0,,guardare questo video. Verbo venire. Il {\1c&HFF00&\u1}verbo{\r} venire si usa quando una persona
+Dialogue: 0,0:00:11.91,0:00:12.03,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:12.03,0:00:12.47,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo {\1c&HFF00&\u1}venire{\r} si usa quando una persona
+Dialogue: 0,0:00:12.47,0:00:12.97,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:12.97,0:00:13.09,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire {\1c&HFF00&\u1}si{\r} usa quando una persona
+Dialogue: 0,0:00:13.09,0:00:13.19,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:13.19,0:00:13.43,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si {\1c&HFF00&\u1}usa{\r} quando una persona
+Dialogue: 0,0:00:13.43,0:00:13.55,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:13.55,0:00:13.99,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa {\1c&HFF00&\u1}quando{\r} una persona
+Dialogue: 0,0:00:13.99,0:00:14.73,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:14.73,0:00:14.92,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando {\1c&HFF00&\u1}una{\r} persona
+Dialogue: 0,0:00:14.92,0:00:15.02,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una persona
+Dialogue: 0,0:00:15.02,0:00:15.62,Default,,0,0,0,,guardare questo video. Verbo venire. Il verbo venire si usa quando una {\1c&HFF00&\u1}persona{\r}
+Dialogue: 0,0:00:16.26,0:00:16.50,Default,,0,0,0,,{\1c&HFF00&\u1}nella{\r} conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:16.50,0:00:16.56,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:16.56,0:00:17.50,Default,,0,0,0,,nella {\1c&HFF00&\u1}conversazione{\r} si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:17.50,0:00:18.14,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:18.14,0:00:18.25,Default,,0,0,0,,nella conversazione {\1c&HFF00&\u1}si{\r} muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:18.25,0:00:18.37,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:18.37,0:00:18.81,Default,,0,0,0,,nella conversazione si {\1c&HFF00&\u1}muove{\r} verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:18.81,0:00:19.03,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:19.03,0:00:19.49,Default,,0,0,0,,nella conversazione si muove {\1c&HFF00&\u1}verso{\r} un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:19.49,0:00:19.77,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:19.77,0:00:20.23,Default,,0,0,0,,nella conversazione si muove verso {\1c&HFF00&\u1}un'altra{\r} persona, ok? Quindi indica il
+Dialogue: 0,0:00:20.23,0:00:20.29,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:20.29,0:00:20.91,Default,,0,0,0,,nella conversazione si muove verso un'altra {\1c&HFF00&\u1}persona,{\r} ok? Quindi indica il
+Dialogue: 0,0:00:20.91,0:00:21.85,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:21.85,0:00:22.31,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, {\1c&HFF00&\u1}ok?{\r} Quindi indica il
+Dialogue: 0,0:00:22.31,0:00:22.83,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:22.83,0:00:23.15,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? {\1c&HFF00&\u1}Quindi{\r} indica il
+Dialogue: 0,0:00:23.15,0:00:23.39,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:23.39,0:00:23.86,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi {\1c&HFF00&\u1}indica{\r} il
+Dialogue: 0,0:00:23.86,0:00:24.08,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica il
+Dialogue: 0,0:00:24.08,0:00:24.16,Default,,0,0,0,,nella conversazione si muove verso un'altra persona, ok? Quindi indica {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:24.32,0:00:24.96,Default,,0,0,0,,{\1c&HFF00&\u1}movimento{\r} verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:24.96,0:00:25.44,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:25.44,0:00:25.80,Default,,0,0,0,,movimento {\1c&HFF00&\u1}verso{\r} un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:25.80,0:00:25.88,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:25.88,0:00:25.98,Default,,0,0,0,,movimento verso {\1c&HFF00&\u1}un{\r} luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:25.98,0:00:26.04,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:26.04,0:00:26.44,Default,,0,0,0,,movimento verso un {\1c&HFF00&\u1}luogo{\r} dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:26.44,0:00:27.51,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:27.51,0:00:27.89,Default,,0,0,0,,movimento verso un luogo {\1c&HFF00&\u1}dove{\r} un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:27.89,0:00:28.41,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:28.41,0:00:28.83,Default,,0,0,0,,movimento verso un luogo dove {\1c&HFF00&\u1}un'altra{\r} persona è presente adesso o sarà
+Dialogue: 0,0:00:28.83,0:00:28.91,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:28.91,0:00:29.51,Default,,0,0,0,,movimento verso un luogo dove un'altra {\1c&HFF00&\u1}persona{\r} è presente adesso o sarà
+Dialogue: 0,0:00:29.51,0:00:30.17,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:30.17,0:00:30.21,Default,,0,0,0,,movimento verso un luogo dove un'altra persona {\1c&HFF00&\u1}è{\r} presente adesso o sarà
+Dialogue: 0,0:00:30.21,0:00:30.31,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:30.31,0:00:30.93,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è {\1c&HFF00&\u1}presente{\r} adesso o sarà
+Dialogue: 0,0:00:30.93,0:00:31.11,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:31.11,0:00:31.65,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente {\1c&HFF00&\u1}adesso{\r} o sarà
+Dialogue: 0,0:00:31.65,0:00:32.14,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:32.14,0:00:32.20,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso {\1c&HFF00&\u1}o{\r} sarà
+Dialogue: 0,0:00:32.20,0:00:32.38,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o sarà
+Dialogue: 0,0:00:32.38,0:00:32.62,Default,,0,0,0,,movimento verso un luogo dove un'altra persona è presente adesso o {\1c&HFF00&\u1}sarà{\r}
+Dialogue: 0,0:00:32.98,0:00:33.54,Default,,0,0,0,,{\1c&HFF00&\u1}presente{\r} in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:33.54,0:00:34.06,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:34.06,0:00:34.16,Default,,0,0,0,,presente {\1c&HFF00&\u1}in{\r} futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:34.16,0:00:34.22,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:34.22,0:00:34.68,Default,,0,0,0,,presente in {\1c&HFF00&\u1}futuro.{\r} Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:34.68,0:00:36.44,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:36.44,0:00:37.08,Default,,0,0,0,,presente in futuro. {\1c&HFF00&\u1}Rivediamo{\r} il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:37.08,0:00:37.38,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:37.38,0:00:37.46,Default,,0,0,0,,presente in futuro. Rivediamo {\1c&HFF00&\u1}il{\r} dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:37.46,0:00:37.52,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:37.52,0:00:38.04,Default,,0,0,0,,presente in futuro. Rivediamo il {\1c&HFF00&\u1}dialogo{\r} di Sofia e Luigi.
+Dialogue: 0,0:00:38.04,0:00:38.32,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:38.32,0:00:38.44,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo {\1c&HFF00&\u1}di{\r} Sofia e Luigi.
+Dialogue: 0,0:00:38.44,0:00:38.58,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:38.58,0:00:39.00,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di {\1c&HFF00&\u1}Sofia{\r} e Luigi.
+Dialogue: 0,0:00:39.00,0:00:39.10,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:39.10,0:00:39.17,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia {\1c&HFF00&\u1}e{\r} Luigi.
+Dialogue: 0,0:00:39.17,0:00:39.21,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e Luigi.
+Dialogue: 0,0:00:39.21,0:00:39.53,Default,,0,0,0,,presente in futuro. Rivediamo il dialogo di Sofia e {\1c&HFF00&\u1}Luigi.{\r}

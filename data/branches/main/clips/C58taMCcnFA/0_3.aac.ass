@@ -1,0 +1,106 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.08,0:00:0.34,Default,,0,0,0,,{\1c&HFF00&\u1}problema{\r} è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.34,0:00:0.36,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.36,0:00:0.38,Default,,0,0,0,,problema {\1c&HFF00&\u1}è{\r} quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.40,0:00:0.56,Default,,0,0,0,,problema è {\1c&HFF00&\u1}quello{\r} che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.56,0:00:0.58,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.58,0:00:0.66,Default,,0,0,0,,problema è quello {\1c&HFF00&\u1}che{\r} non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.66,0:00:0.70,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.70,0:00:0.84,Default,,0,0,0,,problema è quello che {\1c&HFF00&\u1}non{\r} ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.84,0:00:0.90,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.90,0:00:0.96,Default,,0,0,0,,problema è quello che non {\1c&HFF00&\u1}ti{\r} piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:0.96,0:00:1.02,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.02,0:00:1.40,Default,,0,0,0,,problema è quello che non ti {\1c&HFF00&\u1}piace,{\r} non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.40,0:00:1.42,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.42,0:00:1.55,Default,,0,0,0,,problema è quello che non ti piace, {\1c&HFF00&\u1}non{\r} quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.55,0:00:1.57,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.57,0:00:1.75,Default,,0,0,0,,problema è quello che non ti piace, non {\1c&HFF00&\u1}quello{\r} che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.75,0:00:1.77,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.77,0:00:1.87,Default,,0,0,0,,problema è quello che non ti piace, non quello {\1c&HFF00&\u1}che{\r} ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.87,0:00:1.95,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:1.95,0:00:2.03,Default,,0,0,0,,problema è quello che non ti piace, non quello che {\1c&HFF00&\u1}ti{\r} piace, perché la gente può sostenere
+Dialogue: 0,0:00:2.03,0:00:2.07,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:2.07,0:00:2.45,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti {\1c&HFF00&\u1}piace,{\r} perché la gente può sostenere
+Dialogue: 0,0:00:2.45,0:00:2.95,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:2.95,0:00:3.13,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, {\1c&HFF00&\u1}perché{\r} la gente può sostenere
+Dialogue: 0,0:00:3.13,0:00:3.19,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:3.19,0:00:3.23,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché {\1c&HFF00&\u1}la{\r} gente può sostenere
+Dialogue: 0,0:00:3.23,0:00:3.29,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:3.29,0:00:3.47,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la {\1c&HFF00&\u1}gente{\r} può sostenere
+Dialogue: 0,0:00:3.47,0:00:3.53,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:3.53,0:00:3.61,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente {\1c&HFF00&\u1}può{\r} sostenere
+Dialogue: 0,0:00:3.61,0:00:3.69,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può sostenere
+Dialogue: 0,0:00:3.69,0:00:4.13,Default,,0,0,0,,problema è quello che non ti piace, non quello che ti piace, perché la gente può {\1c&HFF00&\u1}sostenere{\r}
+Dialogue: 0,0:00:4.16,0:00:4.60,Default,,0,0,0,,{\1c&HFF00&\u1}l'idea{\r} che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:4.60,0:00:4.64,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:4.64,0:00:4.92,Default,,0,0,0,,l'idea {\1c&HFF00&\u1}che{\r} a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:4.92,0:00:4.98,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:4.98,0:00:5.02,Default,,0,0,0,,l'idea che {\1c&HFF00&\u1}a{\r} te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.02,0:00:5.06,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.06,0:00:5.12,Default,,0,0,0,,l'idea che a {\1c&HFF00&\u1}te{\r} piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.12,0:00:5.18,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.18,0:00:5.40,Default,,0,0,0,,l'idea che a te {\1c&HFF00&\u1}piaccia{\r} qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.40,0:00:5.44,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.44,0:00:5.68,Default,,0,0,0,,l'idea che a te piaccia {\1c&HFF00&\u1}qualcosa{\r} che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.68,0:00:5.70,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.70,0:00:5.76,Default,,0,0,0,,l'idea che a te piaccia qualcosa {\1c&HFF00&\u1}che{\r} a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.76,0:00:5.78,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.78,0:00:5.80,Default,,0,0,0,,l'idea che a te piaccia qualcosa che {\1c&HFF00&\u1}a{\r} loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.80,0:00:5.82,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.82,0:00:5.95,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a {\1c&HFF00&\u1}loro{\r} non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.95,0:00:5.99,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:5.99,0:00:6.11,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro {\1c&HFF00&\u1}non{\r} piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:6.11,0:00:6.15,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:6.15,0:00:6.43,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non {\1c&HFF00&\u1}piace,{\r} ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:6.43,0:00:6.91,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:6.91,0:00:6.99,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, {\1c&HFF00&\u1}ma{\r} proprio non ce la fa ad accettare
+Dialogue: 0,0:00:6.99,0:00:7.11,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:7.11,0:00:7.41,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma {\1c&HFF00&\u1}proprio{\r} non ce la fa ad accettare
+Dialogue: 0,0:00:7.41,0:00:7.47,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:7.47,0:00:7.59,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio {\1c&HFF00&\u1}non{\r} ce la fa ad accettare
+Dialogue: 0,0:00:7.59,0:00:7.67,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:7.67,0:00:7.75,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non {\1c&HFF00&\u1}ce{\r} la fa ad accettare
+Dialogue: 0,0:00:7.75,0:00:7.81,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:7.81,0:00:7.89,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce {\1c&HFF00&\u1}la{\r} fa ad accettare
+Dialogue: 0,0:00:7.89,0:00:7.93,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:7.93,0:00:8.09,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la {\1c&HFF00&\u1}fa{\r} ad accettare
+Dialogue: 0,0:00:8.09,0:00:8.31,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:8.31,0:00:8.39,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa {\1c&HFF00&\u1}ad{\r} accettare
+Dialogue: 0,0:00:8.39,0:00:8.43,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad accettare
+Dialogue: 0,0:00:8.43,0:00:8.89,Default,,0,0,0,,l'idea che a te piaccia qualcosa che a loro non piace, ma proprio non ce la fa ad {\1c&HFF00&\u1}accettare{\r}
+Dialogue: 0,0:00:8.90,0:00:8.96,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:8.96,0:00:8.98,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:8.98,0:00:9.02,Default,,0,0,0,,che {\1c&HFF00&\u1}tu{\r} disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.02,0:00:9.04,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.04,0:00:9.22,Default,,0,0,0,,che tu {\1c&HFF00&\u1}disprezzi{\r} qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.22,0:00:9.24,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.24,0:00:9.40,Default,,0,0,0,,che tu disprezzi {\1c&HFF00&\u1}qualcosa{\r} che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.40,0:00:9.42,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.42,0:00:9.48,Default,,0,0,0,,che tu disprezzi qualcosa {\1c&HFF00&\u1}che{\r} loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.48,0:00:9.50,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.50,0:00:9.58,Default,,0,0,0,,che tu disprezzi qualcosa che {\1c&HFF00&\u1}loro{\r} amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.58,0:00:9.60,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.60,0:00:9.70,Default,,0,0,0,,che tu disprezzi qualcosa che loro {\1c&HFF00&\u1}amano{\r} e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.70,0:00:9.72,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.72,0:00:9.74,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano {\1c&HFF00&\u1}e{\r} allora questa affermazione, cioè
+Dialogue: 0,0:00:9.74,0:00:9.76,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.76,0:00:9.88,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e {\1c&HFF00&\u1}allora{\r} questa affermazione, cioè
+Dialogue: 0,0:00:9.88,0:00:9.90,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:9.90,0:00:10.02,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora {\1c&HFF00&\u1}questa{\r} affermazione, cioè
+Dialogue: 0,0:00:10.02,0:00:10.04,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:10.04,0:00:10.29,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa {\1c&HFF00&\u1}affermazione,{\r} cioè
+Dialogue: 0,0:00:10.29,0:00:10.31,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, cioè
+Dialogue: 0,0:00:10.31,0:00:10.39,Default,,0,0,0,,che tu disprezzi qualcosa che loro amano e allora questa affermazione, {\1c&HFF00&\u1}cioè{\r}

@@ -1,0 +1,117 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.30,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}Ormai{\r} credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:0.54,0:00:0.58,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:0.58,0:00:0.80,Default,,0,0,0,,Ormai {\1c&HFF00&\u1}credo{\r} che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:0.80,0:00:0.90,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:0.90,0:00:1.02,Default,,0,0,0,,Ormai credo {\1c&HFF00&\u1}che{\r} la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.02,0:00:1.12,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.12,0:00:1.18,Default,,0,0,0,,Ormai credo che {\1c&HFF00&\u1}la{\r} maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.18,0:00:1.20,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.20,0:00:1.44,Default,,0,0,0,,Ormai credo che la {\1c&HFF00&\u1}maggior{\r} parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.44,0:00:1.50,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.50,0:00:1.74,Default,,0,0,0,,Ormai credo che la maggior {\1c&HFF00&\u1}parte{\r} delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.74,0:00:1.80,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.80,0:00:1.98,Default,,0,0,0,,Ormai credo che la maggior parte {\1c&HFF00&\u1}delle{\r} banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:1.98,0:00:2.04,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:2.04,0:00:2.45,Default,,0,0,0,,Ormai credo che la maggior parte delle {\1c&HFF00&\u1}banche,{\r} anche la propria versione online, costa molto
+Dialogue: 0,0:00:2.45,0:00:2.63,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:2.63,0:00:3.07,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, {\1c&HFF00&\u1}anche{\r} la propria versione online, costa molto
+Dialogue: 0,0:00:3.07,0:00:3.57,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:3.57,0:00:3.63,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche {\1c&HFF00&\u1}la{\r} propria versione online, costa molto
+Dialogue: 0,0:00:3.63,0:00:3.67,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:3.67,0:00:3.91,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la {\1c&HFF00&\u1}propria{\r} versione online, costa molto
+Dialogue: 0,0:00:3.91,0:00:3.99,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:3.99,0:00:4.37,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria {\1c&HFF00&\u1}versione{\r} online, costa molto
+Dialogue: 0,0:00:4.37,0:00:4.45,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:4.45,0:00:4.95,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione {\1c&HFF00&\u1}online,{\r} costa molto
+Dialogue: 0,0:00:4.95,0:00:5.57,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:5.57,0:00:5.91,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, {\1c&HFF00&\u1}costa{\r} molto
+Dialogue: 0,0:00:5.91,0:00:6.05,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa molto
+Dialogue: 0,0:00:6.05,0:00:6.32,Default,,0,0,0,,Ormai credo che la maggior parte delle banche, anche la propria versione online, costa {\1c&HFF00&\u1}molto{\r}
+Dialogue: 0,0:00:6.28,0:00:6.90,Default,,0,0,0,,{\1c&HFF00&\u1}meno{\r} mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:6.90,0:00:6.92,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:6.92,0:00:7.66,Default,,0,0,0,,meno {\1c&HFF00&\u1}mensilmente,{\r} ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:7.66,0:00:7.88,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:7.88,0:00:7.94,Default,,0,0,0,,meno mensilmente, {\1c&HFF00&\u1}ma{\r} anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:7.94,0:00:7.98,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:7.98,0:00:8.18,Default,,0,0,0,,meno mensilmente, ma {\1c&HFF00&\u1}anche{\r} i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:8.18,0:00:8.20,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:8.20,0:00:8.24,Default,,0,0,0,,meno mensilmente, ma anche {\1c&HFF00&\u1}i{\r} movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:8.24,0:00:8.30,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:8.30,0:00:8.97,Default,,0,0,0,,meno mensilmente, ma anche i {\1c&HFF00&\u1}movimenti{\r} sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:8.97,0:00:9.09,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:9.09,0:00:9.29,Default,,0,0,0,,meno mensilmente, ma anche i movimenti {\1c&HFF00&\u1}sono{\r} zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:9.29,0:00:9.45,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:9.45,0:00:9.73,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono {\1c&HFF00&\u1}zero,{\r} fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:9.73,0:00:9.81,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:9.81,0:00:9.95,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, {\1c&HFF00&\u1}fare{\r} bonifici non costa nulla, fare
+Dialogue: 0,0:00:9.95,0:00:10.03,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:10.03,0:00:10.57,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare {\1c&HFF00&\u1}bonifici{\r} non costa nulla, fare
+Dialogue: 0,0:00:10.57,0:00:10.65,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:10.65,0:00:10.79,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici {\1c&HFF00&\u1}non{\r} costa nulla, fare
+Dialogue: 0,0:00:10.79,0:00:10.85,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:10.85,0:00:11.33,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non {\1c&HFF00&\u1}costa{\r} nulla, fare
+Dialogue: 0,0:00:11.33,0:00:11.45,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:11.45,0:00:11.79,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa {\1c&HFF00&\u1}nulla,{\r} fare
+Dialogue: 0,0:00:11.79,0:00:12.80,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, fare
+Dialogue: 0,0:00:12.80,0:00:12.96,Default,,0,0,0,,meno mensilmente, ma anche i movimenti sono zero, fare bonifici non costa nulla, {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:00:12.96,0:00:13.04,Default,,0,0,0,,{\1c&HFF00&\u1}vari{\r} movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.04,0:00:13.06,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.06,0:00:13.24,Default,,0,0,0,,vari {\1c&HFF00&\u1}movimenti,{\r} prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.24,0:00:13.26,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.26,0:00:13.44,Default,,0,0,0,,vari movimenti, {\1c&HFF00&\u1}prelevare{\r} presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.44,0:00:13.46,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.46,0:00:13.58,Default,,0,0,0,,vari movimenti, prelevare {\1c&HFF00&\u1}presso{\r} un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.58,0:00:13.60,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.60,0:00:13.64,Default,,0,0,0,,vari movimenti, prelevare presso {\1c&HFF00&\u1}un{\r} qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.64,0:00:13.66,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.66,0:00:13.84,Default,,0,0,0,,vari movimenti, prelevare presso un {\1c&HFF00&\u1}qualsiasi{\r} Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.84,0:00:13.86,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:13.86,0:00:14.02,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi {\1c&HFF00&\u1}Bancomat{\r} è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.02,0:00:14.04,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.04,0:00:14.06,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat {\1c&HFF00&\u1}è{\r} zero e così via. Io spendevo
+Dialogue: 0,0:00:14.06,0:00:14.08,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.08,0:00:14.16,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è {\1c&HFF00&\u1}zero{\r} e così via. Io spendevo
+Dialogue: 0,0:00:14.16,0:00:14.18,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.18,0:00:14.20,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero {\1c&HFF00&\u1}e{\r} così via. Io spendevo
+Dialogue: 0,0:00:14.20,0:00:14.22,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.22,0:00:14.30,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e {\1c&HFF00&\u1}così{\r} via. Io spendevo
+Dialogue: 0,0:00:14.30,0:00:14.32,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.32,0:00:14.38,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così {\1c&HFF00&\u1}via.{\r} Io spendevo
+Dialogue: 0,0:00:14.38,0:00:14.40,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.40,0:00:14.44,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. {\1c&HFF00&\u1}Io{\r} spendevo
+Dialogue: 0,0:00:14.44,0:00:14.46,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io spendevo
+Dialogue: 0,0:00:14.46,0:00:14.64,Default,,0,0,0,,vari movimenti, prelevare presso un qualsiasi Bancomat è zero e così via. Io {\1c&HFF00&\u1}spendevo{\r}
+Dialogue: 0,0:00:18.98,0:00:19.20,Default,,0,0,0,,{\1c&HFF00&\u1}molto{\r} di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:19.20,0:00:19.22,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:19.22,0:00:19.26,Default,,0,0,0,,molto {\1c&HFF00&\u1}di{\r} più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:19.26,0:00:19.46,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:19.46,0:00:19.70,Default,,0,0,0,,molto di {\1c&HFF00&\u1}più{\r} e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:19.70,0:00:20.02,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:20.02,0:00:20.12,Default,,0,0,0,,molto di più {\1c&HFF00&\u1}e{\r} poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:20.12,0:00:20.24,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:20.24,0:00:20.38,Default,,0,0,0,,molto di più e {\1c&HFF00&\u1}poi{\r} ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:20.38,0:00:20.44,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:20.44,0:00:20.50,Default,,0,0,0,,molto di più e poi {\1c&HFF00&\u1}ho{\r} cambiato e mi trovo bene.
+Dialogue: 0,0:00:20.50,0:00:20.54,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:20.54,0:00:21.06,Default,,0,0,0,,molto di più e poi ho {\1c&HFF00&\u1}cambiato{\r} e mi trovo bene.
+Dialogue: 0,0:00:21.06,0:00:21.24,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:21.24,0:00:21.32,Default,,0,0,0,,molto di più e poi ho cambiato {\1c&HFF00&\u1}e{\r} mi trovo bene.
+Dialogue: 0,0:00:21.32,0:00:21.54,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:21.54,0:00:21.60,Default,,0,0,0,,molto di più e poi ho cambiato e {\1c&HFF00&\u1}mi{\r} trovo bene.
+Dialogue: 0,0:00:21.60,0:00:21.66,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:21.66,0:00:21.85,Default,,0,0,0,,molto di più e poi ho cambiato e mi {\1c&HFF00&\u1}trovo{\r} bene.
+Dialogue: 0,0:00:21.85,0:00:21.87,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo bene.
+Dialogue: 0,0:00:21.87,0:00:22.09,Default,,0,0,0,,molto di più e poi ho cambiato e mi trovo {\1c&HFF00&\u1}bene.{\r}

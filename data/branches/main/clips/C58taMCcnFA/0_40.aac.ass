@@ -1,0 +1,223 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.16,Default,,0,0,0,,{\1c&HFF00&\u1}si{\r} dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:0.16,0:00:0.20,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:0.20,0:00:0.62,Default,,0,0,0,,si {\1c&HFF00&\u1}dissenza{\r} niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:0.62,0:00:0.72,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:0.72,0:00:1.16,Default,,0,0,0,,si dissenza {\1c&HFF00&\u1}niente,{\r} Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:1.16,0:00:1.72,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:1.72,0:00:1.98,Default,,0,0,0,,si dissenza niente, {\1c&HFF00&\u1}Bane{\r} gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:1.98,0:00:2.00,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.00,0:00:2.11,Default,,0,0,0,,si dissenza niente, Bane {\1c&HFF00&\u1}gli{\r} ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.11,0:00:2.13,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.13,0:00:2.19,Default,,0,0,0,,si dissenza niente, Bane gli {\1c&HFF00&\u1}ha{\r} tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.19,0:00:2.29,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.29,0:00:2.59,Default,,0,0,0,,si dissenza niente, Bane gli ha {\1c&HFF00&\u1}tolto{\r} tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.59,0:00:2.65,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.65,0:00:2.99,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto {\1c&HFF00&\u1}tutto{\r} e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:2.99,0:00:3.11,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.11,0:00:3.15,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto {\1c&HFF00&\u1}e{\r} tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.15,0:00:3.21,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.21,0:00:3.31,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e {\1c&HFF00&\u1}tu{\r} non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.31,0:00:3.35,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.35,0:00:3.47,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu {\1c&HFF00&\u1}non{\r} puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.47,0:00:3.49,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.49,0:00:3.63,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non {\1c&HFF00&\u1}puoi{\r} fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.63,0:00:3.69,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.69,0:00:3.89,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi {\1c&HFF00&\u1}fare{\r} a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.89,0:00:3.93,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.93,0:00:3.95,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare {\1c&HFF00&\u1}a{\r} meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:3.95,0:00:4.03,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:4.03,0:00:4.17,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a {\1c&HFF00&\u1}meno{\r} che sentirti impotente quanto lui
+Dialogue: 0,0:00:4.17,0:00:4.21,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:4.21,0:00:4.29,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno {\1c&HFF00&\u1}che{\r} sentirti impotente quanto lui
+Dialogue: 0,0:00:4.29,0:00:4.35,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:4.35,0:00:4.87,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che {\1c&HFF00&\u1}sentirti{\r} impotente quanto lui
+Dialogue: 0,0:00:4.87,0:00:4.91,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:4.91,0:00:5.67,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti {\1c&HFF00&\u1}impotente{\r} quanto lui
+Dialogue: 0,0:00:5.67,0:00:5.79,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:5.79,0:00:6.11,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente {\1c&HFF00&\u1}quanto{\r} lui
+Dialogue: 0,0:00:6.11,0:00:6.19,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto lui
+Dialogue: 0,0:00:6.19,0:00:6.48,Default,,0,0,0,,si dissenza niente, Bane gli ha tolto tutto e tu non puoi fare a meno che sentirti impotente quanto {\1c&HFF00&\u1}lui{\r}
+Dialogue: 0,0:00:6.28,0:00:6.40,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} non può tecnicamente fare nulla
+Dialogue: 0,0:00:6.40,0:00:6.42,Default,,0,0,0,,perché non può tecnicamente fare nulla
+Dialogue: 0,0:00:6.42,0:00:6.48,Default,,0,0,0,,perché {\1c&HFF00&\u1}non{\r} può tecnicamente fare nulla
+Dialogue: 0,0:00:6.48,0:00:6.50,Default,,0,0,0,,perché non può tecnicamente fare nulla
+Dialogue: 0,0:00:6.50,0:00:6.56,Default,,0,0,0,,perché non {\1c&HFF00&\u1}può{\r} tecnicamente fare nulla
+Dialogue: 0,0:00:6.56,0:00:6.58,Default,,0,0,0,,perché non può tecnicamente fare nulla
+Dialogue: 0,0:00:6.58,0:00:6.82,Default,,0,0,0,,perché non può {\1c&HFF00&\u1}tecnicamente{\r} fare nulla
+Dialogue: 0,0:00:6.82,0:00:6.84,Default,,0,0,0,,perché non può tecnicamente fare nulla
+Dialogue: 0,0:00:6.84,0:00:6.92,Default,,0,0,0,,perché non può tecnicamente {\1c&HFF00&\u1}fare{\r} nulla
+Dialogue: 0,0:00:6.92,0:00:6.94,Default,,0,0,0,,perché non può tecnicamente fare nulla
+Dialogue: 0,0:00:6.94,0:00:7.04,Default,,0,0,0,,perché non può tecnicamente fare {\1c&HFF00&\u1}nulla{\r}
+Dialogue: 0,0:00:11.42,0:00:11.56,Default,,0,0,0,,{\1c&HFF00&\u1}cosa{\r} succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:11.56,0:00:11.60,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:11.60,0:00:11.90,Default,,0,0,0,,cosa {\1c&HFF00&\u1}succede{\r} che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:11.90,0:00:11.94,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:11.94,0:00:12.02,Default,,0,0,0,,cosa succede {\1c&HFF00&\u1}che{\r} Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.02,0:00:12.06,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.06,0:00:12.24,Default,,0,0,0,,cosa succede che {\1c&HFF00&\u1}Bruce{\r} Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.24,0:00:12.26,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.26,0:00:12.49,Default,,0,0,0,,cosa succede che Bruce {\1c&HFF00&\u1}Wayne{\r} riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.49,0:00:12.53,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.53,0:00:12.77,Default,,0,0,0,,cosa succede che Bruce Wayne {\1c&HFF00&\u1}riesce{\r} a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.77,0:00:12.79,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.79,0:00:12.81,Default,,0,0,0,,cosa succede che Bruce Wayne riesce {\1c&HFF00&\u1}a{\r} scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.81,0:00:12.89,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:12.89,0:00:13.31,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a {\1c&HFF00&\u1}scalare{\r} questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:13.31,0:00:13.35,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:13.35,0:00:13.57,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare {\1c&HFF00&\u1}questa{\r} ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:13.57,0:00:13.69,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:13.69,0:00:14.09,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa {\1c&HFF00&\u1}ripida{\r} parete del Gulag e a liberarsi
+Dialogue: 0,0:00:14.09,0:00:14.15,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:14.15,0:00:14.53,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida {\1c&HFF00&\u1}parete{\r} del Gulag e a liberarsi
+Dialogue: 0,0:00:14.53,0:00:14.57,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:14.57,0:00:14.69,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete {\1c&HFF00&\u1}del{\r} Gulag e a liberarsi
+Dialogue: 0,0:00:14.69,0:00:14.75,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:14.75,0:00:15.13,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del {\1c&HFF00&\u1}Gulag{\r} e a liberarsi
+Dialogue: 0,0:00:15.13,0:00:15.89,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:15.89,0:00:15.93,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag {\1c&HFF00&\u1}e{\r} a liberarsi
+Dialogue: 0,0:00:15.93,0:00:15.97,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:15.97,0:00:16.01,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e {\1c&HFF00&\u1}a{\r} liberarsi
+Dialogue: 0,0:00:16.01,0:00:16.07,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a liberarsi
+Dialogue: 0,0:00:16.07,0:00:16.66,Default,,0,0,0,,cosa succede che Bruce Wayne riesce a scalare questa ripida parete del Gulag e a {\1c&HFF00&\u1}liberarsi{\r}
+Dialogue: 0,0:00:17.68,0:00:17.86,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:17.86,0:00:18.54,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:18.54,0:00:18.66,Default,,0,0,0,,ma {\1c&HFF00&\u1}non{\r} è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:18.66,0:00:18.70,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:18.70,0:00:18.76,Default,,0,0,0,,ma non {\1c&HFF00&\u1}è{\r} Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:18.76,0:00:18.84,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:18.84,0:00:19.33,Default,,0,0,0,,ma non è {\1c&HFF00&\u1}Batman,{\r} è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:19.33,0:00:19.97,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:19.97,0:00:20.05,Default,,0,0,0,,ma non è Batman, {\1c&HFF00&\u1}è{\r} lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:20.05,0:00:20.17,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:20.17,0:00:20.89,Default,,0,0,0,,ma non è Batman, è {\1c&HFF00&\u1}lontano{\r} da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:20.89,0:00:20.95,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:20.95,0:00:21.05,Default,,0,0,0,,ma non è Batman, è lontano {\1c&HFF00&\u1}da{\r} Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.05,0:00:21.15,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.15,0:00:21.53,Default,,0,0,0,,ma non è Batman, è lontano da {\1c&HFF00&\u1}Gotham{\r} che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.53,0:00:21.73,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.73,0:00:21.83,Default,,0,0,0,,ma non è Batman, è lontano da Gotham {\1c&HFF00&\u1}che{\r} a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.83,0:00:21.87,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.87,0:00:21.91,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che {\1c&HFF00&\u1}a{\r} sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.91,0:00:21.97,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:21.97,0:00:22.09,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a {\1c&HFF00&\u1}sua{\r} volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:22.09,0:00:22.13,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:22.13,0:00:22.41,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua {\1c&HFF00&\u1}volta{\r} è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:22.41,0:00:22.45,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:22.45,0:00:22.47,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta {\1c&HFF00&\u1}è{\r} circoscritta dai soldati di Bane
+Dialogue: 0,0:00:22.47,0:00:22.61,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:22.61,0:00:23.39,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è {\1c&HFF00&\u1}circoscritta{\r} dai soldati di Bane
+Dialogue: 0,0:00:23.39,0:00:23.45,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:23.45,0:00:23.57,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta {\1c&HFF00&\u1}dai{\r} soldati di Bane
+Dialogue: 0,0:00:23.57,0:00:23.63,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:23.63,0:00:24.04,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai {\1c&HFF00&\u1}soldati{\r} di Bane
+Dialogue: 0,0:00:24.04,0:00:24.10,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:24.10,0:00:24.18,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati {\1c&HFF00&\u1}di{\r} Bane
+Dialogue: 0,0:00:24.18,0:00:24.36,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di Bane
+Dialogue: 0,0:00:24.36,0:00:24.74,Default,,0,0,0,,ma non è Batman, è lontano da Gotham che a sua volta è circoscritta dai soldati di {\1c&HFF00&\u1}Bane{\r}
+Dialogue: 0,0:00:25.26,0:00:25.56,Default,,0,0,0,,{\1c&HFF00&\u1}Gotham{\r} è irraggiungibile
+Dialogue: 0,0:00:25.56,0:00:25.71,Default,,0,0,0,,Gotham è irraggiungibile
+Dialogue: 0,0:00:25.71,0:00:25.75,Default,,0,0,0,,Gotham {\1c&HFF00&\u1}è{\r} irraggiungibile
+Dialogue: 0,0:00:25.75,0:00:25.93,Default,,0,0,0,,Gotham è irraggiungibile
+Dialogue: 0,0:00:25.93,0:00:26.89,Default,,0,0,0,,Gotham è {\1c&HFF00&\u1}irraggiungibile{\r}
+Dialogue: 0,0:00:27.10,0:00:27.72,Default,,0,0,0,,{\1c&HFF00&\u1}tagliata{\r} via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:27.72,0:00:27.94,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:27.94,0:00:28.06,Default,,0,0,0,,tagliata {\1c&HFF00&\u1}via{\r} mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:28.06,0:00:28.10,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:28.10,0:00:28.36,Default,,0,0,0,,tagliata via {\1c&HFF00&\u1}mare{\r} via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:28.36,0:00:28.80,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:28.80,0:00:28.98,Default,,0,0,0,,tagliata via mare {\1c&HFF00&\u1}via{\r} terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:28.98,0:00:29.04,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:29.04,0:00:29.38,Default,,0,0,0,,tagliata via mare via {\1c&HFF00&\u1}terra{\r} dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:29.38,0:00:29.59,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:29.59,0:00:30.43,Default,,0,0,0,,tagliata via mare via terra {\1c&HFF00&\u1}dappertutto{\r} e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:30.43,0:00:31.27,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:31.27,0:00:31.31,Default,,0,0,0,,tagliata via mare via terra dappertutto {\1c&HFF00&\u1}e{\r} lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:31.31,0:00:31.37,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:31.37,0:00:31.51,Default,,0,0,0,,tagliata via mare via terra dappertutto e {\1c&HFF00&\u1}lui{\r} ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:31.51,0:00:31.55,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:31.55,0:00:32.03,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui {\1c&HFF00&\u1}ricordiamo{\r} è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.03,0:00:32.07,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.07,0:00:32.13,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo {\1c&HFF00&\u1}è{\r} nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.13,0:00:32.21,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.21,0:00:32.49,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è {\1c&HFF00&\u1}nudo{\r} senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.49,0:00:32.63,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.63,0:00:32.83,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo {\1c&HFF00&\u1}senza{\r} gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.83,0:00:32.91,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:32.91,0:00:33.27,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza {\1c&HFF00&\u1}gadget{\r} senza batmobile senza soldi
+Dialogue: 0,0:00:33.27,0:00:33.31,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:33.31,0:00:33.51,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget {\1c&HFF00&\u1}senza{\r} batmobile senza soldi
+Dialogue: 0,0:00:33.51,0:00:33.61,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:33.61,0:00:34.13,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza {\1c&HFF00&\u1}batmobile{\r} senza soldi
+Dialogue: 0,0:00:34.13,0:00:34.29,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:34.29,0:00:34.60,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile {\1c&HFF00&\u1}senza{\r} soldi
+Dialogue: 0,0:00:34.60,0:00:34.66,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza soldi
+Dialogue: 0,0:00:34.66,0:00:34.98,Default,,0,0,0,,tagliata via mare via terra dappertutto e lui ricordiamo è nudo senza gadget senza batmobile senza {\1c&HFF00&\u1}soldi{\r}
+Dialogue: 0,0:00:36.14,0:00:36.43,Default,,0,0,0,,{\1c&HFF00&\u1}quando{\r} batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:36.43,0:00:36.51,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:36.51,0:00:36.83,Default,,0,0,0,,quando {\1c&HFF00&\u1}batman{\r} riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:36.83,0:00:36.89,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:36.89,0:00:37.29,Default,,0,0,0,,quando batman {\1c&HFF00&\u1}riappare{\r} a Gotham qualche ora più tardi
+Dialogue: 0,0:00:37.29,0:00:37.35,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:37.35,0:00:37.39,Default,,0,0,0,,quando batman riappare {\1c&HFF00&\u1}a{\r} Gotham qualche ora più tardi
+Dialogue: 0,0:00:37.39,0:00:37.47,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:37.47,0:00:37.83,Default,,0,0,0,,quando batman riappare a {\1c&HFF00&\u1}Gotham{\r} qualche ora più tardi
+Dialogue: 0,0:00:37.83,0:00:37.99,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:37.99,0:00:38.33,Default,,0,0,0,,quando batman riappare a Gotham {\1c&HFF00&\u1}qualche{\r} ora più tardi
+Dialogue: 0,0:00:38.33,0:00:38.41,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:38.41,0:00:38.57,Default,,0,0,0,,quando batman riappare a Gotham qualche {\1c&HFF00&\u1}ora{\r} più tardi
+Dialogue: 0,0:00:38.57,0:00:38.63,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:38.63,0:00:38.73,Default,,0,0,0,,quando batman riappare a Gotham qualche ora {\1c&HFF00&\u1}più{\r} tardi
+Dialogue: 0,0:00:38.73,0:00:38.85,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più tardi
+Dialogue: 0,0:00:38.85,0:00:39.21,Default,,0,0,0,,quando batman riappare a Gotham qualche ora più {\1c&HFF00&\u1}tardi{\r}
+Dialogue: 0,0:00:38.70,0:00:38.80,Default,,0,0,0,,{\1c&HFF00&\u1}tardi{\r} tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:38.80,0:00:38.82,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:38.82,0:00:38.86,Default,,0,0,0,,tardi {\1c&HFF00&\u1}tu{\r} non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:38.86,0:00:38.88,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:38.88,0:00:38.94,Default,,0,0,0,,tardi tu {\1c&HFF00&\u1}non{\r} puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:38.94,0:00:38.96,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:38.96,0:00:39.04,Default,,0,0,0,,tardi tu non {\1c&HFF00&\u1}puoi{\r} fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.04,0:00:39.06,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.06,0:00:39.14,Default,,0,0,0,,tardi tu non puoi {\1c&HFF00&\u1}fare{\r} a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.14,0:00:39.16,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.16,0:00:39.18,Default,,0,0,0,,tardi tu non puoi fare {\1c&HFF00&\u1}a{\r} meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.18,0:00:39.20,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.20,0:00:39.28,Default,,0,0,0,,tardi tu non puoi fare a {\1c&HFF00&\u1}meno{\r} che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.28,0:00:39.30,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.30,0:00:39.36,Default,,0,0,0,,tardi tu non puoi fare a meno {\1c&HFF00&\u1}che{\r} sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.36,0:00:39.38,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.38,0:00:39.54,Default,,0,0,0,,tardi tu non puoi fare a meno che {\1c&HFF00&\u1}sentirti{\r} preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.54,0:00:39.56,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.56,0:00:39.66,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti {\1c&HFF00&\u1}preso{\r} per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.66,0:00:39.68,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.68,0:00:39.74,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso {\1c&HFF00&\u1}per{\r} il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.74,0:00:39.76,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.76,0:00:39.80,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per {\1c&HFF00&\u1}il{\r} culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.80,0:00:39.82,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.82,0:00:39.90,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il {\1c&HFF00&\u1}culo{\r} perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.90,0:00:39.92,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:39.92,0:00:40.06,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo {\1c&HFF00&\u1}perché{\r} tutte le emozioni che avevi provato
+Dialogue: 0,0:00:40.06,0:00:40.08,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:40.08,0:00:40.40,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché {\1c&HFF00&\u1}tutte{\r} le emozioni che avevi provato
+Dialogue: 0,0:00:40.40,0:00:40.45,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:40.45,0:00:40.61,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte {\1c&HFF00&\u1}le{\r} emozioni che avevi provato
+Dialogue: 0,0:00:40.61,0:00:40.63,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:40.63,0:00:40.87,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le {\1c&HFF00&\u1}emozioni{\r} che avevi provato
+Dialogue: 0,0:00:40.87,0:00:40.91,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:40.91,0:00:40.97,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni {\1c&HFF00&\u1}che{\r} avevi provato
+Dialogue: 0,0:00:40.97,0:00:40.99,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:40.99,0:00:41.13,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che {\1c&HFF00&\u1}avevi{\r} provato
+Dialogue: 0,0:00:41.13,0:00:41.19,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi provato
+Dialogue: 0,0:00:41.19,0:00:41.41,Default,,0,0,0,,tardi tu non puoi fare a meno che sentirti preso per il culo perché tutte le emozioni che avevi {\1c&HFF00&\u1}provato{\r}

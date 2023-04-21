@@ -1,0 +1,171 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.32,0:00:0.60,Default,,0,0,0,,{\1c&HFF00&\u1}costano{\r} e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:0.60,0:00:0.86,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:0.86,0:00:0.90,Default,,0,0,0,,costano {\1c&HFF00&\u1}e{\r} fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:0.90,0:00:0.98,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:0.98,0:00:1.22,Default,,0,0,0,,costano e {\1c&HFF00&\u1}fanno{\r} malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:1.22,0:00:1.52,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:1.52,0:00:2.04,Default,,0,0,0,,costano e fanno {\1c&HFF00&\u1}malissimo,{\r} per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.04,0:00:2.15,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.15,0:00:2.27,Default,,0,0,0,,costano e fanno malissimo, {\1c&HFF00&\u1}per{\r} me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.27,0:00:2.31,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.31,0:00:2.43,Default,,0,0,0,,costano e fanno malissimo, per {\1c&HFF00&\u1}me{\r} non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.43,0:00:2.61,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.61,0:00:2.75,Default,,0,0,0,,costano e fanno malissimo, per me {\1c&HFF00&\u1}non{\r} esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.75,0:00:2.83,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:2.83,0:00:3.37,Default,,0,0,0,,costano e fanno malissimo, per me non {\1c&HFF00&\u1}esistono{\r} e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:3.37,0:00:3.89,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:3.89,0:00:3.99,Default,,0,0,0,,costano e fanno malissimo, per me non esistono {\1c&HFF00&\u1}e{\r} nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:3.99,0:00:4.13,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:4.13,0:00:4.43,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e {\1c&HFF00&\u1}nemmeno{\r} i succhi sono un gran che... meglio
+Dialogue: 0,0:00:4.43,0:00:4.49,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:4.49,0:00:4.51,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno {\1c&HFF00&\u1}i{\r} succhi sono un gran che... meglio
+Dialogue: 0,0:00:4.51,0:00:4.61,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:4.61,0:00:4.91,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i {\1c&HFF00&\u1}succhi{\r} sono un gran che... meglio
+Dialogue: 0,0:00:4.91,0:00:4.97,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:4.97,0:00:5.11,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi {\1c&HFF00&\u1}sono{\r} un gran che... meglio
+Dialogue: 0,0:00:5.11,0:00:5.15,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:5.15,0:00:5.21,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono {\1c&HFF00&\u1}un{\r} gran che... meglio
+Dialogue: 0,0:00:5.21,0:00:5.25,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:5.25,0:00:5.45,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un {\1c&HFF00&\u1}gran{\r} che... meglio
+Dialogue: 0,0:00:5.45,0:00:5.53,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:5.53,0:00:5.71,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran {\1c&HFF00&\u1}che...{\r} meglio
+Dialogue: 0,0:00:5.71,0:00:6.17,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... meglio
+Dialogue: 0,0:00:6.17,0:00:6.36,Default,,0,0,0,,costano e fanno malissimo, per me non esistono e nemmeno i succhi sono un gran che... {\1c&HFF00&\u1}meglio{\r}
+Dialogue: 0,0:00:6.62,0:00:6.66,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:6.66,0:00:6.70,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:6.70,0:00:6.90,Default,,0,0,0,,la {\1c&HFF00&\u1}frutta{\r} di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:6.90,0:00:6.96,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:6.96,0:00:7.04,Default,,0,0,0,,la frutta {\1c&HFF00&\u1}di{\r} stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:7.04,0:00:7.06,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:7.06,0:00:7.52,Default,,0,0,0,,la frutta di {\1c&HFF00&\u1}stagione.{\r} Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:7.52,0:00:7.70,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:7.70,0:00:7.94,Default,,0,0,0,,la frutta di stagione. {\1c&HFF00&\u1}Faccio{\r} eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:7.94,0:00:7.98,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:7.98,0:00:8.55,Default,,0,0,0,,la frutta di stagione. Faccio {\1c&HFF00&\u1}eccezioni{\r} quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:8.55,0:00:8.65,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:8.65,0:00:8.89,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni {\1c&HFF00&\u1}quando{\r} sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:8.89,0:00:8.95,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:8.95,0:00:9.13,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando {\1c&HFF00&\u1}sono{\r} fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:9.13,0:00:9.37,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:9.37,0:00:9.73,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono {\1c&HFF00&\u1}fuori,{\r} ma non è qualcosa che acquisto
+Dialogue: 0,0:00:9.73,0:00:10.11,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:10.11,0:00:10.19,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, {\1c&HFF00&\u1}ma{\r} non è qualcosa che acquisto
+Dialogue: 0,0:00:10.19,0:00:10.27,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:10.27,0:00:10.37,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma {\1c&HFF00&\u1}non{\r} è qualcosa che acquisto
+Dialogue: 0,0:00:10.37,0:00:10.43,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:10.43,0:00:10.47,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non {\1c&HFF00&\u1}è{\r} qualcosa che acquisto
+Dialogue: 0,0:00:10.47,0:00:10.55,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:10.55,0:00:11.05,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è {\1c&HFF00&\u1}qualcosa{\r} che acquisto
+Dialogue: 0,0:00:11.05,0:00:11.21,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:11.21,0:00:11.75,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa {\1c&HFF00&\u1}che{\r} acquisto
+Dialogue: 0,0:00:11.75,0:00:12.19,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che acquisto
+Dialogue: 0,0:00:12.19,0:00:12.70,Default,,0,0,0,,la frutta di stagione. Faccio eccezioni quando sono fuori, ma non è qualcosa che {\1c&HFF00&\u1}acquisto{\r}
+Dialogue: 0,0:00:12.68,0:00:13.40,Default,,0,0,0,,{\1c&HFF00&\u1}nella{\r} mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:13.40,0:00:13.42,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:13.42,0:00:13.48,Default,,0,0,0,,nella {\1c&HFF00&\u1}mia{\r} spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:13.48,0:00:13.50,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:13.50,0:00:13.78,Default,,0,0,0,,nella mia {\1c&HFF00&\u1}spesa{\r} settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:13.78,0:00:13.84,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:13.84,0:00:14.53,Default,,0,0,0,,nella mia spesa {\1c&HFF00&\u1}settimanale,{\r} a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.53,0:00:14.55,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.55,0:00:14.59,Default,,0,0,0,,nella mia spesa settimanale, {\1c&HFF00&\u1}a{\r} meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.59,0:00:14.63,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.63,0:00:14.81,Default,,0,0,0,,nella mia spesa settimanale, a {\1c&HFF00&\u1}meno{\r} che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.81,0:00:14.87,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.87,0:00:14.95,Default,,0,0,0,,nella mia spesa settimanale, a meno {\1c&HFF00&\u1}che{\r} non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.95,0:00:14.99,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:14.99,0:00:15.23,Default,,0,0,0,,nella mia spesa settimanale, a meno che {\1c&HFF00&\u1}non{\r} sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:15.23,0:00:15.33,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:15.33,0:00:15.47,Default,,0,0,0,,nella mia spesa settimanale, a meno che non {\1c&HFF00&\u1}sia{\r} proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:15.47,0:00:15.57,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:15.57,0:00:15.81,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia {\1c&HFF00&\u1}proprio{\r} un'eccezione per un compleanno,
+Dialogue: 0,0:00:15.81,0:00:15.85,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:15.85,0:00:16.43,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio {\1c&HFF00&\u1}un'eccezione{\r} per un compleanno,
+Dialogue: 0,0:00:16.43,0:00:16.53,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:16.53,0:00:16.65,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione {\1c&HFF00&\u1}per{\r} un compleanno,
+Dialogue: 0,0:00:16.65,0:00:16.71,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:16.71,0:00:16.77,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per {\1c&HFF00&\u1}un{\r} compleanno,
+Dialogue: 0,0:00:16.77,0:00:16.81,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un compleanno,
+Dialogue: 0,0:00:16.81,0:00:17.21,Default,,0,0,0,,nella mia spesa settimanale, a meno che non sia proprio un'eccezione per un {\1c&HFF00&\u1}compleanno,{\r}
+Dialogue: 0,0:00:17.56,0:00:18.10,Default,,0,0,0,,{\1c&HFF00&\u1}qualcosa{\r} del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.10,0:00:18.14,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.14,0:00:18.22,Default,,0,0,0,,qualcosa {\1c&HFF00&\u1}del{\r} genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.22,0:00:18.24,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.24,0:00:18.36,Default,,0,0,0,,qualcosa del {\1c&HFF00&\u1}genere.{\r} Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.36,0:00:18.38,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.38,0:00:18.58,Default,,0,0,0,,qualcosa del genere. {\1c&HFF00&\u1}Faccio{\r} eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.58,0:00:18.60,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:18.60,0:00:19.13,Default,,0,0,0,,qualcosa del genere. Faccio {\1c&HFF00&\u1}eccezioni{\r} a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.13,0:00:19.19,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.19,0:00:19.21,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni {\1c&HFF00&\u1}a{\r} volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.21,0:00:19.25,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.25,0:00:19.47,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a {\1c&HFF00&\u1}volte{\r} quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.47,0:00:19.53,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.53,0:00:19.75,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte {\1c&HFF00&\u1}quando{\r} sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.75,0:00:19.83,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.83,0:00:19.99,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando {\1c&HFF00&\u1}sono{\r} fuori, ma non è qualcosa che
+Dialogue: 0,0:00:19.99,0:00:20.13,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:20.13,0:00:20.41,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono {\1c&HFF00&\u1}fuori,{\r} ma non è qualcosa che
+Dialogue: 0,0:00:20.41,0:00:20.49,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:20.49,0:00:20.55,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, {\1c&HFF00&\u1}ma{\r} non è qualcosa che
+Dialogue: 0,0:00:20.55,0:00:20.61,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:20.61,0:00:20.71,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma {\1c&HFF00&\u1}non{\r} è qualcosa che
+Dialogue: 0,0:00:20.71,0:00:20.75,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:20.75,0:00:20.79,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non {\1c&HFF00&\u1}è{\r} qualcosa che
+Dialogue: 0,0:00:20.79,0:00:20.83,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:20.83,0:00:21.17,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è {\1c&HFF00&\u1}qualcosa{\r} che
+Dialogue: 0,0:00:21.17,0:00:21.19,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa che
+Dialogue: 0,0:00:21.19,0:00:21.25,Default,,0,0,0,,qualcosa del genere. Faccio eccezioni a volte quando sono fuori, ma non è qualcosa {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:21.50,0:00:21.56,Default,,0,0,0,,{\1c&HFF00&\u1}fa{\r} parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:21.56,0:00:21.62,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:21.62,0:00:21.78,Default,,0,0,0,,fa {\1c&HFF00&\u1}parte{\r} della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:21.78,0:00:21.82,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:21.82,0:00:22.00,Default,,0,0,0,,fa parte {\1c&HFF00&\u1}della{\r} mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:22.00,0:00:22.04,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:22.04,0:00:22.18,Default,,0,0,0,,fa parte della {\1c&HFF00&\u1}mia{\r} spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:22.18,0:00:22.26,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:22.26,0:00:22.48,Default,,0,0,0,,fa parte della mia {\1c&HFF00&\u1}spesa{\r} settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:22.48,0:00:22.50,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:22.50,0:00:23.27,Default,,0,0,0,,fa parte della mia spesa {\1c&HFF00&\u1}settimanale,{\r} non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:23.27,0:00:23.73,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:23.73,0:00:23.85,Default,,0,0,0,,fa parte della mia spesa settimanale, {\1c&HFF00&\u1}non{\r} entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:23.85,0:00:23.89,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:23.89,0:00:24.13,Default,,0,0,0,,fa parte della mia spesa settimanale, non {\1c&HFF00&\u1}entra{\r} a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:24.13,0:00:24.15,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:24.15,0:00:24.17,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra {\1c&HFF00&\u1}a{\r} casa nostra se non per un'eccezione
+Dialogue: 0,0:00:24.17,0:00:24.23,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:24.23,0:00:24.41,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a {\1c&HFF00&\u1}casa{\r} nostra se non per un'eccezione
+Dialogue: 0,0:00:24.41,0:00:24.47,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:24.47,0:00:24.75,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa {\1c&HFF00&\u1}nostra{\r} se non per un'eccezione
+Dialogue: 0,0:00:24.75,0:00:24.83,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:24.83,0:00:24.93,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra {\1c&HFF00&\u1}se{\r} non per un'eccezione
+Dialogue: 0,0:00:24.93,0:00:25.03,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:25.03,0:00:25.25,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se {\1c&HFF00&\u1}non{\r} per un'eccezione
+Dialogue: 0,0:00:25.25,0:00:25.39,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:25.39,0:00:25.69,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non {\1c&HFF00&\u1}per{\r} un'eccezione
+Dialogue: 0,0:00:25.69,0:00:26.25,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per un'eccezione
+Dialogue: 0,0:00:26.25,0:00:26.73,Default,,0,0,0,,fa parte della mia spesa settimanale, non entra a casa nostra se non per {\1c&HFF00&\u1}un'eccezione{\r}
+Dialogue: 0,0:00:26.88,0:00:27.02,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} un compiano, qualcosa del genere.
+Dialogue: 0,0:00:27.02,0:00:27.10,Default,,0,0,0,,come un compiano, qualcosa del genere.
+Dialogue: 0,0:00:27.10,0:00:27.16,Default,,0,0,0,,come {\1c&HFF00&\u1}un{\r} compiano, qualcosa del genere.
+Dialogue: 0,0:00:27.16,0:00:27.21,Default,,0,0,0,,come un compiano, qualcosa del genere.
+Dialogue: 0,0:00:27.21,0:00:27.73,Default,,0,0,0,,come un {\1c&HFF00&\u1}compiano,{\r} qualcosa del genere.
+Dialogue: 0,0:00:27.73,0:00:27.93,Default,,0,0,0,,come un compiano, qualcosa del genere.
+Dialogue: 0,0:00:27.93,0:00:28.28,Default,,0,0,0,,come un compiano, {\1c&HFF00&\u1}qualcosa{\r} del genere.
+Dialogue: 0,0:00:28.28,0:00:28.36,Default,,0,0,0,,come un compiano, qualcosa del genere.
+Dialogue: 0,0:00:28.36,0:00:28.48,Default,,0,0,0,,come un compiano, qualcosa {\1c&HFF00&\u1}del{\r} genere.
+Dialogue: 0,0:00:28.48,0:00:28.52,Default,,0,0,0,,come un compiano, qualcosa del genere.
+Dialogue: 0,0:00:28.52,0:00:28.80,Default,,0,0,0,,come un compiano, qualcosa del {\1c&HFF00&\u1}genere.{\r}

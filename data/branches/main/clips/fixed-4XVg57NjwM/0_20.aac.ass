@@ -1,0 +1,145 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.36,0:00:0.42,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:0.42,0:00:0.56,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:0.56,0:00:0.66,Default,,0,0,0,,e {\1c&HFF00&\u1}io{\r} vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:0.66,0:00:0.76,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:0.76,0:00:1.16,Default,,0,0,0,,e io {\1c&HFF00&\u1}vengo{\r} con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:1.16,0:00:2.00,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:2.00,0:00:2.14,Default,,0,0,0,,e io vengo {\1c&HFF00&\u1}con{\r} te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:2.14,0:00:2.22,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:2.22,0:00:2.40,Default,,0,0,0,,e io vengo con {\1c&HFF00&\u1}te.{\r} Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:2.40,0:00:4.29,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:4.29,0:00:4.55,Default,,0,0,0,,e io vengo con te. {\1c&HFF00&\u1}Quindi{\r} vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:4.55,0:00:4.67,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:4.67,0:00:4.99,Default,,0,0,0,,e io vengo con te. Quindi {\1c&HFF00&\u1}vengo{\r} verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:4.99,0:00:5.05,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:5.05,0:00:5.43,Default,,0,0,0,,e io vengo con te. Quindi vengo {\1c&HFF00&\u1}verso{\r} un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:5.43,0:00:5.63,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:5.63,0:00:5.73,Default,,0,0,0,,e io vengo con te. Quindi vengo verso {\1c&HFF00&\u1}un{\r} luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:5.73,0:00:5.77,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:5.77,0:00:6.17,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un {\1c&HFF00&\u1}luogo{\r} dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:6.17,0:00:6.49,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:6.49,0:00:6.71,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo {\1c&HFF00&\u1}dove{\r} tu sarai questa sera. Si usa
+Dialogue: 0,0:00:6.71,0:00:6.87,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:6.87,0:00:7.09,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove {\1c&HFF00&\u1}tu{\r} sarai questa sera. Si usa
+Dialogue: 0,0:00:7.09,0:00:7.39,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:7.39,0:00:7.73,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu {\1c&HFF00&\u1}sarai{\r} questa sera. Si usa
+Dialogue: 0,0:00:7.73,0:00:7.81,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:7.81,0:00:8.11,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai {\1c&HFF00&\u1}questa{\r} sera. Si usa
+Dialogue: 0,0:00:8.11,0:00:8.19,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:8.19,0:00:8.51,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa {\1c&HFF00&\u1}sera.{\r} Si usa
+Dialogue: 0,0:00:8.51,0:00:10.32,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:10.32,0:00:10.42,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. {\1c&HFF00&\u1}Si{\r} usa
+Dialogue: 0,0:00:10.42,0:00:10.50,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si usa
+Dialogue: 0,0:00:10.50,0:00:10.66,Default,,0,0,0,,e io vengo con te. Quindi vengo verso un luogo dove tu sarai questa sera. Si {\1c&HFF00&\u1}usa{\r}
+Dialogue: 0,0:00:11.04,0:00:11.28,Default,,0,0,0,,{\1c&HFF00&\u1}anche{\r} per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:11.28,0:00:11.34,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:11.34,0:00:11.52,Default,,0,0,0,,anche {\1c&HFF00&\u1}per{\r} muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:11.52,0:00:11.60,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:11.60,0:00:12.04,Default,,0,0,0,,anche per {\1c&HFF00&\u1}muoversi{\r} insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:12.04,0:00:12.20,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:12.20,0:00:12.70,Default,,0,0,0,,anche per muoversi {\1c&HFF00&\u1}insieme,{\r} ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:12.70,0:00:13.77,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:13.77,0:00:13.85,Default,,0,0,0,,anche per muoversi insieme, {\1c&HFF00&\u1}ma{\r} è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:13.85,0:00:13.99,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:13.99,0:00:14.05,Default,,0,0,0,,anche per muoversi insieme, ma {\1c&HFF00&\u1}è{\r} sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:14.05,0:00:14.17,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:14.17,0:00:14.59,Default,,0,0,0,,anche per muoversi insieme, ma è {\1c&HFF00&\u1}sicuro{\r} che tu vai a teatro questa sera.
+Dialogue: 0,0:00:14.59,0:00:14.79,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:14.79,0:00:14.87,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro {\1c&HFF00&\u1}che{\r} tu vai a teatro questa sera.
+Dialogue: 0,0:00:14.87,0:00:14.95,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:14.95,0:00:15.05,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che {\1c&HFF00&\u1}tu{\r} vai a teatro questa sera.
+Dialogue: 0,0:00:15.05,0:00:15.11,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:15.11,0:00:15.37,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu {\1c&HFF00&\u1}vai{\r} a teatro questa sera.
+Dialogue: 0,0:00:15.37,0:00:15.39,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:15.39,0:00:15.41,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai {\1c&HFF00&\u1}a{\r} teatro questa sera.
+Dialogue: 0,0:00:15.41,0:00:15.49,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:15.49,0:00:15.93,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a {\1c&HFF00&\u1}teatro{\r} questa sera.
+Dialogue: 0,0:00:15.93,0:00:16.03,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:16.03,0:00:16.29,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro {\1c&HFF00&\u1}questa{\r} sera.
+Dialogue: 0,0:00:16.29,0:00:16.37,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa sera.
+Dialogue: 0,0:00:16.37,0:00:16.63,Default,,0,0,0,,anche per muoversi insieme, ma è sicuro che tu vai a teatro questa {\1c&HFF00&\u1}sera.{\r}
+Dialogue: 0,0:00:18.52,0:00:18.94,Default,,0,0,0,,{\1c&HFF00&\u1}Facciamo{\r} degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:18.94,0:00:18.98,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:18.98,0:00:19.14,Default,,0,0,0,,Facciamo {\1c&HFF00&\u1}degli{\r} esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:19.14,0:00:19.18,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:19.18,0:00:19.78,Default,,0,0,0,,Facciamo degli {\1c&HFF00&\u1}esercizi{\r} adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:19.78,0:00:20.21,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:20.21,0:00:20.65,Default,,0,0,0,,Facciamo degli esercizi {\1c&HFF00&\u1}adesso{\r} per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:20.65,0:00:21.01,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:21.01,0:00:21.21,Default,,0,0,0,,Facciamo degli esercizi adesso {\1c&HFF00&\u1}per{\r} praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:21.21,0:00:21.31,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:21.31,0:00:21.87,Default,,0,0,0,,Facciamo degli esercizi adesso per {\1c&HFF00&\u1}praticare{\r} e memorizzare l'uso del verbo
+Dialogue: 0,0:00:21.87,0:00:22.03,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:22.03,0:00:22.11,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare {\1c&HFF00&\u1}e{\r} memorizzare l'uso del verbo
+Dialogue: 0,0:00:22.11,0:00:22.27,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:22.27,0:00:22.93,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e {\1c&HFF00&\u1}memorizzare{\r} l'uso del verbo
+Dialogue: 0,0:00:22.93,0:00:23.03,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:23.03,0:00:23.35,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare {\1c&HFF00&\u1}l'uso{\r} del verbo
+Dialogue: 0,0:00:23.35,0:00:23.55,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:23.55,0:00:23.73,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso {\1c&HFF00&\u1}del{\r} verbo
+Dialogue: 0,0:00:23.73,0:00:23.79,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del verbo
+Dialogue: 0,0:00:23.79,0:00:24.12,Default,,0,0,0,,Facciamo degli esercizi adesso per praticare e memorizzare l'uso del {\1c&HFF00&\u1}verbo{\r}
+Dialogue: 0,0:00:24.98,0:00:26.00,Default,,0,0,0,,{\1c&HFF00&\u1}andare{\r} e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:26.00,0:00:26.08,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:26.08,0:00:26.36,Default,,0,0,0,,andare {\1c&HFF00&\u1}e{\r} del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:26.36,0:00:26.40,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:26.40,0:00:26.48,Default,,0,0,0,,andare e {\1c&HFF00&\u1}del{\r} verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:26.48,0:00:26.52,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:26.52,0:00:28.09,Default,,0,0,0,,andare e del {\1c&HFF00&\u1}verbo{\r} venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:28.09,0:00:28.11,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:28.11,0:00:28.23,Default,,0,0,0,,andare e del verbo {\1c&HFF00&\u1}venire.{\r} Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:28.23,0:00:28.33,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:28.33,0:00:28.47,Default,,0,0,0,,andare e del verbo venire. {\1c&HFF00&\u1}Tra{\r} poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:28.47,0:00:28.55,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:28.55,0:00:28.93,Default,,0,0,0,,andare e del verbo venire. Tra {\1c&HFF00&\u1}poco{\r} ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:28.93,0:00:29.61,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:29.61,0:00:29.67,Default,,0,0,0,,andare e del verbo venire. Tra poco {\1c&HFF00&\u1}ti{\r} mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:29.67,0:00:29.75,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:29.75,0:00:30.25,Default,,0,0,0,,andare e del verbo venire. Tra poco ti {\1c&HFF00&\u1}mostrerò{\r} delle frasi e quello che ti
+Dialogue: 0,0:00:30.25,0:00:30.47,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:30.47,0:00:30.71,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò {\1c&HFF00&\u1}delle{\r} frasi e quello che ti
+Dialogue: 0,0:00:30.71,0:00:30.81,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:30.81,0:00:31.19,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle {\1c&HFF00&\u1}frasi{\r} e quello che ti
+Dialogue: 0,0:00:31.19,0:00:31.21,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:31.21,0:00:31.23,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi {\1c&HFF00&\u1}e{\r} quello che ti
+Dialogue: 0,0:00:31.23,0:00:32.62,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:32.62,0:00:32.98,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e {\1c&HFF00&\u1}quello{\r} che ti
+Dialogue: 0,0:00:32.98,0:00:33.06,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:33.06,0:00:33.18,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello {\1c&HFF00&\u1}che{\r} ti
+Dialogue: 0,0:00:33.18,0:00:33.32,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che ti
+Dialogue: 0,0:00:33.32,0:00:33.36,Default,,0,0,0,,andare e del verbo venire. Tra poco ti mostrerò delle frasi e quello che {\1c&HFF00&\u1}ti{\r}
+Dialogue: 0,0:00:33.60,0:00:33.88,Default,,0,0,0,,{\1c&HFF00&\u1}chiedo{\r} di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:33.88,0:00:33.92,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:33.92,0:00:34.00,Default,,0,0,0,,chiedo {\1c&HFF00&\u1}di{\r} fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:34.00,0:00:34.06,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:34.06,0:00:34.38,Default,,0,0,0,,chiedo di {\1c&HFF00&\u1}fare{\r} è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:34.38,0:00:34.66,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:34.66,0:00:34.68,Default,,0,0,0,,chiedo di fare {\1c&HFF00&\u1}è{\r} scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:34.68,0:00:34.80,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:34.80,0:00:35.42,Default,,0,0,0,,chiedo di fare è {\1c&HFF00&\u1}scegliere{\r} l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:35.42,0:00:35.74,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:35.74,0:00:36.73,Default,,0,0,0,,chiedo di fare è scegliere {\1c&HFF00&\u1}l'alternativa{\r} giusta tra andare e venire.
+Dialogue: 0,0:00:36.73,0:00:36.83,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:36.83,0:00:37.29,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa {\1c&HFF00&\u1}giusta{\r} tra andare e venire.
+Dialogue: 0,0:00:37.29,0:00:37.93,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:37.93,0:00:38.13,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta {\1c&HFF00&\u1}tra{\r} andare e venire.
+Dialogue: 0,0:00:38.13,0:00:38.37,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:38.37,0:00:38.89,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra {\1c&HFF00&\u1}andare{\r} e venire.
+Dialogue: 0,0:00:38.89,0:00:38.91,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:38.91,0:00:38.93,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare {\1c&HFF00&\u1}e{\r} venire.
+Dialogue: 0,0:00:38.93,0:00:39.81,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e venire.
+Dialogue: 0,0:00:39.81,0:00:40.19,Default,,0,0,0,,chiedo di fare è scegliere l'alternativa giusta tra andare e {\1c&HFF00&\u1}venire.{\r}
+Dialogue: 0,0:00:41.71,0:00:42.10,Default,,0,0,0,,{\1c&HFF00&\u1}Vediamo!{\r}

@@ -1,0 +1,99 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.64,Default,,0,0,0,,{\1c&HFF00&\u1}cercate{\r} o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:0.64,0:00:0.70,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:0.70,0:00:0.74,Default,,0,0,0,,cercate {\1c&HFF00&\u1}o{\r} che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:0.74,0:00:0.76,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:0.76,0:00:0.86,Default,,0,0,0,,cercate o {\1c&HFF00&\u1}che{\r} fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:0.86,0:00:0.90,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:0.90,0:00:1.08,Default,,0,0,0,,cercate o che {\1c&HFF00&\u1}fate{\r} finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:1.08,0:00:1.12,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:1.12,0:00:1.32,Default,,0,0,0,,cercate o che fate {\1c&HFF00&\u1}finte{\r} che non esistano. Ma la verità è che
+Dialogue: 0,0:00:1.32,0:00:1.36,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:1.36,0:00:1.43,Default,,0,0,0,,cercate o che fate finte {\1c&HFF00&\u1}che{\r} non esistano. Ma la verità è che
+Dialogue: 0,0:00:1.43,0:00:1.47,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:1.47,0:00:1.59,Default,,0,0,0,,cercate o che fate finte che {\1c&HFF00&\u1}non{\r} esistano. Ma la verità è che
+Dialogue: 0,0:00:1.59,0:00:1.63,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:1.63,0:00:2.11,Default,,0,0,0,,cercate o che fate finte che non {\1c&HFF00&\u1}esistano.{\r} Ma la verità è che
+Dialogue: 0,0:00:2.11,0:00:2.73,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:2.73,0:00:2.79,Default,,0,0,0,,cercate o che fate finte che non esistano. {\1c&HFF00&\u1}Ma{\r} la verità è che
+Dialogue: 0,0:00:2.79,0:00:2.85,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:2.85,0:00:2.89,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma {\1c&HFF00&\u1}la{\r} verità è che
+Dialogue: 0,0:00:2.89,0:00:2.93,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:2.93,0:00:3.25,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la {\1c&HFF00&\u1}verità{\r} è che
+Dialogue: 0,0:00:3.25,0:00:3.33,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità {\1c&HFF00&\u1}è{\r} che
+Dialogue: 0,0:00:3.37,0:00:3.55,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è che
+Dialogue: 0,0:00:3.55,0:00:3.63,Default,,0,0,0,,cercate o che fate finte che non esistano. Ma la verità è {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:5.02,0:00:5.20,Default,,0,0,0,,{\1c&HFF00&\u1}tanta{\r} gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:5.20,0:00:5.26,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:5.26,0:00:5.53,Default,,0,0,0,,tanta {\1c&HFF00&\u1}gente{\r} dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:5.53,0:00:5.61,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:5.61,0:00:5.87,Default,,0,0,0,,tanta gente {\1c&HFF00&\u1}dice{\r} no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:5.87,0:00:5.93,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:5.93,0:00:6.05,Default,,0,0,0,,tanta gente dice {\1c&HFF00&\u1}no{\r} vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.05,0:00:6.07,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.07,0:00:6.25,Default,,0,0,0,,tanta gente dice no {\1c&HFF00&\u1}vabbè{\r} ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.25,0:00:6.27,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.27,0:00:6.33,Default,,0,0,0,,tanta gente dice no vabbè {\1c&HFF00&\u1}ma{\r} è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.33,0:00:6.35,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.35,0:00:6.37,Default,,0,0,0,,tanta gente dice no vabbè ma {\1c&HFF00&\u1}è{\r} un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.37,0:00:6.41,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.41,0:00:6.47,Default,,0,0,0,,tanta gente dice no vabbè ma è {\1c&HFF00&\u1}un{\r} film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.47,0:00:6.49,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.49,0:00:6.61,Default,,0,0,0,,tanta gente dice no vabbè ma è un {\1c&HFF00&\u1}film{\r} di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.61,0:00:6.63,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.63,0:00:6.69,Default,,0,0,0,,tanta gente dice no vabbè ma è un film {\1c&HFF00&\u1}di{\r} supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.69,0:00:6.73,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:6.73,0:00:7.17,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di {\1c&HFF00&\u1}supereroi{\r} ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.17,0:00:7.19,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.19,0:00:7.29,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi {\1c&HFF00&\u1}ma{\r} tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.29,0:00:7.35,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.35,0:00:7.41,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma {\1c&HFF00&\u1}tu{\r} stai a pensare alla storia?
+Dialogue: 0,0:00:7.41,0:00:7.45,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.45,0:00:7.57,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu {\1c&HFF00&\u1}stai{\r} a pensare alla storia?
+Dialogue: 0,0:00:7.57,0:00:7.59,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.59,0:00:7.63,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai {\1c&HFF00&\u1}a{\r} pensare alla storia?
+Dialogue: 0,0:00:7.63,0:00:7.69,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.69,0:00:7.97,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a {\1c&HFF00&\u1}pensare{\r} alla storia?
+Dialogue: 0,0:00:7.97,0:00:7.99,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:7.99,0:00:8.13,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare {\1c&HFF00&\u1}alla{\r} storia?
+Dialogue: 0,0:00:8.13,0:00:8.17,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla storia?
+Dialogue: 0,0:00:8.17,0:00:8.51,Default,,0,0,0,,tanta gente dice no vabbè ma è un film di supereroi ma tu stai a pensare alla {\1c&HFF00&\u1}storia?{\r}
+Dialogue: 0,0:00:9.53,0:00:9.77,Default,,0,0,0,,{\1c&HFF00&\u1}Certo{\r}
+Dialogue: 0,0:00:10.72,0:00:11.06,Default,,0,0,0,,{\1c&HFF00&\u1}Certo,{\r} io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.06,0:00:11.18,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.18,0:00:11.26,Default,,0,0,0,,Certo, {\1c&HFF00&\u1}io{\r} vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.26,0:00:11.30,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.30,0:00:11.44,Default,,0,0,0,,Certo, io {\1c&HFF00&\u1}vado{\r} al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.44,0:00:11.46,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.46,0:00:11.54,Default,,0,0,0,,Certo, io vado {\1c&HFF00&\u1}al{\r} cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.54,0:00:11.60,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.60,0:00:11.88,Default,,0,0,0,,Certo, io vado al {\1c&HFF00&\u1}cinema{\r} perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.88,0:00:11.90,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:11.90,0:00:12.12,Default,,0,0,0,,Certo, io vado al cinema {\1c&HFF00&\u1}perché{\r} mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:12.12,0:00:12.16,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:12.16,0:00:12.22,Default,,0,0,0,,Certo, io vado al cinema perché {\1c&HFF00&\u1}mi{\r} si raccontino delle storie, se voli...
+Dialogue: 0,0:00:12.22,0:00:12.28,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:12.28,0:00:12.34,Default,,0,0,0,,Certo, io vado al cinema perché mi {\1c&HFF00&\u1}si{\r} raccontino delle storie, se voli...
+Dialogue: 0,0:00:12.34,0:00:12.38,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:12.38,0:00:12.86,Default,,0,0,0,,Certo, io vado al cinema perché mi si {\1c&HFF00&\u1}raccontino{\r} delle storie, se voli...
+Dialogue: 0,0:00:12.86,0:00:12.88,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:12.88,0:00:13.07,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino {\1c&HFF00&\u1}delle{\r} storie, se voli...
+Dialogue: 0,0:00:13.07,0:00:13.11,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:13.11,0:00:13.51,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle {\1c&HFF00&\u1}storie,{\r} se voli...
+Dialogue: 0,0:00:13.51,0:00:14.27,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:14.27,0:00:14.37,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, {\1c&HFF00&\u1}se{\r} voli...
+Dialogue: 0,0:00:14.37,0:00:14.49,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se voli...
+Dialogue: 0,0:00:14.49,0:00:14.63,Default,,0,0,0,,Certo, io vado al cinema perché mi si raccontino delle storie, se {\1c&HFF00&\u1}voli...{\r}

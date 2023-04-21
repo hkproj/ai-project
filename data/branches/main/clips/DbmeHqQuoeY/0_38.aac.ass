@@ -1,0 +1,368 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.44,Default,,0,0,0,,{\1c&HFF00&\u1}Spesso{\r} quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:0.44,0:00:0.50,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:0.50,0:00:0.68,Default,,0,0,0,,Spesso {\1c&HFF00&\u1}quando{\r} si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:0.68,0:00:0.74,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:0.74,0:00:0.80,Default,,0,0,0,,Spesso quando {\1c&HFF00&\u1}si{\r} cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:0.80,0:00:0.86,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:0.86,0:00:1.10,Default,,0,0,0,,Spesso quando si {\1c&HFF00&\u1}cerca{\r} di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:1.10,0:00:1.16,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:1.16,0:00:1.22,Default,,0,0,0,,Spesso quando si cerca {\1c&HFF00&\u1}di{\r} risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:1.22,0:00:1.28,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:1.28,0:00:1.84,Default,,0,0,0,,Spesso quando si cerca di {\1c&HFF00&\u1}risparmiare{\r} si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:1.84,0:00:1.93,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:1.93,0:00:1.99,Default,,0,0,0,,Spesso quando si cerca di risparmiare {\1c&HFF00&\u1}si{\r} considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:1.99,0:00:2.05,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:2.05,0:00:2.59,Default,,0,0,0,,Spesso quando si cerca di risparmiare si {\1c&HFF00&\u1}considerano{\r} solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:2.59,0:00:2.65,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:2.65,0:00:2.83,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano {\1c&HFF00&\u1}solo{\r} le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:2.83,0:00:2.91,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:2.91,0:00:2.97,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo {\1c&HFF00&\u1}le{\r} spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:2.97,0:00:3.01,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:3.01,0:00:3.39,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le {\1c&HFF00&\u1}spese{\r} variabili, a volte invece bisogna
+Dialogue: 0,0:00:3.39,0:00:3.63,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:3.63,0:00:4.21,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese {\1c&HFF00&\u1}variabili,{\r} a volte invece bisogna
+Dialogue: 0,0:00:4.21,0:00:4.79,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:4.79,0:00:4.83,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, {\1c&HFF00&\u1}a{\r} volte invece bisogna
+Dialogue: 0,0:00:4.83,0:00:4.87,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:4.87,0:00:5.11,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a {\1c&HFF00&\u1}volte{\r} invece bisogna
+Dialogue: 0,0:00:5.11,0:00:5.15,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:5.15,0:00:5.41,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte {\1c&HFF00&\u1}invece{\r} bisogna
+Dialogue: 0,0:00:5.41,0:00:5.49,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece bisogna
+Dialogue: 0,0:00:5.49,0:00:5.71,Default,,0,0,0,,Spesso quando si cerca di risparmiare si considerano solo le spese variabili, a volte invece {\1c&HFF00&\u1}bisogna{\r}
+Dialogue: 0,0:00:5.68,0:00:5.90,Default,,0,0,0,,{\1c&HFF00&\u1}considerare{\r} anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:5.90,0:00:5.92,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:5.92,0:00:6.02,Default,,0,0,0,,considerare {\1c&HFF00&\u1}anche{\r} quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.02,0:00:6.04,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.04,0:00:6.16,Default,,0,0,0,,considerare anche {\1c&HFF00&\u1}quelle{\r} fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.16,0:00:6.18,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.18,0:00:6.28,Default,,0,0,0,,considerare anche quelle {\1c&HFF00&\u1}fisse{\r} come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.28,0:00:6.30,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.30,0:00:6.38,Default,,0,0,0,,considerare anche quelle fisse {\1c&HFF00&\u1}come{\r} legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.38,0:00:6.40,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.40,0:00:6.52,Default,,0,0,0,,considerare anche quelle fisse come {\1c&HFF00&\u1}legate{\r} alla casa e alla macchina.
+Dialogue: 0,0:00:6.52,0:00:6.54,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.54,0:00:6.62,Default,,0,0,0,,considerare anche quelle fisse come legate {\1c&HFF00&\u1}alla{\r} casa e alla macchina.
+Dialogue: 0,0:00:6.62,0:00:6.64,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.64,0:00:6.72,Default,,0,0,0,,considerare anche quelle fisse come legate alla {\1c&HFF00&\u1}casa{\r} e alla macchina.
+Dialogue: 0,0:00:6.72,0:00:6.76,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.76,0:00:6.78,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa {\1c&HFF00&\u1}e{\r} alla macchina.
+Dialogue: 0,0:00:6.78,0:00:6.80,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.80,0:00:6.88,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e {\1c&HFF00&\u1}alla{\r} macchina.
+Dialogue: 0,0:00:6.88,0:00:6.90,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla macchina.
+Dialogue: 0,0:00:6.90,0:00:7.06,Default,,0,0,0,,considerare anche quelle fisse come legate alla casa e alla {\1c&HFF00&\u1}macchina.{\r}
+Dialogue: 0,0:00:9.32,0:00:9.42,Default,,0,0,0,,{\1c&HFF00&\u1}Se{\r} si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.42,0:00:9.44,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.44,0:00:9.50,Default,,0,0,0,,Se {\1c&HFF00&\u1}si{\r} arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.50,0:00:9.54,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.54,0:00:9.78,Default,,0,0,0,,Se si {\1c&HFF00&\u1}arriva{\r} a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.78,0:00:9.80,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.80,0:00:9.82,Default,,0,0,0,,Se si arriva {\1c&HFF00&\u1}a{\r} fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.82,0:00:9.92,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:9.92,0:00:10.12,Default,,0,0,0,,Se si arriva a {\1c&HFF00&\u1}fine{\r} mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.12,0:00:10.20,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.20,0:00:10.52,Default,,0,0,0,,Se si arriva a fine {\1c&HFF00&\u1}mese{\r} che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.52,0:00:10.60,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.60,0:00:10.68,Default,,0,0,0,,Se si arriva a fine mese {\1c&HFF00&\u1}che{\r} non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.68,0:00:10.74,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.74,0:00:10.84,Default,,0,0,0,,Se si arriva a fine mese che {\1c&HFF00&\u1}non{\r} si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.84,0:00:10.88,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.88,0:00:10.97,Default,,0,0,0,,Se si arriva a fine mese che non {\1c&HFF00&\u1}si{\r} riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:10.97,0:00:11.03,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:11.03,0:00:11.25,Default,,0,0,0,,Se si arriva a fine mese che non si {\1c&HFF00&\u1}riesce{\r} a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:11.25,0:00:11.27,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:11.27,0:00:11.31,Default,,0,0,0,,Se si arriva a fine mese che non si riesce {\1c&HFF00&\u1}a{\r} mettere via nulla anche se non si spende
+Dialogue: 0,0:00:11.31,0:00:11.39,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:11.39,0:00:11.67,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a {\1c&HFF00&\u1}mettere{\r} via nulla anche se non si spende
+Dialogue: 0,0:00:11.67,0:00:11.75,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:11.75,0:00:11.91,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere {\1c&HFF00&\u1}via{\r} nulla anche se non si spende
+Dialogue: 0,0:00:11.91,0:00:11.97,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:11.97,0:00:12.31,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via {\1c&HFF00&\u1}nulla{\r} anche se non si spende
+Dialogue: 0,0:00:12.31,0:00:12.43,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:12.43,0:00:12.61,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla {\1c&HFF00&\u1}anche{\r} se non si spende
+Dialogue: 0,0:00:12.61,0:00:12.67,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:12.67,0:00:12.73,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche {\1c&HFF00&\u1}se{\r} non si spende
+Dialogue: 0,0:00:12.73,0:00:12.83,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:12.83,0:00:13.07,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se {\1c&HFF00&\u1}non{\r} si spende
+Dialogue: 0,0:00:13.07,0:00:13.13,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:13.13,0:00:13.21,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non {\1c&HFF00&\u1}si{\r} spende
+Dialogue: 0,0:00:13.21,0:00:13.29,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si spende
+Dialogue: 0,0:00:13.29,0:00:13.77,Default,,0,0,0,,Se si arriva a fine mese che non si riesce a mettere via nulla anche se non si {\1c&HFF00&\u1}spende{\r}
+Dialogue: 0,0:00:13.76,0:00:13.80,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:13.80,0:00:13.82,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:13.82,0:00:13.90,Default,,0,0,0,,in {\1c&HFF00&\u1}cose{\r} quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:13.90,0:00:13.92,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:13.92,0:00:14.04,Default,,0,0,0,,in cose {\1c&HFF00&\u1}quindi{\r} non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.04,0:00:14.06,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.06,0:00:14.12,Default,,0,0,0,,in cose quindi {\1c&HFF00&\u1}non{\r} si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.12,0:00:14.14,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.14,0:00:14.18,Default,,0,0,0,,in cose quindi non {\1c&HFF00&\u1}si{\r} hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.18,0:00:14.20,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.20,0:00:14.30,Default,,0,0,0,,in cose quindi non si {\1c&HFF00&\u1}hanno{\r} spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.30,0:00:14.32,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.32,0:00:14.42,Default,,0,0,0,,in cose quindi non si hanno {\1c&HFF00&\u1}spese{\r} variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.42,0:00:14.44,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.44,0:00:14.62,Default,,0,0,0,,in cose quindi non si hanno spese {\1c&HFF00&\u1}variabili{\r} bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.62,0:00:14.64,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.64,0:00:14.86,Default,,0,0,0,,in cose quindi non si hanno spese variabili {\1c&HFF00&\u1}bisogna{\r} considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.86,0:00:14.88,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:14.88,0:00:15.24,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna {\1c&HFF00&\u1}considerare{\r} quelle fisse e vedere
+Dialogue: 0,0:00:15.24,0:00:15.28,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:15.28,0:00:15.40,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare {\1c&HFF00&\u1}quelle{\r} fisse e vedere
+Dialogue: 0,0:00:15.40,0:00:15.46,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:15.46,0:00:15.78,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle {\1c&HFF00&\u1}fisse{\r} e vedere
+Dialogue: 0,0:00:15.78,0:00:16.41,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:16.41,0:00:16.47,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse {\1c&HFF00&\u1}e{\r} vedere
+Dialogue: 0,0:00:16.47,0:00:16.61,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e vedere
+Dialogue: 0,0:00:16.61,0:00:16.85,Default,,0,0,0,,in cose quindi non si hanno spese variabili bisogna considerare quelle fisse e {\1c&HFF00&\u1}vedere{\r}
+Dialogue: 0,0:00:19.96,0:00:20.18,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.18,0:00:20.20,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.20,0:00:20.42,Default,,0,0,0,,se {\1c&HFF00&\u1}non{\r} è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.42,0:00:20.44,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.44,0:00:20.46,Default,,0,0,0,,se non {\1c&HFF00&\u1}è{\r} il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.46,0:00:20.62,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.62,0:00:20.66,Default,,0,0,0,,se non è {\1c&HFF00&\u1}il{\r} caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.66,0:00:20.72,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:20.72,0:00:21.06,Default,,0,0,0,,se non è il {\1c&HFF00&\u1}caso{\r} di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:21.06,0:00:21.12,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:21.12,0:00:21.74,Default,,0,0,0,,se non è il caso {\1c&HFF00&\u1}di{\r} cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:21.74,0:00:21.78,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:21.78,0:00:22.11,Default,,0,0,0,,se non è il caso di {\1c&HFF00&\u1}cambiare{\r} casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:22.11,0:00:22.19,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:22.19,0:00:22.59,Default,,0,0,0,,se non è il caso di cambiare {\1c&HFF00&\u1}casa{\r} per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:22.59,0:00:22.73,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:22.73,0:00:22.87,Default,,0,0,0,,se non è il caso di cambiare casa {\1c&HFF00&\u1}per{\r} pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:22.87,0:00:22.95,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:22.95,0:00:23.25,Default,,0,0,0,,se non è il caso di cambiare casa per {\1c&HFF00&\u1}pagare{\r} meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:23.25,0:00:23.39,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:23.39,0:00:23.59,Default,,0,0,0,,se non è il caso di cambiare casa per pagare {\1c&HFF00&\u1}meno{\r} affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:23.59,0:00:23.65,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:23.65,0:00:24.13,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno {\1c&HFF00&\u1}affitto,{\r} per essere più vicini al lavoro
+Dialogue: 0,0:00:24.13,0:00:24.19,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:24.19,0:00:24.29,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, {\1c&HFF00&\u1}per{\r} essere più vicini al lavoro
+Dialogue: 0,0:00:24.29,0:00:24.33,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:24.33,0:00:24.53,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per {\1c&HFF00&\u1}essere{\r} più vicini al lavoro
+Dialogue: 0,0:00:24.53,0:00:24.57,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:24.57,0:00:24.65,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere {\1c&HFF00&\u1}più{\r} vicini al lavoro
+Dialogue: 0,0:00:24.65,0:00:24.69,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:24.69,0:00:24.93,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più {\1c&HFF00&\u1}vicini{\r} al lavoro
+Dialogue: 0,0:00:24.93,0:00:24.99,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:24.99,0:00:25.05,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini {\1c&HFF00&\u1}al{\r} lavoro
+Dialogue: 0,0:00:25.05,0:00:25.09,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al lavoro
+Dialogue: 0,0:00:25.09,0:00:25.47,Default,,0,0,0,,se non è il caso di cambiare casa per pagare meno affitto, per essere più vicini al {\1c&HFF00&\u1}lavoro{\r}
+Dialogue: 0,0:00:25.94,0:00:26.00,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.00,0:00:26.02,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.02,0:00:26.18,Default,,0,0,0,,o {\1c&HFF00&\u1}anche{\r} nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.18,0:00:26.24,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.24,0:00:26.38,Default,,0,0,0,,o anche {\1c&HFF00&\u1}nel{\r} caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.38,0:00:26.42,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.42,0:00:26.62,Default,,0,0,0,,o anche nel {\1c&HFF00&\u1}caso{\r} di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.62,0:00:26.70,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.70,0:00:26.76,Default,,0,0,0,,o anche nel caso {\1c&HFF00&\u1}di{\r} un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.76,0:00:26.82,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.82,0:00:26.98,Default,,0,0,0,,o anche nel caso di {\1c&HFF00&\u1}un{\r} mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:26.98,0:00:27.02,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:27.02,0:00:27.38,Default,,0,0,0,,o anche nel caso di un {\1c&HFF00&\u1}mutuo,{\r} si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:27.38,0:00:27.65,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:27.65,0:00:27.73,Default,,0,0,0,,o anche nel caso di un mutuo, {\1c&HFF00&\u1}si{\r} può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:27.73,0:00:27.77,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:27.77,0:00:27.87,Default,,0,0,0,,o anche nel caso di un mutuo, si {\1c&HFF00&\u1}può{\r} provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:27.87,0:00:27.93,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:27.93,0:00:28.27,Default,,0,0,0,,o anche nel caso di un mutuo, si può {\1c&HFF00&\u1}provare{\r} a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:28.27,0:00:28.29,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:28.29,0:00:28.31,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare {\1c&HFF00&\u1}a{\r} negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:28.31,0:00:28.37,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:28.37,0:00:28.95,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a {\1c&HFF00&\u1}negoziare{\r} l'affitto oppure rivedere le
+Dialogue: 0,0:00:28.95,0:00:29.05,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:29.05,0:00:29.49,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare {\1c&HFF00&\u1}l'affitto{\r} oppure rivedere le
+Dialogue: 0,0:00:29.49,0:00:29.51,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:29.51,0:00:29.99,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto {\1c&HFF00&\u1}oppure{\r} rivedere le
+Dialogue: 0,0:00:29.99,0:00:30.11,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:30.11,0:00:30.49,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure {\1c&HFF00&\u1}rivedere{\r} le
+Dialogue: 0,0:00:30.49,0:00:30.57,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere le
+Dialogue: 0,0:00:30.57,0:00:30.63,Default,,0,0,0,,o anche nel caso di un mutuo, si può provare a negoziare l'affitto oppure rivedere {\1c&HFF00&\u1}le{\r}
+Dialogue: 0,0:00:30.60,0:00:31.74,Default,,0,0,0,,{\1c&HFF00&\u1}condizioni{\r} con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:31.74,0:00:31.76,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:31.76,0:00:31.86,Default,,0,0,0,,condizioni {\1c&HFF00&\u1}con{\r} la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:31.86,0:00:31.92,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:31.92,0:00:31.98,Default,,0,0,0,,condizioni con {\1c&HFF00&\u1}la{\r} banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:31.98,0:00:32.02,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.02,0:00:32.40,Default,,0,0,0,,condizioni con la {\1c&HFF00&\u1}banca{\r} e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.40,0:00:32.61,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.61,0:00:32.65,Default,,0,0,0,,condizioni con la banca {\1c&HFF00&\u1}e{\r} anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.65,0:00:32.67,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.67,0:00:32.85,Default,,0,0,0,,condizioni con la banca e {\1c&HFF00&\u1}anche{\r} la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.85,0:00:32.91,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.91,0:00:32.97,Default,,0,0,0,,condizioni con la banca e anche {\1c&HFF00&\u1}la{\r} macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:32.97,0:00:33.01,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:33.01,0:00:33.45,Default,,0,0,0,,condizioni con la banca e anche la {\1c&HFF00&\u1}macchina{\r} serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:33.45,0:00:33.57,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:33.57,0:00:33.81,Default,,0,0,0,,condizioni con la banca e anche la macchina {\1c&HFF00&\u1}serve{\r} davvero, mi posso permettere questa
+Dialogue: 0,0:00:33.81,0:00:33.87,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:33.87,0:00:34.39,Default,,0,0,0,,condizioni con la banca e anche la macchina serve {\1c&HFF00&\u1}davvero,{\r} mi posso permettere questa
+Dialogue: 0,0:00:34.39,0:00:35.47,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:35.47,0:00:35.53,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, {\1c&HFF00&\u1}mi{\r} posso permettere questa
+Dialogue: 0,0:00:35.53,0:00:35.59,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:35.59,0:00:35.79,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi {\1c&HFF00&\u1}posso{\r} permettere questa
+Dialogue: 0,0:00:35.79,0:00:35.85,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:35.85,0:00:36.33,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso {\1c&HFF00&\u1}permettere{\r} questa
+Dialogue: 0,0:00:36.33,0:00:36.37,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere questa
+Dialogue: 0,0:00:36.37,0:00:36.57,Default,,0,0,0,,condizioni con la banca e anche la macchina serve davvero, mi posso permettere {\1c&HFF00&\u1}questa{\r}
+Dialogue: 0,0:00:36.60,0:00:37.48,Default,,0,0,0,,{\1c&HFF00&\u1}macchina,{\r} posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:37.48,0:00:37.52,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:37.52,0:00:37.72,Default,,0,0,0,,macchina, {\1c&HFF00&\u1}posso{\r} condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:37.72,0:00:37.74,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:37.74,0:00:38.26,Default,,0,0,0,,macchina, posso {\1c&HFF00&\u1}condividerla{\r} con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:38.26,0:00:38.32,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:38.32,0:00:38.44,Default,,0,0,0,,macchina, posso condividerla {\1c&HFF00&\u1}con{\r} qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:38.44,0:00:38.51,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:38.51,0:00:39.19,Default,,0,0,0,,macchina, posso condividerla con {\1c&HFF00&\u1}qualcuno{\r} in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:39.19,0:00:39.61,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:39.61,0:00:39.69,Default,,0,0,0,,macchina, posso condividerla con qualcuno {\1c&HFF00&\u1}in{\r} famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:39.69,0:00:39.75,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:39.75,0:00:40.29,Default,,0,0,0,,macchina, posso condividerla con qualcuno in {\1c&HFF00&\u1}famiglia,{\r} io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:40.29,0:00:40.89,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:40.89,0:00:40.93,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, {\1c&HFF00&\u1}io{\r} e il mio ragazzo condividiamo
+Dialogue: 0,0:00:40.93,0:00:40.95,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:40.95,0:00:40.97,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io {\1c&HFF00&\u1}e{\r} il mio ragazzo condividiamo
+Dialogue: 0,0:00:40.97,0:00:41.01,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:41.01,0:00:41.05,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e {\1c&HFF00&\u1}il{\r} mio ragazzo condividiamo
+Dialogue: 0,0:00:41.05,0:00:41.07,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:41.07,0:00:41.15,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il {\1c&HFF00&\u1}mio{\r} ragazzo condividiamo
+Dialogue: 0,0:00:41.15,0:00:41.19,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:41.19,0:00:41.47,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio {\1c&HFF00&\u1}ragazzo{\r} condividiamo
+Dialogue: 0,0:00:41.47,0:00:41.55,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo condividiamo
+Dialogue: 0,0:00:41.55,0:00:41.99,Default,,0,0,0,,macchina, posso condividerla con qualcuno in famiglia, io e il mio ragazzo {\1c&HFF00&\u1}condividiamo{\r}
+Dialogue: 0,0:00:42.10,0:00:42.22,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.22,0:00:42.26,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.26,0:00:42.70,Default,,0,0,0,,una {\1c&HFF00&\u1}macchina.{\r} Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.70,0:00:42.72,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.72,0:00:42.82,Default,,0,0,0,,una macchina. {\1c&HFF00&\u1}Per{\r} la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.82,0:00:42.86,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.86,0:00:42.92,Default,,0,0,0,,una macchina. Per {\1c&HFF00&\u1}la{\r} macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.92,0:00:42.94,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:42.94,0:00:43.28,Default,,0,0,0,,una macchina. Per la {\1c&HFF00&\u1}macchina{\r} si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.28,0:00:43.34,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.34,0:00:43.38,Default,,0,0,0,,una macchina. Per la macchina {\1c&HFF00&\u1}si{\r} può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.38,0:00:43.44,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.44,0:00:43.52,Default,,0,0,0,,una macchina. Per la macchina si {\1c&HFF00&\u1}può{\r} cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.52,0:00:43.58,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.58,0:00:43.87,Default,,0,0,0,,una macchina. Per la macchina si può {\1c&HFF00&\u1}cercare{\r} una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.87,0:00:43.91,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.91,0:00:43.99,Default,,0,0,0,,una macchina. Per la macchina si può cercare {\1c&HFF00&\u1}una{\r} nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:43.99,0:00:44.03,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:44.03,0:00:44.23,Default,,0,0,0,,una macchina. Per la macchina si può cercare una {\1c&HFF00&\u1}nuova{\r} assicurazione, è facile rinnovare
+Dialogue: 0,0:00:44.23,0:00:44.27,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:44.27,0:00:45.07,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova {\1c&HFF00&\u1}assicurazione,{\r} è facile rinnovare
+Dialogue: 0,0:00:45.07,0:00:45.51,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:45.51,0:00:45.55,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, {\1c&HFF00&\u1}è{\r} facile rinnovare
+Dialogue: 0,0:00:45.55,0:00:45.63,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:45.63,0:00:46.05,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è {\1c&HFF00&\u1}facile{\r} rinnovare
+Dialogue: 0,0:00:46.05,0:00:46.11,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile rinnovare
+Dialogue: 0,0:00:46.11,0:00:46.47,Default,,0,0,0,,una macchina. Per la macchina si può cercare una nuova assicurazione, è facile {\1c&HFF00&\u1}rinnovare{\r}
+Dialogue: 0,0:00:46.48,0:00:47.10,Default,,0,0,0,,{\1c&HFF00&\u1}sempre{\r} la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:47.10,0:00:47.12,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:47.12,0:00:47.16,Default,,0,0,0,,sempre {\1c&HFF00&\u1}la{\r} stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:47.16,0:00:47.20,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:47.20,0:00:47.48,Default,,0,0,0,,sempre la {\1c&HFF00&\u1}stessa,{\r} anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:47.48,0:00:47.96,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:47.96,0:00:48.16,Default,,0,0,0,,sempre la stessa, {\1c&HFF00&\u1}anche{\r} se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:48.16,0:00:48.28,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:48.28,0:00:48.49,Default,,0,0,0,,sempre la stessa, anche {\1c&HFF00&\u1}se{\r} a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:48.49,0:00:48.69,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:48.69,0:00:48.71,Default,,0,0,0,,sempre la stessa, anche se {\1c&HFF00&\u1}a{\r} volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:48.71,0:00:48.75,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:48.75,0:00:48.97,Default,,0,0,0,,sempre la stessa, anche se a {\1c&HFF00&\u1}volte{\r} non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:48.97,0:00:49.05,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:49.05,0:00:49.17,Default,,0,0,0,,sempre la stessa, anche se a volte {\1c&HFF00&\u1}non{\r} è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:49.17,0:00:49.21,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:49.21,0:00:49.27,Default,,0,0,0,,sempre la stessa, anche se a volte non {\1c&HFF00&\u1}è{\r} più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:49.27,0:00:49.35,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:49.35,0:00:49.43,Default,,0,0,0,,sempre la stessa, anche se a volte non è {\1c&HFF00&\u1}più{\r} conveniente, quindi cercare online quella
+Dialogue: 0,0:00:49.43,0:00:49.49,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:49.49,0:00:49.99,Default,,0,0,0,,sempre la stessa, anche se a volte non è più {\1c&HFF00&\u1}conveniente,{\r} quindi cercare online quella
+Dialogue: 0,0:00:49.99,0:00:50.07,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:50.07,0:00:50.27,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, {\1c&HFF00&\u1}quindi{\r} cercare online quella
+Dialogue: 0,0:00:50.27,0:00:50.33,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:50.33,0:00:50.67,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi {\1c&HFF00&\u1}cercare{\r} online quella
+Dialogue: 0,0:00:50.67,0:00:50.73,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:50.73,0:00:51.11,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare {\1c&HFF00&\u1}online{\r} quella
+Dialogue: 0,0:00:51.11,0:00:51.27,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online quella
+Dialogue: 0,0:00:51.27,0:00:51.55,Default,,0,0,0,,sempre la stessa, anche se a volte non è più conveniente, quindi cercare online {\1c&HFF00&\u1}quella{\r}
+Dialogue: 0,0:00:51.96,0:00:52.38,Default,,0,0,0,,{\1c&HFF00&\u1}più{\r} conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:52.38,0:00:52.40,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:52.40,0:00:53.30,Default,,0,0,0,,più {\1c&HFF00&\u1}conveniente.{\r} Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:53.30,0:00:53.32,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:53.32,0:00:53.48,Default,,0,0,0,,più conveniente. {\1c&HFF00&\u1}Altre{\r} volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:53.48,0:00:53.52,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:53.52,0:00:53.71,Default,,0,0,0,,più conveniente. Altre {\1c&HFF00&\u1}volte{\r} invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:53.71,0:00:53.73,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:53.73,0:00:53.99,Default,,0,0,0,,più conveniente. Altre volte {\1c&HFF00&\u1}invece{\r} si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:53.99,0:00:54.05,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:54.05,0:00:54.13,Default,,0,0,0,,più conveniente. Altre volte invece {\1c&HFF00&\u1}si{\r} può contattare la propria assicurazione, così
+Dialogue: 0,0:00:54.13,0:00:54.19,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:54.19,0:00:54.29,Default,,0,0,0,,più conveniente. Altre volte invece si {\1c&HFF00&\u1}può{\r} contattare la propria assicurazione, così
+Dialogue: 0,0:00:54.29,0:00:54.37,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:54.37,0:00:54.97,Default,,0,0,0,,più conveniente. Altre volte invece si può {\1c&HFF00&\u1}contattare{\r} la propria assicurazione, così
+Dialogue: 0,0:00:54.97,0:00:55.17,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:55.17,0:00:55.23,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare {\1c&HFF00&\u1}la{\r} propria assicurazione, così
+Dialogue: 0,0:00:55.23,0:00:55.27,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:55.27,0:00:55.53,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la {\1c&HFF00&\u1}propria{\r} assicurazione, così
+Dialogue: 0,0:00:55.53,0:00:55.55,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:55.55,0:00:56.23,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria {\1c&HFF00&\u1}assicurazione,{\r} così
+Dialogue: 0,0:00:56.23,0:00:56.35,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, così
+Dialogue: 0,0:00:56.35,0:00:56.49,Default,,0,0,0,,più conveniente. Altre volte invece si può contattare la propria assicurazione, {\1c&HFF00&\u1}così{\r}
+Dialogue: 0,0:00:56.48,0:00:57.52,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:57.52,0:00:57.56,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:57.56,0:00:57.70,Default,,0,0,0,,come {\1c&HFF00&\u1}nel{\r} caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:57.70,0:00:57.74,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:57.74,0:00:57.88,Default,,0,0,0,,come nel {\1c&HFF00&\u1}caso{\r} di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:57.88,0:00:57.92,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:57.92,0:00:57.98,Default,,0,0,0,,come nel caso {\1c&HFF00&\u1}di{\r} affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:57.98,0:00:58.04,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:58.04,0:00:58.58,Default,,0,0,0,,come nel caso di {\1c&HFF00&\u1}affitto{\r} il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:58.58,0:00:59.19,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:59.19,0:00:59.27,Default,,0,0,0,,come nel caso di affitto {\1c&HFF00&\u1}il{\r} proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:59.27,0:00:59.31,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:59.31,0:00:59.85,Default,,0,0,0,,come nel caso di affitto il {\1c&HFF00&\u1}proprietario{\r} della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:59.85,0:00:59.89,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:00:59.89,0:01:0.09,Default,,0,0,0,,come nel caso di affitto il proprietario {\1c&HFF00&\u1}della{\r} casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:0.09,0:01:0.15,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:0.15,0:01:0.51,Default,,0,0,0,,come nel caso di affitto il proprietario della {\1c&HFF00&\u1}casa{\r} e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:0.51,0:01:0.91,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:0.91,0:01:0.95,Default,,0,0,0,,come nel caso di affitto il proprietario della casa {\1c&HFF00&\u1}e{\r} chiedere uno sconto dicendo che
+Dialogue: 0,0:01:0.95,0:01:1.03,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:1.03,0:01:1.53,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e {\1c&HFF00&\u1}chiedere{\r} uno sconto dicendo che
+Dialogue: 0,0:01:1.53,0:01:1.83,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:1.83,0:01:1.99,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere {\1c&HFF00&\u1}uno{\r} sconto dicendo che
+Dialogue: 0,0:01:1.99,0:01:2.05,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:2.05,0:01:2.61,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno {\1c&HFF00&\u1}sconto{\r} dicendo che
+Dialogue: 0,0:01:2.61,0:01:3.01,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:3.01,0:01:3.50,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto {\1c&HFF00&\u1}dicendo{\r} che
+Dialogue: 0,0:01:3.50,0:01:3.60,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo che
+Dialogue: 0,0:01:3.60,0:01:3.68,Default,,0,0,0,,come nel caso di affitto il proprietario della casa e chiedere uno sconto dicendo {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:01:3.90,0:01:4.48,Default,,0,0,0,,{\1c&HFF00&\u1}altrimenti{\r} si è costretti a cercare altro.
+Dialogue: 0,0:01:4.48,0:01:4.96,Default,,0,0,0,,altrimenti si è costretti a cercare altro.
+Dialogue: 0,0:01:4.96,0:01:5.10,Default,,0,0,0,,altrimenti {\1c&HFF00&\u1}si{\r} è costretti a cercare altro.
+Dialogue: 0,0:01:5.10,0:01:5.18,Default,,0,0,0,,altrimenti si è costretti a cercare altro.
+Dialogue: 0,0:01:5.18,0:01:5.36,Default,,0,0,0,,altrimenti si {\1c&HFF00&\u1}è{\r} costretti a cercare altro.
+Dialogue: 0,0:01:5.36,0:01:6.38,Default,,0,0,0,,altrimenti si è costretti a cercare altro.
+Dialogue: 0,0:01:6.38,0:01:7.03,Default,,0,0,0,,altrimenti si è {\1c&HFF00&\u1}costretti{\r} a cercare altro.
+Dialogue: 0,0:01:7.03,0:01:7.23,Default,,0,0,0,,altrimenti si è costretti a cercare altro.
+Dialogue: 0,0:01:7.23,0:01:7.39,Default,,0,0,0,,altrimenti si è costretti {\1c&HFF00&\u1}a{\r} cercare altro.
+Dialogue: 0,0:01:7.39,0:01:7.53,Default,,0,0,0,,altrimenti si è costretti a cercare altro.
+Dialogue: 0,0:01:7.53,0:01:7.87,Default,,0,0,0,,altrimenti si è costretti a {\1c&HFF00&\u1}cercare{\r} altro.
+Dialogue: 0,0:01:7.87,0:01:7.95,Default,,0,0,0,,altrimenti si è costretti a cercare altro.
+Dialogue: 0,0:01:7.95,0:01:8.25,Default,,0,0,0,,altrimenti si è costretti a cercare {\1c&HFF00&\u1}altro.{\r}

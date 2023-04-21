@@ -1,0 +1,131 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}Quanti{\r} soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:0.50,0:00:0.62,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:0.62,0:00:0.94,Default,,0,0,0,,Quanti {\1c&HFF00&\u1}soldi{\r} risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:0.94,0:00:1.18,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:1.18,0:00:1.86,Default,,0,0,0,,Quanti soldi {\1c&HFF00&\u1}risparmiati?{\r} Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:1.86,0:00:2.04,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.04,0:00:2.12,Default,,0,0,0,,Quanti soldi risparmiati? {\1c&HFF00&\u1}Lo{\r} so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.12,0:00:2.23,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.23,0:00:2.41,Default,,0,0,0,,Quanti soldi risparmiati? Lo {\1c&HFF00&\u1}so,{\r} non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.41,0:00:2.55,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.55,0:00:2.71,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, {\1c&HFF00&\u1}non{\r} c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.71,0:00:2.75,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.75,0:00:2.85,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non {\1c&HFF00&\u1}c'è{\r} tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.85,0:00:2.93,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:2.93,0:00:3.29,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è {\1c&HFF00&\u1}tempo,{\r} ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:3.29,0:00:3.49,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:3.49,0:00:3.59,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, {\1c&HFF00&\u1}ma{\r} il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:3.59,0:00:3.63,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:3.63,0:00:3.73,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma {\1c&HFF00&\u1}il{\r} tempo lo si crea lasciando andare
+Dialogue: 0,0:00:3.73,0:00:3.81,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:3.81,0:00:4.27,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il {\1c&HFF00&\u1}tempo{\r} lo si crea lasciando andare
+Dialogue: 0,0:00:4.27,0:00:4.61,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:4.61,0:00:4.69,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo {\1c&HFF00&\u1}lo{\r} si crea lasciando andare
+Dialogue: 0,0:00:4.69,0:00:4.81,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:4.81,0:00:4.89,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo {\1c&HFF00&\u1}si{\r} crea lasciando andare
+Dialogue: 0,0:00:4.89,0:00:4.99,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:4.99,0:00:5.33,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si {\1c&HFF00&\u1}crea{\r} lasciando andare
+Dialogue: 0,0:00:5.33,0:00:5.61,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:5.61,0:00:6.11,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea {\1c&HFF00&\u1}lasciando{\r} andare
+Dialogue: 0,0:00:6.11,0:00:6.13,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando andare
+Dialogue: 0,0:00:6.13,0:00:6.64,Default,,0,0,0,,Quanti soldi risparmiati? Lo so, non c'è tempo, ma il tempo lo si crea lasciando {\1c&HFF00&\u1}andare{\r}
+Dialogue: 0,0:00:6.96,0:00:7.08,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:7.08,0:00:7.10,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:7.10,0:00:7.62,Default,,0,0,0,,il {\1c&HFF00&\u1}superfluo,{\r} che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:7.62,0:00:7.66,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:7.66,0:00:7.76,Default,,0,0,0,,il superfluo, {\1c&HFF00&\u1}che{\r} siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:7.76,0:00:7.82,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:7.82,0:00:8.06,Default,,0,0,0,,il superfluo, che {\1c&HFF00&\u1}siano{\r} cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:8.06,0:00:8.18,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:8.18,0:00:8.58,Default,,0,0,0,,il superfluo, che siano {\1c&HFF00&\u1}cose{\r} come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:8.58,0:00:9.03,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:9.03,0:00:9.19,Default,,0,0,0,,il superfluo, che siano cose {\1c&HFF00&\u1}come{\r} attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:9.19,0:00:9.25,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:9.25,0:00:9.79,Default,,0,0,0,,il superfluo, che siano cose come {\1c&HFF00&\u1}attività.{\r} E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:9.79,0:00:10.09,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.09,0:00:10.13,Default,,0,0,0,,il superfluo, che siano cose come attività. {\1c&HFF00&\u1}E{\r} ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.13,0:00:10.17,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.17,0:00:10.23,Default,,0,0,0,,il superfluo, che siano cose come attività. E {\1c&HFF00&\u1}ci{\r} sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.23,0:00:10.27,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.27,0:00:10.43,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci {\1c&HFF00&\u1}sono{\r} tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.43,0:00:10.49,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.49,0:00:10.69,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono {\1c&HFF00&\u1}tante{\r} ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.69,0:00:10.75,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:10.75,0:00:11.05,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante {\1c&HFF00&\u1}ricette{\r} veloci, tutto ciò
+Dialogue: 0,0:00:11.05,0:00:11.11,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:11.11,0:00:11.63,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette {\1c&HFF00&\u1}veloci,{\r} tutto ciò
+Dialogue: 0,0:00:11.63,0:00:11.85,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:11.85,0:00:12.05,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, {\1c&HFF00&\u1}tutto{\r} ciò
+Dialogue: 0,0:00:12.05,0:00:12.15,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto ciò
+Dialogue: 0,0:00:12.15,0:00:12.21,Default,,0,0,0,,il superfluo, che siano cose come attività. E ci sono tante ricette veloci, tutto {\1c&HFF00&\u1}ciò{\r}
+Dialogue: 0,0:00:12.24,0:00:12.46,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:12.46,0:00:12.50,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:12.50,0:00:13.20,Default,,0,0,0,,che {\1c&HFF00&\u1}cucino{\r} io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:13.20,0:00:13.22,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:13.22,0:00:13.26,Default,,0,0,0,,che cucino {\1c&HFF00&\u1}io{\r} è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:13.26,0:00:13.28,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:13.28,0:00:13.32,Default,,0,0,0,,che cucino io {\1c&HFF00&\u1}è{\r} veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:13.32,0:00:13.38,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:13.38,0:00:14.24,Default,,0,0,0,,che cucino io è {\1c&HFF00&\u1}veloce.{\r} E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.24,0:00:14.28,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.28,0:00:14.32,Default,,0,0,0,,che cucino io è veloce. {\1c&HFF00&\u1}E{\r} poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.32,0:00:14.38,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.38,0:00:14.51,Default,,0,0,0,,che cucino io è veloce. E {\1c&HFF00&\u1}poi{\r} c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.51,0:00:14.61,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.61,0:00:14.71,Default,,0,0,0,,che cucino io è veloce. E poi {\1c&HFF00&\u1}c'è{\r} la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.71,0:00:14.77,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.77,0:00:14.83,Default,,0,0,0,,che cucino io è veloce. E poi c'è {\1c&HFF00&\u1}la{\r} possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.83,0:00:14.87,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:14.87,0:00:15.49,Default,,0,0,0,,che cucino io è veloce. E poi c'è la {\1c&HFF00&\u1}possibilità{\r} di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:15.49,0:00:15.63,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:15.63,0:00:15.73,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità {\1c&HFF00&\u1}di{\r} cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:15.73,0:00:15.93,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:15.93,0:00:16.41,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di {\1c&HFF00&\u1}cucinare{\r} nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:16.41,0:00:16.49,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:16.49,0:00:16.63,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare {\1c&HFF00&\u1}nel{\r} weekend vari piatti o ingredienti
+Dialogue: 0,0:00:16.63,0:00:16.69,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:16.69,0:00:17.15,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel {\1c&HFF00&\u1}weekend{\r} vari piatti o ingredienti
+Dialogue: 0,0:00:17.15,0:00:17.23,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:17.23,0:00:17.65,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend {\1c&HFF00&\u1}vari{\r} piatti o ingredienti
+Dialogue: 0,0:00:17.65,0:00:17.79,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:17.79,0:00:18.15,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari {\1c&HFF00&\u1}piatti{\r} o ingredienti
+Dialogue: 0,0:00:18.15,0:00:18.19,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:18.19,0:00:18.23,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti {\1c&HFF00&\u1}o{\r} ingredienti
+Dialogue: 0,0:00:18.23,0:00:18.29,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o ingredienti
+Dialogue: 0,0:00:18.29,0:00:18.94,Default,,0,0,0,,che cucino io è veloce. E poi c'è la possibilità di cucinare nel weekend vari piatti o {\1c&HFF00&\u1}ingredienti{\r}
+Dialogue: 0,0:00:19.22,0:00:19.76,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:19.76,0:00:19.88,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:19.88,0:00:20.24,Default,,0,0,0,,come {\1c&HFF00&\u1}verdure,{\r} cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:20.24,0:00:20.34,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:20.34,0:00:21.05,Default,,0,0,0,,come verdure, {\1c&HFF00&\u1}cereali,{\r} hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:21.05,0:00:21.49,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:21.49,0:00:21.87,Default,,0,0,0,,come verdure, cereali, {\1c&HFF00&\u1}hummus,{\r} granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:21.87,0:00:21.93,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:21.93,0:00:22.49,Default,,0,0,0,,come verdure, cereali, hummus, {\1c&HFF00&\u1}granola{\r} e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:22.49,0:00:22.63,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:22.63,0:00:22.67,Default,,0,0,0,,come verdure, cereali, hummus, granola {\1c&HFF00&\u1}e{\r} usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:22.67,0:00:22.71,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:22.71,0:00:23.09,Default,,0,0,0,,come verdure, cereali, hummus, granola e {\1c&HFF00&\u1}usarli{\r} durante settimana per piatti veloci.
+Dialogue: 0,0:00:23.09,0:00:23.17,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:23.17,0:00:23.49,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli {\1c&HFF00&\u1}durante{\r} settimana per piatti veloci.
+Dialogue: 0,0:00:23.49,0:00:23.57,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:23.57,0:00:24.14,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante {\1c&HFF00&\u1}settimana{\r} per piatti veloci.
+Dialogue: 0,0:00:24.14,0:00:24.32,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:24.32,0:00:24.52,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana {\1c&HFF00&\u1}per{\r} piatti veloci.
+Dialogue: 0,0:00:24.52,0:00:24.60,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:24.60,0:00:24.90,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per {\1c&HFF00&\u1}piatti{\r} veloci.
+Dialogue: 0,0:00:24.90,0:00:24.96,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti veloci.
+Dialogue: 0,0:00:24.96,0:00:25.44,Default,,0,0,0,,come verdure, cereali, hummus, granola e usarli durante settimana per piatti {\1c&HFF00&\u1}veloci.{\r}

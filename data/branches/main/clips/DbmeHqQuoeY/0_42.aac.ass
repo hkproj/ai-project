@@ -1,0 +1,124 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.18,0:00:0.36,Default,,0,0,0,,{\1c&HFF00&\u1}Questo{\r} non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:0.36,0:00:0.46,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:0.46,0:00:0.58,Default,,0,0,0,,Questo {\1c&HFF00&\u1}non{\r} è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:0.58,0:00:0.64,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:0.64,0:00:0.70,Default,,0,0,0,,Questo non {\1c&HFF00&\u1}è{\r} un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:0.70,0:00:0.76,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:0.76,0:00:1.00,Default,,0,0,0,,Questo non è {\1c&HFF00&\u1}un{\r} modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:1.00,0:00:1.06,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:1.06,0:00:1.32,Default,,0,0,0,,Questo non è un {\1c&HFF00&\u1}modo{\r} per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:1.32,0:00:1.38,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:1.38,0:00:1.48,Default,,0,0,0,,Questo non è un modo {\1c&HFF00&\u1}per{\r} risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:1.48,0:00:1.50,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:1.50,0:00:2.01,Default,,0,0,0,,Questo non è un modo per {\1c&HFF00&\u1}risparmiare{\r} diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:2.01,0:00:2.15,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:2.15,0:00:2.63,Default,,0,0,0,,Questo non è un modo per risparmiare {\1c&HFF00&\u1}diretto,{\r} ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:2.63,0:00:2.79,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:2.79,0:00:2.87,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, {\1c&HFF00&\u1}ma{\r} indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:2.87,0:00:2.93,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:2.93,0:00:3.41,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma {\1c&HFF00&\u1}indiretto{\r} sì, perché vediamo dove vanno
+Dialogue: 0,0:00:3.41,0:00:3.53,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:3.53,0:00:3.69,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto {\1c&HFF00&\u1}sì,{\r} perché vediamo dove vanno
+Dialogue: 0,0:00:3.69,0:00:4.07,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:4.07,0:00:4.29,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, {\1c&HFF00&\u1}perché{\r} vediamo dove vanno
+Dialogue: 0,0:00:4.29,0:00:4.33,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:4.33,0:00:4.65,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché {\1c&HFF00&\u1}vediamo{\r} dove vanno
+Dialogue: 0,0:00:4.65,0:00:4.75,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:4.75,0:00:4.93,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo {\1c&HFF00&\u1}dove{\r} vanno
+Dialogue: 0,0:00:4.93,0:00:4.99,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove vanno
+Dialogue: 0,0:00:4.99,0:00:5.29,Default,,0,0,0,,Questo non è un modo per risparmiare diretto, ma indiretto sì, perché vediamo dove {\1c&HFF00&\u1}vanno{\r}
+Dialogue: 0,0:00:5.68,0:00:5.74,Default,,0,0,0,,{\1c&HFF00&\u1}le{\r} risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:5.74,0:00:5.80,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:5.80,0:00:6.24,Default,,0,0,0,,le {\1c&HFF00&\u1}risorse{\r} e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.24,0:00:6.38,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.38,0:00:6.42,Default,,0,0,0,,le risorse {\1c&HFF00&\u1}e{\r} su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.42,0:00:6.46,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.46,0:00:6.54,Default,,0,0,0,,le risorse e {\1c&HFF00&\u1}su{\r} cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.54,0:00:6.60,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.60,0:00:6.78,Default,,0,0,0,,le risorse e su {\1c&HFF00&\u1}cosa{\r} si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.78,0:00:6.86,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.86,0:00:6.92,Default,,0,0,0,,le risorse e su cosa {\1c&HFF00&\u1}si{\r} può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:6.92,0:00:7.00,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:7.00,0:00:7.10,Default,,0,0,0,,le risorse e su cosa si {\1c&HFF00&\u1}può{\r} lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:7.10,0:00:7.21,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:7.21,0:00:7.71,Default,,0,0,0,,le risorse e su cosa si può {\1c&HFF00&\u1}lavorare,{\r} a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:7.71,0:00:8.05,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.05,0:00:8.09,Default,,0,0,0,,le risorse e su cosa si può lavorare, {\1c&HFF00&\u1}a{\r} metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.09,0:00:8.15,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.15,0:00:8.31,Default,,0,0,0,,le risorse e su cosa si può lavorare, a {\1c&HFF00&\u1}metodo{\r} di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.31,0:00:8.35,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.35,0:00:8.41,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo {\1c&HFF00&\u1}di{\r} non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.41,0:00:8.49,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.49,0:00:8.57,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di {\1c&HFF00&\u1}non{\r} averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.57,0:00:8.65,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.65,0:00:8.91,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non {\1c&HFF00&\u1}averlo{\r} mai fatto tranne per un mese
+Dialogue: 0,0:00:8.91,0:00:8.95,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:8.95,0:00:9.05,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo {\1c&HFF00&\u1}mai{\r} fatto tranne per un mese
+Dialogue: 0,0:00:9.05,0:00:9.13,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:9.13,0:00:9.35,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai {\1c&HFF00&\u1}fatto{\r} tranne per un mese
+Dialogue: 0,0:00:9.35,0:00:9.41,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:9.41,0:00:9.65,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto {\1c&HFF00&\u1}tranne{\r} per un mese
+Dialogue: 0,0:00:9.65,0:00:9.71,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:9.71,0:00:9.83,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne {\1c&HFF00&\u1}per{\r} un mese
+Dialogue: 0,0:00:9.83,0:00:9.85,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:9.85,0:00:9.91,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per {\1c&HFF00&\u1}un{\r} mese
+Dialogue: 0,0:00:9.91,0:00:9.97,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un mese
+Dialogue: 0,0:00:9.97,0:00:10.19,Default,,0,0,0,,le risorse e su cosa si può lavorare, a metodo di non averlo mai fatto tranne per un {\1c&HFF00&\u1}mese{\r}
+Dialogue: 0,0:00:10.46,0:00:10.50,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.50,0:00:10.54,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.54,0:00:10.62,Default,,0,0,0,,in {\1c&HFF00&\u1}cui{\r} ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.62,0:00:10.64,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.64,0:00:10.70,Default,,0,0,0,,in cui {\1c&HFF00&\u1}ho{\r} fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.70,0:00:10.74,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.74,0:00:10.88,Default,,0,0,0,,in cui ho {\1c&HFF00&\u1}fatto{\r} una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.88,0:00:10.92,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:10.92,0:00:11.08,Default,,0,0,0,,in cui ho fatto {\1c&HFF00&\u1}una{\r} sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:11.08,0:00:11.14,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:11.14,0:00:11.46,Default,,0,0,0,,in cui ho fatto una {\1c&HFF00&\u1}sfida,{\r} ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:11.46,0:00:11.91,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:11.91,0:00:11.97,Default,,0,0,0,,in cui ho fatto una sfida, {\1c&HFF00&\u1}ma{\r} è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:11.97,0:00:12.01,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.01,0:00:12.05,Default,,0,0,0,,in cui ho fatto una sfida, ma {\1c&HFF00&\u1}è{\r} qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.05,0:00:12.09,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.09,0:00:12.37,Default,,0,0,0,,in cui ho fatto una sfida, ma è {\1c&HFF00&\u1}qualcosa{\r} che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.37,0:00:12.41,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.41,0:00:12.51,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa {\1c&HFF00&\u1}che{\r} vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.51,0:00:12.53,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.53,0:00:12.73,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che {\1c&HFF00&\u1}vorrei{\r} cominciare a fare per avere più
+Dialogue: 0,0:00:12.73,0:00:12.77,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:12.77,0:00:13.13,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei {\1c&HFF00&\u1}cominciare{\r} a fare per avere più
+Dialogue: 0,0:00:13.13,0:00:13.17,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:13.17,0:00:13.21,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare {\1c&HFF00&\u1}a{\r} fare per avere più
+Dialogue: 0,0:00:13.21,0:00:13.29,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:13.29,0:00:13.49,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a {\1c&HFF00&\u1}fare{\r} per avere più
+Dialogue: 0,0:00:13.49,0:00:13.55,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:13.55,0:00:13.65,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare {\1c&HFF00&\u1}per{\r} avere più
+Dialogue: 0,0:00:13.65,0:00:13.69,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:13.69,0:00:13.85,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per {\1c&HFF00&\u1}avere{\r} più
+Dialogue: 0,0:00:13.85,0:00:13.87,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere più
+Dialogue: 0,0:00:13.87,0:00:13.93,Default,,0,0,0,,in cui ho fatto una sfida, ma è qualcosa che vorrei cominciare a fare per avere {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:00:14.16,0:00:14.94,Default,,0,0,0,,{\1c&HFF00&\u1}controllo{\r} sulle uscite.
+Dialogue: 0,0:00:14.94,0:00:14.98,Default,,0,0,0,,controllo sulle uscite.
+Dialogue: 0,0:00:14.98,0:00:15.14,Default,,0,0,0,,controllo {\1c&HFF00&\u1}sulle{\r} uscite.
+Dialogue: 0,0:00:15.14,0:00:15.20,Default,,0,0,0,,controllo sulle uscite.
+Dialogue: 0,0:00:15.20,0:00:15.60,Default,,0,0,0,,controllo sulle {\1c&HFF00&\u1}uscite.{\r}
+Dialogue: 0,0:00:16.72,0:00:16.80,Default,,0,0,0,,{\1c&HFF00&\u1}30 ma{\r} non abbiamo finito
+Dialogue: 0,0:00:16.80,0:00:16.84,Default,,0,0,0,,30 ma non abbiamo finito
+Dialogue: 0,0:00:16.84,0:00:16.94,Default,,0,0,0,,30 ma {\1c&HFF00&\u1}non{\r} abbiamo finito
+Dialogue: 0,0:00:16.94,0:00:16.98,Default,,0,0,0,,30 ma non abbiamo finito
+Dialogue: 0,0:00:16.98,0:00:17.24,Default,,0,0,0,,30 ma non {\1c&HFF00&\u1}abbiamo{\r} finito
+Dialogue: 0,0:00:17.24,0:00:17.32,Default,,0,0,0,,30 ma non abbiamo finito
+Dialogue: 0,0:00:17.32,0:00:17.71,Default,,0,0,0,,30 ma non abbiamo {\1c&HFF00&\u1}finito{\r}

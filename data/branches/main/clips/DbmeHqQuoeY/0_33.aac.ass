@@ -1,0 +1,388 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.20,0:00:0.52,Default,,0,0,0,,{\1c&HFF00&\u1}Acqua,{\r} chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:0.52,0:00:0.94,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:0.94,0:00:1.32,Default,,0,0,0,,Acqua, {\1c&HFF00&\u1}chiudere{\r} sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:1.32,0:00:1.44,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:1.44,0:00:1.96,Default,,0,0,0,,Acqua, chiudere {\1c&HFF00&\u1}sempre{\r} l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:1.96,0:00:2.19,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:2.19,0:00:2.71,Default,,0,0,0,,Acqua, chiudere sempre {\1c&HFF00&\u1}l'urbinetto{\r} mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:2.71,0:00:2.77,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:2.77,0:00:3.01,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto {\1c&HFF00&\u1}mentre{\r} ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.01,0:00:3.09,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.09,0:00:3.17,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre {\1c&HFF00&\u1}ci{\r} si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.17,0:00:3.21,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.21,0:00:3.29,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci {\1c&HFF00&\u1}si{\r} lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.29,0:00:3.33,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.33,0:00:3.51,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si {\1c&HFF00&\u1}lava{\r} i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.51,0:00:3.55,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.55,0:00:3.59,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava {\1c&HFF00&\u1}i{\r} denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.59,0:00:3.63,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.63,0:00:3.91,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i {\1c&HFF00&\u1}denti,{\r} spero che questa sia ovvia.
+Dialogue: 0,0:00:3.91,0:00:3.97,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:3.97,0:00:4.25,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, {\1c&HFF00&\u1}spero{\r} che questa sia ovvia.
+Dialogue: 0,0:00:4.25,0:00:4.31,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:4.31,0:00:4.45,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero {\1c&HFF00&\u1}che{\r} questa sia ovvia.
+Dialogue: 0,0:00:4.45,0:00:4.53,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:4.53,0:00:4.93,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che {\1c&HFF00&\u1}questa{\r} sia ovvia.
+Dialogue: 0,0:00:4.93,0:00:5.15,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:5.15,0:00:5.33,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa {\1c&HFF00&\u1}sia{\r} ovvia.
+Dialogue: 0,0:00:5.33,0:00:5.47,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia ovvia.
+Dialogue: 0,0:00:5.47,0:00:5.75,Default,,0,0,0,,Acqua, chiudere sempre l'urbinetto mentre ci si lava i denti, spero che questa sia {\1c&HFF00&\u1}ovvia.{\r}
+Dialogue: 0,0:00:6.50,0:00:6.66,Default,,0,0,0,,{\1c&HFF00&\u1}Poi{\r} mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:6.66,0:00:6.72,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:6.72,0:00:7.08,Default,,0,0,0,,Poi {\1c&HFF00&\u1}mentre{\r} si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.08,0:00:7.20,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.20,0:00:7.42,Default,,0,0,0,,Poi mentre {\1c&HFF00&\u1}si{\r} fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.42,0:00:7.58,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.58,0:00:7.66,Default,,0,0,0,,Poi mentre si {\1c&HFF00&\u1}fa{\r} la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.66,0:00:7.72,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.72,0:00:7.78,Default,,0,0,0,,Poi mentre si fa {\1c&HFF00&\u1}la{\r} doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.78,0:00:7.82,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:7.82,0:00:8.31,Default,,0,0,0,,Poi mentre si fa la {\1c&HFF00&\u1}doccia,{\r} quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:8.31,0:00:8.57,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:8.57,0:00:8.73,Default,,0,0,0,,Poi mentre si fa la doccia, {\1c&HFF00&\u1}quando{\r} si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:8.73,0:00:8.79,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:8.79,0:00:8.85,Default,,0,0,0,,Poi mentre si fa la doccia, quando {\1c&HFF00&\u1}si{\r} aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:8.85,0:00:8.89,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:8.89,0:00:9.19,Default,,0,0,0,,Poi mentre si fa la doccia, quando si {\1c&HFF00&\u1}aspetta{\r} l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:9.19,0:00:9.31,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:9.31,0:00:9.89,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta {\1c&HFF00&\u1}l'acqua{\r} calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:9.89,0:00:10.31,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:10.31,0:00:10.75,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua {\1c&HFF00&\u1}calda,{\r} raccogliere l'acqua fredda.
+Dialogue: 0,0:00:10.75,0:00:10.81,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:10.81,0:00:11.27,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, {\1c&HFF00&\u1}raccogliere{\r} l'acqua fredda.
+Dialogue: 0,0:00:11.27,0:00:11.35,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:11.35,0:00:11.61,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere {\1c&HFF00&\u1}l'acqua{\r} fredda.
+Dialogue: 0,0:00:11.61,0:00:11.73,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua fredda.
+Dialogue: 0,0:00:11.73,0:00:12.03,Default,,0,0,0,,Poi mentre si fa la doccia, quando si aspetta l'acqua calda, raccogliere l'acqua {\1c&HFF00&\u1}fredda.{\r}
+Dialogue: 0,0:00:12.20,0:00:12.76,Default,,0,0,0,,{\1c&HFF00&\u1}Noi{\r} in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:12.76,0:00:12.82,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:12.82,0:00:12.86,Default,,0,0,0,,Noi {\1c&HFF00&\u1}in{\r} doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:12.86,0:00:12.88,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:12.88,0:00:13.08,Default,,0,0,0,,Noi in {\1c&HFF00&\u1}doccia{\r} abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:13.08,0:00:13.12,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:13.12,0:00:13.36,Default,,0,0,0,,Noi in doccia {\1c&HFF00&\u1}abbiamo{\r} una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:13.36,0:00:13.40,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:13.40,0:00:13.56,Default,,0,0,0,,Noi in doccia abbiamo {\1c&HFF00&\u1}una{\r} piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:13.56,0:00:13.66,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:13.66,0:00:14.06,Default,,0,0,0,,Noi in doccia abbiamo una {\1c&HFF00&\u1}piccola,{\r} tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:14.06,0:00:15.03,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:15.03,0:00:15.19,Default,,0,0,0,,Noi in doccia abbiamo una piccola, {\1c&HFF00&\u1}tipo{\r} una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:15.19,0:00:15.21,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:15.21,0:00:15.33,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo {\1c&HFF00&\u1}una{\r} bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:15.33,0:00:15.39,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:15.39,0:00:16.13,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una {\1c&HFF00&\u1}bacinella{\r} dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:16.13,0:00:16.51,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:16.51,0:00:16.63,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella {\1c&HFF00&\u1}dove{\r} raccogliamo l'acqua fredda
+Dialogue: 0,0:00:16.63,0:00:16.67,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:16.67,0:00:17.05,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove {\1c&HFF00&\u1}raccogliamo{\r} l'acqua fredda
+Dialogue: 0,0:00:17.05,0:00:17.13,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:17.13,0:00:17.35,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo {\1c&HFF00&\u1}l'acqua{\r} fredda
+Dialogue: 0,0:00:17.35,0:00:17.43,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua fredda
+Dialogue: 0,0:00:17.43,0:00:17.69,Default,,0,0,0,,Noi in doccia abbiamo una piccola, tipo una bacinella dove raccogliamo l'acqua {\1c&HFF00&\u1}fredda{\r}
+Dialogue: 0,0:00:17.70,0:00:17.84,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:17.84,0:00:17.88,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:17.88,0:00:18.18,Default,,0,0,0,,che {\1c&HFF00&\u1}poi{\r} utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:18.18,0:00:18.26,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:18.26,0:00:18.80,Default,,0,0,0,,che poi {\1c&HFF00&\u1}utilizziamo{\r} o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:18.80,0:00:19.16,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:19.16,0:00:19.18,Default,,0,0,0,,che poi utilizziamo {\1c&HFF00&\u1}o{\r} nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:19.18,0:00:19.28,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:19.28,0:00:19.45,Default,,0,0,0,,che poi utilizziamo o {\1c&HFF00&\u1}nel{\r} water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:19.45,0:00:19.47,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:19.47,0:00:19.83,Default,,0,0,0,,che poi utilizziamo o nel {\1c&HFF00&\u1}water{\r} o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:19.83,0:00:19.99,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:19.99,0:00:20.03,Default,,0,0,0,,che poi utilizziamo o nel water {\1c&HFF00&\u1}o{\r} per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:20.03,0:00:20.09,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:20.09,0:00:20.19,Default,,0,0,0,,che poi utilizziamo o nel water o {\1c&HFF00&\u1}per{\r} lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:20.19,0:00:20.25,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:20.25,0:00:20.47,Default,,0,0,0,,che poi utilizziamo o nel water o per {\1c&HFF00&\u1}lavare{\r} i pavimenti o per le piante.
+Dialogue: 0,0:00:20.47,0:00:20.49,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:20.49,0:00:20.53,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare {\1c&HFF00&\u1}i{\r} pavimenti o per le piante.
+Dialogue: 0,0:00:20.53,0:00:20.59,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:20.59,0:00:21.13,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i {\1c&HFF00&\u1}pavimenti{\r} o per le piante.
+Dialogue: 0,0:00:21.13,0:00:21.21,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:21.21,0:00:21.25,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti {\1c&HFF00&\u1}o{\r} per le piante.
+Dialogue: 0,0:00:21.25,0:00:21.31,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:21.31,0:00:21.41,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o {\1c&HFF00&\u1}per{\r} le piante.
+Dialogue: 0,0:00:21.41,0:00:21.49,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:21.49,0:00:21.53,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per {\1c&HFF00&\u1}le{\r} piante.
+Dialogue: 0,0:00:21.53,0:00:21.63,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le piante.
+Dialogue: 0,0:00:21.63,0:00:22.03,Default,,0,0,0,,che poi utilizziamo o nel water o per lavare i pavimenti o per le {\1c&HFF00&\u1}piante.{\r}
+Dialogue: 0,0:00:22.20,0:00:22.26,Default,,0,0,0,,{\1c&HFF00&\u1}Chi{\r} ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.26,0:00:22.28,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.28,0:00:22.32,Default,,0,0,0,,Chi {\1c&HFF00&\u1}ha{\r} una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.32,0:00:22.34,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.34,0:00:22.40,Default,,0,0,0,,Chi ha {\1c&HFF00&\u1}una{\r} casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.40,0:00:22.42,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.42,0:00:22.50,Default,,0,0,0,,Chi ha una {\1c&HFF00&\u1}casa{\r} potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.50,0:00:22.52,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.52,0:00:22.68,Default,,0,0,0,,Chi ha una casa {\1c&HFF00&\u1}potrebbe{\r} raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.68,0:00:22.70,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.70,0:00:22.92,Default,,0,0,0,,Chi ha una casa potrebbe {\1c&HFF00&\u1}raccogliere{\r} l'acqua piovana.
+Dialogue: 0,0:00:22.92,0:00:22.94,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:22.94,0:00:23.06,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere {\1c&HFF00&\u1}l'acqua{\r} piovana.
+Dialogue: 0,0:00:23.06,0:00:23.08,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua piovana.
+Dialogue: 0,0:00:23.08,0:00:23.22,Default,,0,0,0,,Chi ha una casa potrebbe raccogliere l'acqua {\1c&HFF00&\u1}piovana.{\r}
+Dialogue: 0,0:00:25.78,0:00:26.10,Default,,0,0,0,,{\1c&HFF00&\u1}Luce,{\r} ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:26.10,0:00:26.34,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:26.34,0:00:26.68,Default,,0,0,0,,Luce, {\1c&HFF00&\u1}ovviamente{\r} oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:26.68,0:00:26.74,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:26.74,0:00:26.92,Default,,0,0,0,,Luce, ovviamente {\1c&HFF00&\u1}oltre{\r} a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:26.92,0:00:26.94,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:26.94,0:00:26.98,Default,,0,0,0,,Luce, ovviamente oltre {\1c&HFF00&\u1}a{\r} non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:26.98,0:00:27.02,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:27.02,0:00:27.12,Default,,0,0,0,,Luce, ovviamente oltre a {\1c&HFF00&\u1}non{\r} tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:27.12,0:00:27.16,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:27.16,0:00:27.63,Default,,0,0,0,,Luce, ovviamente oltre a non {\1c&HFF00&\u1}tenere{\r} luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:27.63,0:00:27.89,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:27.89,0:00:28.17,Default,,0,0,0,,Luce, ovviamente oltre a non tenere {\1c&HFF00&\u1}luce{\r} accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:28.17,0:00:28.21,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:28.21,0:00:28.71,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce {\1c&HFF00&\u1}accese{\r} che non servono, quello che mi piace fare
+Dialogue: 0,0:00:28.71,0:00:28.83,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:28.83,0:00:28.99,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese {\1c&HFF00&\u1}che{\r} non servono, quello che mi piace fare
+Dialogue: 0,0:00:28.99,0:00:29.11,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:29.11,0:00:29.29,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che {\1c&HFF00&\u1}non{\r} servono, quello che mi piace fare
+Dialogue: 0,0:00:29.29,0:00:29.39,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:29.39,0:00:29.89,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non {\1c&HFF00&\u1}servono,{\r} quello che mi piace fare
+Dialogue: 0,0:00:29.89,0:00:30.25,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:30.25,0:00:30.45,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, {\1c&HFF00&\u1}quello{\r} che mi piace fare
+Dialogue: 0,0:00:30.45,0:00:30.49,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:30.49,0:00:30.57,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello {\1c&HFF00&\u1}che{\r} mi piace fare
+Dialogue: 0,0:00:30.57,0:00:30.63,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:30.63,0:00:30.69,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che {\1c&HFF00&\u1}mi{\r} piace fare
+Dialogue: 0,0:00:30.69,0:00:30.75,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:30.75,0:00:31.01,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi {\1c&HFF00&\u1}piace{\r} fare
+Dialogue: 0,0:00:31.01,0:00:31.03,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace fare
+Dialogue: 0,0:00:31.03,0:00:31.13,Default,,0,0,0,,Luce, ovviamente oltre a non tenere luce accese che non servono, quello che mi piace {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:00:31.72,0:00:31.76,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:31.76,0:00:31.80,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:31.80,0:00:32.20,Default,,0,0,0,,è {\1c&HFF00&\u1}mettere{\r} e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:32.20,0:00:32.78,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:32.78,0:00:32.84,Default,,0,0,0,,è mettere {\1c&HFF00&\u1}e{\r} usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:32.84,0:00:32.88,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:32.88,0:00:33.12,Default,,0,0,0,,è mettere e {\1c&HFF00&\u1}usare{\r} il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.12,0:00:33.16,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.16,0:00:33.22,Default,,0,0,0,,è mettere e usare {\1c&HFF00&\u1}il{\r} forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.22,0:00:33.28,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.28,0:00:33.63,Default,,0,0,0,,è mettere e usare il {\1c&HFF00&\u1}forno{\r} per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.63,0:00:33.75,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.75,0:00:33.87,Default,,0,0,0,,è mettere e usare il forno {\1c&HFF00&\u1}per{\r} più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.87,0:00:33.99,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:33.99,0:00:34.11,Default,,0,0,0,,è mettere e usare il forno per {\1c&HFF00&\u1}più{\r} cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:34.11,0:00:34.25,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:34.25,0:00:34.47,Default,,0,0,0,,è mettere e usare il forno per più {\1c&HFF00&\u1}cose{\r} contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:34.47,0:00:35.01,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:35.01,0:00:35.77,Default,,0,0,0,,è mettere e usare il forno per più cose {\1c&HFF00&\u1}contemporaneamente,{\r} per esempio funghi e patate,
+Dialogue: 0,0:00:35.77,0:00:35.81,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:35.81,0:00:35.93,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, {\1c&HFF00&\u1}per{\r} esempio funghi e patate,
+Dialogue: 0,0:00:35.93,0:00:35.95,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:35.95,0:00:36.31,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per {\1c&HFF00&\u1}esempio{\r} funghi e patate,
+Dialogue: 0,0:00:36.31,0:00:36.41,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:36.41,0:00:36.71,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio {\1c&HFF00&\u1}funghi{\r} e patate,
+Dialogue: 0,0:00:36.71,0:00:36.73,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:36.73,0:00:36.77,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi {\1c&HFF00&\u1}e{\r} patate,
+Dialogue: 0,0:00:36.77,0:00:36.83,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e patate,
+Dialogue: 0,0:00:36.83,0:00:37.25,Default,,0,0,0,,è mettere e usare il forno per più cose contemporaneamente, per esempio funghi e {\1c&HFF00&\u1}patate,{\r}
+Dialogue: 0,0:00:37.38,0:00:37.42,Default,,0,0,0,,{\1c&HFF00&\u1}le{\r} metto in due telie separate vicino.
+Dialogue: 0,0:00:37.42,0:00:37.44,Default,,0,0,0,,le metto in due telie separate vicino.
+Dialogue: 0,0:00:37.44,0:00:37.54,Default,,0,0,0,,le {\1c&HFF00&\u1}metto{\r} in due telie separate vicino.
+Dialogue: 0,0:00:37.54,0:00:37.56,Default,,0,0,0,,le metto in due telie separate vicino.
+Dialogue: 0,0:00:37.56,0:00:37.60,Default,,0,0,0,,le metto {\1c&HFF00&\u1}in{\r} due telie separate vicino.
+Dialogue: 0,0:00:37.60,0:00:37.62,Default,,0,0,0,,le metto in due telie separate vicino.
+Dialogue: 0,0:00:37.62,0:00:37.68,Default,,0,0,0,,le metto in {\1c&HFF00&\u1}due{\r} telie separate vicino.
+Dialogue: 0,0:00:37.68,0:00:37.70,Default,,0,0,0,,le metto in due telie separate vicino.
+Dialogue: 0,0:00:37.70,0:00:37.80,Default,,0,0,0,,le metto in due {\1c&HFF00&\u1}telie{\r} separate vicino.
+Dialogue: 0,0:00:37.80,0:00:37.82,Default,,0,0,0,,le metto in due telie separate vicino.
+Dialogue: 0,0:00:37.82,0:00:37.98,Default,,0,0,0,,le metto in due telie {\1c&HFF00&\u1}separate{\r} vicino.
+Dialogue: 0,0:00:37.98,0:00:38.00,Default,,0,0,0,,le metto in due telie separate vicino.
+Dialogue: 0,0:00:38.00,0:00:38.12,Default,,0,0,0,,le metto in due telie separate {\1c&HFF00&\u1}vicino.{\r}
+Dialogue: 0,0:00:40.22,0:00:40.38,Default,,0,0,0,,{\1c&HFF00&\u1}Poi{\r} non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:40.38,0:00:40.52,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:40.52,0:00:40.66,Default,,0,0,0,,Poi {\1c&HFF00&\u1}non{\r} stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:40.66,0:00:40.72,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:40.72,0:00:41.22,Default,,0,0,0,,Poi non {\1c&HFF00&\u1}stirare{\r} o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:41.22,0:00:41.50,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:41.50,0:00:41.62,Default,,0,0,0,,Poi non stirare {\1c&HFF00&\u1}o{\r} stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:41.62,0:00:41.80,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:41.80,0:00:42.20,Default,,0,0,0,,Poi non stirare o {\1c&HFF00&\u1}stirare{\r} meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:42.20,0:00:42.28,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:42.28,0:00:42.67,Default,,0,0,0,,Poi non stirare o stirare {\1c&HFF00&\u1}meno,{\r} io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:42.67,0:00:43.21,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:43.21,0:00:43.27,Default,,0,0,0,,Poi non stirare o stirare meno, {\1c&HFF00&\u1}io{\r} non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:43.27,0:00:43.37,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:43.37,0:00:43.45,Default,,0,0,0,,Poi non stirare o stirare meno, io {\1c&HFF00&\u1}non{\r} stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:43.45,0:00:43.49,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:43.49,0:00:43.73,Default,,0,0,0,,Poi non stirare o stirare meno, io non {\1c&HFF00&\u1}stiro{\r} proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:43.73,0:00:43.81,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:43.81,0:00:44.39,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro {\1c&HFF00&\u1}proprio,{\r} questo non è per risparmiare la luce,
+Dialogue: 0,0:00:44.39,0:00:45.37,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:45.37,0:00:45.57,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, {\1c&HFF00&\u1}questo{\r} non è per risparmiare la luce,
+Dialogue: 0,0:00:45.57,0:00:45.63,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:45.63,0:00:45.75,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo {\1c&HFF00&\u1}non{\r} è per risparmiare la luce,
+Dialogue: 0,0:00:45.75,0:00:45.81,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:45.81,0:00:45.89,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non {\1c&HFF00&\u1}è{\r} per risparmiare la luce,
+Dialogue: 0,0:00:45.89,0:00:46.01,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:46.01,0:00:46.37,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è {\1c&HFF00&\u1}per{\r} risparmiare la luce,
+Dialogue: 0,0:00:46.37,0:00:46.49,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:46.49,0:00:46.93,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per {\1c&HFF00&\u1}risparmiare{\r} la luce,
+Dialogue: 0,0:00:46.93,0:00:47.01,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:47.01,0:00:47.07,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare {\1c&HFF00&\u1}la{\r} luce,
+Dialogue: 0,0:00:47.07,0:00:47.11,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la luce,
+Dialogue: 0,0:00:47.11,0:00:47.45,Default,,0,0,0,,Poi non stirare o stirare meno, io non stiro proprio, questo non è per risparmiare la {\1c&HFF00&\u1}luce,{\r}
+Dialogue: 0,0:00:48.06,0:00:48.40,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:48.40,0:00:48.42,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:48.42,0:00:48.68,Default,,0,0,0,,è {\1c&HFF00&\u1}una{\r} conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:48.68,0:00:48.70,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:48.70,0:00:49.54,Default,,0,0,0,,è una {\1c&HFF00&\u1}conseguenza,{\r} quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:49.54,0:00:49.56,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:49.56,0:00:49.74,Default,,0,0,0,,è una conseguenza, {\1c&HFF00&\u1}quello{\r} che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:49.74,0:00:49.78,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:49.78,0:00:49.88,Default,,0,0,0,,è una conseguenza, quello {\1c&HFF00&\u1}che{\r} faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:49.88,0:00:49.94,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:49.94,0:00:50.35,Default,,0,0,0,,è una conseguenza, quello che {\1c&HFF00&\u1}faccio{\r} è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:50.35,0:00:50.55,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:50.55,0:00:50.63,Default,,0,0,0,,è una conseguenza, quello che faccio {\1c&HFF00&\u1}è{\r} appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:50.63,0:00:50.69,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:50.69,0:00:51.23,Default,,0,0,0,,è una conseguenza, quello che faccio è {\1c&HFF00&\u1}appendere{\r} bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:51.23,0:00:51.33,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:51.33,0:00:51.69,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere {\1c&HFF00&\u1}bene{\r} i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:51.69,0:00:51.91,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:51.91,0:00:51.95,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene {\1c&HFF00&\u1}i{\r} vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:51.95,0:00:51.99,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:51.99,0:00:52.37,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i {\1c&HFF00&\u1}vestiti{\r} ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:52.37,0:00:52.39,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:52.39,0:00:52.47,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti {\1c&HFF00&\u1}ad{\r} asciugare sull'attaccapani.
+Dialogue: 0,0:00:52.47,0:00:52.51,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:52.51,0:00:53.03,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad {\1c&HFF00&\u1}asciugare{\r} sull'attaccapani.
+Dialogue: 0,0:00:53.03,0:00:53.27,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare sull'attaccapani.
+Dialogue: 0,0:00:53.27,0:00:54.09,Default,,0,0,0,,è una conseguenza, quello che faccio è appendere bene i vestiti ad asciugare {\1c&HFF00&\u1}sull'attaccapani.{\r}
+Dialogue: 0,0:00:54.48,0:00:54.72,Default,,0,0,0,,{\1c&HFF00&\u1}usare{\r} l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:54.72,0:00:54.90,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:54.90,0:00:55.64,Default,,0,0,0,,usare {\1c&HFF00&\u1}l'asciugatrice{\r} solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:55.64,0:00:55.74,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:55.74,0:00:55.92,Default,,0,0,0,,usare l'asciugatrice {\1c&HFF00&\u1}solo{\r} nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:55.92,0:00:56.00,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:56.00,0:00:56.12,Default,,0,0,0,,usare l'asciugatrice solo {\1c&HFF00&\u1}nei{\r} casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:56.12,0:00:56.22,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:56.22,0:00:56.50,Default,,0,0,0,,usare l'asciugatrice solo nei {\1c&HFF00&\u1}casi{\r} di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:56.50,0:00:56.59,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:56.59,0:00:56.67,Default,,0,0,0,,usare l'asciugatrice solo nei casi {\1c&HFF00&\u1}di{\r} vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:56.67,0:00:56.81,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:56.81,0:00:57.07,Default,,0,0,0,,usare l'asciugatrice solo nei casi di {\1c&HFF00&\u1}vera{\r} necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:57.07,0:00:57.27,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:57.27,0:00:57.89,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera {\1c&HFF00&\u1}necessità,{\r} noi la utilizziamo circa massimo
+Dialogue: 0,0:00:57.89,0:00:58.35,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:58.35,0:00:58.49,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, {\1c&HFF00&\u1}noi{\r} la utilizziamo circa massimo
+Dialogue: 0,0:00:58.49,0:00:58.55,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:58.55,0:00:58.61,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi {\1c&HFF00&\u1}la{\r} utilizziamo circa massimo
+Dialogue: 0,0:00:58.61,0:00:58.65,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:00:58.65,0:00:59.49,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la {\1c&HFF00&\u1}utilizziamo{\r} circa massimo
+Dialogue: 0,0:00:59.49,0:01:0.29,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:01:0.29,0:01:0.65,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo {\1c&HFF00&\u1}circa{\r} massimo
+Dialogue: 0,0:01:0.65,0:01:0.67,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa massimo
+Dialogue: 0,0:01:0.67,0:01:0.81,Default,,0,0,0,,usare l'asciugatrice solo nei casi di vera necessità, noi la utilizziamo circa {\1c&HFF00&\u1}massimo{\r}
+Dialogue: 0,0:01:1.78,0:01:1.90,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:1.90,0:01:1.92,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:1.92,0:01:2.16,Default,,0,0,0,,una {\1c&HFF00&\u1}volta{\r} al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:2.16,0:01:2.22,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:2.22,0:01:2.30,Default,,0,0,0,,una volta {\1c&HFF00&\u1}al{\r} mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:2.30,0:01:2.34,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:2.34,0:01:2.68,Default,,0,0,0,,una volta al {\1c&HFF00&\u1}mese.{\r} Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:2.68,0:01:3.00,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:3.00,0:01:3.29,Default,,0,0,0,,una volta al mese. {\1c&HFF00&\u1}Gas{\r} è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:3.29,0:01:3.47,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:3.47,0:01:3.51,Default,,0,0,0,,una volta al mese. Gas {\1c&HFF00&\u1}è{\r} da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:3.51,0:01:3.55,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:3.55,0:01:3.65,Default,,0,0,0,,una volta al mese. Gas è {\1c&HFF00&\u1}da{\r} considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:3.65,0:01:3.69,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:3.69,0:01:4.27,Default,,0,0,0,,una volta al mese. Gas è da {\1c&HFF00&\u1}considerare{\r} l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:4.27,0:01:4.37,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:4.37,0:01:4.83,Default,,0,0,0,,una volta al mese. Gas è da considerare {\1c&HFF00&\u1}l'infizio{\r} e la caldade se non devono essere
+Dialogue: 0,0:01:4.83,0:01:4.85,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:4.85,0:01:4.87,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio {\1c&HFF00&\u1}e{\r} la caldade se non devono essere
+Dialogue: 0,0:01:4.87,0:01:4.91,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:4.91,0:01:4.99,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e {\1c&HFF00&\u1}la{\r} caldade se non devono essere
+Dialogue: 0,0:01:4.99,0:01:5.05,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:5.05,0:01:5.39,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la {\1c&HFF00&\u1}caldade{\r} se non devono essere
+Dialogue: 0,0:01:5.39,0:01:5.45,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:5.45,0:01:5.55,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade {\1c&HFF00&\u1}se{\r} non devono essere
+Dialogue: 0,0:01:5.55,0:01:5.59,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:5.59,0:01:5.69,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se {\1c&HFF00&\u1}non{\r} devono essere
+Dialogue: 0,0:01:5.69,0:01:5.71,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:5.71,0:01:5.93,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non {\1c&HFF00&\u1}devono{\r} essere
+Dialogue: 0,0:01:5.93,0:01:5.99,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono essere
+Dialogue: 0,0:01:5.99,0:01:6.27,Default,,0,0,0,,una volta al mese. Gas è da considerare l'infizio e la caldade se non devono {\1c&HFF00&\u1}essere{\r}
+Dialogue: 0,0:01:6.78,0:01:7.22,Default,,0,0,0,,{\1c&HFF00&\u1}cambiati{\r} o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:7.22,0:01:7.38,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:7.38,0:01:7.42,Default,,0,0,0,,cambiati {\1c&HFF00&\u1}o{\r} migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:7.42,0:01:7.46,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:7.46,0:01:8.02,Default,,0,0,0,,cambiati o {\1c&HFF00&\u1}migliorati,{\r} così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:8.02,0:01:8.42,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:8.42,0:01:8.58,Default,,0,0,0,,cambiati o migliorati, {\1c&HFF00&\u1}così{\r} come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:8.58,0:01:8.64,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:8.64,0:01:8.78,Default,,0,0,0,,cambiati o migliorati, così {\1c&HFF00&\u1}come{\r} non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:8.78,0:01:9.00,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:9.00,0:01:9.14,Default,,0,0,0,,cambiati o migliorati, così come {\1c&HFF00&\u1}non{\r} cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:9.14,0:01:9.20,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:9.20,0:01:9.69,Default,,0,0,0,,cambiati o migliorati, così come non {\1c&HFF00&\u1}cucinare{\r} piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:9.69,0:01:9.81,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:9.81,0:01:10.37,Default,,0,0,0,,cambiati o migliorati, così come non cucinare {\1c&HFF00&\u1}piatti{\r} troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:10.37,0:01:10.81,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:10.81,0:01:11.41,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti {\1c&HFF00&\u1}troppo{\r} complicati e lunghi da cucinare,
+Dialogue: 0,0:01:11.41,0:01:12.09,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:12.09,0:01:12.73,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo {\1c&HFF00&\u1}complicati{\r} e lunghi da cucinare,
+Dialogue: 0,0:01:12.73,0:01:12.75,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:12.75,0:01:12.77,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati {\1c&HFF00&\u1}e{\r} lunghi da cucinare,
+Dialogue: 0,0:01:12.77,0:01:12.91,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:12.91,0:01:13.35,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e {\1c&HFF00&\u1}lunghi{\r} da cucinare,
+Dialogue: 0,0:01:13.35,0:01:13.99,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:13.99,0:01:14.09,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi {\1c&HFF00&\u1}da{\r} cucinare,
+Dialogue: 0,0:01:14.09,0:01:14.15,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da cucinare,
+Dialogue: 0,0:01:14.15,0:01:14.72,Default,,0,0,0,,cambiati o migliorati, così come non cucinare piatti troppo complicati e lunghi da {\1c&HFF00&\u1}cucinare,{\r}
+Dialogue: 0,0:01:15.14,0:01:15.32,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.32,0:01:15.40,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.40,0:01:15.62,Default,,0,0,0,,come {\1c&HFF00&\u1}dicevo{\r} le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.62,0:01:15.64,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.64,0:01:15.68,Default,,0,0,0,,come dicevo {\1c&HFF00&\u1}le{\r} mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.68,0:01:15.74,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.74,0:01:15.80,Default,,0,0,0,,come dicevo le {\1c&HFF00&\u1}mie{\r} ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.80,0:01:15.84,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:15.84,0:01:16.16,Default,,0,0,0,,come dicevo le mie {\1c&HFF00&\u1}ricette{\r} sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:16.16,0:01:16.20,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:16.20,0:01:16.36,Default,,0,0,0,,come dicevo le mie ricette {\1c&HFF00&\u1}sono{\r} sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:16.36,0:01:16.45,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:16.45,0:01:16.67,Default,,0,0,0,,come dicevo le mie ricette sono {\1c&HFF00&\u1}sempre{\r} super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:16.67,0:01:16.87,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:16.87,0:01:17.09,Default,,0,0,0,,come dicevo le mie ricette sono sempre {\1c&HFF00&\u1}super{\r} veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:17.09,0:01:17.15,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:17.15,0:01:17.67,Default,,0,0,0,,come dicevo le mie ricette sono sempre super {\1c&HFF00&\u1}veloci,{\r} oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:17.67,0:01:17.85,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:17.85,0:01:18.09,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, {\1c&HFF00&\u1}oppure{\r} si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:18.09,0:01:18.15,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:18.15,0:01:18.21,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure {\1c&HFF00&\u1}si{\r} potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:18.21,0:01:18.27,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:18.27,0:01:18.59,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si {\1c&HFF00&\u1}potrebbe{\r} considerare l'utilizzo
+Dialogue: 0,0:01:18.59,0:01:18.65,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:18.65,0:01:19.20,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe {\1c&HFF00&\u1}considerare{\r} l'utilizzo
+Dialogue: 0,0:01:19.20,0:01:19.28,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare l'utilizzo
+Dialogue: 0,0:01:19.28,0:01:19.70,Default,,0,0,0,,come dicevo le mie ricette sono sempre super veloci, oppure si potrebbe considerare {\1c&HFF00&\u1}l'utilizzo{\r}
+Dialogue: 0,0:01:19.84,0:01:20.01,Default,,0,0,0,,{\1c&HFF00&\u1}della{\r} pentola a pressione.
+Dialogue: 0,0:01:20.01,0:01:20.09,Default,,0,0,0,,della pentola a pressione.
+Dialogue: 0,0:01:20.09,0:01:20.35,Default,,0,0,0,,della {\1c&HFF00&\u1}pentola{\r} a pressione.
+Dialogue: 0,0:01:20.35,0:01:20.37,Default,,0,0,0,,della pentola a pressione.
+Dialogue: 0,0:01:20.37,0:01:20.39,Default,,0,0,0,,della pentola {\1c&HFF00&\u1}a{\r} pressione.
+Dialogue: 0,0:01:20.39,0:01:20.45,Default,,0,0,0,,della pentola a pressione.
+Dialogue: 0,0:01:20.45,0:01:20.90,Default,,0,0,0,,della pentola a {\1c&HFF00&\u1}pressione.{\r}

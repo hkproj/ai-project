@@ -1,0 +1,571 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.60,Default,,0,0,0,,{\1c&HFF00&\u1}aprile{\r}
+Dialogue: 0,0:00:1.88,0:00:2.16,Default,,0,0,0,,{\1c&HFF00&\u1}inizio{\r} a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:2.16,0:00:2.20,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:2.20,0:00:2.22,Default,,0,0,0,,inizio {\1c&HFF00&\u1}a{\r} contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:2.22,0:00:2.30,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:2.30,0:00:3.24,Default,,0,0,0,,inizio a {\1c&HFF00&\u1}contattare{\r} a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:3.24,0:00:3.48,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:3.48,0:00:3.54,Default,,0,0,0,,inizio a contattare {\1c&HFF00&\u1}a{\r} vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:3.54,0:00:3.60,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:3.60,0:00:3.84,Default,,0,0,0,,inizio a contattare a {\1c&HFF00&\u1}vedere{\r} quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:3.84,0:00:3.89,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:3.89,0:00:4.07,Default,,0,0,0,,inizio a contattare a vedere {\1c&HFF00&\u1}quello{\r} che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.07,0:00:4.11,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.11,0:00:4.19,Default,,0,0,0,,inizio a contattare a vedere quello {\1c&HFF00&\u1}che{\r} devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.19,0:00:4.23,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.23,0:00:4.39,Default,,0,0,0,,inizio a contattare a vedere quello che {\1c&HFF00&\u1}devo{\r} fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.39,0:00:4.45,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.45,0:00:4.75,Default,,0,0,0,,inizio a contattare a vedere quello che devo {\1c&HFF00&\u1}fare{\r} quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.75,0:00:4.87,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:4.87,0:00:5.19,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare {\1c&HFF00&\u1}quindi{\r} morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:5.19,0:00:5.35,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:5.35,0:00:5.71,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi {\1c&HFF00&\u1}morale{\r} della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:5.71,0:00:5.75,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:5.75,0:00:5.95,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale {\1c&HFF00&\u1}della{\r} favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:5.95,0:00:6.01,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:6.01,0:00:6.49,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della {\1c&HFF00&\u1}favola{\r} se io non devo fare spagnolo qua
+Dialogue: 0,0:00:6.49,0:00:6.63,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:6.63,0:00:6.73,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola {\1c&HFF00&\u1}se{\r} io non devo fare spagnolo qua
+Dialogue: 0,0:00:6.73,0:00:6.83,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:6.83,0:00:6.93,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se {\1c&HFF00&\u1}io{\r} non devo fare spagnolo qua
+Dialogue: 0,0:00:6.93,0:00:6.97,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:6.97,0:00:7.09,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io {\1c&HFF00&\u1}non{\r} devo fare spagnolo qua
+Dialogue: 0,0:00:7.09,0:00:7.13,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:7.13,0:00:7.33,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non {\1c&HFF00&\u1}devo{\r} fare spagnolo qua
+Dialogue: 0,0:00:7.33,0:00:7.39,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:7.39,0:00:7.65,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo {\1c&HFF00&\u1}fare{\r} spagnolo qua
+Dialogue: 0,0:00:7.65,0:00:7.73,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:7.73,0:00:8.36,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare {\1c&HFF00&\u1}spagnolo{\r} qua
+Dialogue: 0,0:00:8.36,0:00:8.50,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo qua
+Dialogue: 0,0:00:8.50,0:00:8.64,Default,,0,0,0,,inizio a contattare a vedere quello che devo fare quindi morale della favola se io non devo fare spagnolo {\1c&HFF00&\u1}qua{\r}
+Dialogue: 0,0:00:9.48,0:00:9.52,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:9.52,0:00:9.60,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:9.60,0:00:9.98,Default,,0,0,0,,a {\1c&HFF00&\u1}parigi{\r} lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:9.98,0:00:10.04,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.04,0:00:10.10,Default,,0,0,0,,a parigi {\1c&HFF00&\u1}lo{\r} farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.10,0:00:10.14,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.14,0:00:10.31,Default,,0,0,0,,a parigi lo {\1c&HFF00&\u1}farò{\r} in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.31,0:00:10.35,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.35,0:00:10.39,Default,,0,0,0,,a parigi lo farò {\1c&HFF00&\u1}in{\r} italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.39,0:00:10.43,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.43,0:00:10.85,Default,,0,0,0,,a parigi lo farò in {\1c&HFF00&\u1}italia{\r} e quindi sarebbero quattro esami
+Dialogue: 0,0:00:10.85,0:00:11.63,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:11.63,0:00:11.67,Default,,0,0,0,,a parigi lo farò in italia {\1c&HFF00&\u1}e{\r} quindi sarebbero quattro esami
+Dialogue: 0,0:00:11.67,0:00:11.71,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:11.71,0:00:11.89,Default,,0,0,0,,a parigi lo farò in italia e {\1c&HFF00&\u1}quindi{\r} sarebbero quattro esami
+Dialogue: 0,0:00:11.89,0:00:11.95,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:11.95,0:00:12.29,Default,,0,0,0,,a parigi lo farò in italia e quindi {\1c&HFF00&\u1}sarebbero{\r} quattro esami
+Dialogue: 0,0:00:12.29,0:00:12.35,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:12.35,0:00:12.61,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero {\1c&HFF00&\u1}quattro{\r} esami
+Dialogue: 0,0:00:12.61,0:00:12.63,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro esami
+Dialogue: 0,0:00:12.63,0:00:13.01,Default,,0,0,0,,a parigi lo farò in italia e quindi sarebbero quattro {\1c&HFF00&\u1}esami{\r}
+Dialogue: 0,0:00:14.39,0:00:14.47,Default,,0,0,0,,{\1c&HFF00&\u1}da{\r} sei
+Dialogue: 0,0:00:14.47,0:00:14.53,Default,,0,0,0,,da sei
+Dialogue: 0,0:00:14.53,0:00:14.87,Default,,0,0,0,,da {\1c&HFF00&\u1}sei{\r}
+Dialogue: 0,0:00:16.64,0:00:16.74,Default,,0,0,0,,{\1c&HFF00&\u1}più{\r} cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:16.74,0:00:16.90,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:16.90,0:00:17.28,Default,,0,0,0,,più {\1c&HFF00&\u1}cinque{\r} se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.28,0:00:17.32,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.32,0:00:17.40,Default,,0,0,0,,più cinque {\1c&HFF00&\u1}se{\r} uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.40,0:00:17.46,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.46,0:00:17.60,Default,,0,0,0,,più cinque se {\1c&HFF00&\u1}uno{\r} vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.60,0:00:17.64,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.64,0:00:17.88,Default,,0,0,0,,più cinque se uno {\1c&HFF00&\u1}vengo{\r} bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.88,0:00:17.97,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:17.97,0:00:18.57,Default,,0,0,0,,più cinque se uno vengo {\1c&HFF00&\u1}bocciata{\r} più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:18.57,0:00:19.05,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.05,0:00:19.17,Default,,0,0,0,,più cinque se uno vengo bocciata {\1c&HFF00&\u1}più{\r} sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.17,0:00:19.29,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.29,0:00:19.53,Default,,0,0,0,,più cinque se uno vengo bocciata più {\1c&HFF00&\u1}sei{\r} se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.53,0:00:19.57,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.57,0:00:19.65,Default,,0,0,0,,più cinque se uno vengo bocciata più sei {\1c&HFF00&\u1}se{\r} vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.65,0:00:19.71,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.71,0:00:19.93,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se {\1c&HFF00&\u1}vengo{\r} bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.93,0:00:19.99,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:19.99,0:00:20.31,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo {\1c&HFF00&\u1}bocciata{\r} un altro che ho questo semestre di
+Dialogue: 0,0:00:20.31,0:00:20.33,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:20.33,0:00:20.39,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata {\1c&HFF00&\u1}un{\r} altro che ho questo semestre di
+Dialogue: 0,0:00:20.39,0:00:20.41,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:20.41,0:00:20.73,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un {\1c&HFF00&\u1}altro{\r} che ho questo semestre di
+Dialogue: 0,0:00:20.73,0:00:21.23,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:21.23,0:00:21.31,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro {\1c&HFF00&\u1}che{\r} ho questo semestre di
+Dialogue: 0,0:00:21.31,0:00:21.33,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:21.33,0:00:21.39,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che {\1c&HFF00&\u1}ho{\r} questo semestre di
+Dialogue: 0,0:00:21.39,0:00:21.43,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:21.43,0:00:21.61,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho {\1c&HFF00&\u1}questo{\r} semestre di
+Dialogue: 0,0:00:21.61,0:00:21.65,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:21.65,0:00:22.07,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo {\1c&HFF00&\u1}semestre{\r} di
+Dialogue: 0,0:00:22.07,0:00:22.14,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre di
+Dialogue: 0,0:00:22.14,0:00:22.20,Default,,0,0,0,,più cinque se uno vengo bocciata più sei se vengo bocciata un altro che ho questo semestre {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:22.66,0:00:23.08,Default,,0,0,0,,{\1c&HFF00&\u1}inglese{\r} che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.08,0:00:23.10,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.10,0:00:23.18,Default,,0,0,0,,inglese {\1c&HFF00&\u1}che{\r} è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.18,0:00:23.20,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.20,0:00:23.24,Default,,0,0,0,,inglese che {\1c&HFF00&\u1}è{\r} difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.24,0:00:23.28,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.28,0:00:23.64,Default,,0,0,0,,inglese che è {\1c&HFF00&\u1}difficile{\r} vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.64,0:00:23.94,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:23.94,0:00:24.17,Default,,0,0,0,,inglese che è difficile {\1c&HFF00&\u1}vabbè{\r} ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:24.17,0:00:24.21,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:24.21,0:00:24.43,Default,,0,0,0,,inglese che è difficile vabbè {\1c&HFF00&\u1}ragà{\r} sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:24.43,0:00:24.61,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:24.61,0:00:24.79,Default,,0,0,0,,inglese che è difficile vabbè ragà {\1c&HFF00&\u1}sono{\r} esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:24.79,0:00:24.83,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:24.83,0:00:25.23,Default,,0,0,0,,inglese che è difficile vabbè ragà sono {\1c&HFF00&\u1}esaurita{\r} l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:25.23,0:00:25.29,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:25.29,0:00:25.73,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita {\1c&HFF00&\u1}l'università{\r} mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:25.73,0:00:25.83,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:25.83,0:00:25.89,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università {\1c&HFF00&\u1}mi{\r} esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:25.89,0:00:25.91,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:25.91,0:00:26.45,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi {\1c&HFF00&\u1}esaurisce{\r} è un mondo tipo che mi
+Dialogue: 0,0:00:26.45,0:00:26.57,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:26.57,0:00:26.61,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce {\1c&HFF00&\u1}è{\r} un mondo tipo che mi
+Dialogue: 0,0:00:26.61,0:00:26.65,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:26.65,0:00:26.69,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è {\1c&HFF00&\u1}un{\r} mondo tipo che mi
+Dialogue: 0,0:00:26.69,0:00:26.77,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:26.77,0:00:27.09,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un {\1c&HFF00&\u1}mondo{\r} tipo che mi
+Dialogue: 0,0:00:27.09,0:00:27.15,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:27.15,0:00:27.33,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo {\1c&HFF00&\u1}tipo{\r} che mi
+Dialogue: 0,0:00:27.33,0:00:27.37,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:27.37,0:00:27.45,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo {\1c&HFF00&\u1}che{\r} mi
+Dialogue: 0,0:00:27.45,0:00:27.53,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che mi
+Dialogue: 0,0:00:27.53,0:00:27.59,Default,,0,0,0,,inglese che è difficile vabbè ragà sono esaurita l'università mi esaurisce è un mondo tipo che {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:00:27.56,0:00:27.68,Default,,0,0,0,,{\1c&HFF00&\u1}Mi{\r} saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:27.68,0:00:27.72,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:27.72,0:00:28.14,Default,,0,0,0,,Mi {\1c&HFF00&\u1}saurisce,{\r} mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:28.14,0:00:28.50,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:28.50,0:00:28.56,Default,,0,0,0,,Mi saurisce, {\1c&HFF00&\u1}mi{\r} dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:28.56,0:00:28.62,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:28.62,0:00:29.16,Default,,0,0,0,,Mi saurisce, mi {\1c&HFF00&\u1}dispiace,{\r} per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.16,0:00:29.20,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.20,0:00:29.32,Default,,0,0,0,,Mi saurisce, mi dispiace, {\1c&HFF00&\u1}per{\r} questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.32,0:00:29.36,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.36,0:00:29.59,Default,,0,0,0,,Mi saurisce, mi dispiace, per {\1c&HFF00&\u1}questo{\r} mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.59,0:00:29.65,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.65,0:00:29.71,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo {\1c&HFF00&\u1}mi{\r} voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.71,0:00:29.73,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.73,0:00:29.91,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi {\1c&HFF00&\u1}voglio{\r} prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.91,0:00:29.97,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:29.97,0:00:30.23,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio {\1c&HFF00&\u1}prendere{\r} dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:30.23,0:00:30.29,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:30.29,0:00:30.43,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere {\1c&HFF00&\u1}dopo{\r} la laurea un annetto sabbatico
+Dialogue: 0,0:00:30.43,0:00:30.45,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:30.45,0:00:30.51,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo {\1c&HFF00&\u1}la{\r} laurea un annetto sabbatico
+Dialogue: 0,0:00:30.51,0:00:30.55,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:30.55,0:00:31.13,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la {\1c&HFF00&\u1}laurea{\r} un annetto sabbatico
+Dialogue: 0,0:00:31.13,0:00:31.23,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:31.23,0:00:31.37,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea {\1c&HFF00&\u1}un{\r} annetto sabbatico
+Dialogue: 0,0:00:31.37,0:00:31.41,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:31.41,0:00:31.77,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un {\1c&HFF00&\u1}annetto{\r} sabbatico
+Dialogue: 0,0:00:31.77,0:00:31.81,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto sabbatico
+Dialogue: 0,0:00:31.81,0:00:32.47,Default,,0,0,0,,Mi saurisce, mi dispiace, per questo mi voglio prendere dopo la laurea un annetto {\1c&HFF00&\u1}sabbatico{\r}
+Dialogue: 0,0:00:33.00,0:00:33.10,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:33.10,0:00:33.14,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:33.14,0:00:33.20,Default,,0,0,0,,che {\1c&HFF00&\u1}me{\r} lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:33.20,0:00:33.24,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:33.24,0:00:33.30,Default,,0,0,0,,che me {\1c&HFF00&\u1}lo{\r} merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:33.30,0:00:33.34,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:33.34,0:00:33.86,Default,,0,0,0,,che me lo {\1c&HFF00&\u1}merito,{\r} cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:33.86,0:00:34.12,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:34.12,0:00:34.22,Default,,0,0,0,,che me lo merito, {\1c&HFF00&\u1}cioè{\r} non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:34.22,0:00:34.26,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:34.26,0:00:34.36,Default,,0,0,0,,che me lo merito, cioè {\1c&HFF00&\u1}non{\r} è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:34.36,0:00:34.40,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:34.40,0:00:34.45,Default,,0,0,0,,che me lo merito, cioè non {\1c&HFF00&\u1}è{\r} sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:34.45,0:00:34.51,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:34.51,0:00:35.09,Default,,0,0,0,,che me lo merito, cioè non è {\1c&HFF00&\u1}sabbatico{\r} dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.09,0:00:35.13,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.13,0:00:35.37,Default,,0,0,0,,che me lo merito, cioè non è sabbatico {\1c&HFF00&\u1}dove{\r} sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.37,0:00:35.41,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.41,0:00:35.51,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove {\1c&HFF00&\u1}sto{\r} tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.51,0:00:35.57,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.57,0:00:35.71,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto {\1c&HFF00&\u1}tutto{\r} giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.71,0:00:35.77,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.77,0:00:35.93,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto {\1c&HFF00&\u1}giorno{\r} sul divano, ma anche se forse
+Dialogue: 0,0:00:35.93,0:00:35.95,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:35.95,0:00:36.07,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno {\1c&HFF00&\u1}sul{\r} divano, ma anche se forse
+Dialogue: 0,0:00:36.07,0:00:36.11,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:36.11,0:00:36.35,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul {\1c&HFF00&\u1}divano,{\r} ma anche se forse
+Dialogue: 0,0:00:36.35,0:00:36.39,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:36.39,0:00:36.45,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, {\1c&HFF00&\u1}ma{\r} anche se forse
+Dialogue: 0,0:00:36.45,0:00:36.47,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:36.47,0:00:36.61,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma {\1c&HFF00&\u1}anche{\r} se forse
+Dialogue: 0,0:00:36.61,0:00:36.65,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:36.65,0:00:36.73,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche {\1c&HFF00&\u1}se{\r} forse
+Dialogue: 0,0:00:36.73,0:00:36.79,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se forse
+Dialogue: 0,0:00:36.79,0:00:36.97,Default,,0,0,0,,che me lo merito, cioè non è sabbatico dove sto tutto giorno sul divano, ma anche se {\1c&HFF00&\u1}forse{\r}
+Dialogue: 0,0:00:36.94,0:00:36.98,Default,,0,0,0,,{\1c&HFF00&\u1}so{\r} fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:36.98,0:00:37.00,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.00,0:00:37.08,Default,,0,0,0,,so {\1c&HFF00&\u1}fare{\r} i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.08,0:00:37.10,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.10,0:00:37.16,Default,,0,0,0,,so fare {\1c&HFF00&\u1}i{\r} miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.16,0:00:37.40,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.40,0:00:37.66,Default,,0,0,0,,so fare i {\1c&HFF00&\u1}miei,{\r} però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.66,0:00:37.68,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.68,0:00:37.78,Default,,0,0,0,,so fare i miei, {\1c&HFF00&\u1}però{\r} non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.78,0:00:37.88,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.88,0:00:37.94,Default,,0,0,0,,so fare i miei, però {\1c&HFF00&\u1}non{\r} farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.94,0:00:37.96,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:37.96,0:00:38.12,Default,,0,0,0,,so fare i miei, però non {\1c&HFF00&\u1}farò{\r} quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.12,0:00:38.18,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.18,0:00:38.46,Default,,0,0,0,,so fare i miei, però non farò {\1c&HFF00&\u1}quello,{\r} però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.46,0:00:38.48,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.48,0:00:38.65,Default,,0,0,0,,so fare i miei, però non farò quello, {\1c&HFF00&\u1}però{\r} un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.65,0:00:38.67,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.67,0:00:38.75,Default,,0,0,0,,so fare i miei, però non farò quello, però {\1c&HFF00&\u1}un{\r} annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.75,0:00:38.79,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:38.79,0:00:39.13,Default,,0,0,0,,so fare i miei, però non farò quello, però un {\1c&HFF00&\u1}annetto{\r} di pausa mentale, perché poi la
+Dialogue: 0,0:00:39.13,0:00:39.77,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:39.77,0:00:39.83,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto {\1c&HFF00&\u1}di{\r} pausa mentale, perché poi la
+Dialogue: 0,0:00:39.83,0:00:39.87,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:39.87,0:00:40.13,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di {\1c&HFF00&\u1}pausa{\r} mentale, perché poi la
+Dialogue: 0,0:00:40.13,0:00:40.23,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:40.23,0:00:40.83,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa {\1c&HFF00&\u1}mentale,{\r} perché poi la
+Dialogue: 0,0:00:40.83,0:00:40.89,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:40.89,0:00:41.07,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, {\1c&HFF00&\u1}perché{\r} poi la
+Dialogue: 0,0:00:41.07,0:00:41.11,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:41.11,0:00:41.17,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché {\1c&HFF00&\u1}poi{\r} la
+Dialogue: 0,0:00:41.17,0:00:41.21,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi la
+Dialogue: 0,0:00:41.21,0:00:41.25,Default,,0,0,0,,so fare i miei, però non farò quello, però un annetto di pausa mentale, perché poi {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:41.22,0:00:41.30,Default,,0,0,0,,{\1c&HFF00&\u1}cosa{\r} mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.30,0:00:41.32,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.32,0:00:41.38,Default,,0,0,0,,cosa {\1c&HFF00&\u1}mia{\r} è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.38,0:00:41.40,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.40,0:00:41.42,Default,,0,0,0,,cosa mia {\1c&HFF00&\u1}è{\r} che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.42,0:00:41.44,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.44,0:00:41.50,Default,,0,0,0,,cosa mia è {\1c&HFF00&\u1}che{\r} a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.50,0:00:41.52,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.52,0:00:41.54,Default,,0,0,0,,cosa mia è che {\1c&HFF00&\u1}a{\r} me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.54,0:00:41.56,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.56,0:00:41.60,Default,,0,0,0,,cosa mia è che a {\1c&HFF00&\u1}me{\r} mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.60,0:00:41.62,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.62,0:00:41.66,Default,,0,0,0,,cosa mia è che a me {\1c&HFF00&\u1}mi{\r} piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.66,0:00:41.68,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.68,0:00:41.78,Default,,0,0,0,,cosa mia è che a me mi {\1c&HFF00&\u1}piace{\r} spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.78,0:00:41.80,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.80,0:00:41.98,Default,,0,0,0,,cosa mia è che a me mi piace {\1c&HFF00&\u1}spostarmi,{\r} non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:41.98,0:00:42.00,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.00,0:00:42.06,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, {\1c&HFF00&\u1}non{\r} so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.06,0:00:42.08,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.08,0:00:42.12,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non {\1c&HFF00&\u1}so{\r} dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.12,0:00:42.14,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.14,0:00:42.22,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so {\1c&HFF00&\u1}dove{\r} vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.22,0:00:42.24,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.24,0:00:42.36,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove {\1c&HFF00&\u1}vedere{\r} cosa faccio dopo, però io
+Dialogue: 0,0:00:42.36,0:00:42.38,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.38,0:00:42.46,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere {\1c&HFF00&\u1}cosa{\r} faccio dopo, però io
+Dialogue: 0,0:00:42.46,0:00:42.48,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.48,0:00:42.60,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa {\1c&HFF00&\u1}faccio{\r} dopo, però io
+Dialogue: 0,0:00:42.60,0:00:42.62,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.62,0:00:42.72,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio {\1c&HFF00&\u1}dopo,{\r} però io
+Dialogue: 0,0:00:42.72,0:00:42.74,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.74,0:00:42.82,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, {\1c&HFF00&\u1}però{\r} io
+Dialogue: 0,0:00:42.82,0:00:42.92,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però io
+Dialogue: 0,0:00:42.92,0:00:42.98,Default,,0,0,0,,cosa mia è che a me mi piace spostarmi, non so dove vedere cosa faccio dopo, però {\1c&HFF00&\u1}io{\r}
+Dialogue: 0,0:00:46.98,0:00:47.22,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:47.22,0:00:48.00,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.00,0:00:48.10,Default,,0,0,0,,sono {\1c&HFF00&\u1}per{\r} forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.10,0:00:48.16,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.16,0:00:48.44,Default,,0,0,0,,sono per {\1c&HFF00&\u1}forza{\r} legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.44,0:00:48.53,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.53,0:00:48.77,Default,,0,0,0,,sono per forza {\1c&HFF00&\u1}legata{\r} a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.77,0:00:48.79,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.79,0:00:48.83,Default,,0,0,0,,sono per forza legata {\1c&HFF00&\u1}a{\r} Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.83,0:00:48.89,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:48.89,0:00:49.09,Default,,0,0,0,,sono per forza legata a {\1c&HFF00&\u1}Roma,{\r} perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.09,0:00:49.11,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.11,0:00:49.29,Default,,0,0,0,,sono per forza legata a Roma, {\1c&HFF00&\u1}perché{\r} l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.29,0:00:49.31,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.31,0:00:49.73,Default,,0,0,0,,sono per forza legata a Roma, perché {\1c&HFF00&\u1}l'università{\r} sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.73,0:00:49.81,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.81,0:00:49.89,Default,,0,0,0,,sono per forza legata a Roma, perché l'università {\1c&HFF00&\u1}sta{\r} a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.89,0:00:49.91,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.91,0:00:49.93,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta {\1c&HFF00&\u1}a{\r} Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.93,0:00:49.99,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:49.99,0:00:50.23,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a {\1c&HFF00&\u1}Roma,{\r} quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:50.23,0:00:50.35,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:50.35,0:00:50.61,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, {\1c&HFF00&\u1}quindi{\r} vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:50.61,0:00:50.73,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:50.73,0:00:50.85,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi {\1c&HFF00&\u1}vuoi{\r} o non vuoi io a Roma
+Dialogue: 0,0:00:50.85,0:00:50.87,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:50.87,0:00:50.89,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi {\1c&HFF00&\u1}o{\r} non vuoi io a Roma
+Dialogue: 0,0:00:50.89,0:00:50.91,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:50.91,0:00:51.03,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o {\1c&HFF00&\u1}non{\r} vuoi io a Roma
+Dialogue: 0,0:00:51.03,0:00:51.05,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:51.05,0:00:51.29,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non {\1c&HFF00&\u1}vuoi{\r} io a Roma
+Dialogue: 0,0:00:51.29,0:00:51.39,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:51.39,0:00:51.43,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi {\1c&HFF00&\u1}io{\r} a Roma
+Dialogue: 0,0:00:51.43,0:00:51.47,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:51.47,0:00:51.49,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io {\1c&HFF00&\u1}a{\r} Roma
+Dialogue: 0,0:00:51.49,0:00:51.55,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a Roma
+Dialogue: 0,0:00:51.55,0:00:51.69,Default,,0,0,0,,sono per forza legata a Roma, perché l'università sta a Roma, quindi vuoi o non vuoi io a {\1c&HFF00&\u1}Roma{\r}
+Dialogue: 0,0:00:51.68,0:00:52.04,Default,,0,0,0,,{\1c&HFF00&\u1}dovevo{\r} ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.04,0:00:52.06,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.06,0:00:52.60,Default,,0,0,0,,dovevo {\1c&HFF00&\u1}ritornare{\r} e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.60,0:00:52.62,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.62,0:00:52.64,Default,,0,0,0,,dovevo ritornare {\1c&HFF00&\u1}e{\r} mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.64,0:00:52.66,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.66,0:00:52.72,Default,,0,0,0,,dovevo ritornare e {\1c&HFF00&\u1}mi{\r} dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.72,0:00:52.74,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.74,0:00:52.86,Default,,0,0,0,,dovevo ritornare e mi {\1c&HFF00&\u1}dovevo{\r} laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.86,0:00:52.88,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:52.88,0:00:53.28,Default,,0,0,0,,dovevo ritornare e mi dovevo {\1c&HFF00&\u1}laureare{\r} e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:53.28,0:00:53.38,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:53.38,0:00:53.42,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare {\1c&HFF00&\u1}e{\r} noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:53.42,0:00:53.54,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:53.54,0:00:53.72,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e {\1c&HFF00&\u1}noi{\r} qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:53.72,0:00:53.82,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:53.82,0:00:54.05,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi {\1c&HFF00&\u1}qua{\r} ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:54.05,0:00:54.33,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:54.33,0:00:54.41,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua {\1c&HFF00&\u1}ci{\r} lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:54.41,0:00:54.45,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:54.45,0:00:55.19,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci {\1c&HFF00&\u1}lamenteremo{\r} solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:55.19,0:00:55.35,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:55.35,0:00:55.73,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo {\1c&HFF00&\u1}solamente{\r} delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:55.73,0:00:55.77,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:55.77,0:00:55.99,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente {\1c&HFF00&\u1}delle{\r} cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:55.99,0:00:56.03,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:56.03,0:00:56.43,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle {\1c&HFF00&\u1}cose{\r} che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:56.43,0:00:56.65,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:56.65,0:00:56.75,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose {\1c&HFF00&\u1}che{\r} noi effettivamente possiamo modificare
+Dialogue: 0,0:00:56.75,0:00:56.85,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:56.85,0:00:57.05,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che {\1c&HFF00&\u1}noi{\r} effettivamente possiamo modificare
+Dialogue: 0,0:00:57.05,0:00:57.19,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:57.19,0:00:57.85,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi {\1c&HFF00&\u1}effettivamente{\r} possiamo modificare
+Dialogue: 0,0:00:57.85,0:00:57.89,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:57.89,0:00:58.21,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente {\1c&HFF00&\u1}possiamo{\r} modificare
+Dialogue: 0,0:00:58.21,0:00:58.29,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo modificare
+Dialogue: 0,0:00:58.29,0:00:58.84,Default,,0,0,0,,dovevo ritornare e mi dovevo laureare e noi qua ci lamenteremo solamente delle cose che noi effettivamente possiamo {\1c&HFF00&\u1}modificare{\r}
+Dialogue: 0,0:01:0.12,0:01:0.23,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.23,0:01:0.31,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.31,0:01:0.39,Default,,0,0,0,,che {\1c&HFF00&\u1}mi{\r} laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.39,0:01:0.43,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.43,0:01:0.81,Default,,0,0,0,,che mi {\1c&HFF00&\u1}laureo{\r} un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.81,0:01:0.85,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.85,0:01:0.89,Default,,0,0,0,,che mi laureo {\1c&HFF00&\u1}un{\r} mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.89,0:01:0.93,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:0.93,0:01:1.11,Default,,0,0,0,,che mi laureo un {\1c&HFF00&\u1}mese{\r} dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:1.11,0:01:1.17,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:1.17,0:01:1.41,Default,,0,0,0,,che mi laureo un mese {\1c&HFF00&\u1}dopo{\r} che ti laureo un anno dopo
+Dialogue: 0,0:01:1.41,0:01:1.43,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:1.43,0:01:1.53,Default,,0,0,0,,che mi laureo un mese dopo {\1c&HFF00&\u1}che{\r} ti laureo un anno dopo
+Dialogue: 0,0:01:1.53,0:01:1.59,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:1.59,0:01:1.67,Default,,0,0,0,,che mi laureo un mese dopo che {\1c&HFF00&\u1}ti{\r} laureo un anno dopo
+Dialogue: 0,0:01:1.67,0:01:1.71,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:1.71,0:01:1.93,Default,,0,0,0,,che mi laureo un mese dopo che ti {\1c&HFF00&\u1}laureo{\r} un anno dopo
+Dialogue: 0,0:01:1.93,0:01:1.95,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:1.95,0:01:2.03,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo {\1c&HFF00&\u1}un{\r} anno dopo
+Dialogue: 0,0:01:2.03,0:01:2.09,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:2.09,0:01:2.23,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un {\1c&HFF00&\u1}anno{\r} dopo
+Dialogue: 0,0:01:2.23,0:01:2.27,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno dopo
+Dialogue: 0,0:01:2.27,0:01:2.53,Default,,0,0,0,,che mi laureo un mese dopo che ti laureo un anno {\1c&HFF00&\u1}dopo{\r}
+Dialogue: 0,0:01:3.28,0:01:3.48,Default,,0,0,0,,{\1c&HFF00&\u1}cambia{\r} solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:3.48,0:01:3.52,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:3.52,0:01:3.71,Default,,0,0,0,,cambia {\1c&HFF00&\u1}solo{\r} per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:3.71,0:01:3.75,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:3.75,0:01:3.87,Default,,0,0,0,,cambia solo {\1c&HFF00&\u1}per{\r} le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:3.87,0:01:3.93,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:3.93,0:01:3.99,Default,,0,0,0,,cambia solo per {\1c&HFF00&\u1}le{\r} tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:3.99,0:01:4.03,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:4.03,0:01:4.37,Default,,0,0,0,,cambia solo per le {\1c&HFF00&\u1}tasse{\r} però per il resto non cambia proprio niente
+Dialogue: 0,0:01:4.37,0:01:4.41,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:4.41,0:01:4.53,Default,,0,0,0,,cambia solo per le tasse {\1c&HFF00&\u1}però{\r} per il resto non cambia proprio niente
+Dialogue: 0,0:01:4.53,0:01:4.57,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:4.57,0:01:4.71,Default,,0,0,0,,cambia solo per le tasse però {\1c&HFF00&\u1}per{\r} il resto non cambia proprio niente
+Dialogue: 0,0:01:4.71,0:01:4.73,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:4.73,0:01:4.77,Default,,0,0,0,,cambia solo per le tasse però per {\1c&HFF00&\u1}il{\r} resto non cambia proprio niente
+Dialogue: 0,0:01:4.77,0:01:4.79,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:4.79,0:01:5.05,Default,,0,0,0,,cambia solo per le tasse però per il {\1c&HFF00&\u1}resto{\r} non cambia proprio niente
+Dialogue: 0,0:01:5.05,0:01:5.09,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:5.09,0:01:5.21,Default,,0,0,0,,cambia solo per le tasse però per il resto {\1c&HFF00&\u1}non{\r} cambia proprio niente
+Dialogue: 0,0:01:5.21,0:01:5.23,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:5.23,0:01:5.43,Default,,0,0,0,,cambia solo per le tasse però per il resto non {\1c&HFF00&\u1}cambia{\r} proprio niente
+Dialogue: 0,0:01:5.43,0:01:5.47,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:5.47,0:01:5.67,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia {\1c&HFF00&\u1}proprio{\r} niente
+Dialogue: 0,0:01:5.67,0:01:5.71,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio niente
+Dialogue: 0,0:01:5.71,0:01:6.01,Default,,0,0,0,,cambia solo per le tasse però per il resto non cambia proprio {\1c&HFF00&\u1}niente{\r}
+Dialogue: 0,0:01:6.84,0:01:7.20,Default,,0,0,0,,{\1c&HFF00&\u1}statemi{\r} bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:7.20,0:01:7.26,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:7.26,0:01:7.48,Default,,0,0,0,,statemi {\1c&HFF00&\u1}bene{\r} ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:7.48,0:01:7.52,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:7.52,0:01:7.95,Default,,0,0,0,,statemi bene {\1c&HFF00&\u1}ragazzi{\r} spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:7.95,0:01:8.03,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.03,0:01:8.21,Default,,0,0,0,,statemi bene ragazzi {\1c&HFF00&\u1}spero{\r} che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.21,0:01:8.23,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.23,0:01:8.29,Default,,0,0,0,,statemi bene ragazzi spero {\1c&HFF00&\u1}che{\r} anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.29,0:01:8.31,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.31,0:01:8.47,Default,,0,0,0,,statemi bene ragazzi spero che {\1c&HFF00&\u1}anche{\r} voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.47,0:01:8.49,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.49,0:01:8.59,Default,,0,0,0,,statemi bene ragazzi spero che anche {\1c&HFF00&\u1}voi{\r} non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.59,0:01:8.63,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.63,0:01:8.83,Default,,0,0,0,,statemi bene ragazzi spero che anche voi {\1c&HFF00&\u1}non{\r} siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.83,0:01:8.85,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:8.85,0:01:9.07,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non {\1c&HFF00&\u1}siate{\r} saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.07,0:01:9.13,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.13,0:01:9.43,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate {\1c&HFF00&\u1}saurite{\r} il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.43,0:01:9.45,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.45,0:01:9.49,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite {\1c&HFF00&\u1}il{\r} sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.49,0:01:9.53,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.53,0:01:9.85,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il {\1c&HFF00&\u1}sabato{\r} sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.85,0:01:9.89,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:9.89,0:01:10.17,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato {\1c&HFF00&\u1}sera{\r} tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:10.17,0:01:10.25,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:10.25,0:01:10.43,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera {\1c&HFF00&\u1}tipo{\r} me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:10.43,0:01:10.49,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:10.49,0:01:10.65,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo {\1c&HFF00&\u1}me{\r} adesso vado a ordine a burger king non
+Dialogue: 0,0:01:10.65,0:01:10.67,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:10.67,0:01:10.87,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me {\1c&HFF00&\u1}adesso{\r} vado a ordine a burger king non
+Dialogue: 0,0:01:10.87,0:01:10.91,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:10.91,0:01:11.01,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso {\1c&HFF00&\u1}vado{\r} a ordine a burger king non
+Dialogue: 0,0:01:11.01,0:01:11.03,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:11.03,0:01:11.05,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado {\1c&HFF00&\u1}a{\r} ordine a burger king non
+Dialogue: 0,0:01:11.05,0:01:11.07,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:11.07,0:01:11.33,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a {\1c&HFF00&\u1}ordine{\r} a burger king non
+Dialogue: 0,0:01:11.33,0:01:11.35,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:11.35,0:01:11.37,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine {\1c&HFF00&\u1}a{\r} burger king non
+Dialogue: 0,0:01:11.37,0:01:11.45,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:11.45,0:01:11.71,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a {\1c&HFF00&\u1}burger{\r} king non
+Dialogue: 0,0:01:11.71,0:01:11.77,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:11.77,0:01:12.17,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger {\1c&HFF00&\u1}king{\r} non
+Dialogue: 0,0:01:12.17,0:01:12.19,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king non
+Dialogue: 0,0:01:12.19,0:01:12.34,Default,,0,0,0,,statemi bene ragazzi spero che anche voi non siate saurite il sabato sera tipo me adesso vado a ordine a burger king {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:01:12.48,0:01:12.54,Default,,0,0,0,,{\1c&HFF00&\u1}lo{\r} so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:12.54,0:01:12.58,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:12.58,0:01:12.68,Default,,0,0,0,,lo {\1c&HFF00&\u1}so{\r} perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:12.68,0:01:12.74,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:12.74,0:01:12.92,Default,,0,0,0,,lo so {\1c&HFF00&\u1}perché{\r} mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:12.92,0:01:12.94,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:12.94,0:01:12.98,Default,,0,0,0,,lo so perché {\1c&HFF00&\u1}mi{\r} sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:12.98,0:01:13.02,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:13.02,0:01:13.14,Default,,0,0,0,,lo so perché mi {\1c&HFF00&\u1}sono{\r} agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:13.14,0:01:13.18,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:13.18,0:01:13.66,Default,,0,0,0,,lo so perché mi sono {\1c&HFF00&\u1}agitata{\r} mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:13.66,0:01:13.82,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:13.82,0:01:13.88,Default,,0,0,0,,lo so perché mi sono agitata {\1c&HFF00&\u1}mi{\r} dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:13.88,0:01:13.92,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:13.92,0:01:14.00,Default,,0,0,0,,lo so perché mi sono agitata mi {\1c&HFF00&\u1}dico{\r} un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.00,0:01:14.02,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.02,0:01:14.08,Default,,0,0,0,,lo so perché mi sono agitata mi dico {\1c&HFF00&\u1}un{\r} attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.08,0:01:14.11,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.11,0:01:14.33,Default,,0,0,0,,lo so perché mi sono agitata mi dico un {\1c&HFF00&\u1}attimo{\r} che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.33,0:01:14.37,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.37,0:01:14.43,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo {\1c&HFF00&\u1}che{\r} ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.43,0:01:14.45,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.45,0:01:14.59,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che {\1c&HFF00&\u1}ormai{\r} faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.59,0:01:14.63,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.63,0:01:14.79,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai {\1c&HFF00&\u1}faccio{\r} una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.79,0:01:14.81,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.81,0:01:14.87,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio {\1c&HFF00&\u1}una{\r} tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.87,0:01:14.93,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:14.93,0:01:15.17,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una {\1c&HFF00&\u1}tisana{\r} non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.17,0:01:15.33,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.33,0:01:15.43,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana {\1c&HFF00&\u1}non{\r} lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.43,0:01:15.47,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.47,0:01:15.53,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non {\1c&HFF00&\u1}lo{\r} so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.53,0:01:15.55,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.55,0:01:15.65,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo {\1c&HFF00&\u1}so{\r} ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.65,0:01:15.69,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:15.69,0:01:16.01,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so {\1c&HFF00&\u1}ragazzi{\r} mi so bloccata la sgridata
+Dialogue: 0,0:01:16.01,0:01:16.05,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:16.05,0:01:16.11,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi {\1c&HFF00&\u1}mi{\r} so bloccata la sgridata
+Dialogue: 0,0:01:16.11,0:01:16.15,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:16.15,0:01:16.21,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi {\1c&HFF00&\u1}so{\r} bloccata la sgridata
+Dialogue: 0,0:01:16.21,0:01:16.29,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:16.29,0:01:16.57,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so {\1c&HFF00&\u1}bloccata{\r} la sgridata
+Dialogue: 0,0:01:16.57,0:01:16.63,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:16.63,0:01:16.71,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata {\1c&HFF00&\u1}la{\r} sgridata
+Dialogue: 0,0:01:16.71,0:01:16.75,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la sgridata
+Dialogue: 0,0:01:16.75,0:01:17.35,Default,,0,0,0,,lo so perché mi sono agitata mi dico un attimo che ormai faccio una tisana non lo so ragazzi mi so bloccata la {\1c&HFF00&\u1}sgridata{\r}
+Dialogue: 0,0:01:17.34,0:01:17.58,Default,,0,0,0,,{\1c&HFF00&\u1}l'esaurimento{\r} eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:17.58,0:01:17.60,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:17.60,0:01:17.72,Default,,0,0,0,,l'esaurimento {\1c&HFF00&\u1}eppure{\r} la sgridata e va bene ragazzi
+Dialogue: 0,0:01:17.72,0:01:17.74,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:17.74,0:01:17.78,Default,,0,0,0,,l'esaurimento eppure {\1c&HFF00&\u1}la{\r} sgridata e va bene ragazzi
+Dialogue: 0,0:01:17.78,0:01:17.80,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:17.80,0:01:17.96,Default,,0,0,0,,l'esaurimento eppure la {\1c&HFF00&\u1}sgridata{\r} e va bene ragazzi
+Dialogue: 0,0:01:17.96,0:01:17.98,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:17.98,0:01:18.00,Default,,0,0,0,,l'esaurimento eppure la sgridata {\1c&HFF00&\u1}e{\r} va bene ragazzi
+Dialogue: 0,0:01:18.00,0:01:18.02,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:18.02,0:01:18.06,Default,,0,0,0,,l'esaurimento eppure la sgridata e {\1c&HFF00&\u1}va{\r} bene ragazzi
+Dialogue: 0,0:01:18.06,0:01:18.08,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:18.08,0:01:18.18,Default,,0,0,0,,l'esaurimento eppure la sgridata e va {\1c&HFF00&\u1}bene{\r} ragazzi
+Dialogue: 0,0:01:18.18,0:01:18.20,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene ragazzi
+Dialogue: 0,0:01:18.20,0:01:18.34,Default,,0,0,0,,l'esaurimento eppure la sgridata e va bene {\1c&HFF00&\u1}ragazzi{\r}
+Dialogue: 0,0:01:21.42,0:01:21.66,Default,,0,0,0,,{\1c&HFF00&\u1}quando{\r} mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:21.66,0:01:21.70,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:21.70,0:01:21.76,Default,,0,0,0,,quando {\1c&HFF00&\u1}mi{\r} laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:21.76,0:01:21.80,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:21.80,0:01:22.17,Default,,0,0,0,,quando mi {\1c&HFF00&\u1}laureo{\r} festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:22.17,0:01:22.21,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:22.21,0:01:22.45,Default,,0,0,0,,quando mi laureo {\1c&HFF00&\u1}festa{\r} nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:22.45,0:01:22.49,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:22.49,0:01:22.89,Default,,0,0,0,,quando mi laureo festa {\1c&HFF00&\u1}nazionale{\r} davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:22.89,0:01:22.91,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:22.91,0:01:23.17,Default,,0,0,0,,quando mi laureo festa nazionale {\1c&HFF00&\u1}davvero{\r} farò una mega festa in vita di tutti
+Dialogue: 0,0:01:23.17,0:01:23.19,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:23.19,0:01:23.35,Default,,0,0,0,,quando mi laureo festa nazionale davvero {\1c&HFF00&\u1}farò{\r} una mega festa in vita di tutti
+Dialogue: 0,0:01:23.35,0:01:23.39,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:23.39,0:01:23.49,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò {\1c&HFF00&\u1}una{\r} mega festa in vita di tutti
+Dialogue: 0,0:01:23.49,0:01:23.53,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:23.53,0:01:23.75,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una {\1c&HFF00&\u1}mega{\r} festa in vita di tutti
+Dialogue: 0,0:01:23.75,0:01:23.81,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:23.81,0:01:24.13,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega {\1c&HFF00&\u1}festa{\r} in vita di tutti
+Dialogue: 0,0:01:24.13,0:01:24.19,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:24.19,0:01:24.23,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa {\1c&HFF00&\u1}in{\r} vita di tutti
+Dialogue: 0,0:01:24.23,0:01:24.25,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:24.25,0:01:24.41,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in {\1c&HFF00&\u1}vita{\r} di tutti
+Dialogue: 0,0:01:24.41,0:01:24.47,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:24.47,0:01:24.53,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita {\1c&HFF00&\u1}di{\r} tutti
+Dialogue: 0,0:01:24.53,0:01:24.59,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di tutti
+Dialogue: 0,0:01:24.59,0:01:24.81,Default,,0,0,0,,quando mi laureo festa nazionale davvero farò una mega festa in vita di {\1c&HFF00&\u1}tutti{\r}
+Dialogue: 0,0:01:24.78,0:01:25.08,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:25.08,0:01:25.10,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:25.10,0:01:25.24,Default,,0,0,0,,perché {\1c&HFF00&\u1}mi{\r} libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:25.24,0:01:25.46,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:25.46,0:01:25.98,Default,,0,0,0,,perché mi {\1c&HFF00&\u1}libererò{\r} da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:25.98,0:01:26.02,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.02,0:01:26.12,Default,,0,0,0,,perché mi libererò {\1c&HFF00&\u1}da{\r} questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.12,0:01:26.16,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.16,0:01:26.35,Default,,0,0,0,,perché mi libererò da {\1c&HFF00&\u1}questo{\r} peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.35,0:01:26.39,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.39,0:01:26.63,Default,,0,0,0,,perché mi libererò da questo {\1c&HFF00&\u1}peso{\r} che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.63,0:01:26.85,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.85,0:01:26.93,Default,,0,0,0,,perché mi libererò da questo peso {\1c&HFF00&\u1}che{\r} mi tiene ancorata al passato
+Dialogue: 0,0:01:26.93,0:01:26.97,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:26.97,0:01:27.03,Default,,0,0,0,,perché mi libererò da questo peso che {\1c&HFF00&\u1}mi{\r} tiene ancorata al passato
+Dialogue: 0,0:01:27.03,0:01:27.07,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:27.07,0:01:27.23,Default,,0,0,0,,perché mi libererò da questo peso che mi {\1c&HFF00&\u1}tiene{\r} ancorata al passato
+Dialogue: 0,0:01:27.23,0:01:27.25,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:27.25,0:01:27.65,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene {\1c&HFF00&\u1}ancorata{\r} al passato
+Dialogue: 0,0:01:27.65,0:01:27.81,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:27.81,0:01:27.89,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata {\1c&HFF00&\u1}al{\r} passato
+Dialogue: 0,0:01:27.89,0:01:27.95,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al passato
+Dialogue: 0,0:01:27.95,0:01:28.35,Default,,0,0,0,,perché mi libererò da questo peso che mi tiene ancorata al {\1c&HFF00&\u1}passato{\r}
+Dialogue: 0,0:01:29.10,0:01:29.42,Default,,0,0,0,,{\1c&HFF00&\u1}Stademi{\r} bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:29.42,0:01:29.50,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:29.50,0:01:29.78,Default,,0,0,0,,Stademi {\1c&HFF00&\u1}bene{\r} e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:29.78,0:01:29.94,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:29.94,0:01:29.96,Default,,0,0,0,,Stademi bene {\1c&HFF00&\u1}e{\r} ci vediamo nel prossimo video.
+Dialogue: 0,0:01:29.96,0:01:30.00,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:30.00,0:01:30.06,Default,,0,0,0,,Stademi bene e {\1c&HFF00&\u1}ci{\r} vediamo nel prossimo video.
+Dialogue: 0,0:01:30.06,0:01:30.08,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:30.08,0:01:30.38,Default,,0,0,0,,Stademi bene e ci {\1c&HFF00&\u1}vediamo{\r} nel prossimo video.
+Dialogue: 0,0:01:30.38,0:01:30.49,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:30.49,0:01:30.59,Default,,0,0,0,,Stademi bene e ci vediamo {\1c&HFF00&\u1}nel{\r} prossimo video.
+Dialogue: 0,0:01:30.59,0:01:30.63,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:30.63,0:01:30.95,Default,,0,0,0,,Stademi bene e ci vediamo nel {\1c&HFF00&\u1}prossimo{\r} video.
+Dialogue: 0,0:01:30.95,0:01:30.99,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo video.
+Dialogue: 0,0:01:30.99,0:01:31.19,Default,,0,0,0,,Stademi bene e ci vediamo nel prossimo {\1c&HFF00&\u1}video.{\r}

@@ -1,0 +1,72 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.56,Default,,0,0,0,,{\1c&HFF00&\u1}L'alcol{\r} costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:0.56,0:00:0.62,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:0.62,0:00:0.98,Default,,0,0,0,,L'alcol {\1c&HFF00&\u1}costa,{\r} l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:0.98,0:00:1.48,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:1.48,0:00:1.92,Default,,0,0,0,,L'alcol costa, {\1c&HFF00&\u1}l'alcol{\r} fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:1.92,0:00:2.04,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:2.04,0:00:2.15,Default,,0,0,0,,L'alcol costa, l'alcol {\1c&HFF00&\u1}fa{\r} male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:2.15,0:00:2.19,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:2.19,0:00:2.53,Default,,0,0,0,,L'alcol costa, l'alcol fa {\1c&HFF00&\u1}male.{\r} A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:2.53,0:00:3.09,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:3.09,0:00:3.11,Default,,0,0,0,,L'alcol costa, l'alcol fa male. {\1c&HFF00&\u1}A{\r} casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:3.11,0:00:3.17,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:3.17,0:00:3.37,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A {\1c&HFF00&\u1}casa{\r} nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:3.37,0:00:3.41,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:3.41,0:00:3.63,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa {\1c&HFF00&\u1}nostra{\r} c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:3.63,0:00:3.73,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:3.73,0:00:4.09,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra {\1c&HFF00&\u1}c'entra{\r} del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:4.09,0:00:4.15,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:4.15,0:00:4.39,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra {\1c&HFF00&\u1}del{\r} buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:4.39,0:00:4.55,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:4.55,0:00:4.73,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del {\1c&HFF00&\u1}buon{\r} vino se abbiamo ospiti e
+Dialogue: 0,0:00:4.73,0:00:4.77,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:4.77,0:00:5.03,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon {\1c&HFF00&\u1}vino{\r} se abbiamo ospiti e
+Dialogue: 0,0:00:5.03,0:00:5.09,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:5.09,0:00:5.17,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino {\1c&HFF00&\u1}se{\r} abbiamo ospiti e
+Dialogue: 0,0:00:5.17,0:00:5.19,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:5.19,0:00:5.45,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se {\1c&HFF00&\u1}abbiamo{\r} ospiti e
+Dialogue: 0,0:00:5.45,0:00:5.53,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:5.53,0:00:5.95,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo {\1c&HFF00&\u1}ospiti{\r} e
+Dialogue: 0,0:00:5.95,0:00:5.97,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti e
+Dialogue: 0,0:00:5.97,0:00:5.99,Default,,0,0,0,,L'alcol costa, l'alcol fa male. A casa nostra c'entra del buon vino se abbiamo ospiti {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:6.58,0:00:6.76,Default,,0,0,0,,{\1c&HFF00&\u1}stessa{\r} cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:6.76,0:00:6.80,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:6.80,0:00:6.96,Default,,0,0,0,,stessa {\1c&HFF00&\u1}cosa{\r} fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:6.96,0:00:7.04,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:7.04,0:00:7.26,Default,,0,0,0,,stessa cosa {\1c&HFF00&\u1}fuori,{\r} se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:7.26,0:00:7.30,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:7.30,0:00:7.36,Default,,0,0,0,,stessa cosa fuori, {\1c&HFF00&\u1}se{\r} c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:7.36,0:00:7.42,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:7.42,0:00:7.52,Default,,0,0,0,,stessa cosa fuori, se {\1c&HFF00&\u1}c'è{\r} un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:7.52,0:00:7.56,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:7.56,0:00:8.18,Default,,0,0,0,,stessa cosa fuori, se c'è {\1c&HFF00&\u1}un'occasione{\r} un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:8.18,0:00:8.57,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:8.57,0:00:8.65,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione {\1c&HFF00&\u1}un{\r} bicchiere di vino rosso è più che
+Dialogue: 0,0:00:8.65,0:00:8.67,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:8.67,0:00:9.01,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un {\1c&HFF00&\u1}bicchiere{\r} di vino rosso è più che
+Dialogue: 0,0:00:9.01,0:00:9.13,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:9.13,0:00:9.27,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere {\1c&HFF00&\u1}di{\r} vino rosso è più che
+Dialogue: 0,0:00:9.27,0:00:9.37,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:9.37,0:00:9.57,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di {\1c&HFF00&\u1}vino{\r} rosso è più che
+Dialogue: 0,0:00:9.57,0:00:9.61,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:9.61,0:00:9.99,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino {\1c&HFF00&\u1}rosso{\r} è più che
+Dialogue: 0,0:00:9.99,0:00:10.27,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:10.27,0:00:10.29,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso {\1c&HFF00&\u1}è{\r} più che
+Dialogue: 0,0:00:10.29,0:00:10.35,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:10.35,0:00:10.43,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è {\1c&HFF00&\u1}più{\r} che
+Dialogue: 0,0:00:10.43,0:00:10.47,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più che
+Dialogue: 0,0:00:10.47,0:00:10.55,Default,,0,0,0,,stessa cosa fuori, se c'è un'occasione un bicchiere di vino rosso è più {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:10.52,0:00:10.74,Default,,0,0,0,,{\1c&HFF00&\u1}sufficiente.{\r}

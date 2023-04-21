@@ -1,0 +1,203 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.68,Default,,0,0,0,,{\1c&HFF00&\u1}Ciao{\r} e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:0.68,0:00:0.88,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:0.88,0:00:0.94,Default,,0,0,0,,Ciao {\1c&HFF00&\u1}e{\r} benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:0.94,0:00:1.08,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:1.08,0:00:1.74,Default,,0,0,0,,Ciao e {\1c&HFF00&\u1}benvenuto{\r} o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:1.74,0:00:1.90,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:1.90,0:00:1.96,Default,,0,0,0,,Ciao e benvenuto {\1c&HFF00&\u1}o{\r} benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:1.96,0:00:2.09,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:2.09,0:00:2.75,Default,,0,0,0,,Ciao e benvenuto o {\1c&HFF00&\u1}benvenuta{\r} in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:2.75,0:00:2.97,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:2.97,0:00:3.07,Default,,0,0,0,,Ciao e benvenuto o benvenuta {\1c&HFF00&\u1}in{\r} questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:3.07,0:00:3.17,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:3.17,0:00:3.49,Default,,0,0,0,,Ciao e benvenuto o benvenuta in {\1c&HFF00&\u1}questo{\r} nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:3.49,0:00:3.61,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:3.61,0:00:3.99,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo {\1c&HFF00&\u1}nuovo{\r} video di Vaporetto Italiano.
+Dialogue: 0,0:00:3.99,0:00:4.09,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:4.09,0:00:4.41,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo {\1c&HFF00&\u1}video{\r} di Vaporetto Italiano.
+Dialogue: 0,0:00:4.41,0:00:4.51,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:4.51,0:00:4.61,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video {\1c&HFF00&\u1}di{\r} Vaporetto Italiano.
+Dialogue: 0,0:00:4.61,0:00:4.67,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:4.67,0:00:5.27,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di {\1c&HFF00&\u1}Vaporetto{\r} Italiano.
+Dialogue: 0,0:00:5.27,0:00:5.39,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto Italiano.
+Dialogue: 0,0:00:5.39,0:00:5.93,Default,,0,0,0,,Ciao e benvenuto o benvenuta in questo nuovo video di Vaporetto {\1c&HFF00&\u1}Italiano.{\r}
+Dialogue: 0,0:00:6.84,0:00:6.98,Default,,0,0,0,,{\1c&HFF00&\u1}Io{\r} sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:6.98,0:00:7.02,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:7.02,0:00:7.24,Default,,0,0,0,,Io {\1c&HFF00&\u1}sono{\r} Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:7.24,0:00:7.30,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:7.30,0:00:7.92,Default,,0,0,0,,Io sono {\1c&HFF00&\u1}Francesco{\r} e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:7.92,0:00:8.30,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:8.30,0:00:8.34,Default,,0,0,0,,Io sono Francesco {\1c&HFF00&\u1}e{\r} oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:8.34,0:00:8.42,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:8.42,0:00:8.77,Default,,0,0,0,,Io sono Francesco e {\1c&HFF00&\u1}oggi{\r} ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:8.77,0:00:9.01,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:9.01,0:00:9.09,Default,,0,0,0,,Io sono Francesco e oggi {\1c&HFF00&\u1}ti{\r} parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:9.09,0:00:9.17,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:9.17,0:00:9.55,Default,,0,0,0,,Io sono Francesco e oggi ti {\1c&HFF00&\u1}parlo{\r} di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:9.55,0:00:9.77,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:9.77,0:00:9.89,Default,,0,0,0,,Io sono Francesco e oggi ti parlo {\1c&HFF00&\u1}di{\r} due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:9.89,0:00:10.05,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:10.05,0:00:10.31,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di {\1c&HFF00&\u1}due{\r} verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:10.31,0:00:10.41,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:10.41,0:00:10.79,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due {\1c&HFF00&\u1}verbi{\r} estremamente importanti in italiano.
+Dialogue: 0,0:00:10.79,0:00:11.29,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:11.29,0:00:12.31,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi {\1c&HFF00&\u1}estremamente{\r} importanti in italiano.
+Dialogue: 0,0:00:12.31,0:00:12.53,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:12.53,0:00:13.37,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente {\1c&HFF00&\u1}importanti{\r} in italiano.
+Dialogue: 0,0:00:13.37,0:00:13.59,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:13.59,0:00:13.67,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti {\1c&HFF00&\u1}in{\r} italiano.
+Dialogue: 0,0:00:13.67,0:00:13.71,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in italiano.
+Dialogue: 0,0:00:13.71,0:00:14.23,Default,,0,0,0,,Io sono Francesco e oggi ti parlo di due verbi estremamente importanti in {\1c&HFF00&\u1}italiano.{\r}
+Dialogue: 0,0:00:15.44,0:00:15.72,Default,,0,0,0,,{\1c&HFF00&\u1}Questi{\r} due verbi sono andare e venire.
+Dialogue: 0,0:00:15.72,0:00:15.80,Default,,0,0,0,,Questi due verbi sono andare e venire.
+Dialogue: 0,0:00:15.80,0:00:15.92,Default,,0,0,0,,Questi {\1c&HFF00&\u1}due{\r} verbi sono andare e venire.
+Dialogue: 0,0:00:15.92,0:00:15.96,Default,,0,0,0,,Questi due verbi sono andare e venire.
+Dialogue: 0,0:00:15.96,0:00:16.30,Default,,0,0,0,,Questi due {\1c&HFF00&\u1}verbi{\r} sono andare e venire.
+Dialogue: 0,0:00:16.30,0:00:16.53,Default,,0,0,0,,Questi due verbi sono andare e venire.
+Dialogue: 0,0:00:16.53,0:00:16.81,Default,,0,0,0,,Questi due verbi {\1c&HFF00&\u1}sono{\r} andare e venire.
+Dialogue: 0,0:00:16.81,0:00:17.23,Default,,0,0,0,,Questi due verbi sono andare e venire.
+Dialogue: 0,0:00:17.23,0:00:17.75,Default,,0,0,0,,Questi due verbi sono {\1c&HFF00&\u1}andare{\r} e venire.
+Dialogue: 0,0:00:17.75,0:00:18.19,Default,,0,0,0,,Questi due verbi sono andare e venire.
+Dialogue: 0,0:00:18.19,0:00:18.29,Default,,0,0,0,,Questi due verbi sono andare {\1c&HFF00&\u1}e{\r} venire.
+Dialogue: 0,0:00:18.29,0:00:18.59,Default,,0,0,0,,Questi due verbi sono andare e venire.
+Dialogue: 0,0:00:18.59,0:00:19.01,Default,,0,0,0,,Questi due verbi sono andare e {\1c&HFF00&\u1}venire.{\r}
+Dialogue: 0,0:00:20.08,0:00:20.18,Default,,0,0,0,,{\1c&HFF00&\u1}La{\r} differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:20.18,0:00:20.24,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:20.24,0:00:20.90,Default,,0,0,0,,La {\1c&HFF00&\u1}differenza{\r} sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:20.90,0:00:21.04,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:21.04,0:00:21.42,Default,,0,0,0,,La differenza {\1c&HFF00&\u1}sembra{\r} semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:21.42,0:00:21.55,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:21.55,0:00:22.11,Default,,0,0,0,,La differenza sembra {\1c&HFF00&\u1}semplice,{\r} ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:22.11,0:00:22.51,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:22.51,0:00:22.61,Default,,0,0,0,,La differenza sembra semplice, {\1c&HFF00&\u1}ma{\r} in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:22.61,0:00:22.79,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:22.79,0:00:22.87,Default,,0,0,0,,La differenza sembra semplice, ma {\1c&HFF00&\u1}in{\r} realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:22.87,0:00:22.93,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:22.93,0:00:23.37,Default,,0,0,0,,La differenza sembra semplice, ma in {\1c&HFF00&\u1}realtà{\r} l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:23.37,0:00:23.65,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:23.65,0:00:24.01,Default,,0,0,0,,La differenza sembra semplice, ma in realtà {\1c&HFF00&\u1}l'uso{\r} di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:24.01,0:00:24.11,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:24.11,0:00:24.19,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso {\1c&HFF00&\u1}di{\r} questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:24.19,0:00:24.29,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:24.29,0:00:24.63,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di {\1c&HFF00&\u1}questi{\r} verbi può creare un po' di confusione.
+Dialogue: 0,0:00:24.63,0:00:24.69,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:24.69,0:00:25.07,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi {\1c&HFF00&\u1}verbi{\r} può creare un po' di confusione.
+Dialogue: 0,0:00:25.07,0:00:25.33,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:25.33,0:00:25.49,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi {\1c&HFF00&\u1}può{\r} creare un po' di confusione.
+Dialogue: 0,0:00:25.49,0:00:25.61,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:25.61,0:00:25.99,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può {\1c&HFF00&\u1}creare{\r} un po' di confusione.
+Dialogue: 0,0:00:25.99,0:00:26.03,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:26.03,0:00:26.09,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare {\1c&HFF00&\u1}un{\r} po' di confusione.
+Dialogue: 0,0:00:26.09,0:00:26.15,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:26.15,0:00:26.27,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un {\1c&HFF00&\u1}po'{\r} di confusione.
+Dialogue: 0,0:00:26.27,0:00:26.31,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:26.31,0:00:26.39,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' {\1c&HFF00&\u1}di{\r} confusione.
+Dialogue: 0,0:00:26.39,0:00:26.45,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di confusione.
+Dialogue: 0,0:00:26.45,0:00:27.10,Default,,0,0,0,,La differenza sembra semplice, ma in realtà l'uso di questi verbi può creare un po' di {\1c&HFF00&\u1}confusione.{\r}
+Dialogue: 0,0:00:28.00,0:00:28.26,Default,,0,0,0,,{\1c&HFF00&\u1}Prima{\r} di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:28.26,0:00:28.32,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:28.32,0:00:28.42,Default,,0,0,0,,Prima {\1c&HFF00&\u1}di{\r} iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:28.42,0:00:28.46,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:28.46,0:00:29.07,Default,,0,0,0,,Prima di {\1c&HFF00&\u1}iniziare{\r} ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:29.07,0:00:29.29,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:29.29,0:00:29.39,Default,,0,0,0,,Prima di iniziare {\1c&HFF00&\u1}ti{\r} ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:29.39,0:00:29.43,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:29.43,0:00:29.87,Default,,0,0,0,,Prima di iniziare ti {\1c&HFF00&\u1}ricordo{\r} che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:29.87,0:00:29.91,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:29.91,0:00:30.01,Default,,0,0,0,,Prima di iniziare ti ricordo {\1c&HFF00&\u1}che{\r} puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:30.01,0:00:30.09,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:30.09,0:00:30.29,Default,,0,0,0,,Prima di iniziare ti ricordo che {\1c&HFF00&\u1}puoi{\r} iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:30.29,0:00:30.43,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:30.43,0:00:31.13,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi {\1c&HFF00&\u1}iscriverti{\r} al mio canale cliccando sul
+Dialogue: 0,0:00:31.13,0:00:31.19,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:31.19,0:00:31.29,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti {\1c&HFF00&\u1}al{\r} mio canale cliccando sul
+Dialogue: 0,0:00:31.29,0:00:31.33,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:31.33,0:00:31.45,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al {\1c&HFF00&\u1}mio{\r} canale cliccando sul
+Dialogue: 0,0:00:31.45,0:00:31.53,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:31.53,0:00:31.93,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio {\1c&HFF00&\u1}canale{\r} cliccando sul
+Dialogue: 0,0:00:31.93,0:00:32.37,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:32.37,0:00:32.91,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale {\1c&HFF00&\u1}cliccando{\r} sul
+Dialogue: 0,0:00:32.91,0:00:33.01,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando sul
+Dialogue: 0,0:00:33.01,0:00:33.16,Default,,0,0,0,,Prima di iniziare ti ricordo che puoi iscriverti al mio canale cliccando {\1c&HFF00&\u1}sul{\r}
+Dialogue: 0,0:00:34.88,0:00:35.12,Default,,0,0,0,,{\1c&HFF00&\u1}bottone{\r} iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:35.12,0:00:35.14,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:35.14,0:00:35.83,Default,,0,0,0,,bottone {\1c&HFF00&\u1}iscriviti{\r} sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:35.83,0:00:36.01,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.01,0:00:36.41,Default,,0,0,0,,bottone iscriviti {\1c&HFF00&\u1}sotto{\r} il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.41,0:00:36.47,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.47,0:00:36.51,Default,,0,0,0,,bottone iscriviti sotto {\1c&HFF00&\u1}il{\r} video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.51,0:00:36.53,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.53,0:00:36.67,Default,,0,0,0,,bottone iscriviti sotto il {\1c&HFF00&\u1}video{\r} e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.67,0:00:36.69,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.69,0:00:36.71,Default,,0,0,0,,bottone iscriviti sotto il video {\1c&HFF00&\u1}e{\r} se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.71,0:00:36.73,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.73,0:00:36.85,Default,,0,0,0,,bottone iscriviti sotto il video e {\1c&HFF00&\u1}se{\r} clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.85,0:00:36.87,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:36.87,0:00:37.19,Default,,0,0,0,,bottone iscriviti sotto il video e se {\1c&HFF00&\u1}clicchi{\r} sulla campanella riceverai una
+Dialogue: 0,0:00:37.19,0:00:37.27,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:37.27,0:00:37.51,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi {\1c&HFF00&\u1}sulla{\r} campanella riceverai una
+Dialogue: 0,0:00:37.51,0:00:37.55,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:37.55,0:00:38.23,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla {\1c&HFF00&\u1}campanella{\r} riceverai una
+Dialogue: 0,0:00:38.23,0:00:38.61,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:38.61,0:00:39.15,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella {\1c&HFF00&\u1}riceverai{\r} una
+Dialogue: 0,0:00:39.15,0:00:39.32,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai una
+Dialogue: 0,0:00:39.32,0:00:39.44,Default,,0,0,0,,bottone iscriviti sotto il video e se clicchi sulla campanella riceverai {\1c&HFF00&\u1}una{\r}
+Dialogue: 0,0:00:39.36,0:00:39.52,Default,,0,0,0,,{\1c&HFF00&\u1}notifica{\r} ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:39.52,0:00:39.54,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:39.54,0:00:39.62,Default,,0,0,0,,notifica {\1c&HFF00&\u1}ogni{\r} volta che pubblico un nuovo video.
+Dialogue: 0,0:00:39.62,0:00:39.64,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:39.64,0:00:39.74,Default,,0,0,0,,notifica ogni {\1c&HFF00&\u1}volta{\r} che pubblico un nuovo video.
+Dialogue: 0,0:00:39.74,0:00:39.76,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:39.76,0:00:39.82,Default,,0,0,0,,notifica ogni volta {\1c&HFF00&\u1}che{\r} pubblico un nuovo video.
+Dialogue: 0,0:00:39.82,0:00:39.84,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:39.84,0:00:40.00,Default,,0,0,0,,notifica ogni volta che {\1c&HFF00&\u1}pubblico{\r} un nuovo video.
+Dialogue: 0,0:00:40.00,0:00:40.02,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:40.02,0:00:40.06,Default,,0,0,0,,notifica ogni volta che pubblico {\1c&HFF00&\u1}un{\r} nuovo video.
+Dialogue: 0,0:00:40.06,0:00:40.08,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:40.08,0:00:40.18,Default,,0,0,0,,notifica ogni volta che pubblico un {\1c&HFF00&\u1}nuovo{\r} video.
+Dialogue: 0,0:00:40.18,0:00:40.20,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo video.
+Dialogue: 0,0:00:40.20,0:00:40.30,Default,,0,0,0,,notifica ogni volta che pubblico un nuovo {\1c&HFF00&\u1}video.{\r}
+Dialogue: 0,0:00:43.14,0:00:43.42,Default,,0,0,0,,{\1c&HFF00&\u1}bene{\r} siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:43.42,0:00:43.68,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:43.68,0:00:43.94,Default,,0,0,0,,bene {\1c&HFF00&\u1}siamo{\r} pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:43.94,0:00:44.06,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:44.06,0:00:44.48,Default,,0,0,0,,bene siamo {\1c&HFF00&\u1}pronti{\r} per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:44.48,0:00:44.65,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:44.65,0:00:44.93,Default,,0,0,0,,bene siamo pronti {\1c&HFF00&\u1}per{\r} iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:44.93,0:00:45.13,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:45.13,0:00:45.73,Default,,0,0,0,,bene siamo pronti per {\1c&HFF00&\u1}iniziare{\r} con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:45.73,0:00:45.97,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:45.97,0:00:46.17,Default,,0,0,0,,bene siamo pronti per iniziare {\1c&HFF00&\u1}con{\r} la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:46.17,0:00:46.29,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:46.29,0:00:46.37,Default,,0,0,0,,bene siamo pronti per iniziare con {\1c&HFF00&\u1}la{\r} differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:46.37,0:00:46.45,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:46.45,0:00:47.21,Default,,0,0,0,,bene siamo pronti per iniziare con la {\1c&HFF00&\u1}differenza{\r} tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:47.21,0:00:47.35,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:47.35,0:00:47.61,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza {\1c&HFF00&\u1}tra{\r} il verbo andare e il verbo venire
+Dialogue: 0,0:00:47.61,0:00:47.83,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:47.83,0:00:47.97,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra {\1c&HFF00&\u1}il{\r} verbo andare e il verbo venire
+Dialogue: 0,0:00:47.97,0:00:48.07,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:48.07,0:00:48.43,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il {\1c&HFF00&\u1}verbo{\r} andare e il verbo venire
+Dialogue: 0,0:00:48.43,0:00:48.45,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:48.45,0:00:48.99,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo {\1c&HFF00&\u1}andare{\r} e il verbo venire
+Dialogue: 0,0:00:48.99,0:00:49.21,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:49.21,0:00:49.25,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare {\1c&HFF00&\u1}e{\r} il verbo venire
+Dialogue: 0,0:00:49.25,0:00:49.31,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:49.31,0:00:49.42,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e {\1c&HFF00&\u1}il{\r} verbo venire
+Dialogue: 0,0:00:49.42,0:00:49.48,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:49.48,0:00:49.86,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il {\1c&HFF00&\u1}verbo{\r} venire
+Dialogue: 0,0:00:49.86,0:00:50.12,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo venire
+Dialogue: 0,0:00:50.12,0:00:50.60,Default,,0,0,0,,bene siamo pronti per iniziare con la differenza tra il verbo andare e il verbo {\1c&HFF00&\u1}venire{\r}

@@ -1,0 +1,196 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.66,Default,,0,0,0,,{\1c&HFF00&\u1}praticamente{\r} che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:0.66,0:00:0.72,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:0.72,0:00:0.82,Default,,0,0,0,,praticamente {\1c&HFF00&\u1}che{\r} io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:0.82,0:00:1.16,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:1.16,0:00:1.30,Default,,0,0,0,,praticamente che {\1c&HFF00&\u1}io{\r} voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:1.30,0:00:1.34,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:1.34,0:00:1.54,Default,,0,0,0,,praticamente che io {\1c&HFF00&\u1}voglio{\r} tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:1.54,0:00:1.60,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:1.60,0:00:2.12,Default,,0,0,0,,praticamente che io voglio {\1c&HFF00&\u1}tornare,{\r} io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:2.12,0:00:2.53,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:2.53,0:00:2.63,Default,,0,0,0,,praticamente che io voglio tornare, {\1c&HFF00&\u1}io{\r} quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:2.63,0:00:2.71,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:2.71,0:00:2.95,Default,,0,0,0,,praticamente che io voglio tornare, io {\1c&HFF00&\u1}quando{\r} mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:2.95,0:00:3.01,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:3.01,0:00:3.07,Default,,0,0,0,,praticamente che io voglio tornare, io quando {\1c&HFF00&\u1}mi{\r} laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:3.07,0:00:3.13,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:3.13,0:00:3.55,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi {\1c&HFF00&\u1}laureo{\r} mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:3.55,0:00:3.75,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:3.75,0:00:3.83,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo {\1c&HFF00&\u1}mi{\r} laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:3.83,0:00:3.87,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:3.87,0:00:4.27,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi {\1c&HFF00&\u1}laureo,{\r} ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.27,0:00:4.37,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.37,0:00:4.49,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, {\1c&HFF00&\u1}ma{\r} non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.49,0:00:4.57,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.57,0:00:4.67,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma {\1c&HFF00&\u1}non{\r} c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.67,0:00:4.71,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.71,0:00:4.85,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non {\1c&HFF00&\u1}c'è{\r} bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.85,0:00:4.93,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:4.93,0:00:5.31,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è {\1c&HFF00&\u1}bisogno{\r} che c'è sto io che vi dico
+Dialogue: 0,0:00:5.31,0:00:5.37,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:5.37,0:00:5.47,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno {\1c&HFF00&\u1}che{\r} c'è sto io che vi dico
+Dialogue: 0,0:00:5.47,0:00:5.55,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:5.55,0:00:5.63,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che {\1c&HFF00&\u1}c'è{\r} sto io che vi dico
+Dialogue: 0,0:00:5.63,0:00:5.67,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:5.67,0:00:5.83,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è {\1c&HFF00&\u1}sto{\r} io che vi dico
+Dialogue: 0,0:00:5.83,0:00:5.99,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:5.99,0:00:6.25,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto {\1c&HFF00&\u1}io{\r} che vi dico
+Dialogue: 0,0:00:6.25,0:00:6.35,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:6.35,0:00:6.45,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io {\1c&HFF00&\u1}che{\r} vi dico
+Dialogue: 0,0:00:6.45,0:00:6.55,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:6.55,0:00:6.65,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che {\1c&HFF00&\u1}vi{\r} dico
+Dialogue: 0,0:00:6.65,0:00:6.71,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi dico
+Dialogue: 0,0:00:6.71,0:00:7.08,Default,,0,0,0,,praticamente che io voglio tornare, io quando mi laureo mi laureo, ma non c'è bisogno che c'è sto io che vi {\1c&HFF00&\u1}dico{\r}
+Dialogue: 0,0:00:8.19,0:00:8.25,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} laurea
+Dialogue: 0,0:00:8.25,0:00:8.31,Default,,0,0,0,,la laurea
+Dialogue: 0,0:00:8.31,0:00:8.77,Default,,0,0,0,,la {\1c&HFF00&\u1}laurea{\r}
+Dialogue: 0,0:00:9.54,0:00:9.72,Default,,0,0,0,,{\1c&HFF00&\u1}uno{\r} c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:9.72,0:00:9.74,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:9.74,0:00:9.78,Default,,0,0,0,,uno {\1c&HFF00&\u1}c'è{\r} il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:9.78,0:00:9.80,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:9.80,0:00:9.86,Default,,0,0,0,,uno c'è {\1c&HFF00&\u1}il{\r} suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:9.86,0:00:9.92,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:9.92,0:00:10.00,Default,,0,0,0,,uno c'è il {\1c&HFF00&\u1}suo{\r} tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:10.00,0:00:10.04,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:10.04,0:00:10.58,Default,,0,0,0,,uno c'è il suo {\1c&HFF00&\u1}tempio,{\r} una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:10.58,0:00:10.64,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:10.64,0:00:10.72,Default,,0,0,0,,uno c'è il suo tempio, {\1c&HFF00&\u1}una{\r} cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:10.72,0:00:10.76,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:10.76,0:00:11.00,Default,,0,0,0,,uno c'è il suo tempio, una {\1c&HFF00&\u1}cosa{\r} ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:11.00,0:00:11.06,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:11.06,0:00:11.43,Default,,0,0,0,,uno c'è il suo tempio, una cosa {\1c&HFF00&\u1}ripetuta{\r} ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:11.43,0:00:11.49,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:11.49,0:00:11.83,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta {\1c&HFF00&\u1}ripetuta,{\r} sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:11.83,0:00:11.91,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:11.91,0:00:12.17,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, {\1c&HFF00&\u1}sappiamo{\r} tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.17,0:00:12.23,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.23,0:00:12.39,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo {\1c&HFF00&\u1}tutti{\r} ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.39,0:00:12.47,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.47,0:00:12.69,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti {\1c&HFF00&\u1}ognuno{\r} c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.69,0:00:12.71,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.71,0:00:12.75,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno {\1c&HFF00&\u1}c'è{\r} il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.75,0:00:12.77,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.77,0:00:12.81,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è {\1c&HFF00&\u1}il{\r} suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.81,0:00:12.83,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.83,0:00:12.89,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il {\1c&HFF00&\u1}suo{\r} tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.89,0:00:12.93,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:12.93,0:00:13.35,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo {\1c&HFF00&\u1}tempio,{\r} c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:13.35,0:00:13.39,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:13.39,0:00:13.69,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, {\1c&HFF00&\u1}c'è{\r} bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:13.69,0:00:13.77,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:13.77,0:00:14.05,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è {\1c&HFF00&\u1}bisogno{\r} io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.05,0:00:14.11,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.11,0:00:14.19,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno {\1c&HFF00&\u1}io{\r} che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.19,0:00:14.23,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.23,0:00:14.31,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io {\1c&HFF00&\u1}che{\r} lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.31,0:00:14.33,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.33,0:00:14.39,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che {\1c&HFF00&\u1}lo{\r} dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.39,0:00:14.45,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.45,0:00:14.77,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo {\1c&HFF00&\u1}dico,{\r} quindi i miei piani per il
+Dialogue: 0,0:00:14.77,0:00:14.83,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.83,0:00:14.97,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, {\1c&HFF00&\u1}quindi{\r} i miei piani per il
+Dialogue: 0,0:00:14.97,0:00:14.99,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:14.99,0:00:15.01,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi {\1c&HFF00&\u1}i{\r} miei piani per il
+Dialogue: 0,0:00:15.01,0:00:15.03,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:15.03,0:00:15.13,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i {\1c&HFF00&\u1}miei{\r} piani per il
+Dialogue: 0,0:00:15.13,0:00:15.17,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:15.17,0:00:15.35,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei {\1c&HFF00&\u1}piani{\r} per il
+Dialogue: 0,0:00:15.35,0:00:15.43,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:15.43,0:00:15.56,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani {\1c&HFF00&\u1}per{\r} il
+Dialogue: 0,0:00:15.56,0:00:15.58,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per il
+Dialogue: 0,0:00:15.58,0:00:15.62,Default,,0,0,0,,uno c'è il suo tempio, una cosa ripetuta ripetuta, sappiamo tutti ognuno c'è il suo tempio, c'è bisogno io che lo dico, quindi i miei piani per {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:15.60,0:00:15.74,Default,,0,0,0,,{\1c&HFF00&\u1}futuro{\r} sono questi, la tesi
+Dialogue: 0,0:00:15.74,0:00:15.76,Default,,0,0,0,,futuro sono questi, la tesi
+Dialogue: 0,0:00:15.76,0:00:15.84,Default,,0,0,0,,futuro {\1c&HFF00&\u1}sono{\r} questi, la tesi
+Dialogue: 0,0:00:15.84,0:00:15.86,Default,,0,0,0,,futuro sono questi, la tesi
+Dialogue: 0,0:00:15.86,0:00:16.02,Default,,0,0,0,,futuro sono {\1c&HFF00&\u1}questi,{\r} la tesi
+Dialogue: 0,0:00:16.02,0:00:16.04,Default,,0,0,0,,futuro sono questi, la tesi
+Dialogue: 0,0:00:16.04,0:00:16.08,Default,,0,0,0,,futuro sono questi, {\1c&HFF00&\u1}la{\r} tesi
+Dialogue: 0,0:00:16.08,0:00:16.10,Default,,0,0,0,,futuro sono questi, la tesi
+Dialogue: 0,0:00:16.10,0:00:16.18,Default,,0,0,0,,futuro sono questi, la {\1c&HFF00&\u1}tesi{\r}
+Dialogue: 0,0:00:18.28,0:00:18.56,Default,,0,0,0,,{\1c&HFF00&\u1}amore{\r} io sto
+Dialogue: 0,0:00:18.56,0:00:18.75,Default,,0,0,0,,amore io sto
+Dialogue: 0,0:00:18.75,0:00:18.83,Default,,0,0,0,,amore {\1c&HFF00&\u1}io{\r} sto
+Dialogue: 0,0:00:18.83,0:00:19.11,Default,,0,0,0,,amore io sto
+Dialogue: 0,0:00:19.11,0:00:19.27,Default,,0,0,0,,amore io {\1c&HFF00&\u1}sto{\r}
+Dialogue: 0,0:00:20.04,0:00:20.20,Default,,0,0,0,,{\1c&HFF00&\u1}fine{\r} terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:20.20,0:00:20.28,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:20.28,0:00:20.56,Default,,0,0,0,,fine {\1c&HFF00&\u1}terzo{\r} anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:20.56,0:00:20.68,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:20.68,0:00:20.94,Default,,0,0,0,,fine terzo {\1c&HFF00&\u1}anno{\r} c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:20.94,0:00:20.98,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:20.98,0:00:21.08,Default,,0,0,0,,fine terzo anno {\1c&HFF00&\u1}c'è{\r} gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.08,0:00:21.14,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.14,0:00:21.40,Default,,0,0,0,,fine terzo anno c'è {\1c&HFF00&\u1}gente{\r} che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.40,0:00:21.46,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.46,0:00:21.57,Default,,0,0,0,,fine terzo anno c'è gente {\1c&HFF00&\u1}che{\r} si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.57,0:00:21.63,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.63,0:00:21.69,Default,,0,0,0,,fine terzo anno c'è gente che {\1c&HFF00&\u1}si{\r} laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.69,0:00:21.75,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:21.75,0:00:22.01,Default,,0,0,0,,fine terzo anno c'è gente che si {\1c&HFF00&\u1}laurea{\r} giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:22.01,0:00:22.11,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:22.11,0:00:22.45,Default,,0,0,0,,fine terzo anno c'è gente che si laurea {\1c&HFF00&\u1}giugno,{\r} luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:22.45,0:00:22.51,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:22.51,0:00:22.77,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, {\1c&HFF00&\u1}luglio,{\r} insomma anche una tesi va bene idem
+Dialogue: 0,0:00:22.77,0:00:22.79,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:22.79,0:00:23.01,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, {\1c&HFF00&\u1}insomma{\r} anche una tesi va bene idem
+Dialogue: 0,0:00:23.01,0:00:23.03,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:23.03,0:00:23.21,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma {\1c&HFF00&\u1}anche{\r} una tesi va bene idem
+Dialogue: 0,0:00:23.21,0:00:23.29,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:23.29,0:00:23.51,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche {\1c&HFF00&\u1}una{\r} tesi va bene idem
+Dialogue: 0,0:00:23.51,0:00:23.55,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:23.55,0:00:23.99,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una {\1c&HFF00&\u1}tesi{\r} va bene idem
+Dialogue: 0,0:00:23.99,0:00:24.47,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:24.47,0:00:24.55,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi {\1c&HFF00&\u1}va{\r} bene idem
+Dialogue: 0,0:00:24.55,0:00:24.63,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:24.63,0:00:24.89,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va {\1c&HFF00&\u1}bene{\r} idem
+Dialogue: 0,0:00:24.89,0:00:25.07,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene idem
+Dialogue: 0,0:00:25.07,0:00:25.36,Default,,0,0,0,,fine terzo anno c'è gente che si laurea giugno, luglio, insomma anche una tesi va bene {\1c&HFF00&\u1}idem{\r}
+Dialogue: 0,0:00:25.24,0:00:25.40,Default,,0,0,0,,{\1c&HFF00&\u1}lasciamo{\r} quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.40,0:00:25.42,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.42,0:00:25.54,Default,,0,0,0,,lasciamo {\1c&HFF00&\u1}quello{\r} dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.54,0:00:25.56,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.56,0:00:25.64,Default,,0,0,0,,lasciamo quello {\1c&HFF00&\u1}dove{\r} è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.64,0:00:25.66,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.66,0:00:25.68,Default,,0,0,0,,lasciamo quello dove {\1c&HFF00&\u1}è{\r} la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.68,0:00:25.70,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.70,0:00:25.74,Default,,0,0,0,,lasciamo quello dove è {\1c&HFF00&\u1}la{\r} tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.74,0:00:25.76,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.76,0:00:25.84,Default,,0,0,0,,lasciamo quello dove è la {\1c&HFF00&\u1}tesi{\r} che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.84,0:00:25.86,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.86,0:00:25.92,Default,,0,0,0,,lasciamo quello dove è la tesi {\1c&HFF00&\u1}che{\r} poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.92,0:00:25.94,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:25.94,0:00:26.00,Default,,0,0,0,,lasciamo quello dove è la tesi che {\1c&HFF00&\u1}poi{\r} ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.00,0:00:26.02,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.02,0:00:26.08,Default,,0,0,0,,lasciamo quello dove è la tesi che poi {\1c&HFF00&\u1}ci{\r} penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.08,0:00:26.10,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.10,0:00:26.24,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci {\1c&HFF00&\u1}penserò{\r} in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.24,0:00:26.26,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.26,0:00:26.30,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò {\1c&HFF00&\u1}in{\r} futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.30,0:00:26.32,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.32,0:00:26.46,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in {\1c&HFF00&\u1}futuro{\r} tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.46,0:00:26.48,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.48,0:00:26.56,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro {\1c&HFF00&\u1}tipo{\r} marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.56,0:00:26.58,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.58,0:00:26.68,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo {\1c&HFF00&\u1}marzo,{\r} marzo e mezzo prossimo
+Dialogue: 0,0:00:26.68,0:00:26.70,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.70,0:00:26.80,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, {\1c&HFF00&\u1}marzo{\r} e mezzo prossimo
+Dialogue: 0,0:00:26.80,0:00:26.82,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.82,0:00:26.84,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo {\1c&HFF00&\u1}e{\r} mezzo prossimo
+Dialogue: 0,0:00:26.84,0:00:26.90,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:26.90,0:00:27.00,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e {\1c&HFF00&\u1}mezzo{\r} prossimo
+Dialogue: 0,0:00:27.00,0:00:27.02,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo prossimo
+Dialogue: 0,0:00:27.02,0:00:27.20,Default,,0,0,0,,lasciamo quello dove è la tesi che poi ci penserò in futuro tipo marzo, marzo e mezzo {\1c&HFF00&\u1}prossimo{\r}

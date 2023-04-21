@@ -1,0 +1,107 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.18,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:0.18,0:00:0.26,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:0.26,0:00:0.68,Default,,0,0,0,,la {\1c&HFF00&\u1}facciamo{\r} andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:0.68,0:00:0.74,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:0.74,0:00:1.10,Default,,0,0,0,,la facciamo {\1c&HFF00&\u1}andare{\r} molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:1.10,0:00:1.20,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:1.20,0:00:1.45,Default,,0,0,0,,la facciamo andare {\1c&HFF00&\u1}molto{\r} più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:1.45,0:00:1.51,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:1.51,0:00:1.61,Default,,0,0,0,,la facciamo andare molto {\1c&HFF00&\u1}più{\r} veloce di quanto dovrebbe.
+Dialogue: 0,0:00:1.61,0:00:1.67,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:1.67,0:00:1.95,Default,,0,0,0,,la facciamo andare molto più {\1c&HFF00&\u1}veloce{\r} di quanto dovrebbe.
+Dialogue: 0,0:00:1.95,0:00:2.01,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:2.01,0:00:2.07,Default,,0,0,0,,la facciamo andare molto più veloce {\1c&HFF00&\u1}di{\r} quanto dovrebbe.
+Dialogue: 0,0:00:2.07,0:00:2.13,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:2.13,0:00:2.37,Default,,0,0,0,,la facciamo andare molto più veloce di {\1c&HFF00&\u1}quanto{\r} dovrebbe.
+Dialogue: 0,0:00:2.37,0:00:2.41,Default,,0,0,0,,la facciamo andare molto più veloce di quanto dovrebbe.
+Dialogue: 0,0:00:2.41,0:00:2.81,Default,,0,0,0,,la facciamo andare molto più veloce di quanto {\1c&HFF00&\u1}dovrebbe.{\r}
+Dialogue: 0,0:00:3.84,0:00:4.18,Default,,0,0,0,,{\1c&HFF00&\u1}Quando{\r} tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:4.18,0:00:4.32,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:4.32,0:00:4.50,Default,,0,0,0,,Quando {\1c&HFF00&\u1}tu{\r} vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:4.50,0:00:5.05,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:5.05,0:00:5.33,Default,,0,0,0,,Quando tu {\1c&HFF00&\u1}vedi{\r} il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:5.33,0:00:5.37,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:5.37,0:00:5.43,Default,,0,0,0,,Quando tu vedi {\1c&HFF00&\u1}il{\r} primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:5.43,0:00:5.51,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:5.51,0:00:5.77,Default,,0,0,0,,Quando tu vedi il {\1c&HFF00&\u1}primo{\r} iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:5.77,0:00:6.03,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:6.03,0:00:6.45,Default,,0,0,0,,Quando tu vedi il primo {\1c&HFF00&\u1}iceberg{\r} nel film, non quello che li uccide,
+Dialogue: 0,0:00:6.45,0:00:6.51,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:6.51,0:00:6.63,Default,,0,0,0,,Quando tu vedi il primo iceberg {\1c&HFF00&\u1}nel{\r} film, non quello che li uccide,
+Dialogue: 0,0:00:6.63,0:00:6.73,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:6.73,0:00:6.95,Default,,0,0,0,,Quando tu vedi il primo iceberg nel {\1c&HFF00&\u1}film,{\r} non quello che li uccide,
+Dialogue: 0,0:00:6.95,0:00:7.07,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:7.07,0:00:7.23,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, {\1c&HFF00&\u1}non{\r} quello che li uccide,
+Dialogue: 0,0:00:7.23,0:00:7.31,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:7.31,0:00:7.55,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non {\1c&HFF00&\u1}quello{\r} che li uccide,
+Dialogue: 0,0:00:7.55,0:00:7.59,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:7.59,0:00:7.69,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello {\1c&HFF00&\u1}che{\r} li uccide,
+Dialogue: 0,0:00:7.69,0:00:7.75,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:7.75,0:00:7.79,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che {\1c&HFF00&\u1}li{\r} uccide,
+Dialogue: 0,0:00:7.79,0:00:7.85,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li uccide,
+Dialogue: 0,0:00:7.85,0:00:8.23,Default,,0,0,0,,Quando tu vedi il primo iceberg nel film, non quello che li {\1c&HFF00&\u1}uccide,{\r}
+Dialogue: 0,0:00:8.36,0:00:8.44,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:8.44,0:00:8.54,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:8.54,0:00:8.72,Default,,0,0,0,,ma {\1c&HFF00&\u1}quando{\r} vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:8.72,0:00:8.78,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:8.78,0:00:9.02,Default,,0,0,0,,ma quando {\1c&HFF00&\u1}vedi{\r} il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:9.02,0:00:9.04,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:9.04,0:00:9.08,Default,,0,0,0,,ma quando vedi {\1c&HFF00&\u1}il{\r} primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:9.08,0:00:9.18,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:9.18,0:00:9.46,Default,,0,0,0,,ma quando vedi il {\1c&HFF00&\u1}primo{\r} iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:9.46,0:00:9.68,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:9.68,0:00:10.07,Default,,0,0,0,,ma quando vedi il primo {\1c&HFF00&\u1}iceberg,{\r} ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:10.07,0:00:10.47,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:10.47,0:00:10.55,Default,,0,0,0,,ma quando vedi il primo iceberg, {\1c&HFF00&\u1}ti{\r} sale un brivido lungo la schiena.
+Dialogue: 0,0:00:10.55,0:00:10.61,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:10.61,0:00:10.85,Default,,0,0,0,,ma quando vedi il primo iceberg, ti {\1c&HFF00&\u1}sale{\r} un brivido lungo la schiena.
+Dialogue: 0,0:00:10.85,0:00:10.89,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:10.89,0:00:10.99,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale {\1c&HFF00&\u1}un{\r} brivido lungo la schiena.
+Dialogue: 0,0:00:10.99,0:00:11.01,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:11.01,0:00:11.35,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un {\1c&HFF00&\u1}brivido{\r} lungo la schiena.
+Dialogue: 0,0:00:11.35,0:00:11.39,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:11.39,0:00:11.61,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido {\1c&HFF00&\u1}lungo{\r} la schiena.
+Dialogue: 0,0:00:11.61,0:00:11.69,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:11.69,0:00:11.77,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo {\1c&HFF00&\u1}la{\r} schiena.
+Dialogue: 0,0:00:11.77,0:00:11.79,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la schiena.
+Dialogue: 0,0:00:11.79,0:00:12.13,Default,,0,0,0,,ma quando vedi il primo iceberg, ti sale un brivido lungo la {\1c&HFF00&\u1}schiena.{\r}
+Dialogue: 0,0:00:12.48,0:00:12.76,Default,,0,0,0,,{\1c&HFF00&\u1}Perché?{\r} Perché sai che stanno correndo troppo?
+Dialogue: 0,0:00:12.76,0:00:13.30,Default,,0,0,0,,Perché? Perché sai che stanno correndo troppo?
+Dialogue: 0,0:00:13.30,0:00:13.53,Default,,0,0,0,,Perché? {\1c&HFF00&\u1}Perché{\r} sai che stanno correndo troppo?
+Dialogue: 0,0:00:13.53,0:00:13.57,Default,,0,0,0,,Perché? Perché sai che stanno correndo troppo?
+Dialogue: 0,0:00:13.57,0:00:13.69,Default,,0,0,0,,Perché? Perché {\1c&HFF00&\u1}sai{\r} che stanno correndo troppo?
+Dialogue: 0,0:00:13.69,0:00:13.73,Default,,0,0,0,,Perché? Perché sai che stanno correndo troppo?
+Dialogue: 0,0:00:13.73,0:00:13.81,Default,,0,0,0,,Perché? Perché sai {\1c&HFF00&\u1}che{\r} stanno correndo troppo?
+Dialogue: 0,0:00:13.81,0:00:13.85,Default,,0,0,0,,Perché? Perché sai che stanno correndo troppo?
+Dialogue: 0,0:00:13.85,0:00:14.09,Default,,0,0,0,,Perché? Perché sai che {\1c&HFF00&\u1}stanno{\r} correndo troppo?
+Dialogue: 0,0:00:14.09,0:00:14.17,Default,,0,0,0,,Perché? Perché sai che stanno correndo troppo?
+Dialogue: 0,0:00:14.17,0:00:14.59,Default,,0,0,0,,Perché? Perché sai che stanno {\1c&HFF00&\u1}correndo{\r} troppo?
+Dialogue: 0,0:00:14.59,0:00:14.65,Default,,0,0,0,,Perché? Perché sai che stanno correndo troppo?
+Dialogue: 0,0:00:14.65,0:00:15.01,Default,,0,0,0,,Perché? Perché sai che stanno correndo {\1c&HFF00&\u1}troppo?{\r}
+Dialogue: 0,0:00:15.96,0:00:16.04,Default,,0,0,0,,{\1c&HFF00&\u1}In{\r} un'acqua piena di pericoli.
+Dialogue: 0,0:00:16.04,0:00:16.08,Default,,0,0,0,,In un'acqua piena di pericoli.
+Dialogue: 0,0:00:16.08,0:00:16.56,Default,,0,0,0,,In {\1c&HFF00&\u1}un'acqua{\r} piena di pericoli.
+Dialogue: 0,0:00:16.56,0:00:16.74,Default,,0,0,0,,In un'acqua piena di pericoli.
+Dialogue: 0,0:00:16.74,0:00:17.03,Default,,0,0,0,,In un'acqua {\1c&HFF00&\u1}piena{\r} di pericoli.
+Dialogue: 0,0:00:17.03,0:00:17.09,Default,,0,0,0,,In un'acqua piena di pericoli.
+Dialogue: 0,0:00:17.09,0:00:17.15,Default,,0,0,0,,In un'acqua piena {\1c&HFF00&\u1}di{\r} pericoli.
+Dialogue: 0,0:00:17.15,0:00:17.19,Default,,0,0,0,,In un'acqua piena di pericoli.
+Dialogue: 0,0:00:17.19,0:00:17.65,Default,,0,0,0,,In un'acqua piena di {\1c&HFF00&\u1}pericoli.{\r}
+Dialogue: 0,0:00:18.65,0:00:18.73,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} non avessi
+Dialogue: 0,0:00:18.73,0:00:18.77,Default,,0,0,0,,se non avessi
+Dialogue: 0,0:00:18.77,0:00:18.87,Default,,0,0,0,,se {\1c&HFF00&\u1}non{\r} avessi
+Dialogue: 0,0:00:18.87,0:00:18.93,Default,,0,0,0,,se non avessi
+Dialogue: 0,0:00:18.93,0:00:19.25,Default,,0,0,0,,se non {\1c&HFF00&\u1}avessi{\r}

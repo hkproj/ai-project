@@ -1,0 +1,248 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.32,0:00:0.44,Default,,0,0,0,,{\1c&HFF00&\u1}Sì,{\r} mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:0.44,0:00:0.62,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:0.62,0:00:1.00,Default,,0,0,0,,Sì, {\1c&HFF00&\u1}mangiare{\r} sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.00,0:00:1.08,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.08,0:00:1.36,Default,,0,0,0,,Sì, mangiare {\1c&HFF00&\u1}sano{\r} aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.36,0:00:1.54,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.54,0:00:1.76,Default,,0,0,0,,Sì, mangiare sano {\1c&HFF00&\u1}aiuta{\r} a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.76,0:00:1.78,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.78,0:00:1.82,Default,,0,0,0,,Sì, mangiare sano aiuta {\1c&HFF00&\u1}a{\r} risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.82,0:00:1.84,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:1.84,0:00:2.39,Default,,0,0,0,,Sì, mangiare sano aiuta a {\1c&HFF00&\u1}risparmiare{\r} così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:2.39,0:00:2.57,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:2.57,0:00:2.85,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare {\1c&HFF00&\u1}così{\r} tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:2.85,0:00:3.17,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:3.17,0:00:3.59,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così {\1c&HFF00&\u1}tanto.{\r} Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:3.59,0:00:4.05,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:4.05,0:00:4.13,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. {\1c&HFF00&\u1}Il{\r} cibo più costoso e allo stesso
+Dialogue: 0,0:00:4.13,0:00:4.21,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:4.21,0:00:4.41,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il {\1c&HFF00&\u1}cibo{\r} più costoso e allo stesso
+Dialogue: 0,0:00:4.41,0:00:4.53,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:4.53,0:00:4.69,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo {\1c&HFF00&\u1}più{\r} costoso e allo stesso
+Dialogue: 0,0:00:4.69,0:00:4.87,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:4.87,0:00:5.45,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più {\1c&HFF00&\u1}costoso{\r} e allo stesso
+Dialogue: 0,0:00:5.45,0:00:5.47,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:5.47,0:00:5.49,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso {\1c&HFF00&\u1}e{\r} allo stesso
+Dialogue: 0,0:00:5.49,0:00:5.77,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:5.77,0:00:5.91,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e {\1c&HFF00&\u1}allo{\r} stesso
+Dialogue: 0,0:00:5.91,0:00:5.95,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo stesso
+Dialogue: 0,0:00:5.95,0:00:6.16,Default,,0,0,0,,Sì, mangiare sano aiuta a risparmiare così tanto. Il cibo più costoso e allo {\1c&HFF00&\u1}stesso{\r}
+Dialogue: 0,0:00:6.14,0:00:6.24,Default,,0,0,0,,{\1c&HFF00&\u1}tempo{\r} più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:6.24,0:00:6.62,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:6.62,0:00:6.76,Default,,0,0,0,,tempo {\1c&HFF00&\u1}più{\r} malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:6.76,0:00:6.78,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:6.78,0:00:7.26,Default,,0,0,0,,tempo più {\1c&HFF00&\u1}malsano{\r} è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:7.26,0:00:7.32,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:7.32,0:00:7.38,Default,,0,0,0,,tempo più malsano {\1c&HFF00&\u1}è{\r} quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:7.38,0:00:7.44,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:7.44,0:00:7.90,Default,,0,0,0,,tempo più malsano è {\1c&HFF00&\u1}quello{\r} industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:7.90,0:00:8.04,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:8.04,0:00:8.73,Default,,0,0,0,,tempo più malsano è quello {\1c&HFF00&\u1}industriale,{\r} preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:8.73,0:00:8.81,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:8.81,0:00:9.81,Default,,0,0,0,,tempo più malsano è quello industriale, {\1c&HFF00&\u1}preconfezionato.{\r} La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:9.81,0:00:10.53,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:10.53,0:00:10.59,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. {\1c&HFF00&\u1}La{\r} verdura, i legumi, i cereali,
+Dialogue: 0,0:00:10.59,0:00:10.63,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:10.63,0:00:11.31,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La {\1c&HFF00&\u1}verdura,{\r} i legumi, i cereali,
+Dialogue: 0,0:00:11.31,0:00:11.51,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:11.51,0:00:11.53,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, {\1c&HFF00&\u1}i{\r} legumi, i cereali,
+Dialogue: 0,0:00:11.53,0:00:11.59,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:11.59,0:00:12.25,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i {\1c&HFF00&\u1}legumi,{\r} i cereali,
+Dialogue: 0,0:00:12.25,0:00:12.27,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:12.27,0:00:12.29,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, {\1c&HFF00&\u1}i{\r} cereali,
+Dialogue: 0,0:00:12.29,0:00:12.51,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i cereali,
+Dialogue: 0,0:00:12.51,0:00:13.01,Default,,0,0,0,,tempo più malsano è quello industriale, preconfezionato. La verdura, i legumi, i {\1c&HFF00&\u1}cereali,{\r}
+Dialogue: 0,0:00:13.32,0:00:13.36,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:13.36,0:00:13.66,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:13.66,0:00:14.30,Default,,0,0,0,,la {\1c&HFF00&\u1}frutta,{\r} oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.30,0:00:14.34,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.34,0:00:14.50,Default,,0,0,0,,la frutta, {\1c&HFF00&\u1}oltre{\r} ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.50,0:00:14.54,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.54,0:00:14.62,Default,,0,0,0,,la frutta, oltre {\1c&HFF00&\u1}ad{\r} essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.62,0:00:14.64,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.64,0:00:14.88,Default,,0,0,0,,la frutta, oltre ad {\1c&HFF00&\u1}essere{\r} sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.88,0:00:14.98,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:14.98,0:00:15.24,Default,,0,0,0,,la frutta, oltre ad essere {\1c&HFF00&\u1}sani,{\r} costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:15.24,0:00:15.44,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:15.44,0:00:15.82,Default,,0,0,0,,la frutta, oltre ad essere sani, {\1c&HFF00&\u1}costano{\r} meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:15.82,0:00:15.89,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:15.89,0:00:16.17,Default,,0,0,0,,la frutta, oltre ad essere sani, costano {\1c&HFF00&\u1}meno.{\r} Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:16.17,0:00:16.35,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:16.35,0:00:16.85,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. {\1c&HFF00&\u1}Mentre{\r} dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:16.85,0:00:16.99,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:16.99,0:00:17.69,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre {\1c&HFF00&\u1}dolci,{\r} bevande, sughi pronti, burger
+Dialogue: 0,0:00:17.69,0:00:17.95,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:17.95,0:00:18.71,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, {\1c&HFF00&\u1}bevande,{\r} sughi pronti, burger
+Dialogue: 0,0:00:18.71,0:00:19.33,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:19.33,0:00:19.65,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, {\1c&HFF00&\u1}sughi{\r} pronti, burger
+Dialogue: 0,0:00:19.65,0:00:19.77,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:19.77,0:00:20.45,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi {\1c&HFF00&\u1}pronti,{\r} burger
+Dialogue: 0,0:00:20.45,0:00:21.10,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, burger
+Dialogue: 0,0:00:21.10,0:00:21.42,Default,,0,0,0,,la frutta, oltre ad essere sani, costano meno. Mentre dolci, bevande, sughi pronti, {\1c&HFF00&\u1}burger{\r}
+Dialogue: 0,0:00:21.40,0:00:22.10,Default,,0,0,0,,{\1c&HFF00&\u1}vegani{\r} pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:22.10,0:00:22.24,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:22.24,0:00:22.58,Default,,0,0,0,,vegani {\1c&HFF00&\u1}pronti,{\r} costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:22.58,0:00:22.74,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:22.74,0:00:23.55,Default,,0,0,0,,vegani pronti, {\1c&HFF00&\u1}costosissimi.{\r} Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:23.55,0:00:23.71,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:23.71,0:00:23.89,Default,,0,0,0,,vegani pronti, costosissimi. {\1c&HFF00&\u1}Quindi{\r} scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:23.89,0:00:23.91,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:23.91,0:00:24.37,Default,,0,0,0,,vegani pronti, costosissimi. Quindi {\1c&HFF00&\u1}scegliere{\r} ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:24.37,0:00:24.39,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:24.39,0:00:24.95,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere {\1c&HFF00&\u1}ingredienti{\r} semplici allo stato naturale.
+Dialogue: 0,0:00:24.95,0:00:25.03,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:25.03,0:00:25.53,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti {\1c&HFF00&\u1}semplici{\r} allo stato naturale.
+Dialogue: 0,0:00:25.53,0:00:25.59,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:25.59,0:00:25.75,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici {\1c&HFF00&\u1}allo{\r} stato naturale.
+Dialogue: 0,0:00:25.75,0:00:25.79,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:25.79,0:00:26.11,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo {\1c&HFF00&\u1}stato{\r} naturale.
+Dialogue: 0,0:00:26.11,0:00:26.31,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato naturale.
+Dialogue: 0,0:00:26.31,0:00:26.85,Default,,0,0,0,,vegani pronti, costosissimi. Quindi scegliere ingredienti semplici allo stato {\1c&HFF00&\u1}naturale.{\r}
+Dialogue: 0,0:00:26.96,0:00:27.56,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:27.56,0:00:27.64,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:27.64,0:00:27.84,Default,,0,0,0,,ma {\1c&HFF00&\u1}mangiare{\r} sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:27.84,0:00:27.96,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:27.96,0:00:28.12,Default,,0,0,0,,ma mangiare {\1c&HFF00&\u1}sano{\r} non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.12,0:00:28.24,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.24,0:00:28.30,Default,,0,0,0,,ma mangiare sano {\1c&HFF00&\u1}non{\r} aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.30,0:00:28.34,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.34,0:00:28.75,Default,,0,0,0,,ma mangiare sano non {\1c&HFF00&\u1}aiuta{\r} a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.75,0:00:28.77,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.77,0:00:28.79,Default,,0,0,0,,ma mangiare sano non aiuta {\1c&HFF00&\u1}a{\r} risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.79,0:00:28.81,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:28.81,0:00:29.29,Default,,0,0,0,,ma mangiare sano non aiuta a {\1c&HFF00&\u1}risparmiare{\r} solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.29,0:00:29.37,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.37,0:00:29.55,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare {\1c&HFF00&\u1}solo{\r} in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.55,0:00:29.57,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.57,0:00:29.63,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo {\1c&HFF00&\u1}in{\r} modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.63,0:00:29.67,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.67,0:00:29.83,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in {\1c&HFF00&\u1}modo{\r} diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.83,0:00:29.91,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:29.91,0:00:30.29,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo {\1c&HFF00&\u1}diretto,{\r} ma anche indirettamente.
+Dialogue: 0,0:00:30.29,0:00:30.37,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:30.37,0:00:30.43,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, {\1c&HFF00&\u1}ma{\r} anche indirettamente.
+Dialogue: 0,0:00:30.43,0:00:30.47,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:30.47,0:00:30.71,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma {\1c&HFF00&\u1}anche{\r} indirettamente.
+Dialogue: 0,0:00:30.71,0:00:30.97,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche indirettamente.
+Dialogue: 0,0:00:30.97,0:00:31.83,Default,,0,0,0,,ma mangiare sano non aiuta a risparmiare solo in modo diretto, ma anche {\1c&HFF00&\u1}indirettamente.{\r}
+Dialogue: 0,0:00:32.12,0:00:32.40,Default,,0,0,0,,{\1c&HFF00&\u1}Saremo{\r} più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:32.40,0:00:32.52,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:32.52,0:00:32.60,Default,,0,0,0,,Saremo {\1c&HFF00&\u1}più{\r} sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:32.60,0:00:32.70,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:32.70,0:00:33.02,Default,,0,0,0,,Saremo più {\1c&HFF00&\u1}sani,{\r} avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:33.02,0:00:33.12,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:33.12,0:00:33.38,Default,,0,0,0,,Saremo più sani, {\1c&HFF00&\u1}avremo{\r} bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:33.38,0:00:33.60,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:33.60,0:00:33.90,Default,,0,0,0,,Saremo più sani, avremo {\1c&HFF00&\u1}bisogno{\r} di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:33.90,0:00:33.99,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:33.99,0:00:34.05,Default,,0,0,0,,Saremo più sani, avremo bisogno {\1c&HFF00&\u1}di{\r} meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:34.05,0:00:34.13,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:34.13,0:00:34.31,Default,,0,0,0,,Saremo più sani, avremo bisogno di {\1c&HFF00&\u1}meno{\r} medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:34.31,0:00:34.37,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:34.37,0:00:34.85,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno {\1c&HFF00&\u1}medicine,{\r} meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:34.85,0:00:34.99,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:34.99,0:00:35.35,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, {\1c&HFF00&\u1}meno{\r} visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:35.35,0:00:35.51,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:35.51,0:00:35.83,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno {\1c&HFF00&\u1}visite{\r} mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:35.83,0:00:35.91,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:35.91,0:00:36.35,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite {\1c&HFF00&\u1}mediche.{\r} Io adesso sono tre anni
+Dialogue: 0,0:00:36.35,0:00:36.81,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:36.81,0:00:36.89,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. {\1c&HFF00&\u1}Io{\r} adesso sono tre anni
+Dialogue: 0,0:00:36.89,0:00:36.95,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:36.95,0:00:37.21,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io {\1c&HFF00&\u1}adesso{\r} sono tre anni
+Dialogue: 0,0:00:37.21,0:00:37.27,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:37.27,0:00:37.43,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso {\1c&HFF00&\u1}sono{\r} tre anni
+Dialogue: 0,0:00:37.43,0:00:37.55,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:37.55,0:00:37.65,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono {\1c&HFF00&\u1}tre{\r} anni
+Dialogue: 0,0:00:37.65,0:00:37.69,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre anni
+Dialogue: 0,0:00:37.69,0:00:37.91,Default,,0,0,0,,Saremo più sani, avremo bisogno di meno medicine, meno visite mediche. Io adesso sono tre {\1c&HFF00&\u1}anni{\r}
+Dialogue: 0,0:00:38.20,0:00:38.32,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:38.32,0:00:38.36,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:38.36,0:00:38.64,Default,,0,0,0,,che {\1c&HFF00&\u1}non{\r} compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:38.64,0:00:38.70,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:38.70,0:00:38.96,Default,,0,0,0,,che non {\1c&HFF00&\u1}compro{\r} nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:38.96,0:00:39.00,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:39.00,0:00:39.24,Default,,0,0,0,,che non compro {\1c&HFF00&\u1}nessun{\r} medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:39.24,0:00:39.30,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:39.30,0:00:39.99,Default,,0,0,0,,che non compro nessun {\1c&HFF00&\u1}medicinale{\r} e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:39.99,0:00:40.23,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:40.23,0:00:40.31,Default,,0,0,0,,che non compro nessun medicinale {\1c&HFF00&\u1}e{\r} che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:40.31,0:00:40.73,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:40.73,0:00:40.87,Default,,0,0,0,,che non compro nessun medicinale e {\1c&HFF00&\u1}che{\r} non pago per una visita, se non per un esame
+Dialogue: 0,0:00:40.87,0:00:40.99,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:40.99,0:00:41.23,Default,,0,0,0,,che non compro nessun medicinale e che {\1c&HFF00&\u1}non{\r} pago per una visita, se non per un esame
+Dialogue: 0,0:00:41.23,0:00:41.39,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:41.39,0:00:41.67,Default,,0,0,0,,che non compro nessun medicinale e che non {\1c&HFF00&\u1}pago{\r} per una visita, se non per un esame
+Dialogue: 0,0:00:41.67,0:00:41.75,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:41.75,0:00:41.87,Default,,0,0,0,,che non compro nessun medicinale e che non pago {\1c&HFF00&\u1}per{\r} una visita, se non per un esame
+Dialogue: 0,0:00:41.87,0:00:41.93,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:41.93,0:00:42.15,Default,,0,0,0,,che non compro nessun medicinale e che non pago per {\1c&HFF00&\u1}una{\r} visita, se non per un esame
+Dialogue: 0,0:00:42.15,0:00:42.31,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:42.31,0:00:42.81,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una {\1c&HFF00&\u1}visita,{\r} se non per un esame
+Dialogue: 0,0:00:42.81,0:00:42.95,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:42.95,0:00:43.05,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, {\1c&HFF00&\u1}se{\r} non per un esame
+Dialogue: 0,0:00:43.05,0:00:43.11,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:43.11,0:00:43.49,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se {\1c&HFF00&\u1}non{\r} per un esame
+Dialogue: 0,0:00:43.49,0:00:43.63,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:43.63,0:00:43.75,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non {\1c&HFF00&\u1}per{\r} un esame
+Dialogue: 0,0:00:43.75,0:00:43.79,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:43.79,0:00:43.87,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per {\1c&HFF00&\u1}un{\r} esame
+Dialogue: 0,0:00:43.87,0:00:43.89,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un esame
+Dialogue: 0,0:00:43.89,0:00:44.18,Default,,0,0,0,,che non compro nessun medicinale e che non pago per una visita, se non per un {\1c&HFF00&\u1}esame{\r}
+Dialogue: 0,0:00:44.16,0:00:44.70,Default,,0,0,0,,{\1c&HFF00&\u1}del{\r} sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:44.70,0:00:44.72,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:44.72,0:00:44.86,Default,,0,0,0,,del {\1c&HFF00&\u1}sangue{\r} che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:44.86,0:00:44.88,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:44.88,0:00:44.94,Default,,0,0,0,,del sangue {\1c&HFF00&\u1}che{\r} ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:44.94,0:00:44.96,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:44.96,0:00:45.06,Default,,0,0,0,,del sangue che {\1c&HFF00&\u1}ho{\r} fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.06,0:00:45.12,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.12,0:00:45.32,Default,,0,0,0,,del sangue che ho {\1c&HFF00&\u1}fatto{\r} perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.32,0:00:45.34,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.34,0:00:45.52,Default,,0,0,0,,del sangue che ho fatto {\1c&HFF00&\u1}perché{\r} era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.52,0:00:45.62,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.62,0:00:45.73,Default,,0,0,0,,del sangue che ho fatto perché {\1c&HFF00&\u1}era{\r} da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.73,0:00:45.79,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.79,0:00:45.85,Default,,0,0,0,,del sangue che ho fatto perché era {\1c&HFF00&\u1}da{\r} tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.85,0:00:45.91,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:45.91,0:00:46.09,Default,,0,0,0,,del sangue che ho fatto perché era da {\1c&HFF00&\u1}tanto{\r} che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.09,0:00:46.15,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.15,0:00:46.23,Default,,0,0,0,,del sangue che ho fatto perché era da tanto {\1c&HFF00&\u1}che{\r} non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.23,0:00:46.27,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.27,0:00:46.37,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che {\1c&HFF00&\u1}non{\r} lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.37,0:00:46.41,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.41,0:00:46.47,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non {\1c&HFF00&\u1}lo{\r} facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.47,0:00:46.53,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:46.53,0:00:46.91,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo {\1c&HFF00&\u1}facevo{\r} e tra l'altro i risultati
+Dialogue: 0,0:00:46.91,0:00:47.27,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:47.27,0:00:47.31,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo {\1c&HFF00&\u1}e{\r} tra l'altro i risultati
+Dialogue: 0,0:00:47.31,0:00:47.35,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:47.35,0:00:47.45,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e {\1c&HFF00&\u1}tra{\r} l'altro i risultati
+Dialogue: 0,0:00:47.45,0:00:47.51,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:47.51,0:00:47.77,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra {\1c&HFF00&\u1}l'altro{\r} i risultati
+Dialogue: 0,0:00:47.77,0:00:47.81,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:47.81,0:00:47.83,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro {\1c&HFF00&\u1}i{\r} risultati
+Dialogue: 0,0:00:47.83,0:00:47.89,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i risultati
+Dialogue: 0,0:00:47.89,0:00:48.29,Default,,0,0,0,,del sangue che ho fatto perché era da tanto che non lo facevo e tra l'altro i {\1c&HFF00&\u1}risultati{\r}
+Dialogue: 0,0:00:48.54,0:00:48.76,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} perfetti e di conseguenza
+Dialogue: 0,0:00:48.76,0:00:48.78,Default,,0,0,0,,sono perfetti e di conseguenza
+Dialogue: 0,0:00:48.78,0:00:49.20,Default,,0,0,0,,sono {\1c&HFF00&\u1}perfetti{\r} e di conseguenza
+Dialogue: 0,0:00:49.20,0:00:49.52,Default,,0,0,0,,sono perfetti e di conseguenza
+Dialogue: 0,0:00:49.52,0:00:49.56,Default,,0,0,0,,sono perfetti {\1c&HFF00&\u1}e{\r} di conseguenza
+Dialogue: 0,0:00:49.56,0:00:49.58,Default,,0,0,0,,sono perfetti e di conseguenza
+Dialogue: 0,0:00:49.58,0:00:49.64,Default,,0,0,0,,sono perfetti e {\1c&HFF00&\u1}di{\r} conseguenza
+Dialogue: 0,0:00:49.64,0:00:49.68,Default,,0,0,0,,sono perfetti e di conseguenza
+Dialogue: 0,0:00:49.68,0:00:50.21,Default,,0,0,0,,sono perfetti e di {\1c&HFF00&\u1}conseguenza{\r}

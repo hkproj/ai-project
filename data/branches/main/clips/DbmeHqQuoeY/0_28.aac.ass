@@ -1,0 +1,712 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.22,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:0.22,0:00:0.28,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:0.28,0:00:0.52,Default,,0,0,0,,Per {\1c&HFF00&\u1}uscire{\r} con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:0.52,0:00:0.56,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:0.56,0:00:0.68,Default,,0,0,0,,Per uscire {\1c&HFF00&\u1}con{\r} qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:0.68,0:00:0.74,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:0.74,0:00:1.16,Default,,0,0,0,,Per uscire con {\1c&HFF00&\u1}qualcuno,{\r} per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:1.16,0:00:1.24,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:1.24,0:00:1.36,Default,,0,0,0,,Per uscire con qualcuno, {\1c&HFF00&\u1}per{\r} divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:1.36,0:00:1.43,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:1.43,0:00:1.97,Default,,0,0,0,,Per uscire con qualcuno, per {\1c&HFF00&\u1}divertirsi,{\r} non bisogna per forza spendere.
+Dialogue: 0,0:00:1.97,0:00:2.09,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:2.09,0:00:2.17,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, {\1c&HFF00&\u1}non{\r} bisogna per forza spendere.
+Dialogue: 0,0:00:2.17,0:00:2.19,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:2.19,0:00:2.43,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non {\1c&HFF00&\u1}bisogna{\r} per forza spendere.
+Dialogue: 0,0:00:2.43,0:00:2.49,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:2.49,0:00:2.59,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna {\1c&HFF00&\u1}per{\r} forza spendere.
+Dialogue: 0,0:00:2.59,0:00:2.67,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:2.67,0:00:2.95,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per {\1c&HFF00&\u1}forza{\r} spendere.
+Dialogue: 0,0:00:2.95,0:00:3.05,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza spendere.
+Dialogue: 0,0:00:3.05,0:00:3.51,Default,,0,0,0,,Per uscire con qualcuno, per divertirsi, non bisogna per forza {\1c&HFF00&\u1}spendere.{\r}
+Dialogue: 0,0:00:3.70,0:00:3.80,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:3.80,0:00:3.84,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:3.84,0:00:4.44,Default,,0,0,0,,Per {\1c&HFF00&\u1}impressionare,{\r} per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:4.44,0:00:4.50,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:4.50,0:00:4.60,Default,,0,0,0,,Per impressionare, {\1c&HFF00&\u1}per{\r} fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:4.60,0:00:4.66,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:4.66,0:00:4.82,Default,,0,0,0,,Per impressionare, per {\1c&HFF00&\u1}fare{\r} bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:4.82,0:00:4.92,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:4.92,0:00:5.10,Default,,0,0,0,,Per impressionare, per fare {\1c&HFF00&\u1}bella{\r} figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.10,0:00:5.16,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.16,0:00:5.44,Default,,0,0,0,,Per impressionare, per fare bella {\1c&HFF00&\u1}figura{\r} in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.44,0:00:5.50,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.50,0:00:5.57,Default,,0,0,0,,Per impressionare, per fare bella figura {\1c&HFF00&\u1}in{\r} caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.57,0:00:5.59,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.59,0:00:5.77,Default,,0,0,0,,Per impressionare, per fare bella figura in {\1c&HFF00&\u1}caso{\r} di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.77,0:00:5.85,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.85,0:00:5.99,Default,,0,0,0,,Per impressionare, per fare bella figura in caso {\1c&HFF00&\u1}di{\r} appuntamenti romantici, un picnic
+Dialogue: 0,0:00:5.99,0:00:6.31,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:6.31,0:00:6.85,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di {\1c&HFF00&\u1}appuntamenti{\r} romantici, un picnic
+Dialogue: 0,0:00:6.85,0:00:6.93,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:6.93,0:00:7.61,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti {\1c&HFF00&\u1}romantici,{\r} un picnic
+Dialogue: 0,0:00:7.61,0:00:8.51,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:8.51,0:00:8.65,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, {\1c&HFF00&\u1}un{\r} picnic
+Dialogue: 0,0:00:8.65,0:00:8.75,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un picnic
+Dialogue: 0,0:00:8.75,0:00:9.23,Default,,0,0,0,,Per impressionare, per fare bella figura in caso di appuntamenti romantici, un {\1c&HFF00&\u1}picnic{\r}
+Dialogue: 0,0:00:9.26,0:00:9.82,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:9.82,0:00:9.94,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:9.94,0:00:10.12,Default,,0,0,0,,in {\1c&HFF00&\u1}natura{\r} in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.12,0:00:10.18,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.18,0:00:10.24,Default,,0,0,0,,in natura {\1c&HFF00&\u1}in{\r} un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.24,0:00:10.26,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.26,0:00:10.40,Default,,0,0,0,,in natura in {\1c&HFF00&\u1}un{\r} bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.40,0:00:10.42,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.42,0:00:10.58,Default,,0,0,0,,in natura in un {\1c&HFF00&\u1}bel{\r} posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.58,0:00:10.66,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.66,0:00:10.90,Default,,0,0,0,,in natura in un bel {\1c&HFF00&\u1}posto{\r} al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.90,0:00:10.95,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:10.95,0:00:11.03,Default,,0,0,0,,in natura in un bel posto {\1c&HFF00&\u1}al{\r} tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:11.03,0:00:11.07,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:11.07,0:00:11.55,Default,,0,0,0,,in natura in un bel posto al {\1c&HFF00&\u1}tramonto{\r} fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:11.55,0:00:11.67,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:11.67,0:00:12.15,Default,,0,0,0,,in natura in un bel posto al tramonto {\1c&HFF00&\u1}fa 100{\r} volte un ristorante costoso.
+Dialogue: 0,0:00:12.15,0:00:12.21,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:12.21,0:00:12.51,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 {\1c&HFF00&\u1}volte{\r} un ristorante costoso.
+Dialogue: 0,0:00:12.51,0:00:12.53,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:12.53,0:00:12.69,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte {\1c&HFF00&\u1}un{\r} ristorante costoso.
+Dialogue: 0,0:00:12.69,0:00:12.75,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:12.75,0:00:13.21,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un {\1c&HFF00&\u1}ristorante{\r} costoso.
+Dialogue: 0,0:00:13.21,0:00:13.29,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante costoso.
+Dialogue: 0,0:00:13.29,0:00:13.75,Default,,0,0,0,,in natura in un bel posto al tramonto fa 100 volte un ristorante {\1c&HFF00&\u1}costoso.{\r}
+Dialogue: 0,0:00:14.04,0:00:14.14,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:14.14,0:00:14.20,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:14.20,0:00:14.58,Default,,0,0,0,,C'è {\1c&HFF00&\u1}quest'idea{\r} là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:14.58,0:00:14.66,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:14.66,0:00:14.74,Default,,0,0,0,,C'è quest'idea {\1c&HFF00&\u1}là{\r} fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:14.74,0:00:14.84,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:14.84,0:00:15.10,Default,,0,0,0,,C'è quest'idea là {\1c&HFF00&\u1}fuori{\r} che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:15.10,0:00:15.24,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:15.24,0:00:15.48,Default,,0,0,0,,C'è quest'idea là fuori {\1c&HFF00&\u1}che{\r} se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:15.48,0:00:16.04,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:16.04,0:00:16.14,Default,,0,0,0,,C'è quest'idea là fuori che {\1c&HFF00&\u1}se{\r} non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:16.14,0:00:16.27,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:16.27,0:00:16.71,Default,,0,0,0,,C'è quest'idea là fuori che se {\1c&HFF00&\u1}non{\r} spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:16.71,0:00:16.81,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:16.81,0:00:17.39,Default,,0,0,0,,C'è quest'idea là fuori che se non {\1c&HFF00&\u1}spendi{\r} non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:17.39,0:00:17.83,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:17.83,0:00:17.93,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi {\1c&HFF00&\u1}non{\r} ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:17.93,0:00:17.97,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:17.97,0:00:18.05,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non {\1c&HFF00&\u1}ti{\r} diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:18.05,0:00:18.09,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:18.09,0:00:18.63,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti {\1c&HFF00&\u1}diverti,{\r} anzi, se non spendi non ti
+Dialogue: 0,0:00:18.63,0:00:19.21,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:19.21,0:00:19.49,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, {\1c&HFF00&\u1}anzi,{\r} se non spendi non ti
+Dialogue: 0,0:00:19.49,0:00:19.91,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:19.91,0:00:20.01,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, {\1c&HFF00&\u1}se{\r} non spendi non ti
+Dialogue: 0,0:00:20.01,0:00:20.07,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:20.07,0:00:20.21,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se {\1c&HFF00&\u1}non{\r} spendi non ti
+Dialogue: 0,0:00:20.21,0:00:20.27,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:20.27,0:00:20.57,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non {\1c&HFF00&\u1}spendi{\r} non ti
+Dialogue: 0,0:00:20.57,0:00:20.63,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:20.63,0:00:20.76,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi {\1c&HFF00&\u1}non{\r} ti
+Dialogue: 0,0:00:20.76,0:00:20.84,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non ti
+Dialogue: 0,0:00:20.84,0:00:20.92,Default,,0,0,0,,C'è quest'idea là fuori che se non spendi non ti diverti, anzi, se non spendi non {\1c&HFF00&\u1}ti{\r}
+Dialogue: 0,0:00:20.88,0:00:20.96,Default,,0,0,0,,{\1c&HFF00&\u1}vivi{\r} la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:20.96,0:00:20.98,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:20.98,0:00:21.02,Default,,0,0,0,,vivi {\1c&HFF00&\u1}la{\r} vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.02,0:00:21.04,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.04,0:00:21.12,Default,,0,0,0,,vivi la {\1c&HFF00&\u1}vita,{\r} che sono più del parere opposto.
+Dialogue: 0,0:00:21.12,0:00:21.14,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.14,0:00:21.20,Default,,0,0,0,,vivi la vita, {\1c&HFF00&\u1}che{\r} sono più del parere opposto.
+Dialogue: 0,0:00:21.20,0:00:21.22,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.22,0:00:21.30,Default,,0,0,0,,vivi la vita, che {\1c&HFF00&\u1}sono{\r} più del parere opposto.
+Dialogue: 0,0:00:21.30,0:00:21.32,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.32,0:00:21.38,Default,,0,0,0,,vivi la vita, che sono {\1c&HFF00&\u1}più{\r} del parere opposto.
+Dialogue: 0,0:00:21.38,0:00:21.40,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.40,0:00:21.46,Default,,0,0,0,,vivi la vita, che sono più {\1c&HFF00&\u1}del{\r} parere opposto.
+Dialogue: 0,0:00:21.46,0:00:21.48,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.48,0:00:21.60,Default,,0,0,0,,vivi la vita, che sono più del {\1c&HFF00&\u1}parere{\r} opposto.
+Dialogue: 0,0:00:21.60,0:00:21.62,Default,,0,0,0,,vivi la vita, che sono più del parere opposto.
+Dialogue: 0,0:00:21.62,0:00:21.76,Default,,0,0,0,,vivi la vita, che sono più del parere {\1c&HFF00&\u1}opposto.{\r}
+Dialogue: 0,0:00:24.02,0:00:24.88,Default,,0,0,0,,{\1c&HFF00&\u1}L'entrattenimento{\r} non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:24.88,0:00:24.90,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:24.90,0:00:25.02,Default,,0,0,0,,L'entrattenimento {\1c&HFF00&\u1}non{\r} deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.02,0:00:25.04,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.04,0:00:25.20,Default,,0,0,0,,L'entrattenimento non {\1c&HFF00&\u1}deve{\r} per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.20,0:00:25.28,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.28,0:00:25.38,Default,,0,0,0,,L'entrattenimento non deve {\1c&HFF00&\u1}per{\r} forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.38,0:00:25.46,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.46,0:00:25.73,Default,,0,0,0,,L'entrattenimento non deve per {\1c&HFF00&\u1}forza{\r} costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.73,0:00:25.93,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:25.93,0:00:26.35,Default,,0,0,0,,L'entrattenimento non deve per forza {\1c&HFF00&\u1}costare,{\r} tralasciando questo periodo storico molto
+Dialogue: 0,0:00:26.35,0:00:26.65,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:26.65,0:00:27.07,Default,,0,0,0,,L'entrattenimento non deve per forza costare, {\1c&HFF00&\u1}tralasciando{\r} questo periodo storico molto
+Dialogue: 0,0:00:27.07,0:00:27.13,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:27.13,0:00:27.43,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando {\1c&HFF00&\u1}questo{\r} periodo storico molto
+Dialogue: 0,0:00:27.43,0:00:27.53,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:27.53,0:00:27.83,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo {\1c&HFF00&\u1}periodo{\r} storico molto
+Dialogue: 0,0:00:27.83,0:00:27.91,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:27.91,0:00:28.33,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo {\1c&HFF00&\u1}storico{\r} molto
+Dialogue: 0,0:00:28.33,0:00:28.43,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico molto
+Dialogue: 0,0:00:28.43,0:00:28.63,Default,,0,0,0,,L'entrattenimento non deve per forza costare, tralasciando questo periodo storico {\1c&HFF00&\u1}molto{\r}
+Dialogue: 0,0:00:28.62,0:00:29.54,Default,,0,0,0,,{\1c&HFF00&\u1}particolare,{\r} sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:29.54,0:00:30.04,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:30.04,0:00:31.13,Default,,0,0,0,,particolare, {\1c&HFF00&\u1}sull'entrattenimento{\r} normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:31.13,0:00:31.71,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:31.71,0:00:32.29,Default,,0,0,0,,particolare, sull'entrattenimento {\1c&HFF00&\u1}normalmente{\r} si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:32.29,0:00:32.39,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:32.39,0:00:32.45,Default,,0,0,0,,particolare, sull'entrattenimento normalmente {\1c&HFF00&\u1}si{\r} spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:32.45,0:00:32.53,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:32.53,0:00:33.13,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si {\1c&HFF00&\u1}spende{\r} un bel po', e a fine anno è una
+Dialogue: 0,0:00:33.13,0:00:33.71,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:33.71,0:00:33.79,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende {\1c&HFF00&\u1}un{\r} bel po', e a fine anno è una
+Dialogue: 0,0:00:33.79,0:00:33.83,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:33.83,0:00:33.99,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un {\1c&HFF00&\u1}bel{\r} po', e a fine anno è una
+Dialogue: 0,0:00:33.99,0:00:34.09,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:34.09,0:00:34.23,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel {\1c&HFF00&\u1}po',{\r} e a fine anno è una
+Dialogue: 0,0:00:34.23,0:00:34.25,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:34.25,0:00:34.27,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', {\1c&HFF00&\u1}e{\r} a fine anno è una
+Dialogue: 0,0:00:34.27,0:00:34.57,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:34.57,0:00:34.65,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e {\1c&HFF00&\u1}a{\r} fine anno è una
+Dialogue: 0,0:00:34.65,0:00:34.73,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:34.73,0:00:35.07,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a {\1c&HFF00&\u1}fine{\r} anno è una
+Dialogue: 0,0:00:35.07,0:00:35.21,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:35.21,0:00:35.61,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine {\1c&HFF00&\u1}anno{\r} è una
+Dialogue: 0,0:00:35.61,0:00:35.80,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:35.80,0:00:35.84,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno {\1c&HFF00&\u1}è{\r} una
+Dialogue: 0,0:00:35.84,0:00:35.90,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è una
+Dialogue: 0,0:00:35.90,0:00:36.00,Default,,0,0,0,,particolare, sull'entrattenimento normalmente si spende un bel po', e a fine anno è {\1c&HFF00&\u1}una{\r}
+Dialogue: 0,0:00:36.18,0:00:36.40,Default,,0,0,0,,{\1c&HFF00&\u1}bella{\r} somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.40,0:00:36.46,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.46,0:00:36.70,Default,,0,0,0,,bella {\1c&HFF00&\u1}somma.{\r} Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.70,0:00:36.76,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.76,0:00:36.82,Default,,0,0,0,,bella somma. {\1c&HFF00&\u1}Si{\r} può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.82,0:00:36.84,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.84,0:00:36.94,Default,,0,0,0,,bella somma. Si {\1c&HFF00&\u1}può{\r} considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.94,0:00:36.98,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:36.98,0:00:37.42,Default,,0,0,0,,bella somma. Si può {\1c&HFF00&\u1}considerare{\r} un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.42,0:00:37.48,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.48,0:00:37.52,Default,,0,0,0,,bella somma. Si può considerare {\1c&HFF00&\u1}un{\r} giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.52,0:00:37.56,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.56,0:00:37.75,Default,,0,0,0,,bella somma. Si può considerare un {\1c&HFF00&\u1}giro{\r} in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.75,0:00:37.81,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.81,0:00:37.89,Default,,0,0,0,,bella somma. Si può considerare un giro {\1c&HFF00&\u1}in{\r} bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.89,0:00:37.91,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:37.91,0:00:38.21,Default,,0,0,0,,bella somma. Si può considerare un giro in {\1c&HFF00&\u1}bici,{\r} una bella passeggiata in un bel parco
+Dialogue: 0,0:00:38.21,0:00:38.27,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:38.27,0:00:38.39,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, {\1c&HFF00&\u1}una{\r} bella passeggiata in un bel parco
+Dialogue: 0,0:00:38.39,0:00:38.43,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:38.43,0:00:38.61,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una {\1c&HFF00&\u1}bella{\r} passeggiata in un bel parco
+Dialogue: 0,0:00:38.61,0:00:38.65,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:38.65,0:00:39.17,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella {\1c&HFF00&\u1}passeggiata{\r} in un bel parco
+Dialogue: 0,0:00:39.17,0:00:39.23,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:39.23,0:00:39.35,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata {\1c&HFF00&\u1}in{\r} un bel parco
+Dialogue: 0,0:00:39.35,0:00:39.39,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:39.39,0:00:39.53,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in {\1c&HFF00&\u1}un{\r} bel parco
+Dialogue: 0,0:00:39.53,0:00:39.59,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:39.59,0:00:39.75,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un {\1c&HFF00&\u1}bel{\r} parco
+Dialogue: 0,0:00:39.75,0:00:39.83,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel parco
+Dialogue: 0,0:00:39.83,0:00:40.27,Default,,0,0,0,,bella somma. Si può considerare un giro in bici, una bella passeggiata in un bel {\1c&HFF00&\u1}parco{\r}
+Dialogue: 0,0:00:40.80,0:00:40.84,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:40.84,0:00:40.90,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:40.90,0:00:41.08,Default,,0,0,0,,o {\1c&HFF00&\u1}nelle{\r} montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:41.08,0:00:41.12,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:41.12,0:00:41.46,Default,,0,0,0,,o nelle {\1c&HFF00&\u1}montagne{\r} più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:41.46,0:00:41.52,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:41.52,0:00:41.60,Default,,0,0,0,,o nelle montagne {\1c&HFF00&\u1}più{\r} vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:41.60,0:00:41.66,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:41.66,0:00:42.16,Default,,0,0,0,,o nelle montagne più {\1c&HFF00&\u1}vicino,{\r} visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:42.16,0:00:42.87,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:42.87,0:00:43.37,Default,,0,0,0,,o nelle montagne più vicino, {\1c&HFF00&\u1}visitare{\r} i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:43.37,0:00:43.39,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:43.39,0:00:43.41,Default,,0,0,0,,o nelle montagne più vicino, visitare {\1c&HFF00&\u1}i{\r} luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:43.41,0:00:43.49,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:43.49,0:00:43.69,Default,,0,0,0,,o nelle montagne più vicino, visitare i {\1c&HFF00&\u1}luoghi{\r} turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:43.69,0:00:43.75,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:43.75,0:00:44.25,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi {\1c&HFF00&\u1}turistici{\r} della zona o delle zone vicino,
+Dialogue: 0,0:00:44.25,0:00:44.31,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:44.31,0:00:44.53,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici {\1c&HFF00&\u1}della{\r} zona o delle zone vicino,
+Dialogue: 0,0:00:44.53,0:00:44.63,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:44.63,0:00:44.95,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della {\1c&HFF00&\u1}zona{\r} o delle zone vicino,
+Dialogue: 0,0:00:44.95,0:00:45.23,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:45.23,0:00:45.27,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona {\1c&HFF00&\u1}o{\r} delle zone vicino,
+Dialogue: 0,0:00:45.27,0:00:45.31,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:45.31,0:00:45.51,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o {\1c&HFF00&\u1}delle{\r} zone vicino,
+Dialogue: 0,0:00:45.51,0:00:45.59,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:45.59,0:00:45.83,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle {\1c&HFF00&\u1}zone{\r} vicino,
+Dialogue: 0,0:00:45.83,0:00:45.91,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone vicino,
+Dialogue: 0,0:00:45.91,0:00:46.29,Default,,0,0,0,,o nelle montagne più vicino, visitare i luoghi turistici della zona o delle zone {\1c&HFF00&\u1}vicino,{\r}
+Dialogue: 0,0:00:46.58,0:00:46.72,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:46.72,0:00:46.78,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:46.78,0:00:46.88,Default,,0,0,0,,ma {\1c&HFF00&\u1}anche{\r} semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:46.88,0:00:46.90,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:46.90,0:00:47.68,Default,,0,0,0,,ma anche {\1c&HFF00&\u1}semplicemente{\r} stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:47.68,0:00:47.70,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:47.70,0:00:47.88,Default,,0,0,0,,ma anche semplicemente {\1c&HFF00&\u1}stare{\r} a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:47.88,0:00:47.92,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:47.92,0:00:47.94,Default,,0,0,0,,ma anche semplicemente stare {\1c&HFF00&\u1}a{\r} casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:47.94,0:00:48.03,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.03,0:00:48.31,Default,,0,0,0,,ma anche semplicemente stare a {\1c&HFF00&\u1}casa{\r} con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.31,0:00:48.43,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.43,0:00:48.53,Default,,0,0,0,,ma anche semplicemente stare a casa {\1c&HFF00&\u1}con{\r} la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.53,0:00:48.57,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.57,0:00:48.63,Default,,0,0,0,,ma anche semplicemente stare a casa con {\1c&HFF00&\u1}la{\r} propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.63,0:00:48.67,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.67,0:00:48.95,Default,,0,0,0,,ma anche semplicemente stare a casa con la {\1c&HFF00&\u1}propria{\r} famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:48.95,0:00:49.03,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:49.03,0:00:49.37,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria {\1c&HFF00&\u1}famiglia.{\r} Non so, io adoro stare a
+Dialogue: 0,0:00:49.37,0:00:49.41,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:49.41,0:00:49.47,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. {\1c&HFF00&\u1}Non{\r} so, io adoro stare a
+Dialogue: 0,0:00:49.47,0:00:49.49,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:49.49,0:00:49.61,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non {\1c&HFF00&\u1}so,{\r} io adoro stare a
+Dialogue: 0,0:00:49.61,0:00:49.69,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:49.69,0:00:49.75,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, {\1c&HFF00&\u1}io{\r} adoro stare a
+Dialogue: 0,0:00:49.75,0:00:49.81,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:49.81,0:00:50.03,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io {\1c&HFF00&\u1}adoro{\r} stare a
+Dialogue: 0,0:00:50.03,0:00:50.09,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:50.09,0:00:50.27,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro {\1c&HFF00&\u1}stare{\r} a
+Dialogue: 0,0:00:50.27,0:00:50.43,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare a
+Dialogue: 0,0:00:50.43,0:00:50.45,Default,,0,0,0,,ma anche semplicemente stare a casa con la propria famiglia. Non so, io adoro stare {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:50.58,0:00:50.82,Default,,0,0,0,,{\1c&HFF00&\u1}casa{\r} con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:50.82,0:00:50.88,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:50.88,0:00:51.06,Default,,0,0,0,,casa {\1c&HFF00&\u1}con{\r} il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:51.06,0:00:51.10,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:51.10,0:00:51.18,Default,,0,0,0,,casa con {\1c&HFF00&\u1}il{\r} mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:51.18,0:00:51.20,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:51.20,0:00:51.36,Default,,0,0,0,,casa con il {\1c&HFF00&\u1}mio{\r} ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:51.36,0:00:51.82,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:51.82,0:00:52.28,Default,,0,0,0,,casa con il mio {\1c&HFF00&\u1}ragazzo{\r} e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.28,0:00:52.49,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.49,0:00:52.53,Default,,0,0,0,,casa con il mio ragazzo {\1c&HFF00&\u1}e{\r} il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.53,0:00:52.55,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.55,0:00:52.63,Default,,0,0,0,,casa con il mio ragazzo e {\1c&HFF00&\u1}il{\r} mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.63,0:00:52.65,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.65,0:00:52.73,Default,,0,0,0,,casa con il mio ragazzo e il {\1c&HFF00&\u1}mio{\r} gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.73,0:00:52.83,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:52.83,0:00:53.13,Default,,0,0,0,,casa con il mio ragazzo e il mio {\1c&HFF00&\u1}gatto,{\r} ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.13,0:00:53.43,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.43,0:00:53.47,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, {\1c&HFF00&\u1}ma{\r} anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.47,0:00:53.51,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.51,0:00:53.69,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma {\1c&HFF00&\u1}anche{\r} con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.69,0:00:53.75,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.75,0:00:53.85,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche {\1c&HFF00&\u1}con{\r} gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.85,0:00:53.87,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.87,0:00:53.93,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con {\1c&HFF00&\u1}gli{\r} amici solitamente organizziamo
+Dialogue: 0,0:00:53.93,0:00:53.97,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:53.97,0:00:54.43,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli {\1c&HFF00&\u1}amici{\r} solitamente organizziamo
+Dialogue: 0,0:00:54.43,0:00:54.57,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:54.57,0:00:55.29,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici {\1c&HFF00&\u1}solitamente{\r} organizziamo
+Dialogue: 0,0:00:55.29,0:00:55.31,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente organizziamo
+Dialogue: 0,0:00:55.31,0:00:56.17,Default,,0,0,0,,casa con il mio ragazzo e il mio gatto, ma anche con gli amici solitamente {\1c&HFF00&\u1}organizziamo{\r}
+Dialogue: 0,0:00:56.82,0:00:57.46,Default,,0,0,0,,{\1c&HFF00&\u1}qualcosa,{\r} una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:57.46,0:00:57.50,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:57.50,0:00:57.62,Default,,0,0,0,,qualcosa, {\1c&HFF00&\u1}una{\r} cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:57.62,0:00:57.74,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:57.74,0:00:57.96,Default,,0,0,0,,qualcosa, una {\1c&HFF00&\u1}cena{\r} a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:57.96,0:00:58.10,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:58.10,0:00:58.14,Default,,0,0,0,,qualcosa, una cena {\1c&HFF00&\u1}a{\r} casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:58.14,0:00:58.22,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:58.22,0:00:58.52,Default,,0,0,0,,qualcosa, una cena a {\1c&HFF00&\u1}casa.{\r} Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:58.52,0:00:58.75,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:58.75,0:00:58.97,Default,,0,0,0,,qualcosa, una cena a casa. {\1c&HFF00&\u1}Spesso{\r} si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:58.97,0:00:59.05,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:59.05,0:00:59.11,Default,,0,0,0,,qualcosa, una cena a casa. Spesso {\1c&HFF00&\u1}si{\r} parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:59.11,0:00:59.19,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:59.19,0:00:59.39,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si {\1c&HFF00&\u1}parla{\r} di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:59.39,0:00:59.47,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:59.47,0:00:59.51,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla {\1c&HFF00&\u1}di{\r} sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:59.51,0:00:59.59,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:00:59.59,0:01:0.23,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di {\1c&HFF00&\u1}sacrifici,{\r} per me nulla è un sacrificio
+Dialogue: 0,0:01:0.23,0:01:0.53,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:01:0.53,0:01:0.65,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, {\1c&HFF00&\u1}per{\r} me nulla è un sacrificio
+Dialogue: 0,0:01:0.65,0:01:0.69,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:01:0.69,0:01:0.83,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per {\1c&HFF00&\u1}me{\r} nulla è un sacrificio
+Dialogue: 0,0:01:0.83,0:01:0.91,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:01:0.91,0:01:1.15,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me {\1c&HFF00&\u1}nulla{\r} è un sacrificio
+Dialogue: 0,0:01:1.15,0:01:1.17,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:01:1.17,0:01:1.19,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla {\1c&HFF00&\u1}è{\r} un sacrificio
+Dialogue: 0,0:01:1.19,0:01:1.23,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:01:1.23,0:01:1.31,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è {\1c&HFF00&\u1}un{\r} sacrificio
+Dialogue: 0,0:01:1.31,0:01:1.35,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un sacrificio
+Dialogue: 0,0:01:1.35,0:01:1.89,Default,,0,0,0,,qualcosa, una cena a casa. Spesso si parla di sacrifici, per me nulla è un {\1c&HFF00&\u1}sacrificio{\r}
+Dialogue: 0,0:01:1.90,0:01:2.16,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:2.16,0:01:2.18,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:2.18,0:01:2.26,Default,,0,0,0,,se {\1c&HFF00&\u1}non{\r} hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:2.26,0:01:2.28,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:2.28,0:01:2.38,Default,,0,0,0,,se non {\1c&HFF00&\u1}hai{\r} visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:2.38,0:01:2.50,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:2.50,0:01:2.86,Default,,0,0,0,,se non hai {\1c&HFF00&\u1}visto{\r} come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:2.86,0:01:3.20,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:3.20,0:01:3.36,Default,,0,0,0,,se non hai visto {\1c&HFF00&\u1}come{\r} è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:3.36,0:01:3.38,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:3.38,0:01:3.40,Default,,0,0,0,,se non hai visto come {\1c&HFF00&\u1}è{\r} tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:3.40,0:01:3.48,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:3.48,0:01:3.84,Default,,0,0,0,,se non hai visto come è {\1c&HFF00&\u1}tale.{\r} Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:3.84,0:01:3.97,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:3.97,0:01:4.03,Default,,0,0,0,,se non hai visto come è tale. {\1c&HFF00&\u1}Io{\r} adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:4.03,0:01:4.07,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:4.07,0:01:4.33,Default,,0,0,0,,se non hai visto come è tale. Io {\1c&HFF00&\u1}adoro{\r} risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:4.33,0:01:4.39,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:4.39,0:01:5.07,Default,,0,0,0,,se non hai visto come è tale. Io adoro {\1c&HFF00&\u1}risparmiare,{\r} mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:5.07,0:01:5.13,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:5.13,0:01:5.19,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, {\1c&HFF00&\u1}mi{\r} piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:5.19,0:01:5.25,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:5.25,0:01:5.51,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi {\1c&HFF00&\u1}piace{\r} dare valore al mio tempo, al mio
+Dialogue: 0,0:01:5.51,0:01:5.59,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:5.59,0:01:5.85,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace {\1c&HFF00&\u1}dare{\r} valore al mio tempo, al mio
+Dialogue: 0,0:01:5.85,0:01:6.07,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:6.07,0:01:6.55,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare {\1c&HFF00&\u1}valore{\r} al mio tempo, al mio
+Dialogue: 0,0:01:6.55,0:01:6.77,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:6.77,0:01:6.85,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore {\1c&HFF00&\u1}al{\r} mio tempo, al mio
+Dialogue: 0,0:01:6.85,0:01:6.89,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:6.89,0:01:6.99,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al {\1c&HFF00&\u1}mio{\r} tempo, al mio
+Dialogue: 0,0:01:6.99,0:01:7.07,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:7.07,0:01:7.53,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio {\1c&HFF00&\u1}tempo,{\r} al mio
+Dialogue: 0,0:01:7.53,0:01:7.81,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:7.81,0:01:7.91,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, {\1c&HFF00&\u1}al{\r} mio
+Dialogue: 0,0:01:7.91,0:01:7.95,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al mio
+Dialogue: 0,0:01:7.95,0:01:8.04,Default,,0,0,0,,se non hai visto come è tale. Io adoro risparmiare, mi piace dare valore al mio tempo, al {\1c&HFF00&\u1}mio{\r}
+Dialogue: 0,0:01:8.02,0:01:8.86,Default,,0,0,0,,{\1c&HFF00&\u1}denaro{\r} e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:8.86,0:01:8.88,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:8.88,0:01:8.90,Default,,0,0,0,,denaro {\1c&HFF00&\u1}e{\r} agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:8.90,0:01:8.92,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:8.92,0:01:9.04,Default,,0,0,0,,denaro e {\1c&HFF00&\u1}agli{\r} oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:9.04,0:01:9.10,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:9.10,0:01:9.56,Default,,0,0,0,,denaro e agli {\1c&HFF00&\u1}oggetti{\r} che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:9.56,0:01:9.60,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:9.60,0:01:9.70,Default,,0,0,0,,denaro e agli oggetti {\1c&HFF00&\u1}che{\r} possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:9.70,0:01:9.76,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:9.76,0:01:10.23,Default,,0,0,0,,denaro e agli oggetti che {\1c&HFF00&\u1}possiedo.{\r} Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:10.23,0:01:10.43,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:10.43,0:01:10.49,Default,,0,0,0,,denaro e agli oggetti che possiedo. {\1c&HFF00&\u1}Se{\r} avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:10.49,0:01:10.53,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:10.53,0:01:10.83,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se {\1c&HFF00&\u1}avessi{\r} tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:10.83,0:01:10.91,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:10.91,0:01:11.13,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi {\1c&HFF00&\u1}tanti{\r} soldi preferirei lavorare meno che
+Dialogue: 0,0:01:11.13,0:01:11.21,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:11.21,0:01:11.51,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti {\1c&HFF00&\u1}soldi{\r} preferirei lavorare meno che
+Dialogue: 0,0:01:11.51,0:01:11.63,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:11.63,0:01:12.19,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi {\1c&HFF00&\u1}preferirei{\r} lavorare meno che
+Dialogue: 0,0:01:12.19,0:01:12.43,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:12.43,0:01:12.73,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei {\1c&HFF00&\u1}lavorare{\r} meno che
+Dialogue: 0,0:01:12.73,0:01:12.83,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:12.83,0:01:13.07,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare {\1c&HFF00&\u1}meno{\r} che
+Dialogue: 0,0:01:13.07,0:01:13.35,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno che
+Dialogue: 0,0:01:13.35,0:01:13.41,Default,,0,0,0,,denaro e agli oggetti che possiedo. Se avessi tanti soldi preferirei lavorare meno {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:01:13.42,0:01:14.20,Default,,0,0,0,,{\1c&HFF00&\u1}spendere{\r} di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.20,0:01:14.32,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.32,0:01:14.36,Default,,0,0,0,,spendere {\1c&HFF00&\u1}di{\r} più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.36,0:01:14.38,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.38,0:01:14.44,Default,,0,0,0,,spendere di {\1c&HFF00&\u1}più.{\r} È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.44,0:01:14.46,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.46,0:01:14.48,Default,,0,0,0,,spendere di più. {\1c&HFF00&\u1}È{\r} tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.48,0:01:14.54,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.54,0:01:14.74,Default,,0,0,0,,spendere di più. È {\1c&HFF00&\u1}tutto{\r} uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.74,0:01:14.80,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.80,0:01:14.96,Default,,0,0,0,,spendere di più. È tutto {\1c&HFF00&\u1}uno{\r} scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:14.96,0:01:15.02,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:15.02,0:01:15.53,Default,,0,0,0,,spendere di più. È tutto uno {\1c&HFF00&\u1}scambio{\r} e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:15.53,0:01:16.15,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.15,0:01:16.19,Default,,0,0,0,,spendere di più. È tutto uno scambio {\1c&HFF00&\u1}e{\r} si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.19,0:01:16.25,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.25,0:01:16.31,Default,,0,0,0,,spendere di più. È tutto uno scambio e {\1c&HFF00&\u1}si{\r} tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.31,0:01:16.39,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.39,0:01:16.63,Default,,0,0,0,,spendere di più. È tutto uno scambio e si {\1c&HFF00&\u1}tratta{\r} di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.63,0:01:16.71,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.71,0:01:16.77,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta {\1c&HFF00&\u1}di{\r} cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.77,0:01:16.87,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:16.87,0:01:17.05,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di {\1c&HFF00&\u1}cosa{\r} sei disposto a rinunciare per
+Dialogue: 0,0:01:17.05,0:01:17.11,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:17.11,0:01:17.23,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa {\1c&HFF00&\u1}sei{\r} disposto a rinunciare per
+Dialogue: 0,0:01:17.23,0:01:17.29,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:17.29,0:01:18.01,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei {\1c&HFF00&\u1}disposto{\r} a rinunciare per
+Dialogue: 0,0:01:18.01,0:01:18.33,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:18.33,0:01:18.37,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto {\1c&HFF00&\u1}a{\r} rinunciare per
+Dialogue: 0,0:01:18.37,0:01:18.41,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:18.41,0:01:19.15,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a {\1c&HFF00&\u1}rinunciare{\r} per
+Dialogue: 0,0:01:19.15,0:01:19.61,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare per
+Dialogue: 0,0:01:19.61,0:01:19.70,Default,,0,0,0,,spendere di più. È tutto uno scambio e si tratta di cosa sei disposto a rinunciare {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:01:19.86,0:01:20.06,Default,,0,0,0,,{\1c&HFF00&\u1}avere{\r} dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:20.06,0:01:20.12,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:20.12,0:01:20.18,Default,,0,0,0,,avere {\1c&HFF00&\u1}dei{\r} soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:20.18,0:01:20.26,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:20.26,0:01:20.50,Default,,0,0,0,,avere dei {\1c&HFF00&\u1}soldi{\r} extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:20.50,0:01:20.58,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:20.58,0:01:20.94,Default,,0,0,0,,avere dei soldi {\1c&HFF00&\u1}extra{\r} nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:20.94,0:01:21.22,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:21.22,0:01:21.36,Default,,0,0,0,,avere dei soldi extra {\1c&HFF00&\u1}nel{\r} conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:21.36,0:01:21.44,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:21.44,0:01:21.87,Default,,0,0,0,,avere dei soldi extra nel {\1c&HFF00&\u1}conto.{\r} Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:21.87,0:01:22.27,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:22.27,0:01:22.35,Default,,0,0,0,,avere dei soldi extra nel conto. {\1c&HFF00&\u1}Io{\r} rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:22.35,0:01:22.41,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:22.41,0:01:22.75,Default,,0,0,0,,avere dei soldi extra nel conto. Io {\1c&HFF00&\u1}rinuncio{\r} tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:22.75,0:01:22.81,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:22.81,0:01:23.43,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio {\1c&HFF00&\u1}tranquillamente{\r} alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:23.43,0:01:23.47,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:23.47,0:01:23.61,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente {\1c&HFF00&\u1}alle{\r} unghie fatte dall'estetista,
+Dialogue: 0,0:01:23.61,0:01:23.65,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:23.65,0:01:24.03,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle {\1c&HFF00&\u1}unghie{\r} fatte dall'estetista,
+Dialogue: 0,0:01:24.03,0:01:24.11,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:24.11,0:01:24.33,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie {\1c&HFF00&\u1}fatte{\r} dall'estetista,
+Dialogue: 0,0:01:24.33,0:01:24.37,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte dall'estetista,
+Dialogue: 0,0:01:24.37,0:01:25.15,Default,,0,0,0,,avere dei soldi extra nel conto. Io rinuncio tranquillamente alle unghie fatte {\1c&HFF00&\u1}dall'estetista,{\r}
+Dialogue: 0,0:01:25.96,0:01:26.08,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.08,0:01:26.12,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.12,0:01:26.30,Default,,0,0,0,,non {\1c&HFF00&\u1}vedo{\r} l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.30,0:01:26.40,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.40,0:01:26.58,Default,,0,0,0,,non vedo {\1c&HFF00&\u1}l'ora{\r} di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.58,0:01:26.62,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.62,0:01:26.70,Default,,0,0,0,,non vedo l'ora {\1c&HFF00&\u1}di{\r} andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.70,0:01:26.74,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.74,0:01:26.96,Default,,0,0,0,,non vedo l'ora di {\1c&HFF00&\u1}andare{\r} alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:26.96,0:01:27.00,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:27.00,0:01:27.14,Default,,0,0,0,,non vedo l'ora di andare {\1c&HFF00&\u1}alle{\r} terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:27.14,0:01:27.20,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:27.20,0:01:27.53,Default,,0,0,0,,non vedo l'ora di andare alle {\1c&HFF00&\u1}terme{\r} e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:27.53,0:01:27.91,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:27.91,0:01:27.95,Default,,0,0,0,,non vedo l'ora di andare alle terme {\1c&HFF00&\u1}e{\r} farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:27.95,0:01:28.01,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:28.01,0:01:28.23,Default,,0,0,0,,non vedo l'ora di andare alle terme e {\1c&HFF00&\u1}farmi{\r} un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:28.23,0:01:28.27,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:28.27,0:01:28.31,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi {\1c&HFF00&\u1}un{\r} massaggio e posso permettermelo perché
+Dialogue: 0,0:01:28.31,0:01:28.35,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:28.35,0:01:28.89,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un {\1c&HFF00&\u1}massaggio{\r} e posso permettermelo perché
+Dialogue: 0,0:01:28.89,0:01:29.15,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:29.15,0:01:29.17,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio {\1c&HFF00&\u1}e{\r} posso permettermelo perché
+Dialogue: 0,0:01:29.17,0:01:29.23,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:29.23,0:01:29.45,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e {\1c&HFF00&\u1}posso{\r} permettermelo perché
+Dialogue: 0,0:01:29.45,0:01:29.51,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:29.51,0:01:30.17,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso {\1c&HFF00&\u1}permettermelo{\r} perché
+Dialogue: 0,0:01:30.17,0:01:30.51,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo perché
+Dialogue: 0,0:01:30.51,0:01:30.79,Default,,0,0,0,,non vedo l'ora di andare alle terme e farmi un massaggio e posso permettermelo {\1c&HFF00&\u1}perché{\r}
+Dialogue: 0,0:01:33.63,0:01:33.91,Default,,0,0,0,,{\1c&HFF00&\u1}rinuncio{\r} ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:33.91,0:01:33.93,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:33.93,0:01:34.23,Default,,0,0,0,,rinuncio {\1c&HFF00&\u1}ad{\r} altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:34.23,0:01:34.35,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:34.35,0:01:34.59,Default,,0,0,0,,rinuncio ad {\1c&HFF00&\u1}altre{\r} cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:34.59,0:01:34.79,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:34.79,0:01:35.23,Default,,0,0,0,,rinuncio ad altre {\1c&HFF00&\u1}cose{\r} per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.23,0:01:35.27,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.27,0:01:35.45,Default,,0,0,0,,rinuncio ad altre cose {\1c&HFF00&\u1}per{\r} me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.45,0:01:35.47,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.47,0:01:35.51,Default,,0,0,0,,rinuncio ad altre cose per {\1c&HFF00&\u1}me{\r} meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.51,0:01:35.55,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.55,0:01:35.73,Default,,0,0,0,,rinuncio ad altre cose per me {\1c&HFF00&\u1}meno{\r} importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.73,0:01:35.83,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:35.83,0:01:36.36,Default,,0,0,0,,rinuncio ad altre cose per me meno {\1c&HFF00&\u1}importanti.{\r} Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.36,0:01:36.38,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.38,0:01:36.52,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. {\1c&HFF00&\u1}Quello{\r} che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.52,0:01:36.54,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.54,0:01:36.60,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello {\1c&HFF00&\u1}che{\r} so è che non mi succederà mai,
+Dialogue: 0,0:01:36.60,0:01:36.68,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.68,0:01:36.72,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che {\1c&HFF00&\u1}so{\r} è che non mi succederà mai,
+Dialogue: 0,0:01:36.72,0:01:36.74,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.74,0:01:36.78,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so {\1c&HFF00&\u1}è{\r} che non mi succederà mai,
+Dialogue: 0,0:01:36.78,0:01:36.80,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.80,0:01:36.86,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è {\1c&HFF00&\u1}che{\r} non mi succederà mai,
+Dialogue: 0,0:01:36.86,0:01:36.88,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.88,0:01:36.94,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che {\1c&HFF00&\u1}non{\r} mi succederà mai,
+Dialogue: 0,0:01:36.94,0:01:36.96,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:36.96,0:01:37.00,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non {\1c&HFF00&\u1}mi{\r} succederà mai,
+Dialogue: 0,0:01:37.00,0:01:37.02,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:37.02,0:01:37.24,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi {\1c&HFF00&\u1}succederà{\r} mai,
+Dialogue: 0,0:01:37.24,0:01:37.26,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà mai,
+Dialogue: 0,0:01:37.26,0:01:37.32,Default,,0,0,0,,rinuncio ad altre cose per me meno importanti. Quello che so è che non mi succederà {\1c&HFF00&\u1}mai,{\r}
+Dialogue: 0,0:01:36.10,0:01:36.78,Default,,0,0,0,,{\1c&HFF00&\u1}guardandomi{\r} indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:36.78,0:01:36.80,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:36.80,0:01:37.52,Default,,0,0,0,,guardandomi {\1c&HFF00&\u1}indietro,{\r} di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:37.52,0:01:37.56,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:37.56,0:01:37.76,Default,,0,0,0,,guardandomi indietro, {\1c&HFF00&\u1}di{\r} pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:37.76,0:01:37.82,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:37.82,0:01:38.36,Default,,0,0,0,,guardandomi indietro, di {\1c&HFF00&\u1}pensare{\r} se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:38.36,0:01:38.93,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:38.93,0:01:39.01,Default,,0,0,0,,guardandomi indietro, di pensare {\1c&HFF00&\u1}se{\r} solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:39.01,0:01:39.11,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:39.11,0:01:39.33,Default,,0,0,0,,guardandomi indietro, di pensare se {\1c&HFF00&\u1}solo{\r} avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:39.33,0:01:39.37,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:39.37,0:01:39.95,Default,,0,0,0,,guardandomi indietro, di pensare se solo {\1c&HFF00&\u1}avessi{\r} comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:39.95,0:01:40.37,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:40.37,0:01:40.79,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi {\1c&HFF00&\u1}comprato{\r} quelle scarpe o quella tazza
+Dialogue: 0,0:01:40.79,0:01:40.85,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:40.85,0:01:41.07,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato {\1c&HFF00&\u1}quelle{\r} scarpe o quella tazza
+Dialogue: 0,0:01:41.07,0:01:41.13,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:41.13,0:01:41.69,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle {\1c&HFF00&\u1}scarpe{\r} o quella tazza
+Dialogue: 0,0:01:41.69,0:01:42.17,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:42.17,0:01:42.27,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe {\1c&HFF00&\u1}o{\r} quella tazza
+Dialogue: 0,0:01:42.27,0:01:42.41,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:42.41,0:01:42.91,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o {\1c&HFF00&\u1}quella{\r} tazza
+Dialogue: 0,0:01:42.91,0:01:43.44,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella tazza
+Dialogue: 0,0:01:43.44,0:01:43.88,Default,,0,0,0,,guardandomi indietro, di pensare se solo avessi comprato quelle scarpe o quella {\1c&HFF00&\u1}tazza{\r}
+Dialogue: 0,0:01:43.86,0:01:43.88,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:43.88,0:01:43.90,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:43.90,0:01:43.98,Default,,0,0,0,,o {\1c&HFF00&\u1}quel{\r} mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:43.98,0:01:44.00,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.00,0:01:44.12,Default,,0,0,0,,o quel {\1c&HFF00&\u1}mobile{\r} o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.12,0:01:44.14,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.14,0:01:44.16,Default,,0,0,0,,o quel mobile {\1c&HFF00&\u1}o{\r} se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.16,0:01:44.18,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.18,0:01:44.22,Default,,0,0,0,,o quel mobile o {\1c&HFF00&\u1}se{\r} solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.22,0:01:44.24,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.24,0:01:44.32,Default,,0,0,0,,o quel mobile o se {\1c&HFF00&\u1}solo{\r} avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.32,0:01:44.34,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.34,0:01:44.46,Default,,0,0,0,,o quel mobile o se solo {\1c&HFF00&\u1}avessi{\r} preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.46,0:01:44.48,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.48,0:01:44.58,Default,,0,0,0,,o quel mobile o se solo avessi {\1c&HFF00&\u1}preso{\r} cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.58,0:01:44.60,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.60,0:01:44.68,Default,,0,0,0,,o quel mobile o se solo avessi preso {\1c&HFF00&\u1}cibo{\r} da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.68,0:01:44.70,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.70,0:01:44.74,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo {\1c&HFF00&\u1}da{\r} sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.74,0:01:44.76,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.76,0:01:44.86,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da {\1c&HFF00&\u1}sport{\r} più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.86,0:01:44.88,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.88,0:01:44.98,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport {\1c&HFF00&\u1}più{\r} volte a settimana, ma piuttosto
+Dialogue: 0,0:01:44.98,0:01:45.00,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:45.00,0:01:45.14,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più {\1c&HFF00&\u1}volte{\r} a settimana, ma piuttosto
+Dialogue: 0,0:01:45.14,0:01:45.16,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:45.16,0:01:45.18,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte {\1c&HFF00&\u1}a{\r} settimana, ma piuttosto
+Dialogue: 0,0:01:45.18,0:01:45.20,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:45.20,0:01:45.48,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a {\1c&HFF00&\u1}settimana,{\r} ma piuttosto
+Dialogue: 0,0:01:45.48,0:01:45.50,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:45.50,0:01:45.54,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, {\1c&HFF00&\u1}ma{\r} piuttosto
+Dialogue: 0,0:01:45.54,0:01:45.60,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma piuttosto
+Dialogue: 0,0:01:45.60,0:01:45.85,Default,,0,0,0,,o quel mobile o se solo avessi preso cibo da sport più volte a settimana, ma {\1c&HFF00&\u1}piuttosto{\r}
+Dialogue: 0,0:01:49.56,0:01:49.66,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:49.66,0:01:49.78,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:49.78,0:01:49.98,Default,,0,0,0,,se {\1c&HFF00&\u1}solo{\r} avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:49.98,0:01:50.00,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:50.00,0:01:50.34,Default,,0,0,0,,se solo {\1c&HFF00&\u1}avessi{\r} risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:50.34,0:01:50.42,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:50.42,0:01:51.02,Default,,0,0,0,,se solo avessi {\1c&HFF00&\u1}risparmiato{\r} un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.02,0:01:51.08,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.08,0:01:51.15,Default,,0,0,0,,se solo avessi risparmiato {\1c&HFF00&\u1}un{\r} po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.15,0:01:51.19,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.19,0:01:51.31,Default,,0,0,0,,se solo avessi risparmiato un {\1c&HFF00&\u1}po'{\r} di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.31,0:01:51.35,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.35,0:01:51.41,Default,,0,0,0,,se solo avessi risparmiato un po' {\1c&HFF00&\u1}di{\r} più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.41,0:01:51.51,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.51,0:01:51.67,Default,,0,0,0,,se solo avessi risparmiato un po' di {\1c&HFF00&\u1}più.{\r} Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.67,0:01:51.93,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:51.93,0:01:52.27,Default,,0,0,0,,se solo avessi risparmiato un po' di più. {\1c&HFF00&\u1}Guardando{\r} indietro sono felice di non aver
+Dialogue: 0,0:01:52.27,0:01:52.33,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:52.33,0:01:52.71,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando {\1c&HFF00&\u1}indietro{\r} sono felice di non aver
+Dialogue: 0,0:01:52.71,0:01:52.77,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:52.77,0:01:52.95,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro {\1c&HFF00&\u1}sono{\r} felice di non aver
+Dialogue: 0,0:01:52.95,0:01:53.03,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:53.03,0:01:53.37,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono {\1c&HFF00&\u1}felice{\r} di non aver
+Dialogue: 0,0:01:53.37,0:01:53.43,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:53.43,0:01:53.51,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice {\1c&HFF00&\u1}di{\r} non aver
+Dialogue: 0,0:01:53.51,0:01:53.55,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:53.55,0:01:53.65,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di {\1c&HFF00&\u1}non{\r} aver
+Dialogue: 0,0:01:53.65,0:01:53.71,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non aver
+Dialogue: 0,0:01:53.71,0:01:53.85,Default,,0,0,0,,se solo avessi risparmiato un po' di più. Guardando indietro sono felice di non {\1c&HFF00&\u1}aver{\r}
+Dialogue: 0,0:01:54.22,0:01:55.26,Default,,0,0,0,,{\1c&HFF00&\u1}scambiato{\r} il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:55.26,0:01:55.32,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:55.32,0:01:55.38,Default,,0,0,0,,scambiato {\1c&HFF00&\u1}il{\r} mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:55.38,0:01:55.42,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:55.42,0:01:55.56,Default,,0,0,0,,scambiato il {\1c&HFF00&\u1}mio{\r} denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:55.56,0:01:55.66,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:55.66,0:01:56.06,Default,,0,0,0,,scambiato il mio {\1c&HFF00&\u1}denaro{\r} con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:56.06,0:01:56.18,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:56.18,0:01:56.30,Default,,0,0,0,,scambiato il mio denaro {\1c&HFF00&\u1}con{\r} certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:56.30,0:01:56.36,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:56.36,0:01:56.71,Default,,0,0,0,,scambiato il mio denaro con {\1c&HFF00&\u1}certi{\r} prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:56.71,0:01:56.81,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:56.81,0:01:57.35,Default,,0,0,0,,scambiato il mio denaro con certi {\1c&HFF00&\u1}prodotti{\r} o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:57.35,0:01:57.59,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:57.59,0:01:57.67,Default,,0,0,0,,scambiato il mio denaro con certi prodotti {\1c&HFF00&\u1}o{\r} servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:57.67,0:01:57.81,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:57.81,0:01:58.41,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o {\1c&HFF00&\u1}servizi{\r} e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:58.41,0:01:58.91,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:58.91,0:01:58.95,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi {\1c&HFF00&\u1}e{\r} adesso vedo i risultati positivi.
+Dialogue: 0,0:01:58.95,0:01:58.99,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:58.99,0:01:59.23,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e {\1c&HFF00&\u1}adesso{\r} vedo i risultati positivi.
+Dialogue: 0,0:01:59.23,0:01:59.29,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:59.29,0:01:59.47,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso {\1c&HFF00&\u1}vedo{\r} i risultati positivi.
+Dialogue: 0,0:01:59.47,0:01:59.49,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:59.49,0:01:59.53,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo {\1c&HFF00&\u1}i{\r} risultati positivi.
+Dialogue: 0,0:01:59.53,0:01:59.57,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:01:59.57,0:02:0.03,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i {\1c&HFF00&\u1}risultati{\r} positivi.
+Dialogue: 0,0:02:0.03,0:02:0.11,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati positivi.
+Dialogue: 0,0:02:0.11,0:02:0.65,Default,,0,0,0,,scambiato il mio denaro con certi prodotti o servizi e adesso vedo i risultati {\1c&HFF00&\u1}positivi.{\r}
+Dialogue: 0,0:02:0.94,0:02:1.14,Default,,0,0,0,,{\1c&HFF00&\u1}Questo{\r} per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.14,0:02:1.18,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.18,0:02:1.28,Default,,0,0,0,,Questo {\1c&HFF00&\u1}per{\r} me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.28,0:02:1.34,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.34,0:02:1.48,Default,,0,0,0,,Questo per {\1c&HFF00&\u1}me{\r} è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.48,0:02:1.60,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.60,0:02:1.64,Default,,0,0,0,,Questo per me {\1c&HFF00&\u1}è{\r} vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.64,0:02:1.70,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.70,0:02:1.92,Default,,0,0,0,,Questo per me è {\1c&HFF00&\u1}vivi{\r} una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.92,0:02:1.96,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:1.96,0:02:2.08,Default,,0,0,0,,Questo per me è vivi {\1c&HFF00&\u1}una{\r} sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:2.08,0:02:2.16,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:2.16,0:02:2.38,Default,,0,0,0,,Questo per me è vivi una {\1c&HFF00&\u1}sola{\r} volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:2.38,0:02:2.44,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:2.44,0:02:2.87,Default,,0,0,0,,Questo per me è vivi una sola {\1c&HFF00&\u1}volta,{\r} non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:2.87,0:02:3.21,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:3.21,0:02:3.33,Default,,0,0,0,,Questo per me è vivi una sola volta, {\1c&HFF00&\u1}non{\r} scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:3.33,0:02:3.37,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:3.37,0:02:3.77,Default,,0,0,0,,Questo per me è vivi una sola volta, non {\1c&HFF00&\u1}scambiare{\r} questa mia unica possibilità di
+Dialogue: 0,0:02:3.77,0:02:3.83,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:3.83,0:02:4.03,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare {\1c&HFF00&\u1}questa{\r} mia unica possibilità di
+Dialogue: 0,0:02:4.03,0:02:4.09,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:4.09,0:02:4.23,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa {\1c&HFF00&\u1}mia{\r} unica possibilità di
+Dialogue: 0,0:02:4.23,0:02:4.39,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:4.39,0:02:4.63,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia {\1c&HFF00&\u1}unica{\r} possibilità di
+Dialogue: 0,0:02:4.63,0:02:4.69,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:4.69,0:02:5.31,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica {\1c&HFF00&\u1}possibilità{\r} di
+Dialogue: 0,0:02:5.31,0:02:5.65,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità di
+Dialogue: 0,0:02:5.65,0:02:5.71,Default,,0,0,0,,Questo per me è vivi una sola volta, non scambiare questa mia unica possibilità {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:02:5.92,0:02:6.18,Default,,0,0,0,,{\1c&HFF00&\u1}vivere{\r} per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:6.18,0:02:6.96,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:6.96,0:02:7.08,Default,,0,0,0,,vivere {\1c&HFF00&\u1}per{\r} ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.08,0:02:7.16,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.16,0:02:7.26,Default,,0,0,0,,vivere per {\1c&HFF00&\u1}ciò{\r} che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.26,0:02:7.30,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.30,0:02:7.42,Default,,0,0,0,,vivere per ciò {\1c&HFF00&\u1}che{\r} è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.42,0:02:7.44,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.44,0:02:7.46,Default,,0,0,0,,vivere per ciò che {\1c&HFF00&\u1}è{\r} superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.46,0:02:7.54,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:7.54,0:02:8.07,Default,,0,0,0,,vivere per ciò che è {\1c&HFF00&\u1}superfluo,{\r} per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.07,0:02:8.37,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.37,0:02:8.49,Default,,0,0,0,,vivere per ciò che è superfluo, {\1c&HFF00&\u1}per{\r} ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.49,0:02:8.57,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.57,0:02:8.67,Default,,0,0,0,,vivere per ciò che è superfluo, per {\1c&HFF00&\u1}ciò{\r} di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.67,0:02:8.73,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.73,0:02:8.79,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò {\1c&HFF00&\u1}di{\r} cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.79,0:02:8.85,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.85,0:02:8.97,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di {\1c&HFF00&\u1}cui{\r} posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:8.97,0:02:9.07,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:9.07,0:02:9.27,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui {\1c&HFF00&\u1}posso{\r} farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:9.27,0:02:9.33,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:9.33,0:02:9.61,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso {\1c&HFF00&\u1}farne{\r} a meno. Sul denaro e sul
+Dialogue: 0,0:02:9.61,0:02:9.65,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:9.65,0:02:9.69,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne {\1c&HFF00&\u1}a{\r} meno. Sul denaro e sul
+Dialogue: 0,0:02:9.69,0:02:9.75,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:9.75,0:02:10.01,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a {\1c&HFF00&\u1}meno.{\r} Sul denaro e sul
+Dialogue: 0,0:02:10.01,0:02:10.31,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:10.31,0:02:10.49,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. {\1c&HFF00&\u1}Sul{\r} denaro e sul
+Dialogue: 0,0:02:10.49,0:02:10.53,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:10.53,0:02:10.97,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul {\1c&HFF00&\u1}denaro{\r} e sul
+Dialogue: 0,0:02:10.97,0:02:11.13,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:11.13,0:02:11.19,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro {\1c&HFF00&\u1}e{\r} sul
+Dialogue: 0,0:02:11.19,0:02:11.25,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e sul
+Dialogue: 0,0:02:11.25,0:02:11.37,Default,,0,0,0,,vivere per ciò che è superfluo, per ciò di cui posso farne a meno. Sul denaro e {\1c&HFF00&\u1}sul{\r}
+Dialogue: 0,0:02:11.40,0:02:12.08,Default,,0,0,0,,{\1c&HFF00&\u1}risparmio{\r} ho fatto anche questi due video.
+Dialogue: 0,0:02:12.08,0:02:12.24,Default,,0,0,0,,risparmio ho fatto anche questi due video.
+Dialogue: 0,0:02:12.24,0:02:12.36,Default,,0,0,0,,risparmio {\1c&HFF00&\u1}ho{\r} fatto anche questi due video.
+Dialogue: 0,0:02:12.36,0:02:12.38,Default,,0,0,0,,risparmio ho fatto anche questi due video.
+Dialogue: 0,0:02:12.38,0:02:12.58,Default,,0,0,0,,risparmio ho {\1c&HFF00&\u1}fatto{\r} anche questi due video.
+Dialogue: 0,0:02:12.58,0:02:12.66,Default,,0,0,0,,risparmio ho fatto anche questi due video.
+Dialogue: 0,0:02:12.66,0:02:12.84,Default,,0,0,0,,risparmio ho fatto {\1c&HFF00&\u1}anche{\r} questi due video.
+Dialogue: 0,0:02:12.84,0:02:12.94,Default,,0,0,0,,risparmio ho fatto anche questi due video.
+Dialogue: 0,0:02:12.94,0:02:13.28,Default,,0,0,0,,risparmio ho fatto anche {\1c&HFF00&\u1}questi{\r} due video.
+Dialogue: 0,0:02:13.28,0:02:13.30,Default,,0,0,0,,risparmio ho fatto anche questi due video.
+Dialogue: 0,0:02:13.30,0:02:14.74,Default,,0,0,0,,risparmio ho fatto anche questi {\1c&HFF00&\u1}due{\r} video.
+Dialogue: 0,0:02:14.74,0:02:14.76,Default,,0,0,0,,risparmio ho fatto anche questi due video.
+Dialogue: 0,0:02:14.76,0:02:14.90,Default,,0,0,0,,risparmio ho fatto anche questi due {\1c&HFF00&\u1}video.{\r}
