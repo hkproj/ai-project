@@ -132,6 +132,9 @@ dmypy.json
 data/clips
 data/raw_videos
 
+data/branches/**/*.mp4
+data/branches/**/*.aac
+
 donotstore/
 
 logs/
