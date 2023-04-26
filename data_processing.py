@@ -21,7 +21,7 @@ def _extractFacesFromFrame(index: int, rgbFrame):
     faceEncodings = face_recognition.face_encodings(rgbFrame, faceLocations)
     return index, faceLocations, faceEncodings
 
-def handleCleanTranscript(videoIds: list[str]) -> None:
+def _checkClipsVideoIds(videoIds: list[str]) -> list[str]:
     if videoIds is None:
         # Get all the videoIds from the clips folder
         videoIds = []
@@ -35,6 +35,11 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
         clipsPath = fs.getClipsPath(videoId)
         if not Path.exists(Path(clipsPath)):
             raise FileNotFoundError()
+    
+    return videoIds
+
+def handleCleanTranscript(videoIds: list[str]) -> None:
+    videoIds = _checkClipsVideoIds(videoIds)
     
     logger.debug(f'Will clean punctuations from {len(videoIds)} videos')
 
@@ -92,19 +97,7 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
                 srt.saveToFile(srtFilePath, allWords)
 
 def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
-    if videoIds is None:
-        # Get all the videoIds from the clips folder
-        videoIds = []
-        path = Path(fs.getClipsFolderPath())
-        for item in path.iterdir():
-            if not item.is_file():
-                videoIds.append(item.name)
-
-    for videoId in videoIds:
-        # Get the video's path
-        clipsPath = fs.getClipsPath(videoId)
-        if not Path.exists(Path(clipsPath)):
-            raise FileNotFoundError()
+    videoIds = _checkClipsVideoIds(videoIds)
     
     logger.debug(f'Will extract mini clips from {len(videoIds)} videos')
 
@@ -433,19 +426,7 @@ def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, work
             logger.info(f'Ignoring interval {index} because too short')
 
 def handleExtractAudio(videoIds: list[str], rebuild: bool = False) -> None:
-    if videoIds is None:
-        # Get all the videoIds from the clips folder
-        videoIds = []
-        path = Path(fs.getClipsFolderPath())
-        for item in path.iterdir():
-            if not item.is_file():
-                videoIds.append(item.name)
-
-    for videoId in videoIds:
-        # Get the video's path
-        clipsPath = fs.getClipsPath(videoId)
-        if not Path.exists(Path(clipsPath)):
-            raise FileNotFoundError()
+    videoIds = _checkClipsVideoIds(videoIds)
     
     logger.debug(f'Will extract audio from {len(videoIds)} videos')
 
@@ -466,19 +447,7 @@ def handleExtractAudio(videoIds: list[str], rebuild: bool = False) -> None:
                     break
 
 def handleTranscribeAudio(videoIds: list[str], rebuild: bool = False) -> None:
-    if videoIds is None:
-        # Get all the videoIds from the clips folder
-        videoIds = []
-        path = Path(fs.getClipsFolderPath())
-        for item in path.iterdir():
-            if not item.is_file():
-                videoIds.append(item.name)
-
-    for videoId in videoIds:
-        # Get the video's path
-        clipsPath = fs.getClipsPath(videoId)
-        if not Path.exists(Path(clipsPath)):
-            raise FileNotFoundError()
+    videoIds = _checkClipsVideoIds(videoIds)
     
     logger.info(f'Will transcribe audio from {len(videoIds)} video folders')
 
