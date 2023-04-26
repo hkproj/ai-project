@@ -1,0 +1,179 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.28,0:00:0.44,Default,,0,0,0,,{\1c&HFF00&\u1}fare{\r} il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:0.44,0:00:0.50,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:0.50,0:00:0.58,Default,,0,0,0,,fare {\1c&HFF00&\u1}il{\r} disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:0.58,0:00:0.60,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:0.60,0:00:1.24,Default,,0,0,0,,fare il {\1c&HFF00&\u1}disegnatore{\r} o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:1.24,0:00:1.48,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:1.48,0:00:1.52,Default,,0,0,0,,fare il disegnatore {\1c&HFF00&\u1}o{\r} il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:1.52,0:00:1.58,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:1.58,0:00:1.64,Default,,0,0,0,,fare il disegnatore o {\1c&HFF00&\u1}il{\r} lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:1.64,0:00:1.70,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:1.70,0:00:2.15,Default,,0,0,0,,fare il disegnatore o il {\1c&HFF00&\u1}lettore,{\r} ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.15,0:00:2.49,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.49,0:00:2.57,Default,,0,0,0,,fare il disegnatore o il lettore, {\1c&HFF00&\u1}ma{\r} il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.57,0:00:2.61,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.61,0:00:2.67,Default,,0,0,0,,fare il disegnatore o il lettore, ma {\1c&HFF00&\u1}il{\r} lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.67,0:00:2.69,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.69,0:00:2.91,Default,,0,0,0,,fare il disegnatore o il lettore, ma il {\1c&HFF00&\u1}lavoro{\r} principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.91,0:00:2.97,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:2.97,0:00:3.49,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro {\1c&HFF00&\u1}principale{\r} è farsi notare dal sito e servono
+Dialogue: 0,0:00:3.49,0:00:3.51,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:3.51,0:00:3.53,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale {\1c&HFF00&\u1}è{\r} farsi notare dal sito e servono
+Dialogue: 0,0:00:3.53,0:00:3.69,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:3.69,0:00:4.01,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è {\1c&HFF00&\u1}farsi{\r} notare dal sito e servono
+Dialogue: 0,0:00:4.01,0:00:4.11,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:4.11,0:00:4.41,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi {\1c&HFF00&\u1}notare{\r} dal sito e servono
+Dialogue: 0,0:00:4.41,0:00:4.47,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:4.47,0:00:4.61,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare {\1c&HFF00&\u1}dal{\r} sito e servono
+Dialogue: 0,0:00:4.61,0:00:4.71,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:4.71,0:00:5.03,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal {\1c&HFF00&\u1}sito{\r} e servono
+Dialogue: 0,0:00:5.03,0:00:5.37,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:5.37,0:00:5.39,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito {\1c&HFF00&\u1}e{\r} servono
+Dialogue: 0,0:00:5.39,0:00:5.47,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e servono
+Dialogue: 0,0:00:5.47,0:00:5.81,Default,,0,0,0,,fare il disegnatore o il lettore, ma il lavoro principale è farsi notare dal sito e {\1c&HFF00&\u1}servono{\r}
+Dialogue: 0,0:00:5.76,0:00:6.58,Default,,0,0,0,,{\1c&HFF00&\u1}competenze{\r} ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:6.58,0:00:6.66,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:6.66,0:00:6.78,Default,,0,0,0,,competenze {\1c&HFF00&\u1}ben{\r} diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:6.78,0:00:6.82,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:6.82,0:00:7.64,Default,,0,0,0,,competenze ben {\1c&HFF00&\u1}diverse.{\r} Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:7.64,0:00:7.66,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:7.66,0:00:7.76,Default,,0,0,0,,competenze ben diverse. {\1c&HFF00&\u1}Ma{\r} io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:7.76,0:00:7.84,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:7.84,0:00:7.92,Default,,0,0,0,,competenze ben diverse. Ma {\1c&HFF00&\u1}io{\r} invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:7.92,0:00:7.96,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:7.96,0:00:8.29,Default,,0,0,0,,competenze ben diverse. Ma io {\1c&HFF00&\u1}invece{\r} vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:8.29,0:00:8.35,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:8.35,0:00:8.43,Default,,0,0,0,,competenze ben diverse. Ma io invece {\1c&HFF00&\u1}vi{\r} spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:8.43,0:00:8.47,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:8.47,0:00:8.85,Default,,0,0,0,,competenze ben diverse. Ma io invece vi {\1c&HFF00&\u1}spiego{\r} passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:8.85,0:00:9.05,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:9.05,0:00:9.39,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego {\1c&HFF00&\u1}passo{\r} passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:9.39,0:00:9.45,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:9.45,0:00:9.81,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo {\1c&HFF00&\u1}passo{\r} questo metodo testato da me personalmente
+Dialogue: 0,0:00:9.81,0:00:10.19,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:10.19,0:00:10.47,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo {\1c&HFF00&\u1}questo{\r} metodo testato da me personalmente
+Dialogue: 0,0:00:10.47,0:00:10.57,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:10.57,0:00:10.93,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo {\1c&HFF00&\u1}metodo{\r} testato da me personalmente
+Dialogue: 0,0:00:10.93,0:00:11.05,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:11.05,0:00:11.57,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo {\1c&HFF00&\u1}testato{\r} da me personalmente
+Dialogue: 0,0:00:11.57,0:00:11.63,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:11.63,0:00:11.73,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato {\1c&HFF00&\u1}da{\r} me personalmente
+Dialogue: 0,0:00:11.73,0:00:11.79,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:11.79,0:00:11.91,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da {\1c&HFF00&\u1}me{\r} personalmente
+Dialogue: 0,0:00:11.91,0:00:12.09,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me personalmente
+Dialogue: 0,0:00:12.09,0:00:12.88,Default,,0,0,0,,competenze ben diverse. Ma io invece vi spiego passo passo questo metodo testato da me {\1c&HFF00&\u1}personalmente{\r}
+Dialogue: 0,0:00:12.84,0:00:13.54,Default,,0,0,0,,{\1c&HFF00&\u1}per 30{\r} giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:13.54,0:00:13.66,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:13.66,0:00:13.96,Default,,0,0,0,,per 30 {\1c&HFF00&\u1}giorni{\r} di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:13.96,0:00:14.42,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:14.42,0:00:14.50,Default,,0,0,0,,per 30 giorni {\1c&HFF00&\u1}di{\r} cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:14.50,0:00:14.56,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:14.56,0:00:14.70,Default,,0,0,0,,per 30 giorni di {\1c&HFF00&\u1}cui{\r} circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:14.70,0:00:14.76,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:14.76,0:00:15.08,Default,,0,0,0,,per 30 giorni di cui {\1c&HFF00&\u1}circa 20{\r} di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:15.08,0:00:15.51,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:15.51,0:00:15.61,Default,,0,0,0,,per 30 giorni di cui circa 20 {\1c&HFF00&\u1}di{\r} lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:15.61,0:00:15.65,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:15.65,0:00:15.89,Default,,0,0,0,,per 30 giorni di cui circa 20 di {\1c&HFF00&\u1}lavoro{\r} effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:15.89,0:00:15.93,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:15.93,0:00:16.47,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro {\1c&HFF00&\u1}effettivo{\r} che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:16.47,0:00:16.91,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:16.91,0:00:17.01,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo {\1c&HFF00&\u1}che{\r} mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.01,0:00:17.07,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.07,0:00:17.13,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che {\1c&HFF00&\u1}mi{\r} ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.13,0:00:17.15,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.15,0:00:17.21,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi {\1c&HFF00&\u1}ha{\r} fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.21,0:00:17.29,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.29,0:00:17.59,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha {\1c&HFF00&\u1}fatto{\r} guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.59,0:00:17.67,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:17.67,0:00:18.29,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto {\1c&HFF00&\u1}guadagnare{\r} esattamente 388 euro
+Dialogue: 0,0:00:18.29,0:00:18.47,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:18.47,0:00:19.21,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare {\1c&HFF00&\u1}esattamente 388{\r} euro
+Dialogue: 0,0:00:19.21,0:00:19.25,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 euro
+Dialogue: 0,0:00:19.25,0:00:19.41,Default,,0,0,0,,per 30 giorni di cui circa 20 di lavoro effettivo che mi ha fatto guadagnare esattamente 388 {\1c&HFF00&\u1}euro{\r}
+Dialogue: 0,0:00:20.68,0:00:21.50,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:21.50,0:00:21.56,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:21.56,0:00:22.24,Default,,0,0,0,,con {\1c&HFF00&\u1}relativamente{\r} poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:22.24,0:00:22.30,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:22.30,0:00:22.50,Default,,0,0,0,,con relativamente {\1c&HFF00&\u1}poco{\r} impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:22.50,0:00:22.56,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:22.56,0:00:23.07,Default,,0,0,0,,con relativamente poco {\1c&HFF00&\u1}impegno{\r} e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:23.07,0:00:23.45,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:23.45,0:00:23.49,Default,,0,0,0,,con relativamente poco impegno {\1c&HFF00&\u1}e{\r} soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:23.49,0:00:23.57,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:23.57,0:00:24.13,Default,,0,0,0,,con relativamente poco impegno e {\1c&HFF00&\u1}soprattutto{\r} questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:24.13,0:00:24.19,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:24.19,0:00:24.43,Default,,0,0,0,,con relativamente poco impegno e soprattutto {\1c&HFF00&\u1}questo{\r} metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:24.43,0:00:24.49,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:24.49,0:00:24.81,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo {\1c&HFF00&\u1}metodo{\r} funziona perché la concorrenza è
+Dialogue: 0,0:00:24.81,0:00:24.89,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:24.89,0:00:25.41,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo {\1c&HFF00&\u1}funziona{\r} perché la concorrenza è
+Dialogue: 0,0:00:25.41,0:00:25.75,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:25.75,0:00:25.97,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona {\1c&HFF00&\u1}perché{\r} la concorrenza è
+Dialogue: 0,0:00:25.97,0:00:26.01,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:26.01,0:00:26.07,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché {\1c&HFF00&\u1}la{\r} concorrenza è
+Dialogue: 0,0:00:26.07,0:00:26.11,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:26.11,0:00:26.61,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la {\1c&HFF00&\u1}concorrenza{\r} è
+Dialogue: 0,0:00:26.61,0:00:26.64,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza è
+Dialogue: 0,0:00:26.64,0:00:26.66,Default,,0,0,0,,con relativamente poco impegno e soprattutto questo metodo funziona perché la concorrenza {\1c&HFF00&\u1}è{\r}
+Dialogue: 0,0:00:26.60,0:00:27.12,Default,,0,0,0,,{\1c&HFF00&\u1}molto{\r} poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:27.12,0:00:27.18,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:27.18,0:00:27.78,Default,,0,0,0,,molto {\1c&HFF00&\u1}poca{\r} ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:27.78,0:00:27.80,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:27.80,0:00:27.88,Default,,0,0,0,,molto poca {\1c&HFF00&\u1}ma{\r} prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:27.88,0:00:27.98,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:27.98,0:00:28.20,Default,,0,0,0,,molto poca ma {\1c&HFF00&\u1}prima{\r} vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.20,0:00:28.24,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.24,0:00:28.30,Default,,0,0,0,,molto poca ma prima {\1c&HFF00&\u1}vi{\r} chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.30,0:00:28.36,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.36,0:00:28.61,Default,,0,0,0,,molto poca ma prima vi {\1c&HFF00&\u1}chiedo{\r} in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.61,0:00:28.65,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.65,0:00:28.73,Default,,0,0,0,,molto poca ma prima vi chiedo {\1c&HFF00&\u1}in{\r} cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.73,0:00:28.79,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:28.79,0:00:29.07,Default,,0,0,0,,molto poca ma prima vi chiedo in {\1c&HFF00&\u1}cambio{\r} un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:29.07,0:00:29.11,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:29.11,0:00:29.19,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio {\1c&HFF00&\u1}un{\r} semplice gesto like e iscrizione in
+Dialogue: 0,0:00:29.19,0:00:29.25,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:29.25,0:00:29.67,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un {\1c&HFF00&\u1}semplice{\r} gesto like e iscrizione in
+Dialogue: 0,0:00:29.67,0:00:29.77,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:29.77,0:00:30.15,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice {\1c&HFF00&\u1}gesto{\r} like e iscrizione in
+Dialogue: 0,0:00:30.15,0:00:30.65,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:30.65,0:00:31.05,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto {\1c&HFF00&\u1}like{\r} e iscrizione in
+Dialogue: 0,0:00:31.05,0:00:31.31,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:31.31,0:00:31.33,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like {\1c&HFF00&\u1}e{\r} iscrizione in
+Dialogue: 0,0:00:31.33,0:00:31.37,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:31.37,0:00:31.95,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e {\1c&HFF00&\u1}iscrizione{\r} in
+Dialogue: 0,0:00:31.95,0:00:32.35,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione in
+Dialogue: 0,0:00:32.35,0:00:32.42,Default,,0,0,0,,molto poca ma prima vi chiedo in cambio un semplice gesto like e iscrizione {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:32.40,0:00:32.46,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:32.46,0:00:32.50,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:32.50,0:00:32.66,Default,,0,0,0,,in {\1c&HFF00&\u1}modo{\r} che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:32.66,0:00:32.70,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:32.70,0:00:32.80,Default,,0,0,0,,in modo {\1c&HFF00&\u1}che{\r} possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:32.80,0:00:32.88,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:32.88,0:00:33.20,Default,,0,0,0,,in modo che {\1c&HFF00&\u1}possiate{\r} sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:33.20,0:00:33.34,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:33.34,0:00:33.70,Default,,0,0,0,,in modo che possiate {\1c&HFF00&\u1}sempre{\r} essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:33.70,0:00:33.80,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:33.80,0:00:34.07,Default,,0,0,0,,in modo che possiate sempre {\1c&HFF00&\u1}essere{\r} aggiornati sui diversi modi.
+Dialogue: 0,0:00:34.07,0:00:34.11,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:34.11,0:00:34.69,Default,,0,0,0,,in modo che possiate sempre essere {\1c&HFF00&\u1}aggiornati{\r} sui diversi modi.
+Dialogue: 0,0:00:34.69,0:00:35.01,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:35.01,0:00:35.11,Default,,0,0,0,,in modo che possiate sempre essere aggiornati {\1c&HFF00&\u1}sui{\r} diversi modi.
+Dialogue: 0,0:00:35.11,0:00:35.15,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:35.15,0:00:35.55,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui {\1c&HFF00&\u1}diversi{\r} modi.
+Dialogue: 0,0:00:35.55,0:00:35.63,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi modi.
+Dialogue: 0,0:00:35.63,0:00:35.87,Default,,0,0,0,,in modo che possiate sempre essere aggiornati sui diversi {\1c&HFF00&\u1}modi.{\r}

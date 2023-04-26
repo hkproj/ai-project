@@ -1,0 +1,438 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.54,0:00:1.04,Default,,0,0,0,,{\1c&HFF00&\u1}linguistico.{\r} Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:1.04,0:00:1.10,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:1.10,0:00:1.16,Default,,0,0,0,,linguistico. {\1c&HFF00&\u1}Ma{\r} attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:1.16,0:00:1.44,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:1.44,0:00:2.02,Default,,0,0,0,,linguistico. Ma {\1c&HFF00&\u1}attenzione,{\r} non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.02,0:00:2.33,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.33,0:00:2.45,Default,,0,0,0,,linguistico. Ma attenzione, {\1c&HFF00&\u1}non{\r} sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.45,0:00:2.49,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.49,0:00:2.65,Default,,0,0,0,,linguistico. Ma attenzione, non {\1c&HFF00&\u1}sono{\r} in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.65,0:00:2.69,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.69,0:00:2.75,Default,,0,0,0,,linguistico. Ma attenzione, non sono {\1c&HFF00&\u1}in{\r} ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.75,0:00:2.77,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:2.77,0:00:3.05,Default,,0,0,0,,linguistico. Ma attenzione, non sono in {\1c&HFF00&\u1}ordine{\r} cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:3.05,0:00:3.33,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:3.33,0:00:3.95,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine {\1c&HFF00&\u1}cronologico{\r} né di importanza, sono tre aspetti
+Dialogue: 0,0:00:3.95,0:00:4.05,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:4.05,0:00:4.19,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico {\1c&HFF00&\u1}né{\r} di importanza, sono tre aspetti
+Dialogue: 0,0:00:4.19,0:00:4.47,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:4.47,0:00:4.55,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né {\1c&HFF00&\u1}di{\r} importanza, sono tre aspetti
+Dialogue: 0,0:00:4.55,0:00:4.61,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:4.61,0:00:5.23,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di {\1c&HFF00&\u1}importanza,{\r} sono tre aspetti
+Dialogue: 0,0:00:5.23,0:00:5.35,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:5.35,0:00:5.51,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, {\1c&HFF00&\u1}sono{\r} tre aspetti
+Dialogue: 0,0:00:5.51,0:00:5.81,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:5.81,0:00:6.01,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono {\1c&HFF00&\u1}tre{\r} aspetti
+Dialogue: 0,0:00:6.01,0:00:6.07,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre aspetti
+Dialogue: 0,0:00:6.07,0:00:6.50,Default,,0,0,0,,linguistico. Ma attenzione, non sono in ordine cronologico né di importanza, sono tre {\1c&HFF00&\u1}aspetti{\r}
+Dialogue: 0,0:00:6.78,0:00:7.24,Default,,0,0,0,,{\1c&HFF00&\u1}diversi{\r} dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:7.24,0:00:7.36,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:7.36,0:00:7.56,Default,,0,0,0,,diversi {\1c&HFF00&\u1}dello{\r} studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:7.56,0:00:7.60,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:7.60,0:00:7.82,Default,,0,0,0,,diversi dello {\1c&HFF00&\u1}studio{\r} delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:7.82,0:00:7.84,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:7.84,0:00:8.00,Default,,0,0,0,,diversi dello studio {\1c&HFF00&\u1}delle{\r} lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:8.00,0:00:8.04,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:8.04,0:00:8.29,Default,,0,0,0,,diversi dello studio delle {\1c&HFF00&\u1}lingue{\r} che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:8.29,0:00:8.33,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:8.33,0:00:8.39,Default,,0,0,0,,diversi dello studio delle lingue {\1c&HFF00&\u1}che{\r} andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:8.39,0:00:8.43,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:8.43,0:00:8.77,Default,,0,0,0,,diversi dello studio delle lingue che {\1c&HFF00&\u1}andrebbero{\r} portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:8.77,0:00:9.03,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:9.03,0:00:9.29,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero {\1c&HFF00&\u1}portati{\r} avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:9.29,0:00:9.33,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:9.33,0:00:9.59,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati {\1c&HFF00&\u1}avanti{\r} insieme, alternati e mescolati
+Dialogue: 0,0:00:9.59,0:00:9.75,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:9.75,0:00:10.23,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti {\1c&HFF00&\u1}insieme,{\r} alternati e mescolati
+Dialogue: 0,0:00:10.23,0:00:10.41,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:10.41,0:00:11.05,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, {\1c&HFF00&\u1}alternati{\r} e mescolati
+Dialogue: 0,0:00:11.05,0:00:11.33,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:11.33,0:00:11.39,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati {\1c&HFF00&\u1}e{\r} mescolati
+Dialogue: 0,0:00:11.39,0:00:11.51,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e mescolati
+Dialogue: 0,0:00:11.51,0:00:12.10,Default,,0,0,0,,diversi dello studio delle lingue che andrebbero portati avanti insieme, alternati e {\1c&HFF00&\u1}mescolati{\r}
+Dialogue: 0,0:00:12.46,0:00:12.52,Default,,0,0,0,,{\1c&HFF00&\u1}gli{\r} uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.52,0:00:12.56,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.56,0:00:12.68,Default,,0,0,0,,gli {\1c&HFF00&\u1}uni{\r} con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.68,0:00:12.70,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.70,0:00:12.78,Default,,0,0,0,,gli uni {\1c&HFF00&\u1}con{\r} gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.78,0:00:12.80,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.80,0:00:12.88,Default,,0,0,0,,gli uni con {\1c&HFF00&\u1}gli{\r} altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.88,0:00:12.94,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:12.94,0:00:13.20,Default,,0,0,0,,gli uni con gli {\1c&HFF00&\u1}altri.{\r} E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:13.20,0:00:13.52,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:13.52,0:00:13.54,Default,,0,0,0,,gli uni con gli altri. {\1c&HFF00&\u1}E{\r} lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:13.54,0:00:13.60,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:13.60,0:00:13.67,Default,,0,0,0,,gli uni con gli altri. E {\1c&HFF00&\u1}lo{\r} scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:13.67,0:00:13.73,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:13.73,0:00:14.05,Default,,0,0,0,,gli uni con gli altri. E lo {\1c&HFF00&\u1}scopo{\r} di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:14.05,0:00:14.09,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:14.09,0:00:14.15,Default,,0,0,0,,gli uni con gli altri. E lo scopo {\1c&HFF00&\u1}di{\r} questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:14.15,0:00:14.17,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:14.17,0:00:14.39,Default,,0,0,0,,gli uni con gli altri. E lo scopo di {\1c&HFF00&\u1}questa{\r} suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:14.39,0:00:14.45,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:14.45,0:00:15.01,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa {\1c&HFF00&\u1}suddivisione{\r} è da un lato didattico, per
+Dialogue: 0,0:00:15.01,0:00:15.03,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:15.03,0:00:15.05,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione {\1c&HFF00&\u1}è{\r} da un lato didattico, per
+Dialogue: 0,0:00:15.05,0:00:15.37,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:15.37,0:00:15.43,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è {\1c&HFF00&\u1}da{\r} un lato didattico, per
+Dialogue: 0,0:00:15.43,0:00:15.45,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:15.45,0:00:15.49,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da {\1c&HFF00&\u1}un{\r} lato didattico, per
+Dialogue: 0,0:00:15.49,0:00:15.51,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:15.51,0:00:15.71,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un {\1c&HFF00&\u1}lato{\r} didattico, per
+Dialogue: 0,0:00:15.71,0:00:15.77,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:15.77,0:00:16.27,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato {\1c&HFF00&\u1}didattico,{\r} per
+Dialogue: 0,0:00:16.27,0:00:16.31,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, per
+Dialogue: 0,0:00:16.31,0:00:16.39,Default,,0,0,0,,gli uni con gli altri. E lo scopo di questa suddivisione è da un lato didattico, {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:00:16.54,0:00:17.20,Default,,0,0,0,,{\1c&HFF00&\u1}spiegarteli{\r} in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.20,0:00:17.22,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.22,0:00:17.26,Default,,0,0,0,,spiegarteli {\1c&HFF00&\u1}in{\r} maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.26,0:00:17.28,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.28,0:00:17.52,Default,,0,0,0,,spiegarteli in {\1c&HFF00&\u1}maniera{\r} più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.52,0:00:17.58,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.58,0:00:17.68,Default,,0,0,0,,spiegarteli in maniera {\1c&HFF00&\u1}più{\r} facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.68,0:00:17.74,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:17.74,0:00:18.06,Default,,0,0,0,,spiegarteli in maniera più {\1c&HFF00&\u1}facile,{\r} dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:18.06,0:00:18.37,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:18.37,0:00:18.87,Default,,0,0,0,,spiegarteli in maniera più facile, {\1c&HFF00&\u1}dall'altro{\r} per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:18.87,0:00:18.91,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:18.91,0:00:19.01,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro {\1c&HFF00&\u1}per{\r} poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:19.01,0:00:19.05,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:19.05,0:00:19.33,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per {\1c&HFF00&\u1}poter{\r} riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:19.33,0:00:19.67,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:19.67,0:00:20.21,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter {\1c&HFF00&\u1}riconoscere{\r} i diversi esercizi e le
+Dialogue: 0,0:00:20.21,0:00:20.43,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:20.43,0:00:20.47,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere {\1c&HFF00&\u1}i{\r} diversi esercizi e le
+Dialogue: 0,0:00:20.47,0:00:20.53,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:20.53,0:00:20.97,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i {\1c&HFF00&\u1}diversi{\r} esercizi e le
+Dialogue: 0,0:00:20.97,0:00:20.99,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:20.99,0:00:21.49,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi {\1c&HFF00&\u1}esercizi{\r} e le
+Dialogue: 0,0:00:21.49,0:00:21.51,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:21.51,0:00:21.53,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi {\1c&HFF00&\u1}e{\r} le
+Dialogue: 0,0:00:21.53,0:00:21.57,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e le
+Dialogue: 0,0:00:21.57,0:00:21.61,Default,,0,0,0,,spiegarteli in maniera più facile, dall'altro per poter riconoscere i diversi esercizi e {\1c&HFF00&\u1}le{\r}
+Dialogue: 0,0:00:21.56,0:00:22.14,Default,,0,0,0,,{\1c&HFF00&\u1}attività{\r} da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:22.14,0:00:22.32,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:22.32,0:00:22.40,Default,,0,0,0,,attività {\1c&HFF00&\u1}da{\r} svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:22.40,0:00:22.42,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:22.42,0:00:23.04,Default,,0,0,0,,attività da {\1c&HFF00&\u1}svolgere{\r} e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:23.04,0:00:23.06,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:23.06,0:00:23.08,Default,,0,0,0,,attività da svolgere {\1c&HFF00&\u1}e{\r} che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:23.08,0:00:23.10,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:23.10,0:00:23.20,Default,,0,0,0,,attività da svolgere e {\1c&HFF00&\u1}che{\r} ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:23.20,0:00:23.24,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:23.24,0:00:23.50,Default,,0,0,0,,attività da svolgere e che {\1c&HFF00&\u1}ruolo{\r} svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:23.50,0:00:24.05,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:24.05,0:00:24.51,Default,,0,0,0,,attività da svolgere e che ruolo {\1c&HFF00&\u1}svolgono{\r} appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:24.51,0:00:24.55,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:24.55,0:00:24.91,Default,,0,0,0,,attività da svolgere e che ruolo svolgono {\1c&HFF00&\u1}appunto{\r} all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:24.91,0:00:25.19,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:25.19,0:00:25.73,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto {\1c&HFF00&\u1}all'interno{\r} del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:25.73,0:00:25.77,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:25.77,0:00:25.91,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno {\1c&HFF00&\u1}del{\r} puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:25.91,0:00:26.01,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:26.01,0:00:26.39,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del {\1c&HFF00&\u1}puzzle{\r} dell'imparare una lingua.
+Dialogue: 0,0:00:26.39,0:00:26.53,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:26.53,0:00:27.03,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle {\1c&HFF00&\u1}dell'imparare{\r} una lingua.
+Dialogue: 0,0:00:27.03,0:00:27.09,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:27.09,0:00:27.17,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare {\1c&HFF00&\u1}una{\r} lingua.
+Dialogue: 0,0:00:27.17,0:00:27.19,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una lingua.
+Dialogue: 0,0:00:27.19,0:00:27.46,Default,,0,0,0,,attività da svolgere e che ruolo svolgono appunto all'interno del puzzle dell'imparare una {\1c&HFF00&\u1}lingua.{\r}
+Dialogue: 0,0:00:27.88,0:00:27.94,Default,,0,0,0,,{\1c&HFF00&\u1}La{\r} prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:27.94,0:00:28.02,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:28.02,0:00:28.24,Default,,0,0,0,,La {\1c&HFF00&\u1}prima{\r} fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:28.24,0:00:28.28,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:28.28,0:00:28.46,Default,,0,0,0,,La prima {\1c&HFF00&\u1}fase{\r} da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:28.46,0:00:28.50,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:28.50,0:00:28.58,Default,,0,0,0,,La prima fase {\1c&HFF00&\u1}da{\r} descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:28.58,0:00:28.62,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:28.62,0:00:29.08,Default,,0,0,0,,La prima fase da {\1c&HFF00&\u1}descrivere{\r} è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:29.08,0:00:29.22,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:29.22,0:00:29.29,Default,,0,0,0,,La prima fase da descrivere {\1c&HFF00&\u1}è{\r} lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:29.29,0:00:29.35,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:29.35,0:00:29.45,Default,,0,0,0,,La prima fase da descrivere è {\1c&HFF00&\u1}lo{\r} studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:29.45,0:00:29.49,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:29.49,0:00:29.91,Default,,0,0,0,,La prima fase da descrivere è lo {\1c&HFF00&\u1}studio{\r} vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:29.91,0:00:30.13,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:30.13,0:00:30.29,Default,,0,0,0,,La prima fase da descrivere è lo studio {\1c&HFF00&\u1}vero{\r} e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:30.29,0:00:30.33,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:30.33,0:00:30.35,Default,,0,0,0,,La prima fase da descrivere è lo studio vero {\1c&HFF00&\u1}e{\r} proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:30.35,0:00:30.41,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:30.41,0:00:30.75,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e {\1c&HFF00&\u1}proprio,{\r} ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:30.75,0:00:30.89,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:30.89,0:00:31.21,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, {\1c&HFF00&\u1}ovvero{\r} l'imparare e il memorizzare
+Dialogue: 0,0:00:31.21,0:00:31.51,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:31.51,0:00:32.11,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero {\1c&HFF00&\u1}l'imparare{\r} e il memorizzare
+Dialogue: 0,0:00:32.11,0:00:32.25,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:32.25,0:00:32.31,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare {\1c&HFF00&\u1}e{\r} il memorizzare
+Dialogue: 0,0:00:32.31,0:00:32.35,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:32.35,0:00:32.43,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e {\1c&HFF00&\u1}il{\r} memorizzare
+Dialogue: 0,0:00:32.43,0:00:32.47,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il memorizzare
+Dialogue: 0,0:00:32.47,0:00:32.95,Default,,0,0,0,,La prima fase da descrivere è lo studio vero e proprio, ovvero l'imparare e il {\1c&HFF00&\u1}memorizzare{\r}
+Dialogue: 0,0:00:32.92,0:00:33.42,Default,,0,0,0,,{\1c&HFF00&\u1}gli{\r} elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:33.42,0:00:33.54,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:33.54,0:00:33.72,Default,,0,0,0,,gli {\1c&HFF00&\u1}elementi{\r} della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:33.72,0:00:33.74,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:33.74,0:00:33.92,Default,,0,0,0,,gli elementi {\1c&HFF00&\u1}della{\r} lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:33.92,0:00:33.98,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:33.98,0:00:34.24,Default,,0,0,0,,gli elementi della {\1c&HFF00&\u1}lingua{\r} in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:34.24,0:00:34.30,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:34.30,0:00:34.34,Default,,0,0,0,,gli elementi della lingua {\1c&HFF00&\u1}in{\r} modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:34.34,0:00:34.38,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:34.38,0:00:34.52,Default,,0,0,0,,gli elementi della lingua in {\1c&HFF00&\u1}modo{\r} sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:34.52,0:00:34.83,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:34.83,0:00:35.39,Default,,0,0,0,,gli elementi della lingua in modo {\1c&HFF00&\u1}sistematico{\r} e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:35.39,0:00:35.59,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:35.59,0:00:35.61,Default,,0,0,0,,gli elementi della lingua in modo sistematico {\1c&HFF00&\u1}e{\r} sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:35.61,0:00:35.67,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:35.67,0:00:36.25,Default,,0,0,0,,gli elementi della lingua in modo sistematico e {\1c&HFF00&\u1}sequenziale,{\r} è la parte dell'apprendimento
+Dialogue: 0,0:00:36.25,0:00:36.49,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:36.49,0:00:36.53,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, {\1c&HFF00&\u1}è{\r} la parte dell'apprendimento
+Dialogue: 0,0:00:36.53,0:00:36.55,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:36.55,0:00:36.61,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è {\1c&HFF00&\u1}la{\r} parte dell'apprendimento
+Dialogue: 0,0:00:36.61,0:00:36.65,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:36.65,0:00:36.83,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la {\1c&HFF00&\u1}parte{\r} dell'apprendimento
+Dialogue: 0,0:00:36.83,0:00:36.85,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte dell'apprendimento
+Dialogue: 0,0:00:36.85,0:00:37.45,Default,,0,0,0,,gli elementi della lingua in modo sistematico e sequenziale, è la parte {\1c&HFF00&\u1}dell'apprendimento{\r}
+Dialogue: 0,0:00:37.44,0:00:37.66,Default,,0,0,0,,{\1c&HFF00&\u1}linguistico{\r} più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.66,0:00:37.68,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.68,0:00:37.74,Default,,0,0,0,,linguistico {\1c&HFF00&\u1}più{\r} simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.74,0:00:37.76,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.76,0:00:37.88,Default,,0,0,0,,linguistico più {\1c&HFF00&\u1}simile{\r} al normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.88,0:00:37.90,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.90,0:00:37.94,Default,,0,0,0,,linguistico più simile {\1c&HFF00&\u1}al{\r} normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.94,0:00:37.96,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:37.96,0:00:38.10,Default,,0,0,0,,linguistico più simile al {\1c&HFF00&\u1}normale{\r} studio scolastico o universitario.
+Dialogue: 0,0:00:38.10,0:00:38.12,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:38.12,0:00:38.24,Default,,0,0,0,,linguistico più simile al normale {\1c&HFF00&\u1}studio{\r} scolastico o universitario.
+Dialogue: 0,0:00:38.24,0:00:38.26,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:38.26,0:00:38.46,Default,,0,0,0,,linguistico più simile al normale studio {\1c&HFF00&\u1}scolastico{\r} o universitario.
+Dialogue: 0,0:00:38.46,0:00:38.48,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:38.48,0:00:38.50,Default,,0,0,0,,linguistico più simile al normale studio scolastico {\1c&HFF00&\u1}o{\r} universitario.
+Dialogue: 0,0:00:38.50,0:00:38.52,Default,,0,0,0,,linguistico più simile al normale studio scolastico o universitario.
+Dialogue: 0,0:00:38.52,0:00:38.78,Default,,0,0,0,,linguistico più simile al normale studio scolastico o {\1c&HFF00&\u1}universitario.{\r}
+Dialogue: 0,0:00:42.56,0:00:42.62,Default,,0,0,0,,{\1c&HFF00&\u1}La{\r} seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:42.62,0:00:42.66,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:42.66,0:00:42.92,Default,,0,0,0,,La {\1c&HFF00&\u1}seconda{\r} fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:42.92,0:00:42.98,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:42.98,0:00:43.18,Default,,0,0,0,,La seconda {\1c&HFF00&\u1}fase{\r} invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:43.18,0:00:43.22,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:43.22,0:00:43.50,Default,,0,0,0,,La seconda fase {\1c&HFF00&\u1}invece{\r} è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:43.50,0:00:43.56,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:43.56,0:00:43.62,Default,,0,0,0,,La seconda fase invece {\1c&HFF00&\u1}è{\r} l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:43.62,0:00:43.97,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:43.97,0:00:44.79,Default,,0,0,0,,La seconda fase invece è {\1c&HFF00&\u1}l'assorbimento,{\r} ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:44.79,0:00:44.87,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:44.87,0:00:45.09,Default,,0,0,0,,La seconda fase invece è l'assorbimento, {\1c&HFF00&\u1}ovvero{\r} il momento in cui si riceve la nuova
+Dialogue: 0,0:00:45.09,0:00:45.27,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:45.27,0:00:45.35,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero {\1c&HFF00&\u1}il{\r} momento in cui si riceve la nuova
+Dialogue: 0,0:00:45.35,0:00:45.39,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:45.39,0:00:45.69,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il {\1c&HFF00&\u1}momento{\r} in cui si riceve la nuova
+Dialogue: 0,0:00:45.69,0:00:45.73,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:45.73,0:00:45.79,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento {\1c&HFF00&\u1}in{\r} cui si riceve la nuova
+Dialogue: 0,0:00:45.79,0:00:45.83,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:45.83,0:00:45.99,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in {\1c&HFF00&\u1}cui{\r} si riceve la nuova
+Dialogue: 0,0:00:45.99,0:00:46.27,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:46.27,0:00:46.39,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui {\1c&HFF00&\u1}si{\r} riceve la nuova
+Dialogue: 0,0:00:46.39,0:00:46.49,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:46.49,0:00:47.01,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si {\1c&HFF00&\u1}riceve{\r} la nuova
+Dialogue: 0,0:00:47.01,0:00:47.19,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:47.19,0:00:47.25,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve {\1c&HFF00&\u1}la{\r} nuova
+Dialogue: 0,0:00:47.25,0:00:47.29,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la nuova
+Dialogue: 0,0:00:47.29,0:00:47.43,Default,,0,0,0,,La seconda fase invece è l'assorbimento, ovvero il momento in cui si riceve la {\1c&HFF00&\u1}nuova{\r}
+Dialogue: 0,0:00:47.40,0:00:47.88,Default,,0,0,0,,{\1c&HFF00&\u1}lingua,{\r} ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:47.88,0:00:47.90,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:47.90,0:00:47.98,Default,,0,0,0,,lingua, {\1c&HFF00&\u1}ci{\r} si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:47.98,0:00:48.04,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.04,0:00:48.12,Default,,0,0,0,,lingua, ci {\1c&HFF00&\u1}si{\r} abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.12,0:00:48.18,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.18,0:00:48.42,Default,,0,0,0,,lingua, ci si {\1c&HFF00&\u1}abitua{\r} ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.42,0:00:48.48,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.48,0:00:48.56,Default,,0,0,0,,lingua, ci si abitua {\1c&HFF00&\u1}ad{\r} essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.56,0:00:48.58,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.58,0:00:48.80,Default,,0,0,0,,lingua, ci si abitua ad {\1c&HFF00&\u1}essa{\r} e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:48.80,0:00:49.06,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:49.06,0:00:49.10,Default,,0,0,0,,lingua, ci si abitua ad essa {\1c&HFF00&\u1}e{\r} la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:49.10,0:00:49.16,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:49.16,0:00:49.22,Default,,0,0,0,,lingua, ci si abitua ad essa e {\1c&HFF00&\u1}la{\r} si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:49.22,0:00:49.28,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:49.28,0:00:49.41,Default,,0,0,0,,lingua, ci si abitua ad essa e la {\1c&HFF00&\u1}si{\r} interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:49.41,0:00:49.67,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:49.67,0:00:50.31,Default,,0,0,0,,lingua, ci si abitua ad essa e la si {\1c&HFF00&\u1}interiorizza{\r} variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:50.31,0:00:50.63,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:50.63,0:00:51.07,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza {\1c&HFF00&\u1}variando{\r} stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:51.07,0:00:51.13,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:51.13,0:00:51.49,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando {\1c&HFF00&\u1}stimoli{\r} il più possibile e rimanendo
+Dialogue: 0,0:00:51.49,0:00:51.59,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:51.59,0:00:51.65,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli {\1c&HFF00&\u1}il{\r} più possibile e rimanendo
+Dialogue: 0,0:00:51.65,0:00:51.69,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:51.69,0:00:51.81,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il {\1c&HFF00&\u1}più{\r} possibile e rimanendo
+Dialogue: 0,0:00:51.81,0:00:51.87,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:51.87,0:00:52.27,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più {\1c&HFF00&\u1}possibile{\r} e rimanendo
+Dialogue: 0,0:00:52.27,0:00:52.53,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:52.53,0:00:52.55,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile {\1c&HFF00&\u1}e{\r} rimanendo
+Dialogue: 0,0:00:52.55,0:00:52.59,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e rimanendo
+Dialogue: 0,0:00:52.59,0:00:52.95,Default,,0,0,0,,lingua, ci si abitua ad essa e la si interiorizza variando stimoli il più possibile e {\1c&HFF00&\u1}rimanendo{\r}
+Dialogue: 0,0:00:53.08,0:00:53.30,Default,,0,0,0,,{\1c&HFF00&\u1}focalizzati{\r} su un compito alla volta.
+Dialogue: 0,0:00:53.30,0:00:53.32,Default,,0,0,0,,focalizzati su un compito alla volta.
+Dialogue: 0,0:00:53.32,0:00:53.36,Default,,0,0,0,,focalizzati {\1c&HFF00&\u1}su{\r} un compito alla volta.
+Dialogue: 0,0:00:53.36,0:00:53.38,Default,,0,0,0,,focalizzati su un compito alla volta.
+Dialogue: 0,0:00:53.38,0:00:53.42,Default,,0,0,0,,focalizzati su {\1c&HFF00&\u1}un{\r} compito alla volta.
+Dialogue: 0,0:00:53.42,0:00:53.44,Default,,0,0,0,,focalizzati su un compito alla volta.
+Dialogue: 0,0:00:53.44,0:00:53.58,Default,,0,0,0,,focalizzati su un {\1c&HFF00&\u1}compito{\r} alla volta.
+Dialogue: 0,0:00:53.58,0:00:53.60,Default,,0,0,0,,focalizzati su un compito alla volta.
+Dialogue: 0,0:00:53.60,0:00:53.68,Default,,0,0,0,,focalizzati su un compito {\1c&HFF00&\u1}alla{\r} volta.
+Dialogue: 0,0:00:53.68,0:00:53.70,Default,,0,0,0,,focalizzati su un compito alla volta.
+Dialogue: 0,0:00:53.70,0:00:53.80,Default,,0,0,0,,focalizzati su un compito alla {\1c&HFF00&\u1}volta.{\r}
+Dialogue: 0,0:00:55.50,0:00:55.82,Default,,0,0,0,,{\1c&HFF00&\u1}Ricordate{\r} infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:55.82,0:00:55.86,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:55.86,0:00:56.14,Default,,0,0,0,,Ricordate {\1c&HFF00&\u1}infatti{\r} che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:56.14,0:00:56.18,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:56.18,0:00:56.32,Default,,0,0,0,,Ricordate infatti {\1c&HFF00&\u1}che{\r} l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:56.32,0:00:56.64,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:56.64,0:00:57.41,Default,,0,0,0,,Ricordate infatti che {\1c&HFF00&\u1}l'assorbimento{\r} e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:57.41,0:00:57.43,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:57.43,0:00:57.47,Default,,0,0,0,,Ricordate infatti che l'assorbimento {\1c&HFF00&\u1}e{\r} l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:57.47,0:00:57.53,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:57.53,0:00:57.95,Default,,0,0,0,,Ricordate infatti che l'assorbimento e {\1c&HFF00&\u1}l'ascolto{\r} passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:57.95,0:00:57.97,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:57.97,0:00:58.37,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto {\1c&HFF00&\u1}passivo{\r} esistono, ma possono fare soltanto
+Dialogue: 0,0:00:58.37,0:00:58.71,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:58.71,0:00:59.21,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo {\1c&HFF00&\u1}esistono,{\r} ma possono fare soltanto
+Dialogue: 0,0:00:59.21,0:00:59.51,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:59.51,0:00:59.59,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, {\1c&HFF00&\u1}ma{\r} possono fare soltanto
+Dialogue: 0,0:00:59.59,0:00:59.77,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:00:59.77,0:01:0.09,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma {\1c&HFF00&\u1}possono{\r} fare soltanto
+Dialogue: 0,0:01:0.09,0:01:0.13,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:01:0.13,0:01:0.35,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono {\1c&HFF00&\u1}fare{\r} soltanto
+Dialogue: 0,0:01:0.35,0:01:0.69,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare soltanto
+Dialogue: 0,0:01:0.69,0:01:1.27,Default,,0,0,0,,Ricordate infatti che l'assorbimento e l'ascolto passivo esistono, ma possono fare {\1c&HFF00&\u1}soltanto{\r}
+Dialogue: 0,0:01:1.46,0:01:1.56,Default,,0,0,0,,{\1c&HFF00&\u1}da{\r} contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:1.56,0:01:1.60,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:1.60,0:01:2.20,Default,,0,0,0,,da {\1c&HFF00&\u1}contorno{\r} e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:2.20,0:01:2.24,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:2.24,0:01:2.26,Default,,0,0,0,,da contorno {\1c&HFF00&\u1}e{\r} da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:2.26,0:01:2.30,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:2.30,0:01:2.36,Default,,0,0,0,,da contorno e {\1c&HFF00&\u1}da{\r} completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:2.36,0:01:2.40,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:2.40,0:01:3.04,Default,,0,0,0,,da contorno e da {\1c&HFF00&\u1}completamento,{\r} è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:3.04,0:01:3.35,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:3.35,0:01:3.41,Default,,0,0,0,,da contorno e da completamento, {\1c&HFF00&\u1}è{\r} sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:3.41,0:01:3.57,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:3.57,0:01:3.97,Default,,0,0,0,,da contorno e da completamento, è {\1c&HFF00&\u1}sempre{\r} con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:3.97,0:01:4.01,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:4.01,0:01:4.13,Default,,0,0,0,,da contorno e da completamento, è sempre {\1c&HFF00&\u1}con{\r} il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:4.13,0:01:4.15,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:4.15,0:01:4.23,Default,,0,0,0,,da contorno e da completamento, è sempre con {\1c&HFF00&\u1}il{\r} lavoro attivo e consapevole che si
+Dialogue: 0,0:01:4.23,0:01:4.25,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:4.25,0:01:4.51,Default,,0,0,0,,da contorno e da completamento, è sempre con il {\1c&HFF00&\u1}lavoro{\r} attivo e consapevole che si
+Dialogue: 0,0:01:4.51,0:01:4.79,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:4.79,0:01:5.27,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro {\1c&HFF00&\u1}attivo{\r} e consapevole che si
+Dialogue: 0,0:01:5.27,0:01:5.39,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:5.39,0:01:5.43,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo {\1c&HFF00&\u1}e{\r} consapevole che si
+Dialogue: 0,0:01:5.43,0:01:5.51,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:5.51,0:01:6.09,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e {\1c&HFF00&\u1}consapevole{\r} che si
+Dialogue: 0,0:01:6.09,0:01:6.11,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:6.11,0:01:6.21,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole {\1c&HFF00&\u1}che{\r} si
+Dialogue: 0,0:01:6.21,0:01:6.25,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che si
+Dialogue: 0,0:01:6.25,0:01:6.31,Default,,0,0,0,,da contorno e da completamento, è sempre con il lavoro attivo e consapevole che {\1c&HFF00&\u1}si{\r}
+Dialogue: 0,0:01:6.72,0:01:7.36,Default,,0,0,0,,{\1c&HFF00&\u1}costruiscono{\r} i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:7.36,0:01:7.50,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:7.50,0:01:7.54,Default,,0,0,0,,costruiscono {\1c&HFF00&\u1}i{\r} ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:7.54,0:01:7.58,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:7.58,0:01:7.95,Default,,0,0,0,,costruiscono i {\1c&HFF00&\u1}ricordi{\r} più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:7.95,0:01:8.17,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:8.17,0:01:8.27,Default,,0,0,0,,costruiscono i ricordi {\1c&HFF00&\u1}più{\r} duratori e le competenze più efficaci.
+Dialogue: 0,0:01:8.27,0:01:8.31,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:8.31,0:01:8.71,Default,,0,0,0,,costruiscono i ricordi più {\1c&HFF00&\u1}duratori{\r} e le competenze più efficaci.
+Dialogue: 0,0:01:8.71,0:01:8.73,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:8.73,0:01:8.75,Default,,0,0,0,,costruiscono i ricordi più duratori {\1c&HFF00&\u1}e{\r} le competenze più efficaci.
+Dialogue: 0,0:01:8.75,0:01:9.13,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:9.13,0:01:9.17,Default,,0,0,0,,costruiscono i ricordi più duratori e {\1c&HFF00&\u1}le{\r} competenze più efficaci.
+Dialogue: 0,0:01:9.17,0:01:9.21,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:9.21,0:01:9.61,Default,,0,0,0,,costruiscono i ricordi più duratori e le {\1c&HFF00&\u1}competenze{\r} più efficaci.
+Dialogue: 0,0:01:9.61,0:01:9.65,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:9.65,0:01:9.73,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze {\1c&HFF00&\u1}più{\r} efficaci.
+Dialogue: 0,0:01:9.73,0:01:9.75,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più efficaci.
+Dialogue: 0,0:01:9.75,0:01:10.13,Default,,0,0,0,,costruiscono i ricordi più duratori e le competenze più {\1c&HFF00&\u1}efficaci.{\r}
+Dialogue: 0,0:01:10.70,0:01:10.74,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:10.74,0:01:10.78,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:10.78,0:01:11.02,Default,,0,0,0,,E {\1c&HFF00&\u1}poi{\r} la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:11.02,0:01:11.38,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:11.38,0:01:11.46,Default,,0,0,0,,E poi {\1c&HFF00&\u1}la{\r} produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:11.46,0:01:11.60,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:11.60,0:01:12.25,Default,,0,0,0,,E poi la {\1c&HFF00&\u1}produzione,{\r} la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:12.25,0:01:12.53,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:12.53,0:01:12.59,Default,,0,0,0,,E poi la produzione, {\1c&HFF00&\u1}la{\r} terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:12.59,0:01:12.65,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:12.65,0:01:12.91,Default,,0,0,0,,E poi la produzione, la {\1c&HFF00&\u1}terza{\r} fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:12.91,0:01:12.97,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:12.97,0:01:13.21,Default,,0,0,0,,E poi la produzione, la terza {\1c&HFF00&\u1}fase,{\r} quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:13.21,0:01:13.27,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:13.27,0:01:13.53,Default,,0,0,0,,E poi la produzione, la terza fase, {\1c&HFF00&\u1}quella{\r} in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:13.53,0:01:13.79,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:13.79,0:01:13.83,Default,,0,0,0,,E poi la produzione, la terza fase, quella {\1c&HFF00&\u1}in{\r} cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:13.83,0:01:13.87,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:13.87,0:01:13.97,Default,,0,0,0,,E poi la produzione, la terza fase, quella in {\1c&HFF00&\u1}cui{\r} si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:13.97,0:01:14.03,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:14.03,0:01:14.09,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui {\1c&HFF00&\u1}si{\r} tira fuori quanto si è imparato,
+Dialogue: 0,0:01:14.09,0:01:14.21,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:14.21,0:01:14.41,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si {\1c&HFF00&\u1}tira{\r} fuori quanto si è imparato,
+Dialogue: 0,0:01:14.41,0:01:14.47,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:14.47,0:01:14.71,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira {\1c&HFF00&\u1}fuori{\r} quanto si è imparato,
+Dialogue: 0,0:01:14.71,0:01:14.75,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:14.75,0:01:14.95,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori {\1c&HFF00&\u1}quanto{\r} si è imparato,
+Dialogue: 0,0:01:14.95,0:01:14.99,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:14.99,0:01:15.03,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto {\1c&HFF00&\u1}si{\r} è imparato,
+Dialogue: 0,0:01:15.03,0:01:15.07,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:15.07,0:01:15.09,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si {\1c&HFF00&\u1}è{\r} imparato,
+Dialogue: 0,0:01:15.09,0:01:15.13,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è imparato,
+Dialogue: 0,0:01:15.13,0:01:15.53,Default,,0,0,0,,E poi la produzione, la terza fase, quella in cui si tira fuori quanto si è {\1c&HFF00&\u1}imparato,{\r}
+Dialogue: 0,0:01:15.84,0:01:15.90,Default,,0,0,0,,{\1c&HFF00&\u1}ci{\r} si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:15.90,0:01:15.94,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:15.94,0:01:16.00,Default,,0,0,0,,ci {\1c&HFF00&\u1}si{\r} mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.00,0:01:16.14,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.14,0:01:16.34,Default,,0,0,0,,ci si {\1c&HFF00&\u1}mette{\r} alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.34,0:01:16.36,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.36,0:01:16.50,Default,,0,0,0,,ci si mette {\1c&HFF00&\u1}alla{\r} prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.50,0:01:16.54,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.54,0:01:16.82,Default,,0,0,0,,ci si mette alla {\1c&HFF00&\u1}prova{\r} seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.82,0:01:16.88,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:16.88,0:01:17.18,Default,,0,0,0,,ci si mette alla prova {\1c&HFF00&\u1}seguendo{\r} anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:17.18,0:01:17.22,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:17.22,0:01:17.47,Default,,0,0,0,,ci si mette alla prova seguendo {\1c&HFF00&\u1}anche{\r} il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:17.47,0:01:17.73,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:17.73,0:01:17.81,Default,,0,0,0,,ci si mette alla prova seguendo anche {\1c&HFF00&\u1}il{\r} classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:17.81,0:01:17.87,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:17.87,0:01:18.29,Default,,0,0,0,,ci si mette alla prova seguendo anche il {\1c&HFF00&\u1}classico{\r} principio del testing e si usa concretamente
+Dialogue: 0,0:01:18.29,0:01:18.35,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:18.35,0:01:18.71,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico {\1c&HFF00&\u1}principio{\r} del testing e si usa concretamente
+Dialogue: 0,0:01:18.71,0:01:18.75,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:18.75,0:01:18.89,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio {\1c&HFF00&\u1}del{\r} testing e si usa concretamente
+Dialogue: 0,0:01:18.89,0:01:18.95,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:18.95,0:01:19.41,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del {\1c&HFF00&\u1}testing{\r} e si usa concretamente
+Dialogue: 0,0:01:19.41,0:01:19.67,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:19.67,0:01:19.71,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing {\1c&HFF00&\u1}e{\r} si usa concretamente
+Dialogue: 0,0:01:19.71,0:01:19.77,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:19.77,0:01:19.83,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e {\1c&HFF00&\u1}si{\r} usa concretamente
+Dialogue: 0,0:01:19.83,0:01:19.87,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:19.87,0:01:20.03,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si {\1c&HFF00&\u1}usa{\r} concretamente
+Dialogue: 0,0:01:20.03,0:01:20.13,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa concretamente
+Dialogue: 0,0:01:20.13,0:01:20.86,Default,,0,0,0,,ci si mette alla prova seguendo anche il classico principio del testing e si usa {\1c&HFF00&\u1}concretamente{\r}
+Dialogue: 0,0:01:21.06,0:01:21.12,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} lingua stessa.
+Dialogue: 0,0:01:21.12,0:01:21.14,Default,,0,0,0,,la lingua stessa.
+Dialogue: 0,0:01:21.14,0:01:21.35,Default,,0,0,0,,la {\1c&HFF00&\u1}lingua{\r} stessa.
+Dialogue: 0,0:01:21.35,0:01:21.39,Default,,0,0,0,,la lingua stessa.
+Dialogue: 0,0:01:21.39,0:01:21.70,Default,,0,0,0,,la lingua {\1c&HFF00&\u1}stessa.{\r}

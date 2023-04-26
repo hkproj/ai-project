@@ -1,0 +1,251 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.02,0:00:1.06,Default,,0,0,0,,{\1c&HFF00&\u1}da{\r} casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.06,0:00:1.08,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.08,0:00:1.16,Default,,0,0,0,,da {\1c&HFF00&\u1}casa{\r} e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.16,0:00:1.18,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.18,0:00:1.20,Default,,0,0,0,,da casa {\1c&HFF00&\u1}e{\r} andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.20,0:00:1.22,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.22,0:00:1.46,Default,,0,0,0,,da casa e {\1c&HFF00&\u1}andare{\r} a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.46,0:00:1.50,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.50,0:00:1.52,Default,,0,0,0,,da casa e andare {\1c&HFF00&\u1}a{\r} girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.52,0:00:1.60,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.60,0:00:1.88,Default,,0,0,0,,da casa e andare a {\1c&HFF00&\u1}girare{\r} per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.88,0:00:1.92,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:1.92,0:00:2.08,Default,,0,0,0,,da casa e andare a girare {\1c&HFF00&\u1}per{\r} negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:2.08,0:00:2.14,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:2.14,0:00:2.61,Default,,0,0,0,,da casa e andare a girare per {\1c&HFF00&\u1}negozi{\r} cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:2.61,0:00:2.71,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:2.71,0:00:3.21,Default,,0,0,0,,da casa e andare a girare per negozi {\1c&HFF00&\u1}cinesi,{\r} grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:3.21,0:00:3.43,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:3.43,0:00:3.71,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, {\1c&HFF00&\u1}grandi{\r} magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:3.71,0:00:3.79,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:3.79,0:00:4.47,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi {\1c&HFF00&\u1}magazzini,{\r} bazzarre con sconti molto alti
+Dialogue: 0,0:00:4.47,0:00:4.93,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:4.93,0:00:5.47,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, {\1c&HFF00&\u1}bazzarre{\r} con sconti molto alti
+Dialogue: 0,0:00:5.47,0:00:5.53,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:5.53,0:00:5.69,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre {\1c&HFF00&\u1}con{\r} sconti molto alti
+Dialogue: 0,0:00:5.69,0:00:5.73,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:5.73,0:00:6.09,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con {\1c&HFF00&\u1}sconti{\r} molto alti
+Dialogue: 0,0:00:6.09,0:00:6.15,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:6.15,0:00:6.43,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti {\1c&HFF00&\u1}molto{\r} alti
+Dialogue: 0,0:00:6.43,0:00:6.49,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto alti
+Dialogue: 0,0:00:6.49,0:00:6.82,Default,,0,0,0,,da casa e andare a girare per negozi cinesi, grandi magazzini, bazzarre con sconti molto {\1c&HFF00&\u1}alti{\r}
+Dialogue: 0,0:00:6.78,0:00:7.28,Default,,0,0,0,,{\1c&HFF00&\u1}ed{\r} eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:7.28,0:00:7.36,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:7.36,0:00:8.12,Default,,0,0,0,,ed {\1c&HFF00&\u1}eventualmente{\r} mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:8.12,0:00:8.26,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:8.26,0:00:8.86,Default,,0,0,0,,ed eventualmente {\1c&HFF00&\u1}mercatini{\r} dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:8.86,0:00:8.91,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:8.91,0:00:9.47,Default,,0,0,0,,ed eventualmente mercatini {\1c&HFF00&\u1}dell'usato.{\r} E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:9.47,0:00:9.81,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:9.81,0:00:9.87,Default,,0,0,0,,ed eventualmente mercatini dell'usato. {\1c&HFF00&\u1}E{\r} dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:9.87,0:00:9.95,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:9.95,0:00:10.27,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E {\1c&HFF00&\u1}dovete{\r} individuare il negozio più economico. A quel
+Dialogue: 0,0:00:10.27,0:00:10.33,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:10.33,0:00:10.95,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete {\1c&HFF00&\u1}individuare{\r} il negozio più economico. A quel
+Dialogue: 0,0:00:10.95,0:00:11.01,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:11.01,0:00:11.09,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare {\1c&HFF00&\u1}il{\r} negozio più economico. A quel
+Dialogue: 0,0:00:11.09,0:00:11.19,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:11.19,0:00:11.77,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il {\1c&HFF00&\u1}negozio{\r} più economico. A quel
+Dialogue: 0,0:00:11.77,0:00:11.87,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:11.87,0:00:11.99,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio {\1c&HFF00&\u1}più{\r} economico. A quel
+Dialogue: 0,0:00:11.99,0:00:12.03,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:12.03,0:00:12.59,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più {\1c&HFF00&\u1}economico.{\r} A quel
+Dialogue: 0,0:00:12.59,0:00:12.61,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:12.61,0:00:12.63,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. {\1c&HFF00&\u1}A{\r} quel
+Dialogue: 0,0:00:12.63,0:00:12.65,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A quel
+Dialogue: 0,0:00:12.65,0:00:12.73,Default,,0,0,0,,ed eventualmente mercatini dell'usato. E dovete individuare il negozio più economico. A {\1c&HFF00&\u1}quel{\r}
+Dialogue: 0,0:00:16.23,0:00:16.87,Default,,0,0,0,,{\1c&HFF00&\u1}punto{\r} andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:16.87,0:00:17.17,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:17.17,0:00:17.73,Default,,0,0,0,,punto {\1c&HFF00&\u1}andrete{\r} dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:17.73,0:00:17.81,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:17.81,0:00:17.97,Default,,0,0,0,,punto andrete {\1c&HFF00&\u1}dal{\r} proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:17.97,0:00:18.03,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:18.03,0:00:18.75,Default,,0,0,0,,punto andrete dal {\1c&HFF00&\u1}proprietario{\r} e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:18.75,0:00:18.77,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:18.77,0:00:18.79,Default,,0,0,0,,punto andrete dal proprietario {\1c&HFF00&\u1}e{\r} gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:18.79,0:00:19.25,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:19.25,0:00:19.44,Default,,0,0,0,,punto andrete dal proprietario e {\1c&HFF00&\u1}gli{\r} direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:19.44,0:00:19.50,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:19.50,0:00:20.02,Default,,0,0,0,,punto andrete dal proprietario e gli {\1c&HFF00&\u1}direte,{\r} senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.02,0:00:20.04,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.04,0:00:20.14,Default,,0,0,0,,punto andrete dal proprietario e gli direte, {\1c&HFF00&\u1}senti{\r} caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.14,0:00:20.16,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.16,0:00:20.24,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti {\1c&HFF00&\u1}caro{\r} ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.24,0:00:20.26,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.26,0:00:20.32,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro {\1c&HFF00&\u1}ma{\r} se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.32,0:00:20.34,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.34,0:00:20.38,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma {\1c&HFF00&\u1}se{\r} io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.38,0:00:20.40,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.40,0:00:20.44,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se {\1c&HFF00&\u1}io{\r} vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.44,0:00:20.46,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.46,0:00:20.56,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io {\1c&HFF00&\u1}vendo{\r} i tuoi prodotti sul
+Dialogue: 0,0:00:20.56,0:00:20.58,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.58,0:00:20.60,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo {\1c&HFF00&\u1}i{\r} tuoi prodotti sul
+Dialogue: 0,0:00:20.60,0:00:20.62,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.62,0:00:20.72,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i {\1c&HFF00&\u1}tuoi{\r} prodotti sul
+Dialogue: 0,0:00:20.72,0:00:20.74,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.74,0:00:20.90,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi {\1c&HFF00&\u1}prodotti{\r} sul
+Dialogue: 0,0:00:20.90,0:00:20.92,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti sul
+Dialogue: 0,0:00:20.92,0:00:20.98,Default,,0,0,0,,punto andrete dal proprietario e gli direte, senti caro ma se io vendo i tuoi prodotti {\1c&HFF00&\u1}sul{\r}
+Dialogue: 0,0:00:19.54,0:00:19.64,Default,,0,0,0,,{\1c&HFF00&\u1}mio{\r} sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:19.64,0:00:19.76,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:19.76,0:00:20.08,Default,,0,0,0,,mio {\1c&HFF00&\u1}sito{\r} me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:20.08,0:00:20.58,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:20.58,0:00:20.64,Default,,0,0,0,,mio sito {\1c&HFF00&\u1}me{\r} li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:20.64,0:00:20.70,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:20.70,0:00:20.76,Default,,0,0,0,,mio sito me {\1c&HFF00&\u1}li{\r} potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:20.76,0:00:20.80,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:20.80,0:00:21.19,Default,,0,0,0,,mio sito me li {\1c&HFF00&\u1}potresti{\r} fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.19,0:00:21.25,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.25,0:00:21.57,Default,,0,0,0,,mio sito me li potresti {\1c&HFF00&\u1}fornire{\r} con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.57,0:00:21.61,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.61,0:00:21.73,Default,,0,0,0,,mio sito me li potresti fornire {\1c&HFF00&\u1}con{\r} un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.73,0:00:21.77,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.77,0:00:21.85,Default,,0,0,0,,mio sito me li potresti fornire con {\1c&HFF00&\u1}un{\r} bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.85,0:00:21.89,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:21.89,0:00:22.11,Default,,0,0,0,,mio sito me li potresti fornire con un {\1c&HFF00&\u1}bello{\r} sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:22.11,0:00:22.17,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:22.17,0:00:22.63,Default,,0,0,0,,mio sito me li potresti fornire con un bello {\1c&HFF00&\u1}sconto?{\r} Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:22.63,0:00:22.93,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:22.93,0:00:23.41,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? {\1c&HFF00&\u1}Ovviamente{\r} voi il sito non lo avete,
+Dialogue: 0,0:00:23.41,0:00:23.45,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:23.45,0:00:23.59,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente {\1c&HFF00&\u1}voi{\r} il sito non lo avete,
+Dialogue: 0,0:00:23.59,0:00:23.61,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:23.61,0:00:23.69,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi {\1c&HFF00&\u1}il{\r} sito non lo avete,
+Dialogue: 0,0:00:23.69,0:00:23.77,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:23.77,0:00:23.99,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il {\1c&HFF00&\u1}sito{\r} non lo avete,
+Dialogue: 0,0:00:23.99,0:00:24.03,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:24.03,0:00:24.15,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito {\1c&HFF00&\u1}non{\r} lo avete,
+Dialogue: 0,0:00:24.15,0:00:24.19,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:24.19,0:00:24.25,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non {\1c&HFF00&\u1}lo{\r} avete,
+Dialogue: 0,0:00:24.25,0:00:24.27,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo avete,
+Dialogue: 0,0:00:24.27,0:00:24.57,Default,,0,0,0,,mio sito me li potresti fornire con un bello sconto? Ovviamente voi il sito non lo {\1c&HFF00&\u1}avete,{\r}
+Dialogue: 0,0:00:25.10,0:00:25.14,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.14,0:00:25.24,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.24,0:00:25.48,Default,,0,0,0,,in {\1c&HFF00&\u1}realtà{\r} avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.48,0:00:25.50,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.50,0:00:25.74,Default,,0,0,0,,in realtà {\1c&HFF00&\u1}avrete{\r} una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.74,0:00:25.80,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.80,0:00:25.90,Default,,0,0,0,,in realtà avrete {\1c&HFF00&\u1}una{\r} pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.90,0:00:25.94,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:25.94,0:00:26.35,Default,,0,0,0,,in realtà avrete una {\1c&HFF00&\u1}pagina,{\r} ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:26.35,0:00:26.69,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:26.69,0:00:26.77,Default,,0,0,0,,in realtà avrete una pagina, {\1c&HFF00&\u1}ma{\r} fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:26.77,0:00:26.81,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:26.81,0:00:26.91,Default,,0,0,0,,in realtà avrete una pagina, ma {\1c&HFF00&\u1}fa{\r} poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:26.91,0:00:26.97,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:26.97,0:00:27.19,Default,,0,0,0,,in realtà avrete una pagina, ma fa {\1c&HFF00&\u1}poca{\r} differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:27.19,0:00:27.25,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:27.25,0:00:27.85,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca {\1c&HFF00&\u1}differenza{\r} e comunque vi dà più credibilità.
+Dialogue: 0,0:00:27.85,0:00:28.01,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:28.01,0:00:28.05,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza {\1c&HFF00&\u1}e{\r} comunque vi dà più credibilità.
+Dialogue: 0,0:00:28.05,0:00:28.15,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:28.15,0:00:28.51,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e {\1c&HFF00&\u1}comunque{\r} vi dà più credibilità.
+Dialogue: 0,0:00:28.51,0:00:28.55,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:28.55,0:00:28.61,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque {\1c&HFF00&\u1}vi{\r} dà più credibilità.
+Dialogue: 0,0:00:28.61,0:00:28.65,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:28.65,0:00:28.73,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi {\1c&HFF00&\u1}dà{\r} più credibilità.
+Dialogue: 0,0:00:28.73,0:00:28.79,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:28.79,0:00:28.89,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà {\1c&HFF00&\u1}più{\r} credibilità.
+Dialogue: 0,0:00:28.89,0:00:28.97,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più credibilità.
+Dialogue: 0,0:00:28.97,0:00:29.55,Default,,0,0,0,,in realtà avrete una pagina, ma fa poca differenza e comunque vi dà più {\1c&HFF00&\u1}credibilità.{\r}
+Dialogue: 0,0:00:30.08,0:00:30.16,Default,,0,0,0,,{\1c&HFF00&\u1}Lo{\r} sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.16,0:00:30.20,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.20,0:00:30.54,Default,,0,0,0,,Lo {\1c&HFF00&\u1}sconto{\r} che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.54,0:00:30.58,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.58,0:00:30.68,Default,,0,0,0,,Lo sconto {\1c&HFF00&\u1}che{\r} noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.68,0:00:30.74,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.74,0:00:30.88,Default,,0,0,0,,Lo sconto che {\1c&HFF00&\u1}noi{\r} vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.88,0:00:30.92,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:30.92,0:00:31.22,Default,,0,0,0,,Lo sconto che noi {\1c&HFF00&\u1}vogliamo{\r} ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:31.22,0:00:31.26,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:31.26,0:00:31.67,Default,,0,0,0,,Lo sconto che noi vogliamo {\1c&HFF00&\u1}ottenere{\r} va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:31.67,0:00:31.73,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:31.73,0:00:31.83,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere {\1c&HFF00&\u1}va{\r} da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:31.83,0:00:31.91,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:31.91,0:00:32.01,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va {\1c&HFF00&\u1}da{\r} un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:32.01,0:00:32.07,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:32.07,0:00:32.17,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da {\1c&HFF00&\u1}un 30{\r} a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:32.17,0:00:32.81,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:32.81,0:00:32.85,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 {\1c&HFF00&\u1}a{\r} un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:32.85,0:00:32.89,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:32.89,0:00:32.97,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a {\1c&HFF00&\u1}un 50{\r} per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:32.97,0:00:33.05,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:33.05,0:00:33.23,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 {\1c&HFF00&\u1}per{\r} cento, ma molto probabilmente lo
+Dialogue: 0,0:00:33.23,0:00:33.25,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:33.25,0:00:34.15,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per {\1c&HFF00&\u1}cento,{\r} ma molto probabilmente lo
+Dialogue: 0,0:00:34.15,0:00:34.53,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:34.53,0:00:34.61,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, {\1c&HFF00&\u1}ma{\r} molto probabilmente lo
+Dialogue: 0,0:00:34.61,0:00:34.69,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:34.69,0:00:34.95,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma {\1c&HFF00&\u1}molto{\r} probabilmente lo
+Dialogue: 0,0:00:34.95,0:00:34.99,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:34.99,0:00:35.71,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto {\1c&HFF00&\u1}probabilmente{\r} lo
+Dialogue: 0,0:00:35.71,0:00:35.73,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente lo
+Dialogue: 0,0:00:35.73,0:00:35.78,Default,,0,0,0,,Lo sconto che noi vogliamo ottenere va da un 30 a un 50 per cento, ma molto probabilmente {\1c&HFF00&\u1}lo{\r}
+Dialogue: 0,0:00:35.84,0:00:36.54,Default,,0,0,0,,{\1c&HFF00&\u1}sconto{\r} dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:36.54,0:00:36.56,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:36.56,0:00:37.00,Default,,0,0,0,,sconto {\1c&HFF00&\u1}dipenderà{\r} dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:37.00,0:00:37.10,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:37.10,0:00:37.32,Default,,0,0,0,,sconto dipenderà {\1c&HFF00&\u1}dalla{\r} quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:37.32,0:00:37.38,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:37.38,0:00:37.79,Default,,0,0,0,,sconto dipenderà dalla {\1c&HFF00&\u1}quantità{\r} di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:37.79,0:00:37.91,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:37.91,0:00:37.97,Default,,0,0,0,,sconto dipenderà dalla quantità {\1c&HFF00&\u1}di{\r} materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:37.97,0:00:38.03,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:38.03,0:00:38.49,Default,,0,0,0,,sconto dipenderà dalla quantità di {\1c&HFF00&\u1}materiale{\r} che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:38.49,0:00:38.53,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:38.53,0:00:38.61,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale {\1c&HFF00&\u1}che{\r} gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:38.61,0:00:38.67,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:38.67,0:00:38.77,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che {\1c&HFF00&\u1}gli{\r} comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:38.77,0:00:38.81,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:38.81,0:00:39.41,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli {\1c&HFF00&\u1}comprerete.{\r} Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:39.41,0:00:39.83,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:39.83,0:00:39.89,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. {\1c&HFF00&\u1}Ma{\r} se siete bravi negoziatori,
+Dialogue: 0,0:00:39.89,0:00:39.95,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:39.95,0:00:40.05,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma {\1c&HFF00&\u1}se{\r} siete bravi negoziatori,
+Dialogue: 0,0:00:40.05,0:00:40.13,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:40.13,0:00:40.35,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se {\1c&HFF00&\u1}siete{\r} bravi negoziatori,
+Dialogue: 0,0:00:40.35,0:00:40.45,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:40.45,0:00:40.71,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete {\1c&HFF00&\u1}bravi{\r} negoziatori,
+Dialogue: 0,0:00:40.71,0:00:40.77,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi negoziatori,
+Dialogue: 0,0:00:40.77,0:00:41.41,Default,,0,0,0,,sconto dipenderà dalla quantità di materiale che gli comprerete. Ma se siete bravi {\1c&HFF00&\u1}negoziatori,{\r}
+Dialogue: 0,0:00:41.96,0:00:42.04,Default,,0,0,0,,{\1c&HFF00&\u1}ed{\r} ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.04,0:00:42.10,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.10,0:00:42.32,Default,,0,0,0,,ed {\1c&HFF00&\u1}ecco{\r} perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.32,0:00:42.36,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.36,0:00:42.62,Default,,0,0,0,,ed ecco {\1c&HFF00&\u1}perché{\r} vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.62,0:00:42.72,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.72,0:00:42.80,Default,,0,0,0,,ed ecco perché {\1c&HFF00&\u1}vi{\r} conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.80,0:00:42.84,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:42.84,0:00:43.22,Default,,0,0,0,,ed ecco perché vi {\1c&HFF00&\u1}conviene{\r} iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:43.22,0:00:43.26,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:43.26,0:00:43.89,Default,,0,0,0,,ed ecco perché vi conviene {\1c&HFF00&\u1}iscrivervi{\r} a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:43.89,0:00:43.93,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:43.93,0:00:43.97,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi {\1c&HFF00&\u1}a{\r} questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:43.97,0:00:44.05,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:44.05,0:00:44.33,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a {\1c&HFF00&\u1}questo{\r} canale perché in alcuni video spiego
+Dialogue: 0,0:00:44.33,0:00:44.39,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:44.39,0:00:44.75,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo {\1c&HFF00&\u1}canale{\r} perché in alcuni video spiego
+Dialogue: 0,0:00:44.75,0:00:45.19,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:45.19,0:00:45.43,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale {\1c&HFF00&\u1}perché{\r} in alcuni video spiego
+Dialogue: 0,0:00:45.43,0:00:45.45,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:45.45,0:00:45.51,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché {\1c&HFF00&\u1}in{\r} alcuni video spiego
+Dialogue: 0,0:00:45.51,0:00:45.55,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:45.55,0:00:45.89,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in {\1c&HFF00&\u1}alcuni{\r} video spiego
+Dialogue: 0,0:00:45.89,0:00:45.95,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:45.95,0:00:46.27,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni {\1c&HFF00&\u1}video{\r} spiego
+Dialogue: 0,0:00:46.27,0:00:46.49,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video spiego
+Dialogue: 0,0:00:46.49,0:00:46.85,Default,,0,0,0,,ed ecco perché vi conviene iscrivervi a questo canale perché in alcuni video {\1c&HFF00&\u1}spiego{\r}

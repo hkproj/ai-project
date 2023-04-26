@@ -1,0 +1,430 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.04,0:00:1.08,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:1.08,0:00:1.20,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:1.20,0:00:1.50,Default,,0,0,0,,e {\1c&HFF00&\u1}senza{\r} bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:1.50,0:00:1.60,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:1.60,0:00:2.00,Default,,0,0,0,,e senza {\1c&HFF00&\u1}bisogno{\r} di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:2.00,0:00:2.12,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:2.12,0:00:2.20,Default,,0,0,0,,e senza bisogno {\1c&HFF00&\u1}di{\r} competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:2.20,0:00:2.36,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:2.36,0:00:3.05,Default,,0,0,0,,e senza bisogno di {\1c&HFF00&\u1}competenze{\r} informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:3.05,0:00:3.11,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:3.11,0:00:3.85,Default,,0,0,0,,e senza bisogno di competenze {\1c&HFF00&\u1}informatiche{\r} o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:3.85,0:00:3.89,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:3.89,0:00:3.93,Default,,0,0,0,,e senza bisogno di competenze informatiche {\1c&HFF00&\u1}o{\r} burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:3.93,0:00:4.01,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:4.01,0:00:4.71,Default,,0,0,0,,e senza bisogno di competenze informatiche o {\1c&HFF00&\u1}burocratiche.{\r} Specifico che questo modus operandi
+Dialogue: 0,0:00:4.71,0:00:5.17,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:5.17,0:00:5.83,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. {\1c&HFF00&\u1}Specifico{\r} che questo modus operandi
+Dialogue: 0,0:00:5.83,0:00:5.89,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:5.89,0:00:6.05,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico {\1c&HFF00&\u1}che{\r} questo modus operandi
+Dialogue: 0,0:00:6.05,0:00:6.27,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:6.27,0:00:6.57,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che {\1c&HFF00&\u1}questo{\r} modus operandi
+Dialogue: 0,0:00:6.57,0:00:6.65,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:6.65,0:00:7.07,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo {\1c&HFF00&\u1}modus{\r} operandi
+Dialogue: 0,0:00:7.07,0:00:7.11,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus operandi
+Dialogue: 0,0:00:7.11,0:00:7.62,Default,,0,0,0,,e senza bisogno di competenze informatiche o burocratiche. Specifico che questo modus {\1c&HFF00&\u1}operandi{\r}
+Dialogue: 0,0:00:7.56,0:00:8.04,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.04,0:00:8.06,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.06,0:00:8.10,Default,,0,0,0,,che {\1c&HFF00&\u1}vi{\r} spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.10,0:00:8.12,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.12,0:00:8.44,Default,,0,0,0,,che vi {\1c&HFF00&\u1}spiegherò{\r} a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.44,0:00:8.46,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.46,0:00:8.50,Default,,0,0,0,,che vi spiegherò {\1c&HFF00&\u1}a{\r} breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.50,0:00:8.56,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.56,0:00:8.84,Default,,0,0,0,,che vi spiegherò a {\1c&HFF00&\u1}breve{\r} non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:8.84,0:00:9.30,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:9.30,0:00:9.45,Default,,0,0,0,,che vi spiegherò a breve {\1c&HFF00&\u1}non{\r} l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:9.45,0:00:9.47,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:9.47,0:00:9.57,Default,,0,0,0,,che vi spiegherò a breve non {\1c&HFF00&\u1}l'ho{\r} inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:9.57,0:00:9.61,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:9.61,0:00:10.11,Default,,0,0,0,,che vi spiegherò a breve non l'ho {\1c&HFF00&\u1}inventato{\r} io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:10.11,0:00:10.23,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:10.23,0:00:10.37,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato {\1c&HFF00&\u1}io{\r} ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:10.37,0:00:10.81,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:10.81,0:00:10.87,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io {\1c&HFF00&\u1}ma{\r} l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:10.87,0:00:10.93,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:10.93,0:00:11.01,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma {\1c&HFF00&\u1}l'ho{\r} copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:11.01,0:00:11.09,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:11.09,0:00:11.49,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho {\1c&HFF00&\u1}copiato{\r} pari pari da un ragazzo che ho
+Dialogue: 0,0:00:11.49,0:00:11.67,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:11.67,0:00:11.91,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato {\1c&HFF00&\u1}pari{\r} pari da un ragazzo che ho
+Dialogue: 0,0:00:11.91,0:00:11.97,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:11.97,0:00:12.21,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari {\1c&HFF00&\u1}pari{\r} da un ragazzo che ho
+Dialogue: 0,0:00:12.21,0:00:12.27,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:12.27,0:00:12.37,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari {\1c&HFF00&\u1}da{\r} un ragazzo che ho
+Dialogue: 0,0:00:12.37,0:00:12.39,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:12.39,0:00:12.47,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da {\1c&HFF00&\u1}un{\r} ragazzo che ho
+Dialogue: 0,0:00:12.47,0:00:12.51,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:12.51,0:00:12.85,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un {\1c&HFF00&\u1}ragazzo{\r} che ho
+Dialogue: 0,0:00:12.85,0:00:12.89,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:12.89,0:00:12.97,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo {\1c&HFF00&\u1}che{\r} ho
+Dialogue: 0,0:00:12.97,0:00:13.01,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che ho
+Dialogue: 0,0:00:13.01,0:00:13.05,Default,,0,0,0,,che vi spiegherò a breve non l'ho inventato io ma l'ho copiato pari pari da un ragazzo che {\1c&HFF00&\u1}ho{\r}
+Dialogue: 0,0:00:13.30,0:00:13.60,Default,,0,0,0,,{\1c&HFF00&\u1}conosciuto{\r} un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.60,0:00:13.66,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.66,0:00:13.70,Default,,0,0,0,,conosciuto {\1c&HFF00&\u1}un{\r} po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.70,0:00:13.74,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.74,0:00:13.82,Default,,0,0,0,,conosciuto un {\1c&HFF00&\u1}po'{\r} di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.82,0:00:13.86,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.86,0:00:13.94,Default,,0,0,0,,conosciuto un po' {\1c&HFF00&\u1}di{\r} tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.94,0:00:13.98,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:13.98,0:00:14.26,Default,,0,0,0,,conosciuto un po' di {\1c&HFF00&\u1}tempo{\r} fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.26,0:00:14.30,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.30,0:00:14.46,Default,,0,0,0,,conosciuto un po' di tempo {\1c&HFF00&\u1}fa{\r} e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.46,0:00:14.77,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.77,0:00:14.79,Default,,0,0,0,,conosciuto un po' di tempo fa {\1c&HFF00&\u1}e{\r} che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.79,0:00:14.85,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.85,0:00:14.95,Default,,0,0,0,,conosciuto un po' di tempo fa e {\1c&HFF00&\u1}che{\r} lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.95,0:00:14.99,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:14.99,0:00:15.07,Default,,0,0,0,,conosciuto un po' di tempo fa e che {\1c&HFF00&\u1}lo{\r} fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.07,0:00:15.09,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.09,0:00:15.17,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo {\1c&HFF00&\u1}fa{\r} proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.17,0:00:15.25,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.25,0:00:15.47,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa {\1c&HFF00&\u1}proprio{\r} per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.47,0:00:15.51,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.51,0:00:15.63,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio {\1c&HFF00&\u1}per{\r} lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.63,0:00:15.69,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:15.69,0:00:16.03,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per {\1c&HFF00&\u1}lavoro.{\r} Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:16.03,0:00:16.47,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:16.47,0:00:16.77,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. {\1c&HFF00&\u1}Questo{\r} metodo vi permette di guadagnare
+Dialogue: 0,0:00:16.77,0:00:16.83,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:16.83,0:00:17.19,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo {\1c&HFF00&\u1}metodo{\r} vi permette di guadagnare
+Dialogue: 0,0:00:17.19,0:00:17.31,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:17.31,0:00:17.39,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo {\1c&HFF00&\u1}vi{\r} permette di guadagnare
+Dialogue: 0,0:00:17.39,0:00:17.45,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:17.45,0:00:17.87,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi {\1c&HFF00&\u1}permette{\r} di guadagnare
+Dialogue: 0,0:00:17.87,0:00:17.93,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:17.93,0:00:17.99,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette {\1c&HFF00&\u1}di{\r} guadagnare
+Dialogue: 0,0:00:17.99,0:00:18.03,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di guadagnare
+Dialogue: 0,0:00:18.03,0:00:18.52,Default,,0,0,0,,conosciuto un po' di tempo fa e che lo fa proprio per lavoro. Questo metodo vi permette di {\1c&HFF00&\u1}guadagnare{\r}
+Dialogue: 0,0:00:18.66,0:00:18.74,Default,,0,0,0,,{\1c&HFF00&\u1}tra{\r} i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:18.74,0:00:18.84,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:18.84,0:00:18.86,Default,,0,0,0,,tra {\1c&HFF00&\u1}i 20{\r} e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:18.86,0:00:19.06,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:19.06,0:00:19.58,Default,,0,0,0,,tra i 20 {\1c&HFF00&\u1}e{\r} i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:19.58,0:00:19.62,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:19.62,0:00:19.66,Default,,0,0,0,,tra i 20 e {\1c&HFF00&\u1}i 40{\r} euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:19.66,0:00:20.18,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:20.18,0:00:20.47,Default,,0,0,0,,tra i 20 e i 40 {\1c&HFF00&\u1}euro{\r} giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:20.47,0:00:20.57,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:20.57,0:00:21.21,Default,,0,0,0,,tra i 20 e i 40 euro {\1c&HFF00&\u1}giornalieri{\r} se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.21,0:00:21.31,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.31,0:00:21.39,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri {\1c&HFF00&\u1}se{\r} lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.39,0:00:21.45,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.45,0:00:21.51,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se {\1c&HFF00&\u1}lo{\r} fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.51,0:00:21.55,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.55,0:00:21.77,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo {\1c&HFF00&\u1}fate{\r} part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.77,0:00:21.83,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.83,0:00:21.97,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate {\1c&HFF00&\u1}part{\r} time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:21.97,0:00:22.03,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:22.03,0:00:22.47,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part {\1c&HFF00&\u1}time{\r} e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:22.47,0:00:22.81,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:22.81,0:00:22.83,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time {\1c&HFF00&\u1}e{\r} tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:22.83,0:00:22.91,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:22.91,0:00:22.99,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e {\1c&HFF00&\u1}tra{\r} i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:22.99,0:00:23.03,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:23.03,0:00:23.49,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra {\1c&HFF00&\u1}i 40{\r} e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:23.49,0:00:23.53,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:23.53,0:00:23.55,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 {\1c&HFF00&\u1}e{\r} gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:23.55,0:00:23.57,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:23.57,0:00:23.65,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e {\1c&HFF00&\u1}gli 80{\r} euro se ci dedicate tutta
+Dialogue: 0,0:00:23.65,0:00:24.11,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:24.11,0:00:24.33,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 {\1c&HFF00&\u1}euro{\r} se ci dedicate tutta
+Dialogue: 0,0:00:24.33,0:00:24.37,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:24.37,0:00:24.47,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro {\1c&HFF00&\u1}se{\r} ci dedicate tutta
+Dialogue: 0,0:00:24.47,0:00:24.57,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:24.57,0:00:24.63,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se {\1c&HFF00&\u1}ci{\r} dedicate tutta
+Dialogue: 0,0:00:24.63,0:00:24.69,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:24.69,0:00:25.16,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci {\1c&HFF00&\u1}dedicate{\r} tutta
+Dialogue: 0,0:00:25.16,0:00:25.20,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate tutta
+Dialogue: 0,0:00:25.20,0:00:25.38,Default,,0,0,0,,tra i 20 e i 40 euro giornalieri se lo fate part time e tra i 40 e gli 80 euro se ci dedicate {\1c&HFF00&\u1}tutta{\r}
+Dialogue: 0,0:00:25.66,0:00:25.70,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:25.70,0:00:25.74,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:25.74,0:00:26.06,Default,,0,0,0,,la {\1c&HFF00&\u1}giornata.{\r} Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:26.06,0:00:26.42,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:26.42,0:00:26.74,Default,,0,0,0,,la giornata. {\1c&HFF00&\u1}Capite{\r} da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:26.74,0:00:26.78,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:26.78,0:00:26.86,Default,,0,0,0,,la giornata. Capite {\1c&HFF00&\u1}da{\r} voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:26.86,0:00:26.90,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:26.90,0:00:27.14,Default,,0,0,0,,la giornata. Capite da {\1c&HFF00&\u1}voi{\r} che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.14,0:00:27.41,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.41,0:00:27.51,Default,,0,0,0,,la giornata. Capite da voi {\1c&HFF00&\u1}che{\r} se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.51,0:00:27.57,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.57,0:00:27.65,Default,,0,0,0,,la giornata. Capite da voi che {\1c&HFF00&\u1}se{\r} lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.65,0:00:27.69,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.69,0:00:27.81,Default,,0,0,0,,la giornata. Capite da voi che se {\1c&HFF00&\u1}lo{\r} associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.81,0:00:27.83,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:27.83,0:00:28.29,Default,,0,0,0,,la giornata. Capite da voi che se lo {\1c&HFF00&\u1}associate{\r} a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:28.29,0:00:28.31,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:28.31,0:00:28.33,Default,,0,0,0,,la giornata. Capite da voi che se lo associate {\1c&HFF00&\u1}a{\r} uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:28.33,0:00:28.37,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:28.37,0:00:28.51,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a {\1c&HFF00&\u1}uno{\r} stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:28.51,0:00:28.55,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:28.55,0:00:28.97,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno {\1c&HFF00&\u1}stipendio{\r} che già avete, ci andrete ad
+Dialogue: 0,0:00:28.97,0:00:29.01,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:29.01,0:00:29.13,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio {\1c&HFF00&\u1}che{\r} già avete, ci andrete ad
+Dialogue: 0,0:00:29.13,0:00:29.21,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:29.21,0:00:29.33,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che {\1c&HFF00&\u1}già{\r} avete, ci andrete ad
+Dialogue: 0,0:00:29.33,0:00:29.37,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:29.37,0:00:29.69,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già {\1c&HFF00&\u1}avete,{\r} ci andrete ad
+Dialogue: 0,0:00:29.69,0:00:30.25,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:30.25,0:00:30.33,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, {\1c&HFF00&\u1}ci{\r} andrete ad
+Dialogue: 0,0:00:30.33,0:00:30.35,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:30.35,0:00:30.63,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci {\1c&HFF00&\u1}andrete{\r} ad
+Dialogue: 0,0:00:30.63,0:00:30.65,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete ad
+Dialogue: 0,0:00:30.65,0:00:30.71,Default,,0,0,0,,la giornata. Capite da voi che se lo associate a uno stipendio che già avete, ci andrete {\1c&HFF00&\u1}ad{\r}
+Dialogue: 0,0:00:30.78,0:00:31.30,Default,,0,0,0,,{\1c&HFF00&\u1}arrotondare{\r} molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:31.30,0:00:31.36,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:31.36,0:00:31.60,Default,,0,0,0,,arrotondare {\1c&HFF00&\u1}molto{\r} bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:31.60,0:00:31.72,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:31.72,0:00:32.34,Default,,0,0,0,,arrotondare molto {\1c&HFF00&\u1}bene.{\r} Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:32.34,0:00:32.36,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:32.36,0:00:32.44,Default,,0,0,0,,arrotondare molto bene. {\1c&HFF00&\u1}Ma{\r} dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:32.44,0:00:32.52,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:32.52,0:00:32.83,Default,,0,0,0,,arrotondare molto bene. Ma {\1c&HFF00&\u1}dobbiamo{\r} specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:32.83,0:00:32.89,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:32.89,0:00:33.41,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo {\1c&HFF00&\u1}specificare{\r} una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:33.41,0:00:33.43,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:33.43,0:00:33.55,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare {\1c&HFF00&\u1}una{\r} cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:33.55,0:00:33.59,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:33.59,0:00:33.87,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una {\1c&HFF00&\u1}cosa,{\r} fatta con costanza questa attività
+Dialogue: 0,0:00:33.87,0:00:34.53,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:34.53,0:00:34.85,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, {\1c&HFF00&\u1}fatta{\r} con costanza questa attività
+Dialogue: 0,0:00:34.85,0:00:34.93,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:34.93,0:00:35.07,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta {\1c&HFF00&\u1}con{\r} costanza questa attività
+Dialogue: 0,0:00:35.07,0:00:35.13,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:35.13,0:00:35.85,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con {\1c&HFF00&\u1}costanza{\r} questa attività
+Dialogue: 0,0:00:35.85,0:00:36.27,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:36.27,0:00:36.57,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza {\1c&HFF00&\u1}questa{\r} attività
+Dialogue: 0,0:00:36.57,0:00:36.61,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa attività
+Dialogue: 0,0:00:36.61,0:00:37.10,Default,,0,0,0,,arrotondare molto bene. Ma dobbiamo specificare una cosa, fatta con costanza questa {\1c&HFF00&\u1}attività{\r}
+Dialogue: 0,0:00:37.54,0:00:37.66,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:37.66,0:00:37.74,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:37.74,0:00:38.38,Default,,0,0,0,,in {\1c&HFF00&\u1}teoria{\r} necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:38.38,0:00:38.68,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:38.68,0:00:39.28,Default,,0,0,0,,in teoria {\1c&HFF00&\u1}necessita{\r} di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:39.28,0:00:39.35,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:39.35,0:00:39.41,Default,,0,0,0,,in teoria necessita {\1c&HFF00&\u1}di{\r} partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:39.41,0:00:39.47,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:39.47,0:00:39.89,Default,,0,0,0,,in teoria necessita di {\1c&HFF00&\u1}partita{\r} IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:39.89,0:00:39.97,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:39.97,0:00:40.23,Default,,0,0,0,,in teoria necessita di partita {\1c&HFF00&\u1}IVA,{\r} ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:40.23,0:00:40.65,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:40.65,0:00:40.75,Default,,0,0,0,,in teoria necessita di partita IVA, {\1c&HFF00&\u1}ma{\r} fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:40.75,0:00:40.85,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:40.85,0:00:41.11,Default,,0,0,0,,in teoria necessita di partita IVA, ma {\1c&HFF00&\u1}fatta{\r} in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:41.11,0:00:41.15,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:41.15,0:00:41.21,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta {\1c&HFF00&\u1}in{\r} maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:41.21,0:00:41.25,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:41.25,0:00:41.51,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in {\1c&HFF00&\u1}maniera{\r} occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:41.51,0:00:41.55,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:41.55,0:00:42.21,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera {\1c&HFF00&\u1}occasionale{\r} no. Sono esclusi da questo
+Dialogue: 0,0:00:42.21,0:00:42.69,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:42.69,0:00:42.83,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale {\1c&HFF00&\u1}no.{\r} Sono esclusi da questo
+Dialogue: 0,0:00:42.83,0:00:43.33,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:43.33,0:00:43.49,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. {\1c&HFF00&\u1}Sono{\r} esclusi da questo
+Dialogue: 0,0:00:43.49,0:00:43.51,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:43.51,0:00:43.87,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono {\1c&HFF00&\u1}esclusi{\r} da questo
+Dialogue: 0,0:00:43.87,0:00:43.93,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:43.93,0:00:44.02,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi {\1c&HFF00&\u1}da{\r} questo
+Dialogue: 0,0:00:44.02,0:00:44.06,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da questo
+Dialogue: 0,0:00:44.06,0:00:44.30,Default,,0,0,0,,in teoria necessita di partita IVA, ma fatta in maniera occasionale no. Sono esclusi da {\1c&HFF00&\u1}questo{\r}
+Dialogue: 0,0:00:44.42,0:00:44.88,Default,,0,0,0,,{\1c&HFF00&\u1}discorso{\r} però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:44.88,0:00:44.92,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:44.92,0:00:45.12,Default,,0,0,0,,discorso {\1c&HFF00&\u1}però{\r} gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:45.12,0:00:45.18,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:45.18,0:00:45.26,Default,,0,0,0,,discorso però {\1c&HFF00&\u1}gli{\r} e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:45.26,0:00:45.28,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:45.28,0:00:46.51,Default,,0,0,0,,discorso però gli {\1c&HFF00&\u1}e-commerce.{\r} Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:46.51,0:00:46.55,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:46.55,0:00:46.61,Default,,0,0,0,,discorso però gli e-commerce. {\1c&HFF00&\u1}Ma{\r} siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:46.61,0:00:46.65,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:46.65,0:00:46.97,Default,,0,0,0,,discorso però gli e-commerce. Ma {\1c&HFF00&\u1}siccome{\r} non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:46.97,0:00:47.03,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:47.03,0:00:47.13,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome {\1c&HFF00&\u1}non{\r} sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:47.13,0:00:47.19,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:47.19,0:00:47.35,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non {\1c&HFF00&\u1}sono{\r} un commercialista non mi addentro e sono
+Dialogue: 0,0:00:47.35,0:00:47.39,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:47.39,0:00:47.45,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono {\1c&HFF00&\u1}un{\r} commercialista non mi addentro e sono
+Dialogue: 0,0:00:47.45,0:00:47.51,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:47.51,0:00:48.21,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un {\1c&HFF00&\u1}commercialista{\r} non mi addentro e sono
+Dialogue: 0,0:00:48.21,0:00:48.35,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:48.35,0:00:48.47,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista {\1c&HFF00&\u1}non{\r} mi addentro e sono
+Dialogue: 0,0:00:48.47,0:00:48.51,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:48.51,0:00:48.57,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non {\1c&HFF00&\u1}mi{\r} addentro e sono
+Dialogue: 0,0:00:48.57,0:00:48.61,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:48.61,0:00:49.11,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi {\1c&HFF00&\u1}addentro{\r} e sono
+Dialogue: 0,0:00:49.11,0:00:49.53,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:49.53,0:00:49.57,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro {\1c&HFF00&\u1}e{\r} sono
+Dialogue: 0,0:00:49.57,0:00:49.63,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e sono
+Dialogue: 0,0:00:49.63,0:00:49.79,Default,,0,0,0,,discorso però gli e-commerce. Ma siccome non sono un commercialista non mi addentro e {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:00:49.72,0:00:50.58,Default,,0,0,0,,{\1c&HFF00&\u1}informazioni{\r} che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:50.58,0:00:50.60,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:50.60,0:00:50.68,Default,,0,0,0,,informazioni {\1c&HFF00&\u1}che{\r} dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:50.68,0:00:50.72,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:50.72,0:00:50.98,Default,,0,0,0,,informazioni che {\1c&HFF00&\u1}dovrete{\r} andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:50.98,0:00:51.02,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:51.02,0:00:51.24,Default,,0,0,0,,informazioni che dovrete {\1c&HFF00&\u1}andare{\r} a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:51.24,0:00:51.26,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:51.26,0:00:51.28,Default,,0,0,0,,informazioni che dovrete andare {\1c&HFF00&\u1}a{\r} reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:51.28,0:00:51.30,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:51.30,0:00:51.85,Default,,0,0,0,,informazioni che dovrete andare a {\1c&HFF00&\u1}reperire{\r} voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:51.85,0:00:51.97,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:51.97,0:00:52.15,Default,,0,0,0,,informazioni che dovrete andare a reperire {\1c&HFF00&\u1}voi{\r} stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:52.15,0:00:52.19,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:52.19,0:00:52.59,Default,,0,0,0,,informazioni che dovrete andare a reperire voi {\1c&HFF00&\u1}stessi{\r} qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:52.59,0:00:52.95,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:52.95,0:00:53.25,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi {\1c&HFF00&\u1}qualora{\r} vogliate farlo come il lavoro.
+Dialogue: 0,0:00:53.25,0:00:53.29,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:53.29,0:00:53.59,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora {\1c&HFF00&\u1}vogliate{\r} farlo come il lavoro.
+Dialogue: 0,0:00:53.59,0:00:53.65,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:53.65,0:00:53.89,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate {\1c&HFF00&\u1}farlo{\r} come il lavoro.
+Dialogue: 0,0:00:53.89,0:00:53.93,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:53.93,0:00:54.09,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo {\1c&HFF00&\u1}come{\r} il lavoro.
+Dialogue: 0,0:00:54.09,0:00:54.11,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:54.11,0:00:54.17,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come {\1c&HFF00&\u1}il{\r} lavoro.
+Dialogue: 0,0:00:54.17,0:00:54.21,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il lavoro.
+Dialogue: 0,0:00:54.21,0:00:54.49,Default,,0,0,0,,informazioni che dovrete andare a reperire voi stessi qualora vogliate farlo come il {\1c&HFF00&\u1}lavoro.{\r}
+Dialogue: 0,0:00:54.48,0:00:55.32,Default,,0,0,0,,{\1c&HFF00&\u1}Questo{\r} in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:55.32,0:00:55.40,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:55.40,0:00:55.44,Default,,0,0,0,,Questo {\1c&HFF00&\u1}in{\r} teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:55.44,0:00:55.48,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:55.48,0:00:55.94,Default,,0,0,0,,Questo in {\1c&HFF00&\u1}teoria{\r} in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:55.94,0:00:56.61,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:56.61,0:00:56.69,Default,,0,0,0,,Questo in teoria {\1c&HFF00&\u1}in{\r} pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:56.69,0:00:56.75,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:56.75,0:00:57.23,Default,,0,0,0,,Questo in teoria in {\1c&HFF00&\u1}pratica{\r} è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:57.23,0:00:57.53,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:57.53,0:00:57.57,Default,,0,0,0,,Questo in teoria in pratica {\1c&HFF00&\u1}è{\r} impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:57.57,0:00:57.61,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:57.61,0:00:58.33,Default,,0,0,0,,Questo in teoria in pratica è {\1c&HFF00&\u1}impossibile{\r} che vi vengano a controllare. E tra
+Dialogue: 0,0:00:58.33,0:00:58.37,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:58.37,0:00:58.47,Default,,0,0,0,,Questo in teoria in pratica è impossibile {\1c&HFF00&\u1}che{\r} vi vengano a controllare. E tra
+Dialogue: 0,0:00:58.47,0:00:58.55,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:58.55,0:00:58.63,Default,,0,0,0,,Questo in teoria in pratica è impossibile che {\1c&HFF00&\u1}vi{\r} vengano a controllare. E tra
+Dialogue: 0,0:00:58.63,0:00:58.67,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:58.67,0:00:59.01,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi {\1c&HFF00&\u1}vengano{\r} a controllare. E tra
+Dialogue: 0,0:00:59.01,0:00:59.03,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:59.03,0:00:59.07,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano {\1c&HFF00&\u1}a{\r} controllare. E tra
+Dialogue: 0,0:00:59.07,0:00:59.15,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:00:59.15,0:01:0.09,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a {\1c&HFF00&\u1}controllare.{\r} E tra
+Dialogue: 0,0:01:0.09,0:01:0.35,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:01:0.35,0:01:0.39,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. {\1c&HFF00&\u1}E{\r} tra
+Dialogue: 0,0:01:0.39,0:01:0.49,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E tra
+Dialogue: 0,0:01:0.49,0:01:0.58,Default,,0,0,0,,Questo in teoria in pratica è impossibile che vi vengano a controllare. E {\1c&HFF00&\u1}tra{\r}
+Dialogue: 0,0:01:0.80,0:01:1.26,Default,,0,0,0,,{\1c&HFF00&\u1}parentesi{\r} onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:1.26,0:01:1.46,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:1.46,0:01:1.64,Default,,0,0,0,,parentesi {\1c&HFF00&\u1}onde{\r} evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:1.64,0:01:1.66,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:1.66,0:01:2.00,Default,,0,0,0,,parentesi onde {\1c&HFF00&\u1}evitare{\r} problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:2.00,0:01:2.06,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:2.06,0:01:2.55,Default,,0,0,0,,parentesi onde evitare {\1c&HFF00&\u1}problemi{\r} non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:2.55,0:01:3.01,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.01,0:01:3.13,Default,,0,0,0,,parentesi onde evitare problemi {\1c&HFF00&\u1}non{\r} lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.13,0:01:3.19,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.19,0:01:3.27,Default,,0,0,0,,parentesi onde evitare problemi non {\1c&HFF00&\u1}lo{\r} faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.27,0:01:3.31,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.31,0:01:3.57,Default,,0,0,0,,parentesi onde evitare problemi non lo {\1c&HFF00&\u1}faccio{\r} come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.57,0:01:3.63,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.63,0:01:3.79,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio {\1c&HFF00&\u1}come{\r} lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.79,0:01:3.81,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:3.81,0:01:4.27,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come {\1c&HFF00&\u1}lavoro{\r} l'ho semplicemente
+Dialogue: 0,0:01:4.27,0:01:4.59,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:4.59,0:01:4.69,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro {\1c&HFF00&\u1}l'ho{\r} semplicemente
+Dialogue: 0,0:01:4.69,0:01:4.79,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho semplicemente
+Dialogue: 0,0:01:4.79,0:01:5.39,Default,,0,0,0,,parentesi onde evitare problemi non lo faccio come lavoro l'ho {\1c&HFF00&\u1}semplicemente{\r}
+Dialogue: 0,0:01:5.60,0:01:5.88,Default,,0,0,0,,{\1c&HFF00&\u1}testato{\r} per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:5.88,0:01:5.90,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:5.90,0:01:6.00,Default,,0,0,0,,testato {\1c&HFF00&\u1}per 30{\r} giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:6.00,0:01:6.42,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:6.42,0:01:6.72,Default,,0,0,0,,testato per 30 {\1c&HFF00&\u1}giorni{\r} solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:6.72,0:01:6.96,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:6.96,0:01:7.25,Default,,0,0,0,,testato per 30 giorni {\1c&HFF00&\u1}solo{\r} per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.25,0:01:7.29,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.29,0:01:7.41,Default,,0,0,0,,testato per 30 giorni solo {\1c&HFF00&\u1}per{\r} vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.41,0:01:7.49,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.49,0:01:7.73,Default,,0,0,0,,testato per 30 giorni solo per {\1c&HFF00&\u1}vedere{\r} se funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.73,0:01:7.77,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.77,0:01:7.89,Default,,0,0,0,,testato per 30 giorni solo per vedere {\1c&HFF00&\u1}se{\r} funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.89,0:01:7.99,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:7.99,0:01:8.53,Default,,0,0,0,,testato per 30 giorni solo per vedere se {\1c&HFF00&\u1}funziona{\r} e non penso che continuerò a
+Dialogue: 0,0:01:8.53,0:01:8.99,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:8.99,0:01:9.09,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona {\1c&HFF00&\u1}e{\r} non penso che continuerò a
+Dialogue: 0,0:01:9.09,0:01:9.41,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:9.41,0:01:9.53,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e {\1c&HFF00&\u1}non{\r} penso che continuerò a
+Dialogue: 0,0:01:9.53,0:01:9.61,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:9.61,0:01:9.87,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non {\1c&HFF00&\u1}penso{\r} che continuerò a
+Dialogue: 0,0:01:9.87,0:01:9.91,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:9.91,0:01:10.01,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso {\1c&HFF00&\u1}che{\r} continuerò a
+Dialogue: 0,0:01:10.01,0:01:10.11,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:10.11,0:01:10.57,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che {\1c&HFF00&\u1}continuerò{\r} a
+Dialogue: 0,0:01:10.57,0:01:10.59,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò a
+Dialogue: 0,0:01:10.59,0:01:10.61,Default,,0,0,0,,testato per 30 giorni solo per vedere se funziona e non penso che continuerò {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:01:10.94,0:01:11.08,Default,,0,0,0,,{\1c&HFF00&\u1}farlo{\r} come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:11.08,0:01:11.10,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:11.10,0:01:11.28,Default,,0,0,0,,farlo {\1c&HFF00&\u1}come{\r} lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:11.28,0:01:11.32,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:11.32,0:01:11.78,Default,,0,0,0,,farlo come {\1c&HFF00&\u1}lavoro{\r} perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:11.78,0:01:11.82,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:11.82,0:01:12.06,Default,,0,0,0,,farlo come lavoro {\1c&HFF00&\u1}perché{\r} comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:12.06,0:01:12.12,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:12.12,0:01:12.47,Default,,0,0,0,,farlo come lavoro perché {\1c&HFF00&\u1}comunque{\r} occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:12.47,0:01:12.67,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:12.67,0:01:12.97,Default,,0,0,0,,farlo come lavoro perché comunque {\1c&HFF00&\u1}occupa{\r} tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:12.97,0:01:13.03,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:13.03,0:01:13.37,Default,,0,0,0,,farlo come lavoro perché comunque occupa {\1c&HFF00&\u1}tempo,{\r} tempo che voglio dedicare ad
+Dialogue: 0,0:01:13.37,0:01:13.75,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:13.75,0:01:14.05,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, {\1c&HFF00&\u1}tempo{\r} che voglio dedicare ad
+Dialogue: 0,0:01:14.05,0:01:14.13,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:14.13,0:01:14.23,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo {\1c&HFF00&\u1}che{\r} voglio dedicare ad
+Dialogue: 0,0:01:14.23,0:01:14.29,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:14.29,0:01:14.49,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che {\1c&HFF00&\u1}voglio{\r} dedicare ad
+Dialogue: 0,0:01:14.49,0:01:14.53,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:14.53,0:01:14.93,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio {\1c&HFF00&\u1}dedicare{\r} ad
+Dialogue: 0,0:01:14.93,0:01:14.95,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare ad
+Dialogue: 0,0:01:14.95,0:01:15.01,Default,,0,0,0,,farlo come lavoro perché comunque occupa tempo, tempo che voglio dedicare {\1c&HFF00&\u1}ad{\r}
+Dialogue: 0,0:01:14.96,0:01:16.02,Default,,0,0,0,,{\1c&HFF00&\u1}altre{\r} attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.02,0:01:16.04,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.04,0:01:16.20,Default,,0,0,0,,altre {\1c&HFF00&\u1}attività.{\r} Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.20,0:01:16.22,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.22,0:01:16.30,Default,,0,0,0,,altre attività. {\1c&HFF00&\u1}Ma{\r} ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.30,0:01:16.38,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.38,0:01:16.52,Default,,0,0,0,,altre attività. Ma {\1c&HFF00&\u1}ora{\r} partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.52,0:01:16.58,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:16.58,0:01:17.01,Default,,0,0,0,,altre attività. Ma ora {\1c&HFF00&\u1}partiamo{\r} finalmente con il primo passo. La prima
+Dialogue: 0,0:01:17.01,0:01:17.17,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:17.17,0:01:17.75,Default,,0,0,0,,altre attività. Ma ora partiamo {\1c&HFF00&\u1}finalmente{\r} con il primo passo. La prima
+Dialogue: 0,0:01:17.75,0:01:17.81,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:17.81,0:01:17.93,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente {\1c&HFF00&\u1}con{\r} il primo passo. La prima
+Dialogue: 0,0:01:17.93,0:01:17.97,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:17.97,0:01:18.05,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con {\1c&HFF00&\u1}il{\r} primo passo. La prima
+Dialogue: 0,0:01:18.05,0:01:18.11,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:18.11,0:01:18.35,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il {\1c&HFF00&\u1}primo{\r} passo. La prima
+Dialogue: 0,0:01:18.35,0:01:18.39,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:18.39,0:01:18.75,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo {\1c&HFF00&\u1}passo.{\r} La prima
+Dialogue: 0,0:01:18.75,0:01:19.17,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:19.17,0:01:19.25,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. {\1c&HFF00&\u1}La{\r} prima
+Dialogue: 0,0:01:19.25,0:01:19.29,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La prima
+Dialogue: 0,0:01:19.29,0:01:19.49,Default,,0,0,0,,altre attività. Ma ora partiamo finalmente con il primo passo. La {\1c&HFF00&\u1}prima{\r}
+Dialogue: 0,0:01:19.66,0:01:19.82,Default,,0,0,0,,{\1c&HFF00&\u1}cosa{\r} che dovete fare è
+Dialogue: 0,0:01:19.82,0:01:19.86,Default,,0,0,0,,cosa che dovete fare è
+Dialogue: 0,0:01:19.86,0:01:19.99,Default,,0,0,0,,cosa {\1c&HFF00&\u1}che{\r} dovete fare è
+Dialogue: 0,0:01:19.99,0:01:20.05,Default,,0,0,0,,cosa che dovete fare è
+Dialogue: 0,0:01:20.05,0:01:20.35,Default,,0,0,0,,cosa che {\1c&HFF00&\u1}dovete{\r} fare è
+Dialogue: 0,0:01:20.35,0:01:20.41,Default,,0,0,0,,cosa che dovete fare è
+Dialogue: 0,0:01:20.41,0:01:20.63,Default,,0,0,0,,cosa che dovete {\1c&HFF00&\u1}fare{\r} è
+Dialogue: 0,0:01:20.63,0:01:20.98,Default,,0,0,0,,cosa che dovete fare è
+Dialogue: 0,0:01:20.98,0:01:21.00,Default,,0,0,0,,cosa che dovete fare {\1c&HFF00&\u1}è{\r}

@@ -1,0 +1,185 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.32,0:00:0.38,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:0.40,0:00:1.04,Default,,0,0,0,,di {\1c&HFF00&\u1}organizzarmi,{\r} come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.04,0:00:1.12,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.12,0:00:1.26,Default,,0,0,0,,di organizzarmi, {\1c&HFF00&\u1}come{\r} è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.26,0:00:1.28,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.28,0:00:1.32,Default,,0,0,0,,di organizzarmi, come {\1c&HFF00&\u1}è{\r} sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.32,0:00:1.34,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.34,0:00:1.47,Default,,0,0,0,,di organizzarmi, come è {\1c&HFF00&\u1}sta{\r} università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.47,0:00:1.53,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.53,0:00:1.99,Default,,0,0,0,,di organizzarmi, come è sta {\1c&HFF00&\u1}università,{\r} come sarà sta vita da universitario,
+Dialogue: 0,0:00:1.99,0:00:2.07,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:2.07,0:00:2.23,Default,,0,0,0,,di organizzarmi, come è sta università, {\1c&HFF00&\u1}come{\r} sarà sta vita da universitario,
+Dialogue: 0,0:00:2.23,0:00:2.29,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:2.29,0:00:2.47,Default,,0,0,0,,di organizzarmi, come è sta università, come {\1c&HFF00&\u1}sarà{\r} sta vita da universitario,
+Dialogue: 0,0:00:2.47,0:00:2.53,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:2.53,0:00:2.65,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà {\1c&HFF00&\u1}sta{\r} vita da universitario,
+Dialogue: 0,0:00:2.65,0:00:2.71,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:2.71,0:00:2.89,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta {\1c&HFF00&\u1}vita{\r} da universitario,
+Dialogue: 0,0:00:2.89,0:00:2.95,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:2.95,0:00:3.01,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita {\1c&HFF00&\u1}da{\r} universitario,
+Dialogue: 0,0:00:3.01,0:00:3.05,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da universitario,
+Dialogue: 0,0:00:3.05,0:00:3.67,Default,,0,0,0,,di organizzarmi, come è sta università, come sarà sta vita da {\1c&HFF00&\u1}universitario,{\r}
+Dialogue: 0,0:00:3.68,0:00:5.77,Default,,0,0,0,,{\1c&HFF00&\u1}pendolare,{\r} andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:5.77,0:00:5.83,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:5.83,0:00:6.05,Default,,0,0,0,,pendolare, {\1c&HFF00&\u1}andare{\r} a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.05,0:00:6.07,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.07,0:00:6.09,Default,,0,0,0,,pendolare, andare {\1c&HFF00&\u1}a{\r} vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.09,0:00:6.11,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.11,0:00:6.25,Default,,0,0,0,,pendolare, andare a {\1c&HFF00&\u1}vivere{\r} a Milano, non lo so.
+Dialogue: 0,0:00:6.25,0:00:6.27,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.27,0:00:6.29,Default,,0,0,0,,pendolare, andare a vivere {\1c&HFF00&\u1}a{\r} Milano, non lo so.
+Dialogue: 0,0:00:6.29,0:00:6.31,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.31,0:00:6.45,Default,,0,0,0,,pendolare, andare a vivere a {\1c&HFF00&\u1}Milano,{\r} non lo so.
+Dialogue: 0,0:00:6.45,0:00:6.47,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.47,0:00:6.53,Default,,0,0,0,,pendolare, andare a vivere a Milano, {\1c&HFF00&\u1}non{\r} lo so.
+Dialogue: 0,0:00:6.53,0:00:6.55,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.55,0:00:6.59,Default,,0,0,0,,pendolare, andare a vivere a Milano, non {\1c&HFF00&\u1}lo{\r} so.
+Dialogue: 0,0:00:6.59,0:00:6.61,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo so.
+Dialogue: 0,0:00:6.61,0:00:6.65,Default,,0,0,0,,pendolare, andare a vivere a Milano, non lo {\1c&HFF00&\u1}so.{\r}
+Dialogue: 0,0:00:5.86,0:00:5.88,Default,,0,0,0,,{\1c&HFF00&\u1}A{\r} me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:5.88,0:00:5.90,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:5.90,0:00:5.94,Default,,0,0,0,,A {\1c&HFF00&\u1}me{\r} piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:5.94,0:00:6.02,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:6.02,0:00:6.38,Default,,0,0,0,,A me {\1c&HFF00&\u1}piacerebbe{\r} veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:6.38,0:00:6.40,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:6.40,0:00:6.76,Default,,0,0,0,,A me piacerebbe {\1c&HFF00&\u1}veramente{\r} trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:6.76,0:00:6.84,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:6.84,0:00:7.35,Default,,0,0,0,,A me piacerebbe veramente {\1c&HFF00&\u1}trasferirmi{\r} in via un possibile per diventare un po' più
+Dialogue: 0,0:00:7.35,0:00:7.39,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:7.39,0:00:7.43,Default,,0,0,0,,A me piacerebbe veramente trasferirmi {\1c&HFF00&\u1}in{\r} via un possibile per diventare un po' più
+Dialogue: 0,0:00:7.43,0:00:7.45,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:7.45,0:00:7.51,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in {\1c&HFF00&\u1}via{\r} un possibile per diventare un po' più
+Dialogue: 0,0:00:7.51,0:00:7.53,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:7.53,0:00:7.63,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via {\1c&HFF00&\u1}un{\r} possibile per diventare un po' più
+Dialogue: 0,0:00:7.63,0:00:7.67,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:7.67,0:00:8.03,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un {\1c&HFF00&\u1}possibile{\r} per diventare un po' più
+Dialogue: 0,0:00:8.03,0:00:8.37,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:8.37,0:00:8.57,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile {\1c&HFF00&\u1}per{\r} diventare un po' più
+Dialogue: 0,0:00:8.57,0:00:8.67,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:8.67,0:00:9.01,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per {\1c&HFF00&\u1}diventare{\r} un po' più
+Dialogue: 0,0:00:9.01,0:00:9.03,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:9.03,0:00:9.07,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare {\1c&HFF00&\u1}un{\r} po' più
+Dialogue: 0,0:00:9.07,0:00:9.09,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:9.09,0:00:9.15,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un {\1c&HFF00&\u1}po'{\r} più
+Dialogue: 0,0:00:9.15,0:00:9.17,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' più
+Dialogue: 0,0:00:9.17,0:00:9.25,Default,,0,0,0,,A me piacerebbe veramente trasferirmi in via un possibile per diventare un po' {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:00:9.22,0:00:9.94,Default,,0,0,0,,{\1c&HFF00&\u1}indipendente,{\r} cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:9.94,0:00:10.02,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:10.02,0:00:10.36,Default,,0,0,0,,indipendente, {\1c&HFF00&\u1}cercare{\r} di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:10.36,0:00:10.38,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:10.38,0:00:10.44,Default,,0,0,0,,indipendente, cercare {\1c&HFF00&\u1}di{\r} organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:10.44,0:00:10.50,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:10.50,0:00:11.03,Default,,0,0,0,,indipendente, cercare di {\1c&HFF00&\u1}organizzarmi{\r} meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:11.03,0:00:11.05,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:11.05,0:00:11.47,Default,,0,0,0,,indipendente, cercare di organizzarmi {\1c&HFF00&\u1}meglio,{\r} essere a Milano, che comunque fa
+Dialogue: 0,0:00:11.47,0:00:11.69,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:11.69,0:00:11.91,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, {\1c&HFF00&\u1}essere{\r} a Milano, che comunque fa
+Dialogue: 0,0:00:11.91,0:00:11.93,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:11.93,0:00:11.95,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere {\1c&HFF00&\u1}a{\r} Milano, che comunque fa
+Dialogue: 0,0:00:11.95,0:00:11.99,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:11.99,0:00:12.33,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a {\1c&HFF00&\u1}Milano,{\r} che comunque fa
+Dialogue: 0,0:00:12.33,0:00:12.39,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:12.39,0:00:12.47,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, {\1c&HFF00&\u1}che{\r} comunque fa
+Dialogue: 0,0:00:12.47,0:00:12.55,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:12.55,0:00:13.03,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che {\1c&HFF00&\u1}comunque{\r} fa
+Dialogue: 0,0:00:13.03,0:00:13.05,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque fa
+Dialogue: 0,0:00:13.05,0:00:13.19,Default,,0,0,0,,indipendente, cercare di organizzarmi meglio, essere a Milano, che comunque {\1c&HFF00&\u1}fa{\r}
+Dialogue: 0,0:00:13.46,0:00:13.70,Default,,0,0,0,,{\1c&HFF00&\u1}senso{\r} avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:13.70,0:00:13.72,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:13.72,0:00:13.92,Default,,0,0,0,,senso {\1c&HFF00&\u1}avere{\r} una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:13.92,0:00:13.94,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:13.94,0:00:14.06,Default,,0,0,0,,senso avere {\1c&HFF00&\u1}una{\r} connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:14.06,0:00:14.10,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:14.10,0:00:14.58,Default,,0,0,0,,senso avere una {\1c&HFF00&\u1}connessione{\r} decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:14.58,0:00:14.66,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:14.66,0:00:15.17,Default,,0,0,0,,senso avere una connessione {\1c&HFF00&\u1}decente{\r} finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:15.17,0:00:15.25,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:15.25,0:00:15.73,Default,,0,0,0,,senso avere una connessione decente {\1c&HFF00&\u1}finalmente,{\r} ragazzi tra poco avremo una
+Dialogue: 0,0:00:15.73,0:00:15.77,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:15.77,0:00:16.11,Default,,0,0,0,,senso avere una connessione decente finalmente, {\1c&HFF00&\u1}ragazzi{\r} tra poco avremo una
+Dialogue: 0,0:00:16.11,0:00:16.77,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:16.77,0:00:16.87,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi {\1c&HFF00&\u1}tra{\r} poco avremo una
+Dialogue: 0,0:00:16.87,0:00:16.91,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:16.91,0:00:17.15,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra {\1c&HFF00&\u1}poco{\r} avremo una
+Dialogue: 0,0:00:17.15,0:00:17.19,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:17.19,0:00:17.43,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco {\1c&HFF00&\u1}avremo{\r} una
+Dialogue: 0,0:00:17.43,0:00:17.45,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo una
+Dialogue: 0,0:00:17.45,0:00:17.55,Default,,0,0,0,,senso avere una connessione decente finalmente, ragazzi tra poco avremo {\1c&HFF00&\u1}una{\r}
+Dialogue: 0,0:00:17.52,0:00:18.06,Default,,0,0,0,,{\1c&HFF00&\u1}connessione{\r} decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:18.06,0:00:18.12,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:18.12,0:00:18.64,Default,,0,0,0,,connessione {\1c&HFF00&\u1}decente,{\r} vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:18.64,0:00:18.88,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:18.88,0:00:18.94,Default,,0,0,0,,connessione decente, {\1c&HFF00&\u1}vi{\r} rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:18.94,0:00:18.99,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:18.99,0:00:19.25,Default,,0,0,0,,connessione decente, vi {\1c&HFF00&\u1}rendete{\r} conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:19.25,0:00:19.29,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:19.29,0:00:19.67,Default,,0,0,0,,connessione decente, vi rendete {\1c&HFF00&\u1}conto?{\r} E con la connessione magari si potrebbero
+Dialogue: 0,0:00:19.67,0:00:19.85,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:19.85,0:00:19.99,Default,,0,0,0,,connessione decente, vi rendete conto? {\1c&HFF00&\u1}E{\r} con la connessione magari si potrebbero
+Dialogue: 0,0:00:19.99,0:00:20.05,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:20.05,0:00:20.15,Default,,0,0,0,,connessione decente, vi rendete conto? E {\1c&HFF00&\u1}con{\r} la connessione magari si potrebbero
+Dialogue: 0,0:00:20.15,0:00:20.19,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:20.19,0:00:20.23,Default,,0,0,0,,connessione decente, vi rendete conto? E con {\1c&HFF00&\u1}la{\r} connessione magari si potrebbero
+Dialogue: 0,0:00:20.23,0:00:20.27,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:20.27,0:00:20.61,Default,,0,0,0,,connessione decente, vi rendete conto? E con la {\1c&HFF00&\u1}connessione{\r} magari si potrebbero
+Dialogue: 0,0:00:20.61,0:00:20.67,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:20.67,0:00:20.91,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione {\1c&HFF00&\u1}magari{\r} si potrebbero
+Dialogue: 0,0:00:20.91,0:00:20.97,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:20.97,0:00:21.03,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari {\1c&HFF00&\u1}si{\r} potrebbero
+Dialogue: 0,0:00:21.03,0:00:21.07,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si potrebbero
+Dialogue: 0,0:00:21.07,0:00:21.43,Default,,0,0,0,,connessione decente, vi rendete conto? E con la connessione magari si {\1c&HFF00&\u1}potrebbero{\r}
+Dialogue: 0,0:00:21.62,0:00:21.76,Default,,0,0,0,,{\1c&HFF00&\u1}fare{\r} tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:21.76,0:00:21.80,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:21.80,0:00:21.98,Default,,0,0,0,,fare {\1c&HFF00&\u1}tante{\r} cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:21.98,0:00:22.06,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:22.06,0:00:22.24,Default,,0,0,0,,fare tante {\1c&HFF00&\u1}cose,{\r} si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:22.24,0:00:22.28,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:22.28,0:00:22.36,Default,,0,0,0,,fare tante cose, {\1c&HFF00&\u1}si{\r} potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:22.36,0:00:22.40,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:22.40,0:00:22.78,Default,,0,0,0,,fare tante cose, si {\1c&HFF00&\u1}potrebbero{\r} fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:22.78,0:00:22.84,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:22.84,0:00:23.01,Default,,0,0,0,,fare tante cose, si potrebbero {\1c&HFF00&\u1}fare{\r} live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.01,0:00:23.11,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.11,0:00:23.43,Default,,0,0,0,,fare tante cose, si potrebbero fare {\1c&HFF00&\u1}live,{\r} si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.43,0:00:23.47,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.47,0:00:23.55,Default,,0,0,0,,fare tante cose, si potrebbero fare live, {\1c&HFF00&\u1}si{\r} potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.55,0:00:23.59,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.59,0:00:23.93,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si {\1c&HFF00&\u1}potrebbero{\r} fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.93,0:00:23.97,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:23.97,0:00:24.13,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero {\1c&HFF00&\u1}fare,{\r} non lo so, un sacco di
+Dialogue: 0,0:00:24.13,0:00:24.55,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:24.55,0:00:24.71,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, {\1c&HFF00&\u1}non{\r} lo so, un sacco di
+Dialogue: 0,0:00:24.71,0:00:24.73,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:24.73,0:00:24.81,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non {\1c&HFF00&\u1}lo{\r} so, un sacco di
+Dialogue: 0,0:00:24.81,0:00:24.83,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:24.83,0:00:24.95,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo {\1c&HFF00&\u1}so,{\r} un sacco di
+Dialogue: 0,0:00:24.95,0:00:24.97,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:24.97,0:00:25.07,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, {\1c&HFF00&\u1}un{\r} sacco di
+Dialogue: 0,0:00:25.07,0:00:25.11,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:25.11,0:00:25.33,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un {\1c&HFF00&\u1}sacco{\r} di
+Dialogue: 0,0:00:25.33,0:00:25.37,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco di
+Dialogue: 0,0:00:25.37,0:00:25.41,Default,,0,0,0,,fare tante cose, si potrebbero fare live, si potrebbero fare, non lo so, un sacco {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:25.36,0:00:25.40,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} cose interessanti, però non...
+Dialogue: 0,0:00:25.40,0:00:25.42,Default,,0,0,0,,di cose interessanti, però non...
+Dialogue: 0,0:00:25.42,0:00:25.50,Default,,0,0,0,,di {\1c&HFF00&\u1}cose{\r} interessanti, però non...
+Dialogue: 0,0:00:25.50,0:00:25.52,Default,,0,0,0,,di cose interessanti, però non...
+Dialogue: 0,0:00:25.52,0:00:25.78,Default,,0,0,0,,di cose {\1c&HFF00&\u1}interessanti,{\r} però non...
+Dialogue: 0,0:00:25.78,0:00:25.81,Default,,0,0,0,,di cose interessanti, però non...
+Dialogue: 0,0:00:25.81,0:00:25.89,Default,,0,0,0,,di cose interessanti, {\1c&HFF00&\u1}però{\r} non...
+Dialogue: 0,0:00:25.89,0:00:25.97,Default,,0,0,0,,di cose interessanti, però non...
+Dialogue: 0,0:00:25.97,0:00:26.13,Default,,0,0,0,,di cose interessanti, però {\1c&HFF00&\u1}non...{\r}

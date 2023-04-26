@@ -1,0 +1,242 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:3.85,0:00:4.45,Default,,0,0,0,,{\1c&HFF00&\u1}Immersione?{\r} Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:4.45,0:00:4.75,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:4.75,0:00:4.83,Default,,0,0,0,,Immersione? {\1c&HFF00&\u1}Ma{\r} quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:4.83,0:00:4.99,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:4.99,0:00:5.29,Default,,0,0,0,,Immersione? Ma {\1c&HFF00&\u1}quando{\r} mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:5.29,0:00:5.35,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:5.35,0:00:5.61,Default,,0,0,0,,Immersione? Ma quando {\1c&HFF00&\u1}mai,{\r} con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:5.61,0:00:5.85,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:5.85,0:00:5.95,Default,,0,0,0,,Immersione? Ma quando mai, {\1c&HFF00&\u1}con{\r} eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:5.95,0:00:5.99,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:5.99,0:00:6.37,Default,,0,0,0,,Immersione? Ma quando mai, con {\1c&HFF00&\u1}eccezione{\r} di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:6.37,0:00:6.41,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:6.41,0:00:6.47,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione {\1c&HFF00&\u1}di{\r} qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:6.47,0:00:6.51,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:6.51,0:00:6.75,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di {\1c&HFF00&\u1}qualche{\r} insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:6.75,0:00:6.81,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:6.81,0:00:7.27,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche {\1c&HFF00&\u1}insegnante{\r} illuminato, NESSUNO fa
+Dialogue: 0,0:00:7.27,0:00:7.43,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:7.43,0:00:8.01,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante {\1c&HFF00&\u1}illuminato,{\r} NESSUNO fa
+Dialogue: 0,0:00:8.01,0:00:8.40,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:8.40,0:00:8.98,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, {\1c&HFF00&\u1}NESSUNO{\r} fa
+Dialogue: 0,0:00:8.98,0:00:9.06,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO fa
+Dialogue: 0,0:00:9.06,0:00:9.12,Default,,0,0,0,,Immersione? Ma quando mai, con eccezione di qualche insegnante illuminato, NESSUNO {\1c&HFF00&\u1}fa{\r}
+Dialogue: 0,0:00:9.08,0:00:9.80,Default,,0,0,0,,{\1c&HFF00&\u1}leggere{\r} in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:9.80,0:00:9.82,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:9.82,0:00:9.86,Default,,0,0,0,,leggere {\1c&HFF00&\u1}in{\r} inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:9.86,0:00:9.88,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:9.88,0:00:10.04,Default,,0,0,0,,leggere in {\1c&HFF00&\u1}inglese{\r} con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.04,0:00:10.10,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.10,0:00:10.24,Default,,0,0,0,,leggere in inglese {\1c&HFF00&\u1}con{\r} continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.24,0:00:10.30,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.30,0:00:10.91,Default,,0,0,0,,leggere in inglese con {\1c&HFF00&\u1}continuità{\r} e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.91,0:00:10.93,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.93,0:00:10.95,Default,,0,0,0,,leggere in inglese con continuità {\1c&HFF00&\u1}e{\r} in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.95,0:00:10.97,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:10.97,0:00:11.03,Default,,0,0,0,,leggere in inglese con continuità e {\1c&HFF00&\u1}in{\r} Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:11.03,0:00:11.07,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:11.07,0:00:11.41,Default,,0,0,0,,leggere in inglese con continuità e in {\1c&HFF00&\u1}Italia{\r} e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:11.41,0:00:11.71,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:11.71,0:00:11.75,Default,,0,0,0,,leggere in inglese con continuità e in Italia {\1c&HFF00&\u1}e{\r} non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:11.75,0:00:11.83,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:11.83,0:00:11.97,Default,,0,0,0,,leggere in inglese con continuità e in Italia e {\1c&HFF00&\u1}non{\r} esiste la cultura dei film in lingua
+Dialogue: 0,0:00:11.97,0:00:12.03,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:12.03,0:00:12.37,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non {\1c&HFF00&\u1}esiste{\r} la cultura dei film in lingua
+Dialogue: 0,0:00:12.37,0:00:12.45,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:12.45,0:00:12.49,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste {\1c&HFF00&\u1}la{\r} cultura dei film in lingua
+Dialogue: 0,0:00:12.49,0:00:12.55,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:12.55,0:00:12.93,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la {\1c&HFF00&\u1}cultura{\r} dei film in lingua
+Dialogue: 0,0:00:12.93,0:00:13.35,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:13.35,0:00:13.49,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura {\1c&HFF00&\u1}dei{\r} film in lingua
+Dialogue: 0,0:00:13.49,0:00:13.59,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:13.59,0:00:13.83,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei {\1c&HFF00&\u1}film{\r} in lingua
+Dialogue: 0,0:00:13.83,0:00:13.85,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:13.85,0:00:13.91,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film {\1c&HFF00&\u1}in{\r} lingua
+Dialogue: 0,0:00:13.91,0:00:13.93,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in lingua
+Dialogue: 0,0:00:13.93,0:00:14.13,Default,,0,0,0,,leggere in inglese con continuità e in Italia e non esiste la cultura dei film in {\1c&HFF00&\u1}lingua{\r}
+Dialogue: 0,0:00:14.56,0:00:14.76,Default,,0,0,0,,{\1c&HFF00&\u1}originale.{\r} Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:14.76,0:00:14.78,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:14.78,0:00:15.24,Default,,0,0,0,,originale. {\1c&HFF00&\u1}Nell'ambiente{\r} scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:15.24,0:00:15.26,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:15.26,0:00:15.71,Default,,0,0,0,,originale. Nell'ambiente {\1c&HFF00&\u1}scolastico,{\r} con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:15.71,0:00:16.03,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:16.03,0:00:16.13,Default,,0,0,0,,originale. Nell'ambiente scolastico, {\1c&HFF00&\u1}con{\r} eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:16.13,0:00:16.17,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:16.17,0:00:16.61,Default,,0,0,0,,originale. Nell'ambiente scolastico, con {\1c&HFF00&\u1}eccezione{\r} ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:16.61,0:00:16.65,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:16.65,0:00:16.99,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione {\1c&HFF00&\u1}ovviamente{\r} delle scuole inglesi,
+Dialogue: 0,0:00:16.99,0:00:17.01,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:17.01,0:00:17.15,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente {\1c&HFF00&\u1}delle{\r} scuole inglesi,
+Dialogue: 0,0:00:17.15,0:00:17.17,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:17.17,0:00:17.39,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle {\1c&HFF00&\u1}scuole{\r} inglesi,
+Dialogue: 0,0:00:17.39,0:00:17.41,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole inglesi,
+Dialogue: 0,0:00:17.41,0:00:17.71,Default,,0,0,0,,originale. Nell'ambiente scolastico, con eccezione ovviamente delle scuole {\1c&HFF00&\u1}inglesi,{\r}
+Dialogue: 0,0:00:17.96,0:00:18.06,Default,,0,0,0,,{\1c&HFF00&\u1}certo{\r} non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.06,0:00:18.08,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.08,0:00:18.14,Default,,0,0,0,,certo {\1c&HFF00&\u1}non{\r} si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.14,0:00:18.16,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.16,0:00:18.20,Default,,0,0,0,,certo non {\1c&HFF00&\u1}si{\r} incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.20,0:00:18.22,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.22,0:00:18.46,Default,,0,0,0,,certo non si {\1c&HFF00&\u1}incoraggiano{\r} i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.46,0:00:18.48,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.48,0:00:18.50,Default,,0,0,0,,certo non si incoraggiano {\1c&HFF00&\u1}i{\r} ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.50,0:00:18.52,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.52,0:00:18.66,Default,,0,0,0,,certo non si incoraggiano i {\1c&HFF00&\u1}ragazzi{\r} a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.66,0:00:18.68,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.68,0:00:18.70,Default,,0,0,0,,certo non si incoraggiano i ragazzi {\1c&HFF00&\u1}a{\r} sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.70,0:00:18.72,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.72,0:00:18.90,Default,,0,0,0,,certo non si incoraggiano i ragazzi a {\1c&HFF00&\u1}sfruttare{\r} continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.90,0:00:18.92,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:18.92,0:00:19.18,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare {\1c&HFF00&\u1}continuamente{\r} la nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.18,0:00:19.20,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.20,0:00:19.24,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente {\1c&HFF00&\u1}la{\r} nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.24,0:00:19.26,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.26,0:00:19.38,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la {\1c&HFF00&\u1}nuova{\r} lingua. E infatti quando
+Dialogue: 0,0:00:19.38,0:00:19.40,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.40,0:00:19.54,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova {\1c&HFF00&\u1}lingua.{\r} E infatti quando
+Dialogue: 0,0:00:19.54,0:00:19.56,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.56,0:00:19.58,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. {\1c&HFF00&\u1}E{\r} infatti quando
+Dialogue: 0,0:00:19.58,0:00:19.60,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.60,0:00:19.74,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E {\1c&HFF00&\u1}infatti{\r} quando
+Dialogue: 0,0:00:19.74,0:00:19.76,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti quando
+Dialogue: 0,0:00:19.76,0:00:19.89,Default,,0,0,0,,certo non si incoraggiano i ragazzi a sfruttare continuamente la nuova lingua. E infatti {\1c&HFF00&\u1}quando{\r}
+Dialogue: 0,0:00:23.56,0:00:23.58,Default,,0,0,0,,{\1c&HFF00&\u1}i{\r} giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:23.58,0:00:24.38,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:24.38,0:00:24.52,Default,,0,0,0,,i {\1c&HFF00&\u1}giovani{\r} imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:24.52,0:00:24.54,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:24.54,0:00:24.96,Default,,0,0,0,,i giovani {\1c&HFF00&\u1}imparano{\r} l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:24.96,0:00:25.12,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.12,0:00:25.51,Default,,0,0,0,,i giovani imparano {\1c&HFF00&\u1}l'inglese{\r} lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.51,0:00:25.57,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.57,0:00:25.63,Default,,0,0,0,,i giovani imparano l'inglese {\1c&HFF00&\u1}lo{\r} fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.63,0:00:25.65,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.65,0:00:25.85,Default,,0,0,0,,i giovani imparano l'inglese lo {\1c&HFF00&\u1}fanno{\r} in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.85,0:00:25.89,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.89,0:00:25.93,Default,,0,0,0,,i giovani imparano l'inglese lo fanno {\1c&HFF00&\u1}in{\r} realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.93,0:00:25.95,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:25.95,0:00:26.21,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in {\1c&HFF00&\u1}realtà{\r} con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:26.21,0:00:26.45,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:26.45,0:00:26.53,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà {\1c&HFF00&\u1}con{\r} i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:26.53,0:00:26.57,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:26.57,0:00:26.59,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con {\1c&HFF00&\u1}i{\r} videogiochi e con youtube. Triste
+Dialogue: 0,0:00:26.59,0:00:26.63,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:26.63,0:00:27.19,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i {\1c&HFF00&\u1}videogiochi{\r} e con youtube. Triste
+Dialogue: 0,0:00:27.19,0:00:27.21,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:27.21,0:00:27.23,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi {\1c&HFF00&\u1}e{\r} con youtube. Triste
+Dialogue: 0,0:00:27.23,0:00:27.27,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:27.27,0:00:27.39,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e {\1c&HFF00&\u1}con{\r} youtube. Triste
+Dialogue: 0,0:00:27.39,0:00:27.47,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:27.47,0:00:27.87,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con {\1c&HFF00&\u1}youtube.{\r} Triste
+Dialogue: 0,0:00:27.87,0:00:28.21,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. Triste
+Dialogue: 0,0:00:28.21,0:00:28.47,Default,,0,0,0,,i giovani imparano l'inglese lo fanno in realtà con i videogiochi e con youtube. {\1c&HFF00&\u1}Triste{\r}
+Dialogue: 0,0:00:28.60,0:00:29.26,Default,,0,0,0,,{\1c&HFF00&\u1}realtà.{\r} Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:29.26,0:00:29.28,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:29.28,0:00:29.58,Default,,0,0,0,,realtà. {\1c&HFF00&\u1}Sforzo{\r} comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:29.58,0:00:29.62,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:29.62,0:00:30.28,Default,,0,0,0,,realtà. Sforzo {\1c&HFF00&\u1}comunicativo?{\r} Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:30.28,0:00:30.69,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:30.69,0:00:30.87,Default,,0,0,0,,realtà. Sforzo comunicativo? {\1c&HFF00&\u1}Per{\r} favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:30.87,0:00:31.01,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:31.01,0:00:31.43,Default,,0,0,0,,realtà. Sforzo comunicativo? Per {\1c&HFF00&\u1}favore.{\r} A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:31.43,0:00:31.75,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:31.75,0:00:31.79,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. {\1c&HFF00&\u1}A{\r} scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:31.79,0:00:31.83,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:31.83,0:00:32.23,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A {\1c&HFF00&\u1}scuola{\r} gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.23,0:00:32.29,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.29,0:00:32.39,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola {\1c&HFF00&\u1}gli{\r} insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.39,0:00:32.43,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.43,0:00:32.77,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli {\1c&HFF00&\u1}insegnanti{\r} di inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.77,0:00:32.81,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.81,0:00:32.87,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti {\1c&HFF00&\u1}di{\r} inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.87,0:00:32.89,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:32.89,0:00:33.17,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di {\1c&HFF00&\u1}inglese{\r} parlano in italiano e sono
+Dialogue: 0,0:00:33.17,0:00:33.25,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:33.25,0:00:33.59,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese {\1c&HFF00&\u1}parlano{\r} in italiano e sono
+Dialogue: 0,0:00:33.59,0:00:33.95,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:33.95,0:00:34.03,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano {\1c&HFF00&\u1}in{\r} italiano e sono
+Dialogue: 0,0:00:34.03,0:00:34.05,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:34.05,0:00:34.61,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in {\1c&HFF00&\u1}italiano{\r} e sono
+Dialogue: 0,0:00:34.61,0:00:34.73,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:34.73,0:00:34.77,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano {\1c&HFF00&\u1}e{\r} sono
+Dialogue: 0,0:00:34.77,0:00:34.83,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e sono
+Dialogue: 0,0:00:34.83,0:00:35.02,Default,,0,0,0,,realtà. Sforzo comunicativo? Per favore. A scuola gli insegnanti di inglese parlano in italiano e {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:00:35.46,0:00:35.92,Default,,0,0,0,,{\1c&HFF00&\u1}rarissime{\r} le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:35.92,0:00:35.98,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:35.98,0:00:36.02,Default,,0,0,0,,rarissime {\1c&HFF00&\u1}le{\r} esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:36.02,0:00:36.08,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:36.08,0:00:36.68,Default,,0,0,0,,rarissime le {\1c&HFF00&\u1}esercitazioni{\r} improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:36.68,0:00:36.72,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:36.72,0:00:37.19,Default,,0,0,0,,rarissime le esercitazioni {\1c&HFF00&\u1}improntate{\r} sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:37.19,0:00:37.23,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:37.23,0:00:37.39,Default,,0,0,0,,rarissime le esercitazioni improntate {\1c&HFF00&\u1}sul{\r} dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:37.39,0:00:37.45,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:37.45,0:00:37.89,Default,,0,0,0,,rarissime le esercitazioni improntate sul {\1c&HFF00&\u1}dialogo{\r} e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:37.89,0:00:38.03,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:38.03,0:00:38.07,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo {\1c&HFF00&\u1}e{\r} inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:38.07,0:00:38.31,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:38.31,0:00:39.01,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e {\1c&HFF00&\u1}inesistenti{\r} gli esercizi propedeutici alla
+Dialogue: 0,0:00:39.01,0:00:39.03,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:39.03,0:00:39.13,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti {\1c&HFF00&\u1}gli{\r} esercizi propedeutici alla
+Dialogue: 0,0:00:39.13,0:00:39.15,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:39.15,0:00:39.65,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli {\1c&HFF00&\u1}esercizi{\r} propedeutici alla
+Dialogue: 0,0:00:39.65,0:00:39.95,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:39.95,0:00:40.53,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi {\1c&HFF00&\u1}propedeutici{\r} alla
+Dialogue: 0,0:00:40.53,0:00:40.57,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici alla
+Dialogue: 0,0:00:40.57,0:00:40.67,Default,,0,0,0,,rarissime le esercitazioni improntate sul dialogo e inesistenti gli esercizi propedeutici {\1c&HFF00&\u1}alla{\r}
+Dialogue: 0,0:00:40.62,0:00:41.34,Default,,0,0,0,,{\1c&HFF00&\u1}conversazione{\r} libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:41.34,0:00:41.36,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:41.36,0:00:42.04,Default,,0,0,0,,conversazione {\1c&HFF00&\u1}libera.{\r} Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:42.04,0:00:42.08,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:42.08,0:00:42.67,Default,,0,0,0,,conversazione libera. {\1c&HFF00&\u1}Deconstruzione{\r} grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:42.67,0:00:42.73,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:42.73,0:00:43.31,Default,,0,0,0,,conversazione libera. Deconstruzione {\1c&HFF00&\u1}grammaticale?{\r} Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.31,0:00:43.61,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.61,0:00:43.67,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? {\1c&HFF00&\u1}Ma{\r} li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.67,0:00:43.71,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.71,0:00:43.77,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma {\1c&HFF00&\u1}li{\r} hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.77,0:00:43.79,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.79,0:00:43.85,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li {\1c&HFF00&\u1}hai{\r} visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.85,0:00:43.89,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:43.89,0:00:44.09,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai {\1c&HFF00&\u1}visti{\r} i libri che si usano a scuola?
+Dialogue: 0,0:00:44.09,0:00:44.11,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:44.11,0:00:44.13,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti {\1c&HFF00&\u1}i{\r} libri che si usano a scuola?
+Dialogue: 0,0:00:44.13,0:00:44.17,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:44.17,0:00:44.37,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i {\1c&HFF00&\u1}libri{\r} che si usano a scuola?
+Dialogue: 0,0:00:44.37,0:00:44.39,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:44.39,0:00:44.45,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri {\1c&HFF00&\u1}che{\r} si usano a scuola?
+Dialogue: 0,0:00:44.45,0:00:44.49,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:44.49,0:00:44.55,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che {\1c&HFF00&\u1}si{\r} usano a scuola?
+Dialogue: 0,0:00:44.55,0:00:44.59,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:44.59,0:00:44.73,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si {\1c&HFF00&\u1}usano{\r} a scuola?
+Dialogue: 0,0:00:44.73,0:00:44.75,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:44.75,0:00:44.79,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano {\1c&HFF00&\u1}a{\r} scuola?
+Dialogue: 0,0:00:44.79,0:00:44.81,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a scuola?
+Dialogue: 0,0:00:44.81,0:00:45.09,Default,,0,0,0,,conversazione libera. Deconstruzione grammaticale? Ma li hai visti i libri che si usano a {\1c&HFF00&\u1}scuola?{\r}
+Dialogue: 0,0:00:45.68,0:00:46.12,Default,,0,0,0,,{\1c&HFF00&\u1}aprite{\r} a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:46.12,0:00:46.18,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:46.18,0:00:46.22,Default,,0,0,0,,aprite {\1c&HFF00&\u1}a{\r} pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:46.22,0:00:46.26,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:46.26,0:00:47.19,Default,,0,0,0,,aprite a {\1c&HFF00&\u1}pagina 27.{\r} Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:47.19,0:00:47.41,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:47.41,0:00:47.67,Default,,0,0,0,,aprite a pagina 27. {\1c&HFF00&\u1}Oggi{\r} parliamo del Present Continuous.
+Dialogue: 0,0:00:47.67,0:00:47.73,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:47.73,0:00:48.17,Default,,0,0,0,,aprite a pagina 27. Oggi {\1c&HFF00&\u1}parliamo{\r} del Present Continuous.
+Dialogue: 0,0:00:48.17,0:00:48.21,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:48.21,0:00:48.37,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo {\1c&HFF00&\u1}del{\r} Present Continuous.
+Dialogue: 0,0:00:48.37,0:00:48.41,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:48.41,0:00:48.79,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del {\1c&HFF00&\u1}Present{\r} Continuous.
+Dialogue: 0,0:00:48.79,0:00:48.83,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present Continuous.
+Dialogue: 0,0:00:48.83,0:00:49.38,Default,,0,0,0,,aprite a pagina 27. Oggi parliamo del Present {\1c&HFF00&\u1}Continuous.{\r}

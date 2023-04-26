@@ -1,0 +1,71 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.02,0:00:0.14,Default,,0,0,0,,{\1c&HFF00&\u1}E'{\r} volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.14,0:00:0.20,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.20,0:00:0.40,Default,,0,0,0,,E' {\1c&HFF00&\u1}volato{\r} il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.40,0:00:0.44,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.44,0:00:0.50,Default,,0,0,0,,E' volato {\1c&HFF00&\u1}il{\r} tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.50,0:00:0.54,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.54,0:00:0.70,Default,,0,0,0,,E' volato il {\1c&HFF00&\u1}tempo,{\r} a me sembrava inizio settembre
+Dialogue: 0,0:00:0.70,0:00:0.82,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.82,0:00:0.86,Default,,0,0,0,,E' volato il tempo, {\1c&HFF00&\u1}a{\r} me sembrava inizio settembre
+Dialogue: 0,0:00:0.86,0:00:0.90,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:0.90,0:00:0.98,Default,,0,0,0,,E' volato il tempo, a {\1c&HFF00&\u1}me{\r} sembrava inizio settembre
+Dialogue: 0,0:00:0.98,0:00:1.04,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:1.04,0:00:1.81,Default,,0,0,0,,E' volato il tempo, a me {\1c&HFF00&\u1}sembrava{\r} inizio settembre
+Dialogue: 0,0:00:1.81,0:00:1.83,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:1.83,0:00:2.05,Default,,0,0,0,,E' volato il tempo, a me sembrava {\1c&HFF00&\u1}inizio{\r} settembre
+Dialogue: 0,0:00:2.05,0:00:2.09,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio settembre
+Dialogue: 0,0:00:2.09,0:00:2.41,Default,,0,0,0,,E' volato il tempo, a me sembrava inizio {\1c&HFF00&\u1}settembre{\r}
+Dialogue: 0,0:00:2.92,0:00:3.22,Default,,0,0,0,,{\1c&HFF00&\u1}Dieri,{\r} invece, neh, mmm
+Dialogue: 0,0:00:3.22,0:00:3.30,Default,,0,0,0,,Dieri, invece, neh, mmm
+Dialogue: 0,0:00:3.30,0:00:3.62,Default,,0,0,0,,Dieri, {\1c&HFF00&\u1}invece,{\r} neh, mmm
+Dialogue: 0,0:00:3.62,0:00:4.25,Default,,0,0,0,,Dieri, invece, neh, mmm
+Dialogue: 0,0:00:4.25,0:00:4.37,Default,,0,0,0,,Dieri, invece, {\1c&HFF00&\u1}neh,{\r} mmm
+Dialogue: 0,0:00:4.37,0:00:4.39,Default,,0,0,0,,Dieri, invece, neh, mmm
+Dialogue: 0,0:00:4.39,0:00:4.49,Default,,0,0,0,,Dieri, invece, neh, {\1c&HFF00&\u1}mmm{\r}
+Dialogue: 0,0:00:4.94,0:00:4.98,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:4.98,0:00:5.02,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:5.02,0:00:5.18,Default,,0,0,0,,E {\1c&HFF00&\u1}quindi{\r} sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:5.18,0:00:5.22,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:5.22,0:00:5.36,Default,,0,0,0,,E quindi {\1c&HFF00&\u1}sono{\r} incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:5.36,0:00:5.38,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:5.38,0:00:6.04,Default,,0,0,0,,E quindi sono {\1c&HFF00&\u1}incasinatissimo,{\r} cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:6.04,0:00:6.08,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:6.08,0:00:6.20,Default,,0,0,0,,E quindi sono incasinatissimo, {\1c&HFF00&\u1}cioè{\r} so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:6.20,0:00:6.46,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:6.46,0:00:6.66,Default,,0,0,0,,E quindi sono incasinatissimo, cioè {\1c&HFF00&\u1}so{\r} a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:6.66,0:00:6.96,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:6.96,0:00:6.98,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so {\1c&HFF00&\u1}a{\r} ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:6.98,0:00:7.04,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:7.04,0:00:7.12,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a {\1c&HFF00&\u1}ma{\r} la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:7.12,0:00:7.18,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:7.18,0:00:7.24,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma {\1c&HFF00&\u1}la{\r} pena che ora devo presentarmi in università
+Dialogue: 0,0:00:7.24,0:00:7.30,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:7.30,0:00:7.54,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la {\1c&HFF00&\u1}pena{\r} che ora devo presentarmi in università
+Dialogue: 0,0:00:7.54,0:00:7.78,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:7.78,0:00:7.88,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena {\1c&HFF00&\u1}che{\r} ora devo presentarmi in università
+Dialogue: 0,0:00:7.88,0:00:7.90,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:7.90,0:00:8.12,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che {\1c&HFF00&\u1}ora{\r} devo presentarmi in università
+Dialogue: 0,0:00:8.12,0:00:8.16,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:8.16,0:00:8.30,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora {\1c&HFF00&\u1}devo{\r} presentarmi in università
+Dialogue: 0,0:00:8.30,0:00:8.36,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:8.36,0:00:8.95,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo {\1c&HFF00&\u1}presentarmi{\r} in università
+Dialogue: 0,0:00:8.95,0:00:9.09,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:9.09,0:00:9.17,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi {\1c&HFF00&\u1}in{\r} università
+Dialogue: 0,0:00:9.17,0:00:9.21,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in università
+Dialogue: 0,0:00:9.21,0:00:9.67,Default,,0,0,0,,E quindi sono incasinatissimo, cioè so a ma la pena che ora devo presentarmi in {\1c&HFF00&\u1}università{\r}
+Dialogue: 0,0:00:9.86,0:00:10.07,Default,,0,0,0,,{\1c&HFF00&\u1}Perchè{\r} si...
+Dialogue: 0,0:00:10.07,0:00:10.11,Default,,0,0,0,,Perchè si...
+Dialogue: 0,0:00:10.11,0:00:10.15,Default,,0,0,0,,Perchè {\1c&HFF00&\u1}si...{\r}

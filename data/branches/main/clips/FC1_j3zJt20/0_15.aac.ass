@@ -1,0 +1,49 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.04,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}Ok?{\r} A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.30,0:00:0.38,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,Ok? {\1c&HFF00&\u1}A{\r} meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.40,0:00:0.44,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.44,0:00:0.58,Default,,0,0,0,,Ok? A {\1c&HFF00&\u1}meno{\r} che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.58,0:00:0.60,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.60,0:00:0.68,Default,,0,0,0,,Ok? A meno {\1c&HFF00&\u1}che{\r} non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.68,0:00:0.72,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.72,0:00:0.82,Default,,0,0,0,,Ok? A meno che {\1c&HFF00&\u1}non{\r} sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.82,0:00:0.86,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:0.86,0:00:1.00,Default,,0,0,0,,Ok? A meno che non {\1c&HFF00&\u1}sia{\r} qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.00,0:00:1.04,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.04,0:00:1.24,Default,,0,0,0,,Ok? A meno che non sia {\1c&HFF00&\u1}qualche{\r} attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.24,0:00:1.26,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.26,0:00:1.56,Default,,0,0,0,,Ok? A meno che non sia qualche {\1c&HFF00&\u1}attore{\r} famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.56,0:00:1.60,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.60,0:00:1.90,Default,,0,0,0,,Ok? A meno che non sia qualche attore {\1c&HFF00&\u1}famoso{\r} di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.90,0:00:1.94,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:1.94,0:00:2.00,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso {\1c&HFF00&\u1}di{\r} Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:2.00,0:00:2.04,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:2.04,0:00:2.22,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di {\1c&HFF00&\u1}Star{\r} Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:2.22,0:00:2.26,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:2.26,0:00:2.60,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star {\1c&HFF00&\u1}Wars,{\r} oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:2.60,0:00:2.65,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:2.65,0:00:3.01,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, {\1c&HFF00&\u1}oppure{\r} Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:3.01,0:00:3.03,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:3.03,0:00:3.69,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure {\1c&HFF00&\u1}Sheldon,{\r} oppure qualsiasi
+Dialogue: 0,0:00:3.69,0:00:3.71,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:3.71,0:00:4.05,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, {\1c&HFF00&\u1}oppure{\r} qualsiasi
+Dialogue: 0,0:00:4.05,0:00:4.21,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure qualsiasi
+Dialogue: 0,0:00:4.21,0:00:4.53,Default,,0,0,0,,Ok? A meno che non sia qualche attore famoso di Star Wars, oppure Sheldon, oppure {\1c&HFF00&\u1}qualsiasi{\r}
+Dialogue: 0,0:00:4.70,0:00:4.84,Default,,0,0,0,,{\1c&HFF00&\u1}altra{\r} persona ma
+Dialogue: 0,0:00:4.84,0:00:4.86,Default,,0,0,0,,altra persona ma
+Dialogue: 0,0:00:4.86,0:00:5.21,Default,,0,0,0,,altra {\1c&HFF00&\u1}persona{\r} ma
+Dialogue: 0,0:00:5.21,0:00:5.25,Default,,0,0,0,,altra persona ma
+Dialogue: 0,0:00:5.25,0:00:5.29,Default,,0,0,0,,altra persona {\1c&HFF00&\u1}ma{\r}

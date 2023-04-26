@@ -1,0 +1,585 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,{\1c&HFF00&\u1}i{\r} principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:0.18,0:00:0.20,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:0.20,0:00:0.48,Default,,0,0,0,,i {\1c&HFF00&\u1}principi{\r} cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:0.48,0:00:0.58,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:0.58,0:00:0.90,Default,,0,0,0,,i principi {\1c&HFF00&\u1}cardinei{\r} su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:0.90,0:00:0.92,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:0.92,0:00:1.00,Default,,0,0,0,,i principi cardinei {\1c&HFF00&\u1}su{\r} cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:1.00,0:00:1.04,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:1.04,0:00:1.14,Default,,0,0,0,,i principi cardinei su {\1c&HFF00&\u1}cui{\r} basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:1.14,0:00:1.28,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:1.28,0:00:1.69,Default,,0,0,0,,i principi cardinei su cui {\1c&HFF00&\u1}basare{\r} l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:1.69,0:00:1.85,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:1.85,0:00:2.35,Default,,0,0,0,,i principi cardinei su cui basare {\1c&HFF00&\u1}l'apprendimento{\r} linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:2.35,0:00:2.41,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:2.41,0:00:2.89,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento {\1c&HFF00&\u1}linguistico,{\r} sempre che ti interessi farlo
+Dialogue: 0,0:00:2.89,0:00:3.19,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:3.19,0:00:3.37,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, {\1c&HFF00&\u1}sempre{\r} che ti interessi farlo
+Dialogue: 0,0:00:3.37,0:00:3.41,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:3.41,0:00:3.49,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre {\1c&HFF00&\u1}che{\r} ti interessi farlo
+Dialogue: 0,0:00:3.49,0:00:3.51,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:3.51,0:00:3.59,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che {\1c&HFF00&\u1}ti{\r} interessi farlo
+Dialogue: 0,0:00:3.59,0:00:3.61,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:3.61,0:00:3.91,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti {\1c&HFF00&\u1}interessi{\r} farlo
+Dialogue: 0,0:00:3.91,0:00:3.95,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi farlo
+Dialogue: 0,0:00:3.95,0:00:4.13,Default,,0,0,0,,i principi cardinei su cui basare l'apprendimento linguistico, sempre che ti interessi {\1c&HFF00&\u1}farlo{\r}
+Dialogue: 0,0:00:4.18,0:00:5.16,Default,,0,0,0,,{\1c&HFF00&\u1}bene{\r} e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:5.16,0:00:5.30,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:5.30,0:00:5.32,Default,,0,0,0,,bene {\1c&HFF00&\u1}e{\r} rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:5.32,0:00:5.34,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:5.34,0:00:5.77,Default,,0,0,0,,bene e {\1c&HFF00&\u1}rapidamente,{\r} ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:5.77,0:00:5.93,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:5.93,0:00:6.17,Default,,0,0,0,,bene e rapidamente, {\1c&HFF00&\u1}ovviamente.{\r} Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:6.17,0:00:6.19,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:6.19,0:00:6.45,Default,,0,0,0,,bene e rapidamente, ovviamente. {\1c&HFF00&\u1}Ognuno{\r} di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:6.45,0:00:6.47,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:6.47,0:00:6.53,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno {\1c&HFF00&\u1}di{\r} questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:6.53,0:00:6.57,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:6.57,0:00:6.87,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di {\1c&HFF00&\u1}questi{\r} lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:6.87,0:00:7.11,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:7.11,0:00:7.17,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi {\1c&HFF00&\u1}lo{\r} riprendiamo direttamente da uno
+Dialogue: 0,0:00:7.17,0:00:7.21,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:7.21,0:00:7.65,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo {\1c&HFF00&\u1}riprendiamo{\r} direttamente da uno
+Dialogue: 0,0:00:7.65,0:00:7.77,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:7.77,0:00:8.33,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo {\1c&HFF00&\u1}direttamente{\r} da uno
+Dialogue: 0,0:00:8.33,0:00:8.43,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:8.43,0:00:8.49,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente {\1c&HFF00&\u1}da{\r} uno
+Dialogue: 0,0:00:8.49,0:00:8.55,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da uno
+Dialogue: 0,0:00:8.55,0:00:8.65,Default,,0,0,0,,bene e rapidamente, ovviamente. Ognuno di questi lo riprendiamo direttamente da {\1c&HFF00&\u1}uno{\r}
+Dialogue: 0,0:00:8.88,0:00:9.10,Default,,0,0,0,,{\1c&HFF00&\u1}dei 3{\r} hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:9.10,0:00:9.36,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:9.36,0:00:9.78,Default,,0,0,0,,dei 3 {\1c&HFF00&\u1}hacker{\r} di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:9.78,0:00:10.06,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.06,0:00:10.12,Default,,0,0,0,,dei 3 hacker {\1c&HFF00&\u1}di{\r} qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.12,0:00:10.18,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.18,0:00:10.30,Default,,0,0,0,,dei 3 hacker di {\1c&HFF00&\u1}qui{\r} sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.30,0:00:10.36,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.36,0:00:10.59,Default,,0,0,0,,dei 3 hacker di qui {\1c&HFF00&\u1}sopra,{\r} più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.59,0:00:10.65,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.65,0:00:10.77,Default,,0,0,0,,dei 3 hacker di qui sopra, {\1c&HFF00&\u1}più{\r} un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.77,0:00:10.89,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:10.89,0:00:11.03,Default,,0,0,0,,dei 3 hacker di qui sopra, più {\1c&HFF00&\u1}un{\r} quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:11.03,0:00:11.09,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:11.09,0:00:11.51,Default,,0,0,0,,dei 3 hacker di qui sopra, più un {\1c&HFF00&\u1}quarto,{\r} regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:11.51,0:00:11.81,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:11.81,0:00:12.37,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, {\1c&HFF00&\u1}regalatoci{\r} niente popolimeno che da un altro
+Dialogue: 0,0:00:12.37,0:00:12.63,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:12.63,0:00:12.97,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci {\1c&HFF00&\u1}niente{\r} popolimeno che da un altro
+Dialogue: 0,0:00:12.97,0:00:13.03,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:13.03,0:00:13.43,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente {\1c&HFF00&\u1}popolimeno{\r} che da un altro
+Dialogue: 0,0:00:13.43,0:00:13.47,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:13.47,0:00:13.61,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno {\1c&HFF00&\u1}che{\r} da un altro
+Dialogue: 0,0:00:13.61,0:00:13.79,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:13.79,0:00:13.89,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che {\1c&HFF00&\u1}da{\r} un altro
+Dialogue: 0,0:00:13.89,0:00:13.99,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:13.99,0:00:14.09,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da {\1c&HFF00&\u1}un{\r} altro
+Dialogue: 0,0:00:14.09,0:00:14.13,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un altro
+Dialogue: 0,0:00:14.13,0:00:14.41,Default,,0,0,0,,dei 3 hacker di qui sopra, più un quarto, regalatoci niente popolimeno che da un {\1c&HFF00&\u1}altro{\r}
+Dialogue: 0,0:00:14.40,0:00:14.64,Default,,0,0,0,,{\1c&HFF00&\u1}personagione,{\r} ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:14.64,0:00:15.26,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.26,0:00:15.32,Default,,0,0,0,,personagione, {\1c&HFF00&\u1}ma{\r} ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.32,0:00:15.34,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.34,0:00:15.42,Default,,0,0,0,,personagione, ma {\1c&HFF00&\u1}ne{\r} parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.42,0:00:15.44,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.44,0:00:15.70,Default,,0,0,0,,personagione, ma ne {\1c&HFF00&\u1}parliamo{\r} fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.70,0:00:15.74,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.74,0:00:15.80,Default,,0,0,0,,personagione, ma ne parliamo {\1c&HFF00&\u1}fra{\r} un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.80,0:00:15.84,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.84,0:00:15.88,Default,,0,0,0,,personagione, ma ne parliamo fra {\1c&HFF00&\u1}un{\r} minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.88,0:00:15.90,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:15.90,0:00:16.57,Default,,0,0,0,,personagione, ma ne parliamo fra un {\1c&HFF00&\u1}minuto.{\r} Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:16.57,0:00:16.59,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:16.59,0:00:17.03,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. {\1c&HFF00&\u1}Descriverò{\r} questi 4 principi e poi ti darò
+Dialogue: 0,0:00:17.03,0:00:17.25,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:17.25,0:00:17.49,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò {\1c&HFF00&\u1}questi 4{\r} principi e poi ti darò
+Dialogue: 0,0:00:17.49,0:00:17.89,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:17.89,0:00:18.31,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 {\1c&HFF00&\u1}principi{\r} e poi ti darò
+Dialogue: 0,0:00:18.31,0:00:18.45,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:18.45,0:00:18.49,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi {\1c&HFF00&\u1}e{\r} poi ti darò
+Dialogue: 0,0:00:18.49,0:00:18.53,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:18.53,0:00:18.63,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e {\1c&HFF00&\u1}poi{\r} ti darò
+Dialogue: 0,0:00:18.63,0:00:18.67,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:18.67,0:00:18.71,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi {\1c&HFF00&\u1}ti{\r} darò
+Dialogue: 0,0:00:18.71,0:00:18.75,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti darò
+Dialogue: 0,0:00:18.75,0:00:18.89,Default,,0,0,0,,personagione, ma ne parliamo fra un minuto. Descriverò questi 4 principi e poi ti {\1c&HFF00&\u1}darò{\r}
+Dialogue: 0,0:00:19.12,0:00:19.24,Default,,0,0,0,,{\1c&HFF00&\u1}un'idea{\r} precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.24,0:00:19.26,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.26,0:00:19.40,Default,,0,0,0,,un'idea {\1c&HFF00&\u1}precisa{\r} di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.40,0:00:19.42,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.42,0:00:19.46,Default,,0,0,0,,un'idea precisa {\1c&HFF00&\u1}di{\r} come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.46,0:00:19.48,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.48,0:00:19.56,Default,,0,0,0,,un'idea precisa di {\1c&HFF00&\u1}come{\r} concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.56,0:00:19.58,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.58,0:00:19.86,Default,,0,0,0,,un'idea precisa di come {\1c&HFF00&\u1}concretizzarli{\r} e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.86,0:00:19.88,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.88,0:00:19.90,Default,,0,0,0,,un'idea precisa di come concretizzarli {\1c&HFF00&\u1}e{\r} come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.90,0:00:19.92,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:19.92,0:00:20.00,Default,,0,0,0,,un'idea precisa di come concretizzarli e {\1c&HFF00&\u1}come{\r} portare avanti il tuo studio.
+Dialogue: 0,0:00:20.00,0:00:20.02,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:20.02,0:00:20.16,Default,,0,0,0,,un'idea precisa di come concretizzarli e come {\1c&HFF00&\u1}portare{\r} avanti il tuo studio.
+Dialogue: 0,0:00:20.16,0:00:20.18,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:20.18,0:00:20.30,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare {\1c&HFF00&\u1}avanti{\r} il tuo studio.
+Dialogue: 0,0:00:20.30,0:00:20.32,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:20.32,0:00:20.36,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti {\1c&HFF00&\u1}il{\r} tuo studio.
+Dialogue: 0,0:00:20.36,0:00:20.38,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:20.38,0:00:20.44,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il {\1c&HFF00&\u1}tuo{\r} studio.
+Dialogue: 0,0:00:20.44,0:00:20.46,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo studio.
+Dialogue: 0,0:00:20.46,0:00:20.58,Default,,0,0,0,,un'idea precisa di come concretizzarli e come portare avanti il tuo {\1c&HFF00&\u1}studio.{\r}
+Dialogue: 0,0:00:23.96,0:00:24.26,Default,,0,0,0,,{\1c&HFF00&\u1}Dunque,{\r} il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:24.26,0:00:24.54,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:24.54,0:00:24.64,Default,,0,0,0,,Dunque, {\1c&HFF00&\u1}il{\r} primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:24.64,0:00:24.78,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:24.78,0:00:25.04,Default,,0,0,0,,Dunque, il {\1c&HFF00&\u1}primo{\r} principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:25.04,0:00:25.08,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:25.08,0:00:25.42,Default,,0,0,0,,Dunque, il primo {\1c&HFF00&\u1}principio{\r} cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:25.42,0:00:25.48,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:25.48,0:00:25.83,Default,,0,0,0,,Dunque, il primo principio {\1c&HFF00&\u1}cardine{\r} è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:25.83,0:00:25.95,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:25.95,0:00:25.99,Default,,0,0,0,,Dunque, il primo principio cardine {\1c&HFF00&\u1}è{\r} quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:25.99,0:00:26.05,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:26.05,0:00:26.33,Default,,0,0,0,,Dunque, il primo principio cardine è {\1c&HFF00&\u1}quello{\r} dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:26.33,0:00:26.59,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:26.59,0:00:27.59,Default,,0,0,0,,Dunque, il primo principio cardine è quello {\1c&HFF00&\u1}dell'immersione{\r} ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:27.59,0:00:27.71,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:27.71,0:00:27.77,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione {\1c&HFF00&\u1}ed{\r} è al cuore dell'insegnamento
+Dialogue: 0,0:00:27.77,0:00:27.83,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:27.83,0:00:27.87,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed {\1c&HFF00&\u1}è{\r} al cuore dell'insegnamento
+Dialogue: 0,0:00:27.87,0:00:28.03,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:28.03,0:00:28.13,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è {\1c&HFF00&\u1}al{\r} cuore dell'insegnamento
+Dialogue: 0,0:00:28.13,0:00:28.21,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:28.21,0:00:28.43,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al {\1c&HFF00&\u1}cuore{\r} dell'insegnamento
+Dialogue: 0,0:00:28.43,0:00:28.47,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore dell'insegnamento
+Dialogue: 0,0:00:28.47,0:00:29.13,Default,,0,0,0,,Dunque, il primo principio cardine è quello dell'immersione ed è al cuore {\1c&HFF00&\u1}dell'insegnamento{\r}
+Dialogue: 0,0:00:29.62,0:00:30.38,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:30.38,0:00:30.40,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:30.40,0:00:30.60,Default,,0,0,0,,di {\1c&HFF00&\u1}Steve{\r} Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:30.60,0:00:30.62,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:30.62,0:00:30.78,Default,,0,0,0,,di Steve {\1c&HFF00&\u1}Kaufman.{\r} Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:30.78,0:00:30.80,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:30.80,0:00:31.17,Default,,0,0,0,,di Steve Kaufman. {\1c&HFF00&\u1}Immersione{\r} vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.17,0:00:31.21,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.21,0:00:31.35,Default,,0,0,0,,di Steve Kaufman. Immersione {\1c&HFF00&\u1}vuol{\r} dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.35,0:00:31.37,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.37,0:00:31.53,Default,,0,0,0,,di Steve Kaufman. Immersione vuol {\1c&HFF00&\u1}dire{\r} che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.53,0:00:31.77,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.77,0:00:31.87,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire {\1c&HFF00&\u1}che{\r} il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.87,0:00:31.93,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:31.93,0:00:32.01,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che {\1c&HFF00&\u1}il{\r} metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:32.01,0:00:32.05,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:32.05,0:00:32.31,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il {\1c&HFF00&\u1}metodo{\r} più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:32.31,0:00:32.35,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:32.35,0:00:32.45,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo {\1c&HFF00&\u1}più{\r} rapido, sicuro e duraturo per
+Dialogue: 0,0:00:32.45,0:00:32.51,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:32.51,0:00:32.85,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più {\1c&HFF00&\u1}rapido,{\r} sicuro e duraturo per
+Dialogue: 0,0:00:32.85,0:00:32.95,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:32.95,0:00:33.31,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, {\1c&HFF00&\u1}sicuro{\r} e duraturo per
+Dialogue: 0,0:00:33.31,0:00:33.45,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:33.45,0:00:33.49,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro {\1c&HFF00&\u1}e{\r} duraturo per
+Dialogue: 0,0:00:33.49,0:00:33.59,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:33.59,0:00:34.07,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e {\1c&HFF00&\u1}duraturo{\r} per
+Dialogue: 0,0:00:34.07,0:00:34.11,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo per
+Dialogue: 0,0:00:34.11,0:00:34.19,Default,,0,0,0,,di Steve Kaufman. Immersione vuol dire che il metodo più rapido, sicuro e duraturo {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:00:34.20,0:00:34.80,Default,,0,0,0,,{\1c&HFF00&\u1}imparare{\r} una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:34.80,0:00:34.86,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:34.86,0:00:34.92,Default,,0,0,0,,imparare {\1c&HFF00&\u1}una{\r} lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:34.92,0:00:34.94,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:34.94,0:00:35.42,Default,,0,0,0,,imparare una {\1c&HFF00&\u1}lingua{\r} è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:35.42,0:00:35.44,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:35.44,0:00:35.46,Default,,0,0,0,,imparare una lingua {\1c&HFF00&\u1}è{\r} circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:35.46,0:00:35.50,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:35.50,0:00:36.27,Default,,0,0,0,,imparare una lingua è {\1c&HFF00&\u1}circondarsi{\r} di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:36.27,0:00:36.33,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:36.33,0:00:36.41,Default,,0,0,0,,imparare una lingua è circondarsi {\1c&HFF00&\u1}di{\r} essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:36.41,0:00:36.45,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:36.45,0:00:36.69,Default,,0,0,0,,imparare una lingua è circondarsi di {\1c&HFF00&\u1}essa,{\r} immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:36.69,0:00:36.85,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:36.85,0:00:37.53,Default,,0,0,0,,imparare una lingua è circondarsi di essa, {\1c&HFF00&\u1}immergersi{\r} in essa, in ogni aspetto della
+Dialogue: 0,0:00:37.53,0:00:37.55,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:37.55,0:00:37.63,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi {\1c&HFF00&\u1}in{\r} essa, in ogni aspetto della
+Dialogue: 0,0:00:37.63,0:00:37.67,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:37.67,0:00:37.89,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in {\1c&HFF00&\u1}essa,{\r} in ogni aspetto della
+Dialogue: 0,0:00:37.89,0:00:38.21,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:38.21,0:00:38.29,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, {\1c&HFF00&\u1}in{\r} ogni aspetto della
+Dialogue: 0,0:00:38.29,0:00:38.33,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:38.33,0:00:38.61,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in {\1c&HFF00&\u1}ogni{\r} aspetto della
+Dialogue: 0,0:00:38.61,0:00:38.73,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:38.73,0:00:39.23,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni {\1c&HFF00&\u1}aspetto{\r} della
+Dialogue: 0,0:00:39.23,0:00:39.45,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto della
+Dialogue: 0,0:00:39.45,0:00:39.61,Default,,0,0,0,,imparare una lingua è circondarsi di essa, immergersi in essa, in ogni aspetto {\1c&HFF00&\u1}della{\r}
+Dialogue: 0,0:00:39.58,0:00:39.82,Default,,0,0,0,,{\1c&HFF00&\u1}nostra{\r} vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:39.82,0:00:39.84,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:39.84,0:00:40.48,Default,,0,0,0,,nostra {\1c&HFF00&\u1}vita.{\r} Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:40.48,0:00:40.54,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:40.54,0:00:41.06,Default,,0,0,0,,nostra vita. {\1c&HFF00&\u1}Guardare,{\r} parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:41.06,0:00:41.36,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:41.36,0:00:41.83,Default,,0,0,0,,nostra vita. Guardare, {\1c&HFF00&\u1}parlare,{\r} ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:41.83,0:00:41.99,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:41.99,0:00:42.47,Default,,0,0,0,,nostra vita. Guardare, parlare, {\1c&HFF00&\u1}ascoltare,{\r} respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:42.47,0:00:42.61,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:42.61,0:00:43.33,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, {\1c&HFF00&\u1}respirare{\r} la nuova lingua, e perché no, la
+Dialogue: 0,0:00:43.33,0:00:43.61,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:43.61,0:00:43.67,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare {\1c&HFF00&\u1}la{\r} nuova lingua, e perché no, la
+Dialogue: 0,0:00:43.67,0:00:43.69,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:43.69,0:00:43.89,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la {\1c&HFF00&\u1}nuova{\r} lingua, e perché no, la
+Dialogue: 0,0:00:43.89,0:00:43.93,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:43.93,0:00:44.21,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova {\1c&HFF00&\u1}lingua,{\r} e perché no, la
+Dialogue: 0,0:00:44.21,0:00:44.47,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:44.47,0:00:44.51,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, {\1c&HFF00&\u1}e{\r} perché no, la
+Dialogue: 0,0:00:44.51,0:00:44.55,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:44.55,0:00:44.73,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e {\1c&HFF00&\u1}perché{\r} no, la
+Dialogue: 0,0:00:44.73,0:00:44.77,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:44.77,0:00:44.87,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché {\1c&HFF00&\u1}no,{\r} la
+Dialogue: 0,0:00:44.87,0:00:45.15,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, la
+Dialogue: 0,0:00:45.15,0:00:45.19,Default,,0,0,0,,nostra vita. Guardare, parlare, ascoltare, respirare la nuova lingua, e perché no, {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:45.28,0:00:45.50,Default,,0,0,0,,{\1c&HFF00&\u1}nuova{\r} cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:45.50,0:00:45.52,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:45.52,0:00:46.24,Default,,0,0,0,,nuova {\1c&HFF00&\u1}cultura.{\r} E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:46.24,0:00:46.28,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:46.28,0:00:46.32,Default,,0,0,0,,nuova cultura. {\1c&HFF00&\u1}E'{\r} emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:46.32,0:00:46.48,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:46.48,0:00:47.11,Default,,0,0,0,,nuova cultura. E' {\1c&HFF00&\u1}emblematica{\r} in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.11,0:00:47.17,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.17,0:00:47.21,Default,,0,0,0,,nuova cultura. E' emblematica {\1c&HFF00&\u1}in{\r} tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.21,0:00:47.25,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.25,0:00:47.37,Default,,0,0,0,,nuova cultura. E' emblematica in {\1c&HFF00&\u1}tal{\r} senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.37,0:00:47.43,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.43,0:00:47.69,Default,,0,0,0,,nuova cultura. E' emblematica in tal {\1c&HFF00&\u1}senso{\r} una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.69,0:00:47.83,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.83,0:00:47.91,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso {\1c&HFF00&\u1}una{\r} delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.91,0:00:47.93,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:47.93,0:00:48.07,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una {\1c&HFF00&\u1}delle{\r} frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:48.07,0:00:48.11,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:48.11,0:00:48.37,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle {\1c&HFF00&\u1}frasi{\r} celebri di Kaufman che dice
+Dialogue: 0,0:00:48.37,0:00:48.71,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:48.71,0:00:49.05,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi {\1c&HFF00&\u1}celebri{\r} di Kaufman che dice
+Dialogue: 0,0:00:49.05,0:00:49.09,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:49.09,0:00:49.15,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri {\1c&HFF00&\u1}di{\r} Kaufman che dice
+Dialogue: 0,0:00:49.15,0:00:49.21,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:49.21,0:00:49.65,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di {\1c&HFF00&\u1}Kaufman{\r} che dice
+Dialogue: 0,0:00:49.65,0:00:49.91,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:49.91,0:00:49.99,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman {\1c&HFF00&\u1}che{\r} dice
+Dialogue: 0,0:00:49.99,0:00:50.03,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che dice
+Dialogue: 0,0:00:50.03,0:00:50.21,Default,,0,0,0,,nuova cultura. E' emblematica in tal senso una delle frasi celebri di Kaufman che {\1c&HFF00&\u1}dice{\r}
+Dialogue: 0,0:00:54.11,0:00:54.25,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:54.25,0:00:54.29,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:54.29,0:00:54.63,Default,,0,0,0,,che {\1c&HFF00&\u1}più{\r} che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:54.63,0:00:54.99,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:54.99,0:00:55.27,Default,,0,0,0,,che più {\1c&HFF00&\u1}che{\r} imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.27,0:00:55.39,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.39,0:00:55.67,Default,,0,0,0,,che più che {\1c&HFF00&\u1}imparare{\r} le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.67,0:00:55.71,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.71,0:00:55.77,Default,,0,0,0,,che più che imparare {\1c&HFF00&\u1}le{\r} lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.77,0:00:55.79,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.79,0:00:55.95,Default,,0,0,0,,che più che imparare le {\1c&HFF00&\u1}lingue{\r} ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.95,0:00:55.97,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:55.97,0:00:56.01,Default,,0,0,0,,che più che imparare le lingue {\1c&HFF00&\u1}ci{\r} si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.01,0:00:56.03,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.03,0:00:56.08,Default,,0,0,0,,che più che imparare le lingue ci {\1c&HFF00&\u1}si{\r} abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.08,0:00:56.10,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.10,0:00:56.22,Default,,0,0,0,,che più che imparare le lingue ci si {\1c&HFF00&\u1}abitua{\r} ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.22,0:00:56.24,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.24,0:00:56.28,Default,,0,0,0,,che più che imparare le lingue ci si abitua {\1c&HFF00&\u1}ad{\r} esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.28,0:00:56.30,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.30,0:00:56.38,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad {\1c&HFF00&\u1}esse.{\r} Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.38,0:00:56.40,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.40,0:00:56.46,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. {\1c&HFF00&\u1}Non{\r} imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.46,0:00:56.48,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.48,0:00:56.66,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non {\1c&HFF00&\u1}imparerai{\r} mai a parlare in modo
+Dialogue: 0,0:00:56.66,0:00:56.68,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.68,0:00:56.74,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai {\1c&HFF00&\u1}mai{\r} a parlare in modo
+Dialogue: 0,0:00:56.74,0:00:56.76,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.76,0:00:56.78,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai {\1c&HFF00&\u1}a{\r} parlare in modo
+Dialogue: 0,0:00:56.78,0:00:56.80,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.80,0:00:56.94,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a {\1c&HFF00&\u1}parlare{\r} in modo
+Dialogue: 0,0:00:56.94,0:00:56.96,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:56.96,0:00:57.00,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare {\1c&HFF00&\u1}in{\r} modo
+Dialogue: 0,0:00:57.00,0:00:57.02,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in modo
+Dialogue: 0,0:00:57.02,0:00:57.10,Default,,0,0,0,,che più che imparare le lingue ci si abitua ad esse. Non imparerai mai a parlare in {\1c&HFF00&\u1}modo{\r}
+Dialogue: 0,0:00:56.12,0:00:56.80,Default,,0,0,0,,{\1c&HFF00&\u1}fluente{\r} se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:56.80,0:00:56.82,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:56.82,0:00:56.88,Default,,0,0,0,,fluente {\1c&HFF00&\u1}se{\r} non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:56.88,0:00:56.90,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:56.90,0:00:56.98,Default,,0,0,0,,fluente se {\1c&HFF00&\u1}non{\r} fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:56.98,0:00:57.00,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.00,0:00:57.06,Default,,0,0,0,,fluente se non {\1c&HFF00&\u1}fai{\r} lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.06,0:00:57.12,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.12,0:00:57.18,Default,,0,0,0,,fluente se non fai {\1c&HFF00&\u1}lo{\r} sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.18,0:00:57.20,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.20,0:00:57.46,Default,,0,0,0,,fluente se non fai lo {\1c&HFF00&\u1}sforzo{\r} di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.46,0:00:57.50,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.50,0:00:57.56,Default,,0,0,0,,fluente se non fai lo sforzo {\1c&HFF00&\u1}di{\r} uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.56,0:00:57.62,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:57.62,0:00:58.07,Default,,0,0,0,,fluente se non fai lo sforzo di {\1c&HFF00&\u1}uscire{\r} dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:58.07,0:00:58.13,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:58.13,0:00:58.29,Default,,0,0,0,,fluente se non fai lo sforzo di uscire {\1c&HFF00&\u1}dalla{\r} tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:58.29,0:00:58.33,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:58.33,0:00:58.49,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla {\1c&HFF00&\u1}tua{\r} comoda zona di comfort linguistico per
+Dialogue: 0,0:00:58.49,0:00:58.67,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:58.67,0:00:59.09,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua {\1c&HFF00&\u1}comoda{\r} zona di comfort linguistico per
+Dialogue: 0,0:00:59.09,0:00:59.19,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:59.19,0:00:59.39,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda {\1c&HFF00&\u1}zona{\r} di comfort linguistico per
+Dialogue: 0,0:00:59.39,0:00:59.41,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:59.41,0:00:59.49,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona {\1c&HFF00&\u1}di{\r} comfort linguistico per
+Dialogue: 0,0:00:59.49,0:00:59.53,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:00:59.53,0:00:59.93,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di {\1c&HFF00&\u1}comfort{\r} linguistico per
+Dialogue: 0,0:00:59.93,0:01:0.01,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:01:0.01,0:01:0.55,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort {\1c&HFF00&\u1}linguistico{\r} per
+Dialogue: 0,0:01:0.55,0:01:0.59,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico per
+Dialogue: 0,0:01:0.59,0:01:0.71,Default,,0,0,0,,fluente se non fai lo sforzo di uscire dalla tua comoda zona di comfort linguistico {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:01:1.08,0:01:1.24,Default,,0,0,0,,{\1c&HFF00&\u1}saltare{\r} nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:1.24,0:01:1.28,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:1.28,0:01:1.44,Default,,0,0,0,,saltare {\1c&HFF00&\u1}nella{\r} piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:1.44,0:01:1.50,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:1.50,0:01:1.80,Default,,0,0,0,,saltare nella {\1c&HFF00&\u1}piscina{\r} con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:1.80,0:01:2.04,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:2.04,0:01:2.14,Default,,0,0,0,,saltare nella piscina {\1c&HFF00&\u1}con{\r} gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:2.14,0:01:2.20,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:2.20,0:01:2.30,Default,,0,0,0,,saltare nella piscina con {\1c&HFF00&\u1}gli{\r} squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:2.30,0:01:2.36,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:2.36,0:01:2.79,Default,,0,0,0,,saltare nella piscina con gli {\1c&HFF00&\u1}squali.{\r} O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:2.79,0:01:3.33,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:3.33,0:01:3.39,Default,,0,0,0,,saltare nella piscina con gli squali. {\1c&HFF00&\u1}O{\r} nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:3.39,0:01:3.47,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:3.47,0:01:3.81,Default,,0,0,0,,saltare nella piscina con gli squali. O {\1c&HFF00&\u1}nuoti{\r} o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:3.81,0:01:4.55,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:4.55,0:01:4.59,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti {\1c&HFF00&\u1}o{\r} nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:4.59,0:01:4.63,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:4.63,0:01:4.91,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o {\1c&HFF00&\u1}nuoti,{\r} come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:4.91,0:01:5.35,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:5.35,0:01:5.45,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, {\1c&HFF00&\u1}come{\r} direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:5.45,0:01:5.49,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:5.49,0:01:5.71,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come {\1c&HFF00&\u1}direbbe{\r} Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:5.71,0:01:5.79,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:5.79,0:01:6.03,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe {\1c&HFF00&\u1}Paolo{\r} Bitta tra l'altro,
+Dialogue: 0,0:01:6.03,0:01:6.07,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:6.07,0:01:6.33,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo {\1c&HFF00&\u1}Bitta{\r} tra l'altro,
+Dialogue: 0,0:01:6.33,0:01:6.35,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:6.35,0:01:6.45,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta {\1c&HFF00&\u1}tra{\r} l'altro,
+Dialogue: 0,0:01:6.45,0:01:6.49,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra l'altro,
+Dialogue: 0,0:01:6.49,0:01:6.67,Default,,0,0,0,,saltare nella piscina con gli squali. O nuoti o nuoti, come direbbe Paolo Bitta tra {\1c&HFF00&\u1}l'altro,{\r}
+Dialogue: 0,0:01:6.86,0:01:6.90,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:6.90,0:01:6.92,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:6.92,0:01:7.04,Default,,0,0,0,,ma {\1c&HFF00&\u1}questo{\r} è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.04,0:01:7.06,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.06,0:01:7.08,Default,,0,0,0,,ma questo {\1c&HFF00&\u1}è{\r} un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.08,0:01:7.10,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.10,0:01:7.14,Default,,0,0,0,,ma questo è {\1c&HFF00&\u1}un{\r} altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.14,0:01:7.16,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.16,0:01:7.26,Default,,0,0,0,,ma questo è un {\1c&HFF00&\u1}altro{\r} discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.26,0:01:7.28,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.28,0:01:7.60,Default,,0,0,0,,ma questo è un altro {\1c&HFF00&\u1}discorso.{\r} Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.60,0:01:7.92,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:7.92,0:01:8.12,Default,,0,0,0,,ma questo è un altro discorso. {\1c&HFF00&\u1}Questo{\r} si collega direttamente col secondo
+Dialogue: 0,0:01:8.12,0:01:8.19,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:8.19,0:01:8.25,Default,,0,0,0,,ma questo è un altro discorso. Questo {\1c&HFF00&\u1}si{\r} collega direttamente col secondo
+Dialogue: 0,0:01:8.25,0:01:8.29,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:8.29,0:01:8.59,Default,,0,0,0,,ma questo è un altro discorso. Questo si {\1c&HFF00&\u1}collega{\r} direttamente col secondo
+Dialogue: 0,0:01:8.59,0:01:8.63,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:8.63,0:01:9.21,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega {\1c&HFF00&\u1}direttamente{\r} col secondo
+Dialogue: 0,0:01:9.21,0:01:9.29,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:9.29,0:01:9.49,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente {\1c&HFF00&\u1}col{\r} secondo
+Dialogue: 0,0:01:9.49,0:01:9.67,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col secondo
+Dialogue: 0,0:01:9.67,0:01:10.11,Default,,0,0,0,,ma questo è un altro discorso. Questo si collega direttamente col {\1c&HFF00&\u1}secondo{\r}
+Dialogue: 0,0:01:10.34,0:01:10.64,Default,,0,0,0,,{\1c&HFF00&\u1}principio{\r} che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:10.64,0:01:10.68,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:10.68,0:01:10.76,Default,,0,0,0,,principio {\1c&HFF00&\u1}che{\r} ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:10.76,0:01:10.80,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:10.80,0:01:10.86,Default,,0,0,0,,principio che {\1c&HFF00&\u1}ci{\r} viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:10.86,0:01:10.90,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:10.90,0:01:11.06,Default,,0,0,0,,principio che ci {\1c&HFF00&\u1}viene{\r} raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:11.06,0:01:11.10,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:11.10,0:01:11.54,Default,,0,0,0,,principio che ci viene {\1c&HFF00&\u1}raccontato{\r} invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:11.54,0:01:11.58,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:11.58,0:01:11.86,Default,,0,0,0,,principio che ci viene raccontato {\1c&HFF00&\u1}invece{\r} da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:11.86,0:01:12.11,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:12.11,0:01:12.21,Default,,0,0,0,,principio che ci viene raccontato invece {\1c&HFF00&\u1}da{\r} Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:12.21,0:01:12.29,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:12.29,0:01:12.53,Default,,0,0,0,,principio che ci viene raccontato invece da {\1c&HFF00&\u1}Benny{\r} Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:12.53,0:01:12.63,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:12.63,0:01:13.05,Default,,0,0,0,,principio che ci viene raccontato invece da Benny {\1c&HFF00&\u1}Lewis.{\r} Senza sforzo comunicativo non
+Dialogue: 0,0:01:13.05,0:01:13.39,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:13.39,0:01:13.73,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. {\1c&HFF00&\u1}Senza{\r} sforzo comunicativo non
+Dialogue: 0,0:01:13.73,0:01:14.11,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:14.11,0:01:14.59,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza {\1c&HFF00&\u1}sforzo{\r} comunicativo non
+Dialogue: 0,0:01:14.59,0:01:14.65,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:14.65,0:01:15.27,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo {\1c&HFF00&\u1}comunicativo{\r} non
+Dialogue: 0,0:01:15.27,0:01:15.63,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo non
+Dialogue: 0,0:01:15.63,0:01:15.75,Default,,0,0,0,,principio che ci viene raccontato invece da Benny Lewis. Senza sforzo comunicativo {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:01:15.74,0:01:16.40,Default,,0,0,0,,{\1c&HFF00&\u1}esiste{\r} l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:16.40,0:01:16.44,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:16.44,0:01:17.04,Default,,0,0,0,,esiste {\1c&HFF00&\u1}l'apprendimento{\r} linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:17.04,0:01:17.18,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:17.18,0:01:18.01,Default,,0,0,0,,esiste l'apprendimento {\1c&HFF00&\u1}linguistico.{\r} Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.01,0:01:18.05,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.05,0:01:18.15,Default,,0,0,0,,esiste l'apprendimento linguistico. {\1c&HFF00&\u1}Ad{\r} il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.15,0:01:18.19,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.19,0:01:18.23,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad {\1c&HFF00&\u1}il{\r} tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.23,0:01:18.25,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.25,0:01:18.41,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il {\1c&HFF00&\u1}tutto{\r} senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.41,0:01:18.47,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.47,0:01:18.73,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto {\1c&HFF00&\u1}senso{\r} se ci pensi che cos'è una
+Dialogue: 0,0:01:18.73,0:01:18.77,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.77,0:01:18.83,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso {\1c&HFF00&\u1}se{\r} ci pensi che cos'è una
+Dialogue: 0,0:01:18.83,0:01:18.89,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:18.89,0:01:18.95,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se {\1c&HFF00&\u1}ci{\r} pensi che cos'è una
+Dialogue: 0,0:01:18.95,0:01:19.01,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:19.01,0:01:19.27,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci {\1c&HFF00&\u1}pensi{\r} che cos'è una
+Dialogue: 0,0:01:19.27,0:01:19.33,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:19.33,0:01:19.41,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi {\1c&HFF00&\u1}che{\r} cos'è una
+Dialogue: 0,0:01:19.41,0:01:19.53,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:19.53,0:01:19.83,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che {\1c&HFF00&\u1}cos'è{\r} una
+Dialogue: 0,0:01:19.83,0:01:20.07,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è una
+Dialogue: 0,0:01:20.07,0:01:20.17,Default,,0,0,0,,esiste l'apprendimento linguistico. Ad il tutto senso se ci pensi che cos'è {\1c&HFF00&\u1}una{\r}
+Dialogue: 0,0:01:20.16,0:01:20.68,Default,,0,0,0,,{\1c&HFF00&\u1}lingua,{\r} è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:20.68,0:01:20.70,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:20.70,0:01:20.76,Default,,0,0,0,,lingua, {\1c&HFF00&\u1}è{\r} una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:20.76,0:01:20.84,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:20.84,0:01:21.00,Default,,0,0,0,,lingua, è {\1c&HFF00&\u1}una{\r} serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:21.00,0:01:21.36,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:21.36,0:01:21.58,Default,,0,0,0,,lingua, è una {\1c&HFF00&\u1}serie{\r} di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:21.58,0:01:21.60,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:21.60,0:01:21.66,Default,,0,0,0,,lingua, è una serie {\1c&HFF00&\u1}di{\r} convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:21.66,0:01:21.72,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:21.72,0:01:22.33,Default,,0,0,0,,lingua, è una serie di {\1c&HFF00&\u1}convenzioni{\r} con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:22.33,0:01:22.39,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:22.39,0:01:22.49,Default,,0,0,0,,lingua, è una serie di convenzioni {\1c&HFF00&\u1}con{\r} l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:22.49,0:01:22.55,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:22.55,0:01:22.93,Default,,0,0,0,,lingua, è una serie di convenzioni con {\1c&HFF00&\u1}l'obiettivo{\r} di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:22.93,0:01:22.97,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:22.97,0:01:23.05,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo {\1c&HFF00&\u1}di{\r} comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:23.05,0:01:23.11,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:23.11,0:01:23.67,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di {\1c&HFF00&\u1}comunicare,{\r} è una concretizzazione specifica
+Dialogue: 0,0:01:23.67,0:01:23.99,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:23.99,0:01:24.03,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, {\1c&HFF00&\u1}è{\r} una concretizzazione specifica
+Dialogue: 0,0:01:24.03,0:01:24.09,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:24.09,0:01:24.23,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è {\1c&HFF00&\u1}una{\r} concretizzazione specifica
+Dialogue: 0,0:01:24.23,0:01:24.37,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:24.37,0:01:25.21,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una {\1c&HFF00&\u1}concretizzazione{\r} specifica
+Dialogue: 0,0:01:25.21,0:01:25.29,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione specifica
+Dialogue: 0,0:01:25.29,0:01:25.85,Default,,0,0,0,,lingua, è una serie di convenzioni con l'obiettivo di comunicare, è una concretizzazione {\1c&HFF00&\u1}specifica{\r}
+Dialogue: 0,0:01:26.26,0:01:26.32,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:26.32,0:01:26.36,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:26.36,0:01:26.86,Default,,0,0,0,,e {\1c&HFF00&\u1}ristretta,{\r} temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:26.86,0:01:27.10,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:27.10,0:01:27.78,Default,,0,0,0,,e ristretta, {\1c&HFF00&\u1}temporalmente{\r} e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:27.78,0:01:27.91,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:27.91,0:01:27.95,Default,,0,0,0,,e ristretta, temporalmente {\1c&HFF00&\u1}e{\r} geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:27.95,0:01:27.99,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:27.99,0:01:28.75,Default,,0,0,0,,e ristretta, temporalmente e {\1c&HFF00&\u1}geograficamente,{\r} della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:28.75,0:01:28.97,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:28.97,0:01:29.17,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, {\1c&HFF00&\u1}della{\r} facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:29.17,0:01:29.49,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:29.49,0:01:29.91,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della {\1c&HFF00&\u1}facoltà{\r} umana del linguaggio. È uno
+Dialogue: 0,0:01:29.91,0:01:29.97,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:29.97,0:01:30.27,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà {\1c&HFF00&\u1}umana{\r} del linguaggio. È uno
+Dialogue: 0,0:01:30.27,0:01:30.33,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:30.33,0:01:30.45,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana {\1c&HFF00&\u1}del{\r} linguaggio. È uno
+Dialogue: 0,0:01:30.45,0:01:30.49,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:30.49,0:01:30.95,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del {\1c&HFF00&\u1}linguaggio.{\r} È uno
+Dialogue: 0,0:01:30.95,0:01:31.29,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:31.29,0:01:31.33,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. {\1c&HFF00&\u1}È{\r} uno
+Dialogue: 0,0:01:31.33,0:01:31.39,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È uno
+Dialogue: 0,0:01:31.39,0:01:31.49,Default,,0,0,0,,e ristretta, temporalmente e geograficamente, della facoltà umana del linguaggio. È {\1c&HFF00&\u1}uno{\r}
+Dialogue: 0,0:01:31.42,0:01:32.32,Default,,0,0,0,,{\1c&HFF00&\u1}strumento,{\r} un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:32.32,0:01:32.36,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:32.36,0:01:32.44,Default,,0,0,0,,strumento, {\1c&HFF00&\u1}un{\r} attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:32.44,0:01:32.48,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:32.48,0:01:32.98,Default,,0,0,0,,strumento, un {\1c&HFF00&\u1}attrezzo,{\r} un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:32.98,0:01:33.24,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:33.24,0:01:33.30,Default,,0,0,0,,strumento, un attrezzo, {\1c&HFF00&\u1}un{\r} utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:33.30,0:01:33.34,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:33.34,0:01:33.89,Default,,0,0,0,,strumento, un attrezzo, un {\1c&HFF00&\u1}utensile{\r} mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:33.89,0:01:33.95,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:33.95,0:01:34.35,Default,,0,0,0,,strumento, un attrezzo, un utensile {\1c&HFF00&\u1}mentale{\r} e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:34.35,0:01:34.65,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:34.65,0:01:34.67,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale {\1c&HFF00&\u1}e{\r} non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:34.67,0:01:34.71,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:34.71,0:01:34.79,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e {\1c&HFF00&\u1}non{\r} hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:34.79,0:01:34.81,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:34.81,0:01:34.95,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non {\1c&HFF00&\u1}hai{\r} alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:34.95,0:01:35.23,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:35.23,0:01:35.53,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai {\1c&HFF00&\u1}alcun{\r} modo di farlo davvero tuo
+Dialogue: 0,0:01:35.53,0:01:35.59,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:35.59,0:01:35.85,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun {\1c&HFF00&\u1}modo{\r} di farlo davvero tuo
+Dialogue: 0,0:01:35.85,0:01:35.91,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:35.91,0:01:36.05,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo {\1c&HFF00&\u1}di{\r} farlo davvero tuo
+Dialogue: 0,0:01:36.05,0:01:36.41,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:36.41,0:01:36.61,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di {\1c&HFF00&\u1}farlo{\r} davvero tuo
+Dialogue: 0,0:01:36.61,0:01:36.65,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:36.65,0:01:36.89,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo {\1c&HFF00&\u1}davvero{\r} tuo
+Dialogue: 0,0:01:36.89,0:01:36.97,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero tuo
+Dialogue: 0,0:01:36.97,0:01:37.17,Default,,0,0,0,,strumento, un attrezzo, un utensile mentale e non hai alcun modo di farlo davvero {\1c&HFF00&\u1}tuo{\r}
+Dialogue: 0,0:01:37.42,0:01:37.48,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:37.48,0:01:37.52,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:37.52,0:01:37.62,Default,,0,0,0,,se {\1c&HFF00&\u1}non{\r} lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:37.62,0:01:37.66,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:37.66,0:01:37.72,Default,,0,0,0,,se non {\1c&HFF00&\u1}lo{\r} usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:37.72,0:01:37.82,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:37.82,0:01:38.50,Default,,0,0,0,,se non lo {\1c&HFF00&\u1}usi.{\r} Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:38.50,0:01:38.52,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:38.52,0:01:38.74,Default,,0,0,0,,se non lo usi. {\1c&HFF00&\u1}Benny{\r} Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:38.74,0:01:38.78,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:38.78,0:01:39.05,Default,,0,0,0,,se non lo usi. Benny {\1c&HFF00&\u1}Lewis{\r} porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:39.05,0:01:39.11,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:39.11,0:01:39.39,Default,,0,0,0,,se non lo usi. Benny Lewis {\1c&HFF00&\u1}porta{\r} all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:39.39,0:01:39.69,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:39.69,0:01:40.33,Default,,0,0,0,,se non lo usi. Benny Lewis porta {\1c&HFF00&\u1}all'estremo{\r} questo principio e arriva a consigliare di
+Dialogue: 0,0:01:40.33,0:01:40.39,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:40.39,0:01:40.57,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo {\1c&HFF00&\u1}questo{\r} principio e arriva a consigliare di
+Dialogue: 0,0:01:40.57,0:01:40.61,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:40.61,0:01:41.03,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo {\1c&HFF00&\u1}principio{\r} e arriva a consigliare di
+Dialogue: 0,0:01:41.03,0:01:41.23,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:41.23,0:01:41.27,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio {\1c&HFF00&\u1}e{\r} arriva a consigliare di
+Dialogue: 0,0:01:41.27,0:01:41.29,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:41.29,0:01:41.55,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e {\1c&HFF00&\u1}arriva{\r} a consigliare di
+Dialogue: 0,0:01:41.55,0:01:41.57,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:41.57,0:01:41.59,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva {\1c&HFF00&\u1}a{\r} consigliare di
+Dialogue: 0,0:01:41.59,0:01:41.65,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:41.65,0:01:42.09,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a {\1c&HFF00&\u1}consigliare{\r} di
+Dialogue: 0,0:01:42.09,0:01:42.11,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare di
+Dialogue: 0,0:01:42.11,0:01:42.15,Default,,0,0,0,,se non lo usi. Benny Lewis porta all'estremo questo principio e arriva a consigliare {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:01:42.14,0:01:43.08,Default,,0,0,0,,{\1c&HFF00&\u1}sforzarsi{\r} di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:43.08,0:01:43.12,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:43.12,0:01:43.20,Default,,0,0,0,,sforzarsi {\1c&HFF00&\u1}di{\r} comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:43.20,0:01:43.26,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:43.26,0:01:43.88,Default,,0,0,0,,sforzarsi di {\1c&HFF00&\u1}comunicare{\r} nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:43.88,0:01:43.92,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:43.92,0:01:44.10,Default,,0,0,0,,sforzarsi di comunicare {\1c&HFF00&\u1}nella{\r} nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:44.10,0:01:44.14,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:44.14,0:01:44.30,Default,,0,0,0,,sforzarsi di comunicare nella {\1c&HFF00&\u1}nuova{\r} lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:44.30,0:01:44.34,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:44.34,0:01:44.60,Default,,0,0,0,,sforzarsi di comunicare nella nuova {\1c&HFF00&\u1}lingua{\r} fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:44.60,0:01:45.00,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:45.00,0:01:45.26,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua {\1c&HFF00&\u1}fin{\r} dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:45.26,0:01:45.44,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:45.44,0:01:45.56,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin {\1c&HFF00&\u1}dal{\r} giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:45.56,0:01:45.62,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:45.62,0:01:45.86,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal {\1c&HFF00&\u1}giorno 1,{\r} prima ancora di conoscere
+Dialogue: 0,0:01:45.86,0:01:46.42,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:46.42,0:01:46.68,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, {\1c&HFF00&\u1}prima{\r} ancora di conoscere
+Dialogue: 0,0:01:46.68,0:01:46.76,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:46.76,0:01:47.25,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima {\1c&HFF00&\u1}ancora{\r} di conoscere
+Dialogue: 0,0:01:47.25,0:01:47.49,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:47.49,0:01:47.55,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora {\1c&HFF00&\u1}di{\r} conoscere
+Dialogue: 0,0:01:47.55,0:01:47.59,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di conoscere
+Dialogue: 0,0:01:47.59,0:01:47.91,Default,,0,0,0,,sforzarsi di comunicare nella nuova lingua fin dal giorno 1, prima ancora di {\1c&HFF00&\u1}conoscere{\r}
+Dialogue: 0,0:01:48.22,0:01:48.38,Default,,0,0,0,,{\1c&HFF00&\u1}anche{\r} solo una parola.
+Dialogue: 0,0:01:48.38,0:01:48.42,Default,,0,0,0,,anche solo una parola.
+Dialogue: 0,0:01:48.42,0:01:48.58,Default,,0,0,0,,anche {\1c&HFF00&\u1}solo{\r} una parola.
+Dialogue: 0,0:01:48.58,0:01:48.88,Default,,0,0,0,,anche solo una parola.
+Dialogue: 0,0:01:48.88,0:01:49.02,Default,,0,0,0,,anche solo {\1c&HFF00&\u1}una{\r} parola.
+Dialogue: 0,0:01:49.02,0:01:49.08,Default,,0,0,0,,anche solo una parola.
+Dialogue: 0,0:01:49.08,0:01:49.45,Default,,0,0,0,,anche solo una {\1c&HFF00&\u1}parola.{\r}

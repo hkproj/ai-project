@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}Sì,{\r} tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.30,0:00:0.38,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.38,0:00:0.48,Default,,0,0,0,,Sì, {\1c&HFF00&\u1}tra{\r} l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.50,0:00:0.72,Default,,0,0,0,,Sì, tra {\1c&HFF00&\u1}l'altro{\r} non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.72,0:00:0.76,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.76,0:00:0.86,Default,,0,0,0,,Sì, tra l'altro {\1c&HFF00&\u1}non{\r} so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.86,0:00:0.92,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:0.92,0:00:1.00,Default,,0,0,0,,Sì, tra l'altro non {\1c&HFF00&\u1}so{\r} voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.00,0:00:1.04,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.04,0:00:1.16,Default,,0,0,0,,Sì, tra l'altro non so {\1c&HFF00&\u1}voi,{\r} ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.16,0:00:1.20,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.20,0:00:1.28,Default,,0,0,0,,Sì, tra l'altro non so voi, {\1c&HFF00&\u1}ma{\r} io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.28,0:00:1.34,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.34,0:00:1.42,Default,,0,0,0,,Sì, tra l'altro non so voi, ma {\1c&HFF00&\u1}io{\r} mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.42,0:00:1.48,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.48,0:00:1.55,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io {\1c&HFF00&\u1}mi{\r} trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.55,0:00:1.61,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.61,0:00:1.79,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi {\1c&HFF00&\u1}trovo{\r} benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.79,0:00:1.81,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:1.81,0:00:2.25,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo {\1c&HFF00&\u1}benissimo{\r} con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:2.25,0:00:2.29,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:2.29,0:00:2.37,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo {\1c&HFF00&\u1}con{\r} i quaderni a 5 millimetri.
+Dialogue: 0,0:00:2.37,0:00:2.41,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:2.41,0:00:2.43,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con {\1c&HFF00&\u1}i{\r} quaderni a 5 millimetri.
+Dialogue: 0,0:00:2.43,0:00:2.47,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:2.47,0:00:2.89,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i {\1c&HFF00&\u1}quaderni{\r} a 5 millimetri.
+Dialogue: 0,0:00:2.89,0:00:2.93,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:2.93,0:00:2.97,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni {\1c&HFF00&\u1}a 5{\r} millimetri.
+Dialogue: 0,0:00:2.97,0:00:3.43,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 millimetri.
+Dialogue: 0,0:00:3.43,0:00:3.97,Default,,0,0,0,,Sì, tra l'altro non so voi, ma io mi trovo benissimo con i quaderni a 5 {\1c&HFF00&\u1}millimetri.{\r}
+Dialogue: 0,0:00:4.26,0:00:4.34,Default,,0,0,0,,{\1c&HFF00&\u1}No,{\r} la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.34,0:00:4.40,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.40,0:00:4.46,Default,,0,0,0,,No, {\1c&HFF00&\u1}la{\r} cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.46,0:00:4.50,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.50,0:00:4.64,Default,,0,0,0,,No, la {\1c&HFF00&\u1}cosa{\r} bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.64,0:00:4.66,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.66,0:00:4.78,Default,,0,0,0,,No, la cosa {\1c&HFF00&\u1}bella{\r} è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.78,0:00:4.80,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.80,0:00:4.82,Default,,0,0,0,,No, la cosa bella {\1c&HFF00&\u1}è{\r} che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.82,0:00:4.84,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.84,0:00:4.92,Default,,0,0,0,,No, la cosa bella è {\1c&HFF00&\u1}che{\r} ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.92,0:00:4.94,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:4.94,0:00:5.05,Default,,0,0,0,,No, la cosa bella è che {\1c&HFF00&\u1}ho{\r} comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:5.05,0:00:5.09,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:5.09,0:00:5.39,Default,,0,0,0,,No, la cosa bella è che ho {\1c&HFF00&\u1}comprato{\r} veramente un sacco di cose, no?
+Dialogue: 0,0:00:5.39,0:00:5.43,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:5.43,0:00:5.73,Default,,0,0,0,,No, la cosa bella è che ho comprato {\1c&HFF00&\u1}veramente{\r} un sacco di cose, no?
+Dialogue: 0,0:00:5.73,0:00:5.77,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:5.77,0:00:5.85,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente {\1c&HFF00&\u1}un{\r} sacco di cose, no?
+Dialogue: 0,0:00:5.85,0:00:5.89,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:5.89,0:00:6.15,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un {\1c&HFF00&\u1}sacco{\r} di cose, no?
+Dialogue: 0,0:00:6.15,0:00:6.19,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:6.19,0:00:6.25,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco {\1c&HFF00&\u1}di{\r} cose, no?
+Dialogue: 0,0:00:6.25,0:00:6.29,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:6.29,0:00:6.59,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di {\1c&HFF00&\u1}cose,{\r} no?
+Dialogue: 0,0:00:6.59,0:00:6.65,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, no?
+Dialogue: 0,0:00:6.65,0:00:6.71,Default,,0,0,0,,No, la cosa bella è che ho comprato veramente un sacco di cose, {\1c&HFF00&\u1}no?{\r}
+Dialogue: 0,0:00:7.26,0:00:7.47,Default,,0,0,0,,{\1c&HFF00&\u1}Tutte{\r} riguardanti la scuola
+Dialogue: 0,0:00:7.47,0:00:7.53,Default,,0,0,0,,Tutte riguardanti la scuola
+Dialogue: 0,0:00:7.53,0:00:7.94,Default,,0,0,0,,Tutte {\1c&HFF00&\u1}riguardanti{\r} la scuola
+Dialogue: 0,0:00:7.94,0:00:7.98,Default,,0,0,0,,Tutte riguardanti la scuola
+Dialogue: 0,0:00:7.98,0:00:8.06,Default,,0,0,0,,Tutte riguardanti {\1c&HFF00&\u1}la{\r} scuola
+Dialogue: 0,0:00:8.06,0:00:8.10,Default,,0,0,0,,Tutte riguardanti la scuola
+Dialogue: 0,0:00:8.10,0:00:8.48,Default,,0,0,0,,Tutte riguardanti la {\1c&HFF00&\u1}scuola{\r}

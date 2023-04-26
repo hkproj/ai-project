@@ -1,0 +1,803 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.76,0:00:0.80,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:0.80,0:00:0.86,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:0.86,0:00:0.90,Default,,0,0,0,,è {\1c&HFF00&\u1}il{\r} vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:0.90,0:00:0.94,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:0.94,0:00:1.50,Default,,0,0,0,,è il {\1c&HFF00&\u1}vocabolario,{\r} le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:1.50,0:00:1.78,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:1.78,0:00:1.84,Default,,0,0,0,,è il vocabolario, {\1c&HFF00&\u1}le{\r} parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:1.84,0:00:1.90,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:1.90,0:00:2.27,Default,,0,0,0,,è il vocabolario, le {\1c&HFF00&\u1}parole{\r} che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:2.27,0:00:2.33,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:2.33,0:00:2.43,Default,,0,0,0,,è il vocabolario, le parole {\1c&HFF00&\u1}che{\r} costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:2.43,0:00:2.47,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:2.47,0:00:2.97,Default,,0,0,0,,è il vocabolario, le parole che {\1c&HFF00&\u1}costituiscono{\r} un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:2.97,0:00:2.99,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:2.99,0:00:3.05,Default,,0,0,0,,è il vocabolario, le parole che costituiscono {\1c&HFF00&\u1}un{\r} po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:3.05,0:00:3.09,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:3.09,0:00:3.23,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un {\1c&HFF00&\u1}po'{\r} la base da cui partire per potersi buttare
+Dialogue: 0,0:00:3.23,0:00:3.55,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:3.55,0:00:3.63,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' {\1c&HFF00&\u1}la{\r} base da cui partire per potersi buttare
+Dialogue: 0,0:00:3.63,0:00:3.67,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:3.67,0:00:4.09,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la {\1c&HFF00&\u1}base{\r} da cui partire per potersi buttare
+Dialogue: 0,0:00:4.09,0:00:4.21,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:4.21,0:00:4.29,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base {\1c&HFF00&\u1}da{\r} cui partire per potersi buttare
+Dialogue: 0,0:00:4.29,0:00:4.33,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:4.33,0:00:4.47,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da {\1c&HFF00&\u1}cui{\r} partire per potersi buttare
+Dialogue: 0,0:00:4.47,0:00:4.55,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:4.55,0:00:4.97,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui {\1c&HFF00&\u1}partire{\r} per potersi buttare
+Dialogue: 0,0:00:4.97,0:00:5.01,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:5.01,0:00:5.11,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire {\1c&HFF00&\u1}per{\r} potersi buttare
+Dialogue: 0,0:00:5.11,0:00:5.13,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:5.13,0:00:5.45,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per {\1c&HFF00&\u1}potersi{\r} buttare
+Dialogue: 0,0:00:5.45,0:00:5.75,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi buttare
+Dialogue: 0,0:00:5.75,0:00:6.06,Default,,0,0,0,,è il vocabolario, le parole che costituiscono un po' la base da cui partire per potersi {\1c&HFF00&\u1}buttare{\r}
+Dialogue: 0,0:00:6.04,0:00:6.16,Default,,0,0,0,,{\1c&HFF00&\u1}subito{\r} nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:6.16,0:00:6.18,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:6.18,0:00:6.92,Default,,0,0,0,,subito {\1c&HFF00&\u1}nella{\r} mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:6.92,0:00:6.96,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:6.96,0:00:7.64,Default,,0,0,0,,subito nella {\1c&HFF00&\u1}mischia.{\r} Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:7.64,0:00:7.70,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:7.70,0:00:8.23,Default,,0,0,0,,subito nella mischia. {\1c&HFF00&\u1}Fondamentale{\r} da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:8.23,0:00:8.27,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:8.27,0:00:8.35,Default,,0,0,0,,subito nella mischia. Fondamentale {\1c&HFF00&\u1}da{\r} tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:8.35,0:00:8.39,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:8.39,0:00:8.61,Default,,0,0,0,,subito nella mischia. Fondamentale da {\1c&HFF00&\u1}tenere{\r} presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:8.61,0:00:8.65,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:8.65,0:00:9.01,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere {\1c&HFF00&\u1}presente{\r} per questo aspetto sono le tecniche
+Dialogue: 0,0:00:9.01,0:00:9.05,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:9.05,0:00:9.15,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente {\1c&HFF00&\u1}per{\r} questo aspetto sono le tecniche
+Dialogue: 0,0:00:9.15,0:00:9.19,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:9.19,0:00:9.37,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per {\1c&HFF00&\u1}questo{\r} aspetto sono le tecniche
+Dialogue: 0,0:00:9.37,0:00:9.39,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:9.39,0:00:9.77,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo {\1c&HFF00&\u1}aspetto{\r} sono le tecniche
+Dialogue: 0,0:00:9.77,0:00:9.83,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:9.83,0:00:10.01,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto {\1c&HFF00&\u1}sono{\r} le tecniche
+Dialogue: 0,0:00:10.01,0:00:10.27,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:10.27,0:00:10.33,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono {\1c&HFF00&\u1}le{\r} tecniche
+Dialogue: 0,0:00:10.33,0:00:10.47,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le tecniche
+Dialogue: 0,0:00:10.47,0:00:10.85,Default,,0,0,0,,subito nella mischia. Fondamentale da tenere presente per questo aspetto sono le {\1c&HFF00&\u1}tecniche{\r}
+Dialogue: 0,0:00:10.80,0:00:10.84,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:10.84,0:00:10.86,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:10.86,0:00:11.42,Default,,0,0,0,,di {\1c&HFF00&\u1}memoria{\r} per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:11.42,0:00:11.44,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:11.44,0:00:11.52,Default,,0,0,0,,di memoria {\1c&HFF00&\u1}per{\r} la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:11.52,0:00:11.56,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:11.56,0:00:11.62,Default,,0,0,0,,di memoria per {\1c&HFF00&\u1}la{\r} memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:11.62,0:00:11.64,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:11.64,0:00:12.18,Default,,0,0,0,,di memoria per la {\1c&HFF00&\u1}memorizzazione{\r} dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:12.18,0:00:12.22,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:12.22,0:00:12.32,Default,,0,0,0,,di memoria per la memorizzazione {\1c&HFF00&\u1}dei{\r} vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:12.32,0:00:12.37,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:12.37,0:00:13.15,Default,,0,0,0,,di memoria per la memorizzazione dei {\1c&HFF00&\u1}vocaboli,{\r} che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:13.15,0:00:13.17,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:13.17,0:00:13.23,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, {\1c&HFF00&\u1}che{\r} ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:13.23,0:00:13.27,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:13.27,0:00:13.35,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che {\1c&HFF00&\u1}ti{\r} consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:13.35,0:00:13.37,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:13.37,0:00:13.91,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti {\1c&HFF00&\u1}consentiranno{\r} rapidamente di acquisire
+Dialogue: 0,0:00:13.91,0:00:14.07,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:14.07,0:00:14.63,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno {\1c&HFF00&\u1}rapidamente{\r} di acquisire
+Dialogue: 0,0:00:14.63,0:00:14.67,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:14.67,0:00:14.73,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente {\1c&HFF00&\u1}di{\r} acquisire
+Dialogue: 0,0:00:14.73,0:00:14.75,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di acquisire
+Dialogue: 0,0:00:14.75,0:00:15.03,Default,,0,0,0,,di memoria per la memorizzazione dei vocaboli, che ti consentiranno rapidamente di {\1c&HFF00&\u1}acquisire{\r}
+Dialogue: 0,0:00:15.00,0:00:15.04,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.04,0:00:15.06,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.06,0:00:15.28,Default,,0,0,0,,un {\1c&HFF00&\u1}vocabolario{\r} di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.28,0:00:15.30,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.30,0:00:15.34,Default,,0,0,0,,un vocabolario {\1c&HFF00&\u1}di{\r} base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.34,0:00:15.36,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.36,0:00:15.44,Default,,0,0,0,,un vocabolario di {\1c&HFF00&\u1}base{\r} sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.44,0:00:15.46,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.46,0:00:15.68,Default,,0,0,0,,un vocabolario di base {\1c&HFF00&\u1}sufficiente{\r} a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.68,0:00:15.70,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.70,0:00:15.72,Default,,0,0,0,,un vocabolario di base sufficiente {\1c&HFF00&\u1}a{\r} sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.72,0:00:15.74,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.74,0:00:15.92,Default,,0,0,0,,un vocabolario di base sufficiente a {\1c&HFF00&\u1}sostenere{\r} le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.92,0:00:15.94,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.94,0:00:15.98,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere {\1c&HFF00&\u1}le{\r} prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:15.98,0:00:16.00,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.00,0:00:16.10,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le {\1c&HFF00&\u1}prime{\r} conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.10,0:00:16.12,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.12,0:00:16.38,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime {\1c&HFF00&\u1}conversazioni.{\r} Se non sai come applicarle,
+Dialogue: 0,0:00:16.38,0:00:16.40,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.40,0:00:16.44,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. {\1c&HFF00&\u1}Se{\r} non sai come applicarle,
+Dialogue: 0,0:00:16.44,0:00:16.46,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.46,0:00:16.52,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se {\1c&HFF00&\u1}non{\r} sai come applicarle,
+Dialogue: 0,0:00:16.52,0:00:16.54,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.54,0:00:16.60,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non {\1c&HFF00&\u1}sai{\r} come applicarle,
+Dialogue: 0,0:00:16.60,0:00:16.62,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.62,0:00:16.70,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai {\1c&HFF00&\u1}come{\r} applicarle,
+Dialogue: 0,0:00:16.70,0:00:16.72,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come applicarle,
+Dialogue: 0,0:00:16.72,0:00:16.93,Default,,0,0,0,,un vocabolario di base sufficiente a sostenere le prime conversazioni. Se non sai come {\1c&HFF00&\u1}applicarle,{\r}
+Dialogue: 0,0:00:20.44,0:00:20.60,Default,,0,0,0,,{\1c&HFF00&\u1}recupera{\r} questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.60,0:00:20.62,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.62,0:00:20.74,Default,,0,0,0,,recupera {\1c&HFF00&\u1}questo{\r} mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.74,0:00:20.76,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.76,0:00:20.82,Default,,0,0,0,,recupera questo {\1c&HFF00&\u1}mio{\r} video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.82,0:00:20.84,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.84,0:00:20.94,Default,,0,0,0,,recupera questo mio {\1c&HFF00&\u1}video{\r} in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.94,0:00:20.96,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:20.96,0:00:21.00,Default,,0,0,0,,recupera questo mio video {\1c&HFF00&\u1}in{\r} cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.00,0:00:21.02,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.02,0:00:21.08,Default,,0,0,0,,recupera questo mio video in {\1c&HFF00&\u1}cui{\r} te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.08,0:00:21.10,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.10,0:00:21.14,Default,,0,0,0,,recupera questo mio video in cui {\1c&HFF00&\u1}te{\r} lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.14,0:00:21.16,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.16,0:00:21.20,Default,,0,0,0,,recupera questo mio video in cui te {\1c&HFF00&\u1}lo{\r} spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.20,0:00:21.22,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.22,0:00:21.34,Default,,0,0,0,,recupera questo mio video in cui te lo {\1c&HFF00&\u1}spiego{\r} e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.34,0:00:21.36,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.36,0:00:21.38,Default,,0,0,0,,recupera questo mio video in cui te lo spiego {\1c&HFF00&\u1}e{\r} poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.38,0:00:21.40,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.40,0:00:21.46,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e {\1c&HFF00&\u1}poi{\r} tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.46,0:00:21.48,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.48,0:00:21.62,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi {\1c&HFF00&\u1}tieniti{\r} pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.62,0:00:21.64,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.64,0:00:21.76,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti {\1c&HFF00&\u1}pronto{\r} per mnemonica, il video corso
+Dialogue: 0,0:00:21.76,0:00:21.78,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.78,0:00:21.84,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto {\1c&HFF00&\u1}per{\r} mnemonica, il video corso
+Dialogue: 0,0:00:21.84,0:00:21.86,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:21.86,0:00:22.04,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per {\1c&HFF00&\u1}mnemonica,{\r} il video corso
+Dialogue: 0,0:00:22.04,0:00:22.06,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:22.06,0:00:22.10,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, {\1c&HFF00&\u1}il{\r} video corso
+Dialogue: 0,0:00:22.10,0:00:22.12,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:22.12,0:00:22.22,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il {\1c&HFF00&\u1}video{\r} corso
+Dialogue: 0,0:00:22.22,0:00:22.24,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video corso
+Dialogue: 0,0:00:22.24,0:00:22.38,Default,,0,0,0,,recupera questo mio video in cui te lo spiego e poi tieniti pronto per mnemonica, il video {\1c&HFF00&\u1}corso{\r}
+Dialogue: 0,0:00:27.44,0:00:28.00,Default,,0,0,0,,{\1c&HFF00&\u1}definitivo{\r} sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.00,0:00:28.04,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.04,0:00:28.18,Default,,0,0,0,,definitivo {\1c&HFF00&\u1}sulle{\r} tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.18,0:00:28.22,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.22,0:00:28.50,Default,,0,0,0,,definitivo sulle {\1c&HFF00&\u1}tecniche{\r} di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.50,0:00:28.56,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.56,0:00:28.65,Default,,0,0,0,,definitivo sulle tecniche {\1c&HFF00&\u1}di{\r} memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.65,0:00:28.67,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.67,0:00:28.97,Default,,0,0,0,,definitivo sulle tecniche di {\1c&HFF00&\u1}memoria{\r} che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:28.97,0:00:29.01,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:29.01,0:00:29.09,Default,,0,0,0,,definitivo sulle tecniche di memoria {\1c&HFF00&\u1}che{\r} sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:29.09,0:00:29.11,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:29.11,0:00:29.25,Default,,0,0,0,,definitivo sulle tecniche di memoria che {\1c&HFF00&\u1}sto{\r} realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:29.25,0:00:29.55,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:29.55,0:00:30.11,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto {\1c&HFF00&\u1}realizzando{\r} insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:30.11,0:00:30.15,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:30.15,0:00:30.43,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando {\1c&HFF00&\u1}insieme{\r} ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:30.43,0:00:30.51,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:30.51,0:00:30.61,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme {\1c&HFF00&\u1}ad{\r} Andrea Muzzi e Vanni
+Dialogue: 0,0:00:30.61,0:00:30.63,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:30.63,0:00:30.93,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad {\1c&HFF00&\u1}Andrea{\r} Muzzi e Vanni
+Dialogue: 0,0:00:30.93,0:00:30.99,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:30.99,0:00:31.33,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea {\1c&HFF00&\u1}Muzzi{\r} e Vanni
+Dialogue: 0,0:00:31.33,0:00:31.61,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:31.61,0:00:31.65,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi {\1c&HFF00&\u1}e{\r} Vanni
+Dialogue: 0,0:00:31.65,0:00:31.71,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e Vanni
+Dialogue: 0,0:00:31.71,0:00:31.89,Default,,0,0,0,,definitivo sulle tecniche di memoria che sto realizzando insieme ad Andrea Muzzi e {\1c&HFF00&\u1}Vanni{\r}
+Dialogue: 0,0:00:31.80,0:00:32.44,Default,,0,0,0,,{\1c&HFF00&\u1}De{\r} Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:32.44,0:00:32.46,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:32.46,0:00:32.54,Default,,0,0,0,,De {\1c&HFF00&\u1}Luca.{\r} Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:32.54,0:00:32.56,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:32.56,0:00:32.98,Default,,0,0,0,,De Luca. {\1c&HFF00&\u1}Uscirà{\r} probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:32.98,0:00:33.02,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:33.02,0:00:33.54,Default,,0,0,0,,De Luca. Uscirà {\1c&HFF00&\u1}probabilmente{\r} a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:33.54,0:00:33.60,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:33.60,0:00:33.65,Default,,0,0,0,,De Luca. Uscirà probabilmente {\1c&HFF00&\u1}a{\r} fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:33.65,0:00:33.71,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:33.71,0:00:33.85,Default,,0,0,0,,De Luca. Uscirà probabilmente a {\1c&HFF00&\u1}fine{\r} marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:33.85,0:00:33.89,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:33.89,0:00:34.21,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine {\1c&HFF00&\u1}marzo{\r} e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:34.21,0:00:34.33,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:34.33,0:00:34.37,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo {\1c&HFF00&\u1}e{\r} coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:34.37,0:00:34.41,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:34.41,0:00:34.81,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e {\1c&HFF00&\u1}coprirà{\r} tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:34.81,0:00:35.19,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:35.19,0:00:35.57,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà {\1c&HFF00&\u1}tutte{\r} le mnemotecniche esistenti,
+Dialogue: 0,0:00:35.57,0:00:35.71,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:35.71,0:00:35.77,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte {\1c&HFF00&\u1}le{\r} mnemotecniche esistenti,
+Dialogue: 0,0:00:35.77,0:00:35.81,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:35.81,0:00:36.45,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le {\1c&HFF00&\u1}mnemotecniche{\r} esistenti,
+Dialogue: 0,0:00:36.45,0:00:36.59,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche esistenti,
+Dialogue: 0,0:00:36.59,0:00:37.13,Default,,0,0,0,,De Luca. Uscirà probabilmente a fine marzo e coprirà tutte le mnemotecniche {\1c&HFF00&\u1}esistenti,{\r}
+Dialogue: 0,0:00:37.08,0:00:37.74,Default,,0,0,0,,{\1c&HFF00&\u1}compreso{\r} ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:37.74,0:00:37.76,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:37.76,0:00:38.16,Default,,0,0,0,,compreso {\1c&HFF00&\u1}ovviamente{\r} questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:38.16,0:00:38.18,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:38.18,0:00:38.82,Default,,0,0,0,,compreso ovviamente {\1c&HFF00&\u1}questa.{\r} Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:38.82,0:00:38.84,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:38.84,0:00:39.41,Default,,0,0,0,,compreso ovviamente questa. {\1c&HFF00&\u1}Grammatica.{\r} Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:39.41,0:00:39.73,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:39.73,0:00:40.07,Default,,0,0,0,,compreso ovviamente questa. Grammatica. {\1c&HFF00&\u1}Questa{\r} è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.07,0:00:40.23,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.23,0:00:40.27,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa {\1c&HFF00&\u1}è{\r} la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.27,0:00:40.31,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.31,0:00:40.39,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è {\1c&HFF00&\u1}la{\r} seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.39,0:00:40.49,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.49,0:00:40.85,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la {\1c&HFF00&\u1}seconda{\r} area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.85,0:00:40.87,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:40.87,0:00:41.17,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda {\1c&HFF00&\u1}area{\r} e c'è poco da spiegare. La
+Dialogue: 0,0:00:41.17,0:00:41.61,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:41.61,0:00:41.65,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area {\1c&HFF00&\u1}e{\r} c'è poco da spiegare. La
+Dialogue: 0,0:00:41.65,0:00:41.69,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:41.69,0:00:41.77,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e {\1c&HFF00&\u1}c'è{\r} poco da spiegare. La
+Dialogue: 0,0:00:41.77,0:00:41.81,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:41.81,0:00:41.97,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è {\1c&HFF00&\u1}poco{\r} da spiegare. La
+Dialogue: 0,0:00:41.97,0:00:42.01,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:42.01,0:00:42.09,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco {\1c&HFF00&\u1}da{\r} spiegare. La
+Dialogue: 0,0:00:42.09,0:00:42.11,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:42.11,0:00:42.57,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da {\1c&HFF00&\u1}spiegare.{\r} La
+Dialogue: 0,0:00:42.57,0:00:42.63,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. La
+Dialogue: 0,0:00:42.63,0:00:42.80,Default,,0,0,0,,compreso ovviamente questa. Grammatica. Questa è la seconda area e c'è poco da spiegare. {\1c&HFF00&\u1}La{\r}
+Dialogue: 0,0:00:42.60,0:00:43.38,Default,,0,0,0,,{\1c&HFF00&\u1}grammatica{\r} è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.38,0:00:43.40,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.40,0:00:43.42,Default,,0,0,0,,grammatica {\1c&HFF00&\u1}è{\r} un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.42,0:00:43.44,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.44,0:00:43.50,Default,,0,0,0,,grammatica è {\1c&HFF00&\u1}un{\r} po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.50,0:00:43.52,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.52,0:00:43.62,Default,,0,0,0,,grammatica è un {\1c&HFF00&\u1}po'{\r} una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.62,0:00:43.68,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.68,0:00:43.82,Default,,0,0,0,,grammatica è un po' {\1c&HFF00&\u1}una{\r} serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.82,0:00:43.90,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:43.90,0:00:44.08,Default,,0,0,0,,grammatica è un po' una {\1c&HFF00&\u1}serie{\r} di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:44.08,0:00:44.12,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:44.12,0:00:44.18,Default,,0,0,0,,grammatica è un po' una serie {\1c&HFF00&\u1}di{\r} regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:44.18,0:00:44.22,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:44.22,0:00:44.61,Default,,0,0,0,,grammatica è un po' una serie di {\1c&HFF00&\u1}regolette{\r} aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:44.61,0:00:44.93,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:44.93,0:00:45.33,Default,,0,0,0,,grammatica è un po' una serie di regolette {\1c&HFF00&\u1}aride,{\r} nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:45.33,0:00:45.49,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:45.49,0:00:45.65,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, {\1c&HFF00&\u1}nella{\r} parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:45.65,0:00:45.69,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:45.69,0:00:45.95,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella {\1c&HFF00&\u1}parte{\r} diciamo più pallosa. Tieni
+Dialogue: 0,0:00:45.95,0:00:46.33,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:46.33,0:00:46.79,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte {\1c&HFF00&\u1}diciamo{\r} più pallosa. Tieni
+Dialogue: 0,0:00:46.79,0:00:46.83,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:46.83,0:00:46.93,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo {\1c&HFF00&\u1}più{\r} pallosa. Tieni
+Dialogue: 0,0:00:46.93,0:00:47.05,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:47.05,0:00:47.51,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più {\1c&HFF00&\u1}pallosa.{\r} Tieni
+Dialogue: 0,0:00:47.51,0:00:47.61,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. Tieni
+Dialogue: 0,0:00:47.61,0:00:49.10,Default,,0,0,0,,grammatica è un po' una serie di regolette aride, nella parte diciamo più pallosa. {\1c&HFF00&\u1}Tieni{\r}
+Dialogue: 0,0:00:47.68,0:00:47.84,Default,,0,0,0,,{\1c&HFF00&\u1}presente{\r} la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:47.84,0:00:48.54,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:48.54,0:00:48.60,Default,,0,0,0,,presente {\1c&HFF00&\u1}la{\r} decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:48.60,0:00:48.64,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:48.64,0:00:49.30,Default,,0,0,0,,presente la {\1c&HFF00&\u1}decostruzione{\r} emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:49.30,0:00:49.43,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:49.43,0:00:49.67,Default,,0,0,0,,presente la decostruzione {\1c&HFF00&\u1}emessa{\r} in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:49.67,0:00:49.71,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:49.71,0:00:49.75,Default,,0,0,0,,presente la decostruzione emessa {\1c&HFF00&\u1}in{\r} sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:49.75,0:00:49.79,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:49.79,0:00:50.11,Default,,0,0,0,,presente la decostruzione emessa in {\1c&HFF00&\u1}sequenza{\r} dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.11,0:00:50.15,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.15,0:00:50.29,Default,,0,0,0,,presente la decostruzione emessa in sequenza {\1c&HFF00&\u1}dagli{\r} elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.29,0:00:50.33,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.33,0:00:50.65,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli {\1c&HFF00&\u1}elementi{\r} che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.65,0:00:50.69,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.69,0:00:50.77,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi {\1c&HFF00&\u1}che{\r} abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.77,0:00:50.79,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:50.79,0:00:50.99,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che {\1c&HFF00&\u1}abbiamo{\r} preso da Tim Ferriss
+Dialogue: 0,0:00:50.99,0:00:51.03,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:51.03,0:00:51.27,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo {\1c&HFF00&\u1}preso{\r} da Tim Ferriss
+Dialogue: 0,0:00:51.27,0:00:51.51,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:51.51,0:00:51.63,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso {\1c&HFF00&\u1}da{\r} Tim Ferriss
+Dialogue: 0,0:00:51.63,0:00:51.71,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:51.71,0:00:51.89,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da {\1c&HFF00&\u1}Tim{\r} Ferriss
+Dialogue: 0,0:00:51.89,0:00:51.95,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim Ferriss
+Dialogue: 0,0:00:51.95,0:00:52.33,Default,,0,0,0,,presente la decostruzione emessa in sequenza dagli elementi che abbiamo preso da Tim {\1c&HFF00&\u1}Ferriss{\r}
+Dialogue: 0,0:00:52.20,0:00:52.22,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.22,0:00:52.24,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.24,0:00:52.38,Default,,0,0,0,,e {\1c&HFF00&\u1}tieniti{\r} pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.38,0:00:52.40,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.40,0:00:52.52,Default,,0,0,0,,e tieniti {\1c&HFF00&\u1}pronto{\r} anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.52,0:00:52.54,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.54,0:00:52.64,Default,,0,0,0,,e tieniti pronto {\1c&HFF00&\u1}anche{\r} a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.64,0:00:52.66,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.66,0:00:52.68,Default,,0,0,0,,e tieniti pronto anche {\1c&HFF00&\u1}a{\r} schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.68,0:00:52.70,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.70,0:00:52.96,Default,,0,0,0,,e tieniti pronto anche a {\1c&HFF00&\u1}schematizzare{\r} perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.96,0:00:52.98,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:52.98,0:00:53.10,Default,,0,0,0,,e tieniti pronto anche a schematizzare {\1c&HFF00&\u1}perché{\r} ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.10,0:00:53.12,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.12,0:00:53.16,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché {\1c&HFF00&\u1}ce{\r} ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.16,0:00:53.18,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.18,0:00:53.22,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce {\1c&HFF00&\u1}ne{\r} sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.22,0:00:53.24,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.24,0:00:53.32,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne {\1c&HFF00&\u1}sarà{\r} bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.32,0:00:53.34,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.34,0:00:53.48,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà {\1c&HFF00&\u1}bisogno.{\r} Come dici? Non sai come
+Dialogue: 0,0:00:53.48,0:00:53.50,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.50,0:00:53.58,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. {\1c&HFF00&\u1}Come{\r} dici? Non sai come
+Dialogue: 0,0:00:53.58,0:00:53.60,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.60,0:00:53.68,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come {\1c&HFF00&\u1}dici?{\r} Non sai come
+Dialogue: 0,0:00:53.68,0:00:53.70,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.70,0:00:53.76,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? {\1c&HFF00&\u1}Non{\r} sai come
+Dialogue: 0,0:00:53.76,0:00:53.78,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.78,0:00:53.84,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non {\1c&HFF00&\u1}sai{\r} come
+Dialogue: 0,0:00:53.84,0:00:53.86,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai come
+Dialogue: 0,0:00:53.86,0:00:53.94,Default,,0,0,0,,e tieniti pronto anche a schematizzare perché ce ne sarà bisogno. Come dici? Non sai {\1c&HFF00&\u1}come{\r}
+Dialogue: 0,0:00:57.56,0:00:58.26,Default,,0,0,0,,{\1c&HFF00&\u1}schematizzare{\r} la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:58.26,0:00:58.28,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:58.28,0:00:58.32,Default,,0,0,0,,schematizzare {\1c&HFF00&\u1}la{\r} perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:58.32,0:00:58.34,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:58.34,0:00:58.78,Default,,0,0,0,,schematizzare la {\1c&HFF00&\u1}perfezione?{\r} Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:58.78,0:00:59.26,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:59.26,0:00:59.45,Default,,0,0,0,,schematizzare la perfezione? {\1c&HFF00&\u1}Ma{\r} allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:59.45,0:00:59.47,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:59.47,0:00:59.71,Default,,0,0,0,,schematizzare la perfezione? Ma {\1c&HFF00&\u1}allora{\r} fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:00:59.71,0:01:0.03,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:0.03,0:01:0.51,Default,,0,0,0,,schematizzare la perfezione? Ma allora {\1c&HFF00&\u1}fiondati{\r} su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:0.51,0:01:0.61,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:0.61,0:01:0.69,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati {\1c&HFF00&\u1}su{\r} conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:0.69,0:01:0.73,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:0.73,0:01:1.13,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su {\1c&HFF00&\u1}conquistare{\r} il foglio, il mio video corso fatto
+Dialogue: 0,0:01:1.13,0:01:1.15,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:1.15,0:01:1.21,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare {\1c&HFF00&\u1}il{\r} foglio, il mio video corso fatto
+Dialogue: 0,0:01:1.21,0:01:1.23,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:1.23,0:01:1.55,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il {\1c&HFF00&\u1}foglio,{\r} il mio video corso fatto
+Dialogue: 0,0:01:1.55,0:01:1.65,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:1.65,0:01:1.73,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, {\1c&HFF00&\u1}il{\r} mio video corso fatto
+Dialogue: 0,0:01:1.73,0:01:1.75,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:1.75,0:01:1.83,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il {\1c&HFF00&\u1}mio{\r} video corso fatto
+Dialogue: 0,0:01:1.83,0:01:1.87,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:1.87,0:01:2.01,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio {\1c&HFF00&\u1}video{\r} corso fatto
+Dialogue: 0,0:01:2.01,0:01:2.05,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:2.05,0:01:2.31,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video {\1c&HFF00&\u1}corso{\r} fatto
+Dialogue: 0,0:01:2.31,0:01:2.37,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso fatto
+Dialogue: 0,0:01:2.37,0:01:2.55,Default,,0,0,0,,schematizzare la perfezione? Ma allora fiondati su conquistare il foglio, il mio video corso {\1c&HFF00&\u1}fatto{\r}
+Dialogue: 0,0:01:2.80,0:01:3.32,Default,,0,0,0,,{\1c&HFF00&\u1}apposta{\r} per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:3.32,0:01:3.36,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:3.36,0:01:3.44,Default,,0,0,0,,apposta {\1c&HFF00&\u1}per{\r} questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:3.44,0:01:3.52,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:3.52,0:01:4.16,Default,,0,0,0,,apposta per {\1c&HFF00&\u1}questo.{\r} Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:4.16,0:01:4.18,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:4.18,0:01:4.34,Default,,0,0,0,,apposta per questo. {\1c&HFF00&\u1}Link{\r} in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:4.34,0:01:4.36,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:4.36,0:01:4.42,Default,,0,0,0,,apposta per questo. Link {\1c&HFF00&\u1}in{\r} descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:4.42,0:01:4.44,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:4.44,0:01:5.33,Default,,0,0,0,,apposta per questo. Link in {\1c&HFF00&\u1}descrizione.{\r} Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:5.33,0:01:5.35,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:5.35,0:01:5.59,Default,,0,0,0,,apposta per questo. Link in descrizione. {\1c&HFF00&\u1}Terza{\r} area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:5.59,0:01:5.65,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:5.65,0:01:5.91,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza {\1c&HFF00&\u1}area,{\r} l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:5.91,0:01:6.21,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:6.21,0:01:6.71,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, {\1c&HFF00&\u1}l'oralità,{\r} lo speaking, comprese le frasi
+Dialogue: 0,0:01:6.71,0:01:6.97,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:6.97,0:01:7.05,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, {\1c&HFF00&\u1}lo{\r} speaking, comprese le frasi
+Dialogue: 0,0:01:7.05,0:01:7.07,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:7.07,0:01:7.65,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo {\1c&HFF00&\u1}speaking,{\r} comprese le frasi
+Dialogue: 0,0:01:7.65,0:01:7.71,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:7.71,0:01:8.05,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, {\1c&HFF00&\u1}comprese{\r} le frasi
+Dialogue: 0,0:01:8.05,0:01:8.07,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:8.07,0:01:8.11,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese {\1c&HFF00&\u1}le{\r} frasi
+Dialogue: 0,0:01:8.11,0:01:8.13,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le frasi
+Dialogue: 0,0:01:8.13,0:01:8.23,Default,,0,0,0,,apposta per questo. Link in descrizione. Terza area, l'oralità, lo speaking, comprese le {\1c&HFF00&\u1}frasi{\r}
+Dialogue: 0,0:01:8.96,0:01:9.12,Default,,0,0,0,,{\1c&HFF00&\u1}chiave,{\r} i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.12,0:01:9.14,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.14,0:01:9.16,Default,,0,0,0,,chiave, {\1c&HFF00&\u1}i{\r} modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.16,0:01:9.18,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.18,0:01:9.34,Default,,0,0,0,,chiave, i {\1c&HFF00&\u1}modi{\r} di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.34,0:01:9.38,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.38,0:01:9.44,Default,,0,0,0,,chiave, i modi {\1c&HFF00&\u1}di{\r} dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.44,0:01:9.50,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.50,0:01:9.74,Default,,0,0,0,,chiave, i modi di {\1c&HFF00&\u1}dire,{\r} le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.74,0:01:9.80,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.80,0:01:9.86,Default,,0,0,0,,chiave, i modi di dire, {\1c&HFF00&\u1}le{\r} espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.86,0:01:9.88,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:9.88,0:01:10.22,Default,,0,0,0,,chiave, i modi di dire, le {\1c&HFF00&\u1}espressioni{\r} idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:10.22,0:01:10.24,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:10.24,0:01:10.77,Default,,0,0,0,,chiave, i modi di dire, le espressioni {\1c&HFF00&\u1}idiomatiche{\r} e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:10.77,0:01:11.03,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.03,0:01:11.07,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche {\1c&HFF00&\u1}e{\r} via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.07,0:01:11.09,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.09,0:01:11.19,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e {\1c&HFF00&\u1}via{\r} dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.19,0:01:11.23,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.23,0:01:11.57,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via {\1c&HFF00&\u1}dicendo.{\r} Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.57,0:01:11.81,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.81,0:01:11.87,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. {\1c&HFF00&\u1}Ti{\r} ho già parlato dell'importanza
+Dialogue: 0,0:01:11.87,0:01:11.89,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.89,0:01:11.93,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti {\1c&HFF00&\u1}ho{\r} già parlato dell'importanza
+Dialogue: 0,0:01:11.93,0:01:11.99,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:11.99,0:01:12.09,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho {\1c&HFF00&\u1}già{\r} parlato dell'importanza
+Dialogue: 0,0:01:12.09,0:01:12.17,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:12.17,0:01:12.57,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già {\1c&HFF00&\u1}parlato{\r} dell'importanza
+Dialogue: 0,0:01:12.57,0:01:12.61,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato dell'importanza
+Dialogue: 0,0:01:12.61,0:01:13.23,Default,,0,0,0,,chiave, i modi di dire, le espressioni idiomatiche e via dicendo. Ti ho già parlato {\1c&HFF00&\u1}dell'importanza{\r}
+Dialogue: 0,0:01:13.20,0:01:13.30,Default,,0,0,0,,{\1c&HFF00&\u1}dello{\r} sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.30,0:01:13.32,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.32,0:01:13.44,Default,,0,0,0,,dello {\1c&HFF00&\u1}sforzo{\r} comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.44,0:01:13.46,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.46,0:01:13.70,Default,,0,0,0,,dello sforzo {\1c&HFF00&\u1}comunicativo{\r} e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.70,0:01:13.72,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.72,0:01:13.74,Default,,0,0,0,,dello sforzo comunicativo {\1c&HFF00&\u1}e{\r} quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.74,0:01:13.76,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.76,0:01:13.88,Default,,0,0,0,,dello sforzo comunicativo e {\1c&HFF00&\u1}quindi{\r} del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.88,0:01:13.90,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.90,0:01:13.96,Default,,0,0,0,,dello sforzo comunicativo e quindi {\1c&HFF00&\u1}del{\r} mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.96,0:01:13.98,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:13.98,0:01:14.12,Default,,0,0,0,,dello sforzo comunicativo e quindi del {\1c&HFF00&\u1}mettere{\r} in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.12,0:01:14.14,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.14,0:01:14.18,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere {\1c&HFF00&\u1}in{\r} pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.18,0:01:14.20,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.20,0:01:14.34,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in {\1c&HFF00&\u1}pratica{\r} la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.34,0:01:14.36,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.36,0:01:14.40,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica {\1c&HFF00&\u1}la{\r} lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.40,0:01:14.42,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.42,0:01:14.54,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la {\1c&HFF00&\u1}lingua.{\r} Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.54,0:01:14.56,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.56,0:01:14.62,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. {\1c&HFF00&\u1}Non{\r} serve dire altro. Quarta
+Dialogue: 0,0:01:14.62,0:01:14.64,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.64,0:01:14.76,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non {\1c&HFF00&\u1}serve{\r} dire altro. Quarta
+Dialogue: 0,0:01:14.76,0:01:14.78,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.78,0:01:14.86,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve {\1c&HFF00&\u1}dire{\r} altro. Quarta
+Dialogue: 0,0:01:14.86,0:01:14.88,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:14.88,0:01:14.99,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire {\1c&HFF00&\u1}altro.{\r} Quarta
+Dialogue: 0,0:01:14.99,0:01:15.01,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. Quarta
+Dialogue: 0,0:01:15.01,0:01:15.13,Default,,0,0,0,,dello sforzo comunicativo e quindi del mettere in pratica la lingua. Non serve dire altro. {\1c&HFF00&\u1}Quarta{\r}
+Dialogue: 0,0:01:18.84,0:01:18.98,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:18.98,0:01:19.02,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:19.02,0:01:19.64,Default,,0,0,0,,la {\1c&HFF00&\u1}comunicazione{\r} scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:19.64,0:01:19.88,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:19.88,0:01:20.55,Default,,0,0,0,,la comunicazione {\1c&HFF00&\u1}scritta.{\r} Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:20.55,0:01:20.57,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:20.57,0:01:20.99,Default,,0,0,0,,la comunicazione scritta. {\1c&HFF00&\u1}Scrittura{\r} e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:20.99,0:01:21.17,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:21.17,0:01:21.19,Default,,0,0,0,,la comunicazione scritta. Scrittura {\1c&HFF00&\u1}e{\r} lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:21.19,0:01:21.23,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:21.23,0:01:21.61,Default,,0,0,0,,la comunicazione scritta. Scrittura e {\1c&HFF00&\u1}lettura{\r} spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:21.61,0:01:21.67,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:21.67,0:01:21.99,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura {\1c&HFF00&\u1}spesso{\r} sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:21.99,0:01:22.23,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:22.23,0:01:22.37,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso {\1c&HFF00&\u1}sono{\r} la vera croce di chiunque sia alle
+Dialogue: 0,0:01:22.37,0:01:22.43,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:22.43,0:01:22.49,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono {\1c&HFF00&\u1}la{\r} vera croce di chiunque sia alle
+Dialogue: 0,0:01:22.49,0:01:22.59,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:22.59,0:01:22.75,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la {\1c&HFF00&\u1}vera{\r} croce di chiunque sia alle
+Dialogue: 0,0:01:22.75,0:01:22.85,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:22.85,0:01:23.15,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera {\1c&HFF00&\u1}croce{\r} di chiunque sia alle
+Dialogue: 0,0:01:23.15,0:01:23.21,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:23.21,0:01:23.27,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce {\1c&HFF00&\u1}di{\r} chiunque sia alle
+Dialogue: 0,0:01:23.27,0:01:23.33,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:23.33,0:01:23.61,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di {\1c&HFF00&\u1}chiunque{\r} sia alle
+Dialogue: 0,0:01:23.61,0:01:23.63,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:23.63,0:01:23.69,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque {\1c&HFF00&\u1}sia{\r} alle
+Dialogue: 0,0:01:23.69,0:01:23.71,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia alle
+Dialogue: 0,0:01:23.71,0:01:23.79,Default,,0,0,0,,la comunicazione scritta. Scrittura e lettura spesso sono la vera croce di chiunque sia {\1c&HFF00&\u1}alle{\r}
+Dialogue: 0,0:01:24.28,0:01:24.44,Default,,0,0,0,,{\1c&HFF00&\u1}prime{\r} armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.44,0:01:24.54,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.54,0:01:24.68,Default,,0,0,0,,prime {\1c&HFF00&\u1}armi{\r} con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.68,0:01:24.70,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.70,0:01:24.78,Default,,0,0,0,,prime armi {\1c&HFF00&\u1}con{\r} una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.78,0:01:24.84,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.84,0:01:24.92,Default,,0,0,0,,prime armi con {\1c&HFF00&\u1}una{\r} lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.92,0:01:24.96,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:24.96,0:01:25.16,Default,,0,0,0,,prime armi con una {\1c&HFF00&\u1}lingua{\r} straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:25.16,0:01:25.20,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:25.20,0:01:25.99,Default,,0,0,0,,prime armi con una lingua {\1c&HFF00&\u1}straniera{\r} ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:25.99,0:01:26.01,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.01,0:01:26.05,Default,,0,0,0,,prime armi con una lingua straniera {\1c&HFF00&\u1}ed{\r} è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.05,0:01:26.07,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.07,0:01:26.09,Default,,0,0,0,,prime armi con una lingua straniera ed {\1c&HFF00&\u1}è{\r} forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.09,0:01:26.11,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.11,0:01:26.35,Default,,0,0,0,,prime armi con una lingua straniera ed è {\1c&HFF00&\u1}forse{\r} meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.35,0:01:26.63,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.63,0:01:26.79,Default,,0,0,0,,prime armi con una lingua straniera ed è forse {\1c&HFF00&\u1}meno{\r} importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.79,0:01:26.83,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:26.83,0:01:27.49,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno {\1c&HFF00&\u1}importante{\r} quando il nostro scopo è banalmente
+Dialogue: 0,0:01:27.49,0:01:27.67,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:27.67,0:01:27.81,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante {\1c&HFF00&\u1}quando{\r} il nostro scopo è banalmente
+Dialogue: 0,0:01:27.81,0:01:27.85,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:27.85,0:01:27.91,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando {\1c&HFF00&\u1}il{\r} nostro scopo è banalmente
+Dialogue: 0,0:01:27.91,0:01:27.95,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:27.95,0:01:28.13,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il {\1c&HFF00&\u1}nostro{\r} scopo è banalmente
+Dialogue: 0,0:01:28.13,0:01:28.17,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:28.17,0:01:28.45,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro {\1c&HFF00&\u1}scopo{\r} è banalmente
+Dialogue: 0,0:01:28.45,0:01:28.53,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:28.53,0:01:28.59,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo {\1c&HFF00&\u1}è{\r} banalmente
+Dialogue: 0,0:01:28.59,0:01:29.03,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è banalmente
+Dialogue: 0,0:01:29.03,0:01:29.45,Default,,0,0,0,,prime armi con una lingua straniera ed è forse meno importante quando il nostro scopo è {\1c&HFF00&\u1}banalmente{\r}
+Dialogue: 0,0:01:29.56,0:01:29.72,Default,,0,0,0,,{\1c&HFF00&\u1}quello{\r} di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:29.72,0:01:29.76,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:29.76,0:01:29.82,Default,,0,0,0,,quello {\1c&HFF00&\u1}di{\r} sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:29.82,0:01:29.88,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:29.88,0:01:30.56,Default,,0,0,0,,quello di {\1c&HFF00&\u1}sopravvivere{\r} in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:30.56,0:01:30.74,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:30.74,0:01:30.80,Default,,0,0,0,,quello di sopravvivere {\1c&HFF00&\u1}in{\r} un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:30.80,0:01:30.82,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:30.82,0:01:30.92,Default,,0,0,0,,quello di sopravvivere in {\1c&HFF00&\u1}un{\r} altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:30.92,0:01:30.94,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:30.94,0:01:31.15,Default,,0,0,0,,quello di sopravvivere in un {\1c&HFF00&\u1}altro{\r} paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:31.15,0:01:31.21,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:31.21,0:01:31.55,Default,,0,0,0,,quello di sopravvivere in un altro {\1c&HFF00&\u1}paese{\r} ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:31.55,0:01:31.91,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:31.91,0:01:32.03,Default,,0,0,0,,quello di sopravvivere in un altro paese {\1c&HFF00&\u1}ma{\r} se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:32.03,0:01:32.37,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:32.37,0:01:32.45,Default,,0,0,0,,quello di sopravvivere in un altro paese ma {\1c&HFF00&\u1}se{\r} abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:32.45,0:01:32.49,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:32.49,0:01:32.73,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se {\1c&HFF00&\u1}abbiamo{\r} delle mire un po più elevate come quelle
+Dialogue: 0,0:01:32.73,0:01:32.77,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:32.77,0:01:32.91,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo {\1c&HFF00&\u1}delle{\r} mire un po più elevate come quelle
+Dialogue: 0,0:01:32.91,0:01:32.97,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:32.97,0:01:33.13,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle {\1c&HFF00&\u1}mire{\r} un po più elevate come quelle
+Dialogue: 0,0:01:33.13,0:01:33.17,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:33.17,0:01:33.21,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire {\1c&HFF00&\u1}un{\r} po più elevate come quelle
+Dialogue: 0,0:01:33.21,0:01:33.23,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:33.23,0:01:33.31,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un {\1c&HFF00&\u1}po{\r} più elevate come quelle
+Dialogue: 0,0:01:33.31,0:01:33.33,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:33.33,0:01:33.43,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po {\1c&HFF00&\u1}più{\r} elevate come quelle
+Dialogue: 0,0:01:33.43,0:01:33.47,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:33.47,0:01:33.85,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più {\1c&HFF00&\u1}elevate{\r} come quelle
+Dialogue: 0,0:01:33.85,0:01:33.91,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:33.91,0:01:34.03,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate {\1c&HFF00&\u1}come{\r} quelle
+Dialogue: 0,0:01:34.03,0:01:34.05,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come quelle
+Dialogue: 0,0:01:34.05,0:01:34.23,Default,,0,0,0,,quello di sopravvivere in un altro paese ma se abbiamo delle mire un po più elevate come {\1c&HFF00&\u1}quelle{\r}
+Dialogue: 0,0:01:34.66,0:01:34.70,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:34.70,0:01:34.74,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:34.74,0:01:35.10,Default,,0,0,0,,di {\1c&HFF00&\u1}lavorare{\r} o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:35.10,0:01:35.26,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:35.26,0:01:35.30,Default,,0,0,0,,di lavorare {\1c&HFF00&\u1}o{\r} studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:35.30,0:01:35.36,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:35.36,0:01:35.82,Default,,0,0,0,,di lavorare o {\1c&HFF00&\u1}studiare{\r} in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:35.82,0:01:35.96,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:35.96,0:01:36.02,Default,,0,0,0,,di lavorare o studiare {\1c&HFF00&\u1}in{\r} un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:36.02,0:01:36.06,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:36.06,0:01:36.37,Default,,0,0,0,,di lavorare o studiare in {\1c&HFF00&\u1}un'altra{\r} lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:36.37,0:01:36.41,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:36.41,0:01:36.67,Default,,0,0,0,,di lavorare o studiare in un'altra {\1c&HFF00&\u1}lingua{\r} risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:36.67,0:01:36.93,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:36.93,0:01:37.21,Default,,0,0,0,,di lavorare o studiare in un'altra lingua {\1c&HFF00&\u1}risulta{\r} allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:37.21,0:01:37.23,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:37.23,0:01:37.51,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta {\1c&HFF00&\u1}allora{\r} fondamentale. È in quest'area che si
+Dialogue: 0,0:01:37.51,0:01:37.81,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:37.81,0:01:38.43,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora {\1c&HFF00&\u1}fondamentale.{\r} È in quest'area che si
+Dialogue: 0,0:01:38.43,0:01:38.81,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:38.81,0:01:38.85,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. {\1c&HFF00&\u1}È{\r} in quest'area che si
+Dialogue: 0,0:01:38.85,0:01:38.91,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:38.91,0:01:38.97,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È {\1c&HFF00&\u1}in{\r} quest'area che si
+Dialogue: 0,0:01:38.97,0:01:39.01,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:39.01,0:01:39.53,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in {\1c&HFF00&\u1}quest'area{\r} che si
+Dialogue: 0,0:01:39.53,0:01:39.77,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:39.77,0:01:39.85,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area {\1c&HFF00&\u1}che{\r} si
+Dialogue: 0,0:01:39.85,0:01:39.89,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che si
+Dialogue: 0,0:01:39.89,0:01:39.96,Default,,0,0,0,,di lavorare o studiare in un'altra lingua risulta allora fondamentale. È in quest'area che {\1c&HFF00&\u1}si{\r}
+Dialogue: 0,0:01:40.12,0:01:40.54,Default,,0,0,0,,{\1c&HFF00&\u1}concentrerà{\r} nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:40.54,0:01:40.60,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:40.60,0:01:40.72,Default,,0,0,0,,concentrerà {\1c&HFF00&\u1}nei{\r} nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:40.72,0:01:40.74,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:40.74,0:01:40.92,Default,,0,0,0,,concentrerà nei {\1c&HFF00&\u1}nostri{\r} sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:40.92,0:01:40.96,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:40.96,0:01:41.30,Default,,0,0,0,,concentrerà nei nostri {\1c&HFF00&\u1}sforzi{\r} riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:41.30,0:01:41.36,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:41.36,0:01:41.70,Default,,0,0,0,,concentrerà nei nostri sforzi {\1c&HFF00&\u1}riguardo{\r} alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:41.70,0:01:41.97,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:41.97,0:01:42.13,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo {\1c&HFF00&\u1}alla{\r} correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:42.13,0:01:42.25,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:42.25,0:01:42.99,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla {\1c&HFF00&\u1}correttezza{\r} espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:42.99,0:01:43.01,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:43.01,0:01:43.75,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza {\1c&HFF00&\u1}espositiva,{\r} all'applicazione pedissequa
+Dialogue: 0,0:01:43.75,0:01:44.03,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:44.03,0:01:44.87,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, {\1c&HFF00&\u1}all'applicazione{\r} pedissequa
+Dialogue: 0,0:01:44.87,0:01:44.89,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione pedissequa
+Dialogue: 0,0:01:44.89,0:01:45.80,Default,,0,0,0,,concentrerà nei nostri sforzi riguardo alla correttezza espositiva, all'applicazione {\1c&HFF00&\u1}pedissequa{\r}
+Dialogue: 0,0:01:46.02,0:01:46.20,Default,,0,0,0,,{\1c&HFF00&\u1}delle{\r} regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:46.20,0:01:46.22,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:46.22,0:01:46.42,Default,,0,0,0,,delle {\1c&HFF00&\u1}regole{\r} grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:46.42,0:01:46.46,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:46.46,0:01:46.96,Default,,0,0,0,,delle regole {\1c&HFF00&\u1}grammaticali{\r} imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:46.96,0:01:46.98,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:46.98,0:01:47.34,Default,,0,0,0,,delle regole grammaticali {\1c&HFF00&\u1}imparate.{\r} Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:47.34,0:01:47.65,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:47.65,0:01:47.87,Default,,0,0,0,,delle regole grammaticali imparate. {\1c&HFF00&\u1}Quinta{\r} area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:47.87,0:01:47.89,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:47.89,0:01:48.19,Default,,0,0,0,,delle regole grammaticali imparate. Quinta {\1c&HFF00&\u1}area,{\r} l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:48.19,0:01:48.49,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:48.49,0:01:49.07,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, {\1c&HFF00&\u1}l'alfabeto{\r} o la graffia, insomma i segni
+Dialogue: 0,0:01:49.07,0:01:49.19,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:49.19,0:01:49.23,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto {\1c&HFF00&\u1}o{\r} la graffia, insomma i segni
+Dialogue: 0,0:01:49.23,0:01:49.29,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:49.29,0:01:49.33,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o {\1c&HFF00&\u1}la{\r} graffia, insomma i segni
+Dialogue: 0,0:01:49.33,0:01:49.37,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:49.37,0:01:49.73,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la {\1c&HFF00&\u1}graffia,{\r} insomma i segni
+Dialogue: 0,0:01:49.73,0:01:49.83,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:49.83,0:01:50.09,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, {\1c&HFF00&\u1}insomma{\r} i segni
+Dialogue: 0,0:01:50.09,0:01:50.39,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:50.39,0:01:50.43,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma {\1c&HFF00&\u1}i{\r} segni
+Dialogue: 0,0:01:50.43,0:01:50.55,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i segni
+Dialogue: 0,0:01:50.55,0:01:50.81,Default,,0,0,0,,delle regole grammaticali imparate. Quinta area, l'alfabeto o la graffia, insomma i {\1c&HFF00&\u1}segni{\r}
+Dialogue: 0,0:01:50.94,0:01:51.40,Default,,0,0,0,,{\1c&HFF00&\u1}linguistici{\r} impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:51.40,0:01:51.58,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:51.58,0:01:52.08,Default,,0,0,0,,linguistici {\1c&HFF00&\u1}impiegati{\r} della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.08,0:01:52.12,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.12,0:01:52.29,Default,,0,0,0,,linguistici impiegati {\1c&HFF00&\u1}della{\r} lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.29,0:01:52.33,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.33,0:01:52.59,Default,,0,0,0,,linguistici impiegati della {\1c&HFF00&\u1}lingua,{\r} che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.59,0:01:52.67,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.67,0:01:52.75,Default,,0,0,0,,linguistici impiegati della lingua, {\1c&HFF00&\u1}che{\r} se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.75,0:01:52.79,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.79,0:01:52.85,Default,,0,0,0,,linguistici impiegati della lingua, che {\1c&HFF00&\u1}se{\r} sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.85,0:01:52.91,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:52.91,0:01:53.05,Default,,0,0,0,,linguistici impiegati della lingua, che se {\1c&HFF00&\u1}sei{\r} fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:53.05,0:01:53.13,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:53.13,0:01:53.67,Default,,0,0,0,,linguistici impiegati della lingua, che se sei {\1c&HFF00&\u1}fortunato{\r} ed è una lingua che si basa
+Dialogue: 0,0:01:53.67,0:01:53.79,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:53.79,0:01:53.85,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato {\1c&HFF00&\u1}ed{\r} è una lingua che si basa
+Dialogue: 0,0:01:53.85,0:01:53.87,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:53.87,0:01:53.91,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed {\1c&HFF00&\u1}è{\r} una lingua che si basa
+Dialogue: 0,0:01:53.91,0:01:53.95,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:53.95,0:01:54.01,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è {\1c&HFF00&\u1}una{\r} lingua che si basa
+Dialogue: 0,0:01:54.01,0:01:54.05,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:54.05,0:01:54.29,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una {\1c&HFF00&\u1}lingua{\r} che si basa
+Dialogue: 0,0:01:54.29,0:01:54.55,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:54.55,0:01:54.61,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua {\1c&HFF00&\u1}che{\r} si basa
+Dialogue: 0,0:01:54.61,0:01:54.65,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:54.65,0:01:54.73,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che {\1c&HFF00&\u1}si{\r} basa
+Dialogue: 0,0:01:54.73,0:01:54.77,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si basa
+Dialogue: 0,0:01:54.77,0:01:54.93,Default,,0,0,0,,linguistici impiegati della lingua, che se sei fortunato ed è una lingua che si {\1c&HFF00&\u1}basa{\r}
+Dialogue: 0,0:01:54.84,0:01:55.50,Default,,0,0,0,,{\1c&HFF00&\u1}sull'alfabeto{\r} latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:55.50,0:01:55.54,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:55.54,0:01:56.16,Default,,0,0,0,,sull'alfabeto {\1c&HFF00&\u1}latino{\r} va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:56.16,0:01:56.18,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:56.18,0:01:56.28,Default,,0,0,0,,sull'alfabeto latino {\1c&HFF00&\u1}va{\r} tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:56.28,0:01:56.36,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:56.36,0:01:56.58,Default,,0,0,0,,sull'alfabeto latino va {\1c&HFF00&\u1}tutto{\r} bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:56.58,0:01:56.62,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:56.62,0:01:57.13,Default,,0,0,0,,sull'alfabeto latino va tutto {\1c&HFF00&\u1}bene,{\r} ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.13,0:01:57.15,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.15,0:01:57.21,Default,,0,0,0,,sull'alfabeto latino va tutto bene, {\1c&HFF00&\u1}ma{\r} se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.21,0:01:57.27,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.27,0:01:57.35,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma {\1c&HFF00&\u1}se{\r} così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.35,0:01:57.39,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.39,0:01:57.55,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se {\1c&HFF00&\u1}così{\r} non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.55,0:01:57.59,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.59,0:01:57.69,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così {\1c&HFF00&\u1}non{\r} è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.69,0:01:57.75,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.75,0:01:57.81,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non {\1c&HFF00&\u1}è,{\r} disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:57.81,0:01:58.11,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:58.11,0:01:58.51,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, {\1c&HFF00&\u1}disastro.{\r} L'incrocio fra queste cinque
+Dialogue: 0,0:01:58.51,0:01:58.79,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:58.79,0:01:59.45,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. {\1c&HFF00&\u1}L'incrocio{\r} fra queste cinque
+Dialogue: 0,0:01:59.45,0:01:59.69,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:59.69,0:01:59.79,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio {\1c&HFF00&\u1}fra{\r} queste cinque
+Dialogue: 0,0:01:59.79,0:01:59.83,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:01:59.83,0:02:0.03,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra {\1c&HFF00&\u1}queste{\r} cinque
+Dialogue: 0,0:02:0.03,0:02:0.21,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste cinque
+Dialogue: 0,0:02:0.21,0:02:0.47,Default,,0,0,0,,sull'alfabeto latino va tutto bene, ma se così non è, disastro. L'incrocio fra queste {\1c&HFF00&\u1}cinque{\r}
+Dialogue: 0,0:02:0.36,0:02:1.12,Default,,0,0,0,,{\1c&HFF00&\u1}aree{\r} di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:1.12,0:02:1.16,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:1.16,0:02:1.24,Default,,0,0,0,,aree {\1c&HFF00&\u1}di{\r} competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:1.24,0:02:1.28,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:1.28,0:02:1.72,Default,,0,0,0,,aree di {\1c&HFF00&\u1}competenza{\r} linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:1.72,0:02:1.80,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:1.80,0:02:2.27,Default,,0,0,0,,aree di competenza {\1c&HFF00&\u1}linguistica{\r} e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.27,0:02:2.41,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.41,0:02:2.45,Default,,0,0,0,,aree di competenza linguistica {\1c&HFF00&\u1}e{\r} le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.45,0:02:2.53,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.53,0:02:2.59,Default,,0,0,0,,aree di competenza linguistica e {\1c&HFF00&\u1}le{\r} tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.59,0:02:2.75,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.75,0:02:2.87,Default,,0,0,0,,aree di competenza linguistica e le {\1c&HFF00&\u1}tre{\r} fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.87,0:02:2.93,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:2.93,0:02:3.15,Default,,0,0,0,,aree di competenza linguistica e le tre {\1c&HFF00&\u1}fasi{\r} di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.15,0:02:3.19,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.19,0:02:3.23,Default,,0,0,0,,aree di competenza linguistica e le tre fasi {\1c&HFF00&\u1}di{\r} apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.23,0:02:3.27,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.27,0:02:3.75,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di {\1c&HFF00&\u1}apprendimento{\r} che abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.75,0:02:3.79,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.79,0:02:3.85,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento {\1c&HFF00&\u1}che{\r} abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.85,0:02:3.89,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:3.89,0:02:4.11,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che {\1c&HFF00&\u1}abbiamo{\r} visto ci restituisce
+Dialogue: 0,0:02:4.11,0:02:4.15,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:4.15,0:02:4.39,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo {\1c&HFF00&\u1}visto{\r} ci restituisce
+Dialogue: 0,0:02:4.39,0:02:4.69,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:4.69,0:02:4.77,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto {\1c&HFF00&\u1}ci{\r} restituisce
+Dialogue: 0,0:02:4.77,0:02:4.83,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci restituisce
+Dialogue: 0,0:02:4.83,0:02:5.37,Default,,0,0,0,,aree di competenza linguistica e le tre fasi di apprendimento che abbiamo visto ci {\1c&HFF00&\u1}restituisce{\r}
+Dialogue: 0,0:02:6.44,0:02:6.90,Default,,0,0,0,,{\1c&HFF00&\u1}15 tipologie{\r} di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:6.90,0:02:6.92,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:6.92,0:02:7.00,Default,,0,0,0,,15 tipologie {\1c&HFF00&\u1}di{\r} attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:7.00,0:02:7.04,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:7.04,0:02:7.39,Default,,0,0,0,,15 tipologie di {\1c&HFF00&\u1}attività{\r} ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:7.39,0:02:7.67,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:7.67,0:02:7.79,Default,,0,0,0,,15 tipologie di attività {\1c&HFF00&\u1}ed{\r} esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:7.79,0:02:7.81,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:7.81,0:02:8.35,Default,,0,0,0,,15 tipologie di attività ed {\1c&HFF00&\u1}esercizi{\r} che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:8.35,0:02:8.41,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:8.41,0:02:8.53,Default,,0,0,0,,15 tipologie di attività ed esercizi {\1c&HFF00&\u1}che{\r} alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:8.53,0:02:8.89,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:8.89,0:02:9.59,Default,,0,0,0,,15 tipologie di attività ed esercizi che {\1c&HFF00&\u1}alternati,{\r} mescolati e portati avanti in modo
+Dialogue: 0,0:02:9.59,0:02:9.69,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:9.69,0:02:10.23,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, {\1c&HFF00&\u1}mescolati{\r} e portati avanti in modo
+Dialogue: 0,0:02:10.23,0:02:10.27,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:10.27,0:02:10.29,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati {\1c&HFF00&\u1}e{\r} portati avanti in modo
+Dialogue: 0,0:02:10.29,0:02:10.35,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:10.35,0:02:10.61,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e {\1c&HFF00&\u1}portati{\r} avanti in modo
+Dialogue: 0,0:02:10.61,0:02:10.65,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:10.65,0:02:10.93,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati {\1c&HFF00&\u1}avanti{\r} in modo
+Dialogue: 0,0:02:10.93,0:02:10.95,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:10.95,0:02:11.01,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti {\1c&HFF00&\u1}in{\r} modo
+Dialogue: 0,0:02:11.01,0:02:11.03,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in modo
+Dialogue: 0,0:02:11.03,0:02:11.20,Default,,0,0,0,,15 tipologie di attività ed esercizi che alternati, mescolati e portati avanti in {\1c&HFF00&\u1}modo{\r}
+Dialogue: 0,0:02:11.60,0:02:12.12,Default,,0,0,0,,{\1c&HFF00&\u1}costante,{\r} basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:12.12,0:02:12.46,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:12.46,0:02:13.10,Default,,0,0,0,,costante, {\1c&HFF00&\u1}basandosi{\r} sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.10,0:02:13.16,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.16,0:02:13.29,Default,,0,0,0,,costante, basandosi {\1c&HFF00&\u1}sui{\r} principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.29,0:02:13.31,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.31,0:02:13.63,Default,,0,0,0,,costante, basandosi sui {\1c&HFF00&\u1}principi{\r} che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.63,0:02:13.65,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.65,0:02:13.73,Default,,0,0,0,,costante, basandosi sui principi {\1c&HFF00&\u1}che{\r} ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.73,0:02:13.75,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.75,0:02:13.81,Default,,0,0,0,,costante, basandosi sui principi che {\1c&HFF00&\u1}ti{\r} ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.81,0:02:13.83,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.83,0:02:13.87,Default,,0,0,0,,costante, basandosi sui principi che ti {\1c&HFF00&\u1}ho{\r} spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.87,0:02:13.91,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:13.91,0:02:14.31,Default,,0,0,0,,costante, basandosi sui principi che ti ho {\1c&HFF00&\u1}spiegato{\r} a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:14.31,0:02:14.61,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:14.61,0:02:14.67,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato {\1c&HFF00&\u1}a{\r} inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:14.67,0:02:14.69,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:14.69,0:02:14.95,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a {\1c&HFF00&\u1}inizio{\r} video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:14.95,0:02:15.01,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:15.01,0:02:15.27,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio {\1c&HFF00&\u1}video,{\r} ti consentiranno di imparare bene
+Dialogue: 0,0:02:15.27,0:02:15.53,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:15.53,0:02:15.61,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, {\1c&HFF00&\u1}ti{\r} consentiranno di imparare bene
+Dialogue: 0,0:02:15.61,0:02:15.69,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:15.69,0:02:16.35,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti {\1c&HFF00&\u1}consentiranno{\r} di imparare bene
+Dialogue: 0,0:02:16.35,0:02:16.39,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:16.39,0:02:16.45,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno {\1c&HFF00&\u1}di{\r} imparare bene
+Dialogue: 0,0:02:16.45,0:02:16.47,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:16.47,0:02:16.87,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di {\1c&HFF00&\u1}imparare{\r} bene
+Dialogue: 0,0:02:16.87,0:02:17.27,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare bene
+Dialogue: 0,0:02:17.27,0:02:17.56,Default,,0,0,0,,costante, basandosi sui principi che ti ho spiegato a inizio video, ti consentiranno di imparare {\1c&HFF00&\u1}bene{\r}
+Dialogue: 0,0:02:17.98,0:02:18.02,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.02,0:02:18.06,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.06,0:02:18.12,Default,,0,0,0,,e {\1c&HFF00&\u1}in{\r} relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.12,0:02:18.14,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.14,0:02:18.48,Default,,0,0,0,,e in {\1c&HFF00&\u1}relativo{\r} poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.48,0:02:18.52,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.52,0:02:18.68,Default,,0,0,0,,e in relativo {\1c&HFF00&\u1}poco{\r} tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.68,0:02:18.72,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.72,0:02:18.98,Default,,0,0,0,,e in relativo poco {\1c&HFF00&\u1}tempo.{\r} Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:18.98,0:02:19.37,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:19.37,0:02:19.45,Default,,0,0,0,,e in relativo poco tempo. {\1c&HFF00&\u1}Non{\r} mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:19.45,0:02:19.47,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:19.47,0:02:19.55,Default,,0,0,0,,e in relativo poco tempo. Non {\1c&HFF00&\u1}mi{\r} metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:19.55,0:02:19.59,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:19.59,0:02:19.85,Default,,0,0,0,,e in relativo poco tempo. Non mi {\1c&HFF00&\u1}metto{\r} adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:19.85,0:02:20.15,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:20.15,0:02:20.53,Default,,0,0,0,,e in relativo poco tempo. Non mi metto {\1c&HFF00&\u1}adesso{\r} a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:20.53,0:02:20.55,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:20.55,0:02:20.61,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso {\1c&HFF00&\u1}a{\r} descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:20.61,0:02:20.63,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:20.63,0:02:21.07,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a {\1c&HFF00&\u1}descrivere{\r} tutti e quindici gli incroci,
+Dialogue: 0,0:02:21.07,0:02:21.31,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:21.31,0:02:21.51,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere {\1c&HFF00&\u1}tutti{\r} e quindici gli incroci,
+Dialogue: 0,0:02:21.51,0:02:21.55,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:21.55,0:02:21.59,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti {\1c&HFF00&\u1}e{\r} quindici gli incroci,
+Dialogue: 0,0:02:21.59,0:02:21.71,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:21.71,0:02:22.09,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e {\1c&HFF00&\u1}quindici{\r} gli incroci,
+Dialogue: 0,0:02:22.09,0:02:22.13,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:22.13,0:02:22.21,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici {\1c&HFF00&\u1}gli{\r} incroci,
+Dialogue: 0,0:02:22.21,0:02:22.25,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli incroci,
+Dialogue: 0,0:02:22.25,0:02:22.63,Default,,0,0,0,,e in relativo poco tempo. Non mi metto adesso a descrivere tutti e quindici gli {\1c&HFF00&\u1}incroci,{\r}
+Dialogue: 0,0:02:22.74,0:02:22.82,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} sennò questo video viene lungo 35 minuti
+Dialogue: 0,0:02:22.82,0:02:22.86,Default,,0,0,0,,che sennò questo video viene lungo 35 minuti
+Dialogue: 0,0:02:22.86,0:02:23.27,Default,,0,0,0,,che {\1c&HFF00&\u1}sennò{\r} questo video viene lungo 35 minuti
+Dialogue: 0,0:02:23.27,0:02:23.33,Default,,0,0,0,,che sennò questo video viene lungo 35 minuti
+Dialogue: 0,0:02:23.33,0:02:23.49,Default,,0,0,0,,che sennò {\1c&HFF00&\u1}questo{\r} video viene lungo 35 minuti
+Dialogue: 0,0:02:23.49,0:02:23.55,Default,,0,0,0,,che sennò questo video viene lungo 35 minuti
+Dialogue: 0,0:02:23.55,0:02:23.73,Default,,0,0,0,,che sennò questo {\1c&HFF00&\u1}video{\r} viene lungo 35 minuti
+Dialogue: 0,0:02:23.73,0:02:23.77,Default,,0,0,0,,che sennò questo video viene lungo 35 minuti
+Dialogue: 0,0:02:23.77,0:02:23.91,Default,,0,0,0,,che sennò questo video {\1c&HFF00&\u1}viene{\r} lungo 35 minuti
+Dialogue: 0,0:02:23.91,0:02:23.97,Default,,0,0,0,,che sennò questo video viene lungo 35 minuti
+Dialogue: 0,0:02:23.97,0:02:24.15,Default,,0,0,0,,che sennò questo video viene {\1c&HFF00&\u1}lungo 35{\r} minuti
+Dialogue: 0,0:02:24.15,0:02:24.19,Default,,0,0,0,,che sennò questo video viene lungo 35 minuti
+Dialogue: 0,0:02:24.19,0:02:24.47,Default,,0,0,0,,che sennò questo video viene lungo 35 {\1c&HFF00&\u1}minuti{\r}

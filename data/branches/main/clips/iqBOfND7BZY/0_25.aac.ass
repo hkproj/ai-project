@@ -1,0 +1,348 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.44,Default,,0,0,0,,{\1c&HFF00&\u1}appunto{\r} le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:0.44,0:00:0.52,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:0.52,0:00:0.58,Default,,0,0,0,,appunto {\1c&HFF00&\u1}le{\r} tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:0.58,0:00:0.64,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:0.64,0:00:1.06,Default,,0,0,0,,appunto le {\1c&HFF00&\u1}tecniche{\r} dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:1.06,0:00:1.12,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:1.12,0:00:1.22,Default,,0,0,0,,appunto le tecniche {\1c&HFF00&\u1}dei{\r} negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:1.22,0:00:1.26,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:1.26,0:00:1.91,Default,,0,0,0,,appunto le tecniche dei {\1c&HFF00&\u1}negoziatori,{\r} allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:1.91,0:00:2.39,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:2.39,0:00:2.73,Default,,0,0,0,,appunto le tecniche dei negoziatori, {\1c&HFF00&\u1}allora{\r} riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:2.73,0:00:2.81,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:2.81,0:00:3.37,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora {\1c&HFF00&\u1}riuscirete{\r} ad ottenere lo sconto immediato
+Dialogue: 0,0:00:3.37,0:00:3.41,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:3.41,0:00:3.49,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete {\1c&HFF00&\u1}ad{\r} ottenere lo sconto immediato
+Dialogue: 0,0:00:3.49,0:00:3.53,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:3.53,0:00:3.99,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad {\1c&HFF00&\u1}ottenere{\r} lo sconto immediato
+Dialogue: 0,0:00:3.99,0:00:4.07,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:4.07,0:00:4.13,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere {\1c&HFF00&\u1}lo{\r} sconto immediato
+Dialogue: 0,0:00:4.13,0:00:4.17,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:4.17,0:00:4.53,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo {\1c&HFF00&\u1}sconto{\r} immediato
+Dialogue: 0,0:00:4.53,0:00:4.57,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto immediato
+Dialogue: 0,0:00:4.57,0:00:5.07,Default,,0,0,0,,appunto le tecniche dei negoziatori, allora riuscirete ad ottenere lo sconto {\1c&HFF00&\u1}immediato{\r}
+Dialogue: 0,0:00:5.54,0:00:5.58,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:5.58,0:00:5.68,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:5.68,0:00:6.28,Default,,0,0,0,,a {\1c&HFF00&\u1}prescindere{\r} dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:6.28,0:00:6.32,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:6.32,0:00:6.50,Default,,0,0,0,,a prescindere {\1c&HFF00&\u1}dalle{\r} quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:6.50,0:00:6.54,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:6.54,0:00:7.02,Default,,0,0,0,,a prescindere dalle {\1c&HFF00&\u1}quantità,{\r} ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.02,0:00:7.40,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.40,0:00:7.46,Default,,0,0,0,,a prescindere dalle quantità, {\1c&HFF00&\u1}ma{\r} se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.46,0:00:7.51,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.51,0:00:7.59,Default,,0,0,0,,a prescindere dalle quantità, ma {\1c&HFF00&\u1}se{\r} non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.59,0:00:7.63,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.63,0:00:7.75,Default,,0,0,0,,a prescindere dalle quantità, ma se {\1c&HFF00&\u1}non{\r} doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.75,0:00:7.79,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:7.79,0:00:8.13,Default,,0,0,0,,a prescindere dalle quantità, ma se non {\1c&HFF00&\u1}doveste{\r} ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:8.13,0:00:8.19,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:8.19,0:00:8.57,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste {\1c&HFF00&\u1}ottenere{\r} lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:8.57,0:00:8.65,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:8.65,0:00:8.71,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere {\1c&HFF00&\u1}lo{\r} sconto o andate da un altro negozio
+Dialogue: 0,0:00:8.71,0:00:8.75,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:8.75,0:00:9.17,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo {\1c&HFF00&\u1}sconto{\r} o andate da un altro negozio
+Dialogue: 0,0:00:9.17,0:00:9.67,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:9.67,0:00:9.73,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto {\1c&HFF00&\u1}o{\r} andate da un altro negozio
+Dialogue: 0,0:00:9.73,0:00:9.89,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:9.89,0:00:10.21,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o {\1c&HFF00&\u1}andate{\r} da un altro negozio
+Dialogue: 0,0:00:10.21,0:00:10.25,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:10.25,0:00:10.35,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate {\1c&HFF00&\u1}da{\r} un altro negozio
+Dialogue: 0,0:00:10.35,0:00:10.39,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:10.39,0:00:10.47,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da {\1c&HFF00&\u1}un{\r} altro negozio
+Dialogue: 0,0:00:10.47,0:00:10.49,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:10.49,0:00:10.73,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un {\1c&HFF00&\u1}altro{\r} negozio
+Dialogue: 0,0:00:10.73,0:00:10.79,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro negozio
+Dialogue: 0,0:00:10.79,0:00:11.23,Default,,0,0,0,,a prescindere dalle quantità, ma se non doveste ottenere lo sconto o andate da un altro {\1c&HFF00&\u1}negozio{\r}
+Dialogue: 0,0:00:11.84,0:00:12.00,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:12.00,0:00:12.06,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:12.06,0:00:12.20,Default,,0,0,0,,o {\1c&HFF00&\u1}non{\r} vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:12.20,0:00:12.24,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:12.24,0:00:12.32,Default,,0,0,0,,o non {\1c&HFF00&\u1}vi{\r} preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:12.32,0:00:12.36,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:12.36,0:00:13.00,Default,,0,0,0,,o non vi {\1c&HFF00&\u1}preoccupate{\r} saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:13.00,0:00:13.06,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:13.06,0:00:13.44,Default,,0,0,0,,o non vi preoccupate {\1c&HFF00&\u1}saltate{\r} direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:13.44,0:00:13.52,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:13.52,0:00:14.13,Default,,0,0,0,,o non vi preoccupate saltate {\1c&HFF00&\u1}direttamente{\r} al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:14.13,0:00:14.19,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:14.19,0:00:14.27,Default,,0,0,0,,o non vi preoccupate saltate direttamente {\1c&HFF00&\u1}al{\r} passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:14.27,0:00:14.33,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:14.33,0:00:14.57,Default,,0,0,0,,o non vi preoccupate saltate direttamente al {\1c&HFF00&\u1}passo 3,{\r} perché il non ottenere sconti
+Dialogue: 0,0:00:14.57,0:00:15.17,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:15.17,0:00:15.45,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, {\1c&HFF00&\u1}perché{\r} il non ottenere sconti
+Dialogue: 0,0:00:15.45,0:00:15.47,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:15.47,0:00:15.51,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché {\1c&HFF00&\u1}il{\r} non ottenere sconti
+Dialogue: 0,0:00:15.51,0:00:15.67,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:15.67,0:00:15.87,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il {\1c&HFF00&\u1}non{\r} ottenere sconti
+Dialogue: 0,0:00:15.87,0:00:15.93,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:15.93,0:00:16.33,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non {\1c&HFF00&\u1}ottenere{\r} sconti
+Dialogue: 0,0:00:16.33,0:00:16.39,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere sconti
+Dialogue: 0,0:00:16.39,0:00:16.77,Default,,0,0,0,,o non vi preoccupate saltate direttamente al passo 3, perché il non ottenere {\1c&HFF00&\u1}sconti{\r}
+Dialogue: 0,0:00:17.16,0:00:17.26,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:17.26,0:00:17.34,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:17.34,0:00:17.84,Default,,0,0,0,,non {\1c&HFF00&\u1}pregiudica{\r} la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:17.84,0:00:17.90,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:17.90,0:00:17.96,Default,,0,0,0,,non pregiudica {\1c&HFF00&\u1}la{\r} strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:17.96,0:00:18.00,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:18.00,0:00:19.11,Default,,0,0,0,,non pregiudica la {\1c&HFF00&\u1}strategia.{\r} A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:19.11,0:00:19.13,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:19.13,0:00:19.15,Default,,0,0,0,,non pregiudica la strategia. {\1c&HFF00&\u1}A{\r} quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:19.15,0:00:19.21,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:19.21,0:00:19.35,Default,,0,0,0,,non pregiudica la strategia. A {\1c&HFF00&\u1}quel{\r} punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:19.35,0:00:19.43,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:19.43,0:00:19.75,Default,,0,0,0,,non pregiudica la strategia. A quel {\1c&HFF00&\u1}punto{\r} dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:19.75,0:00:20.15,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:20.15,0:00:20.47,Default,,0,0,0,,non pregiudica la strategia. A quel punto {\1c&HFF00&\u1}dovrete{\r} individuare tutti quei prodotti che
+Dialogue: 0,0:00:20.47,0:00:20.51,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:20.51,0:00:21.15,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete {\1c&HFF00&\u1}individuare{\r} tutti quei prodotti che
+Dialogue: 0,0:00:21.15,0:00:21.37,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:21.37,0:00:21.67,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare {\1c&HFF00&\u1}tutti{\r} quei prodotti che
+Dialogue: 0,0:00:21.67,0:00:21.75,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:21.75,0:00:21.89,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti {\1c&HFF00&\u1}quei{\r} prodotti che
+Dialogue: 0,0:00:21.89,0:00:21.95,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:21.95,0:00:22.45,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei {\1c&HFF00&\u1}prodotti{\r} che
+Dialogue: 0,0:00:22.45,0:00:22.65,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti che
+Dialogue: 0,0:00:22.65,0:00:22.73,Default,,0,0,0,,non pregiudica la strategia. A quel punto dovrete individuare tutti quei prodotti {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:23.00,0:00:23.36,Default,,0,0,0,,{\1c&HFF00&\u1}secondo{\r} voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:23.36,0:00:23.40,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:23.40,0:00:23.60,Default,,0,0,0,,secondo {\1c&HFF00&\u1}voi{\r} si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:23.60,0:00:23.70,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:23.70,0:00:23.78,Default,,0,0,0,,secondo voi {\1c&HFF00&\u1}si{\r} rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:23.78,0:00:23.86,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:23.86,0:00:24.34,Default,,0,0,0,,secondo voi si {\1c&HFF00&\u1}rivendono{\r} facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:24.34,0:00:24.46,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:24.46,0:00:25.19,Default,,0,0,0,,secondo voi si rivendono {\1c&HFF00&\u1}facilmente{\r} fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:25.19,0:00:25.67,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:25.67,0:00:25.85,Default,,0,0,0,,secondo voi si rivendono facilmente {\1c&HFF00&\u1}fino{\r} a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:25.85,0:00:25.87,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:25.87,0:00:25.89,Default,,0,0,0,,secondo voi si rivendono facilmente fino {\1c&HFF00&\u1}a{\r} un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:25.89,0:00:25.93,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:25.93,0:00:26.01,Default,,0,0,0,,secondo voi si rivendono facilmente fino a {\1c&HFF00&\u1}un{\r} massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:26.01,0:00:26.07,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:26.07,0:00:26.49,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un {\1c&HFF00&\u1}massimo{\r} di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:26.49,0:00:26.53,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:26.53,0:00:26.61,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo {\1c&HFF00&\u1}di 30{\r} euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:26.61,0:00:27.07,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:27.07,0:00:27.41,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 {\1c&HFF00&\u1}euro.{\r} Sceglieteli prevalentemente
+Dialogue: 0,0:00:27.41,0:00:27.99,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:27.99,0:00:28.57,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. {\1c&HFF00&\u1}Sceglieteli{\r} prevalentemente
+Dialogue: 0,0:00:28.57,0:00:28.67,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli prevalentemente
+Dialogue: 0,0:00:28.67,0:00:29.46,Default,,0,0,0,,secondo voi si rivendono facilmente fino a un massimo di 30 euro. Sceglieteli {\1c&HFF00&\u1}prevalentemente{\r}
+Dialogue: 0,0:00:29.74,0:00:30.30,Default,,0,0,0,,{\1c&HFF00&\u1}tecnologici{\r} come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:30.30,0:00:30.70,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:30.70,0:00:30.82,Default,,0,0,0,,tecnologici {\1c&HFF00&\u1}come{\r} ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:30.82,0:00:30.86,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:30.86,0:00:30.94,Default,,0,0,0,,tecnologici come {\1c&HFF00&\u1}ad{\r} esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:30.94,0:00:30.96,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:30.96,0:00:31.28,Default,,0,0,0,,tecnologici come ad {\1c&HFF00&\u1}esempio{\r} lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:31.28,0:00:31.36,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:31.36,0:00:31.75,Default,,0,0,0,,tecnologici come ad esempio {\1c&HFF00&\u1}lampade{\r} led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:31.75,0:00:31.79,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:31.79,0:00:32.19,Default,,0,0,0,,tecnologici come ad esempio lampade {\1c&HFF00&\u1}led,{\r} cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:32.19,0:00:32.59,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:32.59,0:00:33.01,Default,,0,0,0,,tecnologici come ad esempio lampade led, {\1c&HFF00&\u1}cuffie,{\r} microfoni, power bank, piastre
+Dialogue: 0,0:00:33.01,0:00:33.19,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:33.19,0:00:33.75,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, {\1c&HFF00&\u1}microfoni,{\r} power bank, piastre
+Dialogue: 0,0:00:33.75,0:00:34.01,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:34.01,0:00:34.31,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, {\1c&HFF00&\u1}power{\r} bank, piastre
+Dialogue: 0,0:00:34.31,0:00:34.37,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:34.37,0:00:34.75,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power {\1c&HFF00&\u1}bank,{\r} piastre
+Dialogue: 0,0:00:34.75,0:00:34.99,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, piastre
+Dialogue: 0,0:00:34.99,0:00:35.31,Default,,0,0,0,,tecnologici come ad esempio lampade led, cuffie, microfoni, power bank, {\1c&HFF00&\u1}piastre{\r}
+Dialogue: 0,0:00:35.30,0:00:35.64,Default,,0,0,0,,{\1c&HFF00&\u1}per{\r} capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:35.64,0:00:35.68,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:35.68,0:00:36.02,Default,,0,0,0,,per {\1c&HFF00&\u1}capelli{\r} ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:36.02,0:00:36.46,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:36.46,0:00:36.54,Default,,0,0,0,,per capelli {\1c&HFF00&\u1}ma{\r} anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:36.54,0:00:36.62,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:36.62,0:00:36.88,Default,,0,0,0,,per capelli ma {\1c&HFF00&\u1}anche{\r} tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:36.88,0:00:36.96,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:36.96,0:00:37.39,Default,,0,0,0,,per capelli ma anche {\1c&HFF00&\u1}tazze,{\r} zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:37.39,0:00:37.65,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:37.65,0:00:38.09,Default,,0,0,0,,per capelli ma anche tazze, {\1c&HFF00&\u1}zaini,{\r} cornici per foto molto carine e il resto
+Dialogue: 0,0:00:38.09,0:00:38.39,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:38.39,0:00:38.79,Default,,0,0,0,,per capelli ma anche tazze, zaini, {\1c&HFF00&\u1}cornici{\r} per foto molto carine e il resto
+Dialogue: 0,0:00:38.79,0:00:38.83,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:38.83,0:00:38.95,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici {\1c&HFF00&\u1}per{\r} foto molto carine e il resto
+Dialogue: 0,0:00:38.95,0:00:39.01,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:39.01,0:00:39.25,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per {\1c&HFF00&\u1}foto{\r} molto carine e il resto
+Dialogue: 0,0:00:39.25,0:00:39.31,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:39.31,0:00:39.57,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto {\1c&HFF00&\u1}molto{\r} carine e il resto
+Dialogue: 0,0:00:39.57,0:00:39.63,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:39.63,0:00:40.05,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto {\1c&HFF00&\u1}carine{\r} e il resto
+Dialogue: 0,0:00:40.05,0:00:40.17,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:40.17,0:00:40.33,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine {\1c&HFF00&\u1}e{\r} il resto
+Dialogue: 0,0:00:40.33,0:00:40.83,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:40.83,0:00:40.89,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e {\1c&HFF00&\u1}il{\r} resto
+Dialogue: 0,0:00:40.89,0:00:40.93,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il resto
+Dialogue: 0,0:00:40.93,0:00:41.17,Default,,0,0,0,,per capelli ma anche tazze, zaini, cornici per foto molto carine e il {\1c&HFF00&\u1}resto{\r}
+Dialogue: 0,0:00:41.14,0:00:41.20,Default,,0,0,0,,{\1c&HFF00&\u1}sta{\r} alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:41.20,0:00:41.22,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:41.22,0:00:41.30,Default,,0,0,0,,sta {\1c&HFF00&\u1}alla{\r} vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:41.30,0:00:41.56,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:41.56,0:00:41.78,Default,,0,0,0,,sta alla {\1c&HFF00&\u1}vostra{\r} immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:41.78,0:00:41.80,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:41.80,0:00:42.95,Default,,0,0,0,,sta alla vostra {\1c&HFF00&\u1}immaginazione.{\r} Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:42.95,0:00:42.97,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:42.97,0:00:43.07,Default,,0,0,0,,sta alla vostra immaginazione. {\1c&HFF00&\u1}Ad{\r} esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:43.07,0:00:43.09,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:43.09,0:00:43.45,Default,,0,0,0,,sta alla vostra immaginazione. Ad {\1c&HFF00&\u1}esempio{\r} questi che vedete sono alcuni
+Dialogue: 0,0:00:43.45,0:00:43.51,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:43.51,0:00:43.75,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio {\1c&HFF00&\u1}questi{\r} che vedete sono alcuni
+Dialogue: 0,0:00:43.75,0:00:43.79,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:43.79,0:00:43.89,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi {\1c&HFF00&\u1}che{\r} vedete sono alcuni
+Dialogue: 0,0:00:43.89,0:00:43.95,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:43.95,0:00:44.27,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che {\1c&HFF00&\u1}vedete{\r} sono alcuni
+Dialogue: 0,0:00:44.27,0:00:44.33,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:44.33,0:00:44.51,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete {\1c&HFF00&\u1}sono{\r} alcuni
+Dialogue: 0,0:00:44.51,0:00:44.55,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono alcuni
+Dialogue: 0,0:00:44.55,0:00:44.87,Default,,0,0,0,,sta alla vostra immaginazione. Ad esempio questi che vedete sono {\1c&HFF00&\u1}alcuni{\r}
+Dialogue: 0,0:00:47.85,0:00:48.09,Default,,0,0,0,,{\1c&HFF00&\u1}pezzi{\r} che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.09,0:00:48.15,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.15,0:00:48.23,Default,,0,0,0,,pezzi {\1c&HFF00&\u1}che{\r} si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.23,0:00:48.25,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.25,0:00:48.35,Default,,0,0,0,,pezzi che {\1c&HFF00&\u1}si{\r} possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.35,0:00:48.41,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.41,0:00:48.75,Default,,0,0,0,,pezzi che si {\1c&HFF00&\u1}possono{\r} rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.75,0:00:48.81,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:48.81,0:00:49.57,Default,,0,0,0,,pezzi che si possono {\1c&HFF00&\u1}rivendere{\r} facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:49.57,0:00:49.59,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:49.59,0:00:50.10,Default,,0,0,0,,pezzi che si possono rivendere {\1c&HFF00&\u1}facilmente.{\r} Scegliete un minimo di 25
+Dialogue: 0,0:00:50.10,0:00:50.12,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:50.12,0:00:50.30,Default,,0,0,0,,pezzi che si possono rivendere facilmente. {\1c&HFF00&\u1}Scegliete{\r} un minimo di 25
+Dialogue: 0,0:00:50.30,0:00:50.34,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:50.34,0:00:50.38,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete {\1c&HFF00&\u1}un{\r} minimo di 25
+Dialogue: 0,0:00:50.38,0:00:50.40,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:50.40,0:00:50.52,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un {\1c&HFF00&\u1}minimo{\r} di 25
+Dialogue: 0,0:00:50.52,0:00:50.54,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo di 25
+Dialogue: 0,0:00:50.54,0:00:50.58,Default,,0,0,0,,pezzi che si possono rivendere facilmente. Scegliete un minimo {\1c&HFF00&\u1}di 25{\r}
+Dialogue: 0,0:00:49.54,0:00:50.56,Default,,0,0,0,,{\1c&HFF00&\u1}prodotti{\r} e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:50.56,0:00:50.62,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:50.62,0:00:50.66,Default,,0,0,0,,prodotti {\1c&HFF00&\u1}e{\r} fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:50.66,0:00:50.74,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:50.74,0:00:50.96,Default,,0,0,0,,prodotti e {\1c&HFF00&\u1}fate{\r} due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:50.96,0:00:51.06,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.06,0:00:51.22,Default,,0,0,0,,prodotti e fate {\1c&HFF00&\u1}due{\r} foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.22,0:00:51.28,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.28,0:00:51.51,Default,,0,0,0,,prodotti e fate due {\1c&HFF00&\u1}foto{\r} a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.51,0:00:51.53,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.53,0:00:51.55,Default,,0,0,0,,prodotti e fate due foto {\1c&HFF00&\u1}a{\r} ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.55,0:00:51.61,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.61,0:00:51.97,Default,,0,0,0,,prodotti e fate due foto a {\1c&HFF00&\u1}ciascun{\r} prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:51.97,0:00:52.01,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:52.01,0:00:52.47,Default,,0,0,0,,prodotti e fate due foto a ciascun {\1c&HFF00&\u1}prodotto{\r} uno con il prezzo e uno senza
+Dialogue: 0,0:00:52.47,0:00:53.05,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:53.05,0:00:53.21,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto {\1c&HFF00&\u1}uno{\r} con il prezzo e uno senza
+Dialogue: 0,0:00:53.21,0:00:53.25,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:53.25,0:00:53.39,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno {\1c&HFF00&\u1}con{\r} il prezzo e uno senza
+Dialogue: 0,0:00:53.39,0:00:53.45,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:53.45,0:00:53.53,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con {\1c&HFF00&\u1}il{\r} prezzo e uno senza
+Dialogue: 0,0:00:53.53,0:00:53.59,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:53.59,0:00:53.99,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il {\1c&HFF00&\u1}prezzo{\r} e uno senza
+Dialogue: 0,0:00:53.99,0:00:54.55,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:54.55,0:00:54.61,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo {\1c&HFF00&\u1}e{\r} uno senza
+Dialogue: 0,0:00:54.61,0:00:54.71,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:54.71,0:00:54.83,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e {\1c&HFF00&\u1}uno{\r} senza
+Dialogue: 0,0:00:54.83,0:00:54.87,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno senza
+Dialogue: 0,0:00:54.87,0:00:55.12,Default,,0,0,0,,prodotti e fate due foto a ciascun prodotto uno con il prezzo e uno {\1c&HFF00&\u1}senza{\r}
+Dialogue: 0,0:00:55.36,0:00:55.62,Default,,0,0,0,,{\1c&HFF00&\u1}prezzo.{\r} Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:55.62,0:00:56.16,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:56.16,0:00:56.24,Default,,0,0,0,,prezzo. {\1c&HFF00&\u1}Il{\r} quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:56.24,0:00:56.30,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:56.30,0:00:56.60,Default,,0,0,0,,prezzo. Il {\1c&HFF00&\u1}quarto{\r} passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:56.60,0:00:56.64,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:56.64,0:00:56.98,Default,,0,0,0,,prezzo. Il quarto {\1c&HFF00&\u1}passo{\r} è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:56.98,0:00:57.00,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.00,0:00:57.02,Default,,0,0,0,,prezzo. Il quarto passo {\1c&HFF00&\u1}è{\r} andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.02,0:00:57.08,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.08,0:00:57.37,Default,,0,0,0,,prezzo. Il quarto passo è {\1c&HFF00&\u1}andare{\r} a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.37,0:00:57.41,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.41,0:00:57.45,Default,,0,0,0,,prezzo. Il quarto passo è andare {\1c&HFF00&\u1}a{\r} casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.45,0:00:57.53,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.53,0:00:57.89,Default,,0,0,0,,prezzo. Il quarto passo è andare a {\1c&HFF00&\u1}casa{\r} e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:57.89,0:00:58.35,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:58.35,0:00:58.41,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa {\1c&HFF00&\u1}e{\r} confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:58.41,0:00:58.51,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:58.51,0:00:59.19,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e {\1c&HFF00&\u1}confrontare{\r} il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.19,0:00:59.25,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.25,0:00:59.33,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare {\1c&HFF00&\u1}il{\r} costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.33,0:00:59.41,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.41,0:00:59.77,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il {\1c&HFF00&\u1}costo{\r} dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.77,0:00:59.83,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.83,0:00:59.93,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo {\1c&HFF00&\u1}dei{\r} prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.93,0:00:59.97,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:00:59.97,0:01:0.53,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei {\1c&HFF00&\u1}prodotti{\r} che avete scelto con quelli
+Dialogue: 0,0:01:0.53,0:01:0.85,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:01:0.85,0:01:0.95,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti {\1c&HFF00&\u1}che{\r} avete scelto con quelli
+Dialogue: 0,0:01:0.95,0:01:0.97,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:01:0.97,0:01:1.25,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che {\1c&HFF00&\u1}avete{\r} scelto con quelli
+Dialogue: 0,0:01:1.25,0:01:1.31,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:01:1.31,0:01:1.75,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete {\1c&HFF00&\u1}scelto{\r} con quelli
+Dialogue: 0,0:01:1.75,0:01:2.40,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:01:2.40,0:01:2.54,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto {\1c&HFF00&\u1}con{\r} quelli
+Dialogue: 0,0:01:2.54,0:01:2.60,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con quelli
+Dialogue: 0,0:01:2.60,0:01:2.84,Default,,0,0,0,,prezzo. Il quarto passo è andare a casa e confrontare il costo dei prodotti che avete scelto con {\1c&HFF00&\u1}quelli{\r}
+Dialogue: 0,0:01:3.00,0:01:3.06,Default,,0,0,0,,{\1c&HFF00&\u1}dei{\r} siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:3.06,0:01:3.10,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:3.10,0:01:3.30,Default,,0,0,0,,dei {\1c&HFF00&\u1}siti{\r} più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:3.30,0:01:3.36,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:3.36,0:01:3.44,Default,,0,0,0,,dei siti {\1c&HFF00&\u1}più{\r} economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:3.44,0:01:3.50,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:3.50,0:01:4.04,Default,,0,0,0,,dei siti più {\1c&HFF00&\u1}economici.{\r} Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:4.04,0:01:4.44,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:4.44,0:01:5.07,Default,,0,0,0,,dei siti più economici. {\1c&HFF00&\u1}Sceglieremo{\r} Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:5.07,0:01:5.37,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:5.37,0:01:5.87,Default,,0,0,0,,dei siti più economici. Sceglieremo {\1c&HFF00&\u1}Amazon{\r} e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:5.87,0:01:6.11,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:6.11,0:01:6.17,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon {\1c&HFF00&\u1}e{\r} Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:6.17,0:01:6.29,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:6.29,0:01:7.21,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e {\1c&HFF00&\u1}Marketplace.{\r} Dovete prendere come riferimento
+Dialogue: 0,0:01:7.21,0:01:7.53,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:7.53,0:01:7.83,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. {\1c&HFF00&\u1}Dovete{\r} prendere come riferimento
+Dialogue: 0,0:01:7.83,0:01:7.87,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:7.87,0:01:8.25,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete {\1c&HFF00&\u1}prendere{\r} come riferimento
+Dialogue: 0,0:01:8.25,0:01:8.35,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:8.35,0:01:8.53,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere {\1c&HFF00&\u1}come{\r} riferimento
+Dialogue: 0,0:01:8.53,0:01:8.63,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come riferimento
+Dialogue: 0,0:01:8.63,0:01:9.22,Default,,0,0,0,,dei siti più economici. Sceglieremo Amazon e Marketplace. Dovete prendere come {\1c&HFF00&\u1}riferimento{\r}
+Dialogue: 0,0:01:9.46,0:01:9.50,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:9.50,0:01:9.54,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:9.54,0:01:9.98,Default,,0,0,0,,il {\1c&HFF00&\u1}prodotto{\r} più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:9.98,0:01:10.12,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:10.12,0:01:10.24,Default,,0,0,0,,il prodotto {\1c&HFF00&\u1}più{\r} costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:10.24,0:01:10.36,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:10.36,0:01:11.01,Default,,0,0,0,,il prodotto più {\1c&HFF00&\u1}costoso,{\r} uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:11.01,0:01:11.49,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:11.49,0:01:11.93,Default,,0,0,0,,il prodotto più costoso, {\1c&HFF00&\u1}uguale{\r} o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:11.93,0:01:12.37,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:12.37,0:01:12.41,Default,,0,0,0,,il prodotto più costoso, uguale {\1c&HFF00&\u1}o{\r} simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:12.41,0:01:12.55,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:12.55,0:01:12.91,Default,,0,0,0,,il prodotto più costoso, uguale o {\1c&HFF00&\u1}simile{\r} a quello che voi andrete a vendere.
+Dialogue: 0,0:01:12.91,0:01:12.95,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:12.95,0:01:13.00,Default,,0,0,0,,il prodotto più costoso, uguale o simile {\1c&HFF00&\u1}a{\r} quello che voi andrete a vendere.
+Dialogue: 0,0:01:13.00,0:01:13.08,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:13.08,0:01:13.34,Default,,0,0,0,,il prodotto più costoso, uguale o simile a {\1c&HFF00&\u1}quello{\r} che voi andrete a vendere.
+Dialogue: 0,0:01:13.34,0:01:13.36,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:13.36,0:01:13.48,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello {\1c&HFF00&\u1}che{\r} voi andrete a vendere.
+Dialogue: 0,0:01:13.48,0:01:13.56,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:13.56,0:01:13.72,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che {\1c&HFF00&\u1}voi{\r} andrete a vendere.
+Dialogue: 0,0:01:13.72,0:01:13.76,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:13.76,0:01:14.06,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi {\1c&HFF00&\u1}andrete{\r} a vendere.
+Dialogue: 0,0:01:14.06,0:01:14.08,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:14.08,0:01:14.10,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete {\1c&HFF00&\u1}a{\r} vendere.
+Dialogue: 0,0:01:14.10,0:01:14.20,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a vendere.
+Dialogue: 0,0:01:14.20,0:01:14.54,Default,,0,0,0,,il prodotto più costoso, uguale o simile a quello che voi andrete a {\1c&HFF00&\u1}vendere.{\r}

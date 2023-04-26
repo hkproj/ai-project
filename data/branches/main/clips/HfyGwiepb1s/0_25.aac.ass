@@ -1,0 +1,239 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.06,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:0.06,0:00:0.08,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:0.08,0:00:0.14,Default,,0,0,0,,e {\1c&HFF00&\u1}poi{\r} metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:0.14,0:00:0.16,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:0.16,0:00:1.50,Default,,0,0,0,,e poi {\1c&HFF00&\u1}metterti{\r} al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:1.50,0:00:1.70,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:1.70,0:00:1.74,Default,,0,0,0,,e poi metterti {\1c&HFF00&\u1}al{\r} lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:1.74,0:00:1.78,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:1.78,0:00:2.33,Default,,0,0,0,,e poi metterti al {\1c&HFF00&\u1}lavoro.{\r} Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:2.33,0:00:2.35,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:2.35,0:00:2.63,Default,,0,0,0,,e poi metterti al lavoro. {\1c&HFF00&\u1}Aspetto{\r} di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:2.63,0:00:2.67,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:2.67,0:00:2.71,Default,,0,0,0,,e poi metterti al lavoro. Aspetto {\1c&HFF00&\u1}di{\r} sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:2.71,0:00:2.77,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:2.77,0:00:3.07,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di {\1c&HFF00&\u1}sentire{\r} qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:3.07,0:00:3.37,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:3.37,0:00:3.49,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire {\1c&HFF00&\u1}qui{\r} sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:3.49,0:00:3.57,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:3.57,0:00:3.89,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui {\1c&HFF00&\u1}sotto{\r} nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:3.89,0:00:4.15,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:4.15,0:00:4.27,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto {\1c&HFF00&\u1}nei{\r} commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:4.27,0:00:4.31,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:4.31,0:00:4.81,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei {\1c&HFF00&\u1}commenti{\r} le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:4.81,0:00:5.13,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:5.13,0:00:5.19,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti {\1c&HFF00&\u1}le{\r} tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:5.19,0:00:5.33,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:5.33,0:00:5.57,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le {\1c&HFF00&\u1}tue{\r} difficoltà nell'apprendimento
+Dialogue: 0,0:00:5.57,0:00:5.81,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:5.81,0:00:6.21,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue {\1c&HFF00&\u1}difficoltà{\r} nell'apprendimento
+Dialogue: 0,0:00:6.21,0:00:6.23,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà nell'apprendimento
+Dialogue: 0,0:00:6.23,0:00:6.84,Default,,0,0,0,,e poi metterti al lavoro. Aspetto di sentire qui sotto nei commenti le tue difficoltà {\1c&HFF00&\u1}nell'apprendimento{\r}
+Dialogue: 0,0:00:6.80,0:00:7.48,Default,,0,0,0,,{\1c&HFF00&\u1}linguistico,{\r} le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:7.48,0:00:7.50,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:7.50,0:00:7.56,Default,,0,0,0,,linguistico, {\1c&HFF00&\u1}le{\r} tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:7.56,0:00:7.78,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:7.78,0:00:7.84,Default,,0,0,0,,linguistico, le {\1c&HFF00&\u1}tue{\r} storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:7.84,0:00:7.86,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:7.86,0:00:8.16,Default,,0,0,0,,linguistico, le tue {\1c&HFF00&\u1}storie,{\r} quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:8.16,0:00:8.32,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:8.32,0:00:8.46,Default,,0,0,0,,linguistico, le tue storie, {\1c&HFF00&\u1}quello{\r} che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:8.46,0:00:8.48,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:8.48,0:00:8.55,Default,,0,0,0,,linguistico, le tue storie, quello {\1c&HFF00&\u1}che{\r} vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:8.55,0:00:8.57,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:8.57,0:00:8.75,Default,,0,0,0,,linguistico, le tue storie, quello che {\1c&HFF00&\u1}vuoi{\r} condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:8.75,0:00:9.03,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:9.03,0:00:9.53,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi {\1c&HFF00&\u1}condividere{\r} con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:9.53,0:00:9.61,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:9.61,0:00:9.71,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere {\1c&HFF00&\u1}con{\r} me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:9.71,0:00:9.77,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:9.77,0:00:9.89,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con {\1c&HFF00&\u1}me.{\r} Io sono Alessandro De Concini
+Dialogue: 0,0:00:9.89,0:00:10.17,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:10.17,0:00:10.25,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. {\1c&HFF00&\u1}Io{\r} sono Alessandro De Concini
+Dialogue: 0,0:00:10.25,0:00:10.31,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:10.31,0:00:10.47,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io {\1c&HFF00&\u1}sono{\r} Alessandro De Concini
+Dialogue: 0,0:00:10.47,0:00:10.75,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:10.75,0:00:11.17,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono {\1c&HFF00&\u1}Alessandro{\r} De Concini
+Dialogue: 0,0:00:11.17,0:00:11.19,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:11.19,0:00:11.27,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro {\1c&HFF00&\u1}De{\r} Concini
+Dialogue: 0,0:00:11.27,0:00:11.29,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De Concini
+Dialogue: 0,0:00:11.29,0:00:11.63,Default,,0,0,0,,linguistico, le tue storie, quello che vuoi condividere con me. Io sono Alessandro De {\1c&HFF00&\u1}Concini{\r}
+Dialogue: 0,0:00:12.04,0:00:12.06,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:12.06,0:00:12.10,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:12.10,0:00:12.28,Default,,0,0,0,,e {\1c&HFF00&\u1}questo{\r} è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:12.28,0:00:12.32,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:12.32,0:00:12.36,Default,,0,0,0,,e questo {\1c&HFF00&\u1}è{\r} ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:12.36,0:00:12.66,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:12.66,0:00:13.02,Default,,0,0,0,,e questo è {\1c&HFF00&\u1}ADC 3.0.{\r} Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:13.02,0:00:13.32,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:13.32,0:00:13.46,Default,,0,0,0,,e questo è ADC 3.0. {\1c&HFF00&\u1}Ti{\r} parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:13.46,0:00:14.21,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:14.21,0:00:14.49,Default,,0,0,0,,e questo è ADC 3.0. Ti {\1c&HFF00&\u1}parlo{\r} tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:14.49,0:00:14.75,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:14.75,0:00:14.93,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo {\1c&HFF00&\u1}tutti{\r} i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:14.93,0:00:14.95,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:14.95,0:00:14.97,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti {\1c&HFF00&\u1}i{\r} giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:14.97,0:00:15.01,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:15.01,0:00:15.25,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i {\1c&HFF00&\u1}giorni{\r} di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:15.25,0:00:15.29,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:15.29,0:00:15.39,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni {\1c&HFF00&\u1}di{\r} apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:15.39,0:00:15.45,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:15.45,0:00:16.11,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di {\1c&HFF00&\u1}apprendimento,{\r} metodo di studio, cognizione,
+Dialogue: 0,0:00:16.11,0:00:16.13,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:16.13,0:00:16.47,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, {\1c&HFF00&\u1}metodo{\r} di studio, cognizione,
+Dialogue: 0,0:00:16.47,0:00:16.51,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:16.51,0:00:16.55,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo {\1c&HFF00&\u1}di{\r} studio, cognizione,
+Dialogue: 0,0:00:16.55,0:00:16.59,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:16.59,0:00:16.89,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di {\1c&HFF00&\u1}studio,{\r} cognizione,
+Dialogue: 0,0:00:16.89,0:00:16.97,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, cognizione,
+Dialogue: 0,0:00:16.97,0:00:17.47,Default,,0,0,0,,e questo è ADC 3.0. Ti parlo tutti i giorni di apprendimento, metodo di studio, {\1c&HFF00&\u1}cognizione,{\r}
+Dialogue: 0,0:00:17.84,0:00:17.98,Default,,0,0,0,,{\1c&HFF00&\u1}sulla{\r} mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:17.98,0:00:18.02,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:18.02,0:00:18.10,Default,,0,0,0,,sulla {\1c&HFF00&\u1}mia{\r} pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:18.10,0:00:18.12,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:18.12,0:00:18.36,Default,,0,0,0,,sulla mia {\1c&HFF00&\u1}pagina{\r} Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:18.36,0:00:18.42,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:18.42,0:00:18.78,Default,,0,0,0,,sulla mia pagina {\1c&HFF00&\u1}Facebook{\r} Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:18.78,0:00:18.94,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:18.94,0:00:19.31,Default,,0,0,0,,sulla mia pagina Facebook {\1c&HFF00&\u1}Alessandro{\r} De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:19.31,0:00:19.33,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:19.33,0:00:19.41,Default,,0,0,0,,sulla mia pagina Facebook Alessandro {\1c&HFF00&\u1}De{\r} Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:19.41,0:00:19.45,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:19.45,0:00:19.79,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De {\1c&HFF00&\u1}Concini{\r} ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:19.79,0:00:20.05,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:20.05,0:00:20.41,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini {\1c&HFF00&\u1}ADC,{\r} su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:20.41,0:00:20.67,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:20.67,0:00:20.77,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, {\1c&HFF00&\u1}su{\r} YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:20.77,0:00:20.83,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:20.83,0:00:21.15,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su {\1c&HFF00&\u1}YouTube,{\r} su Instagram, sul mio blog e su
+Dialogue: 0,0:00:21.15,0:00:21.37,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:21.37,0:00:21.45,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, {\1c&HFF00&\u1}su{\r} Instagram, sul mio blog e su
+Dialogue: 0,0:00:21.45,0:00:21.57,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:21.57,0:00:22.01,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su {\1c&HFF00&\u1}Instagram,{\r} sul mio blog e su
+Dialogue: 0,0:00:22.01,0:00:22.19,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:22.19,0:00:22.31,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, {\1c&HFF00&\u1}sul{\r} mio blog e su
+Dialogue: 0,0:00:22.31,0:00:22.33,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:22.33,0:00:22.43,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul {\1c&HFF00&\u1}mio{\r} blog e su
+Dialogue: 0,0:00:22.43,0:00:22.49,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:22.49,0:00:22.79,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio {\1c&HFF00&\u1}blog{\r} e su
+Dialogue: 0,0:00:22.79,0:00:22.81,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:22.81,0:00:22.83,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog {\1c&HFF00&\u1}e{\r} su
+Dialogue: 0,0:00:22.83,0:00:22.89,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e su
+Dialogue: 0,0:00:22.89,0:00:22.93,Default,,0,0,0,,sulla mia pagina Facebook Alessandro De Concini ADC, su YouTube, su Instagram, sul mio blog e {\1c&HFF00&\u1}su{\r}
+Dialogue: 0,0:00:23.32,0:00:23.50,Default,,0,0,0,,{\1c&HFF00&\u1}tutti{\r} i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:23.50,0:00:23.52,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:23.52,0:00:23.54,Default,,0,0,0,,tutti {\1c&HFF00&\u1}i{\r} canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:23.54,0:00:23.56,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:23.56,0:00:23.82,Default,,0,0,0,,tutti i {\1c&HFF00&\u1}canali{\r} social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:23.82,0:00:23.86,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:23.86,0:00:24.16,Default,,0,0,0,,tutti i canali {\1c&HFF00&\u1}social{\r} possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:24.16,0:00:24.40,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:24.40,0:00:24.91,Default,,0,0,0,,tutti i canali social {\1c&HFF00&\u1}possibili{\r} e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:24.91,0:00:25.05,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:25.05,0:00:25.07,Default,,0,0,0,,tutti i canali social possibili {\1c&HFF00&\u1}e{\r} immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:25.07,0:00:25.13,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:25.13,0:00:25.69,Default,,0,0,0,,tutti i canali social possibili e {\1c&HFF00&\u1}immaginabili.{\r} Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:25.69,0:00:25.99,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:25.99,0:00:26.29,Default,,0,0,0,,tutti i canali social possibili e immaginabili. {\1c&HFF00&\u1}Metti{\r} adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:26.29,0:00:26.55,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:26.55,0:00:26.99,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti {\1c&HFF00&\u1}adesso{\r} un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:26.99,0:00:27.33,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:27.33,0:00:27.41,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso {\1c&HFF00&\u1}un{\r} mi piace, iscriviti al canale,
+Dialogue: 0,0:00:27.41,0:00:27.47,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:27.47,0:00:27.53,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un {\1c&HFF00&\u1}mi{\r} piace, iscriviti al canale,
+Dialogue: 0,0:00:27.53,0:00:27.59,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:27.59,0:00:27.93,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi {\1c&HFF00&\u1}piace,{\r} iscriviti al canale,
+Dialogue: 0,0:00:27.93,0:00:28.23,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:28.23,0:00:28.59,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, {\1c&HFF00&\u1}iscriviti{\r} al canale,
+Dialogue: 0,0:00:28.59,0:00:28.63,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:28.63,0:00:28.71,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti {\1c&HFF00&\u1}al{\r} canale,
+Dialogue: 0,0:00:28.71,0:00:28.73,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al canale,
+Dialogue: 0,0:00:28.73,0:00:28.92,Default,,0,0,0,,tutti i canali social possibili e immaginabili. Metti adesso un mi piace, iscriviti al {\1c&HFF00&\u1}canale,{\r}
+Dialogue: 0,0:00:28.92,0:00:29.84,Default,,0,0,0,,{\1c&HFF00&\u1}clicca{\r} sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:29.84,0:00:29.86,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:29.86,0:00:30.06,Default,,0,0,0,,clicca {\1c&HFF00&\u1}sulla{\r} campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:30.06,0:00:30.14,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:30.14,0:00:30.60,Default,,0,0,0,,clicca sulla {\1c&HFF00&\u1}campanella{\r} la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:30.60,0:00:30.68,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:30.68,0:00:30.74,Default,,0,0,0,,clicca sulla campanella {\1c&HFF00&\u1}la{\r} suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:30.74,0:00:30.80,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:30.80,0:00:31.17,Default,,0,0,0,,clicca sulla campanella la {\1c&HFF00&\u1}suoni{\r} per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:31.17,0:00:31.39,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:31.39,0:00:31.59,Default,,0,0,0,,clicca sulla campanella la suoni {\1c&HFF00&\u1}per{\r} ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:31.59,0:00:31.65,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:31.65,0:00:32.01,Default,,0,0,0,,clicca sulla campanella la suoni per {\1c&HFF00&\u1}ricevere{\r} tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:32.01,0:00:32.31,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:32.31,0:00:32.61,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere {\1c&HFF00&\u1}tutte{\r} le notifiche e soprattutto condividi
+Dialogue: 0,0:00:32.61,0:00:32.69,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:32.69,0:00:32.75,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte {\1c&HFF00&\u1}le{\r} notifiche e soprattutto condividi
+Dialogue: 0,0:00:32.75,0:00:32.79,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:32.79,0:00:33.21,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le {\1c&HFF00&\u1}notifiche{\r} e soprattutto condividi
+Dialogue: 0,0:00:33.21,0:00:33.23,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:33.23,0:00:33.25,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche {\1c&HFF00&\u1}e{\r} soprattutto condividi
+Dialogue: 0,0:00:33.25,0:00:33.33,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:33.33,0:00:33.77,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e {\1c&HFF00&\u1}soprattutto{\r} condividi
+Dialogue: 0,0:00:33.77,0:00:34.05,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto condividi
+Dialogue: 0,0:00:34.05,0:00:34.59,Default,,0,0,0,,clicca sulla campanella la suoni per ricevere tutte le notifiche e soprattutto {\1c&HFF00&\u1}condividi{\r}
+Dialogue: 0,0:00:34.56,0:00:35.16,Default,,0,0,0,,{\1c&HFF00&\u1}questo{\r} video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:35.16,0:00:35.18,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:35.18,0:00:35.42,Default,,0,0,0,,questo {\1c&HFF00&\u1}video{\r} con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:35.42,0:00:35.46,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:35.46,0:00:35.68,Default,,0,0,0,,questo video {\1c&HFF00&\u1}con{\r} chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:35.68,0:00:35.70,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:35.70,0:00:36.12,Default,,0,0,0,,questo video con {\1c&HFF00&\u1}chiunque{\r} potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:36.12,0:00:36.37,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:36.37,0:00:36.61,Default,,0,0,0,,questo video con chiunque {\1c&HFF00&\u1}potrebbe{\r} trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:36.61,0:00:36.65,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:36.65,0:00:36.99,Default,,0,0,0,,questo video con chiunque potrebbe {\1c&HFF00&\u1}trovarlo{\r} utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:36.99,0:00:37.31,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:37.31,0:00:37.53,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo {\1c&HFF00&\u1}utile{\r} e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:37.53,0:00:37.85,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:37.85,0:00:37.89,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile {\1c&HFF00&\u1}e{\r} interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:37.89,0:00:37.93,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:37.93,0:00:38.47,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e {\1c&HFF00&\u1}interessante.{\r} Noi ci vediamo domani
+Dialogue: 0,0:00:38.47,0:00:38.55,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:38.55,0:00:38.63,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. {\1c&HFF00&\u1}Noi{\r} ci vediamo domani
+Dialogue: 0,0:00:38.63,0:00:38.67,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:38.67,0:00:38.73,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi {\1c&HFF00&\u1}ci{\r} vediamo domani
+Dialogue: 0,0:00:38.73,0:00:38.75,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:38.75,0:00:39.07,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci {\1c&HFF00&\u1}vediamo{\r} domani
+Dialogue: 0,0:00:39.07,0:00:39.41,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo domani
+Dialogue: 0,0:00:39.41,0:00:39.73,Default,,0,0,0,,questo video con chiunque potrebbe trovarlo utile e interessante. Noi ci vediamo {\1c&HFF00&\u1}domani{\r}
+Dialogue: 0,0:00:39.68,0:00:40.04,Default,,0,0,0,,{\1c&HFF00&\u1}per{\r} un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.04,0:00:40.06,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.06,0:00:40.16,Default,,0,0,0,,per {\1c&HFF00&\u1}un{\r} prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.16,0:00:40.18,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.18,0:00:40.44,Default,,0,0,0,,per un {\1c&HFF00&\u1}prossimo{\r} video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.44,0:00:40.48,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.48,0:00:40.64,Default,,0,0,0,,per un prossimo {\1c&HFF00&\u1}video{\r} e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.64,0:00:40.66,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.66,0:00:40.68,Default,,0,0,0,,per un prossimo video {\1c&HFF00&\u1}e{\r} nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.68,0:00:40.70,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.70,0:00:40.82,Default,,0,0,0,,per un prossimo video e {\1c&HFF00&\u1}nel{\r} frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.82,0:00:40.86,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:40.86,0:00:41.39,Default,,0,0,0,,per un prossimo video e nel {\1c&HFF00&\u1}frattempo{\r} imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:41.39,0:00:41.67,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:41.67,0:00:42.01,Default,,0,0,0,,per un prossimo video e nel frattempo {\1c&HFF00&\u1}imparale{\r} al lingue, ma imparale bene!
+Dialogue: 0,0:00:42.01,0:00:42.03,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:42.03,0:00:42.07,Default,,0,0,0,,per un prossimo video e nel frattempo imparale {\1c&HFF00&\u1}al{\r} lingue, ma imparale bene!
+Dialogue: 0,0:00:42.07,0:00:42.13,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:42.13,0:00:42.45,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al {\1c&HFF00&\u1}lingue,{\r} ma imparale bene!
+Dialogue: 0,0:00:42.45,0:00:42.99,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:42.99,0:00:43.05,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, {\1c&HFF00&\u1}ma{\r} imparale bene!
+Dialogue: 0,0:00:43.05,0:00:43.07,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:43.07,0:00:43.37,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma {\1c&HFF00&\u1}imparale{\r} bene!
+Dialogue: 0,0:00:43.37,0:00:43.41,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale bene!
+Dialogue: 0,0:00:43.41,0:00:43.58,Default,,0,0,0,,per un prossimo video e nel frattempo imparale al lingue, ma imparale {\1c&HFF00&\u1}bene!{\r}

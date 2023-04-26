@@ -1,0 +1,661 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.46,Default,,0,0,0,,{\1c&HFF00&\u1}nemmeno{\r} perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:0.46,0:00:0.48,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:0.48,0:00:0.84,Default,,0,0,0,,nemmeno {\1c&HFF00&\u1}perdere{\r} tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:0.84,0:00:0.88,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:0.88,0:00:1.58,Default,,0,0,0,,nemmeno perdere {\1c&HFF00&\u1}tempo.{\r} Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:1.58,0:00:1.60,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:1.60,0:00:2.01,Default,,0,0,0,,nemmeno perdere tempo. {\1c&HFF00&\u1}Comunque{\r} stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:2.01,0:00:2.07,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:2.07,0:00:2.69,Default,,0,0,0,,nemmeno perdere tempo. Comunque {\1c&HFF00&\u1}stabilite{\r} fin dal principio il margine minimo che
+Dialogue: 0,0:00:2.69,0:00:2.75,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:2.75,0:00:2.89,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite {\1c&HFF00&\u1}fin{\r} dal principio il margine minimo che
+Dialogue: 0,0:00:2.89,0:00:2.91,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:2.91,0:00:3.09,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin {\1c&HFF00&\u1}dal{\r} principio il margine minimo che
+Dialogue: 0,0:00:3.09,0:00:3.15,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:3.15,0:00:3.71,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal {\1c&HFF00&\u1}principio{\r} il margine minimo che
+Dialogue: 0,0:00:3.71,0:00:4.17,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:4.17,0:00:4.23,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio {\1c&HFF00&\u1}il{\r} margine minimo che
+Dialogue: 0,0:00:4.23,0:00:4.29,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:4.29,0:00:4.69,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il {\1c&HFF00&\u1}margine{\r} minimo che
+Dialogue: 0,0:00:4.69,0:00:4.77,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:4.77,0:00:5.07,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine {\1c&HFF00&\u1}minimo{\r} che
+Dialogue: 0,0:00:5.07,0:00:5.11,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo che
+Dialogue: 0,0:00:5.11,0:00:5.19,Default,,0,0,0,,nemmeno perdere tempo. Comunque stabilite fin dal principio il margine minimo {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:8.07,0:00:8.37,Default,,0,0,0,,{\1c&HFF00&\u1}volete{\r} ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:8.37,0:00:8.47,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:8.47,0:00:9.09,Default,,0,0,0,,volete {\1c&HFF00&\u1}ottenere{\r} dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.09,0:00:9.13,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.13,0:00:9.35,Default,,0,0,0,,volete ottenere {\1c&HFF00&\u1}dalla{\r} rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.35,0:00:9.37,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.37,0:00:9.69,Default,,0,0,0,,volete ottenere dalla {\1c&HFF00&\u1}rivendita{\r} dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.69,0:00:9.71,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.71,0:00:9.83,Default,,0,0,0,,volete ottenere dalla rivendita {\1c&HFF00&\u1}dei{\r} prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.83,0:00:9.87,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:9.87,0:00:10.05,Default,,0,0,0,,volete ottenere dalla rivendita dei {\1c&HFF00&\u1}prodotti.{\r} Quinto passo, una volta fatto il
+Dialogue: 0,0:00:10.05,0:00:10.09,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:10.09,0:00:10.22,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. {\1c&HFF00&\u1}Quinto{\r} passo, una volta fatto il
+Dialogue: 0,0:00:10.22,0:00:10.24,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:10.24,0:00:10.34,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto {\1c&HFF00&\u1}passo,{\r} una volta fatto il
+Dialogue: 0,0:00:10.34,0:00:10.36,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:10.36,0:00:10.42,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, {\1c&HFF00&\u1}una{\r} volta fatto il
+Dialogue: 0,0:00:10.42,0:00:10.44,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:10.44,0:00:10.54,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una {\1c&HFF00&\u1}volta{\r} fatto il
+Dialogue: 0,0:00:10.54,0:00:10.58,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:10.58,0:00:10.68,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta {\1c&HFF00&\u1}fatto{\r} il
+Dialogue: 0,0:00:10.68,0:00:10.70,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto il
+Dialogue: 0,0:00:10.70,0:00:10.74,Default,,0,0,0,,volete ottenere dalla rivendita dei prodotti. Quinto passo, una volta fatto {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:9.76,0:00:10.76,Default,,0,0,0,,{\1c&HFF00&\u1}confronto{\r} e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:10.76,0:00:10.84,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:10.84,0:00:10.88,Default,,0,0,0,,confronto {\1c&HFF00&\u1}e{\r} deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:10.88,0:00:10.92,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:10.92,0:00:11.20,Default,,0,0,0,,confronto e {\1c&HFF00&\u1}deciso{\r} il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.20,0:00:11.26,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.26,0:00:11.32,Default,,0,0,0,,confronto e deciso {\1c&HFF00&\u1}il{\r} prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.32,0:00:11.38,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.38,0:00:11.71,Default,,0,0,0,,confronto e deciso il {\1c&HFF00&\u1}prezzo{\r} di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.71,0:00:11.79,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.79,0:00:11.87,Default,,0,0,0,,confronto e deciso il prezzo {\1c&HFF00&\u1}di{\r} rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.87,0:00:11.91,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:11.91,0:00:12.43,Default,,0,0,0,,confronto e deciso il prezzo di {\1c&HFF00&\u1}rivendita,{\r} caricate le foto sul marketplace di
+Dialogue: 0,0:00:12.43,0:00:12.83,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:12.83,0:00:13.37,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, {\1c&HFF00&\u1}caricate{\r} le foto sul marketplace di
+Dialogue: 0,0:00:13.37,0:00:13.43,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:13.43,0:00:13.49,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate {\1c&HFF00&\u1}le{\r} foto sul marketplace di
+Dialogue: 0,0:00:13.49,0:00:13.55,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:13.55,0:00:13.79,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le {\1c&HFF00&\u1}foto{\r} sul marketplace di
+Dialogue: 0,0:00:13.79,0:00:13.85,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:13.85,0:00:14.03,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto {\1c&HFF00&\u1}sul{\r} marketplace di
+Dialogue: 0,0:00:14.03,0:00:14.13,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:14.13,0:00:15.07,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul {\1c&HFF00&\u1}marketplace{\r} di
+Dialogue: 0,0:00:15.07,0:00:15.11,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace di
+Dialogue: 0,0:00:15.11,0:00:15.17,Default,,0,0,0,,confronto e deciso il prezzo di rivendita, caricate le foto sul marketplace {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:15.32,0:00:16.20,Default,,0,0,0,,{\1c&HFF00&\u1}Facebook,{\r} sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:16.20,0:00:16.24,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:16.24,0:00:16.52,Default,,0,0,0,,Facebook, {\1c&HFF00&\u1}sito{\r} pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:16.52,0:00:16.68,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:16.68,0:00:17.41,Default,,0,0,0,,Facebook, sito {\1c&HFF00&\u1}pazzesco{\r} per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:17.41,0:00:17.61,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:17.61,0:00:17.75,Default,,0,0,0,,Facebook, sito pazzesco {\1c&HFF00&\u1}per{\r} rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:17.75,0:00:17.79,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:17.79,0:00:18.21,Default,,0,0,0,,Facebook, sito pazzesco per {\1c&HFF00&\u1}rivendere{\r} oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:18.21,0:00:18.27,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:18.27,0:00:18.59,Default,,0,0,0,,Facebook, sito pazzesco per rivendere {\1c&HFF00&\u1}oggetti{\r} usati, perché il prodotto sarà
+Dialogue: 0,0:00:18.59,0:00:18.63,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:18.63,0:00:18.99,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti {\1c&HFF00&\u1}usati,{\r} perché il prodotto sarà
+Dialogue: 0,0:00:18.99,0:00:19.33,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:19.33,0:00:19.59,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, {\1c&HFF00&\u1}perché{\r} il prodotto sarà
+Dialogue: 0,0:00:19.59,0:00:19.63,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:19.63,0:00:19.69,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché {\1c&HFF00&\u1}il{\r} prodotto sarà
+Dialogue: 0,0:00:19.69,0:00:19.73,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:19.73,0:00:20.09,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il {\1c&HFF00&\u1}prodotto{\r} sarà
+Dialogue: 0,0:00:20.09,0:00:20.15,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto sarà
+Dialogue: 0,0:00:20.15,0:00:20.31,Default,,0,0,0,,Facebook, sito pazzesco per rivendere oggetti usati, perché il prodotto {\1c&HFF00&\u1}sarà{\r}
+Dialogue: 0,0:00:20.64,0:00:20.90,Default,,0,0,0,,{\1c&HFF00&\u1}sempre{\r} messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:20.90,0:00:20.96,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:20.96,0:00:21.16,Default,,0,0,0,,sempre {\1c&HFF00&\u1}messo{\r} in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:21.16,0:00:21.22,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:21.22,0:00:21.26,Default,,0,0,0,,sempre messo {\1c&HFF00&\u1}in{\r} evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:21.26,0:00:21.30,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:21.30,0:00:21.84,Default,,0,0,0,,sempre messo in {\1c&HFF00&\u1}evidenza{\r} tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:21.84,0:00:22.21,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:22.21,0:00:22.61,Default,,0,0,0,,sempre messo in evidenza {\1c&HFF00&\u1}tramite{\r} le parole chiave che utilizzerete e
+Dialogue: 0,0:00:22.61,0:00:22.67,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:22.67,0:00:22.73,Default,,0,0,0,,sempre messo in evidenza tramite {\1c&HFF00&\u1}le{\r} parole chiave che utilizzerete e
+Dialogue: 0,0:00:22.73,0:00:22.77,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:22.77,0:00:23.05,Default,,0,0,0,,sempre messo in evidenza tramite le {\1c&HFF00&\u1}parole{\r} chiave che utilizzerete e
+Dialogue: 0,0:00:23.05,0:00:23.11,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:23.11,0:00:23.35,Default,,0,0,0,,sempre messo in evidenza tramite le parole {\1c&HFF00&\u1}chiave{\r} che utilizzerete e
+Dialogue: 0,0:00:23.35,0:00:23.39,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:23.39,0:00:23.49,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave {\1c&HFF00&\u1}che{\r} utilizzerete e
+Dialogue: 0,0:00:23.49,0:00:23.53,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:23.53,0:00:24.19,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che {\1c&HFF00&\u1}utilizzerete{\r} e
+Dialogue: 0,0:00:24.19,0:00:24.21,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete e
+Dialogue: 0,0:00:24.21,0:00:24.23,Default,,0,0,0,,sempre messo in evidenza tramite le parole chiave che utilizzerete {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:24.56,0:00:24.58,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:24.58,0:00:24.60,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:24.60,0:00:24.82,Default,,0,0,0,,e {\1c&HFF00&\u1}soprattutto{\r} non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:24.82,0:00:24.84,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:24.84,0:00:24.90,Default,,0,0,0,,e soprattutto {\1c&HFF00&\u1}non{\r} dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:24.90,0:00:24.92,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:24.92,0:00:25.06,Default,,0,0,0,,e soprattutto non {\1c&HFF00&\u1}dovrete{\r} pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.06,0:00:25.08,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.08,0:00:25.20,Default,,0,0,0,,e soprattutto non dovrete {\1c&HFF00&\u1}pagare{\r} né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.20,0:00:25.22,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.22,0:00:25.26,Default,,0,0,0,,e soprattutto non dovrete pagare {\1c&HFF00&\u1}né{\r} fee né percentuali, nulla.
+Dialogue: 0,0:00:25.26,0:00:25.28,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.28,0:00:25.34,Default,,0,0,0,,e soprattutto non dovrete pagare né {\1c&HFF00&\u1}fee{\r} né percentuali, nulla.
+Dialogue: 0,0:00:25.34,0:00:25.36,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.36,0:00:25.40,Default,,0,0,0,,e soprattutto non dovrete pagare né fee {\1c&HFF00&\u1}né{\r} percentuali, nulla.
+Dialogue: 0,0:00:25.40,0:00:25.42,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.42,0:00:25.66,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né {\1c&HFF00&\u1}percentuali,{\r} nulla.
+Dialogue: 0,0:00:25.66,0:00:25.68,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, nulla.
+Dialogue: 0,0:00:25.68,0:00:25.82,Default,,0,0,0,,e soprattutto non dovrete pagare né fee né percentuali, {\1c&HFF00&\u1}nulla.{\r}
+Dialogue: 0,0:00:29.36,0:00:29.50,Default,,0,0,0,,{\1c&HFF00&\u1}Poi{\r} ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:29.50,0:00:29.54,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:29.54,0:00:29.62,Default,,0,0,0,,Poi {\1c&HFF00&\u1}ci{\r} sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:29.62,0:00:29.66,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:29.66,0:00:29.84,Default,,0,0,0,,Poi ci {\1c&HFF00&\u1}sono{\r} anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:29.84,0:00:29.90,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:29.90,0:00:30.12,Default,,0,0,0,,Poi ci sono {\1c&HFF00&\u1}anche{\r} altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:30.12,0:00:30.16,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:30.16,0:00:30.40,Default,,0,0,0,,Poi ci sono anche {\1c&HFF00&\u1}altri{\r} siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:30.40,0:00:30.48,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:30.48,0:00:30.77,Default,,0,0,0,,Poi ci sono anche altri {\1c&HFF00&\u1}siti{\r} che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:30.77,0:00:30.81,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:30.81,0:00:30.91,Default,,0,0,0,,Poi ci sono anche altri siti {\1c&HFF00&\u1}che{\r} si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:30.91,0:00:31.01,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:31.01,0:00:31.09,Default,,0,0,0,,Poi ci sono anche altri siti che {\1c&HFF00&\u1}si{\r} possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:31.09,0:00:31.15,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:31.15,0:00:31.47,Default,,0,0,0,,Poi ci sono anche altri siti che si {\1c&HFF00&\u1}possono{\r} usare per rivendere i prodotti,
+Dialogue: 0,0:00:31.47,0:00:31.51,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:31.51,0:00:31.75,Default,,0,0,0,,Poi ci sono anche altri siti che si possono {\1c&HFF00&\u1}usare{\r} per rivendere i prodotti,
+Dialogue: 0,0:00:31.75,0:00:31.79,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:31.79,0:00:31.89,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare {\1c&HFF00&\u1}per{\r} rivendere i prodotti,
+Dialogue: 0,0:00:31.89,0:00:31.93,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:31.93,0:00:32.33,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per {\1c&HFF00&\u1}rivendere{\r} i prodotti,
+Dialogue: 0,0:00:32.33,0:00:32.35,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:32.35,0:00:32.39,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere {\1c&HFF00&\u1}i{\r} prodotti,
+Dialogue: 0,0:00:32.39,0:00:32.41,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i prodotti,
+Dialogue: 0,0:00:32.41,0:00:32.87,Default,,0,0,0,,Poi ci sono anche altri siti che si possono usare per rivendere i {\1c&HFF00&\u1}prodotti,{\r}
+Dialogue: 0,0:00:33.32,0:00:33.40,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} credo che trattengano una piccola percentuale.
+Dialogue: 0,0:00:33.40,0:00:33.48,Default,,0,0,0,,ma credo che trattengano una piccola percentuale.
+Dialogue: 0,0:00:33.48,0:00:33.72,Default,,0,0,0,,ma {\1c&HFF00&\u1}credo{\r} che trattengano una piccola percentuale.
+Dialogue: 0,0:00:33.72,0:00:33.76,Default,,0,0,0,,ma credo che trattengano una piccola percentuale.
+Dialogue: 0,0:00:33.76,0:00:33.84,Default,,0,0,0,,ma credo {\1c&HFF00&\u1}che{\r} trattengano una piccola percentuale.
+Dialogue: 0,0:00:33.84,0:00:33.90,Default,,0,0,0,,ma credo che trattengano una piccola percentuale.
+Dialogue: 0,0:00:33.90,0:00:34.47,Default,,0,0,0,,ma credo che {\1c&HFF00&\u1}trattengano{\r} una piccola percentuale.
+Dialogue: 0,0:00:34.47,0:00:34.53,Default,,0,0,0,,ma credo che trattengano una piccola percentuale.
+Dialogue: 0,0:00:34.53,0:00:34.63,Default,,0,0,0,,ma credo che trattengano {\1c&HFF00&\u1}una{\r} piccola percentuale.
+Dialogue: 0,0:00:34.63,0:00:34.67,Default,,0,0,0,,ma credo che trattengano una piccola percentuale.
+Dialogue: 0,0:00:34.67,0:00:34.97,Default,,0,0,0,,ma credo che trattengano una {\1c&HFF00&\u1}piccola{\r} percentuale.
+Dialogue: 0,0:00:34.97,0:00:34.99,Default,,0,0,0,,ma credo che trattengano una piccola percentuale.
+Dialogue: 0,0:00:34.99,0:00:35.69,Default,,0,0,0,,ma credo che trattengano una piccola {\1c&HFF00&\u1}percentuale.{\r}
+Dialogue: 0,0:00:36.04,0:00:36.32,Default,,0,0,0,,{\1c&HFF00&\u1}Ma{\r} secondo me Marketplace basta di avanzi.
+Dialogue: 0,0:00:36.32,0:00:36.34,Default,,0,0,0,,Ma secondo me Marketplace basta di avanzi.
+Dialogue: 0,0:00:36.34,0:00:36.92,Default,,0,0,0,,Ma {\1c&HFF00&\u1}secondo{\r} me Marketplace basta di avanzi.
+Dialogue: 0,0:00:36.92,0:00:36.98,Default,,0,0,0,,Ma secondo me Marketplace basta di avanzi.
+Dialogue: 0,0:00:36.98,0:00:37.10,Default,,0,0,0,,Ma secondo {\1c&HFF00&\u1}me{\r} Marketplace basta di avanzi.
+Dialogue: 0,0:00:37.10,0:00:37.14,Default,,0,0,0,,Ma secondo me Marketplace basta di avanzi.
+Dialogue: 0,0:00:37.14,0:00:37.85,Default,,0,0,0,,Ma secondo me {\1c&HFF00&\u1}Marketplace{\r} basta di avanzi.
+Dialogue: 0,0:00:37.85,0:00:37.87,Default,,0,0,0,,Ma secondo me Marketplace basta di avanzi.
+Dialogue: 0,0:00:37.87,0:00:38.09,Default,,0,0,0,,Ma secondo me Marketplace {\1c&HFF00&\u1}basta{\r} di avanzi.
+Dialogue: 0,0:00:38.09,0:00:38.11,Default,,0,0,0,,Ma secondo me Marketplace basta di avanzi.
+Dialogue: 0,0:00:38.11,0:00:38.15,Default,,0,0,0,,Ma secondo me Marketplace basta {\1c&HFF00&\u1}di{\r} avanzi.
+Dialogue: 0,0:00:38.15,0:00:38.19,Default,,0,0,0,,Ma secondo me Marketplace basta di avanzi.
+Dialogue: 0,0:00:38.19,0:00:38.55,Default,,0,0,0,,Ma secondo me Marketplace basta di {\1c&HFF00&\u1}avanzi.{\r}
+Dialogue: 0,0:00:39.16,0:00:39.48,Default,,0,0,0,,{\1c&HFF00&\u1}Ultimo{\r} passo, aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:39.48,0:00:39.52,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:39.52,0:00:39.86,Default,,0,0,0,,Ultimo {\1c&HFF00&\u1}passo,{\r} aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:39.86,0:00:40.14,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:40.14,0:00:40.59,Default,,0,0,0,,Ultimo passo, {\1c&HFF00&\u1}aspettate{\r} che qualcuno vi contatti,
+Dialogue: 0,0:00:40.59,0:00:40.63,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:40.63,0:00:40.73,Default,,0,0,0,,Ultimo passo, aspettate {\1c&HFF00&\u1}che{\r} qualcuno vi contatti,
+Dialogue: 0,0:00:40.73,0:00:40.79,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:40.79,0:00:41.13,Default,,0,0,0,,Ultimo passo, aspettate che {\1c&HFF00&\u1}qualcuno{\r} vi contatti,
+Dialogue: 0,0:00:41.13,0:00:41.17,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:41.17,0:00:41.25,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno {\1c&HFF00&\u1}vi{\r} contatti,
+Dialogue: 0,0:00:41.25,0:00:41.31,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno vi contatti,
+Dialogue: 0,0:00:41.31,0:00:41.79,Default,,0,0,0,,Ultimo passo, aspettate che qualcuno vi {\1c&HFF00&\u1}contatti,{\r}
+Dialogue: 0,0:00:42.60,0:00:42.86,Default,,0,0,0,,{\1c&HFF00&\u1}prendete{\r} un appuntamento
+Dialogue: 0,0:00:42.86,0:00:42.92,Default,,0,0,0,,prendete un appuntamento
+Dialogue: 0,0:00:42.92,0:00:43.00,Default,,0,0,0,,prendete {\1c&HFF00&\u1}un{\r} appuntamento
+Dialogue: 0,0:00:43.00,0:00:43.04,Default,,0,0,0,,prendete un appuntamento
+Dialogue: 0,0:00:43.04,0:00:43.69,Default,,0,0,0,,prendete un {\1c&HFF00&\u1}appuntamento{\r}
+Dialogue: 0,0:00:44.32,0:00:44.36,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:44.36,0:00:44.48,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:44.48,0:00:44.64,Default,,0,0,0,,e {\1c&HFF00&\u1}solo{\r} allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:44.64,0:00:44.68,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:44.68,0:00:45.04,Default,,0,0,0,,e solo {\1c&HFF00&\u1}allora{\r} andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:45.04,0:00:45.28,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:45.28,0:00:45.56,Default,,0,0,0,,e solo allora {\1c&HFF00&\u1}andrete{\r} a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:45.56,0:00:45.58,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:45.58,0:00:45.60,Default,,0,0,0,,e solo allora andrete {\1c&HFF00&\u1}a{\r} comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:45.60,0:00:45.68,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:45.68,0:00:46.09,Default,,0,0,0,,e solo allora andrete a {\1c&HFF00&\u1}comprare{\r} l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:46.09,0:00:46.27,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:46.27,0:00:46.75,Default,,0,0,0,,e solo allora andrete a comprare {\1c&HFF00&\u1}l'oggetto{\r} che vi serve da vendere
+Dialogue: 0,0:00:46.75,0:00:46.79,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:46.79,0:00:46.89,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto {\1c&HFF00&\u1}che{\r} vi serve da vendere
+Dialogue: 0,0:00:46.89,0:00:46.97,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:46.97,0:00:47.03,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che {\1c&HFF00&\u1}vi{\r} serve da vendere
+Dialogue: 0,0:00:47.03,0:00:47.07,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:47.07,0:00:47.33,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi {\1c&HFF00&\u1}serve{\r} da vendere
+Dialogue: 0,0:00:47.33,0:00:47.39,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:47.39,0:00:47.45,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve {\1c&HFF00&\u1}da{\r} vendere
+Dialogue: 0,0:00:47.45,0:00:47.51,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da vendere
+Dialogue: 0,0:00:47.51,0:00:47.83,Default,,0,0,0,,e solo allora andrete a comprare l'oggetto che vi serve da {\1c&HFF00&\u1}vendere{\r}
+Dialogue: 0,0:00:48.20,0:00:48.22,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} lo consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.22,0:00:48.24,Default,,0,0,0,,e lo consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.24,0:00:48.28,Default,,0,0,0,,e {\1c&HFF00&\u1}lo{\r} consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.28,0:00:48.30,Default,,0,0,0,,e lo consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.30,0:00:48.54,Default,,0,0,0,,e lo {\1c&HFF00&\u1}consegnerete{\r} intascando subito il cash.
+Dialogue: 0,0:00:48.54,0:00:48.56,Default,,0,0,0,,e lo consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.56,0:00:48.76,Default,,0,0,0,,e lo consegnerete {\1c&HFF00&\u1}intascando{\r} subito il cash.
+Dialogue: 0,0:00:48.76,0:00:48.78,Default,,0,0,0,,e lo consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.78,0:00:48.90,Default,,0,0,0,,e lo consegnerete intascando {\1c&HFF00&\u1}subito{\r} il cash.
+Dialogue: 0,0:00:48.90,0:00:48.92,Default,,0,0,0,,e lo consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.92,0:00:48.96,Default,,0,0,0,,e lo consegnerete intascando subito {\1c&HFF00&\u1}il{\r} cash.
+Dialogue: 0,0:00:48.96,0:00:48.98,Default,,0,0,0,,e lo consegnerete intascando subito il cash.
+Dialogue: 0,0:00:48.98,0:00:49.06,Default,,0,0,0,,e lo consegnerete intascando subito il {\1c&HFF00&\u1}cash.{\r}
+Dialogue: 0,0:00:51.40,0:00:51.92,Default,,0,0,0,,{\1c&HFF00&\u1}Ovviamente{\r} più oggetti avete in vetrina,
+Dialogue: 0,0:00:51.92,0:00:52.02,Default,,0,0,0,,Ovviamente più oggetti avete in vetrina,
+Dialogue: 0,0:00:52.02,0:00:52.12,Default,,0,0,0,,Ovviamente {\1c&HFF00&\u1}più{\r} oggetti avete in vetrina,
+Dialogue: 0,0:00:52.12,0:00:52.20,Default,,0,0,0,,Ovviamente più oggetti avete in vetrina,
+Dialogue: 0,0:00:52.20,0:00:52.77,Default,,0,0,0,,Ovviamente più {\1c&HFF00&\u1}oggetti{\r} avete in vetrina,
+Dialogue: 0,0:00:52.77,0:00:53.05,Default,,0,0,0,,Ovviamente più oggetti avete in vetrina,
+Dialogue: 0,0:00:53.05,0:00:53.33,Default,,0,0,0,,Ovviamente più oggetti {\1c&HFF00&\u1}avete{\r} in vetrina,
+Dialogue: 0,0:00:53.33,0:00:53.39,Default,,0,0,0,,Ovviamente più oggetti avete in vetrina,
+Dialogue: 0,0:00:53.39,0:00:53.47,Default,,0,0,0,,Ovviamente più oggetti avete {\1c&HFF00&\u1}in{\r} vetrina,
+Dialogue: 0,0:00:53.47,0:00:53.51,Default,,0,0,0,,Ovviamente più oggetti avete in vetrina,
+Dialogue: 0,0:00:53.51,0:00:53.93,Default,,0,0,0,,Ovviamente più oggetti avete in {\1c&HFF00&\u1}vetrina,{\r}
+Dialogue: 0,0:00:54.42,0:00:54.52,Default,,0,0,0,,{\1c&HFF00&\u1}Più{\r} saranno le richieste.
+Dialogue: 0,0:00:54.52,0:00:54.62,Default,,0,0,0,,Più saranno le richieste.
+Dialogue: 0,0:00:54.62,0:00:54.96,Default,,0,0,0,,Più {\1c&HFF00&\u1}saranno{\r} le richieste.
+Dialogue: 0,0:00:54.96,0:00:55.00,Default,,0,0,0,,Più saranno le richieste.
+Dialogue: 0,0:00:55.00,0:00:55.06,Default,,0,0,0,,Più saranno {\1c&HFF00&\u1}le{\r} richieste.
+Dialogue: 0,0:00:55.06,0:00:55.10,Default,,0,0,0,,Più saranno le richieste.
+Dialogue: 0,0:00:55.10,0:00:55.57,Default,,0,0,0,,Più saranno le {\1c&HFF00&\u1}richieste.{\r}
+Dialogue: 0,0:00:56.24,0:00:56.80,Default,,0,0,0,,{\1c&HFF00&\u1}Aspettatevi{\r} una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:56.80,0:00:56.84,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:56.84,0:00:56.98,Default,,0,0,0,,Aspettatevi {\1c&HFF00&\u1}una{\r} media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:56.98,0:00:57.02,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:57.02,0:00:57.30,Default,,0,0,0,,Aspettatevi una {\1c&HFF00&\u1}media{\r} di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:57.30,0:00:57.34,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:57.34,0:00:57.42,Default,,0,0,0,,Aspettatevi una media {\1c&HFF00&\u1}di{\r} 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:57.42,0:00:57.44,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:57.44,0:00:57.64,Default,,0,0,0,,Aspettatevi una media di {\1c&HFF00&\u1}2-3{\r} contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:57.64,0:00:57.92,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:57.92,0:00:58.35,Default,,0,0,0,,Aspettatevi una media di 2-3 {\1c&HFF00&\u1}contatti{\r} al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:58.35,0:00:58.39,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:58.39,0:00:58.51,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti {\1c&HFF00&\u1}al{\r} giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:58.51,0:00:58.57,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:58.57,0:00:58.93,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al {\1c&HFF00&\u1}giorno{\r} con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:58.93,0:00:59.27,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:59.27,0:00:59.39,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno {\1c&HFF00&\u1}con{\r} un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:59.39,0:00:59.45,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:59.45,0:00:59.53,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con {\1c&HFF00&\u1}un{\r} aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:59.53,0:00:59.55,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:59.55,0:00:59.95,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un {\1c&HFF00&\u1}aumento{\r} sostanziale il weekend e soprattutto
+Dialogue: 0,0:00:59.95,0:01:0.01,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:01:0.01,0:01:0.61,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento {\1c&HFF00&\u1}sostanziale{\r} il weekend e soprattutto
+Dialogue: 0,0:01:0.61,0:01:0.63,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:01:0.63,0:01:0.67,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale {\1c&HFF00&\u1}il{\r} weekend e soprattutto
+Dialogue: 0,0:01:0.67,0:01:0.77,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:01:0.77,0:01:1.21,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il {\1c&HFF00&\u1}weekend{\r} e soprattutto
+Dialogue: 0,0:01:1.21,0:01:1.23,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:01:1.23,0:01:1.25,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend {\1c&HFF00&\u1}e{\r} soprattutto
+Dialogue: 0,0:01:1.25,0:01:1.33,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e soprattutto
+Dialogue: 0,0:01:1.33,0:01:1.87,Default,,0,0,0,,Aspettatevi una media di 2-3 contatti al giorno con un aumento sostanziale il weekend e {\1c&HFF00&\u1}soprattutto{\r}
+Dialogue: 0,0:01:1.98,0:01:2.08,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} sabato.
+Dialogue: 0,0:01:2.08,0:01:2.12,Default,,0,0,0,,il sabato.
+Dialogue: 0,0:01:2.12,0:01:2.44,Default,,0,0,0,,il {\1c&HFF00&\u1}sabato.{\r}
+Dialogue: 0,0:01:2.94,0:01:3.34,Default,,0,0,0,,{\1c&HFF00&\u1}Infatti 73{\r} euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:3.34,0:01:3.46,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:3.46,0:01:4.12,Default,,0,0,0,,Infatti 73 {\1c&HFF00&\u1}euro{\r} a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.12,0:01:4.16,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.16,0:01:4.18,Default,,0,0,0,,Infatti 73 euro {\1c&HFF00&\u1}a{\r} cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.18,0:01:4.24,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.24,0:01:4.36,Default,,0,0,0,,Infatti 73 euro a {\1c&HFF00&\u1}cui{\r} mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.36,0:01:4.38,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.38,0:01:4.46,Default,,0,0,0,,Infatti 73 euro a cui {\1c&HFF00&\u1}mi{\r} riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.46,0:01:4.50,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.50,0:01:4.85,Default,,0,0,0,,Infatti 73 euro a cui mi {\1c&HFF00&\u1}riferivo{\r} all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.85,0:01:4.87,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:4.87,0:01:5.27,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo {\1c&HFF00&\u1}all'inizio{\r} del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:5.27,0:01:5.33,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:5.33,0:01:5.45,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio {\1c&HFF00&\u1}del{\r} video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:5.45,0:01:5.49,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:5.49,0:01:5.75,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del {\1c&HFF00&\u1}video{\r} li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:5.75,0:01:6.15,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:6.15,0:01:6.23,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video {\1c&HFF00&\u1}li{\r} ho guadagnati un sabato, anche
+Dialogue: 0,0:01:6.23,0:01:6.25,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:6.25,0:01:6.33,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li {\1c&HFF00&\u1}ho{\r} guadagnati un sabato, anche
+Dialogue: 0,0:01:6.33,0:01:6.39,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:6.39,0:01:6.87,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho {\1c&HFF00&\u1}guadagnati{\r} un sabato, anche
+Dialogue: 0,0:01:6.87,0:01:6.91,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:6.91,0:01:6.97,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati {\1c&HFF00&\u1}un{\r} sabato, anche
+Dialogue: 0,0:01:6.97,0:01:7.03,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:7.03,0:01:7.45,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un {\1c&HFF00&\u1}sabato,{\r} anche
+Dialogue: 0,0:01:7.45,0:01:7.85,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, anche
+Dialogue: 0,0:01:7.85,0:01:8.03,Default,,0,0,0,,Infatti 73 euro a cui mi riferivo all'inizio del video li ho guadagnati un sabato, {\1c&HFF00&\u1}anche{\r}
+Dialogue: 0,0:01:8.00,0:01:8.58,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:8.58,0:01:8.60,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:8.60,0:01:8.64,Default,,0,0,0,,perché {\1c&HFF00&\u1}ho{\r} accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:8.64,0:01:8.66,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:8.66,0:01:9.12,Default,,0,0,0,,perché ho {\1c&HFF00&\u1}accumulato{\r} tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:9.12,0:01:9.16,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:9.16,0:01:9.35,Default,,0,0,0,,perché ho accumulato {\1c&HFF00&\u1}tutti{\r} gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:9.35,0:01:9.37,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:9.37,0:01:9.47,Default,,0,0,0,,perché ho accumulato tutti {\1c&HFF00&\u1}gli{\r} appuntamenti in quelle ore.
+Dialogue: 0,0:01:9.47,0:01:9.51,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:9.51,0:01:10.11,Default,,0,0,0,,perché ho accumulato tutti gli {\1c&HFF00&\u1}appuntamenti{\r} in quelle ore.
+Dialogue: 0,0:01:10.11,0:01:10.15,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:10.15,0:01:10.21,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti {\1c&HFF00&\u1}in{\r} quelle ore.
+Dialogue: 0,0:01:10.21,0:01:10.27,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:10.27,0:01:10.51,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in {\1c&HFF00&\u1}quelle{\r} ore.
+Dialogue: 0,0:01:10.51,0:01:10.57,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle ore.
+Dialogue: 0,0:01:10.57,0:01:10.73,Default,,0,0,0,,perché ho accumulato tutti gli appuntamenti in quelle {\1c&HFF00&\u1}ore.{\r}
+Dialogue: 0,0:01:11.12,0:01:11.52,Default,,0,0,0,,{\1c&HFF00&\u1}Infatti{\r} vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:11.52,0:01:11.58,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:11.58,0:01:11.66,Default,,0,0,0,,Infatti {\1c&HFF00&\u1}vi{\r} consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:11.66,0:01:11.70,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:11.70,0:01:12.12,Default,,0,0,0,,Infatti vi {\1c&HFF00&\u1}consiglio{\r} vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:12.12,0:01:12.20,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:12.20,0:01:12.76,Default,,0,0,0,,Infatti vi consiglio {\1c&HFF00&\u1}vivamente{\r} di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:12.76,0:01:12.80,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:12.80,0:01:12.86,Default,,0,0,0,,Infatti vi consiglio vivamente {\1c&HFF00&\u1}di{\r} non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:12.86,0:01:12.92,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:12.92,0:01:13.05,Default,,0,0,0,,Infatti vi consiglio vivamente di {\1c&HFF00&\u1}non{\r} prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:13.05,0:01:13.07,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:13.07,0:01:13.41,Default,,0,0,0,,Infatti vi consiglio vivamente di non {\1c&HFF00&\u1}prendere{\r} appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:13.41,0:01:13.43,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:13.43,0:01:14.31,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere {\1c&HFF00&\u1}appuntamenti{\r} dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:14.31,0:01:14.71,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:14.71,0:01:15.37,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti {\1c&HFF00&\u1}dispersivi{\r} nell'arco della giornata,
+Dialogue: 0,0:01:15.37,0:01:15.43,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:15.43,0:01:15.85,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi {\1c&HFF00&\u1}nell'arco{\r} della giornata,
+Dialogue: 0,0:01:15.85,0:01:15.87,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:15.87,0:01:16.09,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco {\1c&HFF00&\u1}della{\r} giornata,
+Dialogue: 0,0:01:16.09,0:01:16.15,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della giornata,
+Dialogue: 0,0:01:16.15,0:01:16.57,Default,,0,0,0,,Infatti vi consiglio vivamente di non prendere appuntamenti dispersivi nell'arco della {\1c&HFF00&\u1}giornata,{\r}
+Dialogue: 0,0:01:16.96,0:01:17.08,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:17.08,0:01:17.10,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:17.10,0:01:17.54,Default,,0,0,0,,ma {\1c&HFF00&\u1}scegliete{\r} dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:17.54,0:01:17.58,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:17.58,0:01:17.74,Default,,0,0,0,,ma scegliete {\1c&HFF00&\u1}dei{\r} giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:17.74,0:01:17.84,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:17.84,0:01:18.20,Default,,0,0,0,,ma scegliete dei {\1c&HFF00&\u1}giorni{\r} e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:18.20,0:01:18.22,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:18.22,0:01:18.24,Default,,0,0,0,,ma scegliete dei giorni {\1c&HFF00&\u1}e{\r} degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:18.24,0:01:18.78,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:18.78,0:01:18.95,Default,,0,0,0,,ma scegliete dei giorni e {\1c&HFF00&\u1}degli{\r} orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:18.95,0:01:18.99,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:18.99,0:01:19.25,Default,,0,0,0,,ma scegliete dei giorni e degli {\1c&HFF00&\u1}orari{\r} prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:19.25,0:01:19.31,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:19.31,0:01:20.09,Default,,0,0,0,,ma scegliete dei giorni e degli orari {\1c&HFF00&\u1}prestabiliti{\r} in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:20.09,0:01:20.23,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:20.23,0:01:20.29,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti {\1c&HFF00&\u1}in{\r} cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:20.29,0:01:20.35,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:20.35,0:01:20.47,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in {\1c&HFF00&\u1}cui{\r} accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:20.47,0:01:20.55,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:20.55,0:01:21.21,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui {\1c&HFF00&\u1}accumulare{\r} tutti gli appuntamenti.
+Dialogue: 0,0:01:21.21,0:01:21.41,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:21.41,0:01:21.65,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare {\1c&HFF00&\u1}tutti{\r} gli appuntamenti.
+Dialogue: 0,0:01:21.65,0:01:21.67,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:21.67,0:01:21.77,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti {\1c&HFF00&\u1}gli{\r} appuntamenti.
+Dialogue: 0,0:01:21.77,0:01:21.79,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli appuntamenti.
+Dialogue: 0,0:01:21.79,0:01:22.49,Default,,0,0,0,,ma scegliete dei giorni e degli orari prestabiliti in cui accumulare tutti gli {\1c&HFF00&\u1}appuntamenti.{\r}
+Dialogue: 0,0:01:22.92,0:01:23.24,Default,,0,0,0,,{\1c&HFF00&\u1}tranne{\r} rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:23.24,0:01:23.28,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:23.28,0:01:23.46,Default,,0,0,0,,tranne {\1c&HFF00&\u1}rare{\r} eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:23.46,0:01:23.48,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:23.48,0:01:23.96,Default,,0,0,0,,tranne rare {\1c&HFF00&\u1}eccezioni{\r} se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:23.96,0:01:24.01,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:24.01,0:01:24.09,Default,,0,0,0,,tranne rare eccezioni {\1c&HFF00&\u1}se{\r} vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:24.09,0:01:24.19,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:24.19,0:01:24.49,Default,,0,0,0,,tranne rare eccezioni se {\1c&HFF00&\u1}vendete{\r} un oggetto dall'ampio margine.
+Dialogue: 0,0:01:24.49,0:01:24.53,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:24.53,0:01:24.59,Default,,0,0,0,,tranne rare eccezioni se vendete {\1c&HFF00&\u1}un{\r} oggetto dall'ampio margine.
+Dialogue: 0,0:01:24.59,0:01:24.63,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:24.63,0:01:25.03,Default,,0,0,0,,tranne rare eccezioni se vendete un {\1c&HFF00&\u1}oggetto{\r} dall'ampio margine.
+Dialogue: 0,0:01:25.03,0:01:25.09,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:25.09,0:01:25.49,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto {\1c&HFF00&\u1}dall'ampio{\r} margine.
+Dialogue: 0,0:01:25.49,0:01:25.55,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio margine.
+Dialogue: 0,0:01:25.55,0:01:25.95,Default,,0,0,0,,tranne rare eccezioni se vendete un oggetto dall'ampio {\1c&HFF00&\u1}margine.{\r}
+Dialogue: 0,0:01:26.30,0:01:26.40,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:26.40,0:01:26.46,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:26.46,0:01:26.70,Default,,0,0,0,,Per {\1c&HFF00&\u1}darvi{\r} un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:26.70,0:01:26.76,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:26.76,0:01:26.84,Default,,0,0,0,,Per darvi {\1c&HFF00&\u1}un{\r} punto di riferimento a una linea guida,
+Dialogue: 0,0:01:26.84,0:01:26.90,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:26.90,0:01:27.16,Default,,0,0,0,,Per darvi un {\1c&HFF00&\u1}punto{\r} di riferimento a una linea guida,
+Dialogue: 0,0:01:27.16,0:01:27.20,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:27.20,0:01:27.28,Default,,0,0,0,,Per darvi un punto {\1c&HFF00&\u1}di{\r} riferimento a una linea guida,
+Dialogue: 0,0:01:27.28,0:01:27.33,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:27.33,0:01:27.83,Default,,0,0,0,,Per darvi un punto di {\1c&HFF00&\u1}riferimento{\r} a una linea guida,
+Dialogue: 0,0:01:27.83,0:01:27.85,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:27.85,0:01:27.87,Default,,0,0,0,,Per darvi un punto di riferimento {\1c&HFF00&\u1}a{\r} una linea guida,
+Dialogue: 0,0:01:27.87,0:01:27.93,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:27.93,0:01:28.03,Default,,0,0,0,,Per darvi un punto di riferimento a {\1c&HFF00&\u1}una{\r} linea guida,
+Dialogue: 0,0:01:28.03,0:01:28.07,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:28.07,0:01:28.27,Default,,0,0,0,,Per darvi un punto di riferimento a una {\1c&HFF00&\u1}linea{\r} guida,
+Dialogue: 0,0:01:28.27,0:01:28.31,Default,,0,0,0,,Per darvi un punto di riferimento a una linea guida,
+Dialogue: 0,0:01:28.31,0:01:28.55,Default,,0,0,0,,Per darvi un punto di riferimento a una linea {\1c&HFF00&\u1}guida,{\r}
+Dialogue: 0,0:01:29.06,0:01:29.58,Default,,0,0,0,,{\1c&HFF00&\u1}considerate{\r} che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:29.58,0:01:29.62,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:29.62,0:01:29.70,Default,,0,0,0,,considerate {\1c&HFF00&\u1}che{\r} ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:29.70,0:01:29.72,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:29.72,0:01:29.76,Default,,0,0,0,,considerate che {\1c&HFF00&\u1}ho{\r} scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:29.76,0:01:29.80,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:29.80,0:01:30.08,Default,,0,0,0,,considerate che ho {\1c&HFF00&\u1}scelto{\r} un margine minimo di 7 euro
+Dialogue: 0,0:01:30.08,0:01:30.15,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:30.15,0:01:30.23,Default,,0,0,0,,considerate che ho scelto {\1c&HFF00&\u1}un{\r} margine minimo di 7 euro
+Dialogue: 0,0:01:30.23,0:01:30.27,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:30.27,0:01:30.65,Default,,0,0,0,,considerate che ho scelto un {\1c&HFF00&\u1}margine{\r} minimo di 7 euro
+Dialogue: 0,0:01:30.65,0:01:30.73,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:30.73,0:01:30.99,Default,,0,0,0,,considerate che ho scelto un margine {\1c&HFF00&\u1}minimo{\r} di 7 euro
+Dialogue: 0,0:01:30.99,0:01:31.03,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:31.03,0:01:31.09,Default,,0,0,0,,considerate che ho scelto un margine minimo {\1c&HFF00&\u1}di 7{\r} euro
+Dialogue: 0,0:01:31.09,0:01:31.19,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 euro
+Dialogue: 0,0:01:31.19,0:01:31.39,Default,,0,0,0,,considerate che ho scelto un margine minimo di 7 {\1c&HFF00&\u1}euro{\r}
+Dialogue: 0,0:01:32.26,0:01:32.28,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.28,0:01:32.30,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.30,0:01:32.44,Default,,0,0,0,,e {\1c&HFF00&\u1}che{\r} da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.44,0:01:32.48,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.48,0:01:32.60,Default,,0,0,0,,e che {\1c&HFF00&\u1}da{\r} ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.60,0:01:32.70,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.70,0:01:32.84,Default,,0,0,0,,e che da {\1c&HFF00&\u1}ogni{\r} oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.84,0:01:32.90,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:32.90,0:01:33.30,Default,,0,0,0,,e che da ogni {\1c&HFF00&\u1}oggetto{\r} ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.30,0:01:33.32,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.32,0:01:33.38,Default,,0,0,0,,e che da ogni oggetto {\1c&HFF00&\u1}ho{\r} puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.38,0:01:33.53,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.53,0:01:33.77,Default,,0,0,0,,e che da ogni oggetto ho {\1c&HFF00&\u1}puntato{\r} a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.77,0:01:33.89,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.89,0:01:33.91,Default,,0,0,0,,e che da ogni oggetto ho puntato {\1c&HFF00&\u1}a{\r} guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.91,0:01:33.99,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:33.99,0:01:34.69,Default,,0,0,0,,e che da ogni oggetto ho puntato a {\1c&HFF00&\u1}guadagnarci{\r} più o meno il doppio.
+Dialogue: 0,0:01:34.69,0:01:34.81,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:34.81,0:01:34.91,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci {\1c&HFF00&\u1}più{\r} o meno il doppio.
+Dialogue: 0,0:01:34.91,0:01:34.95,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:34.95,0:01:34.99,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più {\1c&HFF00&\u1}o{\r} meno il doppio.
+Dialogue: 0,0:01:34.99,0:01:35.13,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:35.13,0:01:35.35,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o {\1c&HFF00&\u1}meno{\r} il doppio.
+Dialogue: 0,0:01:35.35,0:01:35.39,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:35.39,0:01:35.47,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno {\1c&HFF00&\u1}il{\r} doppio.
+Dialogue: 0,0:01:35.47,0:01:35.55,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il doppio.
+Dialogue: 0,0:01:35.55,0:01:35.85,Default,,0,0,0,,e che da ogni oggetto ho puntato a guadagnarci più o meno il {\1c&HFF00&\u1}doppio.{\r}
+Dialogue: 0,0:01:36.20,0:01:36.66,Default,,0,0,0,,{\1c&HFF00&\u1}Ovviamente{\r} questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:36.66,0:01:36.74,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:36.74,0:01:36.98,Default,,0,0,0,,Ovviamente {\1c&HFF00&\u1}questi{\r} numeri valgono per le grandi città.
+Dialogue: 0,0:01:36.98,0:01:37.06,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:37.06,0:01:37.41,Default,,0,0,0,,Ovviamente questi {\1c&HFF00&\u1}numeri{\r} valgono per le grandi città.
+Dialogue: 0,0:01:37.41,0:01:37.49,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:37.49,0:01:37.87,Default,,0,0,0,,Ovviamente questi numeri {\1c&HFF00&\u1}valgono{\r} per le grandi città.
+Dialogue: 0,0:01:37.87,0:01:37.93,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:37.93,0:01:38.05,Default,,0,0,0,,Ovviamente questi numeri valgono {\1c&HFF00&\u1}per{\r} le grandi città.
+Dialogue: 0,0:01:38.05,0:01:38.09,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:38.09,0:01:38.15,Default,,0,0,0,,Ovviamente questi numeri valgono per {\1c&HFF00&\u1}le{\r} grandi città.
+Dialogue: 0,0:01:38.15,0:01:38.19,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:38.19,0:01:38.49,Default,,0,0,0,,Ovviamente questi numeri valgono per le {\1c&HFF00&\u1}grandi{\r} città.
+Dialogue: 0,0:01:38.49,0:01:38.55,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi città.
+Dialogue: 0,0:01:38.55,0:01:38.79,Default,,0,0,0,,Ovviamente questi numeri valgono per le grandi {\1c&HFF00&\u1}città.{\r}
+Dialogue: 0,0:01:39.08,0:01:39.60,Default,,0,0,0,,{\1c&HFF00&\u1}Se{\r} vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:39.60,0:01:39.62,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:39.62,0:01:39.82,Default,,0,0,0,,Se {\1c&HFF00&\u1}vivete{\r} in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:39.82,0:01:39.86,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:39.86,0:01:39.92,Default,,0,0,0,,Se vivete {\1c&HFF00&\u1}in{\r} una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:39.92,0:01:39.96,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:39.96,0:01:40.06,Default,,0,0,0,,Se vivete in {\1c&HFF00&\u1}una{\r} piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:40.06,0:01:40.10,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:40.10,0:01:40.44,Default,,0,0,0,,Se vivete in una {\1c&HFF00&\u1}piccola{\r} realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:40.44,0:01:40.48,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:40.48,0:01:40.85,Default,,0,0,0,,Se vivete in una piccola {\1c&HFF00&\u1}realtà{\r} credo che sia un pochino più difficile.
+Dialogue: 0,0:01:40.85,0:01:41.21,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:41.21,0:01:41.41,Default,,0,0,0,,Se vivete in una piccola realtà {\1c&HFF00&\u1}credo{\r} che sia un pochino più difficile.
+Dialogue: 0,0:01:41.41,0:01:41.45,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:41.45,0:01:41.55,Default,,0,0,0,,Se vivete in una piccola realtà credo {\1c&HFF00&\u1}che{\r} sia un pochino più difficile.
+Dialogue: 0,0:01:41.55,0:01:41.63,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:41.63,0:01:41.75,Default,,0,0,0,,Se vivete in una piccola realtà credo che {\1c&HFF00&\u1}sia{\r} un pochino più difficile.
+Dialogue: 0,0:01:41.75,0:01:41.81,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:41.81,0:01:41.87,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia {\1c&HFF00&\u1}un{\r} pochino più difficile.
+Dialogue: 0,0:01:41.87,0:01:41.93,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:41.93,0:01:42.23,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un {\1c&HFF00&\u1}pochino{\r} più difficile.
+Dialogue: 0,0:01:42.23,0:01:42.29,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:42.29,0:01:42.39,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino {\1c&HFF00&\u1}più{\r} difficile.
+Dialogue: 0,0:01:42.39,0:01:42.47,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più difficile.
+Dialogue: 0,0:01:42.47,0:01:42.93,Default,,0,0,0,,Se vivete in una piccola realtà credo che sia un pochino più {\1c&HFF00&\u1}difficile.{\r}
+Dialogue: 0,0:01:43.56,0:01:43.58,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:43.58,0:01:43.62,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:43.62,0:01:43.74,Default,,0,0,0,,E {\1c&HFF00&\u1}qui{\r} vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:43.74,0:01:43.76,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:43.76,0:01:43.82,Default,,0,0,0,,E qui {\1c&HFF00&\u1}vi{\r} aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:43.82,0:01:43.86,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:43.86,0:01:44.20,Default,,0,0,0,,E qui vi {\1c&HFF00&\u1}aggiungo{\r} anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:44.20,0:01:44.26,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:44.26,0:01:44.46,Default,,0,0,0,,E qui vi aggiungo {\1c&HFF00&\u1}anche{\r} un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:44.46,0:01:44.52,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:44.52,0:01:44.86,Default,,0,0,0,,E qui vi aggiungo anche {\1c&HFF00&\u1}un'altra{\r} chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:44.86,0:01:44.94,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:44.94,0:01:45.49,Default,,0,0,0,,E qui vi aggiungo anche un'altra {\1c&HFF00&\u1}chicchetta{\r} che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:45.49,0:01:45.81,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:45.81,0:01:45.93,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta {\1c&HFF00&\u1}che{\r} è addirittura molto più remunerativa.
+Dialogue: 0,0:01:45.93,0:01:45.97,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:45.97,0:01:45.99,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che {\1c&HFF00&\u1}è{\r} addirittura molto più remunerativa.
+Dialogue: 0,0:01:45.99,0:01:46.07,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:46.07,0:01:46.77,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è {\1c&HFF00&\u1}addirittura{\r} molto più remunerativa.
+Dialogue: 0,0:01:46.77,0:01:46.89,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:46.89,0:01:47.21,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura {\1c&HFF00&\u1}molto{\r} più remunerativa.
+Dialogue: 0,0:01:47.21,0:01:47.31,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:47.31,0:01:47.41,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto {\1c&HFF00&\u1}più{\r} remunerativa.
+Dialogue: 0,0:01:47.41,0:01:47.51,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più remunerativa.
+Dialogue: 0,0:01:47.51,0:01:48.21,Default,,0,0,0,,E qui vi aggiungo anche un'altra chicchetta che è addirittura molto più {\1c&HFF00&\u1}remunerativa.{\r}
+Dialogue: 0,0:01:48.64,0:01:49.08,Default,,0,0,0,,{\1c&HFF00&\u1}solamente{\r} che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.08,0:01:49.12,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.12,0:01:49.22,Default,,0,0,0,,solamente {\1c&HFF00&\u1}che{\r} in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.22,0:01:49.26,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.26,0:01:49.32,Default,,0,0,0,,solamente che {\1c&HFF00&\u1}in{\r} questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.32,0:01:49.36,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.36,0:01:49.62,Default,,0,0,0,,solamente che in {\1c&HFF00&\u1}questo{\r} caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.62,0:01:49.68,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.68,0:01:49.92,Default,,0,0,0,,solamente che in questo {\1c&HFF00&\u1}caso{\r} dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:49.92,0:01:50.00,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:50.00,0:01:50.33,Default,,0,0,0,,solamente che in questo caso {\1c&HFF00&\u1}dovrete{\r} comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:50.33,0:01:50.39,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:50.39,0:01:50.87,Default,,0,0,0,,solamente che in questo caso dovrete {\1c&HFF00&\u1}comprare{\r} voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:50.87,0:01:51.05,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:51.05,0:01:51.27,Default,,0,0,0,,solamente che in questo caso dovrete comprare {\1c&HFF00&\u1}voi{\r} stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:51.27,0:01:51.33,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:51.33,0:01:51.75,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi {\1c&HFF00&\u1}stessi{\r} gli oggetti e fare una sorta di
+Dialogue: 0,0:01:51.75,0:01:51.81,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:51.81,0:01:51.89,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi {\1c&HFF00&\u1}gli{\r} oggetti e fare una sorta di
+Dialogue: 0,0:01:51.89,0:01:51.93,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:51.93,0:01:52.45,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli {\1c&HFF00&\u1}oggetti{\r} e fare una sorta di
+Dialogue: 0,0:01:52.45,0:01:52.77,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:52.77,0:01:52.81,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti {\1c&HFF00&\u1}e{\r} fare una sorta di
+Dialogue: 0,0:01:52.81,0:01:52.91,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:52.91,0:01:53.09,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e {\1c&HFF00&\u1}fare{\r} una sorta di
+Dialogue: 0,0:01:53.09,0:01:53.15,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:53.15,0:01:53.25,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare {\1c&HFF00&\u1}una{\r} sorta di
+Dialogue: 0,0:01:53.25,0:01:53.29,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:53.29,0:01:53.57,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una {\1c&HFF00&\u1}sorta{\r} di
+Dialogue: 0,0:01:53.57,0:01:53.61,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta di
+Dialogue: 0,0:01:53.61,0:01:53.65,Default,,0,0,0,,solamente che in questo caso dovrete comprare voi stessi gli oggetti e fare una sorta {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:01:54.71,0:01:55.05,Default,,0,0,0,,{\1c&HFF00&\u1}magazzino.{\r}
+Dialogue: 0,0:01:54.78,0:01:55.02,Default,,0,0,0,,{\1c&HFF00&\u1}Potete{\r} applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:55.02,0:01:55.06,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:55.06,0:01:55.54,Default,,0,0,0,,Potete {\1c&HFF00&\u1}applicare{\r} lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:55.54,0:01:55.62,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:55.62,0:01:55.70,Default,,0,0,0,,Potete applicare {\1c&HFF00&\u1}lo{\r} stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:55.70,0:01:55.74,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:55.74,0:01:56.02,Default,,0,0,0,,Potete applicare lo {\1c&HFF00&\u1}stesso{\r} discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.02,0:01:56.08,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.08,0:01:56.59,Default,,0,0,0,,Potete applicare lo stesso {\1c&HFF00&\u1}discorso{\r} che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.59,0:01:56.65,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.65,0:01:56.75,Default,,0,0,0,,Potete applicare lo stesso discorso {\1c&HFF00&\u1}che{\r} vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.75,0:01:56.83,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.83,0:01:56.91,Default,,0,0,0,,Potete applicare lo stesso discorso che {\1c&HFF00&\u1}vi{\r} ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.91,0:01:56.93,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:56.93,0:01:57.01,Default,,0,0,0,,Potete applicare lo stesso discorso che vi {\1c&HFF00&\u1}ho{\r} fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:57.01,0:01:57.11,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:57.11,0:01:57.49,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho {\1c&HFF00&\u1}fatto,{\r} di comprare un oggetto e fare il
+Dialogue: 0,0:01:57.49,0:01:57.87,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:57.87,0:01:57.93,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, {\1c&HFF00&\u1}di{\r} comprare un oggetto e fare il
+Dialogue: 0,0:01:57.93,0:01:57.99,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:57.99,0:01:58.39,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di {\1c&HFF00&\u1}comprare{\r} un oggetto e fare il
+Dialogue: 0,0:01:58.39,0:01:58.43,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:58.43,0:01:58.49,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare {\1c&HFF00&\u1}un{\r} oggetto e fare il
+Dialogue: 0,0:01:58.49,0:01:58.55,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:58.55,0:01:58.87,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un {\1c&HFF00&\u1}oggetto{\r} e fare il
+Dialogue: 0,0:01:58.87,0:01:58.91,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:58.91,0:01:58.93,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto {\1c&HFF00&\u1}e{\r} fare il
+Dialogue: 0,0:01:58.93,0:01:59.01,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:59.01,0:01:59.19,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e {\1c&HFF00&\u1}fare{\r} il
+Dialogue: 0,0:01:59.19,0:01:59.23,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare il
+Dialogue: 0,0:01:59.23,0:01:59.27,Default,,0,0,0,,Potete applicare lo stesso discorso che vi ho fatto, di comprare un oggetto e fare {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:01:59.46,0:02:0.42,Default,,0,0,0,,{\1c&HFF00&\u1}confronto,{\r} a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:0.42,0:02:0.44,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:0.44,0:02:0.48,Default,,0,0,0,,confronto, {\1c&HFF00&\u1}a{\r} cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:0.48,0:02:0.54,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:0.54,0:02:0.64,Default,,0,0,0,,confronto, a {\1c&HFF00&\u1}cui{\r} sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:0.64,0:02:0.66,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:0.66,0:02:0.96,Default,,0,0,0,,confronto, a cui {\1c&HFF00&\u1}sanno{\r} voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:0.96,0:02:1.02,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:1.02,0:02:1.16,Default,,0,0,0,,confronto, a cui sanno {\1c&HFF00&\u1}voi{\r} stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:1.16,0:02:1.22,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:1.22,0:02:1.64,Default,,0,0,0,,confronto, a cui sanno voi {\1c&HFF00&\u1}stessi{\r} dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:1.64,0:02:1.72,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:1.72,0:02:1.93,Default,,0,0,0,,confronto, a cui sanno voi stessi {\1c&HFF00&\u1}dei{\r} pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:1.93,0:02:2.03,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:2.03,0:02:2.45,Default,,0,0,0,,confronto, a cui sanno voi stessi dei {\1c&HFF00&\u1}pezzi{\r} susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:2.45,0:02:2.57,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:2.57,0:02:3.13,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi {\1c&HFF00&\u1}susciti{\r} come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:3.13,0:02:3.25,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:3.25,0:02:3.45,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti {\1c&HFF00&\u1}come{\r} Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:3.45,0:02:3.57,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:3.57,0:02:3.95,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come {\1c&HFF00&\u1}Wish,{\r} sciti orientali economicissimi
+Dialogue: 0,0:02:3.95,0:02:4.49,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:4.49,0:02:4.77,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, {\1c&HFF00&\u1}sciti{\r} orientali economicissimi
+Dialogue: 0,0:02:4.77,0:02:4.95,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:4.95,0:02:5.67,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti {\1c&HFF00&\u1}orientali{\r} economicissimi
+Dialogue: 0,0:02:5.67,0:02:6.15,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali economicissimi
+Dialogue: 0,0:02:6.15,0:02:7.00,Default,,0,0,0,,confronto, a cui sanno voi stessi dei pezzi susciti come Wish, sciti orientali {\1c&HFF00&\u1}economicissimi{\r}
+Dialogue: 0,0:02:7.32,0:02:7.38,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:7.38,0:02:7.44,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:7.44,0:02:7.52,Default,,0,0,0,,ma {\1c&HFF00&\u1}che{\r} hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:7.52,0:02:7.54,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:7.54,0:02:7.76,Default,,0,0,0,,ma che {\1c&HFF00&\u1}hanno{\r} tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:7.76,0:02:7.80,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:7.80,0:02:8.12,Default,,0,0,0,,ma che hanno {\1c&HFF00&\u1}tempi{\r} di spedizione molto molto lunghi.
+Dialogue: 0,0:02:8.12,0:02:8.16,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:8.16,0:02:8.22,Default,,0,0,0,,ma che hanno tempi {\1c&HFF00&\u1}di{\r} spedizione molto molto lunghi.
+Dialogue: 0,0:02:8.22,0:02:8.26,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:8.26,0:02:8.89,Default,,0,0,0,,ma che hanno tempi di {\1c&HFF00&\u1}spedizione{\r} molto molto lunghi.
+Dialogue: 0,0:02:8.89,0:02:8.97,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:8.97,0:02:9.23,Default,,0,0,0,,ma che hanno tempi di spedizione {\1c&HFF00&\u1}molto{\r} molto lunghi.
+Dialogue: 0,0:02:9.23,0:02:9.31,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:9.31,0:02:9.55,Default,,0,0,0,,ma che hanno tempi di spedizione molto {\1c&HFF00&\u1}molto{\r} lunghi.
+Dialogue: 0,0:02:9.55,0:02:9.61,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto lunghi.
+Dialogue: 0,0:02:9.61,0:02:9.89,Default,,0,0,0,,ma che hanno tempi di spedizione molto molto {\1c&HFF00&\u1}lunghi.{\r}
+Dialogue: 0,0:02:10.28,0:02:10.34,Default,,0,0,0,,{\1c&HFF00&\u1}Vi{\r} porto questi due esempi.
+Dialogue: 0,0:02:10.34,0:02:10.38,Default,,0,0,0,,Vi porto questi due esempi.
+Dialogue: 0,0:02:10.38,0:02:10.65,Default,,0,0,0,,Vi {\1c&HFF00&\u1}porto{\r} questi due esempi.
+Dialogue: 0,0:02:10.65,0:02:10.71,Default,,0,0,0,,Vi porto questi due esempi.
+Dialogue: 0,0:02:10.71,0:02:10.93,Default,,0,0,0,,Vi porto {\1c&HFF00&\u1}questi{\r} due esempi.
+Dialogue: 0,0:02:10.93,0:02:10.99,Default,,0,0,0,,Vi porto questi due esempi.
+Dialogue: 0,0:02:10.99,0:02:11.07,Default,,0,0,0,,Vi porto questi {\1c&HFF00&\u1}due{\r} esempi.
+Dialogue: 0,0:02:11.07,0:02:11.09,Default,,0,0,0,,Vi porto questi due esempi.
+Dialogue: 0,0:02:11.09,0:02:11.44,Default,,0,0,0,,Vi porto questi due {\1c&HFF00&\u1}esempi.{\r}

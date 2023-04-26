@@ -1,0 +1,37 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.10,Default,,0,0,0,,{\1c&HFF00&\u1}mille{\r} persone dovrebbe scegliere proprio voi.
+Dialogue: 0,0:00:0.10,0:00:0.12,Default,,0,0,0,,mille persone dovrebbe scegliere proprio voi.
+Dialogue: 0,0:00:0.12,0:00:0.26,Default,,0,0,0,,mille {\1c&HFF00&\u1}persone{\r} dovrebbe scegliere proprio voi.
+Dialogue: 0,0:00:0.26,0:00:0.28,Default,,0,0,0,,mille persone dovrebbe scegliere proprio voi.
+Dialogue: 0,0:00:0.28,0:00:0.44,Default,,0,0,0,,mille persone {\1c&HFF00&\u1}dovrebbe{\r} scegliere proprio voi.
+Dialogue: 0,0:00:0.44,0:00:0.46,Default,,0,0,0,,mille persone dovrebbe scegliere proprio voi.
+Dialogue: 0,0:00:0.46,0:00:0.64,Default,,0,0,0,,mille persone dovrebbe {\1c&HFF00&\u1}scegliere{\r} proprio voi.
+Dialogue: 0,0:00:0.64,0:00:0.66,Default,,0,0,0,,mille persone dovrebbe scegliere proprio voi.
+Dialogue: 0,0:00:0.66,0:00:0.80,Default,,0,0,0,,mille persone dovrebbe scegliere {\1c&HFF00&\u1}proprio{\r} voi.
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,mille persone dovrebbe scegliere proprio voi.
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,mille persone dovrebbe scegliere proprio {\1c&HFF00&\u1}voi.{\r}
+Dialogue: 0,0:00:2.64,0:00:2.76,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} dico che non si possa fare.
+Dialogue: 0,0:00:2.76,0:00:2.80,Default,,0,0,0,,Non dico che non si possa fare.
+Dialogue: 0,0:00:2.80,0:00:2.99,Default,,0,0,0,,Non {\1c&HFF00&\u1}dico{\r} che non si possa fare.
+Dialogue: 0,0:00:2.99,0:00:3.03,Default,,0,0,0,,Non dico che non si possa fare.
+Dialogue: 0,0:00:3.03,0:00:3.13,Default,,0,0,0,,Non dico {\1c&HFF00&\u1}che{\r} non si possa fare.
+Dialogue: 0,0:00:3.13,0:00:3.15,Default,,0,0,0,,Non dico che non si possa fare.
+Dialogue: 0,0:00:3.15,0:00:3.27,Default,,0,0,0,,Non dico che {\1c&HFF00&\u1}non{\r} si possa fare.
+Dialogue: 0,0:00:3.27,0:00:3.31,Default,,0,0,0,,Non dico che non si possa fare.
+Dialogue: 0,0:00:3.31,0:00:3.39,Default,,0,0,0,,Non dico che non {\1c&HFF00&\u1}si{\r} possa fare.
+Dialogue: 0,0:00:3.39,0:00:3.43,Default,,0,0,0,,Non dico che non si possa fare.
+Dialogue: 0,0:00:3.43,0:00:3.69,Default,,0,0,0,,Non dico che non si {\1c&HFF00&\u1}possa{\r} fare.
+Dialogue: 0,0:00:3.69,0:00:3.73,Default,,0,0,0,,Non dico che non si possa fare.
+Dialogue: 0,0:00:3.73,0:00:3.96,Default,,0,0,0,,Non dico che non si possa {\1c&HFF00&\u1}fare.{\r}

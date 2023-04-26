@@ -1,0 +1,130 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.26,0:00:0.38,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:0.38,0:00:0.42,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:0.42,0:00:0.58,Default,,0,0,0,,che {\1c&HFF00&\u1}questo{\r} video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:0.58,0:00:0.62,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:0.62,0:00:0.78,Default,,0,0,0,,che questo {\1c&HFF00&\u1}video{\r} diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:0.82,0:00:1.12,Default,,0,0,0,,che questo video {\1c&HFF00&\u1}diventi{\r} troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:1.12,0:00:1.16,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:1.16,0:00:1.45,Default,,0,0,0,,che questo video diventi {\1c&HFF00&\u1}troppo{\r} lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:1.45,0:00:1.49,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:1.49,0:00:1.77,Default,,0,0,0,,che questo video diventi troppo {\1c&HFF00&\u1}lungo{\r} sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:1.77,0:00:1.83,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:1.83,0:00:1.97,Default,,0,0,0,,che questo video diventi troppo lungo {\1c&HFF00&\u1}sennò{\r} poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:1.97,0:00:2.01,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:2.01,0:00:2.13,Default,,0,0,0,,che questo video diventi troppo lungo sennò {\1c&HFF00&\u1}poi{\r} nessuno se lo guarda sapete
+Dialogue: 0,0:00:2.13,0:00:2.17,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:2.17,0:00:2.43,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi {\1c&HFF00&\u1}nessuno{\r} se lo guarda sapete
+Dialogue: 0,0:00:2.43,0:00:2.47,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:2.47,0:00:2.53,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno {\1c&HFF00&\u1}se{\r} lo guarda sapete
+Dialogue: 0,0:00:2.53,0:00:2.57,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:2.57,0:00:2.63,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se {\1c&HFF00&\u1}lo{\r} guarda sapete
+Dialogue: 0,0:00:2.63,0:00:2.65,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:2.65,0:00:3.07,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo {\1c&HFF00&\u1}guarda{\r} sapete
+Dialogue: 0,0:00:3.07,0:00:3.15,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda sapete
+Dialogue: 0,0:00:3.15,0:00:3.37,Default,,0,0,0,,che questo video diventi troppo lungo sennò poi nessuno se lo guarda {\1c&HFF00&\u1}sapete{\r}
+Dialogue: 0,0:00:3.48,0:00:3.56,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.56,0:00:3.64,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.64,0:00:3.66,Default,,0,0,0,,che {\1c&HFF00&\u1}a{\r} me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.66,0:00:3.68,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.68,0:00:3.72,Default,,0,0,0,,che a {\1c&HFF00&\u1}me{\r} non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.72,0:00:3.74,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.74,0:00:3.80,Default,,0,0,0,,che a me {\1c&HFF00&\u1}non{\r} piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.80,0:00:3.82,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.82,0:00:3.96,Default,,0,0,0,,che a me non {\1c&HFF00&\u1}piace{\r} neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:3.96,0:00:4.02,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.02,0:00:4.26,Default,,0,0,0,,che a me non piace {\1c&HFF00&\u1}neanche{\r} fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.26,0:00:4.34,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.34,0:00:4.51,Default,,0,0,0,,che a me non piace neanche {\1c&HFF00&\u1}fare{\r} troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.51,0:00:4.57,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.57,0:00:4.79,Default,,0,0,0,,che a me non piace neanche fare {\1c&HFF00&\u1}troppo{\r} i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.79,0:00:4.83,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.83,0:00:4.87,Default,,0,0,0,,che a me non piace neanche fare troppo {\1c&HFF00&\u1}i{\r} video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.87,0:00:4.89,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:4.89,0:00:5.11,Default,,0,0,0,,che a me non piace neanche fare troppo i {\1c&HFF00&\u1}video{\r} lunghi con tutto il cuore
+Dialogue: 0,0:00:5.11,0:00:5.17,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:5.17,0:00:5.47,Default,,0,0,0,,che a me non piace neanche fare troppo i video {\1c&HFF00&\u1}lunghi{\r} con tutto il cuore
+Dialogue: 0,0:00:5.47,0:00:5.67,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:5.67,0:00:5.77,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi {\1c&HFF00&\u1}con{\r} tutto il cuore
+Dialogue: 0,0:00:5.77,0:00:5.81,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:5.81,0:00:5.97,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con {\1c&HFF00&\u1}tutto{\r} il cuore
+Dialogue: 0,0:00:5.97,0:00:6.01,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:6.01,0:00:6.05,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto {\1c&HFF00&\u1}il{\r} cuore
+Dialogue: 0,0:00:6.05,0:00:6.09,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il cuore
+Dialogue: 0,0:00:6.09,0:00:6.35,Default,,0,0,0,,che a me non piace neanche fare troppo i video lunghi con tutto il {\1c&HFF00&\u1}cuore{\r}
+Dialogue: 0,0:00:6.52,0:00:7.18,Default,,0,0,0,,{\1c&HFF00&\u1}sinceramente{\r} però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.18,0:00:7.22,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.22,0:00:7.38,Default,,0,0,0,,sinceramente {\1c&HFF00&\u1}però{\r} dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.38,0:00:7.40,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.40,0:00:7.56,Default,,0,0,0,,sinceramente però {\1c&HFF00&\u1}dico{\r} proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.56,0:00:7.60,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.60,0:00:7.79,Default,,0,0,0,,sinceramente però dico {\1c&HFF00&\u1}proprio{\r} con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.79,0:00:7.83,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.83,0:00:7.95,Default,,0,0,0,,sinceramente però dico proprio {\1c&HFF00&\u1}con{\r} tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:7.95,0:00:8.01,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:8.01,0:00:8.17,Default,,0,0,0,,sinceramente però dico proprio con {\1c&HFF00&\u1}tutta{\r} la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:8.17,0:00:8.21,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:8.21,0:00:8.27,Default,,0,0,0,,sinceramente però dico proprio con tutta {\1c&HFF00&\u1}la{\r} sincerità del mondo non ho idea di
+Dialogue: 0,0:00:8.27,0:00:8.31,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:8.31,0:00:8.67,Default,,0,0,0,,sinceramente però dico proprio con tutta la {\1c&HFF00&\u1}sincerità{\r} del mondo non ho idea di
+Dialogue: 0,0:00:8.67,0:00:8.71,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:8.71,0:00:8.81,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità {\1c&HFF00&\u1}del{\r} mondo non ho idea di
+Dialogue: 0,0:00:8.81,0:00:8.83,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:8.83,0:00:9.15,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del {\1c&HFF00&\u1}mondo{\r} non ho idea di
+Dialogue: 0,0:00:9.15,0:00:9.63,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:9.63,0:00:9.75,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo {\1c&HFF00&\u1}non{\r} ho idea di
+Dialogue: 0,0:00:9.75,0:00:9.77,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:9.77,0:00:9.89,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non {\1c&HFF00&\u1}ho{\r} idea di
+Dialogue: 0,0:00:9.89,0:00:9.93,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:9.93,0:00:10.21,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho {\1c&HFF00&\u1}idea{\r} di
+Dialogue: 0,0:00:10.21,0:00:10.25,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea di
+Dialogue: 0,0:00:10.25,0:00:10.31,Default,,0,0,0,,sinceramente però dico proprio con tutta la sincerità del mondo non ho idea {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:10.46,0:00:10.62,Default,,0,0,0,,{\1c&HFF00&\u1}cosa{\r} succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:10.62,0:00:10.68,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:10.68,0:00:11.08,Default,,0,0,0,,cosa {\1c&HFF00&\u1}succederà{\r} prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:11.08,0:00:11.14,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:11.14,0:00:11.99,Default,,0,0,0,,cosa succederà {\1c&HFF00&\u1}prossimamente{\r} però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:11.99,0:00:12.03,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:12.03,0:00:12.21,Default,,0,0,0,,cosa succederà prossimamente {\1c&HFF00&\u1}però{\r} ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:12.21,0:00:12.69,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:12.69,0:00:12.77,Default,,0,0,0,,cosa succederà prossimamente però {\1c&HFF00&\u1}ci{\r} vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:12.77,0:00:12.81,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:12.81,0:00:13.13,Default,,0,0,0,,cosa succederà prossimamente però ci {\1c&HFF00&\u1}vedremo{\r} ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:13.13,0:00:13.19,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:13.19,0:00:13.31,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo {\1c&HFF00&\u1}ogni{\r} giorno a mezzogiorno sul
+Dialogue: 0,0:00:13.31,0:00:13.35,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:13.35,0:00:13.59,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni {\1c&HFF00&\u1}giorno{\r} a mezzogiorno sul
+Dialogue: 0,0:00:13.59,0:00:13.61,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:13.61,0:00:13.63,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno {\1c&HFF00&\u1}a{\r} mezzogiorno sul
+Dialogue: 0,0:00:13.63,0:00:13.69,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:13.69,0:00:14.25,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a {\1c&HFF00&\u1}mezzogiorno{\r} sul
+Dialogue: 0,0:00:14.25,0:00:14.29,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno sul
+Dialogue: 0,0:00:14.29,0:00:14.39,Default,,0,0,0,,cosa succederà prossimamente però ci vedremo ogni giorno a mezzogiorno {\1c&HFF00&\u1}sul{\r}
+Dialogue: 0,0:00:14.34,0:00:14.52,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} canale forse sì forse no forse no
+Dialogue: 0,0:00:14.52,0:00:14.56,Default,,0,0,0,,il canale forse sì forse no forse no
+Dialogue: 0,0:00:14.56,0:00:14.92,Default,,0,0,0,,il {\1c&HFF00&\u1}canale{\r} forse sì forse no forse no
+Dialogue: 0,0:00:14.92,0:00:15.02,Default,,0,0,0,,il canale forse sì forse no forse no
+Dialogue: 0,0:00:15.02,0:00:15.48,Default,,0,0,0,,il canale {\1c&HFF00&\u1}forse{\r} sì forse no forse no
+Dialogue: 0,0:00:15.48,0:00:15.60,Default,,0,0,0,,il canale forse sì forse no forse no
+Dialogue: 0,0:00:15.60,0:00:15.91,Default,,0,0,0,,il canale forse {\1c&HFF00&\u1}sì{\r} forse no forse no
+Dialogue: 0,0:00:15.91,0:00:16.01,Default,,0,0,0,,il canale forse sì forse no forse no
+Dialogue: 0,0:00:16.01,0:00:16.41,Default,,0,0,0,,il canale forse sì {\1c&HFF00&\u1}forse{\r} no forse no
+Dialogue: 0,0:00:16.41,0:00:16.49,Default,,0,0,0,,il canale forse sì forse no forse no
+Dialogue: 0,0:00:16.49,0:00:16.67,Default,,0,0,0,,il canale forse sì forse {\1c&HFF00&\u1}no{\r} forse no
+Dialogue: 0,0:00:16.67,0:00:16.87,Default,,0,0,0,,il canale forse sì forse no forse no
+Dialogue: 0,0:00:16.87,0:00:17.21,Default,,0,0,0,,il canale forse sì forse no {\1c&HFF00&\u1}forse{\r} no
+Dialogue: 0,0:00:17.21,0:00:17.29,Default,,0,0,0,,il canale forse sì forse no forse no
+Dialogue: 0,0:00:17.29,0:00:17.43,Default,,0,0,0,,il canale forse sì forse no forse {\1c&HFF00&\u1}no{\r}

@@ -1,0 +1,158 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.04,Default,,0,0,0,,{\1c&HFF00&\u1}No,{\r} non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.04,0:00:0.06,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.06,0:00:0.12,Default,,0,0,0,,No, {\1c&HFF00&\u1}non{\r} è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.12,0:00:0.14,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.14,0:00:0.16,Default,,0,0,0,,No, non {\1c&HFF00&\u1}è{\r} un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.18,0:00:0.22,Default,,0,0,0,,No, non è {\1c&HFF00&\u1}un{\r} clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.22,0:00:0.24,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.24,0:00:0.42,Default,,0,0,0,,No, non è un {\1c&HFF00&\u1}clickbait.{\r} Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.42,0:00:0.44,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.44,0:00:0.48,Default,,0,0,0,,No, non è un clickbait. {\1c&HFF00&\u1}Se{\r} c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.50,0:00:0.54,Default,,0,0,0,,No, non è un clickbait. Se {\1c&HFF00&\u1}c'è{\r} scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.54,0:00:0.56,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.56,0:00:0.70,Default,,0,0,0,,No, non è un clickbait. Se c'è {\1c&HFF00&\u1}scritto 73{\r} euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.70,0:00:0.74,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.74,0:00:0.82,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 {\1c&HFF00&\u1}euro{\r} in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.82,0:00:0.84,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.84,0:00:0.98,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro {\1c&HFF00&\u1}in 2{\r} ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:0.98,0:00:1.04,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.04,0:00:1.12,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 {\1c&HFF00&\u1}ore{\r} e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.12,0:00:1.14,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.14,0:00:1.16,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore {\1c&HFF00&\u1}e 36,{\r} significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.16,0:00:1.20,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.20,0:00:1.48,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, {\1c&HFF00&\u1}significa{\r} che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.48,0:00:1.50,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.50,0:00:1.58,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa {\1c&HFF00&\u1}che{\r} in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.58,0:00:1.84,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:1.84,0:00:2.08,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che {\1c&HFF00&\u1}in 2{\r} ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:2.08,0:00:2.48,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:2.48,0:00:2.66,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 {\1c&HFF00&\u1}ore{\r} e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:2.66,0:00:2.82,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:2.82,0:00:2.84,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore {\1c&HFF00&\u1}e 36{\r} minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:2.84,0:00:2.90,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:2.90,0:00:3.18,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 {\1c&HFF00&\u1}minuti{\r} ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:3.18,0:00:3.20,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:3.20,0:00:3.28,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti {\1c&HFF00&\u1}ho{\r} guadagnato 73 euro netti.
+Dialogue: 0,0:00:3.28,0:00:3.36,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:3.36,0:00:4.11,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho {\1c&HFF00&\u1}guadagnato 73{\r} euro netti.
+Dialogue: 0,0:00:4.11,0:00:4.19,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:4.19,0:00:4.51,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 {\1c&HFF00&\u1}euro{\r} netti.
+Dialogue: 0,0:00:4.51,0:00:4.77,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro netti.
+Dialogue: 0,0:00:4.77,0:00:5.01,Default,,0,0,0,,No, non è un clickbait. Se c'è scritto 73 euro in 2 ore e 36, significa che in 2 ore e 36 minuti ho guadagnato 73 euro {\1c&HFF00&\u1}netti.{\r}
+Dialogue: 0,0:00:12.10,0:00:12.14,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.14,0:00:12.18,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.18,0:00:12.24,Default,,0,0,0,,E {\1c&HFF00&\u1}in{\r} questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.24,0:00:12.28,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.28,0:00:12.52,Default,,0,0,0,,E in {\1c&HFF00&\u1}questo{\r} video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.52,0:00:12.60,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.60,0:00:12.80,Default,,0,0,0,,E in questo {\1c&HFF00&\u1}video{\r} vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.80,0:00:12.84,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.84,0:00:12.92,Default,,0,0,0,,E in questo video {\1c&HFF00&\u1}vi{\r} spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.92,0:00:12.96,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:12.96,0:00:13.28,Default,,0,0,0,,E in questo video vi {\1c&HFF00&\u1}spiego{\r} come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:13.28,0:00:13.42,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:13.42,0:00:13.66,Default,,0,0,0,,E in questo video vi spiego {\1c&HFF00&\u1}come{\r} ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:13.66,0:00:13.68,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:13.68,0:00:13.76,Default,,0,0,0,,E in questo video vi spiego come {\1c&HFF00&\u1}ho{\r} fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:13.76,0:00:13.88,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:13.88,0:00:14.29,Default,,0,0,0,,E in questo video vi spiego come ho {\1c&HFF00&\u1}fatto{\r} testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:14.29,0:00:14.71,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:14.71,0:00:15.11,Default,,0,0,0,,E in questo video vi spiego come ho fatto {\1c&HFF00&\u1}testando{\r} questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:15.11,0:00:15.17,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:15.17,0:00:15.43,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando {\1c&HFF00&\u1}questa{\r} strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:15.43,0:00:15.47,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:15.47,0:00:15.97,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa {\1c&HFF00&\u1}strategia{\r} per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:15.97,0:00:16.01,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:16.01,0:00:16.13,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia {\1c&HFF00&\u1}per 30{\r} giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:16.13,0:00:16.55,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:16.55,0:00:16.87,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 {\1c&HFF00&\u1}giorni{\r} e come potete farlo anche voi.
+Dialogue: 0,0:00:16.87,0:00:16.89,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:16.89,0:00:16.91,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni {\1c&HFF00&\u1}e{\r} come potete farlo anche voi.
+Dialogue: 0,0:00:16.91,0:00:17.49,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:17.49,0:00:17.69,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e {\1c&HFF00&\u1}come{\r} potete farlo anche voi.
+Dialogue: 0,0:00:17.69,0:00:17.75,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:17.75,0:00:18.01,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come {\1c&HFF00&\u1}potete{\r} farlo anche voi.
+Dialogue: 0,0:00:18.01,0:00:18.07,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:18.07,0:00:18.29,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete {\1c&HFF00&\u1}farlo{\r} anche voi.
+Dialogue: 0,0:00:18.29,0:00:18.31,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:18.31,0:00:18.53,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo {\1c&HFF00&\u1}anche{\r} voi.
+Dialogue: 0,0:00:18.53,0:00:18.59,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche voi.
+Dialogue: 0,0:00:18.59,0:00:18.78,Default,,0,0,0,,E in questo video vi spiego come ho fatto testando questa strategia per 30 giorni e come potete farlo anche {\1c&HFF00&\u1}voi.{\r}
+Dialogue: 0,0:00:19.36,0:00:19.44,Default,,0,0,0,,{\1c&HFF00&\u1}Ma{\r} prima devo fare una premessa.
+Dialogue: 0,0:00:19.44,0:00:19.52,Default,,0,0,0,,Ma prima devo fare una premessa.
+Dialogue: 0,0:00:19.52,0:00:19.72,Default,,0,0,0,,Ma {\1c&HFF00&\u1}prima{\r} devo fare una premessa.
+Dialogue: 0,0:00:19.72,0:00:19.76,Default,,0,0,0,,Ma prima devo fare una premessa.
+Dialogue: 0,0:00:19.76,0:00:19.94,Default,,0,0,0,,Ma prima {\1c&HFF00&\u1}devo{\r} fare una premessa.
+Dialogue: 0,0:00:19.94,0:00:19.98,Default,,0,0,0,,Ma prima devo fare una premessa.
+Dialogue: 0,0:00:19.98,0:00:20.15,Default,,0,0,0,,Ma prima devo {\1c&HFF00&\u1}fare{\r} una premessa.
+Dialogue: 0,0:00:20.15,0:00:20.21,Default,,0,0,0,,Ma prima devo fare una premessa.
+Dialogue: 0,0:00:20.21,0:00:20.29,Default,,0,0,0,,Ma prima devo fare {\1c&HFF00&\u1}una{\r} premessa.
+Dialogue: 0,0:00:20.29,0:00:20.33,Default,,0,0,0,,Ma prima devo fare una premessa.
+Dialogue: 0,0:00:20.33,0:00:20.77,Default,,0,0,0,,Ma prima devo fare una {\1c&HFF00&\u1}premessa.{\r}
+Dialogue: 0,0:00:21.44,0:00:21.46,Default,,0,0,0,,{\1c&HFF00&\u1}I{\r} soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:21.46,0:00:21.52,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:21.52,0:00:21.74,Default,,0,0,0,,I {\1c&HFF00&\u1}soldi{\r} facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:21.74,0:00:21.84,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:21.84,0:00:22.16,Default,,0,0,0,,I soldi {\1c&HFF00&\u1}facili{\r} non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:22.16,0:00:22.40,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:22.40,0:00:22.50,Default,,0,0,0,,I soldi facili {\1c&HFF00&\u1}non{\r} esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:22.50,0:00:22.56,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:22.56,0:00:23.09,Default,,0,0,0,,I soldi facili non {\1c&HFF00&\u1}esistono.{\r} Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:23.09,0:00:23.55,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:23.55,0:00:23.97,Default,,0,0,0,,I soldi facili non esistono. {\1c&HFF00&\u1}Esistono{\r} i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:23.97,0:00:24.01,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:24.01,0:00:24.03,Default,,0,0,0,,I soldi facili non esistono. Esistono {\1c&HFF00&\u1}i{\r} soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:24.03,0:00:24.07,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:24.07,0:00:24.31,Default,,0,0,0,,I soldi facili non esistono. Esistono i {\1c&HFF00&\u1}soldi{\r} veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:24.31,0:00:24.37,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:24.37,0:00:24.77,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi {\1c&HFF00&\u1}veloci,{\r} ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:24.77,0:00:25.07,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:25.07,0:00:25.15,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, {\1c&HFF00&\u1}ma{\r} sempre il culo dovete farvi.
+Dialogue: 0,0:00:25.15,0:00:25.25,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:25.25,0:00:25.53,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma {\1c&HFF00&\u1}sempre{\r} il culo dovete farvi.
+Dialogue: 0,0:00:25.53,0:00:25.59,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:25.59,0:00:25.65,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre {\1c&HFF00&\u1}il{\r} culo dovete farvi.
+Dialogue: 0,0:00:25.65,0:00:25.71,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:25.71,0:00:25.91,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il {\1c&HFF00&\u1}culo{\r} dovete farvi.
+Dialogue: 0,0:00:25.91,0:00:25.95,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:25.95,0:00:26.21,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo {\1c&HFF00&\u1}dovete{\r} farvi.
+Dialogue: 0,0:00:26.21,0:00:26.25,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete farvi.
+Dialogue: 0,0:00:26.25,0:00:26.59,Default,,0,0,0,,I soldi facili non esistono. Esistono i soldi veloci, ma sempre il culo dovete {\1c&HFF00&\u1}farvi.{\r}
+Dialogue: 0,0:00:26.90,0:00:27.16,Default,,0,0,0,,{\1c&HFF00&\u1}Perciò{\r} quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.16,0:00:27.20,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.20,0:00:27.40,Default,,0,0,0,,Perciò {\1c&HFF00&\u1}quando{\r} cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.40,0:00:27.44,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.44,0:00:27.80,Default,,0,0,0,,Perciò quando {\1c&HFF00&\u1}cliccate{\r} i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.80,0:00:27.82,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.82,0:00:27.84,Default,,0,0,0,,Perciò quando cliccate {\1c&HFF00&\u1}i{\r} video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.84,0:00:27.88,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:27.88,0:00:28.09,Default,,0,0,0,,Perciò quando cliccate i {\1c&HFF00&\u1}video{\r} dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:28.09,0:00:28.13,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:28.13,0:00:28.23,Default,,0,0,0,,Perciò quando cliccate i video {\1c&HFF00&\u1}dei{\r} Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:28.23,0:00:28.29,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:28.29,0:00:28.57,Default,,0,0,0,,Perciò quando cliccate i video dei {\1c&HFF00&\u1}Fuffa{\r} Guru che fanno i soldi...
+Dialogue: 0,0:00:28.57,0:00:28.65,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:28.65,0:00:28.93,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa {\1c&HFF00&\u1}Guru{\r} che fanno i soldi...
+Dialogue: 0,0:00:28.93,0:00:29.39,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:29.39,0:00:29.45,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru {\1c&HFF00&\u1}che{\r} fanno i soldi...
+Dialogue: 0,0:00:29.45,0:00:29.57,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:29.57,0:00:29.77,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che {\1c&HFF00&\u1}fanno{\r} i soldi...
+Dialogue: 0,0:00:29.77,0:00:29.81,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:29.81,0:00:29.85,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno {\1c&HFF00&\u1}i{\r} soldi...
+Dialogue: 0,0:00:29.85,0:00:29.89,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i soldi...
+Dialogue: 0,0:00:29.89,0:00:30.01,Default,,0,0,0,,Perciò quando cliccate i video dei Fuffa Guru che fanno i {\1c&HFF00&\u1}soldi...{\r}
