@@ -30,7 +30,6 @@
 
 ```bash
 2023-04-28 15:36:50,157 - data_processing - WARNING - Video iqBOfND7BZY - Clip 0_4 - Found invalid char at index 7: caz*****e
-2023-04-28 15:36:50,317 - data_processing - WARNING - Video fixed-4XVg57NjwM - Clip 0_11 - Found invalid char at index 1: sofía
 2023-04-28 15:36:50,384 - data_processing - WARNING - Video HfyGwiepb1s - Clip 0_25 - Found floating point number at index 33: ADC 3.0.
 2023-04-28 15:36:50,449 - data_processing - WARNING - Video OznYAHlGFwQ - Clip 0_48 - Found invalid char at index 21: q&a
 2023-04-28 15:36:50,458 - data_processing - WARNING - Video OznYAHlGFwQ - Clip 0_65 - Found invalid char at index 229: q&a
