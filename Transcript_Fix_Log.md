@@ -50,4 +50,7 @@ q&a --> q and a
 q&a --> q and a
 
 2023-04-28 15:36:50,549 - data_processing - WARNING - Video H5u-zv0y8J4 - Clip 0_2 - Found invalid char at index 29: al cento%
+
+The original text was 'al 100%' --> al cento percento 
+
 ```
