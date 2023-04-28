@@ -43,5 +43,5 @@ python data_processing.py create-miniclips --video-id VIDEOID
 # Irregular transcripts
 
 ```
-python data_processing.py irregular-transcript
+python data_processing.py irregular-transcript --window-size 20 --warn-speed 25 --fix
 ```

@@ -15,6 +15,7 @@ import transcript_cleaning
 
 logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
 fs = fstools.DatasetFSHelper()
+verbose = False
 
 def _extractFacesFromFrame(index: int, rgbFrame):
     faceLocations = face_recognition.face_locations(rgbFrame)
@@ -38,13 +39,15 @@ def _checkClipsVideoIds(videoIds: list[str]) -> list[str]:
     
     return videoIds
 
-def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWindowSize: int, reportOutOfOrderWords: bool) -> None:
+def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWindowSize: int, reportOutOfOrderWords: bool, fix: bool) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
-    logger.debug(f'Will find for irregular transcripts from {len(videoIds)} videos using window size: {minWindowSize}, warn limit: {warnSpeedLimit} and reporting out of order words: {reportOutOfOrderWords}')
+    if verbose:
+        logger.debug(f'Will find for irregular transcripts from {len(videoIds)} videos using window size: {minWindowSize}, warn limit: {warnSpeedLimit} and reporting out of order words: {reportOutOfOrderWords}')
 
     for videoId in videoIds:
         # Get all the video files in the video's clips folder
         allWordsInVideo = []
+        totalRemoved = 0
 
         clipsPath = fs.getClipsPath(videoId)
         for item in Path(clipsPath).iterdir():
@@ -59,6 +62,9 @@ def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWin
                 srt = SRTLoader(srtFilePath)
                 words = srt.getAllWords()
                 allWordsInVideo += words
+
+                # Save all the start/end indices to remove from the transcript
+                indicesToRemove = set()
 
                 # Run a sliding window over the words of a size of WINDOW_MIN_CHARS
                 for startIndex in range(len(words)):
@@ -94,7 +100,21 @@ def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWin
 
                             # Window size should be at least half of the limit
                             if averageSpeed > warnSpeedLimit and windowSize > 0.5 * minWindowSize:
-                                logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found fast window from index {firstIndex} to index {lastIndex}: {averageSpeed} chars/s with window size: {windowSize}')
+                                if verbose:
+                                    logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found fast window from index {firstIndex} to index {lastIndex}: {averageSpeed} chars/s with window size: {windowSize}')
+                                indicesToRemove = indicesToRemove.union(range(firstIndex, lastIndex+1))
+                
+                # Count how many total words will be removed from this video.
+                totalRemoved += len(indicesToRemove)
+                if verbose:
+                    logger.info(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Need to remove {len(indicesToRemove)} words out of {len(words)} from transcript. About {(float(len(indicesToRemove)) / len(words) * 100.0):.2f}%')
+
+                if fix and indicesToRemove:
+                    # Remove all the indices from the words list
+                    regularizedTranscript = [word for index, word in enumerate(words) if index not in indicesToRemove]
+                    regularizedFilePath = Path(clipsPath) / (clipFileNameWithoutExtension + fstools.REGULARIZED_TRANSCRIPTION_FILE_EXTENSION)
+                    SRTLoader.saveToFile(regularizedFilePath, regularizedTranscript)
+
 
         # Calculate total time and total chars 
         totalTime = sum([end - start for _, start, end, _ in allWordsInVideo])
@@ -107,7 +127,7 @@ def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWin
             speed = len(originalWord) / (end - start)
             speedStdDev += (speed - averageSpeed) ** 2
         speedStdDev = (speedStdDev / len(allWordsInVideo)) ** 0.5
-        logger.info(f'Video {videoId.ljust(20)} - Avg. Speed: {averageSpeed:.3f} chars/s; Std: {speedStdDev:.3f} chars/s')
+        logger.info(f'Video {videoId:<18} - Avg: {averageSpeed:.3f} c/s; Std: {speedStdDev:.3f} c/s; Original words: {len(allWordsInVideo):05}; Total removed: {totalRemoved:05} ({int(float(totalRemoved) / len(allWordsInVideo) * 100.0):03}%)')
 
                 
 
@@ -165,7 +185,7 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
 
                     words[index] = (originalTimestampString, start, end, transformedWord)
 
-                srt.saveToFile(srtFilePath, words)
+                #SRTLoader.saveToFile(srtFilePath, words)
 
 def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
@@ -553,6 +573,7 @@ if __name__ == '__main__':
 
     parser = argparse.ArgumentParser(prog = 'Video Processing',description = 'video processing utility')
     parser.add_argument('command', type=str, choices=choices, help='The operation to execute')
+    parser.add_argument('-v', '--verbose', action='store_true', required=False, default=False, help='Verbose mode')
     parser.add_argument('-w', '--workers', type=int, required=False, default=1, help='Number of workers')
     parser.add_argument('--video-id', nargs='*', type=str, required=False, help='Video ID(s) to process')
     parser.add_argument('--source', nargs='+', type=int, required=False, help='Source faces to merge')
@@ -577,11 +598,16 @@ if __name__ == '__main__':
     parser.add_argument('--window-size', type=int, required=False, default=50, help='Window size for searching irregular transcripts')
     parser.add_argument('--warn-speed', type=float, required=False, default=100.0, help='The minimum speed in characters/seconds for the window to be considered irregular')
     parser.add_argument('--report-out-of-order', type=bool, required=False, default=False, help='Report out of order words in transcripts')
+    parser.add_argument('--fix', action='store_true', required=False, default=False, help='Fix irregular transcripts')
 
     args = parser.parse_args()
 
     if args.branch:
         fs.setBranchName(args.branch)
+
+    # Control global verbose mode
+    if args.verbose:
+        verbose = True
     
     # Make sure the branch exists
     fs.ensureBranchPathExists()
@@ -603,4 +629,4 @@ if __name__ == '__main__':
     elif args.command == COMMAND_CLEAN_TRANSCRIPT:
         handleCleanTranscript(args.video_id)
     elif args.command == COMMAND_IRREGULAR_TRANSCRIPT:
-        handleIrregularTranscript(args.video_id, args.warn_speed, args.window_size, args.report_out_of_order)
+        handleIrregularTranscript(args.video_id, args.warn_speed, args.window_size, args.report_out_of_order, args.fix)

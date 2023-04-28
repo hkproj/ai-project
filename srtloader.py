@@ -45,7 +45,7 @@ class SRTLoader:
     def getAllWords(self) -> list[tuple[float, float, str]]:
         return [(originalTimestampString, startTimestamp, endTimestamp, words) for originalTimestampString, startTimestamp, endTimestamp, words in self.entries]
     
-    def saveToFile(self, filePath: str, entries: list[tuple[float, float, str]]) -> None:
+    def saveToFile(filePath: str, entries: list[tuple[str, float, float, str]]) -> None:
         with open(filePath, 'w') as file:
             for i, (originalTimestampString, startTimestamp, endTimestamp, words) in enumerate(entries):
                 file.write(f'{i+1}\n')
