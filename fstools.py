@@ -16,6 +16,7 @@ VIDEO_FILE_EXTENSION = '.mp4'
 AUDIO_FILE_EXTENSION = '.aac'
 TRANSCRIPTION_FILE_EXTENSION = '.aac.word.srt'
 REGULARIZED_TRANSCRIPTION_FILE_EXTENSION = '.aac.regularized-word.srt'
+CLEANED_TRANSCRIPTION_FILE_EXTENSION = '.aac.cleaned-word.srt'
 
 class DatasetFSHelper:
 

@@ -61,6 +61,11 @@ def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWin
                     continue
                 srt = SRTLoader(srtFilePath)
                 words = srt.getAllWords()
+
+                if len(words) == 0:
+                    logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Ignoring clip because it has no words')
+                    continue
+
                 allWordsInVideo += words
 
                 # Save all the start/end indices to remove from the transcript
@@ -109,7 +114,7 @@ def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWin
                 if verbose:
                     logger.info(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Need to remove {len(indicesToRemove)} words out of {len(words)} from transcript. About {(float(len(indicesToRemove)) / len(words) * 100.0):.2f}%')
 
-                if fix and indicesToRemove:
+                if fix:
                     # Remove all the indices from the words list
                     regularizedTranscript = [word for index, word in enumerate(words) if index not in indicesToRemove]
                     regularizedFilePath = Path(clipsPath) / (clipFileNameWithoutExtension + fstools.REGULARIZED_TRANSCRIPTION_FILE_EXTENSION)
@@ -133,7 +138,8 @@ def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWin
 
 def handleCleanTranscript(videoIds: list[str]) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
-    logger.debug(f'Will clean transcripts from {len(videoIds)} videos')
+    if verbose:
+        logger.debug(f'Will clean transcripts from {len(videoIds)} videos')
 
     # Make sure the replacements file exists
     replacementsFilePath = Path(transcript_cleaning.REPLACEMENTS_FILE).absolute()
@@ -147,7 +153,7 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
             if item.is_file() and item.suffix == fstools.VIDEO_FILE_EXTENSION:
                 # Get the file name without extension
                 clipFileNameWithoutExtension = os.path.splitext(os.path.basename(item.name))[0]
-                clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.TRANSCRIPTION_FILE_EXTENSION
+                clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.REGULARIZED_TRANSCRIPTION_FILE_EXTENSION
                 srtFilePath = os.path.join(clipsPath, clipSubtitlesFileName)
                 if not Path.exists(Path(srtFilePath)):
                     logger.warning(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
@@ -181,11 +187,13 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
                         logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found invalid char at index {index + 1}: {transformedWord}')
 
                     if anyNumbersFound or anyCharRemoved:
-                        logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Cleaned line {index + 1}: {originalWord} -> {transformedWord}')
+                        if verbose:
+                            logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Cleaned line {index + 1}: {originalWord} -> {transformedWord}')
 
                     words[index] = (originalTimestampString, start, end, transformedWord)
 
-                #SRTLoader.saveToFile(srtFilePath, words)
+                cleanedFilePath = Path(clipsPath) / (clipFileNameWithoutExtension + fstools.CLEANED_TRANSCRIPTION_FILE_EXTENSION)
+                SRTLoader.saveToFile(cleanedFilePath, words)
 
 def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
