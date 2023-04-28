@@ -38,17 +38,17 @@ def _checkClipsVideoIds(videoIds: list[str]) -> list[str]:
     
     return videoIds
 
-def handleCleanTranscript(videoIds: list[str]) -> None:
+def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWindowSize: int, reportOutOfOrderWords: bool) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
-    
-    logger.debug(f'Will clean punctuations from {len(videoIds)} videos')
+    logger.debug(f'Will find for irregular transcripts from {len(videoIds)} videos using window size: {minWindowSize}, warn limit: {warnSpeedLimit} and reporting out of order words: {reportOutOfOrderWords}')
 
     for videoId in videoIds:
-        # Get all the mp4 files in the video's clips folder
+        # Get all the video files in the video's clips folder
+        allWordsInVideo = []
+
         clipsPath = fs.getClipsPath(videoId)
-        clips = []
         for item in Path(clipsPath).iterdir():
-            if item.is_file() and item.suffix == '.mp4':
+            if item.is_file() and item.suffix == fstools.VIDEO_FILE_EXTENSION:
                 # Get the file name without extension
                 clipFileNameWithoutExtension = os.path.splitext(os.path.basename(item.name))[0]
                 clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.TRANSCRIPTION_FILE_EXTENSION
@@ -56,49 +56,119 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
                 if not Path.exists(Path(srtFilePath)):
                     logger.warning(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
                     continue
-                # Load the SRT file and verify that there is at least the minimum number of words
                 srt = SRTLoader(srtFilePath)
-                allWords = srt.getAllWords()
+                words = srt.getAllWords()
+                allWordsInVideo += words
 
-                # Check if there are lines with multiple words
-                for index, (originalTimestampString, start, end, originalWord) in enumerate(allWords):
+                # Run a sliding window over the words of a size of WINDOW_MIN_CHARS
+                for startIndex in range(len(words)):
 
-                    # Perform any replacements as defined in the file
-                    replacementsFilePath = Path(transcript_cleaning.REPLACEMENTS_FILE).absolute()
-                    if not Path.exists(replacementsFilePath):
-                        raise Exception("Replacements file not found")
+                    if reportOutOfOrderWords:
+                        if startIndex > 0:
+                            # Check if the start of the next word is before the start of the previous word
+                            _, currentStart, currentEnd, _ = words[startIndex]
+                            _, previousStart, previousEnd, _ = words[startIndex-1]
+
+                            if currentStart < previousStart:
+                                logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found irregular line from index {(startIndex)} to index {startIndex+1}: {currentStart} < {previousStart}')
+
+                    window = []
+                    windowSize = 0
+                    for endIndex in range(startIndex, len(words)):
+                        originalTimestampString, start, end, originalWord = words[endIndex]
+                        window.append((endIndex+1, originalTimestampString, start, end, originalWord))
+                        windowSize += len(originalWord)
+                        if windowSize >= minWindowSize or endIndex == len(words) - 1:
+                            # Last window may be empty
+                            if not window:
+                                return
+
+                            # Get the first and last timestamp
+                            firstTimestamp = window[0][2]
+                            lastTimestamp = window[-1][3]
+                            # Calculate the average speed
+                            averageSpeed = float(windowSize) / (lastTimestamp - firstTimestamp)
+
+                            firstIndex = window[0][0]
+                            lastIndex = window[-1][0]
+
+                            # Window size should be at least half of the limit
+                            if averageSpeed > warnSpeedLimit and windowSize > 0.5 * minWindowSize:
+                                logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found fast window from index {firstIndex} to index {lastIndex}: {averageSpeed} chars/s with window size: {windowSize}')
+
+        # Calculate total time and total chars 
+        totalTime = sum([end - start for _, start, end, _ in allWordsInVideo])
+        totalChars = sum([len(originalWord) for _, _, _, originalWord in allWordsInVideo])
+        # Print stats about this video
+        averageSpeed = totalChars / totalTime
+        # Calculate the standard deviation of the speed
+        speedStdDev = 0
+        for index, (originalTimestampString, start, end, originalWord) in enumerate(allWordsInVideo):
+            speed = len(originalWord) / (end - start)
+            speedStdDev += (speed - averageSpeed) ** 2
+        speedStdDev = (speedStdDev / len(allWordsInVideo)) ** 0.5
+        logger.info(f'Video {videoId.ljust(20)} - Avg. Speed: {averageSpeed:.3f} chars/s; Std: {speedStdDev:.3f} chars/s')
+
                 
-                    anyReplacements, transformedWord0 = transcript_cleaning.performReplacementsFromFile(str(replacementsFilePath), originalWord)
+
+def handleCleanTranscript(videoIds: list[str]) -> None:
+    videoIds = _checkClipsVideoIds(videoIds)
+    logger.debug(f'Will clean transcripts from {len(videoIds)} videos')
+
+    # Make sure the replacements file exists
+    replacementsFilePath = Path(transcript_cleaning.REPLACEMENTS_FILE).absolute()
+    if not Path.exists(replacementsFilePath):
+        raise Exception("Replacements file not found")
+
+    for videoId in videoIds:
+        # Get all the video files in the video's clips folder
+        clipsPath = fs.getClipsPath(videoId)
+        for item in Path(clipsPath).iterdir():
+            if item.is_file() and item.suffix == fstools.VIDEO_FILE_EXTENSION:
+                # Get the file name without extension
+                clipFileNameWithoutExtension = os.path.splitext(os.path.basename(item.name))[0]
+                clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.TRANSCRIPTION_FILE_EXTENSION
+                srtFilePath = os.path.join(clipsPath, clipSubtitlesFileName)
+                if not Path.exists(Path(srtFilePath)):
+                    logger.warning(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
+                    continue
+                srt = SRTLoader(srtFilePath)
+                words = srt.getAllWords()
+
+                for index, (originalTimestampString, start, end, originalWord) in enumerate(words):
+
+                    # Perform any replacements as defined in the file                
+                    anyReplacements, transformedWord = transcript_cleaning.performReplacementsFromFile(str(replacementsFilePath), originalWord)
 
                     # Find any floating point number
-                    if transcript_cleaning.detectFloatingPointNumbers(transformedWord0):
+                    if transcript_cleaning.detectFloatingPointNumbers(transformedWord):
                         # Show a warning
                         logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found floating point number at index {index + 1}: {originalWord}')
                         # Do not process this line
                         continue
 
                     # Find any numbers and convert it
-                    anyNumbersFound, transformedWord1 = transcript_cleaning.convertAllNumbersToWords(originalWord)
+                    anyNumbersFound, transformedWord = transcript_cleaning.convertAllNumbersToWords(transformedWord)
 
-                    anyCharRemoved, transformedWord2 = transcript_cleaning.removeUselessChars(transformedWord1)
+                    # Remove useless chars
+                    anyCharRemoved, transformedWord = transcript_cleaning.removeUselessChars(transformedWord)
 
                     #  Transform the case
-                    transformedWord3 = transcript_cleaning.transformCase(transformedWord2)
+                    transformedWord = transcript_cleaning.transformCase(transformedWord)
 
                     # Check if there are still some invalid chars
-                    if transcript_cleaning.detectInvalidChars(transformedWord3):
-                        logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found invalid char at index {index + 1}: {transformedWord3}')
+                    if transcript_cleaning.detectInvalidChars(transformedWord):
+                        logger.warning(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Found invalid char at index {index + 1}: {transformedWord}')
 
                     if anyNumbersFound or anyCharRemoved:
-                        logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Cleaned line {index + 1}: {originalWord} -> {transformedWord3}')
+                        logger.debug(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Cleaned line {index + 1}: {originalWord} -> {transformedWord}')
 
-                    allWords[index] = (originalTimestampString, start, end, transformedWord3)
+                    words[index] = (originalTimestampString, start, end, transformedWord)
 
-                srt.saveToFile(srtFilePath, allWords)
+                srt.saveToFile(srtFilePath, words)
 
 def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
-    
     logger.debug(f'Will extract mini clips from {len(videoIds)} videos')
 
     for videoId in videoIds:
@@ -477,8 +547,9 @@ if __name__ == '__main__':
     COMMAND_TRANSCRIBE_AUDIO = "transcribe-audio"
     COMMAND_CREATE_MINICLIPS = "create-miniclips"
     COMMAND_CLEAN_TRANSCRIPT = "clean-transcript"
+    COMMAND_IRREGULAR_TRANSCRIPT = "irregular-transcript"
 
-    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO, COMMAND_CREATE_MINICLIPS, COMMAND_CLEAN_TRANSCRIPT]
+    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO, COMMAND_CREATE_MINICLIPS, COMMAND_CLEAN_TRANSCRIPT, COMMAND_IRREGULAR_TRANSCRIPT]
 
     parser = argparse.ArgumentParser(prog = 'Video Processing',description = 'video processing utility')
     parser.add_argument('command', type=str, choices=choices, help='The operation to execute')
@@ -501,6 +572,11 @@ if __name__ == '__main__':
     parser.add_argument('--min-face-height', type=int, required=False, default=0, help='Minimum face height')
     # For mini clip creation
     parser.add_argument('--words', type=int, required=False, default=5, help='Number of words for each clip')
+    
+    # For irregular transcripts
+    parser.add_argument('--window-size', type=int, required=False, default=50, help='Window size for searching irregular transcripts')
+    parser.add_argument('--warn-speed', type=float, required=False, default=100.0, help='The minimum speed in characters/seconds for the window to be considered irregular')
+    parser.add_argument('--report-out-of-order', type=bool, required=False, default=False, help='Report out of order words in transcripts')
 
     args = parser.parse_args()
 
@@ -526,3 +602,5 @@ if __name__ == '__main__':
         handleExtractMiniClips(args.video_id, args.words)
     elif args.command == COMMAND_CLEAN_TRANSCRIPT:
         handleCleanTranscript(args.video_id)
+    elif args.command == COMMAND_IRREGULAR_TRANSCRIPT:
+        handleIrregularTranscript(args.video_id, args.warn_speed, args.window_size, args.report_out_of_order)

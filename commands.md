@@ -39,3 +39,9 @@ python data_processing.py transcribe-audio --video-id VIDEOID
 ```
 python data_processing.py create-miniclips --video-id VIDEOID
 ```
+
+# Irregular transcripts
+
+```
+python data_processing.py irregular-transcript
+```
