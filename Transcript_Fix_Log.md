@@ -22,6 +22,7 @@
 2023-04-28 15:34:11,109 - data_processing - INFO - Video 0Hsq909zQYE        - Avg: 20.206 c/s; Std: 15.278 c/s; Original words: 01455; Total removed: 00231 (015%)
 2023-04-28 15:34:11,196 - data_processing - INFO - Video HpAZRXr3Avw        - Avg: 19.149 c/s; Std: 13.642 c/s; Original words: 00806; Total removed: 00110 (013%)
 2023-04-28 15:34:11,319 - data_processing - INFO - Video 2rAFcXYPmeQ        - Avg: 21.035 c/s; Std: 16.088 c/s; Original words: 01508; Total removed: 00344 (022%)
+2023-04-28 16:43:27,948 - data_processing - INFO - Video Jb_VMX-XrI8        - Avg: 22.761 c/s; Std: 16.927 c/s; Original words: 00883; Total removed: 00341 (038%)
 ```
 
 ## Transcript cleaning
@@ -35,7 +36,7 @@ caz*****e --> cazzate
 
 2023-04-28 15:36:50,384 - data_processing - WARNING - Video HfyGwiepb1s - Clip 0_25 - Found floating point number at index 33: ADC 3.0.
 
-ADC 3.0. --> ADC tre punto zero
+ADC 3.0. --> adc tre punto zero
 
 2023-04-28 15:36:50,449 - data_processing - WARNING - Video OznYAHlGFwQ - Clip 0_48 - Found invalid char at index 21: q&a
 
