@@ -1,0 +1,150 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.14,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}JP{\r} Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:0.48,0:00:0.52,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:0.52,0:00:1.06,Default,,0,0,0,,JP {\1c&HFF00&\u1}Morgan{\r} segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:1.06,0:00:1.22,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:1.22,0:00:1.81,Default,,0,0,0,,JP Morgan {\1c&HFF00&\u1}segnalava{\r} che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:1.81,0:00:1.89,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:1.89,0:00:2.01,Default,,0,0,0,,JP Morgan segnalava {\1c&HFF00&\u1}che{\r} la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:2.01,0:00:2.13,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:2.13,0:00:2.19,Default,,0,0,0,,JP Morgan segnalava che {\1c&HFF00&\u1}la{\r} metà delle attività che vengono fatte,
+Dialogue: 0,0:00:2.19,0:00:2.29,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:2.29,0:00:2.69,Default,,0,0,0,,JP Morgan segnalava che la {\1c&HFF00&\u1}metà{\r} delle attività che vengono fatte,
+Dialogue: 0,0:00:2.69,0:00:2.77,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:2.77,0:00:2.93,Default,,0,0,0,,JP Morgan segnalava che la metà {\1c&HFF00&\u1}delle{\r} attività che vengono fatte,
+Dialogue: 0,0:00:2.93,0:00:2.95,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:2.95,0:00:3.43,Default,,0,0,0,,JP Morgan segnalava che la metà delle {\1c&HFF00&\u1}attività{\r} che vengono fatte,
+Dialogue: 0,0:00:3.43,0:00:3.51,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:3.51,0:00:3.59,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività {\1c&HFF00&\u1}che{\r} vengono fatte,
+Dialogue: 0,0:00:3.59,0:00:3.63,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:3.63,0:00:3.91,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che {\1c&HFF00&\u1}vengono{\r} fatte,
+Dialogue: 0,0:00:3.91,0:00:3.99,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono fatte,
+Dialogue: 0,0:00:3.99,0:00:4.31,Default,,0,0,0,,JP Morgan segnalava che la metà delle attività che vengono {\1c&HFF00&\u1}fatte,{\r}
+Dialogue: 0,0:00:4.44,0:00:4.62,Default,,0,0,0,,{\1c&HFF00&\u1}quando{\r} viene fatta una quotazione in borsa,
+Dialogue: 0,0:00:4.62,0:00:4.66,Default,,0,0,0,,quando viene fatta una quotazione in borsa,
+Dialogue: 0,0:00:4.66,0:00:4.82,Default,,0,0,0,,quando {\1c&HFF00&\u1}viene{\r} fatta una quotazione in borsa,
+Dialogue: 0,0:00:4.82,0:00:4.88,Default,,0,0,0,,quando viene fatta una quotazione in borsa,
+Dialogue: 0,0:00:4.88,0:00:5.07,Default,,0,0,0,,quando viene {\1c&HFF00&\u1}fatta{\r} una quotazione in borsa,
+Dialogue: 0,0:00:5.07,0:00:5.11,Default,,0,0,0,,quando viene fatta una quotazione in borsa,
+Dialogue: 0,0:00:5.11,0:00:5.17,Default,,0,0,0,,quando viene fatta {\1c&HFF00&\u1}una{\r} quotazione in borsa,
+Dialogue: 0,0:00:5.17,0:00:5.23,Default,,0,0,0,,quando viene fatta una quotazione in borsa,
+Dialogue: 0,0:00:5.23,0:00:5.59,Default,,0,0,0,,quando viene fatta una {\1c&HFF00&\u1}quotazione{\r} in borsa,
+Dialogue: 0,0:00:5.59,0:00:5.63,Default,,0,0,0,,quando viene fatta una quotazione in borsa,
+Dialogue: 0,0:00:5.63,0:00:5.71,Default,,0,0,0,,quando viene fatta una quotazione {\1c&HFF00&\u1}in{\r} borsa,
+Dialogue: 0,0:00:5.71,0:00:5.75,Default,,0,0,0,,quando viene fatta una quotazione in borsa,
+Dialogue: 0,0:00:5.75,0:00:6.11,Default,,0,0,0,,quando viene fatta una quotazione in {\1c&HFF00&\u1}borsa,{\r}
+Dialogue: 0,0:00:6.60,0:00:6.68,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} interamente automatizzabili.
+Dialogue: 0,0:00:6.68,0:00:6.70,Default,,0,0,0,,sono interamente automatizzabili.
+Dialogue: 0,0:00:6.70,0:00:7.17,Default,,0,0,0,,sono {\1c&HFF00&\u1}interamente{\r} automatizzabili.
+Dialogue: 0,0:00:7.17,0:00:7.21,Default,,0,0,0,,sono interamente automatizzabili.
+Dialogue: 0,0:00:7.21,0:00:8.03,Default,,0,0,0,,sono interamente {\1c&HFF00&\u1}automatizzabili.{\r}
+Dialogue: 0,0:00:8.26,0:00:8.40,Default,,0,0,0,,{\1c&HFF00&\u1}Anche{\r} in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:8.40,0:00:8.42,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:8.42,0:00:8.48,Default,,0,0,0,,Anche {\1c&HFF00&\u1}in{\r} quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:8.48,0:00:8.50,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:8.50,0:00:8.64,Default,,0,0,0,,Anche in {\1c&HFF00&\u1}quel{\r} caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:8.64,0:00:8.70,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:8.70,0:00:8.96,Default,,0,0,0,,Anche in quel {\1c&HFF00&\u1}caso{\r} sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:8.96,0:00:9.04,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:9.04,0:00:9.53,Default,,0,0,0,,Anche in quel caso {\1c&HFF00&\u1}sostituisci{\r} gente che magari guadagnava
+Dialogue: 0,0:00:9.53,0:00:9.63,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:9.63,0:00:9.89,Default,,0,0,0,,Anche in quel caso sostituisci {\1c&HFF00&\u1}gente{\r} che magari guadagnava
+Dialogue: 0,0:00:9.89,0:00:9.93,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:9.93,0:00:10.01,Default,,0,0,0,,Anche in quel caso sostituisci gente {\1c&HFF00&\u1}che{\r} magari guadagnava
+Dialogue: 0,0:00:10.01,0:00:10.05,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:10.05,0:00:10.27,Default,,0,0,0,,Anche in quel caso sostituisci gente che {\1c&HFF00&\u1}magari{\r} guadagnava
+Dialogue: 0,0:00:10.27,0:00:10.29,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari guadagnava
+Dialogue: 0,0:00:10.29,0:00:10.75,Default,,0,0,0,,Anche in quel caso sostituisci gente che magari {\1c&HFF00&\u1}guadagnava{\r}
+Dialogue: 0,0:00:11.00,0:00:11.02,Default,,0,0,0,,{\1c&HFF00&\u1}3-400{\r} mila dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.02,0:00:11.04,Default,,0,0,0,,3-400 mila dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.04,0:00:11.12,Default,,0,0,0,,3-400 {\1c&HFF00&\u1}mila{\r} dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.12,0:00:11.14,Default,,0,0,0,,3-400 mila dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.14,0:00:11.28,Default,,0,0,0,,3-400 mila {\1c&HFF00&\u1}dollari{\r} all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.28,0:00:11.30,Default,,0,0,0,,3-400 mila dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.30,0:00:11.44,Default,,0,0,0,,3-400 mila dollari {\1c&HFF00&\u1}all'anno{\r} con degli algoritmi.
+Dialogue: 0,0:00:11.44,0:00:11.46,Default,,0,0,0,,3-400 mila dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.46,0:00:11.52,Default,,0,0,0,,3-400 mila dollari all'anno {\1c&HFF00&\u1}con{\r} degli algoritmi.
+Dialogue: 0,0:00:11.52,0:00:11.54,Default,,0,0,0,,3-400 mila dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.54,0:00:11.64,Default,,0,0,0,,3-400 mila dollari all'anno con {\1c&HFF00&\u1}degli{\r} algoritmi.
+Dialogue: 0,0:00:11.64,0:00:11.66,Default,,0,0,0,,3-400 mila dollari all'anno con degli algoritmi.
+Dialogue: 0,0:00:11.66,0:00:11.88,Default,,0,0,0,,3-400 mila dollari all'anno con degli {\1c&HFF00&\u1}algoritmi.{\r}
+Dialogue: 0,0:00:13.50,0:00:13.92,Default,,0,0,0,,{\1c&HFF00&\u1}Partirei{\r} dal presupposto che una marea di attività
+Dialogue: 0,0:00:13.92,0:00:13.96,Default,,0,0,0,,Partirei dal presupposto che una marea di attività
+Dialogue: 0,0:00:13.96,0:00:14.06,Default,,0,0,0,,Partirei {\1c&HFF00&\u1}dal{\r} presupposto che una marea di attività
+Dialogue: 0,0:00:14.06,0:00:14.10,Default,,0,0,0,,Partirei dal presupposto che una marea di attività
+Dialogue: 0,0:00:14.10,0:00:14.65,Default,,0,0,0,,Partirei dal {\1c&HFF00&\u1}presupposto{\r} che una marea di attività
+Dialogue: 0,0:00:14.65,0:00:14.71,Default,,0,0,0,,Partirei dal presupposto che una marea di attività
+Dialogue: 0,0:00:14.71,0:00:14.83,Default,,0,0,0,,Partirei dal presupposto {\1c&HFF00&\u1}che{\r} una marea di attività
+Dialogue: 0,0:00:14.83,0:00:14.89,Default,,0,0,0,,Partirei dal presupposto che una marea di attività
+Dialogue: 0,0:00:14.89,0:00:14.99,Default,,0,0,0,,Partirei dal presupposto che {\1c&HFF00&\u1}una{\r} marea di attività
+Dialogue: 0,0:00:14.99,0:00:15.15,Default,,0,0,0,,Partirei dal presupposto che una marea di attività
+Dialogue: 0,0:00:15.15,0:00:15.71,Default,,0,0,0,,Partirei dal presupposto che una {\1c&HFF00&\u1}marea{\r} di attività
+Dialogue: 0,0:00:15.71,0:00:15.75,Default,,0,0,0,,Partirei dal presupposto che una marea di attività
+Dialogue: 0,0:00:15.75,0:00:15.81,Default,,0,0,0,,Partirei dal presupposto che una marea {\1c&HFF00&\u1}di{\r} attività
+Dialogue: 0,0:00:15.81,0:00:15.85,Default,,0,0,0,,Partirei dal presupposto che una marea di attività
+Dialogue: 0,0:00:15.85,0:00:16.23,Default,,0,0,0,,Partirei dal presupposto che una marea di {\1c&HFF00&\u1}attività{\r}
+Dialogue: 0,0:00:16.00,0:00:16.34,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} automatizzabili. Noi siamo automatizzabili.
+Dialogue: 0,0:00:16.34,0:00:16.40,Default,,0,0,0,,sono automatizzabili. Noi siamo automatizzabili.
+Dialogue: 0,0:00:16.40,0:00:17.16,Default,,0,0,0,,sono {\1c&HFF00&\u1}automatizzabili.{\r} Noi siamo automatizzabili.
+Dialogue: 0,0:00:17.16,0:00:17.37,Default,,0,0,0,,sono automatizzabili. Noi siamo automatizzabili.
+Dialogue: 0,0:00:17.37,0:00:17.65,Default,,0,0,0,,sono automatizzabili. {\1c&HFF00&\u1}Noi{\r} siamo automatizzabili.
+Dialogue: 0,0:00:17.65,0:00:17.79,Default,,0,0,0,,sono automatizzabili. Noi siamo automatizzabili.
+Dialogue: 0,0:00:17.79,0:00:17.97,Default,,0,0,0,,sono automatizzabili. Noi {\1c&HFF00&\u1}siamo{\r} automatizzabili.
+Dialogue: 0,0:00:17.97,0:00:18.03,Default,,0,0,0,,sono automatizzabili. Noi siamo automatizzabili.
+Dialogue: 0,0:00:18.03,0:00:18.93,Default,,0,0,0,,sono automatizzabili. Noi siamo {\1c&HFF00&\u1}automatizzabili.{\r}
+Dialogue: 0,0:00:19.00,0:00:19.06,Default,,0,0,0,,{\1c&HFF00&\u1}Ho{\r} visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:19.06,0:00:19.08,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:19.08,0:00:19.24,Default,,0,0,0,,Ho {\1c&HFF00&\u1}visto{\r} questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:19.24,0:00:19.28,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:19.28,0:00:19.46,Default,,0,0,0,,Ho visto {\1c&HFF00&\u1}questa{\r} startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:19.46,0:00:19.52,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:19.52,0:00:20.08,Default,,0,0,0,,Ho visto questa {\1c&HFF00&\u1}startup{\r} in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:20.08,0:00:20.10,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:20.10,0:00:20.20,Default,,0,0,0,,Ho visto questa startup {\1c&HFF00&\u1}in{\r} Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:20.20,0:00:20.24,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:20.24,0:00:20.63,Default,,0,0,0,,Ho visto questa startup in {\1c&HFF00&\u1}Silicon{\r} Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:20.63,0:00:20.69,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:20.69,0:00:21.01,Default,,0,0,0,,Ho visto questa startup in Silicon {\1c&HFF00&\u1}Valley,{\r} mi sembra si chiami Double,
+Dialogue: 0,0:00:21.01,0:00:21.05,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:21.05,0:00:21.09,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, {\1c&HFF00&\u1}mi{\r} sembra si chiami Double,
+Dialogue: 0,0:00:21.09,0:00:21.13,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:21.13,0:00:21.29,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi {\1c&HFF00&\u1}sembra{\r} si chiami Double,
+Dialogue: 0,0:00:21.29,0:00:21.31,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:21.31,0:00:21.35,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra {\1c&HFF00&\u1}si{\r} chiami Double,
+Dialogue: 0,0:00:21.35,0:00:21.39,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:21.39,0:00:21.57,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si {\1c&HFF00&\u1}chiami{\r} Double,
+Dialogue: 0,0:00:21.57,0:00:21.67,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami Double,
+Dialogue: 0,0:00:21.67,0:00:22.09,Default,,0,0,0,,Ho visto questa startup in Silicon Valley, mi sembra si chiami {\1c&HFF00&\u1}Double,{\r}
+Dialogue: 0,0:00:22.22,0:00:22.32,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.32,0:00:22.34,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.34,0:00:22.44,Default,,0,0,0,,ma {\1c&HFF00&\u1}non{\r} quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.44,0:00:22.46,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.46,0:00:22.64,Default,,0,0,0,,ma non {\1c&HFF00&\u1}quella{\r} dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.64,0:00:22.68,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.68,0:00:22.85,Default,,0,0,0,,ma non quella {\1c&HFF00&\u1}dei{\r} robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.85,0:00:22.87,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:22.87,0:00:23.17,Default,,0,0,0,,ma non quella dei {\1c&HFF00&\u1}robot,{\r} un'altra, che in pratica crea un...
+Dialogue: 0,0:00:23.17,0:00:23.23,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:23.23,0:00:23.69,Default,,0,0,0,,ma non quella dei robot, {\1c&HFF00&\u1}un'altra,{\r} che in pratica crea un...
+Dialogue: 0,0:00:23.69,0:00:23.77,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:23.77,0:00:23.85,Default,,0,0,0,,ma non quella dei robot, un'altra, {\1c&HFF00&\u1}che{\r} in pratica crea un...
+Dialogue: 0,0:00:23.85,0:00:23.91,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:23.91,0:00:23.99,Default,,0,0,0,,ma non quella dei robot, un'altra, che {\1c&HFF00&\u1}in{\r} pratica crea un...
+Dialogue: 0,0:00:23.99,0:00:24.03,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:24.03,0:00:24.42,Default,,0,0,0,,ma non quella dei robot, un'altra, che in {\1c&HFF00&\u1}pratica{\r} crea un...
+Dialogue: 0,0:00:24.42,0:00:24.52,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:24.52,0:00:24.60,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica {\1c&HFF00&\u1}crea{\r} un...
+Dialogue: 0,0:00:24.60,0:00:24.64,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea un...
+Dialogue: 0,0:00:24.64,0:00:24.74,Default,,0,0,0,,ma non quella dei robot, un'altra, che in pratica crea {\1c&HFF00&\u1}un...{\r}

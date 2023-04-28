@@ -1,0 +1,157 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.80,Default,,0,0,0,,{\1c&HFF00&\u1}business{\r} digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:0.80,0:00:0.88,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:0.88,0:00:1.48,Default,,0,0,0,,business {\1c&HFF00&\u1}digitale,{\r} che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:1.48,0:00:1.57,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:1.57,0:00:1.63,Default,,0,0,0,,business digitale, {\1c&HFF00&\u1}che{\r} secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:1.63,0:00:1.67,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:1.67,0:00:1.95,Default,,0,0,0,,business digitale, che {\1c&HFF00&\u1}secondo{\r} me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:1.95,0:00:1.97,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:1.97,0:00:2.07,Default,,0,0,0,,business digitale, che secondo {\1c&HFF00&\u1}me{\r} conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:2.07,0:00:2.15,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:2.15,0:00:2.61,Default,,0,0,0,,business digitale, che secondo me {\1c&HFF00&\u1}conviene{\r} tenere un pochino d'occhio.
+Dialogue: 0,0:00:2.61,0:00:2.75,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:2.75,0:00:3.21,Default,,0,0,0,,business digitale, che secondo me conviene {\1c&HFF00&\u1}tenere{\r} un pochino d'occhio.
+Dialogue: 0,0:00:3.21,0:00:3.27,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:3.27,0:00:3.33,Default,,0,0,0,,business digitale, che secondo me conviene tenere {\1c&HFF00&\u1}un{\r} pochino d'occhio.
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:3.37,0:00:3.75,Default,,0,0,0,,business digitale, che secondo me conviene tenere un {\1c&HFF00&\u1}pochino{\r} d'occhio.
+Dialogue: 0,0:00:3.75,0:00:3.81,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino d'occhio.
+Dialogue: 0,0:00:3.81,0:00:4.31,Default,,0,0,0,,business digitale, che secondo me conviene tenere un pochino {\1c&HFF00&\u1}d'occhio.{\r}
+Dialogue: 0,0:00:4.46,0:00:4.50,Default,,0,0,0,,{\1c&HFF00&\u1}A{\r} prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:4.50,0:00:4.56,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:4.56,0:00:5.06,Default,,0,0,0,,A {\1c&HFF00&\u1}prescindere{\r} che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:5.06,0:00:5.12,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:5.12,0:00:5.22,Default,,0,0,0,,A prescindere {\1c&HFF00&\u1}che{\r} uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:5.22,0:00:5.33,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:5.33,0:00:5.51,Default,,0,0,0,,A prescindere che {\1c&HFF00&\u1}uno{\r} faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:5.51,0:00:5.57,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:5.57,0:00:5.75,Default,,0,0,0,,A prescindere che uno {\1c&HFF00&\u1}faccia{\r} l'università, non faccia l'università,
+Dialogue: 0,0:00:5.75,0:00:5.77,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:5.77,0:00:6.37,Default,,0,0,0,,A prescindere che uno faccia {\1c&HFF00&\u1}l'università,{\r} non faccia l'università,
+Dialogue: 0,0:00:6.37,0:00:6.53,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:6.53,0:00:6.61,Default,,0,0,0,,A prescindere che uno faccia l'università, {\1c&HFF00&\u1}non{\r} faccia l'università,
+Dialogue: 0,0:00:6.61,0:00:6.65,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:6.65,0:00:6.85,Default,,0,0,0,,A prescindere che uno faccia l'università, non {\1c&HFF00&\u1}faccia{\r} l'università,
+Dialogue: 0,0:00:6.85,0:00:6.87,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia l'università,
+Dialogue: 0,0:00:6.87,0:00:7.37,Default,,0,0,0,,A prescindere che uno faccia l'università, non faccia {\1c&HFF00&\u1}l'università,{\r}
+Dialogue: 0,0:00:7.64,0:00:7.70,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:7.70,0:00:7.78,Default,,0,0,0,,o a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:7.78,0:00:7.82,Default,,0,0,0,,o {\1c&HFF00&\u1}a{\r} prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:7.82,0:00:7.86,Default,,0,0,0,,o a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:7.86,0:00:8.24,Default,,0,0,0,,o a {\1c&HFF00&\u1}prescindere{\r} quale sia l'università che scegli.
+Dialogue: 0,0:00:8.24,0:00:8.31,Default,,0,0,0,,o a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:8.31,0:00:8.47,Default,,0,0,0,,o a prescindere {\1c&HFF00&\u1}quale{\r} sia l'università che scegli.
+Dialogue: 0,0:00:8.47,0:00:8.63,Default,,0,0,0,,o a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:8.63,0:00:8.73,Default,,0,0,0,,o a prescindere quale {\1c&HFF00&\u1}sia{\r} l'università che scegli.
+Dialogue: 0,0:00:8.73,0:00:8.75,Default,,0,0,0,,o a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:8.75,0:00:9.17,Default,,0,0,0,,o a prescindere quale sia {\1c&HFF00&\u1}l'università{\r} che scegli.
+Dialogue: 0,0:00:9.17,0:00:9.25,Default,,0,0,0,,o a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:9.25,0:00:9.33,Default,,0,0,0,,o a prescindere quale sia l'università {\1c&HFF00&\u1}che{\r} scegli.
+Dialogue: 0,0:00:9.33,0:00:9.35,Default,,0,0,0,,o a prescindere quale sia l'università che scegli.
+Dialogue: 0,0:00:9.35,0:00:9.65,Default,,0,0,0,,o a prescindere quale sia l'università che {\1c&HFF00&\u1}scegli.{\r}
+Dialogue: 0,0:00:10.00,0:00:10.34,Default,,0,0,0,,{\1c&HFF00&\u1}Qual{\r} è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.34,0:00:10.36,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.36,0:00:10.38,Default,,0,0,0,,Qual {\1c&HFF00&\u1}è{\r} il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.38,0:00:10.50,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.50,0:00:10.54,Default,,0,0,0,,Qual è {\1c&HFF00&\u1}il{\r} futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.54,0:00:10.56,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.56,0:00:10.76,Default,,0,0,0,,Qual è il {\1c&HFF00&\u1}futuro{\r} del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.76,0:00:10.78,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.78,0:00:10.90,Default,,0,0,0,,Qual è il futuro {\1c&HFF00&\u1}del{\r} lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.90,0:00:10.94,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:10.94,0:00:11.22,Default,,0,0,0,,Qual è il futuro del {\1c&HFF00&\u1}lavoro?{\r} Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.22,0:00:11.28,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.28,0:00:11.40,Default,,0,0,0,,Qual è il futuro del lavoro? {\1c&HFF00&\u1}Qual{\r} è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.40,0:00:11.44,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.44,0:00:11.51,Default,,0,0,0,,Qual è il futuro del lavoro? Qual {\1c&HFF00&\u1}è{\r} il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.51,0:00:11.65,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.65,0:00:11.71,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è {\1c&HFF00&\u1}il{\r} futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.71,0:00:11.79,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:11.79,0:00:12.19,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il {\1c&HFF00&\u1}futuro?{\r} Nessuno lo sa tanto.
+Dialogue: 0,0:00:12.19,0:00:12.35,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:12.35,0:00:12.93,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? {\1c&HFF00&\u1}Nessuno{\r} lo sa tanto.
+Dialogue: 0,0:00:12.93,0:00:12.97,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:12.97,0:00:13.11,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno {\1c&HFF00&\u1}lo{\r} sa tanto.
+Dialogue: 0,0:00:13.11,0:00:13.19,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:13.19,0:00:13.37,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo {\1c&HFF00&\u1}sa{\r} tanto.
+Dialogue: 0,0:00:13.37,0:00:13.45,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa tanto.
+Dialogue: 0,0:00:13.45,0:00:13.85,Default,,0,0,0,,Qual è il futuro del lavoro? Qual è il futuro? Nessuno lo sa {\1c&HFF00&\u1}tanto.{\r}
+Dialogue: 0,0:00:14.00,0:00:14.36,Default,,0,0,0,,{\1c&HFF00&\u1}Però{\r} a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:14.36,0:00:14.42,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:14.42,0:00:14.44,Default,,0,0,0,,Però {\1c&HFF00&\u1}a{\r} naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:14.44,0:00:14.52,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:14.52,0:00:14.96,Default,,0,0,0,,Però a {\1c&HFF00&\u1}naso{\r} ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:14.96,0:00:15.14,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:15.14,0:00:15.22,Default,,0,0,0,,Però a naso {\1c&HFF00&\u1}ci{\r} sono queste nuove cose che succedono,
+Dialogue: 0,0:00:15.22,0:00:15.33,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:15.33,0:00:15.47,Default,,0,0,0,,Però a naso ci {\1c&HFF00&\u1}sono{\r} queste nuove cose che succedono,
+Dialogue: 0,0:00:15.47,0:00:15.53,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:15.53,0:00:15.77,Default,,0,0,0,,Però a naso ci sono {\1c&HFF00&\u1}queste{\r} nuove cose che succedono,
+Dialogue: 0,0:00:15.77,0:00:15.89,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:15.89,0:00:16.17,Default,,0,0,0,,Però a naso ci sono queste {\1c&HFF00&\u1}nuove{\r} cose che succedono,
+Dialogue: 0,0:00:16.17,0:00:16.29,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:16.29,0:00:16.61,Default,,0,0,0,,Però a naso ci sono queste nuove {\1c&HFF00&\u1}cose{\r} che succedono,
+Dialogue: 0,0:00:16.61,0:00:16.65,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:16.65,0:00:16.75,Default,,0,0,0,,Però a naso ci sono queste nuove cose {\1c&HFF00&\u1}che{\r} succedono,
+Dialogue: 0,0:00:16.75,0:00:16.81,Default,,0,0,0,,Però a naso ci sono queste nuove cose che succedono,
+Dialogue: 0,0:00:16.81,0:00:17.39,Default,,0,0,0,,Però a naso ci sono queste nuove cose che {\1c&HFF00&\u1}succedono,{\r}
+Dialogue: 0,0:00:17.54,0:00:17.60,Default,,0,0,0,,{\1c&HFF00&\u1}io{\r} ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:17.60,0:00:17.62,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:17.62,0:00:17.68,Default,,0,0,0,,io {\1c&HFF00&\u1}ve{\r} le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:17.68,0:00:17.70,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:17.70,0:00:17.76,Default,,0,0,0,,io ve {\1c&HFF00&\u1}le{\r} butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:17.76,0:00:17.82,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:17.82,0:00:18.06,Default,,0,0,0,,io ve le {\1c&HFF00&\u1}butto{\r} lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:18.06,0:00:18.10,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:18.10,0:00:18.16,Default,,0,0,0,,io ve le butto {\1c&HFF00&\u1}lì.{\r} Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:18.16,0:00:18.29,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:18.29,0:00:18.41,Default,,0,0,0,,io ve le butto lì. {\1c&HFF00&\u1}Nei{\r} commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:18.41,0:00:18.49,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:18.49,0:00:18.99,Default,,0,0,0,,io ve le butto lì. Nei {\1c&HFF00&\u1}commenti{\r} ve ne butteranno lì altre,
+Dialogue: 0,0:00:18.99,0:00:19.13,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:19.13,0:00:19.19,Default,,0,0,0,,io ve le butto lì. Nei commenti {\1c&HFF00&\u1}ve{\r} ne butteranno lì altre,
+Dialogue: 0,0:00:19.19,0:00:19.23,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:19.23,0:00:19.29,Default,,0,0,0,,io ve le butto lì. Nei commenti ve {\1c&HFF00&\u1}ne{\r} butteranno lì altre,
+Dialogue: 0,0:00:19.29,0:00:19.35,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:19.35,0:00:19.81,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne {\1c&HFF00&\u1}butteranno{\r} lì altre,
+Dialogue: 0,0:00:19.81,0:00:19.87,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:19.87,0:00:19.95,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno {\1c&HFF00&\u1}lì{\r} altre,
+Dialogue: 0,0:00:19.95,0:00:20.01,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì altre,
+Dialogue: 0,0:00:20.01,0:00:20.39,Default,,0,0,0,,io ve le butto lì. Nei commenti ve ne butteranno lì {\1c&HFF00&\u1}altre,{\r}
+Dialogue: 0,0:00:20.40,0:00:20.44,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} poi uno prende, tira la mulettina
+Dialogue: 0,0:00:20.44,0:00:20.66,Default,,0,0,0,,e poi uno prende, tira la mulettina
+Dialogue: 0,0:00:20.66,0:00:20.79,Default,,0,0,0,,e {\1c&HFF00&\u1}poi{\r} uno prende, tira la mulettina
+Dialogue: 0,0:00:20.79,0:00:20.83,Default,,0,0,0,,e poi uno prende, tira la mulettina
+Dialogue: 0,0:00:20.83,0:00:20.95,Default,,0,0,0,,e poi {\1c&HFF00&\u1}uno{\r} prende, tira la mulettina
+Dialogue: 0,0:00:20.95,0:00:21.03,Default,,0,0,0,,e poi uno prende, tira la mulettina
+Dialogue: 0,0:00:21.03,0:00:21.33,Default,,0,0,0,,e poi uno {\1c&HFF00&\u1}prende,{\r} tira la mulettina
+Dialogue: 0,0:00:21.33,0:00:21.41,Default,,0,0,0,,e poi uno prende, tira la mulettina
+Dialogue: 0,0:00:21.41,0:00:21.55,Default,,0,0,0,,e poi uno prende, {\1c&HFF00&\u1}tira{\r} la mulettina
+Dialogue: 0,0:00:21.55,0:00:21.57,Default,,0,0,0,,e poi uno prende, tira la mulettina
+Dialogue: 0,0:00:21.57,0:00:21.65,Default,,0,0,0,,e poi uno prende, tira {\1c&HFF00&\u1}la{\r} mulettina
+Dialogue: 0,0:00:21.65,0:00:21.69,Default,,0,0,0,,e poi uno prende, tira la mulettina
+Dialogue: 0,0:00:21.69,0:00:22.19,Default,,0,0,0,,e poi uno prende, tira la {\1c&HFF00&\u1}mulettina{\r}
+Dialogue: 0,0:00:22.41,0:00:22.45,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} sceglie un po' da farsi.
+Dialogue: 0,0:00:22.45,0:00:22.51,Default,,0,0,0,,e sceglie un po' da farsi.
+Dialogue: 0,0:00:22.51,0:00:22.81,Default,,0,0,0,,e {\1c&HFF00&\u1}sceglie{\r} un po' da farsi.
+Dialogue: 0,0:00:22.81,0:00:22.87,Default,,0,0,0,,e sceglie un po' da farsi.
+Dialogue: 0,0:00:22.87,0:00:22.93,Default,,0,0,0,,e sceglie {\1c&HFF00&\u1}un{\r} po' da farsi.
+Dialogue: 0,0:00:22.93,0:00:22.95,Default,,0,0,0,,e sceglie un po' da farsi.
+Dialogue: 0,0:00:22.95,0:00:23.12,Default,,0,0,0,,e sceglie un {\1c&HFF00&\u1}po'{\r} da farsi.
+Dialogue: 0,0:00:23.12,0:00:23.14,Default,,0,0,0,,e sceglie un po' da farsi.
+Dialogue: 0,0:00:23.14,0:00:23.22,Default,,0,0,0,,e sceglie un po' {\1c&HFF00&\u1}da{\r} farsi.
+Dialogue: 0,0:00:23.22,0:00:23.28,Default,,0,0,0,,e sceglie un po' da farsi.
+Dialogue: 0,0:00:23.28,0:00:23.50,Default,,0,0,0,,e sceglie un po' da {\1c&HFF00&\u1}farsi.{\r}

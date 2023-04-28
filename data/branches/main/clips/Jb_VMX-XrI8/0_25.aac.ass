@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.08,Default,,0,0,0,,{\1c&HFF00&\u1}alla{\r} magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.08,0:00:0.10,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.10,0:00:0.20,Default,,0,0,0,,alla {\1c&HFF00&\u1}magia{\r} acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.20,0:00:0.22,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.22,0:00:0.32,Default,,0,0,0,,alla magia {\1c&HFF00&\u1}acera,{\r} avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.32,0:00:0.34,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.34,0:00:0.46,Default,,0,0,0,,alla magia acera, {\1c&HFF00&\u1}avremo{\r} bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.46,0:00:0.48,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.48,0:00:0.62,Default,,0,0,0,,alla magia acera, avremo {\1c&HFF00&\u1}bisogno{\r} di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.62,0:00:0.64,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.64,0:00:0.68,Default,,0,0,0,,alla magia acera, avremo bisogno {\1c&HFF00&\u1}di{\r} sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.68,0:00:0.70,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.70,0:00:0.84,Default,,0,0,0,,alla magia acera, avremo bisogno di {\1c&HFF00&\u1}sentire,{\r} sentire, tornare a sentire.
+Dialogue: 0,0:00:0.84,0:00:0.86,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:0.86,0:00:1.00,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, {\1c&HFF00&\u1}sentire,{\r} tornare a sentire.
+Dialogue: 0,0:00:1.00,0:00:1.02,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:1.02,0:00:1.16,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, {\1c&HFF00&\u1}tornare{\r} a sentire.
+Dialogue: 0,0:00:1.16,0:00:1.18,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:1.18,0:00:1.20,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare {\1c&HFF00&\u1}a{\r} sentire.
+Dialogue: 0,0:00:1.20,0:00:1.22,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a sentire.
+Dialogue: 0,0:00:1.22,0:00:1.46,Default,,0,0,0,,alla magia acera, avremo bisogno di sentire, sentire, tornare a {\1c&HFF00&\u1}sentire.{\r}
+Dialogue: 0,0:00:5.88,0:00:6.01,Default,,0,0,0,,{\1c&HFF00&\u1}Ecco,{\r} erano giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.01,0:00:6.03,Default,,0,0,0,,Ecco, erano giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.03,0:00:6.19,Default,,0,0,0,,Ecco, {\1c&HFF00&\u1}erano{\r} giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.19,0:00:6.21,Default,,0,0,0,,Ecco, erano giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.21,0:00:6.37,Default,,0,0,0,,Ecco, erano {\1c&HFF00&\u1}giusto{\r} alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.37,0:00:6.41,Default,,0,0,0,,Ecco, erano giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.41,0:00:6.65,Default,,0,0,0,,Ecco, erano giusto {\1c&HFF00&\u1}alcune{\r} idee, alcuni spunti
+Dialogue: 0,0:00:6.65,0:00:6.67,Default,,0,0,0,,Ecco, erano giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.67,0:00:6.89,Default,,0,0,0,,Ecco, erano giusto alcune {\1c&HFF00&\u1}idee,{\r} alcuni spunti
+Dialogue: 0,0:00:6.89,0:00:6.91,Default,,0,0,0,,Ecco, erano giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:6.91,0:00:7.15,Default,,0,0,0,,Ecco, erano giusto alcune idee, {\1c&HFF00&\u1}alcuni{\r} spunti
+Dialogue: 0,0:00:7.15,0:00:7.19,Default,,0,0,0,,Ecco, erano giusto alcune idee, alcuni spunti
+Dialogue: 0,0:00:7.19,0:00:7.55,Default,,0,0,0,,Ecco, erano giusto alcune idee, alcuni {\1c&HFF00&\u1}spunti{\r}
+Dialogue: 0,0:00:7.38,0:00:7.72,Default,,0,0,0,,{\1c&HFF00&\u1}su{\r} quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:7.72,0:00:7.76,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:7.76,0:00:7.92,Default,,0,0,0,,su {\1c&HFF00&\u1}quello{\r} che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:7.92,0:00:7.94,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:7.94,0:00:8.04,Default,,0,0,0,,su quello {\1c&HFF00&\u1}che{\r} può essere una direzione futura da prendere.
+Dialogue: 0,0:00:8.04,0:00:8.12,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:8.12,0:00:8.26,Default,,0,0,0,,su quello che {\1c&HFF00&\u1}può{\r} essere una direzione futura da prendere.
+Dialogue: 0,0:00:8.26,0:00:8.45,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:8.45,0:00:8.75,Default,,0,0,0,,su quello che può {\1c&HFF00&\u1}essere{\r} una direzione futura da prendere.
+Dialogue: 0,0:00:8.75,0:00:8.91,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:8.91,0:00:8.99,Default,,0,0,0,,su quello che può essere {\1c&HFF00&\u1}una{\r} direzione futura da prendere.
+Dialogue: 0,0:00:8.99,0:00:9.03,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:9.03,0:00:9.37,Default,,0,0,0,,su quello che può essere una {\1c&HFF00&\u1}direzione{\r} futura da prendere.
+Dialogue: 0,0:00:9.37,0:00:9.47,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:9.47,0:00:9.81,Default,,0,0,0,,su quello che può essere una direzione {\1c&HFF00&\u1}futura{\r} da prendere.
+Dialogue: 0,0:00:9.81,0:00:9.85,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:9.85,0:00:9.93,Default,,0,0,0,,su quello che può essere una direzione futura {\1c&HFF00&\u1}da{\r} prendere.
+Dialogue: 0,0:00:9.93,0:00:9.99,Default,,0,0,0,,su quello che può essere una direzione futura da prendere.
+Dialogue: 0,0:00:9.99,0:00:10.31,Default,,0,0,0,,su quello che può essere una direzione futura da {\1c&HFF00&\u1}prendere.{\r}
+Dialogue: 0,0:00:10.18,0:00:10.59,Default,,0,0,0,,{\1c&HFF00&\u1}alcune{\r} di queste cose
+Dialogue: 0,0:00:10.59,0:00:10.63,Default,,0,0,0,,alcune di queste cose
+Dialogue: 0,0:00:10.63,0:00:10.67,Default,,0,0,0,,alcune {\1c&HFF00&\u1}di{\r} queste cose
+Dialogue: 0,0:00:10.67,0:00:10.71,Default,,0,0,0,,alcune di queste cose
+Dialogue: 0,0:00:10.71,0:00:10.87,Default,,0,0,0,,alcune di {\1c&HFF00&\u1}queste{\r} cose
+Dialogue: 0,0:00:10.87,0:00:10.93,Default,,0,0,0,,alcune di queste cose
+Dialogue: 0,0:00:10.93,0:00:11.07,Default,,0,0,0,,alcune di queste {\1c&HFF00&\u1}cose{\r}

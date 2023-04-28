@@ -1,0 +1,75 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.34,0:00:0.46,Default,,0,0,0,,{\1c&HFF00&\u1}ad{\r} esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:0.46,0:00:0.50,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:0.50,0:00:0.92,Default,,0,0,0,,ad {\1c&HFF00&\u1}esempio,{\r} oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:0.92,0:00:1.10,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.10,0:00:1.16,Default,,0,0,0,,ad esempio, {\1c&HFF00&\u1}oh,{\r} ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.16,0:00:1.27,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.27,0:00:1.33,Default,,0,0,0,,ad esempio, oh, {\1c&HFF00&\u1}ma{\r} c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.33,0:00:1.39,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.39,0:00:1.45,Default,,0,0,0,,ad esempio, oh, ma {\1c&HFF00&\u1}c'è{\r} gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.45,0:00:1.47,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.47,0:00:1.61,Default,,0,0,0,,ad esempio, oh, ma c'è {\1c&HFF00&\u1}gente{\r} che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.61,0:00:1.65,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.65,0:00:1.73,Default,,0,0,0,,ad esempio, oh, ma c'è gente {\1c&HFF00&\u1}che{\r} guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.73,0:00:1.77,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:1.77,0:00:2.09,Default,,0,0,0,,ad esempio, oh, ma c'è gente che {\1c&HFF00&\u1}guadagna{\r} milioni di dollari all'anno
+Dialogue: 0,0:00:2.09,0:00:2.21,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:2.21,0:00:2.61,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna {\1c&HFF00&\u1}milioni{\r} di dollari all'anno
+Dialogue: 0,0:00:2.61,0:00:2.67,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:2.67,0:00:2.73,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni {\1c&HFF00&\u1}di{\r} dollari all'anno
+Dialogue: 0,0:00:2.73,0:00:2.79,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:2.79,0:00:3.07,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di {\1c&HFF00&\u1}dollari{\r} all'anno
+Dialogue: 0,0:00:3.07,0:00:3.11,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari all'anno
+Dialogue: 0,0:00:3.11,0:00:3.45,Default,,0,0,0,,ad esempio, oh, ma c'è gente che guadagna milioni di dollari {\1c&HFF00&\u1}all'anno{\r}
+Dialogue: 0,0:00:3.62,0:00:3.96,Default,,0,0,0,,{\1c&HFF00&\u1}giocando{\r} ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:3.96,0:00:3.98,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:3.98,0:00:4.08,Default,,0,0,0,,giocando {\1c&HFF00&\u1}ai{\r} videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:4.08,0:00:4.10,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:4.10,0:00:4.57,Default,,0,0,0,,giocando ai {\1c&HFF00&\u1}videogame.{\r} Anche lì è un'altra industria,
+Dialogue: 0,0:00:4.57,0:00:4.71,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:4.71,0:00:4.89,Default,,0,0,0,,giocando ai videogame. {\1c&HFF00&\u1}Anche{\r} lì è un'altra industria,
+Dialogue: 0,0:00:4.89,0:00:4.93,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:4.93,0:00:5.03,Default,,0,0,0,,giocando ai videogame. Anche {\1c&HFF00&\u1}lì{\r} è un'altra industria,
+Dialogue: 0,0:00:5.03,0:00:5.05,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:5.05,0:00:5.07,Default,,0,0,0,,giocando ai videogame. Anche lì {\1c&HFF00&\u1}è{\r} un'altra industria,
+Dialogue: 0,0:00:5.07,0:00:5.11,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:5.11,0:00:5.39,Default,,0,0,0,,giocando ai videogame. Anche lì è {\1c&HFF00&\u1}un'altra{\r} industria,
+Dialogue: 0,0:00:5.39,0:00:5.45,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra industria,
+Dialogue: 0,0:00:5.45,0:00:6.05,Default,,0,0,0,,giocando ai videogame. Anche lì è un'altra {\1c&HFF00&\u1}industria,{\r}
+Dialogue: 0,0:00:6.26,0:00:6.34,Default,,0,0,0,,{\1c&HFF00&\u1}le{\r} stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:6.34,0:00:6.38,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:6.38,0:00:6.58,Default,,0,0,0,,le {\1c&HFF00&\u1}stime{\r} sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:6.58,0:00:6.72,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:6.72,0:00:6.96,Default,,0,0,0,,le stime {\1c&HFF00&\u1}sono{\r} che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:6.96,0:00:7.08,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:7.08,0:00:7.16,Default,,0,0,0,,le stime sono {\1c&HFF00&\u1}che{\r} gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:7.16,0:00:7.20,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:7.20,0:00:7.26,Default,,0,0,0,,le stime sono che {\1c&HFF00&\u1}gli{\r} esports vanno a fare più fatturato
+Dialogue: 0,0:00:7.26,0:00:7.30,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:7.30,0:00:7.85,Default,,0,0,0,,le stime sono che gli {\1c&HFF00&\u1}esports{\r} vanno a fare più fatturato
+Dialogue: 0,0:00:7.85,0:00:7.93,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:7.93,0:00:8.29,Default,,0,0,0,,le stime sono che gli esports {\1c&HFF00&\u1}vanno{\r} a fare più fatturato
+Dialogue: 0,0:00:8.29,0:00:8.35,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:8.35,0:00:8.37,Default,,0,0,0,,le stime sono che gli esports vanno {\1c&HFF00&\u1}a{\r} fare più fatturato
+Dialogue: 0,0:00:8.37,0:00:8.45,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:8.45,0:00:8.69,Default,,0,0,0,,le stime sono che gli esports vanno a {\1c&HFF00&\u1}fare{\r} più fatturato
+Dialogue: 0,0:00:8.69,0:00:8.77,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:8.77,0:00:8.87,Default,,0,0,0,,le stime sono che gli esports vanno a fare {\1c&HFF00&\u1}più{\r} fatturato
+Dialogue: 0,0:00:8.87,0:00:8.95,Default,,0,0,0,,le stime sono che gli esports vanno a fare più fatturato
+Dialogue: 0,0:00:8.95,0:00:9.47,Default,,0,0,0,,le stime sono che gli esports vanno a fare più {\1c&HFF00&\u1}fatturato{\r}
+Dialogue: 0,0:00:9.00,0:00:9.20,Default,,0,0,0,,{\1c&HFF00&\u1}atturato{\r} rispetto
+Dialogue: 0,0:00:9.20,0:00:9.26,Default,,0,0,0,,atturato rispetto
+Dialogue: 0,0:00:9.26,0:00:9.49,Default,,0,0,0,,atturato {\1c&HFF00&\u1}rispetto{\r}

@@ -1,0 +1,142 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.34,0:00:0.62,Default,,0,0,0,,{\1c&HFF00&\u1}questo{\r} mondo...
+Dialogue: 0,0:00:0.62,0:00:0.66,Default,,0,0,0,,questo mondo...
+Dialogue: 0,0:00:0.66,0:00:0.90,Default,,0,0,0,,questo {\1c&HFF00&\u1}mondo...{\r}
+Dialogue: 0,0:00:3.14,0:00:3.22,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:3.22,0:00:3.24,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:3.24,0:00:3.42,Default,,0,0,0,,C'è {\1c&HFF00&\u1}bisogno{\r} di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:3.42,0:00:3.46,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:3.46,0:00:3.52,Default,,0,0,0,,C'è bisogno {\1c&HFF00&\u1}di{\r} tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:3.52,0:00:3.60,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:3.60,0:00:4.05,Default,,0,0,0,,C'è bisogno di {\1c&HFF00&\u1}tecnici{\r} che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:4.05,0:00:4.11,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:4.11,0:00:4.21,Default,,0,0,0,,C'è bisogno di tecnici {\1c&HFF00&\u1}che{\r} sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:4.21,0:00:4.25,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:4.25,0:00:4.75,Default,,0,0,0,,C'è bisogno di tecnici che {\1c&HFF00&\u1}sviluppano,{\r} c'è bisogno di promuovere,
+Dialogue: 0,0:00:4.75,0:00:4.77,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:4.77,0:00:4.85,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, {\1c&HFF00&\u1}c'è{\r} bisogno di promuovere,
+Dialogue: 0,0:00:4.85,0:00:4.89,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:4.89,0:00:5.07,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è {\1c&HFF00&\u1}bisogno{\r} di promuovere,
+Dialogue: 0,0:00:5.07,0:00:5.11,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:5.11,0:00:5.17,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno {\1c&HFF00&\u1}di{\r} promuovere,
+Dialogue: 0,0:00:5.17,0:00:5.25,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di promuovere,
+Dialogue: 0,0:00:5.25,0:00:5.75,Default,,0,0,0,,C'è bisogno di tecnici che sviluppano, c'è bisogno di {\1c&HFF00&\u1}promuovere,{\r}
+Dialogue: 0,0:00:5.84,0:00:5.92,Default,,0,0,0,,{\1c&HFF00&\u1}c'è{\r} bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:5.92,0:00:5.96,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:5.96,0:00:6.16,Default,,0,0,0,,c'è {\1c&HFF00&\u1}bisogno{\r} di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.16,0:00:6.20,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.20,0:00:6.27,Default,,0,0,0,,c'è bisogno {\1c&HFF00&\u1}di{\r} vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.27,0:00:6.33,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.33,0:00:6.73,Default,,0,0,0,,c'è bisogno di {\1c&HFF00&\u1}vendere,{\r} c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.73,0:00:6.79,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.79,0:00:6.89,Default,,0,0,0,,c'è bisogno di vendere, {\1c&HFF00&\u1}c'è{\r} bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.89,0:00:6.93,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:6.93,0:00:7.09,Default,,0,0,0,,c'è bisogno di vendere, c'è {\1c&HFF00&\u1}bisogno{\r} di costruire un interecosistema.
+Dialogue: 0,0:00:7.09,0:00:7.11,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:7.11,0:00:7.15,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno {\1c&HFF00&\u1}di{\r} costruire un interecosistema.
+Dialogue: 0,0:00:7.15,0:00:7.21,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:7.21,0:00:7.67,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di {\1c&HFF00&\u1}costruire{\r} un interecosistema.
+Dialogue: 0,0:00:7.67,0:00:7.71,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:7.71,0:00:7.77,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire {\1c&HFF00&\u1}un{\r} interecosistema.
+Dialogue: 0,0:00:7.77,0:00:7.79,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un interecosistema.
+Dialogue: 0,0:00:7.79,0:00:8.73,Default,,0,0,0,,c'è bisogno di vendere, c'è bisogno di costruire un {\1c&HFF00&\u1}interecosistema.{\r}
+Dialogue: 0,0:00:8.88,0:00:9.12,Default,,0,0,0,,{\1c&HFF00&\u1}Ultimi{\r} due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:9.12,0:00:9.18,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:9.18,0:00:9.28,Default,,0,0,0,,Ultimi {\1c&HFF00&\u1}due{\r} trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:9.28,0:00:9.36,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:9.36,0:00:9.69,Default,,0,0,0,,Ultimi due {\1c&HFF00&\u1}trend.{\r} Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:9.69,0:00:9.79,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:9.79,0:00:10.39,Default,,0,0,0,,Ultimi due trend. {\1c&HFF00&\u1}Sicurezza.{\r} In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:10.39,0:00:10.57,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:10.57,0:00:10.65,Default,,0,0,0,,Ultimi due trend. Sicurezza. {\1c&HFF00&\u1}In{\r} tutto questo bel barilotto digitale
+Dialogue: 0,0:00:10.65,0:00:10.71,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:10.71,0:00:10.91,Default,,0,0,0,,Ultimi due trend. Sicurezza. In {\1c&HFF00&\u1}tutto{\r} questo bel barilotto digitale
+Dialogue: 0,0:00:10.91,0:00:10.97,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:10.97,0:00:11.19,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto {\1c&HFF00&\u1}questo{\r} bel barilotto digitale
+Dialogue: 0,0:00:11.19,0:00:11.27,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:11.27,0:00:11.43,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo {\1c&HFF00&\u1}bel{\r} barilotto digitale
+Dialogue: 0,0:00:11.43,0:00:11.47,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:11.47,0:00:11.95,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel {\1c&HFF00&\u1}barilotto{\r} digitale
+Dialogue: 0,0:00:11.95,0:00:12.01,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto digitale
+Dialogue: 0,0:00:12.01,0:00:12.52,Default,,0,0,0,,Ultimi due trend. Sicurezza. In tutto questo bel barilotto {\1c&HFF00&\u1}digitale{\r}
+Dialogue: 0,0:00:12.60,0:00:12.66,Default,,0,0,0,,{\1c&HFF00&\u1}ci{\r} saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:12.66,0:00:12.70,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:12.70,0:00:13.00,Default,,0,0,0,,ci {\1c&HFF00&\u1}saranno{\r} mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:13.00,0:00:13.12,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:13.12,0:00:13.37,Default,,0,0,0,,ci saranno {\1c&HFF00&\u1}mille{\r} casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:13.37,0:00:13.43,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:13.43,0:00:13.89,Default,,0,0,0,,ci saranno mille {\1c&HFF00&\u1}casini.{\r} Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:13.89,0:00:13.97,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:13.97,0:00:14.07,Default,,0,0,0,,ci saranno mille casini. {\1c&HFF00&\u1}Chi{\r} si mette nel mondo della sicurezza
+Dialogue: 0,0:00:14.07,0:00:14.15,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:14.15,0:00:14.23,Default,,0,0,0,,ci saranno mille casini. Chi {\1c&HFF00&\u1}si{\r} mette nel mondo della sicurezza
+Dialogue: 0,0:00:14.23,0:00:14.29,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:14.29,0:00:14.59,Default,,0,0,0,,ci saranno mille casini. Chi si {\1c&HFF00&\u1}mette{\r} nel mondo della sicurezza
+Dialogue: 0,0:00:14.59,0:00:14.63,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:14.63,0:00:14.73,Default,,0,0,0,,ci saranno mille casini. Chi si mette {\1c&HFF00&\u1}nel{\r} mondo della sicurezza
+Dialogue: 0,0:00:14.73,0:00:14.75,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:14.75,0:00:14.91,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel {\1c&HFF00&\u1}mondo{\r} della sicurezza
+Dialogue: 0,0:00:14.91,0:00:14.93,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:14.93,0:00:15.11,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo {\1c&HFF00&\u1}della{\r} sicurezza
+Dialogue: 0,0:00:15.11,0:00:15.15,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della sicurezza
+Dialogue: 0,0:00:15.15,0:00:15.65,Default,,0,0,0,,ci saranno mille casini. Chi si mette nel mondo della {\1c&HFF00&\u1}sicurezza{\r}
+Dialogue: 0,0:00:15.00,0:00:15.18,Default,,0,0,0,,{\1c&HFF00&\u1}senz'altro{\r} avrà del lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.18,0:00:15.20,Default,,0,0,0,,senz'altro avrà del lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.20,0:00:15.28,Default,,0,0,0,,senz'altro {\1c&HFF00&\u1}avrà{\r} del lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.28,0:00:15.30,Default,,0,0,0,,senz'altro avrà del lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.30,0:00:15.36,Default,,0,0,0,,senz'altro avrà {\1c&HFF00&\u1}del{\r} lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.36,0:00:15.38,Default,,0,0,0,,senz'altro avrà del lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.38,0:00:15.50,Default,,0,0,0,,senz'altro avrà del {\1c&HFF00&\u1}lavoro.{\r} Tanto lavoro.
+Dialogue: 0,0:00:15.50,0:00:15.52,Default,,0,0,0,,senz'altro avrà del lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.52,0:00:15.62,Default,,0,0,0,,senz'altro avrà del lavoro. {\1c&HFF00&\u1}Tanto{\r} lavoro.
+Dialogue: 0,0:00:15.62,0:00:15.64,Default,,0,0,0,,senz'altro avrà del lavoro. Tanto lavoro.
+Dialogue: 0,0:00:15.64,0:00:15.78,Default,,0,0,0,,senz'altro avrà del lavoro. Tanto {\1c&HFF00&\u1}lavoro.{\r}
+Dialogue: 0,0:00:18.52,0:00:19.00,Default,,0,0,0,,{\1c&HFF00&\u1}Collegato{\r} è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:19.00,0:00:19.14,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:19.14,0:00:19.16,Default,,0,0,0,,Collegato {\1c&HFF00&\u1}è{\r} l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:19.16,0:00:19.22,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:19.22,0:00:19.73,Default,,0,0,0,,Collegato è {\1c&HFF00&\u1}l'argomento{\r} del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:19.73,0:00:19.79,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:19.79,0:00:19.97,Default,,0,0,0,,Collegato è l'argomento {\1c&HFF00&\u1}del{\r} detox. Una volta che siamo tutti
+Dialogue: 0,0:00:19.97,0:00:20.01,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:20.01,0:00:20.53,Default,,0,0,0,,Collegato è l'argomento del {\1c&HFF00&\u1}detox.{\r} Una volta che siamo tutti
+Dialogue: 0,0:00:20.53,0:00:20.65,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:20.65,0:00:20.73,Default,,0,0,0,,Collegato è l'argomento del detox. {\1c&HFF00&\u1}Una{\r} volta che siamo tutti
+Dialogue: 0,0:00:20.73,0:00:20.75,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:20.75,0:00:20.93,Default,,0,0,0,,Collegato è l'argomento del detox. Una {\1c&HFF00&\u1}volta{\r} che siamo tutti
+Dialogue: 0,0:00:20.93,0:00:20.99,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:20.99,0:00:21.05,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta {\1c&HFF00&\u1}che{\r} siamo tutti
+Dialogue: 0,0:00:21.05,0:00:21.13,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:21.13,0:00:21.27,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che {\1c&HFF00&\u1}siamo{\r} tutti
+Dialogue: 0,0:00:21.27,0:00:21.29,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo tutti
+Dialogue: 0,0:00:21.29,0:00:21.41,Default,,0,0,0,,Collegato è l'argomento del detox. Una volta che siamo {\1c&HFF00&\u1}tutti{\r}
+Dialogue: 0,0:00:21.10,0:00:21.16,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} siamo tutti super super digitalizzati,
+Dialogue: 0,0:00:21.16,0:00:21.20,Default,,0,0,0,,che siamo tutti super super digitalizzati,
+Dialogue: 0,0:00:21.20,0:00:21.36,Default,,0,0,0,,che {\1c&HFF00&\u1}siamo{\r} tutti super super digitalizzati,
+Dialogue: 0,0:00:21.36,0:00:21.40,Default,,0,0,0,,che siamo tutti super super digitalizzati,
+Dialogue: 0,0:00:21.40,0:00:21.60,Default,,0,0,0,,che siamo {\1c&HFF00&\u1}tutti{\r} super super digitalizzati,
+Dialogue: 0,0:00:21.60,0:00:21.74,Default,,0,0,0,,che siamo tutti super super digitalizzati,
+Dialogue: 0,0:00:21.74,0:00:22.07,Default,,0,0,0,,che siamo tutti {\1c&HFF00&\u1}super{\r} super digitalizzati,
+Dialogue: 0,0:00:22.07,0:00:22.15,Default,,0,0,0,,che siamo tutti super super digitalizzati,
+Dialogue: 0,0:00:22.15,0:00:22.43,Default,,0,0,0,,che siamo tutti super {\1c&HFF00&\u1}super{\r} digitalizzati,
+Dialogue: 0,0:00:22.43,0:00:22.49,Default,,0,0,0,,che siamo tutti super super digitalizzati,
+Dialogue: 0,0:00:22.49,0:00:23.27,Default,,0,0,0,,che siamo tutti super super {\1c&HFF00&\u1}digitalizzati,{\r}
+Dialogue: 0,0:00:23.51,0:00:23.81,Default,,0,0,0,,{\1c&HFF00&\u1}avremo{\r} bisogno di staccare.
+Dialogue: 0,0:00:23.81,0:00:23.87,Default,,0,0,0,,avremo bisogno di staccare.
+Dialogue: 0,0:00:23.87,0:00:24.15,Default,,0,0,0,,avremo {\1c&HFF00&\u1}bisogno{\r} di staccare.
+Dialogue: 0,0:00:24.15,0:00:24.17,Default,,0,0,0,,avremo bisogno di staccare.
+Dialogue: 0,0:00:24.17,0:00:24.21,Default,,0,0,0,,avremo bisogno {\1c&HFF00&\u1}di{\r} staccare.
+Dialogue: 0,0:00:24.21,0:00:24.23,Default,,0,0,0,,avremo bisogno di staccare.
+Dialogue: 0,0:00:24.23,0:00:24.72,Default,,0,0,0,,avremo bisogno di {\1c&HFF00&\u1}staccare.{\r}

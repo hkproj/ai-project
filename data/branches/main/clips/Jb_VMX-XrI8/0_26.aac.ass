@@ -1,0 +1,84 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.02,0:00:0.14,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:0.14,0:00:0.18,Default,,0,0,0,,una miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:0.18,0:00:0.80,Default,,0,0,0,,una {\1c&HFF00&\u1}miseramente{\r} altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:0.80,0:00:1.02,Default,,0,0,0,,una miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:1.02,0:00:1.39,Default,,0,0,0,,una miseramente {\1c&HFF00&\u1}altra{\r} invece, una cosa che esploderanno
+Dialogue: 0,0:00:1.39,0:00:1.45,Default,,0,0,0,,una miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:1.45,0:00:1.87,Default,,0,0,0,,una miseramente altra {\1c&HFF00&\u1}invece,{\r} una cosa che esploderanno
+Dialogue: 0,0:00:1.87,0:00:2.03,Default,,0,0,0,,una miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:2.03,0:00:2.11,Default,,0,0,0,,una miseramente altra invece, {\1c&HFF00&\u1}una{\r} cosa che esploderanno
+Dialogue: 0,0:00:2.11,0:00:2.15,Default,,0,0,0,,una miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:2.15,0:00:2.33,Default,,0,0,0,,una miseramente altra invece, una {\1c&HFF00&\u1}cosa{\r} che esploderanno
+Dialogue: 0,0:00:2.33,0:00:2.35,Default,,0,0,0,,una miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:2.35,0:00:2.43,Default,,0,0,0,,una miseramente altra invece, una cosa {\1c&HFF00&\u1}che{\r} esploderanno
+Dialogue: 0,0:00:2.43,0:00:2.45,Default,,0,0,0,,una miseramente altra invece, una cosa che esploderanno
+Dialogue: 0,0:00:2.45,0:00:3.17,Default,,0,0,0,,una miseramente altra invece, una cosa che {\1c&HFF00&\u1}esploderanno{\r}
+Dialogue: 0,0:00:3.00,0:00:3.46,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:3.46,0:00:3.48,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:3.48,0:00:3.50,Default,,0,0,0,,e {\1c&HFF00&\u1}a{\r} quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:3.50,0:00:3.56,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:3.56,0:00:3.70,Default,,0,0,0,,e a {\1c&HFF00&\u1}quel{\r} punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:3.70,0:00:3.76,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:3.76,0:00:4.06,Default,,0,0,0,,e a quel {\1c&HFF00&\u1}punto{\r} sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:4.06,0:00:4.10,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:4.10,0:00:4.29,Default,,0,0,0,,e a quel punto {\1c&HFF00&\u1}sarà{\r} furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:4.29,0:00:4.39,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:4.39,0:00:4.71,Default,,0,0,0,,e a quel punto sarà {\1c&HFF00&\u1}furbo{\r} infilarsi in quella direzione.
+Dialogue: 0,0:00:4.71,0:00:4.81,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:4.81,0:00:5.35,Default,,0,0,0,,e a quel punto sarà furbo {\1c&HFF00&\u1}infilarsi{\r} in quella direzione.
+Dialogue: 0,0:00:5.35,0:00:5.37,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:5.37,0:00:5.43,Default,,0,0,0,,e a quel punto sarà furbo infilarsi {\1c&HFF00&\u1}in{\r} quella direzione.
+Dialogue: 0,0:00:5.43,0:00:5.45,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:5.45,0:00:5.63,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in {\1c&HFF00&\u1}quella{\r} direzione.
+Dialogue: 0,0:00:5.63,0:00:5.65,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella direzione.
+Dialogue: 0,0:00:5.65,0:00:6.09,Default,,0,0,0,,e a quel punto sarà furbo infilarsi in quella {\1c&HFF00&\u1}direzione.{\r}
+Dialogue: 0,0:00:6.40,0:00:6.50,Default,,0,0,0,,{\1c&HFF00&\u1}Ma{\r} prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:6.50,0:00:6.56,Default,,0,0,0,,Ma prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:6.56,0:00:6.84,Default,,0,0,0,,Ma {\1c&HFF00&\u1}prima,{\r} finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:6.84,0:00:6.96,Default,,0,0,0,,Ma prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:6.96,0:00:7.39,Default,,0,0,0,,Ma prima, {\1c&HFF00&\u1}finitevi{\r} il vostro esame di maturità,
+Dialogue: 0,0:00:7.39,0:00:7.43,Default,,0,0,0,,Ma prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:7.43,0:00:7.47,Default,,0,0,0,,Ma prima, finitevi {\1c&HFF00&\u1}il{\r} vostro esame di maturità,
+Dialogue: 0,0:00:7.47,0:00:7.51,Default,,0,0,0,,Ma prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:7.51,0:00:7.75,Default,,0,0,0,,Ma prima, finitevi il {\1c&HFF00&\u1}vostro{\r} esame di maturità,
+Dialogue: 0,0:00:7.75,0:00:7.79,Default,,0,0,0,,Ma prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:7.79,0:00:8.01,Default,,0,0,0,,Ma prima, finitevi il vostro {\1c&HFF00&\u1}esame{\r} di maturità,
+Dialogue: 0,0:00:8.01,0:00:8.03,Default,,0,0,0,,Ma prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:8.03,0:00:8.09,Default,,0,0,0,,Ma prima, finitevi il vostro esame {\1c&HFF00&\u1}di{\r} maturità,
+Dialogue: 0,0:00:8.09,0:00:8.11,Default,,0,0,0,,Ma prima, finitevi il vostro esame di maturità,
+Dialogue: 0,0:00:8.11,0:00:8.51,Default,,0,0,0,,Ma prima, finitevi il vostro esame di {\1c&HFF00&\u1}maturità,{\r}
+Dialogue: 0,0:00:8.73,0:00:9.09,Default,,0,0,0,,{\1c&HFF00&\u1}fatemi{\r} una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:9.09,0:00:9.11,Default,,0,0,0,,fatemi una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:9.11,0:00:9.19,Default,,0,0,0,,fatemi {\1c&HFF00&\u1}una{\r} bella dormita quando è finito tutto,
+Dialogue: 0,0:00:9.19,0:00:9.23,Default,,0,0,0,,fatemi una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:9.23,0:00:9.39,Default,,0,0,0,,fatemi una {\1c&HFF00&\u1}bella{\r} dormita quando è finito tutto,
+Dialogue: 0,0:00:9.39,0:00:9.43,Default,,0,0,0,,fatemi una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:9.43,0:00:9.85,Default,,0,0,0,,fatemi una bella {\1c&HFF00&\u1}dormita{\r} quando è finito tutto,
+Dialogue: 0,0:00:9.85,0:00:9.89,Default,,0,0,0,,fatemi una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:9.89,0:00:10.03,Default,,0,0,0,,fatemi una bella dormita {\1c&HFF00&\u1}quando{\r} è finito tutto,
+Dialogue: 0,0:00:10.03,0:00:10.07,Default,,0,0,0,,fatemi una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:10.07,0:00:10.10,Default,,0,0,0,,fatemi una bella dormita quando {\1c&HFF00&\u1}è{\r} finito tutto,
+Dialogue: 0,0:00:10.10,0:00:10.14,Default,,0,0,0,,fatemi una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:10.14,0:00:10.38,Default,,0,0,0,,fatemi una bella dormita quando è {\1c&HFF00&\u1}finito{\r} tutto,
+Dialogue: 0,0:00:10.38,0:00:10.48,Default,,0,0,0,,fatemi una bella dormita quando è finito tutto,
+Dialogue: 0,0:00:10.48,0:00:10.62,Default,,0,0,0,,fatemi una bella dormita quando è finito {\1c&HFF00&\u1}tutto,{\r}
+Dialogue: 0,0:00:10.16,0:00:10.41,Default,,0,0,0,,{\1c&HFF00&\u1}finito{\r} tutto, perché comunque...
+Dialogue: 0,0:00:10.41,0:00:10.49,Default,,0,0,0,,finito tutto, perché comunque...
+Dialogue: 0,0:00:10.49,0:00:10.63,Default,,0,0,0,,finito {\1c&HFF00&\u1}tutto,{\r} perché comunque...
+Dialogue: 0,0:00:10.63,0:00:10.67,Default,,0,0,0,,finito tutto, perché comunque...
+Dialogue: 0,0:00:10.67,0:00:10.82,Default,,0,0,0,,finito tutto, {\1c&HFF00&\u1}perché{\r} comunque...
+Dialogue: 0,0:00:10.82,0:00:10.84,Default,,0,0,0,,finito tutto, perché comunque...
+Dialogue: 0,0:00:10.84,0:00:11.04,Default,,0,0,0,,finito tutto, perché {\1c&HFF00&\u1}comunque...{\r}

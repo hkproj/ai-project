@@ -1,0 +1,89 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.18,Default,,0,0,0,,{\1c&HFF00&\u1}La{\r} puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.18,0:00:0.20,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.20,0:00:0.32,Default,,0,0,0,,La {\1c&HFF00&\u1}puoi{\r} affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.32,0:00:0.36,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.36,0:00:0.70,Default,,0,0,0,,La puoi {\1c&HFF00&\u1}affrontare{\r} dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.70,0:00:0.72,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,La puoi affrontare {\1c&HFF00&\u1}dal{\r} punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.82,0:00:0.94,Default,,0,0,0,,La puoi affrontare dal {\1c&HFF00&\u1}punto{\r} di vista medico, chirurgico,
+Dialogue: 0,0:00:0.94,0:00:0.98,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:0.98,0:00:1.04,Default,,0,0,0,,La puoi affrontare dal punto {\1c&HFF00&\u1}di{\r} vista medico, chirurgico,
+Dialogue: 0,0:00:1.04,0:00:1.08,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:1.08,0:00:1.29,Default,,0,0,0,,La puoi affrontare dal punto di {\1c&HFF00&\u1}vista{\r} medico, chirurgico,
+Dialogue: 0,0:00:1.29,0:00:1.41,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:1.41,0:00:1.95,Default,,0,0,0,,La puoi affrontare dal punto di vista {\1c&HFF00&\u1}medico,{\r} chirurgico,
+Dialogue: 0,0:00:1.95,0:00:1.97,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, chirurgico,
+Dialogue: 0,0:00:1.97,0:00:2.87,Default,,0,0,0,,La puoi affrontare dal punto di vista medico, {\1c&HFF00&\u1}chirurgico,{\r}
+Dialogue: 0,0:00:3.06,0:00:3.10,Default,,0,0,0,,{\1c&HFF00&\u1}la{\r} puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.10,0:00:3.12,Default,,0,0,0,,la puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.12,0:00:3.24,Default,,0,0,0,,la {\1c&HFF00&\u1}puoi{\r} affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.24,0:00:3.26,Default,,0,0,0,,la puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.26,0:00:3.56,Default,,0,0,0,,la puoi {\1c&HFF00&\u1}affrontare{\r} dal punto di vista psicologico,
+Dialogue: 0,0:00:3.56,0:00:3.60,Default,,0,0,0,,la puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.60,0:00:3.70,Default,,0,0,0,,la puoi affrontare {\1c&HFF00&\u1}dal{\r} punto di vista psicologico,
+Dialogue: 0,0:00:3.70,0:00:3.72,Default,,0,0,0,,la puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.72,0:00:3.86,Default,,0,0,0,,la puoi affrontare dal {\1c&HFF00&\u1}punto{\r} di vista psicologico,
+Dialogue: 0,0:00:3.86,0:00:3.88,Default,,0,0,0,,la puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.88,0:00:3.94,Default,,0,0,0,,la puoi affrontare dal punto {\1c&HFF00&\u1}di{\r} vista psicologico,
+Dialogue: 0,0:00:3.94,0:00:3.96,Default,,0,0,0,,la puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:3.96,0:00:4.11,Default,,0,0,0,,la puoi affrontare dal punto di {\1c&HFF00&\u1}vista{\r} psicologico,
+Dialogue: 0,0:00:4.11,0:00:4.15,Default,,0,0,0,,la puoi affrontare dal punto di vista psicologico,
+Dialogue: 0,0:00:4.15,0:00:4.87,Default,,0,0,0,,la puoi affrontare dal punto di vista {\1c&HFF00&\u1}psicologico,{\r}
+Dialogue: 0,0:00:5.00,0:00:5.06,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} quanto avremo bisogno di supporto,
+Dialogue: 0,0:00:5.06,0:00:5.08,Default,,0,0,0,,di quanto avremo bisogno di supporto,
+Dialogue: 0,0:00:5.08,0:00:5.20,Default,,0,0,0,,di {\1c&HFF00&\u1}quanto{\r} avremo bisogno di supporto,
+Dialogue: 0,0:00:5.20,0:00:5.24,Default,,0,0,0,,di quanto avremo bisogno di supporto,
+Dialogue: 0,0:00:5.24,0:00:5.46,Default,,0,0,0,,di quanto {\1c&HFF00&\u1}avremo{\r} bisogno di supporto,
+Dialogue: 0,0:00:5.46,0:00:5.50,Default,,0,0,0,,di quanto avremo bisogno di supporto,
+Dialogue: 0,0:00:5.50,0:00:5.68,Default,,0,0,0,,di quanto avremo {\1c&HFF00&\u1}bisogno{\r} di supporto,
+Dialogue: 0,0:00:5.68,0:00:5.70,Default,,0,0,0,,di quanto avremo bisogno di supporto,
+Dialogue: 0,0:00:5.70,0:00:5.77,Default,,0,0,0,,di quanto avremo bisogno {\1c&HFF00&\u1}di{\r} supporto,
+Dialogue: 0,0:00:5.77,0:00:5.93,Default,,0,0,0,,di quanto avremo bisogno di supporto,
+Dialogue: 0,0:00:5.93,0:00:6.47,Default,,0,0,0,,di quanto avremo bisogno di {\1c&HFF00&\u1}supporto,{\r}
+Dialogue: 0,0:00:6.00,0:00:6.04,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} quanto saremo pazzi e furiosi.
+Dialogue: 0,0:00:6.04,0:00:6.06,Default,,0,0,0,,di quanto saremo pazzi e furiosi.
+Dialogue: 0,0:00:6.06,0:00:6.18,Default,,0,0,0,,di {\1c&HFF00&\u1}quanto{\r} saremo pazzi e furiosi.
+Dialogue: 0,0:00:6.18,0:00:6.20,Default,,0,0,0,,di quanto saremo pazzi e furiosi.
+Dialogue: 0,0:00:6.20,0:00:6.32,Default,,0,0,0,,di quanto {\1c&HFF00&\u1}saremo{\r} pazzi e furiosi.
+Dialogue: 0,0:00:6.32,0:00:6.34,Default,,0,0,0,,di quanto saremo pazzi e furiosi.
+Dialogue: 0,0:00:6.34,0:00:6.44,Default,,0,0,0,,di quanto saremo {\1c&HFF00&\u1}pazzi{\r} e furiosi.
+Dialogue: 0,0:00:6.44,0:00:6.46,Default,,0,0,0,,di quanto saremo pazzi e furiosi.
+Dialogue: 0,0:00:6.46,0:00:6.48,Default,,0,0,0,,di quanto saremo pazzi {\1c&HFF00&\u1}e{\r} furiosi.
+Dialogue: 0,0:00:6.48,0:00:6.50,Default,,0,0,0,,di quanto saremo pazzi e furiosi.
+Dialogue: 0,0:00:6.50,0:00:6.64,Default,,0,0,0,,di quanto saremo pazzi e {\1c&HFF00&\u1}furiosi.{\r}
+Dialogue: 0,0:00:8.10,0:00:8.26,Default,,0,0,0,,{\1c&HFF00&\u1}Altra{\r} opportunità.
+Dialogue: 0,0:00:8.26,0:00:8.34,Default,,0,0,0,,Altra opportunità.
+Dialogue: 0,0:00:8.34,0:00:9.19,Default,,0,0,0,,Altra {\1c&HFF00&\u1}opportunità.{\r}
+Dialogue: 0,0:00:9.52,0:00:9.74,Default,,0,0,0,,{\1c&HFF00&\u1}Numero 3.{\r}
+Dialogue: 0,0:00:10.83,0:00:11.51,Default,,0,0,0,,{\1c&HFF00&\u1}Ogni{\r} volta che senti la parola
+Dialogue: 0,0:00:11.51,0:00:11.65,Default,,0,0,0,,Ogni volta che senti la parola
+Dialogue: 0,0:00:11.65,0:00:11.91,Default,,0,0,0,,Ogni {\1c&HFF00&\u1}volta{\r} che senti la parola
+Dialogue: 0,0:00:11.91,0:00:12.15,Default,,0,0,0,,Ogni volta che senti la parola
+Dialogue: 0,0:00:12.15,0:00:12.23,Default,,0,0,0,,Ogni volta {\1c&HFF00&\u1}che{\r} senti la parola
+Dialogue: 0,0:00:12.23,0:00:12.26,Default,,0,0,0,,Ogni volta che senti la parola
+Dialogue: 0,0:00:12.26,0:00:12.42,Default,,0,0,0,,Ogni volta che {\1c&HFF00&\u1}senti{\r} la parola
+Dialogue: 0,0:00:12.42,0:00:12.44,Default,,0,0,0,,Ogni volta che senti la parola
+Dialogue: 0,0:00:12.44,0:00:12.48,Default,,0,0,0,,Ogni volta che senti {\1c&HFF00&\u1}la{\r} parola
+Dialogue: 0,0:00:12.48,0:00:12.50,Default,,0,0,0,,Ogni volta che senti la parola
+Dialogue: 0,0:00:12.50,0:00:12.64,Default,,0,0,0,,Ogni volta che senti la {\1c&HFF00&\u1}parola{\r}
+Dialogue: 0,0:00:11.14,0:00:11.54,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} in Ethereum ICO
+Dialogue: 0,0:00:11.54,0:00:11.68,Default,,0,0,0,,C'è in Ethereum ICO
+Dialogue: 0,0:00:11.68,0:00:11.72,Default,,0,0,0,,C'è {\1c&HFF00&\u1}in{\r} Ethereum ICO
+Dialogue: 0,0:00:11.72,0:00:11.76,Default,,0,0,0,,C'è in Ethereum ICO
+Dialogue: 0,0:00:11.76,0:00:12.59,Default,,0,0,0,,C'è in {\1c&HFF00&\u1}Ethereum{\r} ICO
+Dialogue: 0,0:00:12.59,0:00:12.63,Default,,0,0,0,,C'è in Ethereum ICO
+Dialogue: 0,0:00:12.63,0:00:12.85,Default,,0,0,0,,C'è in Ethereum {\1c&HFF00&\u1}ICO{\r}

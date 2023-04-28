@@ -1,0 +1,56 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.02,0:00:0.16,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.18,0:00:0.22,Default,,0,0,0,,Non {\1c&HFF00&\u1}c'è{\r} un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.22,0:00:0.30,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.30,0:00:0.36,Default,,0,0,0,,Non c'è {\1c&HFF00&\u1}un{\r} cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.36,0:00:0.40,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.40,0:00:0.78,Default,,0,0,0,,Non c'è un {\1c&HFF00&\u1}cellulare{\r} neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.78,0:00:0.90,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:0.90,0:00:1.33,Default,,0,0,0,,Non c'è un cellulare {\1c&HFF00&\u1}neanche{\r} se lo paghi 2 miliardi.
+Dialogue: 0,0:00:1.33,0:00:1.37,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:1.37,0:00:1.45,Default,,0,0,0,,Non c'è un cellulare neanche {\1c&HFF00&\u1}se{\r} lo paghi 2 miliardi.
+Dialogue: 0,0:00:1.45,0:00:1.49,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:1.49,0:00:1.55,Default,,0,0,0,,Non c'è un cellulare neanche se {\1c&HFF00&\u1}lo{\r} paghi 2 miliardi.
+Dialogue: 0,0:00:1.55,0:00:1.63,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:1.63,0:00:1.83,Default,,0,0,0,,Non c'è un cellulare neanche se lo {\1c&HFF00&\u1}paghi 2{\r} miliardi.
+Dialogue: 0,0:00:1.83,0:00:2.07,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 miliardi.
+Dialogue: 0,0:00:2.07,0:00:2.59,Default,,0,0,0,,Non c'è un cellulare neanche se lo paghi 2 {\1c&HFF00&\u1}miliardi.{\r}
+Dialogue: 0,0:00:3.00,0:00:3.18,Default,,0,0,0,,{\1c&HFF00&\u1}Avremo{\r} bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:3.18,0:00:3.24,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:3.24,0:00:3.52,Default,,0,0,0,,Avremo {\1c&HFF00&\u1}bisogno{\r} di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:3.52,0:00:3.56,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:3.56,0:00:3.64,Default,,0,0,0,,Avremo bisogno {\1c&HFF00&\u1}di{\r} esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:3.64,0:00:3.84,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:3.84,0:00:4.71,Default,,0,0,0,,Avremo bisogno di {\1c&HFF00&\u1}esperienze{\r} vere, uniche, non digitali,
+Dialogue: 0,0:00:4.71,0:00:5.05,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:5.05,0:00:5.49,Default,,0,0,0,,Avremo bisogno di esperienze {\1c&HFF00&\u1}vere,{\r} uniche, non digitali,
+Dialogue: 0,0:00:5.49,0:00:5.61,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:5.61,0:00:6.01,Default,,0,0,0,,Avremo bisogno di esperienze vere, {\1c&HFF00&\u1}uniche,{\r} non digitali,
+Dialogue: 0,0:00:6.01,0:00:6.11,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:6.11,0:00:6.23,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, {\1c&HFF00&\u1}non{\r} digitali,
+Dialogue: 0,0:00:6.23,0:00:6.29,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non digitali,
+Dialogue: 0,0:00:6.29,0:00:6.99,Default,,0,0,0,,Avremo bisogno di esperienze vere, uniche, non {\1c&HFF00&\u1}digitali,{\r}
+Dialogue: 0,0:00:7.24,0:00:7.30,Default,,0,0,0,,{\1c&HFF00&\u1}da{\r} assaporare, di qualcosa di ciò.
+Dialogue: 0,0:00:7.30,0:00:7.38,Default,,0,0,0,,da assaporare, di qualcosa di ciò.
+Dialogue: 0,0:00:7.38,0:00:8.15,Default,,0,0,0,,da {\1c&HFF00&\u1}assaporare,{\r} di qualcosa di ciò.
+Dialogue: 0,0:00:8.15,0:00:8.19,Default,,0,0,0,,da assaporare, di qualcosa di ciò.
+Dialogue: 0,0:00:8.19,0:00:8.25,Default,,0,0,0,,da assaporare, {\1c&HFF00&\u1}di{\r} qualcosa di ciò.
+Dialogue: 0,0:00:8.25,0:00:8.29,Default,,0,0,0,,da assaporare, di qualcosa di ciò.
+Dialogue: 0,0:00:8.29,0:00:8.62,Default,,0,0,0,,da assaporare, di {\1c&HFF00&\u1}qualcosa{\r} di ciò.
+Dialogue: 0,0:00:8.62,0:00:8.64,Default,,0,0,0,,da assaporare, di qualcosa di ciò.
+Dialogue: 0,0:00:8.64,0:00:8.70,Default,,0,0,0,,da assaporare, di qualcosa {\1c&HFF00&\u1}di{\r} ciò.
+Dialogue: 0,0:00:8.70,0:00:8.72,Default,,0,0,0,,da assaporare, di qualcosa di ciò.
+Dialogue: 0,0:00:8.72,0:00:8.80,Default,,0,0,0,,da assaporare, di qualcosa di {\1c&HFF00&\u1}ciò.{\r}
