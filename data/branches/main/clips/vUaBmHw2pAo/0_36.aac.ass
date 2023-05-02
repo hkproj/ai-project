@@ -1,0 +1,36 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.50,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}o{\r} di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:0.54,0:00:0.58,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:0.58,0:00:0.64,Default,,0,0,0,,o {\1c&HFF00&\u1}di{\r} una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:0.64,0:00:0.66,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:0.66,0:00:0.78,Default,,0,0,0,,o di {\1c&HFF00&\u1}una{\r} data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:0.78,0:00:0.84,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:0.84,0:00:1.25,Default,,0,0,0,,o di una {\1c&HFF00&\u1}data,{\r} aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:1.25,0:00:1.49,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:1.49,0:00:1.77,Default,,0,0,0,,o di una data, {\1c&HFF00&\u1}aspetta,{\r} com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:1.77,0:00:1.79,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:1.79,0:00:1.97,Default,,0,0,0,,o di una data, aspetta, {\1c&HFF00&\u1}com'è{\r} che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:1.97,0:00:2.03,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:2.03,0:00:2.17,Default,,0,0,0,,o di una data, aspetta, com'è {\1c&HFF00&\u1}che{\r} è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:2.17,0:00:2.19,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:2.19,0:00:2.21,Default,,0,0,0,,o di una data, aspetta, com'è che {\1c&HFF00&\u1}è?{\r} Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:2.21,0:00:2.85,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:2.85,0:00:2.97,Default,,0,0,0,,o di una data, aspetta, com'è che è? {\1c&HFF00&\u1}Era{\r} nel 1231, era nel 1320.
+Dialogue: 0,0:00:2.97,0:00:3.01,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:3.01,0:00:3.09,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era {\1c&HFF00&\u1}nel 1231,{\r} era nel 1320.
+Dialogue: 0,0:00:3.09,0:00:3.15,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:3.15,0:00:3.27,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, {\1c&HFF00&\u1}era{\r} nel 1320.
+Dialogue: 0,0:00:3.27,0:00:3.31,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era nel 1320.
+Dialogue: 0,0:00:3.31,0:00:3.39,Default,,0,0,0,,o di una data, aspetta, com'è che è? Era nel 1231, era {\1c&HFF00&\u1}nel 1320.{\r}

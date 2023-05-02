@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.40,0:00:0.56,Default,,0,0,0,,{\1c&HFF00&\u1}Ancora{\r} lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:0.56,0:00:0.66,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:0.66,0:00:1.14,Default,,0,0,0,,Ancora {\1c&HFF00&\u1}lavoravo,{\r} quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:1.14,0:00:1.18,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:1.18,0:00:1.36,Default,,0,0,0,,Ancora lavoravo, {\1c&HFF00&\u1}quindi{\r} preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:1.36,0:00:2.15,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:2.15,0:00:2.51,Default,,0,0,0,,Ancora lavoravo, quindi {\1c&HFF00&\u1}preparavo{\r} i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:2.51,0:00:2.53,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:2.53,0:00:2.55,Default,,0,0,0,,Ancora lavoravo, quindi preparavo {\1c&HFF00&\u1}i{\r} monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:2.55,0:00:2.59,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:2.59,0:00:2.97,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i {\1c&HFF00&\u1}monologhi,{\r} strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:2.97,0:00:3.53,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:3.53,0:00:3.95,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, {\1c&HFF00&\u1}strappando{\r} il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:3.95,0:00:3.97,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:3.97,0:00:4.03,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando {\1c&HFF00&\u1}il{\r} tempo con le unghie, con i denti,
+Dialogue: 0,0:00:4.03,0:00:4.07,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:4.07,0:00:4.41,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il {\1c&HFF00&\u1}tempo{\r} con le unghie, con i denti,
+Dialogue: 0,0:00:4.41,0:00:5.07,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:5.07,0:00:5.17,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo {\1c&HFF00&\u1}con{\r} le unghie, con i denti,
+Dialogue: 0,0:00:5.17,0:00:5.21,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:5.21,0:00:5.27,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con {\1c&HFF00&\u1}le{\r} unghie, con i denti,
+Dialogue: 0,0:00:5.27,0:00:5.33,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:5.33,0:00:5.53,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le {\1c&HFF00&\u1}unghie,{\r} con i denti,
+Dialogue: 0,0:00:5.53,0:00:5.59,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:5.59,0:00:5.69,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, {\1c&HFF00&\u1}con{\r} i denti,
+Dialogue: 0,0:00:5.69,0:00:5.73,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:5.73,0:00:5.77,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con {\1c&HFF00&\u1}i{\r} denti,
+Dialogue: 0,0:00:5.77,0:00:5.81,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i denti,
+Dialogue: 0,0:00:5.81,0:00:6.17,Default,,0,0,0,,Ancora lavoravo, quindi preparavo i monologhi, strappando il tempo con le unghie, con i {\1c&HFF00&\u1}denti,{\r}
+Dialogue: 0,0:00:6.44,0:00:6.72,Default,,0,0,0,,{\1c&HFF00&\u1}negli{\r} tagli di tempo libero.
+Dialogue: 0,0:00:6.72,0:00:6.80,Default,,0,0,0,,negli tagli di tempo libero.
+Dialogue: 0,0:00:6.80,0:00:7.24,Default,,0,0,0,,negli {\1c&HFF00&\u1}tagli{\r} di tempo libero.
+Dialogue: 0,0:00:7.24,0:00:7.83,Default,,0,0,0,,negli tagli di tempo libero.
+Dialogue: 0,0:00:7.83,0:00:7.91,Default,,0,0,0,,negli tagli {\1c&HFF00&\u1}di{\r} tempo libero.
+Dialogue: 0,0:00:7.91,0:00:7.99,Default,,0,0,0,,negli tagli di tempo libero.
+Dialogue: 0,0:00:7.99,0:00:8.23,Default,,0,0,0,,negli tagli di {\1c&HFF00&\u1}tempo{\r} libero.
+Dialogue: 0,0:00:8.23,0:00:8.31,Default,,0,0,0,,negli tagli di tempo libero.
+Dialogue: 0,0:00:8.31,0:00:8.59,Default,,0,0,0,,negli tagli di tempo {\1c&HFF00&\u1}libero.{\r}

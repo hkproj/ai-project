@@ -1,0 +1,662 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.02,0:00:1.20,Default,,0,0,0,,{\1c&HFF00&\u1}Bene{\r} come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:1.20,0:00:1.24,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:1.24,0:00:1.42,Default,,0,0,0,,Bene {\1c&HFF00&\u1}come{\r} prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:1.42,0:00:1.48,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:1.48,0:00:1.70,Default,,0,0,0,,Bene come {\1c&HFF00&\u1}prima{\r} cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:1.70,0:00:1.77,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:1.77,0:00:2.03,Default,,0,0,0,,Bene come prima {\1c&HFF00&\u1}cosa{\r} sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:2.03,0:00:2.11,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:2.11,0:00:2.69,Default,,0,0,0,,Bene come prima cosa {\1c&HFF00&\u1}sicuramente{\r} se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:2.69,0:00:2.99,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:2.99,0:00:3.09,Default,,0,0,0,,Bene come prima cosa sicuramente {\1c&HFF00&\u1}se{\r} sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:3.09,0:00:3.15,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:3.15,0:00:3.45,Default,,0,0,0,,Bene come prima cosa sicuramente se {\1c&HFF00&\u1}sapete{\r} che soffrite di attacchi di panico
+Dialogue: 0,0:00:3.45,0:00:3.51,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:3.51,0:00:3.59,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete {\1c&HFF00&\u1}che{\r} soffrite di attacchi di panico
+Dialogue: 0,0:00:3.59,0:00:3.63,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:3.63,0:00:4.05,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che {\1c&HFF00&\u1}soffrite{\r} di attacchi di panico
+Dialogue: 0,0:00:4.05,0:00:4.11,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:4.11,0:00:4.21,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite {\1c&HFF00&\u1}di{\r} attacchi di panico
+Dialogue: 0,0:00:4.21,0:00:4.23,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:4.23,0:00:4.53,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di {\1c&HFF00&\u1}attacchi{\r} di panico
+Dialogue: 0,0:00:4.53,0:00:4.57,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:4.57,0:00:4.63,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi {\1c&HFF00&\u1}di{\r} panico
+Dialogue: 0,0:00:4.63,0:00:4.67,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di panico
+Dialogue: 0,0:00:4.67,0:00:4.95,Default,,0,0,0,,Bene come prima cosa sicuramente se sapete che soffrite di attacchi di {\1c&HFF00&\u1}panico{\r}
+Dialogue: 0,0:00:4.92,0:00:5.04,Default,,0,0,0,,{\1c&HFF00&\u1}dovete{\r} cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.04,0:00:5.06,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.06,0:00:5.20,Default,,0,0,0,,dovete {\1c&HFF00&\u1}cercare{\r} di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.20,0:00:5.22,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.22,0:00:5.26,Default,,0,0,0,,dovete cercare {\1c&HFF00&\u1}di{\r} portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.26,0:00:5.28,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.28,0:00:5.42,Default,,0,0,0,,dovete cercare di {\1c&HFF00&\u1}portare{\r} con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.42,0:00:5.44,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.44,0:00:5.50,Default,,0,0,0,,dovete cercare di portare {\1c&HFF00&\u1}con{\r} voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.50,0:00:5.52,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.52,0:00:5.58,Default,,0,0,0,,dovete cercare di portare con {\1c&HFF00&\u1}voi{\r} almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.58,0:00:5.60,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.60,0:00:5.72,Default,,0,0,0,,dovete cercare di portare con voi {\1c&HFF00&\u1}almeno{\r} una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.72,0:00:5.74,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.74,0:00:5.80,Default,,0,0,0,,dovete cercare di portare con voi almeno {\1c&HFF00&\u1}una{\r} bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.80,0:00:5.82,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:5.82,0:00:6.06,Default,,0,0,0,,dovete cercare di portare con voi almeno una {\1c&HFF00&\u1}bottiglietta{\r} d'acqua, bere un po'
+Dialogue: 0,0:00:6.06,0:00:6.08,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:6.08,0:00:6.20,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta {\1c&HFF00&\u1}d'acqua,{\r} bere un po'
+Dialogue: 0,0:00:6.20,0:00:6.22,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:6.22,0:00:6.30,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, {\1c&HFF00&\u1}bere{\r} un po'
+Dialogue: 0,0:00:6.30,0:00:6.32,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:6.32,0:00:6.36,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere {\1c&HFF00&\u1}un{\r} po'
+Dialogue: 0,0:00:6.36,0:00:6.38,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un po'
+Dialogue: 0,0:00:6.38,0:00:6.42,Default,,0,0,0,,dovete cercare di portare con voi almeno una bottiglietta d'acqua, bere un {\1c&HFF00&\u1}po'{\r}
+Dialogue: 0,0:00:9.30,0:00:9.56,Default,,0,0,0,,{\1c&HFF00&\u1}d'acqua{\r} vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:9.56,0:00:9.62,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:9.62,0:00:9.68,Default,,0,0,0,,d'acqua {\1c&HFF00&\u1}vi{\r} aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:9.68,0:00:9.72,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:9.72,0:00:9.98,Default,,0,0,0,,d'acqua vi {\1c&HFF00&\u1}aiuta{\r} sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:9.98,0:00:10.08,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:10.08,0:00:10.69,Default,,0,0,0,,d'acqua vi aiuta {\1c&HFF00&\u1}sicuramente{\r} a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:10.69,0:00:10.89,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:10.89,0:00:10.97,Default,,0,0,0,,d'acqua vi aiuta sicuramente {\1c&HFF00&\u1}a{\r} migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:10.97,0:00:11.05,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:11.05,0:00:11.61,Default,,0,0,0,,d'acqua vi aiuta sicuramente a {\1c&HFF00&\u1}migliorare{\r} la salivazione che è scarsa
+Dialogue: 0,0:00:11.61,0:00:11.75,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:11.75,0:00:11.81,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare {\1c&HFF00&\u1}la{\r} salivazione che è scarsa
+Dialogue: 0,0:00:11.81,0:00:11.85,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:11.85,0:00:12.37,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la {\1c&HFF00&\u1}salivazione{\r} che è scarsa
+Dialogue: 0,0:00:12.37,0:00:12.43,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:12.43,0:00:12.55,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione {\1c&HFF00&\u1}che{\r} è scarsa
+Dialogue: 0,0:00:12.55,0:00:12.57,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:12.57,0:00:12.59,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che {\1c&HFF00&\u1}è{\r} scarsa
+Dialogue: 0,0:00:12.59,0:00:12.65,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è scarsa
+Dialogue: 0,0:00:12.65,0:00:13.17,Default,,0,0,0,,d'acqua vi aiuta sicuramente a migliorare la salivazione che è {\1c&HFF00&\u1}scarsa{\r}
+Dialogue: 0,0:00:13.16,0:00:14.06,Default,,0,0,0,,{\1c&HFF00&\u1}diminuire{\r} leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:14.06,0:00:14.14,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:14.14,0:00:14.73,Default,,0,0,0,,diminuire {\1c&HFF00&\u1}leggermente{\r} anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:14.73,0:00:14.77,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:14.77,0:00:14.93,Default,,0,0,0,,diminuire leggermente {\1c&HFF00&\u1}anche{\r} il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:14.93,0:00:14.99,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:14.99,0:00:15.05,Default,,0,0,0,,diminuire leggermente anche {\1c&HFF00&\u1}il{\r} battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:15.05,0:00:15.09,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:15.09,0:00:15.39,Default,,0,0,0,,diminuire leggermente anche il {\1c&HFF00&\u1}battito{\r} cardiaco che in quel momento è super
+Dialogue: 0,0:00:15.39,0:00:15.45,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:15.45,0:00:15.81,Default,,0,0,0,,diminuire leggermente anche il battito {\1c&HFF00&\u1}cardiaco{\r} che in quel momento è super
+Dialogue: 0,0:00:15.81,0:00:15.89,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:15.89,0:00:16.01,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco {\1c&HFF00&\u1}che{\r} in quel momento è super
+Dialogue: 0,0:00:16.01,0:00:16.05,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:16.05,0:00:16.11,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che {\1c&HFF00&\u1}in{\r} quel momento è super
+Dialogue: 0,0:00:16.11,0:00:16.13,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:16.13,0:00:16.27,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in {\1c&HFF00&\u1}quel{\r} momento è super
+Dialogue: 0,0:00:16.27,0:00:16.31,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:16.31,0:00:16.71,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel {\1c&HFF00&\u1}momento{\r} è super
+Dialogue: 0,0:00:16.71,0:00:16.89,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:16.89,0:00:16.93,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento {\1c&HFF00&\u1}è{\r} super
+Dialogue: 0,0:00:16.93,0:00:17.05,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è super
+Dialogue: 0,0:00:17.05,0:00:17.35,Default,,0,0,0,,diminuire leggermente anche il battito cardiaco che in quel momento è {\1c&HFF00&\u1}super{\r}
+Dialogue: 0,0:00:17.54,0:00:18.12,Default,,0,0,0,,{\1c&HFF00&\u1}accelerato,{\r} trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:18.12,0:00:18.38,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:18.38,0:00:18.58,Default,,0,0,0,,accelerato, {\1c&HFF00&\u1}trova{\r} un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:18.58,0:00:18.62,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:18.62,0:00:18.68,Default,,0,0,0,,accelerato, trova {\1c&HFF00&\u1}un{\r} angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:18.68,0:00:18.72,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:18.72,0:00:19.11,Default,,0,0,0,,accelerato, trova un {\1c&HFF00&\u1}angolino{\r} un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.11,0:00:19.15,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.15,0:00:19.23,Default,,0,0,0,,accelerato, trova un angolino {\1c&HFF00&\u1}un{\r} po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.23,0:00:19.27,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.27,0:00:19.37,Default,,0,0,0,,accelerato, trova un angolino un {\1c&HFF00&\u1}po'{\r} in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.37,0:00:19.39,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.39,0:00:19.45,Default,,0,0,0,,accelerato, trova un angolino un po' {\1c&HFF00&\u1}in{\r} disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.45,0:00:19.49,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:19.49,0:00:20.13,Default,,0,0,0,,accelerato, trova un angolino un po' in {\1c&HFF00&\u1}disparte{\r} e iniziare piano piano a fare
+Dialogue: 0,0:00:20.13,0:00:20.15,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:20.15,0:00:20.17,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte {\1c&HFF00&\u1}e{\r} iniziare piano piano a fare
+Dialogue: 0,0:00:20.17,0:00:20.49,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:20.49,0:00:21.03,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e {\1c&HFF00&\u1}iniziare{\r} piano piano a fare
+Dialogue: 0,0:00:21.03,0:00:21.11,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:21.11,0:00:21.31,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare {\1c&HFF00&\u1}piano{\r} piano a fare
+Dialogue: 0,0:00:21.31,0:00:21.39,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:21.39,0:00:21.65,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano {\1c&HFF00&\u1}piano{\r} a fare
+Dialogue: 0,0:00:21.65,0:00:21.71,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:21.71,0:00:21.75,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano {\1c&HFF00&\u1}a{\r} fare
+Dialogue: 0,0:00:21.75,0:00:21.85,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a fare
+Dialogue: 0,0:00:21.85,0:00:22.11,Default,,0,0,0,,accelerato, trova un angolino un po' in disparte e iniziare piano piano a {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:00:22.08,0:00:22.42,Default,,0,0,0,,{\1c&HFF00&\u1}delle{\r} respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:22.42,0:00:22.46,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:22.46,0:00:23.10,Default,,0,0,0,,delle {\1c&HFF00&\u1}respirazioni{\r} molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:23.10,0:00:23.14,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:23.14,0:00:23.44,Default,,0,0,0,,delle respirazioni {\1c&HFF00&\u1}molto{\r} profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:23.44,0:00:23.50,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:23.50,0:00:23.99,Default,,0,0,0,,delle respirazioni molto {\1c&HFF00&\u1}profonde,{\r} un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:23.99,0:00:24.25,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:24.25,0:00:24.31,Default,,0,0,0,,delle respirazioni molto profonde, {\1c&HFF00&\u1}un{\r} ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:24.31,0:00:24.35,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:24.35,0:00:24.75,Default,,0,0,0,,delle respirazioni molto profonde, un {\1c&HFF00&\u1}ulteriore{\r} suggerimento che ti posso dare
+Dialogue: 0,0:00:24.75,0:00:24.81,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:24.81,0:00:25.43,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore {\1c&HFF00&\u1}suggerimento{\r} che ti posso dare
+Dialogue: 0,0:00:25.43,0:00:25.47,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:25.47,0:00:25.53,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento {\1c&HFF00&\u1}che{\r} ti posso dare
+Dialogue: 0,0:00:25.53,0:00:25.57,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:25.57,0:00:25.63,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che {\1c&HFF00&\u1}ti{\r} posso dare
+Dialogue: 0,0:00:25.63,0:00:25.65,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:25.65,0:00:25.87,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti {\1c&HFF00&\u1}posso{\r} dare
+Dialogue: 0,0:00:25.87,0:00:25.91,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso dare
+Dialogue: 0,0:00:25.91,0:00:26.03,Default,,0,0,0,,delle respirazioni molto profonde, un ulteriore suggerimento che ti posso {\1c&HFF00&\u1}dare{\r}
+Dialogue: 0,0:00:26.00,0:00:26.60,Default,,0,0,0,,{\1c&HFF00&\u1}quello{\r} di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:26.60,0:00:26.62,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:26.62,0:00:26.66,Default,,0,0,0,,quello {\1c&HFF00&\u1}di{\r} fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:26.66,0:00:26.68,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:26.68,0:00:26.76,Default,,0,0,0,,quello di {\1c&HFF00&\u1}fare{\r} attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:26.76,0:00:26.78,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:26.78,0:00:27.14,Default,,0,0,0,,quello di fare {\1c&HFF00&\u1}attenzione{\r} molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:27.14,0:00:27.20,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:27.20,0:00:27.44,Default,,0,0,0,,quello di fare attenzione {\1c&HFF00&\u1}molto{\r} alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:27.44,0:00:27.61,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:27.61,0:00:27.75,Default,,0,0,0,,quello di fare attenzione molto {\1c&HFF00&\u1}alle{\r} sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:27.75,0:00:27.81,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:27.81,0:00:28.25,Default,,0,0,0,,quello di fare attenzione molto alle {\1c&HFF00&\u1}sensazioni{\r} fisiche che si sono attivate
+Dialogue: 0,0:00:28.25,0:00:28.39,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:28.39,0:00:28.91,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni {\1c&HFF00&\u1}fisiche{\r} che si sono attivate
+Dialogue: 0,0:00:28.91,0:00:29.05,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:29.05,0:00:29.17,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche {\1c&HFF00&\u1}che{\r} si sono attivate
+Dialogue: 0,0:00:29.17,0:00:29.21,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:29.21,0:00:29.29,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che {\1c&HFF00&\u1}si{\r} sono attivate
+Dialogue: 0,0:00:29.29,0:00:29.35,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:29.35,0:00:29.49,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si {\1c&HFF00&\u1}sono{\r} attivate
+Dialogue: 0,0:00:29.49,0:00:29.53,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono attivate
+Dialogue: 0,0:00:29.53,0:00:29.89,Default,,0,0,0,,quello di fare attenzione molto alle sensazioni fisiche che si sono {\1c&HFF00&\u1}attivate{\r}
+Dialogue: 0,0:00:29.88,0:00:30.18,Default,,0,0,0,,{\1c&HFF00&\u1}dentro{\r} di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:30.18,0:00:30.20,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:30.20,0:00:30.26,Default,,0,0,0,,dentro {\1c&HFF00&\u1}di{\r} te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:30.26,0:00:30.60,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:30.60,0:00:30.70,Default,,0,0,0,,dentro di {\1c&HFF00&\u1}te.{\r} Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:30.70,0:00:30.74,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:30.74,0:00:30.94,Default,,0,0,0,,dentro di te. {\1c&HFF00&\u1}Quando{\r} si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:30.94,0:00:31.00,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.00,0:00:31.04,Default,,0,0,0,,dentro di te. Quando {\1c&HFF00&\u1}si{\r} ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.04,0:00:31.06,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.06,0:00:31.12,Default,,0,0,0,,dentro di te. Quando si {\1c&HFF00&\u1}ha{\r} un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.12,0:00:31.14,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.14,0:00:31.20,Default,,0,0,0,,dentro di te. Quando si ha {\1c&HFF00&\u1}un{\r} attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.20,0:00:31.22,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.22,0:00:31.53,Default,,0,0,0,,dentro di te. Quando si ha un {\1c&HFF00&\u1}attacco{\r} di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.53,0:00:31.55,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.55,0:00:31.59,Default,,0,0,0,,dentro di te. Quando si ha un attacco {\1c&HFF00&\u1}di{\r} panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.59,0:00:31.65,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:31.65,0:00:31.95,Default,,0,0,0,,dentro di te. Quando si ha un attacco di {\1c&HFF00&\u1}panico{\r} infatti si tende a essere molto
+Dialogue: 0,0:00:31.95,0:00:32.01,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:32.01,0:00:32.47,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico {\1c&HFF00&\u1}infatti{\r} si tende a essere molto
+Dialogue: 0,0:00:32.47,0:00:32.55,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:32.55,0:00:32.63,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti {\1c&HFF00&\u1}si{\r} tende a essere molto
+Dialogue: 0,0:00:32.63,0:00:32.69,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:32.69,0:00:32.87,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si {\1c&HFF00&\u1}tende{\r} a essere molto
+Dialogue: 0,0:00:32.87,0:00:32.89,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:32.89,0:00:32.91,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende {\1c&HFF00&\u1}a{\r} essere molto
+Dialogue: 0,0:00:32.91,0:00:32.95,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:32.95,0:00:33.21,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a {\1c&HFF00&\u1}essere{\r} molto
+Dialogue: 0,0:00:33.21,0:00:33.27,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere molto
+Dialogue: 0,0:00:33.27,0:00:33.49,Default,,0,0,0,,dentro di te. Quando si ha un attacco di panico infatti si tende a essere {\1c&HFF00&\u1}molto{\r}
+Dialogue: 0,0:00:33.28,0:00:34.32,Default,,0,0,0,,{\1c&HFF00&\u1}confusi,{\r} questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.32,0:00:34.34,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.34,0:00:34.54,Default,,0,0,0,,confusi, {\1c&HFF00&\u1}questo{\r} perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.54,0:00:34.58,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.58,0:00:34.79,Default,,0,0,0,,confusi, questo {\1c&HFF00&\u1}perché{\r} il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.79,0:00:34.83,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.83,0:00:34.89,Default,,0,0,0,,confusi, questo perché {\1c&HFF00&\u1}il{\r} proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.89,0:00:34.93,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:34.93,0:00:35.11,Default,,0,0,0,,confusi, questo perché il {\1c&HFF00&\u1}proprio{\r} organismo ha attivato una serie di
+Dialogue: 0,0:00:35.11,0:00:35.13,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:35.13,0:00:35.51,Default,,0,0,0,,confusi, questo perché il proprio {\1c&HFF00&\u1}organismo{\r} ha attivato una serie di
+Dialogue: 0,0:00:35.51,0:00:35.53,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:35.53,0:00:35.57,Default,,0,0,0,,confusi, questo perché il proprio organismo {\1c&HFF00&\u1}ha{\r} attivato una serie di
+Dialogue: 0,0:00:35.57,0:00:35.59,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:35.59,0:00:36.07,Default,,0,0,0,,confusi, questo perché il proprio organismo ha {\1c&HFF00&\u1}attivato{\r} una serie di
+Dialogue: 0,0:00:36.07,0:00:36.11,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:36.11,0:00:36.21,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato {\1c&HFF00&\u1}una{\r} serie di
+Dialogue: 0,0:00:36.21,0:00:36.27,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:36.27,0:00:36.49,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una {\1c&HFF00&\u1}serie{\r} di
+Dialogue: 0,0:00:36.49,0:00:36.57,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie di
+Dialogue: 0,0:00:36.57,0:00:36.63,Default,,0,0,0,,confusi, questo perché il proprio organismo ha attivato una serie {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:37.26,0:00:37.84,Default,,0,0,0,,{\1c&HFF00&\u1}risposte{\r} di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:37.84,0:00:38.02,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:38.02,0:00:38.10,Default,,0,0,0,,risposte {\1c&HFF00&\u1}di{\r} attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:38.10,0:00:38.12,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:38.12,0:00:38.51,Default,,0,0,0,,risposte di {\1c&HFF00&\u1}attacco{\r} e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:38.51,0:00:38.55,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:38.55,0:00:38.57,Default,,0,0,0,,risposte di attacco {\1c&HFF00&\u1}e{\r} fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:38.57,0:00:38.67,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:38.67,0:00:39.03,Default,,0,0,0,,risposte di attacco e {\1c&HFF00&\u1}fuga,{\r} una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.03,0:00:39.35,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.35,0:00:39.47,Default,,0,0,0,,risposte di attacco e fuga, {\1c&HFF00&\u1}una{\r} serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.47,0:00:39.53,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.53,0:00:39.75,Default,,0,0,0,,risposte di attacco e fuga, una {\1c&HFF00&\u1}serie{\r} di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.75,0:00:39.79,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.79,0:00:39.85,Default,,0,0,0,,risposte di attacco e fuga, una serie {\1c&HFF00&\u1}di{\r} emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.85,0:00:39.87,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:39.87,0:00:40.47,Default,,0,0,0,,risposte di attacco e fuga, una serie di {\1c&HFF00&\u1}emozioni{\r} anche dentro di noi e sono
+Dialogue: 0,0:00:40.47,0:00:40.57,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:40.57,0:00:40.83,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni {\1c&HFF00&\u1}anche{\r} dentro di noi e sono
+Dialogue: 0,0:00:40.83,0:00:40.87,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:40.87,0:00:41.15,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche {\1c&HFF00&\u1}dentro{\r} di noi e sono
+Dialogue: 0,0:00:41.15,0:00:41.17,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:41.17,0:00:41.23,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro {\1c&HFF00&\u1}di{\r} noi e sono
+Dialogue: 0,0:00:41.23,0:00:41.27,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:41.27,0:00:41.55,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di {\1c&HFF00&\u1}noi{\r} e sono
+Dialogue: 0,0:00:41.55,0:00:41.77,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:41.77,0:00:41.81,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi {\1c&HFF00&\u1}e{\r} sono
+Dialogue: 0,0:00:41.81,0:00:41.87,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e sono
+Dialogue: 0,0:00:41.87,0:00:42.03,Default,,0,0,0,,risposte di attacco e fuga, una serie di emozioni anche dentro di noi e {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:00:42.18,0:00:42.40,Default,,0,0,0,,{\1c&HFF00&\u1}proprio{\r} queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:42.40,0:00:42.44,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:42.44,0:00:42.60,Default,,0,0,0,,proprio {\1c&HFF00&\u1}queste{\r} sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:42.60,0:00:42.66,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:42.66,0:00:43.08,Default,,0,0,0,,proprio queste {\1c&HFF00&\u1}sensazioni{\r} attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:43.08,0:00:43.14,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:43.14,0:00:43.45,Default,,0,0,0,,proprio queste sensazioni {\1c&HFF00&\u1}attivate{\r} contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:43.45,0:00:43.51,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:43.51,0:00:44.41,Default,,0,0,0,,proprio queste sensazioni attivate {\1c&HFF00&\u1}contemporaneamente{\r} che ci fanno sentire
+Dialogue: 0,0:00:44.41,0:00:44.43,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:44.43,0:00:44.63,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente {\1c&HFF00&\u1}che{\r} ci fanno sentire
+Dialogue: 0,0:00:44.63,0:00:44.69,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:44.69,0:00:44.75,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che {\1c&HFF00&\u1}ci{\r} fanno sentire
+Dialogue: 0,0:00:44.75,0:00:44.81,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:44.81,0:00:44.97,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci {\1c&HFF00&\u1}fanno{\r} sentire
+Dialogue: 0,0:00:44.97,0:00:45.03,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno sentire
+Dialogue: 0,0:00:45.03,0:00:45.33,Default,,0,0,0,,proprio queste sensazioni attivate contemporaneamente che ci fanno {\1c&HFF00&\u1}sentire{\r}
+Dialogue: 0,0:00:45.50,0:00:45.74,Default,,0,0,0,,{\1c&HFF00&\u1}molto{\r} confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:45.74,0:00:45.76,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:45.76,0:00:46.26,Default,,0,0,0,,molto {\1c&HFF00&\u1}confusi.{\r} Immaginate infatti di avere il battito
+Dialogue: 0,0:00:46.26,0:00:46.49,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:46.49,0:00:46.99,Default,,0,0,0,,molto confusi. {\1c&HFF00&\u1}Immaginate{\r} infatti di avere il battito
+Dialogue: 0,0:00:46.99,0:00:47.03,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:47.03,0:00:47.33,Default,,0,0,0,,molto confusi. Immaginate {\1c&HFF00&\u1}infatti{\r} di avere il battito
+Dialogue: 0,0:00:47.33,0:00:47.37,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:47.37,0:00:47.45,Default,,0,0,0,,molto confusi. Immaginate infatti {\1c&HFF00&\u1}di{\r} avere il battito
+Dialogue: 0,0:00:47.45,0:00:47.49,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:47.49,0:00:47.73,Default,,0,0,0,,molto confusi. Immaginate infatti di {\1c&HFF00&\u1}avere{\r} il battito
+Dialogue: 0,0:00:47.73,0:00:47.75,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:47.75,0:00:47.79,Default,,0,0,0,,molto confusi. Immaginate infatti di avere {\1c&HFF00&\u1}il{\r} battito
+Dialogue: 0,0:00:47.79,0:00:47.85,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il battito
+Dialogue: 0,0:00:47.85,0:00:48.13,Default,,0,0,0,,molto confusi. Immaginate infatti di avere il {\1c&HFF00&\u1}battito{\r}
+Dialogue: 0,0:00:48.12,0:00:48.28,Default,,0,0,0,,{\1c&HFF00&\u1}cardiaco{\r} accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.28,0:00:48.30,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.30,0:00:48.50,Default,,0,0,0,,cardiaco {\1c&HFF00&\u1}accelerato,{\r} nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.50,0:00:48.52,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.52,0:00:48.62,Default,,0,0,0,,cardiaco accelerato, {\1c&HFF00&\u1}nello{\r} stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.62,0:00:48.64,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.64,0:00:48.76,Default,,0,0,0,,cardiaco accelerato, nello {\1c&HFF00&\u1}stesso{\r} tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.76,0:00:48.78,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.78,0:00:48.88,Default,,0,0,0,,cardiaco accelerato, nello stesso {\1c&HFF00&\u1}tempo{\r} di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.88,0:00:48.90,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.90,0:00:48.94,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo {\1c&HFF00&\u1}di{\r} avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.94,0:00:48.96,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:48.96,0:00:49.06,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di {\1c&HFF00&\u1}avere{\r} difficoltà di respirare, nello
+Dialogue: 0,0:00:49.06,0:00:49.08,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:49.08,0:00:49.28,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere {\1c&HFF00&\u1}difficoltà{\r} di respirare, nello
+Dialogue: 0,0:00:49.28,0:00:49.30,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:49.30,0:00:49.34,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà {\1c&HFF00&\u1}di{\r} respirare, nello
+Dialogue: 0,0:00:49.34,0:00:49.36,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:49.36,0:00:49.56,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di {\1c&HFF00&\u1}respirare,{\r} nello
+Dialogue: 0,0:00:49.56,0:00:49.58,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, nello
+Dialogue: 0,0:00:49.58,0:00:49.77,Default,,0,0,0,,cardiaco accelerato, nello stesso tempo di avere difficoltà di respirare, {\1c&HFF00&\u1}nello{\r}
+Dialogue: 0,0:00:52.48,0:00:53.14,Default,,0,0,0,,{\1c&HFF00&\u1}stesso{\r} tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.14,0:00:53.16,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.16,0:00:53.32,Default,,0,0,0,,stesso {\1c&HFF00&\u1}tempo{\r} quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.32,0:00:53.34,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.34,0:00:53.52,Default,,0,0,0,,stesso tempo {\1c&HFF00&\u1}quello{\r} di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.52,0:00:53.54,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.54,0:00:53.60,Default,,0,0,0,,stesso tempo quello {\1c&HFF00&\u1}di{\r} avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.60,0:00:53.62,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.62,0:00:53.84,Default,,0,0,0,,stesso tempo quello di {\1c&HFF00&\u1}avere{\r} una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:53.84,0:00:54.27,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:54.27,0:00:54.39,Default,,0,0,0,,stesso tempo quello di avere {\1c&HFF00&\u1}una{\r} tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:54.39,0:00:54.45,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:54.45,0:00:54.91,Default,,0,0,0,,stesso tempo quello di avere una {\1c&HFF00&\u1}tensione{\r} muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:54.91,0:00:55.03,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:55.03,0:00:55.51,Default,,0,0,0,,stesso tempo quello di avere una tensione {\1c&HFF00&\u1}muscolare{\r} su tutto il corpo. Quindi
+Dialogue: 0,0:00:55.51,0:00:55.59,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:55.59,0:00:55.67,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare {\1c&HFF00&\u1}su{\r} tutto il corpo. Quindi
+Dialogue: 0,0:00:55.67,0:00:55.73,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:55.73,0:00:55.91,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su {\1c&HFF00&\u1}tutto{\r} il corpo. Quindi
+Dialogue: 0,0:00:55.91,0:00:55.95,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:55.95,0:00:56.01,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto {\1c&HFF00&\u1}il{\r} corpo. Quindi
+Dialogue: 0,0:00:56.01,0:00:56.07,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:56.07,0:00:56.63,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il {\1c&HFF00&\u1}corpo.{\r} Quindi
+Dialogue: 0,0:00:56.63,0:00:56.65,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. Quindi
+Dialogue: 0,0:00:56.65,0:00:57.52,Default,,0,0,0,,stesso tempo quello di avere una tensione muscolare su tutto il corpo. {\1c&HFF00&\u1}Quindi{\r}
+Dialogue: 0,0:00:57.04,0:00:57.56,Default,,0,0,0,,{\1c&HFF00&\u1}concentrarsi{\r} sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:57.56,0:00:57.62,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:57.62,0:00:57.80,Default,,0,0,0,,concentrarsi {\1c&HFF00&\u1}sulle{\r} proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:57.80,0:00:57.82,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:57.82,0:00:58.02,Default,,0,0,0,,concentrarsi sulle {\1c&HFF00&\u1}proprie{\r} sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:58.02,0:00:58.08,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:58.08,0:00:58.57,Default,,0,0,0,,concentrarsi sulle proprie {\1c&HFF00&\u1}sensazioni{\r} significa fare una sorta di inventario
+Dialogue: 0,0:00:58.57,0:00:58.63,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:58.63,0:00:59.07,Default,,0,0,0,,concentrarsi sulle proprie sensazioni {\1c&HFF00&\u1}significa{\r} fare una sorta di inventario
+Dialogue: 0,0:00:59.07,0:00:59.17,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:59.17,0:00:59.51,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa {\1c&HFF00&\u1}fare{\r} una sorta di inventario
+Dialogue: 0,0:00:59.51,0:00:59.69,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:59.69,0:00:59.81,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare {\1c&HFF00&\u1}una{\r} sorta di inventario
+Dialogue: 0,0:00:59.81,0:00:59.85,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:00:59.85,0:01:0.11,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una {\1c&HFF00&\u1}sorta{\r} di inventario
+Dialogue: 0,0:01:0.11,0:01:0.15,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:01:0.15,0:01:0.19,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta {\1c&HFF00&\u1}di{\r} inventario
+Dialogue: 0,0:01:0.19,0:01:0.21,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di inventario
+Dialogue: 0,0:01:0.21,0:01:0.89,Default,,0,0,0,,concentrarsi sulle proprie sensazioni significa fare una sorta di {\1c&HFF00&\u1}inventario{\r}
+Dialogue: 0,0:01:1.36,0:01:1.40,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.40,0:01:1.44,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.44,0:01:1.54,Default,,0,0,0,,di {\1c&HFF00&\u1}ciò{\r} che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.54,0:01:1.60,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.60,0:01:1.68,Default,,0,0,0,,di ciò {\1c&HFF00&\u1}che{\r} ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.68,0:01:1.74,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.74,0:01:1.80,Default,,0,0,0,,di ciò che {\1c&HFF00&\u1}ci{\r} sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.80,0:01:1.86,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.86,0:01:1.98,Default,,0,0,0,,di ciò che ci {\1c&HFF00&\u1}sta{\r} succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:1.98,0:01:2.02,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:2.02,0:01:2.61,Default,,0,0,0,,di ciò che ci sta {\1c&HFF00&\u1}succedendo,{\r} facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:2.61,0:01:2.81,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:2.81,0:01:3.17,Default,,0,0,0,,di ciò che ci sta succedendo, {\1c&HFF00&\u1}facendo{\r} una scansione del nostro corpo e delle
+Dialogue: 0,0:01:3.17,0:01:3.21,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:3.21,0:01:3.33,Default,,0,0,0,,di ciò che ci sta succedendo, facendo {\1c&HFF00&\u1}una{\r} scansione del nostro corpo e delle
+Dialogue: 0,0:01:3.33,0:01:3.35,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:3.35,0:01:3.83,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una {\1c&HFF00&\u1}scansione{\r} del nostro corpo e delle
+Dialogue: 0,0:01:3.83,0:01:3.87,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:3.87,0:01:3.99,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione {\1c&HFF00&\u1}del{\r} nostro corpo e delle
+Dialogue: 0,0:01:3.99,0:01:4.03,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:4.03,0:01:4.27,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del {\1c&HFF00&\u1}nostro{\r} corpo e delle
+Dialogue: 0,0:01:4.27,0:01:4.33,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:4.33,0:01:4.61,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro {\1c&HFF00&\u1}corpo{\r} e delle
+Dialogue: 0,0:01:4.61,0:01:4.63,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:4.63,0:01:4.65,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo {\1c&HFF00&\u1}e{\r} delle
+Dialogue: 0,0:01:4.65,0:01:4.69,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e delle
+Dialogue: 0,0:01:4.69,0:01:4.87,Default,,0,0,0,,di ciò che ci sta succedendo, facendo una scansione del nostro corpo e {\1c&HFF00&\u1}delle{\r}
+Dialogue: 0,0:01:4.96,0:01:5.20,Default,,0,0,0,,{\1c&HFF00&\u1}nostre{\r} emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:5.20,0:01:5.70,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:5.70,0:01:5.90,Default,,0,0,0,,nostre {\1c&HFF00&\u1}emozioni.{\r} Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:5.90,0:01:5.92,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:5.92,0:01:6.08,Default,,0,0,0,,nostre emozioni. {\1c&HFF00&\u1}Quindi{\r} ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:6.08,0:01:6.12,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:6.12,0:01:6.75,Default,,0,0,0,,nostre emozioni. Quindi {\1c&HFF00&\u1}ricapitolando{\r} quando siete in preda a un attacco di
+Dialogue: 0,0:01:6.75,0:01:6.79,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:6.79,0:01:6.99,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando {\1c&HFF00&\u1}quando{\r} siete in preda a un attacco di
+Dialogue: 0,0:01:6.99,0:01:7.05,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:7.05,0:01:7.21,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando {\1c&HFF00&\u1}siete{\r} in preda a un attacco di
+Dialogue: 0,0:01:7.21,0:01:7.25,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:7.25,0:01:7.31,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete {\1c&HFF00&\u1}in{\r} preda a un attacco di
+Dialogue: 0,0:01:7.31,0:01:7.37,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:7.37,0:01:7.59,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in {\1c&HFF00&\u1}preda{\r} a un attacco di
+Dialogue: 0,0:01:7.59,0:01:7.61,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:7.61,0:01:7.63,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda {\1c&HFF00&\u1}a{\r} un attacco di
+Dialogue: 0,0:01:7.63,0:01:7.67,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:7.67,0:01:7.73,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a {\1c&HFF00&\u1}un{\r} attacco di
+Dialogue: 0,0:01:7.73,0:01:7.75,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:7.75,0:01:8.01,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un {\1c&HFF00&\u1}attacco{\r} di
+Dialogue: 0,0:01:8.01,0:01:8.05,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco di
+Dialogue: 0,0:01:8.05,0:01:8.09,Default,,0,0,0,,nostre emozioni. Quindi ricapitolando quando siete in preda a un attacco {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:01:8.42,0:01:8.76,Default,,0,0,0,,{\1c&HFF00&\u1}panico{\r} e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:8.76,0:01:8.78,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:8.78,0:01:8.80,Default,,0,0,0,,panico {\1c&HFF00&\u1}e{\r} vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:8.80,0:01:8.82,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:8.82,0:01:8.88,Default,,0,0,0,,panico e {\1c&HFF00&\u1}vi{\r} trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:8.88,0:01:8.92,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:8.92,0:01:9.14,Default,,0,0,0,,panico e vi {\1c&HFF00&\u1}trovate{\r} in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.14,0:01:9.18,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.18,0:01:9.26,Default,,0,0,0,,panico e vi trovate {\1c&HFF00&\u1}in{\r} un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.26,0:01:9.30,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.30,0:01:9.36,Default,,0,0,0,,panico e vi trovate in {\1c&HFF00&\u1}un{\r} posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.36,0:01:9.42,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.42,0:01:9.63,Default,,0,0,0,,panico e vi trovate in un {\1c&HFF00&\u1}posto{\r} chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.63,0:01:9.69,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:9.69,0:01:10.05,Default,,0,0,0,,panico e vi trovate in un posto {\1c&HFF00&\u1}chiuso{\r} e affollato come può essere un centro
+Dialogue: 0,0:01:10.05,0:01:10.27,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:10.27,0:01:10.41,Default,,0,0,0,,panico e vi trovate in un posto chiuso {\1c&HFF00&\u1}e{\r} affollato come può essere un centro
+Dialogue: 0,0:01:10.41,0:01:10.59,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:10.59,0:01:11.05,Default,,0,0,0,,panico e vi trovate in un posto chiuso e {\1c&HFF00&\u1}affollato{\r} come può essere un centro
+Dialogue: 0,0:01:11.05,0:01:11.09,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:11.09,0:01:11.29,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato {\1c&HFF00&\u1}come{\r} può essere un centro
+Dialogue: 0,0:01:11.29,0:01:11.39,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:11.39,0:01:11.53,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come {\1c&HFF00&\u1}può{\r} essere un centro
+Dialogue: 0,0:01:11.53,0:01:11.57,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:11.57,0:01:11.83,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può {\1c&HFF00&\u1}essere{\r} un centro
+Dialogue: 0,0:01:11.83,0:01:11.87,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:11.87,0:01:11.93,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere {\1c&HFF00&\u1}un{\r} centro
+Dialogue: 0,0:01:11.93,0:01:11.97,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un centro
+Dialogue: 0,0:01:11.97,0:01:12.19,Default,,0,0,0,,panico e vi trovate in un posto chiuso e affollato come può essere un {\1c&HFF00&\u1}centro{\r}
+Dialogue: 0,0:01:12.16,0:01:12.38,Default,,0,0,0,,{\1c&HFF00&\u1}commerciale,{\r} sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.38,0:01:12.40,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.40,0:01:12.48,Default,,0,0,0,,commerciale, {\1c&HFF00&\u1}sono{\r} tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.48,0:01:12.50,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.50,0:01:12.56,Default,,0,0,0,,commerciale, sono {\1c&HFF00&\u1}tre{\r} le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.56,0:01:12.58,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.58,0:01:12.62,Default,,0,0,0,,commerciale, sono tre {\1c&HFF00&\u1}le{\r} cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.62,0:01:12.64,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.64,0:01:12.72,Default,,0,0,0,,commerciale, sono tre le {\1c&HFF00&\u1}cose{\r} importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.72,0:01:12.74,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.74,0:01:12.94,Default,,0,0,0,,commerciale, sono tre le cose {\1c&HFF00&\u1}importanti{\r} che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.94,0:01:12.96,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:12.96,0:01:13.02,Default,,0,0,0,,commerciale, sono tre le cose importanti {\1c&HFF00&\u1}che{\r} dovete tenere in considerazione. La
+Dialogue: 0,0:01:13.02,0:01:13.04,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:13.04,0:01:13.16,Default,,0,0,0,,commerciale, sono tre le cose importanti che {\1c&HFF00&\u1}dovete{\r} tenere in considerazione. La
+Dialogue: 0,0:01:13.16,0:01:13.18,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:13.18,0:01:13.30,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete {\1c&HFF00&\u1}tenere{\r} in considerazione. La
+Dialogue: 0,0:01:13.30,0:01:13.32,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:13.32,0:01:13.36,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere {\1c&HFF00&\u1}in{\r} considerazione. La
+Dialogue: 0,0:01:13.36,0:01:13.38,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:13.38,0:01:13.66,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in {\1c&HFF00&\u1}considerazione.{\r} La
+Dialogue: 0,0:01:13.66,0:01:13.68,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. La
+Dialogue: 0,0:01:13.68,0:01:13.72,Default,,0,0,0,,commerciale, sono tre le cose importanti che dovete tenere in considerazione. {\1c&HFF00&\u1}La{\r}
+Dialogue: 0,0:01:16.62,0:01:16.94,Default,,0,0,0,,{\1c&HFF00&\u1}prima{\r} come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:16.94,0:01:17.22,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.22,0:01:17.36,Default,,0,0,0,,prima {\1c&HFF00&\u1}come{\r} abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.36,0:01:17.40,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.40,0:01:17.64,Default,,0,0,0,,prima come {\1c&HFF00&\u1}abbiamo{\r} detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.64,0:01:17.68,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.68,0:01:17.94,Default,,0,0,0,,prima come abbiamo {\1c&HFF00&\u1}detto{\r} è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.94,0:01:17.96,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.96,0:01:17.98,Default,,0,0,0,,prima come abbiamo detto {\1c&HFF00&\u1}è{\r} quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:17.98,0:01:18.04,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.04,0:01:18.25,Default,,0,0,0,,prima come abbiamo detto è {\1c&HFF00&\u1}quella{\r} di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.25,0:01:18.29,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.29,0:01:18.35,Default,,0,0,0,,prima come abbiamo detto è quella {\1c&HFF00&\u1}di{\r} bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.35,0:01:18.43,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.43,0:01:18.75,Default,,0,0,0,,prima come abbiamo detto è quella di {\1c&HFF00&\u1}bere{\r} un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.75,0:01:18.93,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.93,0:01:18.99,Default,,0,0,0,,prima come abbiamo detto è quella di bere {\1c&HFF00&\u1}un{\r} po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:18.99,0:01:19.01,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:19.01,0:01:19.11,Default,,0,0,0,,prima come abbiamo detto è quella di bere un {\1c&HFF00&\u1}po'{\r} d'acqua, la seconda è quella
+Dialogue: 0,0:01:19.11,0:01:19.21,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:19.21,0:01:19.63,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' {\1c&HFF00&\u1}d'acqua,{\r} la seconda è quella
+Dialogue: 0,0:01:19.63,0:01:19.81,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:19.81,0:01:19.87,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, {\1c&HFF00&\u1}la{\r} seconda è quella
+Dialogue: 0,0:01:19.87,0:01:19.93,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:19.93,0:01:20.47,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la {\1c&HFF00&\u1}seconda{\r} è quella
+Dialogue: 0,0:01:20.47,0:01:20.63,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:20.63,0:01:20.67,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda {\1c&HFF00&\u1}è{\r} quella
+Dialogue: 0,0:01:20.67,0:01:20.75,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è quella
+Dialogue: 0,0:01:20.75,0:01:21.09,Default,,0,0,0,,prima come abbiamo detto è quella di bere un po' d'acqua, la seconda è {\1c&HFF00&\u1}quella{\r}
+Dialogue: 0,0:01:21.26,0:01:21.82,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:21.82,0:01:21.86,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:21.86,0:01:22.64,Default,,0,0,0,,di {\1c&HFF00&\u1}concentrarsi{\r} sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:22.64,0:01:22.70,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:22.70,0:01:22.88,Default,,0,0,0,,di concentrarsi {\1c&HFF00&\u1}sulla{\r} respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:22.88,0:01:22.92,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:22.92,0:01:23.71,Default,,0,0,0,,di concentrarsi sulla {\1c&HFF00&\u1}respirazione,{\r} quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:23.71,0:01:23.95,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:23.95,0:01:24.13,Default,,0,0,0,,di concentrarsi sulla respirazione, {\1c&HFF00&\u1}quindi{\r} imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:24.13,0:01:24.17,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:24.17,0:01:24.55,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi {\1c&HFF00&\u1}imparare{\r} molto a respirare in maniera idonea
+Dialogue: 0,0:01:24.55,0:01:24.63,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:24.63,0:01:24.97,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare {\1c&HFF00&\u1}molto{\r} a respirare in maniera idonea
+Dialogue: 0,0:01:24.97,0:01:25.19,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:25.19,0:01:25.35,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto {\1c&HFF00&\u1}a{\r} respirare in maniera idonea
+Dialogue: 0,0:01:25.35,0:01:25.67,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:25.67,0:01:26.21,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a {\1c&HFF00&\u1}respirare{\r} in maniera idonea
+Dialogue: 0,0:01:26.21,0:01:26.41,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:26.41,0:01:26.47,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare {\1c&HFF00&\u1}in{\r} maniera idonea
+Dialogue: 0,0:01:26.47,0:01:26.51,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:26.51,0:01:26.79,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in {\1c&HFF00&\u1}maniera{\r} idonea
+Dialogue: 0,0:01:26.79,0:01:26.83,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera idonea
+Dialogue: 0,0:01:26.83,0:01:28.78,Default,,0,0,0,,di concentrarsi sulla respirazione, quindi imparare molto a respirare in maniera {\1c&HFF00&\u1}idonea{\r}
+Dialogue: 0,0:01:27.48,0:01:27.70,Default,,0,0,0,,{\1c&HFF00&\u1}quindi{\r} anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:27.70,0:01:27.80,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:27.80,0:01:28.00,Default,,0,0,0,,quindi {\1c&HFF00&\u1}anche{\r} con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:28.00,0:01:28.06,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:28.06,0:01:28.22,Default,,0,0,0,,quindi anche {\1c&HFF00&\u1}con{\r} una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:28.22,0:01:28.30,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:28.30,0:01:28.44,Default,,0,0,0,,quindi anche con {\1c&HFF00&\u1}una{\r} respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:28.44,0:01:28.48,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:28.48,0:01:28.99,Default,,0,0,0,,quindi anche con una {\1c&HFF00&\u1}respirazione{\r} diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:28.99,0:01:29.03,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:29.03,0:01:29.81,Default,,0,0,0,,quindi anche con una respirazione {\1c&HFF00&\u1}diaframmatica,{\r} la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:29.81,0:01:30.03,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:30.03,0:01:30.09,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, {\1c&HFF00&\u1}la{\r} terza è quella di fare una scranzione,
+Dialogue: 0,0:01:30.09,0:01:30.13,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:30.13,0:01:30.51,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la {\1c&HFF00&\u1}terza{\r} è quella di fare una scranzione,
+Dialogue: 0,0:01:30.51,0:01:30.53,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:30.53,0:01:30.55,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza {\1c&HFF00&\u1}è{\r} quella di fare una scranzione,
+Dialogue: 0,0:01:30.55,0:01:30.63,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:30.63,0:01:30.85,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è {\1c&HFF00&\u1}quella{\r} di fare una scranzione,
+Dialogue: 0,0:01:30.85,0:01:30.89,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:30.89,0:01:30.95,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella {\1c&HFF00&\u1}di{\r} fare una scranzione,
+Dialogue: 0,0:01:30.95,0:01:31.01,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:31.01,0:01:31.19,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di {\1c&HFF00&\u1}fare{\r} una scranzione,
+Dialogue: 0,0:01:31.19,0:01:31.25,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:31.25,0:01:31.35,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare {\1c&HFF00&\u1}una{\r} scranzione,
+Dialogue: 0,0:01:31.35,0:01:31.39,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una scranzione,
+Dialogue: 0,0:01:31.39,0:01:31.95,Default,,0,0,0,,quindi anche con una respirazione diaframmatica, la terza è quella di fare una {\1c&HFF00&\u1}scranzione,{\r}
+Dialogue: 0,0:01:32.16,0:01:32.28,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:32.28,0:01:32.34,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:32.34,0:01:32.88,Default,,0,0,0,,un {\1c&HFF00&\u1}inventario{\r} del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:32.88,0:01:32.94,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:32.94,0:01:33.06,Default,,0,0,0,,un inventario {\1c&HFF00&\u1}del{\r} nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:33.06,0:01:33.10,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:33.10,0:01:33.32,Default,,0,0,0,,un inventario del {\1c&HFF00&\u1}nostro{\r} corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:33.32,0:01:33.38,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:33.38,0:01:33.69,Default,,0,0,0,,un inventario del nostro {\1c&HFF00&\u1}corpo{\r} di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:33.69,0:01:33.83,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:33.83,0:01:33.91,Default,,0,0,0,,un inventario del nostro corpo {\1c&HFF00&\u1}di{\r} ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:33.91,0:01:34.01,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.01,0:01:34.13,Default,,0,0,0,,un inventario del nostro corpo di {\1c&HFF00&\u1}ciò{\r} che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.13,0:01:34.19,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.19,0:01:34.29,Default,,0,0,0,,un inventario del nostro corpo di ciò {\1c&HFF00&\u1}che{\r} si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.29,0:01:34.33,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.33,0:01:34.41,Default,,0,0,0,,un inventario del nostro corpo di ciò che {\1c&HFF00&\u1}si{\r} è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.41,0:01:34.43,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.43,0:01:34.45,Default,,0,0,0,,un inventario del nostro corpo di ciò che si {\1c&HFF00&\u1}è{\r} attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.45,0:01:34.47,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.47,0:01:34.85,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è {\1c&HFF00&\u1}attivato{\r} delle nostre emozioni, questo
+Dialogue: 0,0:01:34.85,0:01:34.91,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:34.91,0:01:35.11,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato {\1c&HFF00&\u1}delle{\r} nostre emozioni, questo
+Dialogue: 0,0:01:35.11,0:01:35.17,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:35.17,0:01:35.39,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle {\1c&HFF00&\u1}nostre{\r} emozioni, questo
+Dialogue: 0,0:01:35.39,0:01:35.41,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:35.41,0:01:35.91,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre {\1c&HFF00&\u1}emozioni,{\r} questo
+Dialogue: 0,0:01:35.91,0:01:36.01,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, questo
+Dialogue: 0,0:01:36.01,0:01:36.19,Default,,0,0,0,,un inventario del nostro corpo di ciò che si è attivato delle nostre emozioni, {\1c&HFF00&\u1}questo{\r}
+Dialogue: 0,0:01:36.18,0:01:36.52,Default,,0,0,0,,{\1c&HFF00&\u1}ci{\r} permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:36.52,0:01:36.64,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:36.64,0:01:36.82,Default,,0,0,0,,ci {\1c&HFF00&\u1}permette{\r} di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:36.82,0:01:36.84,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:36.84,0:01:36.92,Default,,0,0,0,,ci permette {\1c&HFF00&\u1}di{\r} fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:36.92,0:01:36.94,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:36.94,0:01:37.10,Default,,0,0,0,,ci permette di {\1c&HFF00&\u1}fare{\r} maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:37.10,0:01:37.14,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:37.14,0:01:37.40,Default,,0,0,0,,ci permette di fare {\1c&HFF00&\u1}maggiore{\r} chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:37.40,0:01:37.46,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:37.46,0:01:37.91,Default,,0,0,0,,ci permette di fare maggiore {\1c&HFF00&\u1}chiarezza,{\r} ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:37.91,0:01:38.05,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:38.05,0:01:38.11,Default,,0,0,0,,ci permette di fare maggiore chiarezza, {\1c&HFF00&\u1}ci{\r} permette di far ritornare la respirazione
+Dialogue: 0,0:01:38.11,0:01:38.17,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:38.17,0:01:38.61,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci {\1c&HFF00&\u1}permette{\r} di far ritornare la respirazione
+Dialogue: 0,0:01:38.61,0:01:38.69,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:38.69,0:01:38.83,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette {\1c&HFF00&\u1}di{\r} far ritornare la respirazione
+Dialogue: 0,0:01:38.83,0:01:38.97,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:38.97,0:01:39.07,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di {\1c&HFF00&\u1}far{\r} ritornare la respirazione
+Dialogue: 0,0:01:39.07,0:01:39.11,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:39.11,0:01:39.67,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far {\1c&HFF00&\u1}ritornare{\r} la respirazione
+Dialogue: 0,0:01:39.67,0:01:39.75,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:39.75,0:01:39.81,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare {\1c&HFF00&\u1}la{\r} respirazione
+Dialogue: 0,0:01:39.81,0:01:39.85,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la respirazione
+Dialogue: 0,0:01:39.85,0:01:40.61,Default,,0,0,0,,ci permette di fare maggiore chiarezza, ci permette di far ritornare la {\1c&HFF00&\u1}respirazione{\r}
+Dialogue: 0,0:01:41.02,0:01:41.44,Default,,0,0,0,,{\1c&HFF00&\u1}normale{\r} quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:41.44,0:01:41.64,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:41.64,0:01:41.84,Default,,0,0,0,,normale {\1c&HFF00&\u1}quindi{\r} uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:41.84,0:01:41.90,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:41.90,0:01:42.18,Default,,0,0,0,,normale quindi {\1c&HFF00&\u1}uscire{\r} da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.18,0:01:42.22,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.22,0:01:42.30,Default,,0,0,0,,normale quindi uscire {\1c&HFF00&\u1}da{\r} una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.30,0:01:42.34,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.34,0:01:42.42,Default,,0,0,0,,normale quindi uscire da {\1c&HFF00&\u1}una{\r} fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.42,0:01:42.46,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.46,0:01:42.65,Default,,0,0,0,,normale quindi uscire da una {\1c&HFF00&\u1}fase{\r} di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.65,0:01:42.71,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.71,0:01:42.77,Default,,0,0,0,,normale quindi uscire da una fase {\1c&HFF00&\u1}di{\r} perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.77,0:01:42.83,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:42.83,0:01:43.79,Default,,0,0,0,,normale quindi uscire da una fase di {\1c&HFF00&\u1}perventilazione,{\r} in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:43.79,0:01:44.03,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:44.03,0:01:44.09,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, {\1c&HFF00&\u1}in{\r} questo modo saremo in grado di gestire
+Dialogue: 0,0:01:44.09,0:01:44.13,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:44.13,0:01:44.33,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in {\1c&HFF00&\u1}questo{\r} modo saremo in grado di gestire
+Dialogue: 0,0:01:44.33,0:01:44.37,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:44.37,0:01:44.55,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo {\1c&HFF00&\u1}modo{\r} saremo in grado di gestire
+Dialogue: 0,0:01:44.55,0:01:44.63,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:44.63,0:01:44.87,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo {\1c&HFF00&\u1}saremo{\r} in grado di gestire
+Dialogue: 0,0:01:44.87,0:01:44.91,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:44.91,0:01:44.99,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo {\1c&HFF00&\u1}in{\r} grado di gestire
+Dialogue: 0,0:01:44.99,0:01:45.01,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:45.01,0:01:45.19,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in {\1c&HFF00&\u1}grado{\r} di gestire
+Dialogue: 0,0:01:45.19,0:01:45.23,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:45.23,0:01:45.31,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado {\1c&HFF00&\u1}di{\r} gestire
+Dialogue: 0,0:01:45.31,0:01:45.37,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di gestire
+Dialogue: 0,0:01:45.37,0:01:45.69,Default,,0,0,0,,normale quindi uscire da una fase di perventilazione, in questo modo saremo in grado di {\1c&HFF00&\u1}gestire{\r}
+Dialogue: 0,0:01:46.63,0:01:47.53,Default,,0,0,0,,{\1c&HFF00&\u1}pienamente{\r} un attacco di panico.
+Dialogue: 0,0:01:47.53,0:01:47.59,Default,,0,0,0,,pienamente un attacco di panico.
+Dialogue: 0,0:01:47.59,0:01:47.67,Default,,0,0,0,,pienamente {\1c&HFF00&\u1}un{\r} attacco di panico.
+Dialogue: 0,0:01:47.67,0:01:47.77,Default,,0,0,0,,pienamente un attacco di panico.
+Dialogue: 0,0:01:47.77,0:01:48.01,Default,,0,0,0,,pienamente un {\1c&HFF00&\u1}attacco{\r} di panico.
+Dialogue: 0,0:01:48.01,0:01:48.07,Default,,0,0,0,,pienamente un attacco di panico.
+Dialogue: 0,0:01:48.07,0:01:48.13,Default,,0,0,0,,pienamente un attacco {\1c&HFF00&\u1}di{\r} panico.
+Dialogue: 0,0:01:48.13,0:01:48.15,Default,,0,0,0,,pienamente un attacco di panico.
+Dialogue: 0,0:01:48.15,0:01:48.29,Default,,0,0,0,,pienamente un attacco di {\1c&HFF00&\u1}panico.{\r}
+Dialogue: 0,0:01:47.42,0:01:47.56,Default,,0,0,0,,{\1c&HFF00&\u1}Spero{\r} che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:47.56,0:01:47.60,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:47.60,0:01:47.70,Default,,0,0,0,,Spero {\1c&HFF00&\u1}che{\r} questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:47.70,0:01:47.74,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:47.74,0:01:47.92,Default,,0,0,0,,Spero che {\1c&HFF00&\u1}questo{\r} video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:47.92,0:01:47.98,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:47.98,0:01:48.20,Default,,0,0,0,,Spero che questo {\1c&HFF00&\u1}video{\r} ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:48.20,0:01:48.26,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:48.26,0:01:48.32,Default,,0,0,0,,Spero che questo video {\1c&HFF00&\u1}ti{\r} sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:48.32,0:01:48.38,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:48.38,0:01:48.50,Default,,0,0,0,,Spero che questo video ti {\1c&HFF00&\u1}sia{\r} stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:48.50,0:01:48.56,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:48.56,0:01:48.89,Default,,0,0,0,,Spero che questo video ti sia {\1c&HFF00&\u1}stato{\r} utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:48.89,0:01:49.11,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:49.11,0:01:49.49,Default,,0,0,0,,Spero che questo video ti sia stato {\1c&HFF00&\u1}utile,{\r} se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:49.49,0:01:49.89,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:49.89,0:01:49.97,Default,,0,0,0,,Spero che questo video ti sia stato utile, {\1c&HFF00&\u1}se{\r} ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:49.97,0:01:50.01,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:50.01,0:01:50.09,Default,,0,0,0,,Spero che questo video ti sia stato utile, se {\1c&HFF00&\u1}ti{\r} è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:50.09,0:01:50.11,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:50.11,0:01:50.13,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti {\1c&HFF00&\u1}è{\r} piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:50.13,0:01:50.17,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:50.17,0:01:50.53,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è {\1c&HFF00&\u1}piaciuto{\r} iscriviti al mio canale.
+Dialogue: 0,0:01:50.53,0:01:50.55,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:50.55,0:01:50.91,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto {\1c&HFF00&\u1}iscriviti{\r} al mio canale.
+Dialogue: 0,0:01:50.91,0:01:50.95,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:50.95,0:01:51.01,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti {\1c&HFF00&\u1}al{\r} mio canale.
+Dialogue: 0,0:01:51.01,0:01:51.03,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:51.03,0:01:51.11,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al {\1c&HFF00&\u1}mio{\r} canale.
+Dialogue: 0,0:01:51.11,0:01:51.15,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio canale.
+Dialogue: 0,0:01:51.15,0:01:51.47,Default,,0,0,0,,Spero che questo video ti sia stato utile, se ti è piaciuto iscriviti al mio {\1c&HFF00&\u1}canale.{\r}

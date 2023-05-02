@@ -1,0 +1,136 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.64,0:00:0.90,Default,,0,0,0,,{\1c&HFF00&\u1}Ma{\r} non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:0.90,0:00:1.63,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:1.63,0:00:1.73,Default,,0,0,0,,Ma {\1c&HFF00&\u1}non{\r} è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:1.73,0:00:1.75,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:1.75,0:00:1.79,Default,,0,0,0,,Ma non {\1c&HFF00&\u1}è{\r} una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:1.79,0:00:1.83,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:1.83,0:00:1.91,Default,,0,0,0,,Ma non è {\1c&HFF00&\u1}una{\r} cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:1.91,0:00:1.93,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:1.93,0:00:2.05,Default,,0,0,0,,Ma non è una {\1c&HFF00&\u1}cosa{\r} che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.05,0:00:2.07,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.07,0:00:2.13,Default,,0,0,0,,Ma non è una cosa {\1c&HFF00&\u1}che{\r} ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.13,0:00:2.15,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.15,0:00:2.19,Default,,0,0,0,,Ma non è una cosa che {\1c&HFF00&\u1}ho{\r} inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.19,0:00:2.21,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.21,0:00:2.51,Default,,0,0,0,,Ma non è una cosa che ho {\1c&HFF00&\u1}inventato{\r} io, è una cosa che si usa.
+Dialogue: 0,0:00:2.51,0:00:2.57,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.57,0:00:2.65,Default,,0,0,0,,Ma non è una cosa che ho inventato {\1c&HFF00&\u1}io,{\r} è una cosa che si usa.
+Dialogue: 0,0:00:2.65,0:00:2.67,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.67,0:00:2.69,Default,,0,0,0,,Ma non è una cosa che ho inventato io, {\1c&HFF00&\u1}è{\r} una cosa che si usa.
+Dialogue: 0,0:00:2.69,0:00:2.73,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.73,0:00:2.81,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è {\1c&HFF00&\u1}una{\r} cosa che si usa.
+Dialogue: 0,0:00:2.81,0:00:2.85,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:2.85,0:00:2.99,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una {\1c&HFF00&\u1}cosa{\r} che si usa.
+Dialogue: 0,0:00:2.99,0:00:3.03,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:3.03,0:00:3.11,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa {\1c&HFF00&\u1}che{\r} si usa.
+Dialogue: 0,0:00:3.11,0:00:3.19,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:3.19,0:00:3.27,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che {\1c&HFF00&\u1}si{\r} usa.
+Dialogue: 0,0:00:3.27,0:00:3.35,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si usa.
+Dialogue: 0,0:00:3.35,0:00:3.53,Default,,0,0,0,,Ma non è una cosa che ho inventato io, è una cosa che si {\1c&HFF00&\u1}usa.{\r}
+Dialogue: 0,0:00:4.10,0:00:4.28,Default,,0,0,0,,{\1c&HFF00&\u1}Allora{\r} vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:4.28,0:00:4.34,Default,,0,0,0,,Allora vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:4.34,0:00:4.40,Default,,0,0,0,,Allora {\1c&HFF00&\u1}vi{\r} faccio un esempio che è curioso.
+Dialogue: 0,0:00:4.40,0:00:4.44,Default,,0,0,0,,Allora vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:4.44,0:00:4.58,Default,,0,0,0,,Allora vi {\1c&HFF00&\u1}faccio{\r} un esempio che è curioso.
+Dialogue: 0,0:00:4.58,0:00:4.60,Default,,0,0,0,,Allora vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:4.60,0:00:4.66,Default,,0,0,0,,Allora vi faccio {\1c&HFF00&\u1}un{\r} esempio che è curioso.
+Dialogue: 0,0:00:4.66,0:00:4.70,Default,,0,0,0,,Allora vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:4.70,0:00:5.07,Default,,0,0,0,,Allora vi faccio un {\1c&HFF00&\u1}esempio{\r} che è curioso.
+Dialogue: 0,0:00:5.07,0:00:5.11,Default,,0,0,0,,Allora vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:5.11,0:00:5.21,Default,,0,0,0,,Allora vi faccio un esempio {\1c&HFF00&\u1}che{\r} è curioso.
+Dialogue: 0,0:00:5.21,0:00:5.39,Default,,0,0,0,,Allora vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:5.39,0:00:5.41,Default,,0,0,0,,Allora vi faccio un esempio che {\1c&HFF00&\u1}è{\r} curioso.
+Dialogue: 0,0:00:5.41,0:00:5.49,Default,,0,0,0,,Allora vi faccio un esempio che è curioso.
+Dialogue: 0,0:00:5.49,0:00:5.83,Default,,0,0,0,,Allora vi faccio un esempio che è {\1c&HFF00&\u1}curioso.{\r}
+Dialogue: 0,0:00:7.06,0:00:7.12,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.12,0:00:7.16,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.16,0:00:7.20,Default,,0,0,0,,C'è {\1c&HFF00&\u1}un{\r} cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.20,0:00:7.22,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.22,0:00:7.59,Default,,0,0,0,,C'è un {\1c&HFF00&\u1}cantautore{\r} che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.59,0:00:7.61,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.61,0:00:7.67,Default,,0,0,0,,C'è un cantautore {\1c&HFF00&\u1}che{\r} si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.67,0:00:7.69,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.69,0:00:7.75,Default,,0,0,0,,C'è un cantautore che {\1c&HFF00&\u1}si{\r} chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.75,0:00:7.77,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.77,0:00:7.91,Default,,0,0,0,,C'è un cantautore che si {\1c&HFF00&\u1}chiama{\r} Eugenio Finardi, no?
+Dialogue: 0,0:00:7.91,0:00:7.93,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:7.93,0:00:8.25,Default,,0,0,0,,C'è un cantautore che si chiama {\1c&HFF00&\u1}Eugenio{\r} Finardi, no?
+Dialogue: 0,0:00:8.25,0:00:8.29,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:8.29,0:00:8.73,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio {\1c&HFF00&\u1}Finardi,{\r} no?
+Dialogue: 0,0:00:8.73,0:00:8.77,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, no?
+Dialogue: 0,0:00:8.77,0:00:8.83,Default,,0,0,0,,C'è un cantautore che si chiama Eugenio Finardi, {\1c&HFF00&\u1}no?{\r}
+Dialogue: 0,0:00:9.00,0:00:9.04,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.04,0:00:9.06,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.06,0:00:9.10,Default,,0,0,0,,C'è {\1c&HFF00&\u1}un{\r} suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.10,0:00:9.12,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.12,0:00:9.18,Default,,0,0,0,,C'è un {\1c&HFF00&\u1}suo{\r} disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.18,0:00:9.20,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.20,0:00:9.30,Default,,0,0,0,,C'è un suo {\1c&HFF00&\u1}disco,{\r} del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.30,0:00:9.32,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.32,0:00:9.38,Default,,0,0,0,,C'è un suo disco, {\1c&HFF00&\u1}del 1976,{\r} che si chiama Sugo.
+Dialogue: 0,0:00:9.38,0:00:9.42,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.42,0:00:9.50,Default,,0,0,0,,C'è un suo disco, del 1976, {\1c&HFF00&\u1}che{\r} si chiama Sugo.
+Dialogue: 0,0:00:9.50,0:00:9.52,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.52,0:00:9.62,Default,,0,0,0,,C'è un suo disco, del 1976, che {\1c&HFF00&\u1}si{\r} chiama Sugo.
+Dialogue: 0,0:00:9.62,0:00:9.64,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.64,0:00:9.78,Default,,0,0,0,,C'è un suo disco, del 1976, che si {\1c&HFF00&\u1}chiama{\r} Sugo.
+Dialogue: 0,0:00:9.78,0:00:9.82,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama Sugo.
+Dialogue: 0,0:00:9.82,0:00:10.02,Default,,0,0,0,,C'è un suo disco, del 1976, che si chiama {\1c&HFF00&\u1}Sugo.{\r}
+Dialogue: 0,0:00:14.02,0:00:14.16,Default,,0,0,0,,{\1c&HFF00&\u1}In{\r} questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:14.16,0:00:15.93,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:15.93,0:00:16.13,Default,,0,0,0,,In {\1c&HFF00&\u1}questo{\r} disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:16.13,0:00:16.33,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:16.33,0:00:16.59,Default,,0,0,0,,In questo {\1c&HFF00&\u1}disco,{\r} Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:16.59,0:00:16.67,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:16.67,0:00:16.91,Default,,0,0,0,,In questo disco, {\1c&HFF00&\u1}Sugo,{\r} c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:16.91,0:00:16.95,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:16.95,0:00:17.07,Default,,0,0,0,,In questo disco, Sugo, {\1c&HFF00&\u1}c'è{\r} una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.07,0:00:17.11,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.11,0:00:17.19,Default,,0,0,0,,In questo disco, Sugo, c'è {\1c&HFF00&\u1}una{\r} cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.19,0:00:17.23,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.23,0:00:17.45,Default,,0,0,0,,In questo disco, Sugo, c'è una {\1c&HFF00&\u1}cantone{\r} che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.45,0:00:17.47,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.47,0:00:17.53,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone {\1c&HFF00&\u1}che{\r} si chiama Sulla Strada,
+Dialogue: 0,0:00:17.53,0:00:17.59,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.59,0:00:17.63,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che {\1c&HFF00&\u1}si{\r} chiama Sulla Strada,
+Dialogue: 0,0:00:17.63,0:00:17.65,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.65,0:00:17.83,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si {\1c&HFF00&\u1}chiama{\r} Sulla Strada,
+Dialogue: 0,0:00:17.83,0:00:17.89,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:17.89,0:00:18.13,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama {\1c&HFF00&\u1}Sulla{\r} Strada,
+Dialogue: 0,0:00:18.13,0:00:18.17,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla Strada,
+Dialogue: 0,0:00:18.17,0:00:18.59,Default,,0,0,0,,In questo disco, Sugo, c'è una cantone che si chiama Sulla {\1c&HFF00&\u1}Strada,{\r}
+Dialogue: 0,0:00:20.96,0:00:21.02,Default,,0,0,0,,{\1c&HFF00&\u1}ed{\r} è il racconto della vita da musicista.
+Dialogue: 0,0:00:21.02,0:00:21.04,Default,,0,0,0,,ed è il racconto della vita da musicista.
+Dialogue: 0,0:00:21.04,0:00:21.08,Default,,0,0,0,,ed {\1c&HFF00&\u1}è{\r} il racconto della vita da musicista.
+Dialogue: 0,0:00:21.08,0:00:21.12,Default,,0,0,0,,ed è il racconto della vita da musicista.
+Dialogue: 0,0:00:21.12,0:00:21.20,Default,,0,0,0,,ed è {\1c&HFF00&\u1}il{\r} racconto della vita da musicista.
+Dialogue: 0,0:00:21.20,0:00:21.24,Default,,0,0,0,,ed è il racconto della vita da musicista.
+Dialogue: 0,0:00:21.24,0:00:22.03,Default,,0,0,0,,ed è il {\1c&HFF00&\u1}racconto{\r} della vita da musicista.
+Dialogue: 0,0:00:22.03,0:00:22.79,Default,,0,0,0,,ed è il racconto della vita da musicista.
+Dialogue: 0,0:00:22.79,0:00:22.97,Default,,0,0,0,,ed è il racconto {\1c&HFF00&\u1}della{\r} vita da musicista.
+Dialogue: 0,0:00:22.97,0:00:22.99,Default,,0,0,0,,ed è il racconto della vita da musicista.
+Dialogue: 0,0:00:22.99,0:00:23.15,Default,,0,0,0,,ed è il racconto della {\1c&HFF00&\u1}vita{\r} da musicista.
+Dialogue: 0,0:00:23.15,0:00:23.19,Default,,0,0,0,,ed è il racconto della vita da musicista.
+Dialogue: 0,0:00:23.19,0:00:23.29,Default,,0,0,0,,ed è il racconto della vita {\1c&HFF00&\u1}da{\r} musicista.
+Dialogue: 0,0:00:23.29,0:00:23.31,Default,,0,0,0,,ed è il racconto della vita da musicista.
+Dialogue: 0,0:00:23.31,0:00:23.85,Default,,0,0,0,,ed è il racconto della vita da {\1c&HFF00&\u1}musicista.{\r}
+Dialogue: 0,0:00:24.18,0:00:24.38,Default,,0,0,0,,{\1c&HFF00&\u1}loro{\r} che sui notti
+Dialogue: 0,0:00:24.38,0:00:24.44,Default,,0,0,0,,loro che sui notti
+Dialogue: 0,0:00:24.44,0:00:24.50,Default,,0,0,0,,loro {\1c&HFF00&\u1}che{\r} sui notti
+Dialogue: 0,0:00:24.50,0:00:24.53,Default,,0,0,0,,loro che sui notti
+Dialogue: 0,0:00:24.53,0:00:25.03,Default,,0,0,0,,loro che {\1c&HFF00&\u1}sui{\r} notti
+Dialogue: 0,0:00:25.03,0:00:25.07,Default,,0,0,0,,loro che sui notti
+Dialogue: 0,0:00:25.07,0:00:25.23,Default,,0,0,0,,loro che sui {\1c&HFF00&\u1}notti{\r}

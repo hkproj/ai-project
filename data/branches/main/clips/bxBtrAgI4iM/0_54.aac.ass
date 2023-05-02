@@ -1,0 +1,88 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.04,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.04,0:00:0.06,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.06,0:00:0.24,Default,,0,0,0,,se {\1c&HFF00&\u1}stazioni{\r} come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.24,0:00:0.26,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.26,0:00:0.34,Default,,0,0,0,,se stazioni {\1c&HFF00&\u1}come{\r} quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.34,0:00:0.36,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.36,0:00:0.48,Default,,0,0,0,,se stazioni come {\1c&HFF00&\u1}quella{\r} di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.50,0:00:0.54,Default,,0,0,0,,se stazioni come quella {\1c&HFF00&\u1}di{\r} Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.54,0:00:0.56,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.56,0:00:0.66,Default,,0,0,0,,se stazioni come quella di {\1c&HFF00&\u1}Prato{\r} non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.68,0:00:0.74,Default,,0,0,0,,se stazioni come quella di Prato {\1c&HFF00&\u1}non{\r} si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.74,0:00:0.76,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.76,0:00:0.80,Default,,0,0,0,,se stazioni come quella di Prato non {\1c&HFF00&\u1}si{\r} occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:0.82,0:00:1.08,Default,,0,0,0,,se stazioni come quella di Prato non si {\1c&HFF00&\u1}occuperebbero{\r} soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:1.08,0:00:1.10,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:1.10,0:00:1.28,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero {\1c&HFF00&\u1}soltanto{\r} di questioni amministrative, funzioni
+Dialogue: 0,0:00:1.28,0:00:1.30,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:1.30,0:00:1.34,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto {\1c&HFF00&\u1}di{\r} questioni amministrative, funzioni
+Dialogue: 0,0:00:1.34,0:00:1.40,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:1.40,0:00:1.58,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di {\1c&HFF00&\u1}questioni{\r} amministrative, funzioni
+Dialogue: 0,0:00:1.58,0:00:1.60,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:1.60,0:00:1.88,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni {\1c&HFF00&\u1}amministrative,{\r} funzioni
+Dialogue: 0,0:00:1.88,0:00:1.90,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, funzioni
+Dialogue: 0,0:00:1.90,0:00:2.23,Default,,0,0,0,,se stazioni come quella di Prato non si occuperebbero soltanto di questioni amministrative, {\1c&HFF00&\u1}funzioni{\r}
+Dialogue: 0,0:00:5.88,0:00:5.98,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:5.98,0:00:6.04,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:6.04,0:00:6.54,Default,,0,0,0,,che {\1c&HFF00&\u1}ricordiamo{\r} andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:6.54,0:00:6.74,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:6.74,0:00:7.16,Default,,0,0,0,,che ricordiamo {\1c&HFF00&\u1}andrebbero{\r} comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:7.16,0:00:7.20,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:7.20,0:00:7.54,Default,,0,0,0,,che ricordiamo andrebbero {\1c&HFF00&\u1}comunque{\r} regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:7.54,0:00:7.63,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:7.63,0:00:8.33,Default,,0,0,0,,che ricordiamo andrebbero comunque {\1c&HFF00&\u1}regolamentate{\r} con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:8.33,0:00:8.43,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:8.43,0:00:8.55,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate {\1c&HFF00&\u1}con{\r} le autorità locali, ma persino di vere
+Dialogue: 0,0:00:8.55,0:00:8.59,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:8.59,0:00:8.65,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con {\1c&HFF00&\u1}le{\r} autorità locali, ma persino di vere
+Dialogue: 0,0:00:8.65,0:00:8.67,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:8.67,0:00:8.99,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le {\1c&HFF00&\u1}autorità{\r} locali, ma persino di vere
+Dialogue: 0,0:00:8.99,0:00:9.05,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:9.05,0:00:9.43,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità {\1c&HFF00&\u1}locali,{\r} ma persino di vere
+Dialogue: 0,0:00:9.43,0:00:9.61,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:9.61,0:00:9.71,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, {\1c&HFF00&\u1}ma{\r} persino di vere
+Dialogue: 0,0:00:9.71,0:00:9.79,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:9.79,0:00:10.31,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma {\1c&HFF00&\u1}persino{\r} di vere
+Dialogue: 0,0:00:10.31,0:00:10.43,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:10.43,0:00:10.53,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino {\1c&HFF00&\u1}di{\r} vere
+Dialogue: 0,0:00:10.53,0:00:10.81,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di vere
+Dialogue: 0,0:00:10.81,0:00:11.07,Default,,0,0,0,,che ricordiamo andrebbero comunque regolamentate con le autorità locali, ma persino di {\1c&HFF00&\u1}vere{\r}
+Dialogue: 0,0:00:11.46,0:00:11.48,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:11.48,0:00:11.54,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:11.54,0:00:11.92,Default,,0,0,0,,e {\1c&HFF00&\u1}proprie{\r} attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:11.92,0:00:12.10,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:12.10,0:00:12.50,Default,,0,0,0,,e proprie {\1c&HFF00&\u1}attività{\r} di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:12.50,0:00:12.56,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:12.56,0:00:12.64,Default,,0,0,0,,e proprie attività {\1c&HFF00&\u1}di{\r} intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:12.64,0:00:12.66,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:12.66,0:00:13.39,Default,,0,0,0,,e proprie attività di {\1c&HFF00&\u1}intelligence,{\r} coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:13.39,0:00:13.51,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:13.51,0:00:14.11,Default,,0,0,0,,e proprie attività di intelligence, {\1c&HFF00&\u1}coordinate{\r} direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:14.11,0:00:14.21,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:14.21,0:00:14.89,Default,,0,0,0,,e proprie attività di intelligence, coordinate {\1c&HFF00&\u1}direttamente{\r} dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:14.89,0:00:14.95,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:14.95,0:00:15.09,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente {\1c&HFF00&\u1}dalle{\r} forze di sicurezza cinesi.
+Dialogue: 0,0:00:15.09,0:00:15.15,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:15.15,0:00:15.41,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle {\1c&HFF00&\u1}forze{\r} di sicurezza cinesi.
+Dialogue: 0,0:00:15.41,0:00:15.47,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:15.47,0:00:15.53,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze {\1c&HFF00&\u1}di{\r} sicurezza cinesi.
+Dialogue: 0,0:00:15.53,0:00:15.57,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:15.57,0:00:15.93,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di {\1c&HFF00&\u1}sicurezza{\r} cinesi.
+Dialogue: 0,0:00:15.93,0:00:16.03,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza cinesi.
+Dialogue: 0,0:00:16.03,0:00:16.42,Default,,0,0,0,,e proprie attività di intelligence, coordinate direttamente dalle forze di sicurezza {\1c&HFF00&\u1}cinesi.{\r}

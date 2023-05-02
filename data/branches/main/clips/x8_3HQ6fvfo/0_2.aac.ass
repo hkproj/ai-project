@@ -1,0 +1,252 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.20,0:00:0.26,Default,,0,0,0,,{\1c&HFF00&\u1}La{\r} cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.26,0:00:0.30,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.30,0:00:0.48,Default,,0,0,0,,La {\1c&HFF00&\u1}cosa{\r} che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.50,0:00:0.60,Default,,0,0,0,,La cosa {\1c&HFF00&\u1}che{\r} però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.60,0:00:0.62,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.62,0:00:0.78,Default,,0,0,0,,La cosa che {\1c&HFF00&\u1}però{\r} posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:0.82,0:00:1.04,Default,,0,0,0,,La cosa che però {\1c&HFF00&\u1}posso{\r} dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.04,0:00:1.08,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.08,0:00:1.32,Default,,0,0,0,,La cosa che però posso {\1c&HFF00&\u1}dirvi{\r} è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.32,0:00:1.34,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.34,0:00:1.36,Default,,0,0,0,,La cosa che però posso dirvi {\1c&HFF00&\u1}è{\r} che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.36,0:00:1.42,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.42,0:00:1.52,Default,,0,0,0,,La cosa che però posso dirvi è {\1c&HFF00&\u1}che{\r} se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.52,0:00:1.65,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.65,0:00:1.73,Default,,0,0,0,,La cosa che però posso dirvi è che {\1c&HFF00&\u1}se{\r} metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.73,0:00:1.79,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:1.79,0:00:2.25,Default,,0,0,0,,La cosa che però posso dirvi è che se {\1c&HFF00&\u1}metterete{\r} in pratica queste piccole abitudini
+Dialogue: 0,0:00:2.25,0:00:2.31,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:2.31,0:00:2.39,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete {\1c&HFF00&\u1}in{\r} pratica queste piccole abitudini
+Dialogue: 0,0:00:2.39,0:00:2.45,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:2.45,0:00:2.89,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in {\1c&HFF00&\u1}pratica{\r} queste piccole abitudini
+Dialogue: 0,0:00:2.89,0:00:2.95,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:2.95,0:00:3.27,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica {\1c&HFF00&\u1}queste{\r} piccole abitudini
+Dialogue: 0,0:00:3.27,0:00:3.39,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:3.39,0:00:3.69,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste {\1c&HFF00&\u1}piccole{\r} abitudini
+Dialogue: 0,0:00:3.69,0:00:3.75,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole abitudini
+Dialogue: 0,0:00:3.75,0:00:4.21,Default,,0,0,0,,La cosa che però posso dirvi è che se metterete in pratica queste piccole {\1c&HFF00&\u1}abitudini{\r}
+Dialogue: 0,0:00:4.54,0:00:5.14,Default,,0,0,0,,{\1c&HFF00&\u1}regolarmente{\r} all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:5.14,0:00:5.18,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:5.18,0:00:5.50,Default,,0,0,0,,regolarmente {\1c&HFF00&\u1}all'interno{\r} della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:5.50,0:00:5.52,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:5.52,0:00:5.70,Default,,0,0,0,,regolarmente all'interno {\1c&HFF00&\u1}della{\r} vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:5.70,0:00:5.74,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:5.74,0:00:5.98,Default,,0,0,0,,regolarmente all'interno della {\1c&HFF00&\u1}vostra{\r} vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:5.98,0:00:6.04,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:6.04,0:00:6.31,Default,,0,0,0,,regolarmente all'interno della vostra {\1c&HFF00&\u1}vita,{\r} beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:6.31,0:00:6.35,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:6.35,0:00:6.61,Default,,0,0,0,,regolarmente all'interno della vostra vita, {\1c&HFF00&\u1}beh,{\r} andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:6.61,0:00:6.67,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:6.67,0:00:6.97,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, {\1c&HFF00&\u1}andrete{\r} magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:6.97,0:00:7.03,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:7.03,0:00:7.25,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete {\1c&HFF00&\u1}magari{\r} a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:7.25,0:00:7.27,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:7.27,0:00:7.29,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari {\1c&HFF00&\u1}a{\r} risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:7.29,0:00:7.33,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:7.33,0:00:7.87,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a {\1c&HFF00&\u1}risparmiare{\r} da qualche decina d'euro
+Dialogue: 0,0:00:7.87,0:00:8.21,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:8.21,0:00:8.35,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare {\1c&HFF00&\u1}da{\r} qualche decina d'euro
+Dialogue: 0,0:00:8.35,0:00:8.47,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:8.47,0:00:8.79,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da {\1c&HFF00&\u1}qualche{\r} decina d'euro
+Dialogue: 0,0:00:8.79,0:00:8.85,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:8.85,0:00:9.17,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche {\1c&HFF00&\u1}decina{\r} d'euro
+Dialogue: 0,0:00:9.17,0:00:9.25,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina d'euro
+Dialogue: 0,0:00:9.25,0:00:9.59,Default,,0,0,0,,regolarmente all'interno della vostra vita, beh, andrete magari a risparmiare da qualche decina {\1c&HFF00&\u1}d'euro{\r}
+Dialogue: 0,0:00:9.60,0:00:9.62,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} magari addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:9.62,0:00:9.64,Default,,0,0,0,,a magari addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:9.64,0:00:9.76,Default,,0,0,0,,a {\1c&HFF00&\u1}magari{\r} addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:9.76,0:00:9.78,Default,,0,0,0,,a magari addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:9.78,0:00:10.00,Default,,0,0,0,,a magari {\1c&HFF00&\u1}addirittura{\r} centinaia d'euro ogni mese.
+Dialogue: 0,0:00:10.00,0:00:10.02,Default,,0,0,0,,a magari addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:10.02,0:00:10.20,Default,,0,0,0,,a magari addirittura {\1c&HFF00&\u1}centinaia{\r} d'euro ogni mese.
+Dialogue: 0,0:00:10.20,0:00:10.22,Default,,0,0,0,,a magari addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:10.22,0:00:10.32,Default,,0,0,0,,a magari addirittura centinaia {\1c&HFF00&\u1}d'euro{\r} ogni mese.
+Dialogue: 0,0:00:10.32,0:00:10.34,Default,,0,0,0,,a magari addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:10.34,0:00:10.42,Default,,0,0,0,,a magari addirittura centinaia d'euro {\1c&HFF00&\u1}ogni{\r} mese.
+Dialogue: 0,0:00:10.42,0:00:10.44,Default,,0,0,0,,a magari addirittura centinaia d'euro ogni mese.
+Dialogue: 0,0:00:10.44,0:00:10.52,Default,,0,0,0,,a magari addirittura centinaia d'euro ogni {\1c&HFF00&\u1}mese.{\r}
+Dialogue: 0,0:00:12.90,0:00:12.98,Default,,0,0,0,,{\1c&HFF00&\u1}Che,{\r} mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:12.98,0:00:13.00,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.00,0:00:13.04,Default,,0,0,0,,Che, {\1c&HFF00&\u1}mi{\r} rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.04,0:00:13.12,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.12,0:00:13.32,Default,,0,0,0,,Che, mi {\1c&HFF00&\u1}rendo{\r} conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.32,0:00:13.36,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.36,0:00:13.64,Default,,0,0,0,,Che, mi rendo {\1c&HFF00&\u1}conto,{\r} non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.64,0:00:13.76,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.76,0:00:13.98,Default,,0,0,0,,Che, mi rendo conto, {\1c&HFF00&\u1}non{\r} cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:13.98,0:00:14.13,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:14.13,0:00:14.61,Default,,0,0,0,,Che, mi rendo conto, non {\1c&HFF00&\u1}cambiano{\r} la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:14.61,0:00:14.67,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:14.67,0:00:14.73,Default,,0,0,0,,Che, mi rendo conto, non cambiano {\1c&HFF00&\u1}la{\r} vita, però è comunque qualcosa.
+Dialogue: 0,0:00:14.73,0:00:14.77,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:14.77,0:00:15.17,Default,,0,0,0,,Che, mi rendo conto, non cambiano la {\1c&HFF00&\u1}vita,{\r} però è comunque qualcosa.
+Dialogue: 0,0:00:15.17,0:00:15.53,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:15.53,0:00:15.69,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, {\1c&HFF00&\u1}però{\r} è comunque qualcosa.
+Dialogue: 0,0:00:15.69,0:00:15.75,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:15.75,0:00:15.79,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però {\1c&HFF00&\u1}è{\r} comunque qualcosa.
+Dialogue: 0,0:00:15.79,0:00:15.83,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:15.83,0:00:16.15,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è {\1c&HFF00&\u1}comunque{\r} qualcosa.
+Dialogue: 0,0:00:16.15,0:00:16.17,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque qualcosa.
+Dialogue: 0,0:00:16.17,0:00:16.65,Default,,0,0,0,,Che, mi rendo conto, non cambiano la vita, però è comunque {\1c&HFF00&\u1}qualcosa.{\r}
+Dialogue: 0,0:00:16.94,0:00:17.16,Default,,0,0,0,,{\1c&HFF00&\u1}Numero 3.{\r} Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:17.16,0:00:17.66,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:17.66,0:00:17.74,Default,,0,0,0,,Numero 3. {\1c&HFF00&\u1}Lo{\r} dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:17.74,0:00:17.80,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:17.80,0:00:18.04,Default,,0,0,0,,Numero 3. Lo {\1c&HFF00&\u1}dico{\r} senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:18.04,0:00:18.23,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:18.23,0:00:18.47,Default,,0,0,0,,Numero 3. Lo dico {\1c&HFF00&\u1}senza{\r} girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:18.47,0:00:18.55,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:18.55,0:00:18.87,Default,,0,0,0,,Numero 3. Lo dico senza {\1c&HFF00&\u1}girarci{\r} intorno. Io guadagno bene.
+Dialogue: 0,0:00:18.87,0:00:18.91,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:18.91,0:00:19.37,Default,,0,0,0,,Numero 3. Lo dico senza girarci {\1c&HFF00&\u1}intorno.{\r} Io guadagno bene.
+Dialogue: 0,0:00:19.37,0:00:19.97,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:19.97,0:00:20.03,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. {\1c&HFF00&\u1}Io{\r} guadagno bene.
+Dialogue: 0,0:00:20.03,0:00:20.07,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:20.07,0:00:20.41,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io {\1c&HFF00&\u1}guadagno{\r} bene.
+Dialogue: 0,0:00:20.41,0:00:20.45,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno bene.
+Dialogue: 0,0:00:20.45,0:00:20.67,Default,,0,0,0,,Numero 3. Lo dico senza girarci intorno. Io guadagno {\1c&HFF00&\u1}bene.{\r}
+Dialogue: 0,0:00:21.02,0:00:21.16,Default,,0,0,0,,{\1c&HFF00&\u1}Dal{\r} punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.16,0:00:21.18,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.18,0:00:21.36,Default,,0,0,0,,Dal {\1c&HFF00&\u1}punto{\r} di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.36,0:00:21.40,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.40,0:00:21.48,Default,,0,0,0,,Dal punto {\1c&HFF00&\u1}di{\r} vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.48,0:00:21.50,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.50,0:00:21.70,Default,,0,0,0,,Dal punto di {\1c&HFF00&\u1}vista{\r} economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.70,0:00:21.76,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:21.76,0:00:22.42,Default,,0,0,0,,Dal punto di vista {\1c&HFF00&\u1}economico,{\r} non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:22.42,0:00:22.61,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:22.61,0:00:22.73,Default,,0,0,0,,Dal punto di vista economico, {\1c&HFF00&\u1}non{\r} avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:22.73,0:00:22.79,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:22.79,0:00:23.13,Default,,0,0,0,,Dal punto di vista economico, non {\1c&HFF00&\u1}avrei{\r} bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:23.13,0:00:23.41,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:23.41,0:00:24.13,Default,,0,0,0,,Dal punto di vista economico, non avrei {\1c&HFF00&\u1}bisogno{\r} di tutti questi trucchetti.
+Dialogue: 0,0:00:24.13,0:00:24.27,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:24.27,0:00:24.35,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno {\1c&HFF00&\u1}di{\r} tutti questi trucchetti.
+Dialogue: 0,0:00:24.35,0:00:24.37,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:24.37,0:00:24.57,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di {\1c&HFF00&\u1}tutti{\r} questi trucchetti.
+Dialogue: 0,0:00:24.57,0:00:24.61,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:24.61,0:00:24.85,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti {\1c&HFF00&\u1}questi{\r} trucchetti.
+Dialogue: 0,0:00:24.85,0:00:24.93,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi trucchetti.
+Dialogue: 0,0:00:24.93,0:00:25.55,Default,,0,0,0,,Dal punto di vista economico, non avrei bisogno di tutti questi {\1c&HFF00&\u1}trucchetti.{\r}
+Dialogue: 0,0:00:26.02,0:00:26.06,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} allora perché lo faccio?
+Dialogue: 0,0:00:26.06,0:00:26.08,Default,,0,0,0,,E allora perché lo faccio?
+Dialogue: 0,0:00:26.08,0:00:26.28,Default,,0,0,0,,E {\1c&HFF00&\u1}allora{\r} perché lo faccio?
+Dialogue: 0,0:00:26.28,0:00:26.30,Default,,0,0,0,,E allora perché lo faccio?
+Dialogue: 0,0:00:26.30,0:00:26.50,Default,,0,0,0,,E allora {\1c&HFF00&\u1}perché{\r} lo faccio?
+Dialogue: 0,0:00:26.50,0:00:26.54,Default,,0,0,0,,E allora perché lo faccio?
+Dialogue: 0,0:00:26.54,0:00:26.58,Default,,0,0,0,,E allora perché {\1c&HFF00&\u1}lo{\r} faccio?
+Dialogue: 0,0:00:26.58,0:00:26.64,Default,,0,0,0,,E allora perché lo faccio?
+Dialogue: 0,0:00:26.64,0:00:26.97,Default,,0,0,0,,E allora perché lo {\1c&HFF00&\u1}faccio?{\r}
+Dialogue: 0,0:00:27.38,0:00:27.58,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:27.58,0:00:27.62,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:27.62,0:00:27.78,Default,,0,0,0,,perché {\1c&HFF00&\u1}sono{\r} cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:27.78,0:00:27.82,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:27.82,0:00:28.02,Default,,0,0,0,,perché sono {\1c&HFF00&\u1}cose{\r} che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.02,0:00:28.08,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.08,0:00:28.16,Default,,0,0,0,,perché sono cose {\1c&HFF00&\u1}che{\r} non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.16,0:00:28.22,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.22,0:00:28.30,Default,,0,0,0,,perché sono cose che {\1c&HFF00&\u1}non{\r} mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.30,0:00:28.36,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.36,0:00:28.42,Default,,0,0,0,,perché sono cose che non {\1c&HFF00&\u1}mi{\r} costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.42,0:00:28.46,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.46,0:00:28.85,Default,,0,0,0,,perché sono cose che non mi {\1c&HFF00&\u1}costano{\r} niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:28.85,0:00:29.11,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:29.11,0:00:29.55,Default,,0,0,0,,perché sono cose che non mi costano {\1c&HFF00&\u1}niente{\r} nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:29.55,0:00:29.73,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:29.73,0:00:30.11,Default,,0,0,0,,perché sono cose che non mi costano niente {\1c&HFF00&\u1}nessun{\r} tipo di fatica eppure mi
+Dialogue: 0,0:00:30.11,0:00:30.15,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:30.15,0:00:30.33,Default,,0,0,0,,perché sono cose che non mi costano niente nessun {\1c&HFF00&\u1}tipo{\r} di fatica eppure mi
+Dialogue: 0,0:00:30.33,0:00:30.37,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:30.37,0:00:30.43,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo {\1c&HFF00&\u1}di{\r} fatica eppure mi
+Dialogue: 0,0:00:30.43,0:00:30.47,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:30.47,0:00:30.89,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di {\1c&HFF00&\u1}fatica{\r} eppure mi
+Dialogue: 0,0:00:30.89,0:00:31.03,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:31.03,0:00:31.33,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica {\1c&HFF00&\u1}eppure{\r} mi
+Dialogue: 0,0:00:31.33,0:00:31.39,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure mi
+Dialogue: 0,0:00:31.39,0:00:31.43,Default,,0,0,0,,perché sono cose che non mi costano niente nessun tipo di fatica eppure {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:00:31.54,0:00:31.70,Default,,0,0,0,,{\1c&HFF00&\u1}fanno{\r} risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:31.70,0:00:31.74,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:31.74,0:00:32.14,Default,,0,0,0,,fanno {\1c&HFF00&\u1}risparmiare{\r} soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:32.14,0:00:32.20,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:32.20,0:00:32.52,Default,,0,0,0,,fanno risparmiare {\1c&HFF00&\u1}soldi{\r} e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:32.52,0:00:32.91,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:32.91,0:00:32.97,Default,,0,0,0,,fanno risparmiare soldi {\1c&HFF00&\u1}e{\r} chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:32.97,0:00:33.13,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.13,0:00:33.23,Default,,0,0,0,,fanno risparmiare soldi e {\1c&HFF00&\u1}chi{\r} se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.23,0:00:33.29,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.29,0:00:33.35,Default,,0,0,0,,fanno risparmiare soldi e chi {\1c&HFF00&\u1}se{\r} ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.35,0:00:33.39,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.39,0:00:33.45,Default,,0,0,0,,fanno risparmiare soldi e chi se {\1c&HFF00&\u1}ne{\r} frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.45,0:00:33.49,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.49,0:00:33.73,Default,,0,0,0,,fanno risparmiare soldi e chi se ne {\1c&HFF00&\u1}frega{\r} se guadagno anche bene non è
+Dialogue: 0,0:00:33.73,0:00:33.79,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.79,0:00:33.85,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega {\1c&HFF00&\u1}se{\r} guadagno anche bene non è
+Dialogue: 0,0:00:33.85,0:00:33.89,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:33.89,0:00:34.21,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se {\1c&HFF00&\u1}guadagno{\r} anche bene non è
+Dialogue: 0,0:00:34.21,0:00:34.23,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:34.23,0:00:34.41,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno {\1c&HFF00&\u1}anche{\r} bene non è
+Dialogue: 0,0:00:34.41,0:00:34.47,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:34.47,0:00:34.71,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche {\1c&HFF00&\u1}bene{\r} non è
+Dialogue: 0,0:00:34.71,0:00:34.77,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:34.77,0:00:34.85,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene {\1c&HFF00&\u1}non{\r} è
+Dialogue: 0,0:00:34.85,0:00:34.89,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non è
+Dialogue: 0,0:00:34.89,0:00:34.91,Default,,0,0,0,,fanno risparmiare soldi e chi se ne frega se guadagno anche bene non {\1c&HFF00&\u1}è{\r}
+Dialogue: 0,0:00:35.14,0:00:35.40,Default,,0,0,0,,{\1c&HFF00&\u1}questione{\r} di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:35.40,0:00:35.44,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:35.44,0:00:35.52,Default,,0,0,0,,questione {\1c&HFF00&\u1}di{\r} essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:35.52,0:00:35.56,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:35.56,0:00:35.80,Default,,0,0,0,,questione di {\1c&HFF00&\u1}essere{\r} umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:35.80,0:00:36.00,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.00,0:00:36.51,Default,,0,0,0,,questione di essere {\1c&HFF00&\u1}umile{\r} è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.51,0:00:36.53,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.53,0:00:36.55,Default,,0,0,0,,questione di essere umile {\1c&HFF00&\u1}è{\r} proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.55,0:00:36.59,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.59,0:00:36.81,Default,,0,0,0,,questione di essere umile è {\1c&HFF00&\u1}proprio{\r} un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.81,0:00:36.87,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.87,0:00:36.93,Default,,0,0,0,,questione di essere umile è proprio {\1c&HFF00&\u1}un{\r} senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.93,0:00:36.97,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:36.97,0:00:37.21,Default,,0,0,0,,questione di essere umile è proprio un {\1c&HFF00&\u1}senso{\r} pratico se è una cosa serve e
+Dialogue: 0,0:00:37.21,0:00:37.29,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:37.29,0:00:37.69,Default,,0,0,0,,questione di essere umile è proprio un senso {\1c&HFF00&\u1}pratico{\r} se è una cosa serve e
+Dialogue: 0,0:00:37.69,0:00:37.75,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:37.75,0:00:37.81,Default,,0,0,0,,questione di essere umile è proprio un senso pratico {\1c&HFF00&\u1}se{\r} è una cosa serve e
+Dialogue: 0,0:00:37.81,0:00:37.83,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:37.83,0:00:37.85,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se {\1c&HFF00&\u1}è{\r} una cosa serve e
+Dialogue: 0,0:00:37.85,0:00:37.89,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:37.89,0:00:37.97,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è {\1c&HFF00&\u1}una{\r} cosa serve e
+Dialogue: 0,0:00:37.97,0:00:38.03,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:38.03,0:00:38.25,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una {\1c&HFF00&\u1}cosa{\r} serve e
+Dialogue: 0,0:00:38.25,0:00:38.61,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:38.61,0:00:39.07,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa {\1c&HFF00&\u1}serve{\r} e
+Dialogue: 0,0:00:39.07,0:00:39.09,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve e
+Dialogue: 0,0:00:39.09,0:00:39.11,Default,,0,0,0,,questione di essere umile è proprio un senso pratico se è una cosa serve {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:39.54,0:00:39.60,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:39.60,0:00:39.64,Default,,0,0,0,,e beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:39.64,0:00:39.78,Default,,0,0,0,,e {\1c&HFF00&\u1}beh{\r} allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:39.78,0:00:39.84,Default,,0,0,0,,e beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:39.84,0:00:40.11,Default,,0,0,0,,e beh {\1c&HFF00&\u1}allora{\r} la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:40.11,0:00:40.17,Default,,0,0,0,,e beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:40.17,0:00:40.23,Default,,0,0,0,,e beh allora {\1c&HFF00&\u1}la{\r} faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:40.23,0:00:40.27,Default,,0,0,0,,e beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:40.27,0:00:40.57,Default,,0,0,0,,e beh allora la {\1c&HFF00&\u1}faccio.{\r} Detto ciò iniziamo
+Dialogue: 0,0:00:40.57,0:00:40.95,Default,,0,0,0,,e beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:40.95,0:00:41.21,Default,,0,0,0,,e beh allora la faccio. {\1c&HFF00&\u1}Detto{\r} ciò iniziamo
+Dialogue: 0,0:00:41.21,0:00:41.29,Default,,0,0,0,,e beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:41.29,0:00:41.41,Default,,0,0,0,,e beh allora la faccio. Detto {\1c&HFF00&\u1}ciò{\r} iniziamo
+Dialogue: 0,0:00:41.41,0:00:41.59,Default,,0,0,0,,e beh allora la faccio. Detto ciò iniziamo
+Dialogue: 0,0:00:41.59,0:00:42.07,Default,,0,0,0,,e beh allora la faccio. Detto ciò {\1c&HFF00&\u1}iniziamo{\r}

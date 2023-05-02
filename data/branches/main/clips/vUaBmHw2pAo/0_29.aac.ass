@@ -1,0 +1,171 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.18,0:00:0.38,Default,,0,0,0,,{\1c&HFF00&\u1}proprio{\r} non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.40,0:00:0.54,Default,,0,0,0,,proprio {\1c&HFF00&\u1}non{\r} riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.54,0:00:0.58,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.58,0:00:0.76,Default,,0,0,0,,proprio non {\1c&HFF00&\u1}riesce{\r} a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.76,0:00:0.78,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.78,0:00:0.80,Default,,0,0,0,,proprio non riesce {\1c&HFF00&\u1}a{\r} concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:0.82,0:00:1.53,Default,,0,0,0,,proprio non riesce a {\1c&HFF00&\u1}concentrarsi,{\r} quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:1.53,0:00:1.57,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:1.57,0:00:1.71,Default,,0,0,0,,proprio non riesce a concentrarsi, {\1c&HFF00&\u1}quindi{\r} più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:1.71,0:00:2.17,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:2.17,0:00:2.25,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi {\1c&HFF00&\u1}più{\r} pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:2.25,0:00:2.35,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:2.35,0:00:2.71,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più {\1c&HFF00&\u1}pensa,{\r} più gli viene l'ansia, più gli
+Dialogue: 0,0:00:2.71,0:00:2.81,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:2.81,0:00:2.89,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, {\1c&HFF00&\u1}più{\r} gli viene l'ansia, più gli
+Dialogue: 0,0:00:2.89,0:00:2.91,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:2.91,0:00:3.07,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più {\1c&HFF00&\u1}gli{\r} viene l'ansia, più gli
+Dialogue: 0,0:00:3.07,0:00:3.11,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:3.11,0:00:3.29,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli {\1c&HFF00&\u1}viene{\r} l'ansia, più gli
+Dialogue: 0,0:00:3.29,0:00:3.37,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:3.37,0:00:3.69,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene {\1c&HFF00&\u1}l'ansia,{\r} più gli
+Dialogue: 0,0:00:3.69,0:00:3.73,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:3.73,0:00:3.79,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, {\1c&HFF00&\u1}più{\r} gli
+Dialogue: 0,0:00:3.79,0:00:3.81,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più gli
+Dialogue: 0,0:00:3.81,0:00:3.89,Default,,0,0,0,,proprio non riesce a concentrarsi, quindi più pensa, più gli viene l'ansia, più {\1c&HFF00&\u1}gli{\r}
+Dialogue: 0,0:00:3.84,0:00:4.46,Default,,0,0,0,,{\1c&HFF00&\u1}viene{\r} l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:4.46,0:00:4.48,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:4.48,0:00:5.00,Default,,0,0,0,,viene {\1c&HFF00&\u1}l'ansia{\r} e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.00,0:00:5.02,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.02,0:00:5.04,Default,,0,0,0,,viene l'ansia {\1c&HFF00&\u1}e{\r} più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.04,0:00:5.06,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.06,0:00:5.12,Default,,0,0,0,,viene l'ansia e {\1c&HFF00&\u1}più{\r} non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.12,0:00:5.20,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.20,0:00:5.26,Default,,0,0,0,,viene l'ansia e più {\1c&HFF00&\u1}non{\r} riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.26,0:00:5.32,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.32,0:00:5.46,Default,,0,0,0,,viene l'ansia e più non {\1c&HFF00&\u1}riesce{\r} a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.46,0:00:5.48,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.48,0:00:5.50,Default,,0,0,0,,viene l'ansia e più non riesce {\1c&HFF00&\u1}a{\r} combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.50,0:00:5.52,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.52,0:00:5.89,Default,,0,0,0,,viene l'ansia e più non riesce a {\1c&HFF00&\u1}combinare{\r} niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.89,0:00:5.93,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:5.93,0:00:6.15,Default,,0,0,0,,viene l'ansia e più non riesce a combinare {\1c&HFF00&\u1}niente.{\r} Va beh, ti devi preparare
+Dialogue: 0,0:00:6.15,0:00:6.23,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:6.23,0:00:6.29,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. {\1c&HFF00&\u1}Va{\r} beh, ti devi preparare
+Dialogue: 0,0:00:6.29,0:00:6.33,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:6.33,0:00:6.43,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va {\1c&HFF00&\u1}beh,{\r} ti devi preparare
+Dialogue: 0,0:00:6.43,0:00:7.89,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:7.89,0:00:7.97,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, {\1c&HFF00&\u1}ti{\r} devi preparare
+Dialogue: 0,0:00:7.97,0:00:7.99,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:7.99,0:00:8.17,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti {\1c&HFF00&\u1}devi{\r} preparare
+Dialogue: 0,0:00:8.17,0:00:8.23,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi preparare
+Dialogue: 0,0:00:8.23,0:00:9.58,Default,,0,0,0,,viene l'ansia e più non riesce a combinare niente. Va beh, ti devi {\1c&HFF00&\u1}preparare{\r}
+Dialogue: 0,0:00:9.52,0:00:9.78,Default,,0,0,0,,{\1c&HFF00&\u1}prima,{\r} prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:9.78,0:00:9.98,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:9.98,0:00:10.28,Default,,0,0,0,,prima, {\1c&HFF00&\u1}prima{\r} di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.28,0:00:10.32,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.32,0:00:10.38,Default,,0,0,0,,prima, prima {\1c&HFF00&\u1}di{\r} quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.38,0:00:10.44,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.44,0:00:10.65,Default,,0,0,0,,prima, prima di {\1c&HFF00&\u1}quel{\r} limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.65,0:00:10.69,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.69,0:00:10.91,Default,,0,0,0,,prima, prima di quel {\1c&HFF00&\u1}limite{\r} lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.91,0:00:10.95,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:10.95,0:00:11.01,Default,,0,0,0,,prima, prima di quel limite {\1c&HFF00&\u1}lì,{\r} il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:11.01,0:00:11.07,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:11.07,0:00:11.13,Default,,0,0,0,,prima, prima di quel limite lì, {\1c&HFF00&\u1}il{\r} limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:11.13,0:00:11.19,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:11.19,0:00:11.47,Default,,0,0,0,,prima, prima di quel limite lì, il {\1c&HFF00&\u1}limite{\r} dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:11.47,0:00:11.53,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:11.53,0:00:11.95,Default,,0,0,0,,prima, prima di quel limite lì, il limite {\1c&HFF00&\u1}dell'ansia,{\r} ti devi preparare prima.
+Dialogue: 0,0:00:11.95,0:00:12.05,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:12.05,0:00:12.21,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, {\1c&HFF00&\u1}ti{\r} devi preparare prima.
+Dialogue: 0,0:00:12.21,0:00:12.23,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:12.23,0:00:12.33,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti {\1c&HFF00&\u1}devi{\r} preparare prima.
+Dialogue: 0,0:00:12.33,0:00:12.39,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:12.39,0:00:12.75,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi {\1c&HFF00&\u1}preparare{\r} prima.
+Dialogue: 0,0:00:12.75,0:00:12.83,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare prima.
+Dialogue: 0,0:00:12.83,0:00:13.03,Default,,0,0,0,,prima, prima di quel limite lì, il limite dell'ansia, ti devi preparare {\1c&HFF00&\u1}prima.{\r}
+Dialogue: 0,0:00:14.42,0:00:14.62,Default,,0,0,0,,{\1c&HFF00&\u1}Allora{\r} succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:14.62,0:00:14.64,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:14.64,0:00:14.90,Default,,0,0,0,,Allora {\1c&HFF00&\u1}succede{\r} una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:14.90,0:00:14.94,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:14.94,0:00:15.26,Default,,0,0,0,,Allora succede {\1c&HFF00&\u1}una{\r} specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:15.26,0:00:15.32,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:15.32,0:00:15.48,Default,,0,0,0,,Allora succede una {\1c&HFF00&\u1}specie{\r} di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:15.48,0:00:15.50,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:15.50,0:00:15.55,Default,,0,0,0,,Allora succede una specie {\1c&HFF00&\u1}di{\r} magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:15.55,0:00:15.61,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:15.61,0:00:15.97,Default,,0,0,0,,Allora succede una specie di {\1c&HFF00&\u1}magia{\r} che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:15.97,0:00:17.55,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:17.55,0:00:17.65,Default,,0,0,0,,Allora succede una specie di magia {\1c&HFF00&\u1}che{\r} quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:17.65,0:00:17.69,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:17.69,0:00:17.83,Default,,0,0,0,,Allora succede una specie di magia che {\1c&HFF00&\u1}quel{\r} limite di tempo lì si sposta in
+Dialogue: 0,0:00:17.83,0:00:17.87,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:17.87,0:00:18.07,Default,,0,0,0,,Allora succede una specie di magia che quel {\1c&HFF00&\u1}limite{\r} di tempo lì si sposta in
+Dialogue: 0,0:00:18.07,0:00:18.11,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:18.11,0:00:18.17,Default,,0,0,0,,Allora succede una specie di magia che quel limite {\1c&HFF00&\u1}di{\r} tempo lì si sposta in
+Dialogue: 0,0:00:18.17,0:00:18.21,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:18.21,0:00:18.45,Default,,0,0,0,,Allora succede una specie di magia che quel limite di {\1c&HFF00&\u1}tempo{\r} lì si sposta in
+Dialogue: 0,0:00:18.45,0:00:18.51,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:18.51,0:00:18.63,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo {\1c&HFF00&\u1}lì{\r} si sposta in
+Dialogue: 0,0:00:18.63,0:00:18.87,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:18.87,0:00:18.93,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì {\1c&HFF00&\u1}si{\r} sposta in
+Dialogue: 0,0:00:18.93,0:00:19.01,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:19.01,0:00:19.39,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si {\1c&HFF00&\u1}sposta{\r} in
+Dialogue: 0,0:00:19.39,0:00:19.45,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta in
+Dialogue: 0,0:00:19.45,0:00:19.50,Default,,0,0,0,,Allora succede una specie di magia che quel limite di tempo lì si sposta {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:19.54,0:00:22.45,Default,,0,0,0,,{\1c&HFF00&\u1}avanti,{\r} perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:22.45,0:00:22.49,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:22.49,0:00:22.75,Default,,0,0,0,,avanti, {\1c&HFF00&\u1}perché{\r} più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:22.75,0:00:23.17,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:23.17,0:00:23.43,Default,,0,0,0,,avanti, perché {\1c&HFF00&\u1}più{\r} l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:23.43,0:00:24.95,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:24.95,0:00:25.45,Default,,0,0,0,,avanti, perché più {\1c&HFF00&\u1}l'intervento{\r} è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.45,0:00:25.49,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.49,0:00:25.51,Default,,0,0,0,,avanti, perché più l'intervento {\1c&HFF00&\u1}è{\r} pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.51,0:00:25.57,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.57,0:00:25.79,Default,,0,0,0,,avanti, perché più l'intervento è {\1c&HFF00&\u1}pronto,{\r} il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.79,0:00:25.83,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.83,0:00:25.87,Default,,0,0,0,,avanti, perché più l'intervento è pronto, {\1c&HFF00&\u1}il{\r} monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.87,0:00:25.91,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:25.91,0:00:26.17,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il {\1c&HFF00&\u1}monologo{\r} è pronto, più tu sei pronto,
+Dialogue: 0,0:00:26.17,0:00:26.19,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:26.19,0:00:26.21,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo {\1c&HFF00&\u1}è{\r} pronto, più tu sei pronto,
+Dialogue: 0,0:00:26.21,0:00:26.29,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:26.29,0:00:26.69,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è {\1c&HFF00&\u1}pronto,{\r} più tu sei pronto,
+Dialogue: 0,0:00:26.69,0:00:26.83,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:26.83,0:00:26.93,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, {\1c&HFF00&\u1}più{\r} tu sei pronto,
+Dialogue: 0,0:00:26.93,0:00:26.97,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:26.97,0:00:27.05,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più {\1c&HFF00&\u1}tu{\r} sei pronto,
+Dialogue: 0,0:00:27.05,0:00:27.09,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:27.09,0:00:27.21,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu {\1c&HFF00&\u1}sei{\r} pronto,
+Dialogue: 0,0:00:27.21,0:00:27.27,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei pronto,
+Dialogue: 0,0:00:27.27,0:00:27.62,Default,,0,0,0,,avanti, perché più l'intervento è pronto, il monologo è pronto, più tu sei {\1c&HFF00&\u1}pronto,{\r}
+Dialogue: 0,0:00:28.88,0:00:29.54,Default,,0,0,0,,{\1c&HFF00&\u1}meno{\r} tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:29.54,0:00:30.62,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:30.62,0:00:30.90,Default,,0,0,0,,meno {\1c&HFF00&\u1}tempo{\r} ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:30.90,0:00:30.96,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:30.96,0:00:31.20,Default,,0,0,0,,meno tempo {\1c&HFF00&\u1}ha,{\r} meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:31.20,0:00:32.42,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:32.42,0:00:32.56,Default,,0,0,0,,meno tempo ha, {\1c&HFF00&\u1}meno{\r} tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:32.56,0:00:32.58,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:32.58,0:00:32.73,Default,,0,0,0,,meno tempo ha, meno {\1c&HFF00&\u1}tempo{\r} ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:32.73,0:00:32.77,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:32.77,0:00:32.81,Default,,0,0,0,,meno tempo ha, meno tempo {\1c&HFF00&\u1}ti{\r} serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:32.81,0:00:32.85,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:32.85,0:00:33.03,Default,,0,0,0,,meno tempo ha, meno tempo ti {\1c&HFF00&\u1}serve{\r} per completare la preparazione, cioè...
+Dialogue: 0,0:00:33.03,0:00:33.07,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:33.07,0:00:33.17,Default,,0,0,0,,meno tempo ha, meno tempo ti serve {\1c&HFF00&\u1}per{\r} completare la preparazione, cioè...
+Dialogue: 0,0:00:33.17,0:00:33.31,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:33.31,0:00:33.69,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per {\1c&HFF00&\u1}completare{\r} la preparazione, cioè...
+Dialogue: 0,0:00:33.69,0:00:33.73,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:33.73,0:00:33.79,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare {\1c&HFF00&\u1}la{\r} preparazione, cioè...
+Dialogue: 0,0:00:33.79,0:00:33.81,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:33.81,0:00:34.29,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la {\1c&HFF00&\u1}preparazione,{\r} cioè...
+Dialogue: 0,0:00:34.29,0:00:34.39,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, cioè...
+Dialogue: 0,0:00:34.39,0:00:34.53,Default,,0,0,0,,meno tempo ha, meno tempo ti serve per completare la preparazione, {\1c&HFF00&\u1}cioè...{\r}

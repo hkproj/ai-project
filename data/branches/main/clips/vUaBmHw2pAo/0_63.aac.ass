@@ -1,0 +1,130 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.52,0:00:0.60,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:0.60,0:00:0.62,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:0.62,0:00:0.68,Default,,0,0,0,,non {\1c&HFF00&\u1}mi{\r} bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:0.68,0:00:0.74,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:0.74,0:00:0.90,Default,,0,0,0,,non mi {\1c&HFF00&\u1}bevo{\r} un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:0.90,0:00:0.92,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:0.92,0:00:0.98,Default,,0,0,0,,non mi bevo {\1c&HFF00&\u1}un{\r} bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:0.98,0:00:1.00,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:1.00,0:00:1.24,Default,,0,0,0,,non mi bevo un {\1c&HFF00&\u1}bicchiere{\r} d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:1.24,0:00:1.30,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:1.30,0:00:1.72,Default,,0,0,0,,non mi bevo un bicchiere {\1c&HFF00&\u1}d'alcol,{\r} non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:1.72,0:00:2.25,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.25,0:00:2.31,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, {\1c&HFF00&\u1}non{\r} mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.31,0:00:2.33,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.33,0:00:2.39,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non {\1c&HFF00&\u1}mi{\r} faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.39,0:00:2.43,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.43,0:00:2.57,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi {\1c&HFF00&\u1}faccio{\r} una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.57,0:00:2.61,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.61,0:00:2.69,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio {\1c&HFF00&\u1}una{\r} camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.69,0:00:2.73,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:2.73,0:00:3.13,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una {\1c&HFF00&\u1}camomila,{\r} bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:3.13,0:00:3.21,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:3.21,0:00:3.35,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, {\1c&HFF00&\u1}bevo{\r} un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:3.39,0:00:3.45,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo {\1c&HFF00&\u1}un{\r} caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:3.45,0:00:3.49,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:3.49,0:00:3.81,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un {\1c&HFF00&\u1}caffè,{\r} che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:3.81,0:00:4.23,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.23,0:00:4.29,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, {\1c&HFF00&\u1}che{\r} è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.29,0:00:4.31,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.31,0:00:4.33,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che {\1c&HFF00&\u1}è{\r} una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.33,0:00:4.37,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.37,0:00:4.45,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è {\1c&HFF00&\u1}una{\r} cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.45,0:00:4.49,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.49,0:00:4.65,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una {\1c&HFF00&\u1}cosa{\r} rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.65,0:00:4.73,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:4.73,0:00:5.27,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa {\1c&HFF00&\u1}rituale,{\r} quindi una cosa rassicurante,
+Dialogue: 0,0:00:5.27,0:00:5.55,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:5.55,0:00:5.71,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, {\1c&HFF00&\u1}quindi{\r} una cosa rassicurante,
+Dialogue: 0,0:00:5.71,0:00:5.73,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:5.73,0:00:5.81,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi {\1c&HFF00&\u1}una{\r} cosa rassicurante,
+Dialogue: 0,0:00:5.81,0:00:5.83,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:5.83,0:00:5.95,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una {\1c&HFF00&\u1}cosa{\r} rassicurante,
+Dialogue: 0,0:00:5.95,0:00:6.01,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa rassicurante,
+Dialogue: 0,0:00:6.01,0:00:6.58,Default,,0,0,0,,non mi bevo un bicchiere d'alcol, non mi faccio una camomila, bevo un caffè, che è una cosa rituale, quindi una cosa {\1c&HFF00&\u1}rassicurante,{\r}
+Dialogue: 0,0:00:8.69,0:00:8.81,Default,,0,0,0,,{\1c&HFF00&\u1}però{\r} è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:8.81,0:00:8.85,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:8.85,0:00:8.89,Default,,0,0,0,,però {\1c&HFF00&\u1}è{\r} una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:8.89,0:00:8.93,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:8.93,0:00:9.09,Default,,0,0,0,,però è {\1c&HFF00&\u1}una{\r} cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:9.09,0:00:9.19,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:9.19,0:00:9.41,Default,,0,0,0,,però è una {\1c&HFF00&\u1}cosa{\r} anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:9.41,0:00:9.43,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:9.43,0:00:10.13,Default,,0,0,0,,però è una cosa {\1c&HFF00&\u1}anche{\r} eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:10.13,0:00:10.15,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:10.15,0:00:10.66,Default,,0,0,0,,però è una cosa anche {\1c&HFF00&\u1}eccitante,{\r} cioè devi essere in quello stato
+Dialogue: 0,0:00:10.66,0:00:10.68,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:10.68,0:00:10.76,Default,,0,0,0,,però è una cosa anche eccitante, {\1c&HFF00&\u1}cioè{\r} devi essere in quello stato
+Dialogue: 0,0:00:10.76,0:00:10.78,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:10.78,0:00:10.86,Default,,0,0,0,,però è una cosa anche eccitante, cioè {\1c&HFF00&\u1}devi{\r} essere in quello stato
+Dialogue: 0,0:00:10.86,0:00:10.88,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:10.88,0:00:11.00,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi {\1c&HFF00&\u1}essere{\r} in quello stato
+Dialogue: 0,0:00:11.00,0:00:11.02,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:11.02,0:00:11.06,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere {\1c&HFF00&\u1}in{\r} quello stato
+Dialogue: 0,0:00:11.06,0:00:11.10,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:11.10,0:00:11.22,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in {\1c&HFF00&\u1}quello{\r} stato
+Dialogue: 0,0:00:11.22,0:00:11.24,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello stato
+Dialogue: 0,0:00:11.24,0:00:11.34,Default,,0,0,0,,però è una cosa anche eccitante, cioè devi essere in quello {\1c&HFF00&\u1}stato{\r}
+Dialogue: 0,0:00:10.12,0:00:10.70,Default,,0,0,0,,{\1c&HFF00&\u1}mentale{\r} per cui non sei in ansia come
+Dialogue: 0,0:00:10.70,0:00:11.35,Default,,0,0,0,,mentale per cui non sei in ansia come
+Dialogue: 0,0:00:11.35,0:00:11.45,Default,,0,0,0,,mentale {\1c&HFF00&\u1}per{\r} cui non sei in ansia come
+Dialogue: 0,0:00:11.45,0:00:11.53,Default,,0,0,0,,mentale per cui non sei in ansia come
+Dialogue: 0,0:00:11.53,0:00:11.65,Default,,0,0,0,,mentale per {\1c&HFF00&\u1}cui{\r} non sei in ansia come
+Dialogue: 0,0:00:11.65,0:00:11.71,Default,,0,0,0,,mentale per cui non sei in ansia come
+Dialogue: 0,0:00:11.71,0:00:11.83,Default,,0,0,0,,mentale per cui {\1c&HFF00&\u1}non{\r} sei in ansia come
+Dialogue: 0,0:00:11.83,0:00:11.97,Default,,0,0,0,,mentale per cui non sei in ansia come
+Dialogue: 0,0:00:11.97,0:00:12.15,Default,,0,0,0,,mentale per cui non {\1c&HFF00&\u1}sei{\r} in ansia come
+Dialogue: 0,0:00:12.15,0:00:12.23,Default,,0,0,0,,mentale per cui non sei in ansia come
+Dialogue: 0,0:00:12.23,0:00:12.39,Default,,0,0,0,,mentale per cui non sei {\1c&HFF00&\u1}in{\r} ansia come
+Dialogue: 0,0:00:12.39,0:00:12.47,Default,,0,0,0,,mentale per cui non sei in ansia come
+Dialogue: 0,0:00:12.47,0:00:12.97,Default,,0,0,0,,mentale per cui non sei in {\1c&HFF00&\u1}ansia{\r} come
+Dialogue: 0,0:00:12.97,0:00:13.17,Default,,0,0,0,,mentale per cui non sei in ansia come
+Dialogue: 0,0:00:13.17,0:00:13.33,Default,,0,0,0,,mentale per cui non sei in ansia {\1c&HFF00&\u1}come{\r}
+Dialogue: 0,0:00:14.32,0:00:14.62,Default,,0,0,0,,{\1c&HFF00&\u1}dovendo{\r} dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:14.62,0:00:14.66,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:14.66,0:00:14.82,Default,,0,0,0,,dovendo {\1c&HFF00&\u1}dare{\r} un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:14.82,0:00:14.86,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:14.86,0:00:14.94,Default,,0,0,0,,dovendo dare {\1c&HFF00&\u1}un{\r} esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:14.94,0:00:14.96,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:14.96,0:00:15.54,Default,,0,0,0,,dovendo dare un {\1c&HFF00&\u1}esame{\r} non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:15.54,0:00:15.60,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:15.60,0:00:15.68,Default,,0,0,0,,dovendo dare un esame {\1c&HFF00&\u1}non{\r} hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:15.68,0:00:15.72,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:15.72,0:00:15.90,Default,,0,0,0,,dovendo dare un esame non {\1c&HFF00&\u1}hai{\r} paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:15.90,0:00:15.98,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:15.98,0:00:16.51,Default,,0,0,0,,dovendo dare un esame non hai {\1c&HFF00&\u1}paura{\r} però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:16.51,0:00:16.87,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:16.87,0:00:16.99,Default,,0,0,0,,dovendo dare un esame non hai paura {\1c&HFF00&\u1}però{\r} al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:16.99,0:00:17.01,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:17.01,0:00:17.09,Default,,0,0,0,,dovendo dare un esame non hai paura però {\1c&HFF00&\u1}al{\r} stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:17.09,0:00:17.11,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:17.11,0:00:17.29,Default,,0,0,0,,dovendo dare un esame non hai paura però al {\1c&HFF00&\u1}stesso{\r} tempo non sei neanche appattico
+Dialogue: 0,0:00:17.29,0:00:17.33,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:17.33,0:00:17.51,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso {\1c&HFF00&\u1}tempo{\r} non sei neanche appattico
+Dialogue: 0,0:00:17.51,0:00:17.57,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:17.57,0:00:17.65,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo {\1c&HFF00&\u1}non{\r} sei neanche appattico
+Dialogue: 0,0:00:17.65,0:00:17.69,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:17.69,0:00:17.79,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non {\1c&HFF00&\u1}sei{\r} neanche appattico
+Dialogue: 0,0:00:17.79,0:00:17.85,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:17.85,0:00:18.11,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei {\1c&HFF00&\u1}neanche{\r} appattico
+Dialogue: 0,0:00:18.11,0:00:18.15,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche appattico
+Dialogue: 0,0:00:18.15,0:00:18.75,Default,,0,0,0,,dovendo dare un esame non hai paura però al stesso tempo non sei neanche {\1c&HFF00&\u1}appattico{\r}
+Dialogue: 0,0:00:19.22,0:00:19.31,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} sei neanche
+Dialogue: 0,0:00:19.31,0:00:19.35,Default,,0,0,0,,non sei neanche
+Dialogue: 0,0:00:19.35,0:00:19.45,Default,,0,0,0,,non {\1c&HFF00&\u1}sei{\r} neanche
+Dialogue: 0,0:00:19.45,0:00:19.51,Default,,0,0,0,,non sei neanche
+Dialogue: 0,0:00:19.51,0:00:19.89,Default,,0,0,0,,non sei {\1c&HFF00&\u1}neanche{\r}

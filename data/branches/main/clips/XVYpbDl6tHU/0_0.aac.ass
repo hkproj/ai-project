@@ -1,0 +1,104 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.28,0:00:0.38,Default,,0,0,0,,{\1c&HFF00&\u1}Ciao{\r} ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:0.40,0:00:0.82,Default,,0,0,0,,Ciao {\1c&HFF00&\u1}ragazzi,{\r} benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:0.82,0:00:0.90,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:0.90,0:00:1.36,Default,,0,0,0,,Ciao ragazzi, {\1c&HFF00&\u1}benvenuti{\r} in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:1.36,0:00:1.44,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:1.44,0:00:1.49,Default,,0,0,0,,Ciao ragazzi, benvenuti {\1c&HFF00&\u1}in{\r} questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:1.49,0:00:1.53,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:1.53,0:00:1.75,Default,,0,0,0,,Ciao ragazzi, benvenuti in {\1c&HFF00&\u1}questo{\r} video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:1.75,0:00:1.81,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:1.81,0:00:2.13,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo {\1c&HFF00&\u1}video.{\r} Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:2.13,0:00:2.19,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:2.19,0:00:2.27,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. {\1c&HFF00&\u1}Se{\r} siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:2.27,0:00:2.31,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:2.31,0:00:2.51,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se {\1c&HFF00&\u1}siete{\r} nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:2.51,0:00:2.55,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:2.55,0:00:2.83,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete {\1c&HFF00&\u1}nuovi,{\r} io sono Fubbio, sono un
+Dialogue: 0,0:00:2.83,0:00:2.97,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:2.97,0:00:3.03,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, {\1c&HFF00&\u1}io{\r} sono Fubbio, sono un
+Dialogue: 0,0:00:3.03,0:00:3.07,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:3.07,0:00:3.21,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io {\1c&HFF00&\u1}sono{\r} Fubbio, sono un
+Dialogue: 0,0:00:3.21,0:00:3.25,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:3.25,0:00:3.51,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono {\1c&HFF00&\u1}Fubbio,{\r} sono un
+Dialogue: 0,0:00:3.51,0:00:3.59,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:3.59,0:00:3.71,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, {\1c&HFF00&\u1}sono{\r} un
+Dialogue: 0,0:00:3.71,0:00:3.73,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono un
+Dialogue: 0,0:00:3.73,0:00:3.77,Default,,0,0,0,,Ciao ragazzi, benvenuti in questo video. Se siete nuovi, io sono Fubbio, sono {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:3.80,0:00:3.96,Default,,0,0,0,,{\1c&HFF00&\u1}educator{\r} e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:3.96,0:00:3.98,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:3.98,0:00:4.00,Default,,0,0,0,,educator {\1c&HFF00&\u1}e{\r} cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.00,0:00:4.02,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.02,0:00:4.18,Default,,0,0,0,,educator e {\1c&HFF00&\u1}cinofilo{\r} e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.18,0:00:4.20,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.20,0:00:4.22,Default,,0,0,0,,educator e cinofilo {\1c&HFF00&\u1}e{\r} in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.22,0:00:4.24,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.24,0:00:4.28,Default,,0,0,0,,educator e cinofilo e {\1c&HFF00&\u1}in{\r} questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.28,0:00:4.30,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.30,0:00:4.42,Default,,0,0,0,,educator e cinofilo e in {\1c&HFF00&\u1}questo{\r} canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.42,0:00:4.44,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.44,0:00:4.56,Default,,0,0,0,,educator e cinofilo e in questo {\1c&HFF00&\u1}canale{\r} divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.56,0:00:4.58,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.58,0:00:4.82,Default,,0,0,0,,educator e cinofilo e in questo canale {\1c&HFF00&\u1}divulgherò{\r} informazioni per quanto
+Dialogue: 0,0:00:4.82,0:00:4.84,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:4.84,0:00:5.10,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò {\1c&HFF00&\u1}informazioni{\r} per quanto
+Dialogue: 0,0:00:5.10,0:00:5.12,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:5.12,0:00:5.20,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni {\1c&HFF00&\u1}per{\r} quanto
+Dialogue: 0,0:00:5.20,0:00:5.23,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per quanto
+Dialogue: 0,0:00:5.23,0:00:5.39,Default,,0,0,0,,educator e cinofilo e in questo canale divulgherò informazioni per {\1c&HFF00&\u1}quanto{\r}
+Dialogue: 0,0:00:8.00,0:00:10.01,Default,,0,0,0,,{\1c&HFF00&\u1}riguarda{\r} l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:10.01,0:00:10.13,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:10.13,0:00:10.95,Default,,0,0,0,,riguarda {\1c&HFF00&\u1}l'educazione{\r} del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:10.95,0:00:10.99,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:10.99,0:00:11.05,Default,,0,0,0,,riguarda l'educazione {\1c&HFF00&\u1}del{\r} tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:11.05,0:00:11.07,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:11.07,0:00:11.15,Default,,0,0,0,,riguarda l'educazione del {\1c&HFF00&\u1}tuo{\r} cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:11.15,0:00:11.21,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:11.21,0:00:11.55,Default,,0,0,0,,riguarda l'educazione del tuo {\1c&HFF00&\u1}cane.{\r} Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:11.55,0:00:11.57,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:11.57,0:00:12.27,Default,,0,0,0,,riguarda l'educazione del tuo cane. {\1c&HFF00&\u1}Quindi{\r} iscriviti, attiro la campanella e
+Dialogue: 0,0:00:12.27,0:00:12.35,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:12.35,0:00:12.54,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi {\1c&HFF00&\u1}iscriviti,{\r} attiro la campanella e
+Dialogue: 0,0:00:12.54,0:00:12.56,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:12.56,0:00:12.74,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, {\1c&HFF00&\u1}attiro{\r} la campanella e
+Dialogue: 0,0:00:12.74,0:00:12.76,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:12.76,0:00:12.80,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro {\1c&HFF00&\u1}la{\r} campanella e
+Dialogue: 0,0:00:12.80,0:00:12.82,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:12.82,0:00:13.02,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la {\1c&HFF00&\u1}campanella{\r} e
+Dialogue: 0,0:00:13.02,0:00:13.04,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella e
+Dialogue: 0,0:00:13.04,0:00:13.06,Default,,0,0,0,,riguarda l'educazione del tuo cane. Quindi iscriviti, attiro la campanella {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:12.12,0:00:12.26,Default,,0,0,0,,{\1c&HFF00&\u1}andiamo{\r} direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.26,0:00:12.28,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.28,0:00:12.52,Default,,0,0,0,,andiamo {\1c&HFF00&\u1}direttamente{\r} all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.52,0:00:12.54,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.54,0:00:12.78,Default,,0,0,0,,andiamo direttamente {\1c&HFF00&\u1}all'argomento{\r} di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.78,0:00:12.80,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.80,0:00:12.84,Default,,0,0,0,,andiamo direttamente all'argomento {\1c&HFF00&\u1}di{\r} oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.84,0:00:12.86,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.86,0:00:12.94,Default,,0,0,0,,andiamo direttamente all'argomento di {\1c&HFF00&\u1}oggi.{\r} Come si insegna al proprio cane
+Dialogue: 0,0:00:12.94,0:00:12.96,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:12.96,0:00:13.04,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. {\1c&HFF00&\u1}Come{\r} si insegna al proprio cane
+Dialogue: 0,0:00:13.04,0:00:13.06,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:13.06,0:00:13.10,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come {\1c&HFF00&\u1}si{\r} insegna al proprio cane
+Dialogue: 0,0:00:13.10,0:00:13.12,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:13.12,0:00:13.26,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si {\1c&HFF00&\u1}insegna{\r} al proprio cane
+Dialogue: 0,0:00:13.26,0:00:13.28,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:13.28,0:00:13.32,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna {\1c&HFF00&\u1}al{\r} proprio cane
+Dialogue: 0,0:00:13.32,0:00:13.35,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:13.35,0:00:13.49,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al {\1c&HFF00&\u1}proprio{\r} cane
+Dialogue: 0,0:00:13.49,0:00:13.53,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio cane
+Dialogue: 0,0:00:13.53,0:00:13.61,Default,,0,0,0,,andiamo direttamente all'argomento di oggi. Come si insegna al proprio {\1c&HFF00&\u1}cane{\r}
+Dialogue: 0,0:00:16.48,0:00:16.63,Default,,0,0,0,,{\1c&HFF00&\u1}attorno{\r}

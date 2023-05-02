@@ -1,0 +1,115 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.44,Default,,0,0,0,,{\1c&HFF00&\u1}Ok,{\r} chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:0.44,0:00:0.82,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:0.82,0:00:1.02,Default,,0,0,0,,Ok, {\1c&HFF00&\u1}chiuso{\r} l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:1.02,0:00:1.10,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:1.10,0:00:1.48,Default,,0,0,0,,Ok, chiuso {\1c&HFF00&\u1}l'argomento{\r} analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:1.48,0:00:1.50,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:1.50,0:00:1.80,Default,,0,0,0,,Ok, chiuso l'argomento {\1c&HFF00&\u1}analisi{\r} tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:1.80,0:00:1.85,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:1.85,0:00:2.25,Default,,0,0,0,,Ok, chiuso l'argomento analisi {\1c&HFF00&\u1}tecnica,{\r} chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:2.25,0:00:3.31,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:3.31,0:00:3.55,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, {\1c&HFF00&\u1}chiuso{\r} tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:3.55,0:00:3.61,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:3.61,0:00:3.73,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso {\1c&HFF00&\u1}tra{\r} virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:3.73,0:00:3.75,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:3.75,0:00:4.23,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra {\1c&HFF00&\u1}virgolette{\r} perché alla fine ho dato giusto
+Dialogue: 0,0:00:4.23,0:00:4.27,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:4.27,0:00:4.45,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette {\1c&HFF00&\u1}perché{\r} alla fine ho dato giusto
+Dialogue: 0,0:00:4.45,0:00:4.47,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:4.47,0:00:4.57,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché {\1c&HFF00&\u1}alla{\r} fine ho dato giusto
+Dialogue: 0,0:00:4.57,0:00:4.63,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:4.63,0:00:4.77,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla {\1c&HFF00&\u1}fine{\r} ho dato giusto
+Dialogue: 0,0:00:4.77,0:00:4.79,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:4.79,0:00:4.85,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine {\1c&HFF00&\u1}ho{\r} dato giusto
+Dialogue: 0,0:00:4.85,0:00:4.87,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:4.87,0:00:5.07,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho {\1c&HFF00&\u1}dato{\r} giusto
+Dialogue: 0,0:00:5.07,0:00:5.15,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato giusto
+Dialogue: 0,0:00:5.15,0:00:5.35,Default,,0,0,0,,Ok, chiuso l'argomento analisi tecnica, chiuso tra virgolette perché alla fine ho dato {\1c&HFF00&\u1}giusto{\r}
+Dialogue: 0,0:00:5.52,0:00:5.90,Default,,0,0,0,,{\1c&HFF00&\u1}quelle{\r} nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:5.90,0:00:5.92,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:5.92,0:00:6.42,Default,,0,0,0,,quelle {\1c&HFF00&\u1}nozioni{\r} che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:6.42,0:00:6.44,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:6.44,0:00:6.54,Default,,0,0,0,,quelle nozioni {\1c&HFF00&\u1}che{\r} secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:6.54,0:00:6.58,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:6.58,0:00:6.82,Default,,0,0,0,,quelle nozioni che {\1c&HFF00&\u1}secondo{\r} me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:6.82,0:00:6.86,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:6.86,0:00:6.94,Default,,0,0,0,,quelle nozioni che secondo {\1c&HFF00&\u1}me{\r} sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:6.94,0:00:7.00,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:7.00,0:00:7.23,Default,,0,0,0,,quelle nozioni che secondo me {\1c&HFF00&\u1}sono{\r} fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:7.23,0:00:7.29,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:7.29,0:00:7.79,Default,,0,0,0,,quelle nozioni che secondo me sono {\1c&HFF00&\u1}fondamentali{\r} per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:7.79,0:00:7.83,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:7.83,0:00:7.93,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali {\1c&HFF00&\u1}per{\r} iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:7.93,0:00:7.99,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:7.99,0:00:8.53,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per {\1c&HFF00&\u1}iniziare{\r} e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:8.53,0:00:9.01,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.01,0:00:9.05,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare {\1c&HFF00&\u1}e{\r} non vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.05,0:00:9.07,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.07,0:00:9.19,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e {\1c&HFF00&\u1}non{\r} vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.19,0:00:9.21,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.21,0:00:9.47,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non {\1c&HFF00&\u1}vengono{\r} quasi mai spiegate,
+Dialogue: 0,0:00:9.47,0:00:9.53,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.53,0:00:9.73,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono {\1c&HFF00&\u1}quasi{\r} mai spiegate,
+Dialogue: 0,0:00:9.73,0:00:9.77,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.77,0:00:9.87,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi {\1c&HFF00&\u1}mai{\r} spiegate,
+Dialogue: 0,0:00:9.87,0:00:9.91,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai spiegate,
+Dialogue: 0,0:00:9.91,0:00:10.35,Default,,0,0,0,,quelle nozioni che secondo me sono fondamentali per iniziare e non vengono quasi mai {\1c&HFF00&\u1}spiegate,{\r}
+Dialogue: 0,0:00:11.04,0:00:11.12,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.12,0:00:11.18,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.18,0:00:11.26,Default,,0,0,0,,ma {\1c&HFF00&\u1}le{\r} cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.26,0:00:11.30,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.30,0:00:11.46,Default,,0,0,0,,ma le {\1c&HFF00&\u1}cose{\r} da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.46,0:00:11.52,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.52,0:00:11.60,Default,,0,0,0,,ma le cose {\1c&HFF00&\u1}da{\r} dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.60,0:00:11.64,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.64,0:00:11.86,Default,,0,0,0,,ma le cose da {\1c&HFF00&\u1}dire{\r} ci penserebbero molte di più.
+Dialogue: 0,0:00:11.86,0:00:11.94,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:11.94,0:00:12.03,Default,,0,0,0,,ma le cose da dire {\1c&HFF00&\u1}ci{\r} penserebbero molte di più.
+Dialogue: 0,0:00:12.03,0:00:12.07,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:12.07,0:00:12.55,Default,,0,0,0,,ma le cose da dire ci {\1c&HFF00&\u1}penserebbero{\r} molte di più.
+Dialogue: 0,0:00:12.55,0:00:12.61,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:12.61,0:00:12.87,Default,,0,0,0,,ma le cose da dire ci penserebbero {\1c&HFF00&\u1}molte{\r} di più.
+Dialogue: 0,0:00:12.87,0:00:12.91,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:12.91,0:00:12.97,Default,,0,0,0,,ma le cose da dire ci penserebbero molte {\1c&HFF00&\u1}di{\r} più.
+Dialogue: 0,0:00:12.97,0:00:13.03,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di più.
+Dialogue: 0,0:00:13.03,0:00:13.11,Default,,0,0,0,,ma le cose da dire ci penserebbero molte di {\1c&HFF00&\u1}più.{\r}
+Dialogue: 0,0:00:13.38,0:00:13.68,Default,,0,0,0,,{\1c&HFF00&\u1}vediamo{\r} una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:13.68,0:00:13.72,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:13.72,0:00:13.82,Default,,0,0,0,,vediamo {\1c&HFF00&\u1}una{\r} volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:13.82,0:00:13.84,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:13.84,0:00:14.04,Default,,0,0,0,,vediamo una {\1c&HFF00&\u1}volta{\r} che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.04,0:00:14.08,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.08,0:00:14.18,Default,,0,0,0,,vediamo una volta {\1c&HFF00&\u1}che{\r} so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.18,0:00:14.26,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.26,0:00:14.38,Default,,0,0,0,,vediamo una volta che {\1c&HFF00&\u1}so{\r} come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.38,0:00:14.42,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.42,0:00:14.60,Default,,0,0,0,,vediamo una volta che so {\1c&HFF00&\u1}come{\r} fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.60,0:00:14.64,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.64,0:00:14.78,Default,,0,0,0,,vediamo una volta che so come {\1c&HFF00&\u1}fare{\r} trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.78,0:00:14.85,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:14.85,0:00:15.27,Default,,0,0,0,,vediamo una volta che so come fare {\1c&HFF00&\u1}trading,{\r} forse, su che cosa fare trading.
+Dialogue: 0,0:00:15.27,0:00:15.49,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:15.49,0:00:15.83,Default,,0,0,0,,vediamo una volta che so come fare trading, {\1c&HFF00&\u1}forse,{\r} su che cosa fare trading.
+Dialogue: 0,0:00:15.83,0:00:16.37,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:16.37,0:00:16.45,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, {\1c&HFF00&\u1}su{\r} che cosa fare trading.
+Dialogue: 0,0:00:16.45,0:00:16.49,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:16.49,0:00:16.59,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su {\1c&HFF00&\u1}che{\r} cosa fare trading.
+Dialogue: 0,0:00:16.59,0:00:16.65,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:16.65,0:00:16.89,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che {\1c&HFF00&\u1}cosa{\r} fare trading.
+Dialogue: 0,0:00:16.89,0:00:16.95,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:16.95,0:00:17.11,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa {\1c&HFF00&\u1}fare{\r} trading.
+Dialogue: 0,0:00:17.11,0:00:17.17,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare trading.
+Dialogue: 0,0:00:17.17,0:00:17.49,Default,,0,0,0,,vediamo una volta che so come fare trading, forse, su che cosa fare {\1c&HFF00&\u1}trading.{\r}

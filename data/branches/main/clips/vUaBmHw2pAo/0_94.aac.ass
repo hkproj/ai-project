@@ -1,0 +1,49 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.10,Default,,0,0,0,,{\1c&HFF00&\u1}Altro{\r} modo
+Dialogue: 0,0:00:0.10,0:00:0.12,Default,,0,0,0,,Altro modo
+Dialogue: 0,0:00:0.12,0:00:0.20,Default,,0,0,0,,Altro {\1c&HFF00&\u1}modo{\r}
+Dialogue: 0,0:00:2.04,0:00:4.94,Default,,0,0,0,,{\1c&HFF00&\u1}Invece{\r} di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:4.94,0:00:5.00,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:5.00,0:00:5.10,Default,,0,0,0,,Invece {\1c&HFF00&\u1}di{\r} salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:5.10,0:00:5.12,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:5.12,0:00:5.42,Default,,0,0,0,,Invece di {\1c&HFF00&\u1}salire{\r} tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:5.42,0:00:5.48,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:5.48,0:00:5.62,Default,,0,0,0,,Invece di salire {\1c&HFF00&\u1}tu,{\r} abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:5.62,0:00:6.56,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:6.56,0:00:6.92,Default,,0,0,0,,Invece di salire tu, {\1c&HFF00&\u1}abbassi{\r} la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:6.92,0:00:6.96,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:6.96,0:00:7.02,Default,,0,0,0,,Invece di salire tu, abbassi {\1c&HFF00&\u1}la{\r} cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.02,0:00:7.04,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.04,0:00:7.18,Default,,0,0,0,,Invece di salire tu, abbassi la {\1c&HFF00&\u1}cosa{\r} che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.18,0:00:7.20,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.20,0:00:7.26,Default,,0,0,0,,Invece di salire tu, abbassi la cosa {\1c&HFF00&\u1}che{\r} devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.26,0:00:7.30,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.30,0:00:7.44,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che {\1c&HFF00&\u1}devi{\r} fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.44,0:00:7.50,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.50,0:00:7.77,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi {\1c&HFF00&\u1}fare,{\r} cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:7.77,0:00:8.31,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:8.31,0:00:8.47,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, {\1c&HFF00&\u1}cioè{\r} pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:8.47,0:00:8.59,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:8.59,0:00:8.99,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè {\1c&HFF00&\u1}pensi,{\r} va beh, vai in fondo.
+Dialogue: 0,0:00:8.99,0:00:9.23,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:9.23,0:00:9.29,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, {\1c&HFF00&\u1}va{\r} beh, vai in fondo.
+Dialogue: 0,0:00:9.29,0:00:9.33,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:9.33,0:00:10.23,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va {\1c&HFF00&\u1}beh,{\r} vai in fondo.
+Dialogue: 0,0:00:10.23,0:00:10.25,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:10.25,0:00:10.31,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, {\1c&HFF00&\u1}vai{\r} in fondo.
+Dialogue: 0,0:00:10.31,0:00:10.33,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:10.33,0:00:10.41,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai {\1c&HFF00&\u1}in{\r} fondo.
+Dialogue: 0,0:00:10.41,0:00:10.43,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in fondo.
+Dialogue: 0,0:00:10.43,0:00:10.67,Default,,0,0,0,,Invece di salire tu, abbassi la cosa che devi fare, cioè pensi, va beh, vai in {\1c&HFF00&\u1}fondo.{\r}

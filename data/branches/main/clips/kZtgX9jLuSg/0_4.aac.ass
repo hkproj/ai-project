@@ -1,0 +1,46 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.28,0:00:0.36,Default,,0,0,0,,{\1c&HFF00&\u1}Se{\r} invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:0.36,0:00:0.40,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:0.40,0:00:0.66,Default,,0,0,0,,Se {\1c&HFF00&\u1}invece{\r} si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:0.66,0:00:0.72,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:0.72,0:00:0.80,Default,,0,0,0,,Se invece {\1c&HFF00&\u1}si{\r} frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:0.80,0:00:0.86,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:0.86,0:00:1.24,Default,,0,0,0,,Se invece si {\1c&HFF00&\u1}frequenta{\r} un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:1.24,0:00:1.30,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:1.30,0:00:1.87,Default,,0,0,0,,Se invece si frequenta {\1c&HFF00&\u1}un'università{\r} privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:1.87,0:00:1.93,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:1.93,0:00:2.41,Default,,0,0,0,,Se invece si frequenta un'università {\1c&HFF00&\u1}privata,{\r} chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:2.41,0:00:2.61,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:2.61,0:00:3.17,Default,,0,0,0,,Se invece si frequenta un'università privata, {\1c&HFF00&\u1}chiaramente{\r} il costo della retta vada a aumentare
+Dialogue: 0,0:00:3.17,0:00:3.25,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:3.25,0:00:3.31,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente {\1c&HFF00&\u1}il{\r} costo della retta vada a aumentare
+Dialogue: 0,0:00:3.31,0:00:3.35,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:3.35,0:00:3.59,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il {\1c&HFF00&\u1}costo{\r} della retta vada a aumentare
+Dialogue: 0,0:00:3.59,0:00:3.63,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:3.63,0:00:3.83,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo {\1c&HFF00&\u1}della{\r} retta vada a aumentare
+Dialogue: 0,0:00:3.83,0:00:3.87,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:3.87,0:00:4.17,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della {\1c&HFF00&\u1}retta{\r} vada a aumentare
+Dialogue: 0,0:00:4.17,0:00:4.25,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:4.25,0:00:4.47,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta {\1c&HFF00&\u1}vada{\r} a aumentare
+Dialogue: 0,0:00:4.47,0:00:4.49,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:4.49,0:00:4.51,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada {\1c&HFF00&\u1}a{\r} aumentare
+Dialogue: 0,0:00:4.51,0:00:4.53,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a aumentare
+Dialogue: 0,0:00:4.53,0:00:4.93,Default,,0,0,0,,Se invece si frequenta un'università privata, chiaramente il costo della retta vada a {\1c&HFF00&\u1}aumentare{\r}
+Dialogue: 0,0:00:5.10,0:00:5.38,Default,,0,0,0,,{\1c&HFF00&\u1}molto.{\r}
+Dialogue: 0,0:00:5.92,0:00:6.06,Default,,0,0,0,,{\1c&HFF00&\u1}quindi{\r} frequentando un'università.
+Dialogue: 0,0:00:6.06,0:00:6.12,Default,,0,0,0,,quindi frequentando un'università.
+Dialogue: 0,0:00:6.12,0:00:6.63,Default,,0,0,0,,quindi {\1c&HFF00&\u1}frequentando{\r} un'università.
+Dialogue: 0,0:00:6.63,0:00:6.71,Default,,0,0,0,,quindi frequentando un'università.
+Dialogue: 0,0:00:6.71,0:00:7.15,Default,,0,0,0,,quindi frequentando {\1c&HFF00&\u1}un'università.{\r}

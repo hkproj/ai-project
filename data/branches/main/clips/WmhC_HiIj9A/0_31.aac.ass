@@ -1,0 +1,134 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.04,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.04,0:00:0.06,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.06,0:00:0.18,Default,,0,0,0,,di {\1c&HFF00&\u1}questa{\r} spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.18,0:00:0.20,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.20,0:00:0.30,Default,,0,0,0,,di questa {\1c&HFF00&\u1}spesa{\r} risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.32,0:00:0.50,Default,,0,0,0,,di questa spesa {\1c&HFF00&\u1}risparmio{\r} o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.50,0:00:0.52,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.52,0:00:0.54,Default,,0,0,0,,di questa spesa risparmio {\1c&HFF00&\u1}o{\r} barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.54,0:00:0.56,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.56,0:00:0.66,Default,,0,0,0,,di questa spesa risparmio o {\1c&HFF00&\u1}barra{\r} sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.68,0:00:0.94,Default,,0,0,0,,di questa spesa risparmio o barra {\1c&HFF00&\u1}sostenibilità.{\r} Allora due sono le cose o
+Dialogue: 0,0:00:0.94,0:00:0.96,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:0.96,0:00:1.08,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. {\1c&HFF00&\u1}Allora{\r} due sono le cose o
+Dialogue: 0,0:00:1.08,0:00:1.10,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:1.10,0:00:1.16,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora {\1c&HFF00&\u1}due{\r} sono le cose o
+Dialogue: 0,0:00:1.16,0:00:1.18,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:1.18,0:00:1.26,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due {\1c&HFF00&\u1}sono{\r} le cose o
+Dialogue: 0,0:00:1.26,0:00:1.28,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:1.28,0:00:1.32,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono {\1c&HFF00&\u1}le{\r} cose o
+Dialogue: 0,0:00:1.32,0:00:1.34,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:1.34,0:00:1.42,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le {\1c&HFF00&\u1}cose{\r} o
+Dialogue: 0,0:00:1.42,0:00:1.44,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose o
+Dialogue: 0,0:00:1.44,0:00:1.46,Default,,0,0,0,,di questa spesa risparmio o barra sostenibilità. Allora due sono le cose {\1c&HFF00&\u1}o{\r}
+Dialogue: 0,0:00:4.04,0:00:4.20,Default,,0,0,0,,{\1c&HFF00&\u1}andate{\r} a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:4.20,0:00:4.26,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:4.26,0:00:4.30,Default,,0,0,0,,andate {\1c&HFF00&\u1}a{\r} piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:4.30,0:00:4.34,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:4.34,0:00:4.60,Default,,0,0,0,,andate a {\1c&HFF00&\u1}piedi{\r} e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:4.60,0:00:5.26,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.26,0:00:5.30,Default,,0,0,0,,andate a piedi {\1c&HFF00&\u1}e{\r} quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.30,0:00:5.37,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.37,0:00:5.57,Default,,0,0,0,,andate a piedi e {\1c&HFF00&\u1}quindi{\r} a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.57,0:00:5.69,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.69,0:00:5.73,Default,,0,0,0,,andate a piedi e quindi {\1c&HFF00&\u1}a{\r} un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.73,0:00:5.77,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.77,0:00:5.83,Default,,0,0,0,,andate a piedi e quindi a {\1c&HFF00&\u1}un{\r} certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.83,0:00:5.85,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:5.85,0:00:6.05,Default,,0,0,0,,andate a piedi e quindi a un {\1c&HFF00&\u1}certo{\r} punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:6.05,0:00:6.11,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:6.11,0:00:6.33,Default,,0,0,0,,andate a piedi e quindi a un certo {\1c&HFF00&\u1}punto{\r} sarete costretti a ridimensionare la
+Dialogue: 0,0:00:6.33,0:00:6.37,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:6.37,0:00:6.59,Default,,0,0,0,,andate a piedi e quindi a un certo punto {\1c&HFF00&\u1}sarete{\r} costretti a ridimensionare la
+Dialogue: 0,0:00:6.59,0:00:6.63,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:6.63,0:00:7.03,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete {\1c&HFF00&\u1}costretti{\r} a ridimensionare la
+Dialogue: 0,0:00:7.03,0:00:7.05,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:7.05,0:00:7.07,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti {\1c&HFF00&\u1}a{\r} ridimensionare la
+Dialogue: 0,0:00:7.07,0:00:7.11,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:7.11,0:00:7.65,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a {\1c&HFF00&\u1}ridimensionare{\r} la
+Dialogue: 0,0:00:7.65,0:00:7.69,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare la
+Dialogue: 0,0:00:7.69,0:00:7.75,Default,,0,0,0,,andate a piedi e quindi a un certo punto sarete costretti a ridimensionare {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:7.90,0:00:8.18,Default,,0,0,0,,{\1c&HFF00&\u1}vostra{\r} spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:8.18,0:00:8.20,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:8.20,0:00:8.64,Default,,0,0,0,,vostra {\1c&HFF00&\u1}spesa{\r} perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:8.64,0:00:8.68,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:8.68,0:00:8.94,Default,,0,0,0,,vostra spesa {\1c&HFF00&\u1}perché{\r} di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:8.94,0:00:9.19,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.19,0:00:9.27,Default,,0,0,0,,vostra spesa perché {\1c&HFF00&\u1}di{\r} fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.27,0:00:9.31,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.31,0:00:9.61,Default,,0,0,0,,vostra spesa perché di {\1c&HFF00&\u1}fatto{\r} non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.61,0:00:9.67,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.67,0:00:9.77,Default,,0,0,0,,vostra spesa perché di fatto {\1c&HFF00&\u1}non{\r} avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.77,0:00:9.79,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.79,0:00:9.93,Default,,0,0,0,,vostra spesa perché di fatto non {\1c&HFF00&\u1}avete{\r} la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.93,0:00:9.97,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:9.97,0:00:10.01,Default,,0,0,0,,vostra spesa perché di fatto non avete {\1c&HFF00&\u1}la{\r} macchina avete due braccia e quindi
+Dialogue: 0,0:00:10.01,0:00:10.05,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:10.05,0:00:10.27,Default,,0,0,0,,vostra spesa perché di fatto non avete la {\1c&HFF00&\u1}macchina{\r} avete due braccia e quindi
+Dialogue: 0,0:00:10.27,0:00:10.29,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:10.29,0:00:10.45,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina {\1c&HFF00&\u1}avete{\r} due braccia e quindi
+Dialogue: 0,0:00:10.45,0:00:10.49,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:10.49,0:00:10.57,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete {\1c&HFF00&\u1}due{\r} braccia e quindi
+Dialogue: 0,0:00:10.57,0:00:10.61,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:10.61,0:00:11.01,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due {\1c&HFF00&\u1}braccia{\r} e quindi
+Dialogue: 0,0:00:11.01,0:00:11.15,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:11.15,0:00:11.19,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia {\1c&HFF00&\u1}e{\r} quindi
+Dialogue: 0,0:00:11.19,0:00:11.27,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e quindi
+Dialogue: 0,0:00:11.27,0:00:11.49,Default,,0,0,0,,vostra spesa perché di fatto non avete la macchina avete due braccia e {\1c&HFF00&\u1}quindi{\r}
+Dialogue: 0,0:00:11.90,0:00:11.98,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:11.98,0:00:12.00,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:12.00,0:00:12.20,Default,,0,0,0,,non {\1c&HFF00&\u1}potete{\r} comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:12.20,0:00:12.22,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:12.22,0:00:12.48,Default,,0,0,0,,non potete {\1c&HFF00&\u1}comprare{\r} chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:12.48,0:00:12.52,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:12.52,0:00:12.73,Default,,0,0,0,,non potete comprare {\1c&HFF00&\u1}chissà{\r} quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:12.73,0:00:12.79,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:12.79,0:00:13.01,Default,,0,0,0,,non potete comprare chissà {\1c&HFF00&\u1}quante{\r} cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:13.01,0:00:13.05,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:13.05,0:00:13.29,Default,,0,0,0,,non potete comprare chissà quante {\1c&HFF00&\u1}cose,{\r} oppure se andate in macchina a maggior
+Dialogue: 0,0:00:13.29,0:00:13.89,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:13.89,0:00:14.15,Default,,0,0,0,,non potete comprare chissà quante cose, {\1c&HFF00&\u1}oppure{\r} se andate in macchina a maggior
+Dialogue: 0,0:00:14.15,0:00:14.25,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:14.25,0:00:14.33,Default,,0,0,0,,non potete comprare chissà quante cose, oppure {\1c&HFF00&\u1}se{\r} andate in macchina a maggior
+Dialogue: 0,0:00:14.33,0:00:14.35,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:14.35,0:00:14.53,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se {\1c&HFF00&\u1}andate{\r} in macchina a maggior
+Dialogue: 0,0:00:14.53,0:00:14.55,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:14.55,0:00:14.59,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate {\1c&HFF00&\u1}in{\r} macchina a maggior
+Dialogue: 0,0:00:14.59,0:00:14.63,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:14.63,0:00:15.03,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in {\1c&HFF00&\u1}macchina{\r} a maggior
+Dialogue: 0,0:00:15.03,0:00:15.38,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:15.38,0:00:15.42,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina {\1c&HFF00&\u1}a{\r} maggior
+Dialogue: 0,0:00:15.42,0:00:15.46,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a maggior
+Dialogue: 0,0:00:15.46,0:00:15.68,Default,,0,0,0,,non potete comprare chissà quante cose, oppure se andate in macchina a {\1c&HFF00&\u1}maggior{\r}
+Dialogue: 0,0:00:15.74,0:00:15.92,Default,,0,0,0,,{\1c&HFF00&\u1}ragione{\r} abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:15.92,0:00:15.94,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:15.94,0:00:16.11,Default,,0,0,0,,ragione {\1c&HFF00&\u1}abbiate{\r} un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.11,0:00:16.13,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.13,0:00:16.17,Default,,0,0,0,,ragione abbiate {\1c&HFF00&\u1}un{\r} occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.17,0:00:16.21,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.21,0:00:16.33,Default,,0,0,0,,ragione abbiate un {\1c&HFF00&\u1}occhio{\r} di riguardo per la spesa
+Dialogue: 0,0:00:16.33,0:00:16.35,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.35,0:00:16.41,Default,,0,0,0,,ragione abbiate un occhio {\1c&HFF00&\u1}di{\r} riguardo per la spesa
+Dialogue: 0,0:00:16.41,0:00:16.45,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.45,0:00:16.72,Default,,0,0,0,,ragione abbiate un occhio di {\1c&HFF00&\u1}riguardo{\r} per la spesa
+Dialogue: 0,0:00:16.72,0:00:16.78,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.78,0:00:16.84,Default,,0,0,0,,ragione abbiate un occhio di riguardo {\1c&HFF00&\u1}per{\r} la spesa
+Dialogue: 0,0:00:16.84,0:00:16.88,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.88,0:00:16.92,Default,,0,0,0,,ragione abbiate un occhio di riguardo per {\1c&HFF00&\u1}la{\r} spesa
+Dialogue: 0,0:00:16.92,0:00:16.94,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la spesa
+Dialogue: 0,0:00:16.94,0:00:17.14,Default,,0,0,0,,ragione abbiate un occhio di riguardo per la {\1c&HFF00&\u1}spesa{\r}

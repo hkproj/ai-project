@@ -1,0 +1,478 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.10,Default,,0,0,0,,{\1c&HFF00&\u1}visto{\r} che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:0.10,0:00:0.12,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:0.12,0:00:0.18,Default,,0,0,0,,visto {\1c&HFF00&\u1}che{\r} ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:0.18,0:00:0.20,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:0.20,0:00:0.40,Default,,0,0,0,,visto che {\1c&HFF00&\u1}ho{\r} scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:0.40,0:00:0.46,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:0.46,0:00:0.88,Default,,0,0,0,,visto che ho {\1c&HFF00&\u1}scelto{\r} di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:0.88,0:00:1.04,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.04,0:00:1.10,Default,,0,0,0,,visto che ho scelto {\1c&HFF00&\u1}di{\r} non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.10,0:00:1.18,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.18,0:00:1.26,Default,,0,0,0,,visto che ho scelto di {\1c&HFF00&\u1}non{\r} avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.26,0:00:1.32,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.32,0:00:1.51,Default,,0,0,0,,visto che ho scelto di non {\1c&HFF00&\u1}avere{\r} più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.51,0:00:1.55,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.55,0:00:1.63,Default,,0,0,0,,visto che ho scelto di non avere {\1c&HFF00&\u1}più{\r} una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.63,0:00:1.67,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.67,0:00:1.77,Default,,0,0,0,,visto che ho scelto di non avere più {\1c&HFF00&\u1}una{\r} vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.77,0:00:1.81,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.81,0:00:1.97,Default,,0,0,0,,visto che ho scelto di non avere più una {\1c&HFF00&\u1}vita{\r} frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:1.97,0:00:2.03,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:2.03,0:00:2.53,Default,,0,0,0,,visto che ho scelto di non avere più una vita {\1c&HFF00&\u1}frenetica,{\r} non vi nego che appunto a
+Dialogue: 0,0:00:2.53,0:00:2.95,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:2.95,0:00:3.05,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, {\1c&HFF00&\u1}non{\r} vi nego che appunto a
+Dialogue: 0,0:00:3.05,0:00:3.07,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:3.07,0:00:3.13,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non {\1c&HFF00&\u1}vi{\r} nego che appunto a
+Dialogue: 0,0:00:3.13,0:00:3.17,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:3.17,0:00:3.37,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi {\1c&HFF00&\u1}nego{\r} che appunto a
+Dialogue: 0,0:00:3.37,0:00:3.43,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:3.43,0:00:3.51,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego {\1c&HFF00&\u1}che{\r} appunto a
+Dialogue: 0,0:00:3.51,0:00:3.55,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:3.55,0:00:3.93,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che {\1c&HFF00&\u1}appunto{\r} a
+Dialogue: 0,0:00:3.93,0:00:3.95,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto a
+Dialogue: 0,0:00:3.95,0:00:3.97,Default,,0,0,0,,visto che ho scelto di non avere più una vita frenetica, non vi nego che appunto {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:4.18,0:00:4.40,Default,,0,0,0,,{\1c&HFF00&\u1}volte{\r} vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:4.40,0:00:4.50,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:4.50,0:00:4.68,Default,,0,0,0,,volte {\1c&HFF00&\u1}vado{\r} di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:4.68,0:00:4.72,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:4.72,0:00:4.80,Default,,0,0,0,,volte vado {\1c&HFF00&\u1}di{\r} fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:4.80,0:00:4.84,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:4.84,0:00:5.30,Default,,0,0,0,,volte vado di {\1c&HFF00&\u1}fretta{\r} ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:5.30,0:00:5.57,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:5.57,0:00:5.73,Default,,0,0,0,,volte vado di fretta {\1c&HFF00&\u1}ma{\r} comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:5.73,0:00:5.85,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:5.85,0:00:6.15,Default,,0,0,0,,volte vado di fretta ma {\1c&HFF00&\u1}comunque{\r} trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.15,0:00:6.17,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.17,0:00:6.33,Default,,0,0,0,,volte vado di fretta ma comunque {\1c&HFF00&\u1}trovo{\r} il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.33,0:00:6.37,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.37,0:00:6.41,Default,,0,0,0,,volte vado di fretta ma comunque trovo {\1c&HFF00&\u1}il{\r} tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.41,0:00:6.43,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.43,0:00:6.63,Default,,0,0,0,,volte vado di fretta ma comunque trovo il {\1c&HFF00&\u1}tempo{\r} per cucinare la sera prima la
+Dialogue: 0,0:00:6.63,0:00:6.67,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.67,0:00:6.77,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo {\1c&HFF00&\u1}per{\r} cucinare la sera prima la
+Dialogue: 0,0:00:6.77,0:00:6.83,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:6.83,0:00:7.31,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per {\1c&HFF00&\u1}cucinare{\r} la sera prima la
+Dialogue: 0,0:00:7.31,0:00:7.41,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:7.41,0:00:7.45,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare {\1c&HFF00&\u1}la{\r} sera prima la
+Dialogue: 0,0:00:7.45,0:00:7.49,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:7.49,0:00:7.65,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la {\1c&HFF00&\u1}sera{\r} prima la
+Dialogue: 0,0:00:7.65,0:00:7.69,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:7.69,0:00:7.89,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera {\1c&HFF00&\u1}prima{\r} la
+Dialogue: 0,0:00:7.89,0:00:7.93,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima la
+Dialogue: 0,0:00:7.93,0:00:7.97,Default,,0,0,0,,volte vado di fretta ma comunque trovo il tempo per cucinare la sera prima {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:8.42,0:00:8.96,Default,,0,0,0,,{\1c&HFF00&\u1}mattina,{\r} in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:8.96,0:00:8.98,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:8.98,0:00:9.02,Default,,0,0,0,,mattina, {\1c&HFF00&\u1}in{\r} qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.02,0:00:9.06,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.06,0:00:9.28,Default,,0,0,0,,mattina, in {\1c&HFF00&\u1}qualche{\r} modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.28,0:00:9.34,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.34,0:00:9.48,Default,,0,0,0,,mattina, in qualche {\1c&HFF00&\u1}modo{\r} lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.48,0:00:9.52,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.52,0:00:9.59,Default,,0,0,0,,mattina, in qualche modo {\1c&HFF00&\u1}lo{\r} trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.59,0:00:9.61,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:9.61,0:00:10.31,Default,,0,0,0,,mattina, in qualche modo lo {\1c&HFF00&\u1}trovo.{\r} Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:10.31,0:00:10.33,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:10.33,0:00:10.53,Default,,0,0,0,,mattina, in qualche modo lo trovo. {\1c&HFF00&\u1}Quindi{\r} evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:10.53,0:00:10.69,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:10.69,0:00:11.09,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi {\1c&HFF00&\u1}evitatelo{\r} perché sicuramente le cose
+Dialogue: 0,0:00:11.09,0:00:11.23,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:11.23,0:00:11.43,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo {\1c&HFF00&\u1}perché{\r} sicuramente le cose
+Dialogue: 0,0:00:11.43,0:00:11.63,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:11.63,0:00:11.97,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché {\1c&HFF00&\u1}sicuramente{\r} le cose
+Dialogue: 0,0:00:11.97,0:00:12.05,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:12.05,0:00:12.09,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente {\1c&HFF00&\u1}le{\r} cose
+Dialogue: 0,0:00:12.09,0:00:12.11,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le cose
+Dialogue: 0,0:00:12.11,0:00:12.27,Default,,0,0,0,,mattina, in qualche modo lo trovo. Quindi evitatelo perché sicuramente le {\1c&HFF00&\u1}cose{\r}
+Dialogue: 0,0:00:12.54,0:00:12.82,Default,,0,0,0,,{\1c&HFF00&\u1}pronte{\r} costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:12.82,0:00:12.90,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:12.90,0:00:13.22,Default,,0,0,0,,pronte {\1c&HFF00&\u1}costano{\r} molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.22,0:00:13.42,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.42,0:00:13.62,Default,,0,0,0,,pronte costano {\1c&HFF00&\u1}molto{\r} di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.62,0:00:13.66,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.66,0:00:13.74,Default,,0,0,0,,pronte costano molto {\1c&HFF00&\u1}di{\r} più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.74,0:00:13.77,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.77,0:00:13.87,Default,,0,0,0,,pronte costano molto di {\1c&HFF00&\u1}più{\r} di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.87,0:00:13.91,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.91,0:00:13.97,Default,,0,0,0,,pronte costano molto di più {\1c&HFF00&\u1}di{\r} quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:13.97,0:00:14.01,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:14.01,0:00:14.29,Default,,0,0,0,,pronte costano molto di più di {\1c&HFF00&\u1}quanto{\r} possiate invece fare voi a casa e
+Dialogue: 0,0:00:14.29,0:00:14.55,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:14.55,0:00:14.89,Default,,0,0,0,,pronte costano molto di più di quanto {\1c&HFF00&\u1}possiate{\r} invece fare voi a casa e
+Dialogue: 0,0:00:14.89,0:00:14.91,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:14.91,0:00:15.11,Default,,0,0,0,,pronte costano molto di più di quanto possiate {\1c&HFF00&\u1}invece{\r} fare voi a casa e
+Dialogue: 0,0:00:15.11,0:00:15.15,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:15.15,0:00:15.29,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece {\1c&HFF00&\u1}fare{\r} voi a casa e
+Dialogue: 0,0:00:15.29,0:00:15.33,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:15.33,0:00:15.45,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare {\1c&HFF00&\u1}voi{\r} a casa e
+Dialogue: 0,0:00:15.45,0:00:15.49,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:15.49,0:00:15.53,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi {\1c&HFF00&\u1}a{\r} casa e
+Dialogue: 0,0:00:15.53,0:00:15.59,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:15.59,0:00:15.89,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a {\1c&HFF00&\u1}casa{\r} e
+Dialogue: 0,0:00:15.89,0:00:15.91,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa e
+Dialogue: 0,0:00:15.91,0:00:15.93,Default,,0,0,0,,pronte costano molto di più di quanto possiate invece fare voi a casa {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:16.46,0:00:16.88,Default,,0,0,0,,{\1c&HFF00&\u1}soprattutto{\r} evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:16.88,0:00:16.90,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:16.90,0:00:17.24,Default,,0,0,0,,soprattutto {\1c&HFF00&\u1}evitate{\r} le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:17.24,0:00:17.38,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:17.38,0:00:17.44,Default,,0,0,0,,soprattutto evitate {\1c&HFF00&\u1}le{\r} monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:17.44,0:00:17.48,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:17.48,0:00:18.35,Default,,0,0,0,,soprattutto evitate le {\1c&HFF00&\u1}monodosi,{\r} quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:18.35,0:00:18.37,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:18.37,0:00:18.57,Default,,0,0,0,,soprattutto evitate le monodosi, {\1c&HFF00&\u1}quindi{\r} evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:18.57,0:00:18.61,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:18.61,0:00:18.99,Default,,0,0,0,,soprattutto evitate le monodosi, quindi {\1c&HFF00&\u1}evitate{\r} di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:18.99,0:00:19.03,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:19.03,0:00:19.07,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate {\1c&HFF00&\u1}di{\r} acquistare ad esempio l'insalata
+Dialogue: 0,0:00:19.07,0:00:19.11,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:19.11,0:00:19.61,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di {\1c&HFF00&\u1}acquistare{\r} ad esempio l'insalata
+Dialogue: 0,0:00:19.61,0:00:19.85,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:19.85,0:00:19.95,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare {\1c&HFF00&\u1}ad{\r} esempio l'insalata
+Dialogue: 0,0:00:19.95,0:00:19.99,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:19.99,0:00:20.57,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad {\1c&HFF00&\u1}esempio{\r} l'insalata
+Dialogue: 0,0:00:20.57,0:00:20.99,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio l'insalata
+Dialogue: 0,0:00:20.99,0:00:21.41,Default,,0,0,0,,soprattutto evitate le monodosi, quindi evitate di acquistare ad esempio {\1c&HFF00&\u1}l'insalata{\r}
+Dialogue: 0,0:00:21.40,0:00:21.66,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:21.66,0:00:21.70,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:21.70,0:00:22.02,Default,,0,0,0,,in {\1c&HFF00&\u1}busta,{\r} compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:22.02,0:00:22.48,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:22.48,0:00:22.85,Default,,0,0,0,,in busta, {\1c&HFF00&\u1}compratevi{\r} un bel fascio di insalata e
+Dialogue: 0,0:00:22.85,0:00:22.87,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:22.87,0:00:22.97,Default,,0,0,0,,in busta, compratevi {\1c&HFF00&\u1}un{\r} bel fascio di insalata e
+Dialogue: 0,0:00:22.97,0:00:23.01,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:23.01,0:00:23.15,Default,,0,0,0,,in busta, compratevi un {\1c&HFF00&\u1}bel{\r} fascio di insalata e
+Dialogue: 0,0:00:23.15,0:00:23.23,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:23.23,0:00:23.47,Default,,0,0,0,,in busta, compratevi un bel {\1c&HFF00&\u1}fascio{\r} di insalata e
+Dialogue: 0,0:00:23.47,0:00:23.53,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:23.53,0:00:23.57,Default,,0,0,0,,in busta, compratevi un bel fascio {\1c&HFF00&\u1}di{\r} insalata e
+Dialogue: 0,0:00:23.57,0:00:23.59,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:23.59,0:00:24.01,Default,,0,0,0,,in busta, compratevi un bel fascio di {\1c&HFF00&\u1}insalata{\r} e
+Dialogue: 0,0:00:24.01,0:00:24.03,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata e
+Dialogue: 0,0:00:24.03,0:00:24.05,Default,,0,0,0,,in busta, compratevi un bel fascio di insalata {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:24.18,0:00:26.97,Default,,0,0,0,,{\1c&HFF00&\u1}piuttosto{\r} poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:26.97,0:00:27.05,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:27.05,0:00:27.23,Default,,0,0,0,,piuttosto {\1c&HFF00&\u1}poi{\r} lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:27.23,0:00:27.29,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:27.29,0:00:27.73,Default,,0,0,0,,piuttosto poi {\1c&HFF00&\u1}lo{\r} conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:27.73,0:00:27.79,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:27.79,0:00:28.41,Default,,0,0,0,,piuttosto poi lo {\1c&HFF00&\u1}conservate{\r} a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.41,0:00:28.45,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.45,0:00:28.51,Default,,0,0,0,,piuttosto poi lo conservate {\1c&HFF00&\u1}a{\r} modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.51,0:00:28.57,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.57,0:00:28.75,Default,,0,0,0,,piuttosto poi lo conservate a {\1c&HFF00&\u1}modo{\r} suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.75,0:00:28.79,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.79,0:00:28.90,Default,,0,0,0,,piuttosto poi lo conservate a modo {\1c&HFF00&\u1}suo.{\r} Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.90,0:00:28.92,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:28.92,0:00:29.18,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. {\1c&HFF00&\u1}Dovete{\r} fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.18,0:00:29.26,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.26,0:00:29.34,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete {\1c&HFF00&\u1}fare{\r} il brodo, non vi comprate il
+Dialogue: 0,0:00:29.34,0:00:29.38,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.38,0:00:29.42,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare {\1c&HFF00&\u1}il{\r} brodo, non vi comprate il
+Dialogue: 0,0:00:29.42,0:00:29.44,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.44,0:00:29.56,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il {\1c&HFF00&\u1}brodo,{\r} non vi comprate il
+Dialogue: 0,0:00:29.56,0:00:29.58,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.58,0:00:29.64,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, {\1c&HFF00&\u1}non{\r} vi comprate il
+Dialogue: 0,0:00:29.64,0:00:29.66,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.66,0:00:29.70,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non {\1c&HFF00&\u1}vi{\r} comprate il
+Dialogue: 0,0:00:29.70,0:00:29.72,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.72,0:00:29.88,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi {\1c&HFF00&\u1}comprate{\r} il
+Dialogue: 0,0:00:29.88,0:00:29.90,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate il
+Dialogue: 0,0:00:29.90,0:00:29.94,Default,,0,0,0,,piuttosto poi lo conservate a modo suo. Dovete fare il brodo, non vi comprate {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:28.44,0:00:29.12,Default,,0,0,0,,{\1c&HFF00&\u1}preparato{\r} per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:29.12,0:00:29.14,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:29.14,0:00:29.34,Default,,0,0,0,,preparato {\1c&HFF00&\u1}per{\r} brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:29.34,0:00:29.42,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:29.42,0:00:29.80,Default,,0,0,0,,preparato per {\1c&HFF00&\u1}brodo{\r} confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:29.80,0:00:29.88,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:29.88,0:00:30.37,Default,,0,0,0,,preparato per brodo {\1c&HFF00&\u1}confezionato{\r} in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:30.37,0:00:30.41,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:30.41,0:00:30.47,Default,,0,0,0,,preparato per brodo confezionato {\1c&HFF00&\u1}in{\r} plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:30.47,0:00:30.49,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:30.49,0:00:30.83,Default,,0,0,0,,preparato per brodo confezionato in {\1c&HFF00&\u1}plastica{\r} che c'ha una carota, un sedano e
+Dialogue: 0,0:00:30.83,0:00:30.87,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:30.87,0:00:30.97,Default,,0,0,0,,preparato per brodo confezionato in plastica {\1c&HFF00&\u1}che{\r} c'ha una carota, un sedano e
+Dialogue: 0,0:00:30.97,0:00:31.05,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:31.05,0:00:31.17,Default,,0,0,0,,preparato per brodo confezionato in plastica che {\1c&HFF00&\u1}c'ha{\r} una carota, un sedano e
+Dialogue: 0,0:00:31.17,0:00:31.37,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:31.37,0:00:31.51,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha {\1c&HFF00&\u1}una{\r} carota, un sedano e
+Dialogue: 0,0:00:31.51,0:00:31.57,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:31.57,0:00:31.97,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una {\1c&HFF00&\u1}carota,{\r} un sedano e
+Dialogue: 0,0:00:31.97,0:00:32.05,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:32.05,0:00:32.13,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, {\1c&HFF00&\u1}un{\r} sedano e
+Dialogue: 0,0:00:32.13,0:00:32.21,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:32.21,0:00:32.49,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un {\1c&HFF00&\u1}sedano{\r} e
+Dialogue: 0,0:00:32.49,0:00:32.51,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano e
+Dialogue: 0,0:00:32.51,0:00:32.53,Default,,0,0,0,,preparato per brodo confezionato in plastica che c'ha una carota, un sedano {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:32.50,0:00:32.74,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:32.74,0:00:32.78,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:32.78,0:00:33.50,Default,,0,0,0,,una {\1c&HFF00&\u1}cipolla.{\r} Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:33.50,0:00:33.52,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:33.52,0:00:34.18,Default,,0,0,0,,una cipolla. {\1c&HFF00&\u1}Comprate 10{\r} carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:34.18,0:00:34.24,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:34.24,0:00:34.66,Default,,0,0,0,,una cipolla. Comprate 10 {\1c&HFF00&\u1}carote, 4{\r} cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:34.66,0:00:36.07,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:36.07,0:00:36.43,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 {\1c&HFF00&\u1}cipolle{\r} che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:36.43,0:00:36.47,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:36.47,0:00:36.55,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle {\1c&HFF00&\u1}che{\r} vi durano tre mesi, il sedano
+Dialogue: 0,0:00:36.55,0:00:36.63,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:36.63,0:00:36.67,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che {\1c&HFF00&\u1}vi{\r} durano tre mesi, il sedano
+Dialogue: 0,0:00:36.67,0:00:36.69,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:36.69,0:00:36.95,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi {\1c&HFF00&\u1}durano{\r} tre mesi, il sedano
+Dialogue: 0,0:00:36.95,0:00:36.99,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:36.99,0:00:37.13,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano {\1c&HFF00&\u1}tre{\r} mesi, il sedano
+Dialogue: 0,0:00:37.13,0:00:37.25,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:37.25,0:00:37.57,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre {\1c&HFF00&\u1}mesi,{\r} il sedano
+Dialogue: 0,0:00:37.57,0:00:38.21,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:38.21,0:00:38.27,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, {\1c&HFF00&\u1}il{\r} sedano
+Dialogue: 0,0:00:38.27,0:00:38.31,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il sedano
+Dialogue: 0,0:00:38.31,0:00:38.67,Default,,0,0,0,,una cipolla. Comprate 10 carote, 4 cipolle che vi durano tre mesi, il {\1c&HFF00&\u1}sedano{\r}
+Dialogue: 0,0:00:40.20,0:00:40.72,Default,,0,0,0,,{\1c&HFF00&\u1}tagliuzziate{\r} tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:40.72,0:00:40.74,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:40.74,0:00:40.99,Default,,0,0,0,,tagliuzziate {\1c&HFF00&\u1}tutto,{\r} quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:40.99,0:00:41.01,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.01,0:00:41.17,Default,,0,0,0,,tagliuzziate tutto, {\1c&HFF00&\u1}quello{\r} che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.17,0:00:41.21,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.21,0:00:41.29,Default,,0,0,0,,tagliuzziate tutto, quello {\1c&HFF00&\u1}che{\r} non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.29,0:00:41.33,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.33,0:00:41.43,Default,,0,0,0,,tagliuzziate tutto, quello che {\1c&HFF00&\u1}non{\r} mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.43,0:00:41.47,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.47,0:00:41.87,Default,,0,0,0,,tagliuzziate tutto, quello che non {\1c&HFF00&\u1}mangiate{\r} lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.87,0:00:41.91,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:41.91,0:00:41.97,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate {\1c&HFF00&\u1}lo{\r} conservate e il resto lo usate.
+Dialogue: 0,0:00:41.97,0:00:42.01,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:42.01,0:00:42.49,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo {\1c&HFF00&\u1}conservate{\r} e il resto lo usate.
+Dialogue: 0,0:00:42.49,0:00:42.53,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:42.53,0:00:42.55,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate {\1c&HFF00&\u1}e{\r} il resto lo usate.
+Dialogue: 0,0:00:42.55,0:00:42.57,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:42.57,0:00:42.61,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e {\1c&HFF00&\u1}il{\r} resto lo usate.
+Dialogue: 0,0:00:42.61,0:00:42.65,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:42.65,0:00:42.85,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il {\1c&HFF00&\u1}resto{\r} lo usate.
+Dialogue: 0,0:00:42.85,0:00:42.87,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:42.87,0:00:42.93,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto {\1c&HFF00&\u1}lo{\r} usate.
+Dialogue: 0,0:00:42.93,0:00:42.97,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo usate.
+Dialogue: 0,0:00:42.97,0:00:43.25,Default,,0,0,0,,tagliuzziate tutto, quello che non mangiate lo conservate e il resto lo {\1c&HFF00&\u1}usate.{\r}
+Dialogue: 0,0:00:43.24,0:00:43.94,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi{\r} evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:43.94,0:00:43.98,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:43.98,0:00:44.30,Default,,0,0,0,,Quindi {\1c&HFF00&\u1}evitate{\r} quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:44.30,0:00:44.34,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:44.34,0:00:44.48,Default,,0,0,0,,Quindi evitate {\1c&HFF00&\u1}quanto{\r} vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:44.48,0:00:44.50,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:44.50,0:00:44.58,Default,,0,0,0,,Quindi evitate quanto {\1c&HFF00&\u1}vi{\r} possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:44.58,0:00:44.62,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:44.62,0:00:44.97,Default,,0,0,0,,Quindi evitate quanto vi {\1c&HFF00&\u1}possibili{\r} farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:44.97,0:00:45.03,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:45.03,0:00:45.23,Default,,0,0,0,,Quindi evitate quanto vi possibili {\1c&HFF00&\u1}farvi{\r} fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:45.23,0:00:45.27,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:45.27,0:00:45.65,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi {\1c&HFF00&\u1}fregare{\r} dalle logiche di mercato dei
+Dialogue: 0,0:00:45.65,0:00:45.77,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:45.77,0:00:45.99,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare {\1c&HFF00&\u1}dalle{\r} logiche di mercato dei
+Dialogue: 0,0:00:45.99,0:00:46.03,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:46.03,0:00:46.33,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle {\1c&HFF00&\u1}logiche{\r} di mercato dei
+Dialogue: 0,0:00:46.33,0:00:46.37,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:46.37,0:00:46.43,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche {\1c&HFF00&\u1}di{\r} mercato dei
+Dialogue: 0,0:00:46.43,0:00:46.47,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:46.47,0:00:46.85,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di {\1c&HFF00&\u1}mercato{\r} dei
+Dialogue: 0,0:00:46.85,0:00:46.87,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato dei
+Dialogue: 0,0:00:46.87,0:00:46.93,Default,,0,0,0,,Quindi evitate quanto vi possibili farvi fregare dalle logiche di mercato {\1c&HFF00&\u1}dei{\r}
+Dialogue: 0,0:00:46.92,0:00:47.82,Default,,0,0,0,,{\1c&HFF00&\u1}supermercati.{\r} Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:47.82,0:00:47.86,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:47.86,0:00:47.96,Default,,0,0,0,,supermercati. {\1c&HFF00&\u1}Siamo{\r} a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:47.96,0:00:47.98,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:47.98,0:00:48.00,Default,,0,0,0,,supermercati. Siamo {\1c&HFF00&\u1}a{\r} metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.00,0:00:48.04,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.04,0:00:48.20,Default,,0,0,0,,supermercati. Siamo a {\1c&HFF00&\u1}metà{\r} del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.20,0:00:48.24,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.24,0:00:48.37,Default,,0,0,0,,supermercati. Siamo a metà {\1c&HFF00&\u1}del{\r} video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.37,0:00:48.39,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.39,0:00:48.55,Default,,0,0,0,,supermercati. Siamo a metà del {\1c&HFF00&\u1}video{\r} e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.55,0:00:48.57,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.57,0:00:48.59,Default,,0,0,0,,supermercati. Siamo a metà del video {\1c&HFF00&\u1}e{\r} voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.59,0:00:48.65,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.65,0:00:48.83,Default,,0,0,0,,supermercati. Siamo a metà del video e {\1c&HFF00&\u1}voglio{\r} farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.83,0:00:48.87,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:48.87,0:00:49.07,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio {\1c&HFF00&\u1}farmi{\r} una domanda a sorpresa
+Dialogue: 0,0:00:49.07,0:00:49.23,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:49.23,0:00:49.33,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi {\1c&HFF00&\u1}una{\r} domanda a sorpresa
+Dialogue: 0,0:00:49.33,0:00:49.39,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:49.39,0:00:49.73,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una {\1c&HFF00&\u1}domanda{\r} a sorpresa
+Dialogue: 0,0:00:49.73,0:00:49.87,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:49.87,0:00:49.91,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda {\1c&HFF00&\u1}a{\r} sorpresa
+Dialogue: 0,0:00:49.91,0:00:49.99,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a sorpresa
+Dialogue: 0,0:00:49.99,0:00:50.37,Default,,0,0,0,,supermercati. Siamo a metà del video e voglio farmi una domanda a {\1c&HFF00&\u1}sorpresa{\r}
+Dialogue: 0,0:00:50.36,0:00:50.80,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:50.80,0:00:50.84,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:50.84,0:00:50.88,Default,,0,0,0,,perché {\1c&HFF00&\u1}ho{\r} pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:50.88,0:00:50.90,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:50.90,0:00:51.12,Default,,0,0,0,,perché ho {\1c&HFF00&\u1}pensato{\r} che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.12,0:00:51.14,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.14,0:00:51.20,Default,,0,0,0,,perché ho pensato {\1c&HFF00&\u1}che{\r} adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.20,0:00:51.24,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.24,0:00:51.46,Default,,0,0,0,,perché ho pensato che {\1c&HFF00&\u1}adesso{\r} per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.46,0:00:51.50,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.50,0:00:51.60,Default,,0,0,0,,perché ho pensato che adesso {\1c&HFF00&\u1}per{\r} quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.60,0:00:51.63,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.63,0:00:51.89,Default,,0,0,0,,perché ho pensato che adesso per {\1c&HFF00&\u1}quest'anno{\r} che viene ogni metà video
+Dialogue: 0,0:00:51.89,0:00:51.93,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:51.93,0:00:52.03,Default,,0,0,0,,perché ho pensato che adesso per quest'anno {\1c&HFF00&\u1}che{\r} viene ogni metà video
+Dialogue: 0,0:00:52.03,0:00:52.07,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:52.07,0:00:52.31,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che {\1c&HFF00&\u1}viene{\r} ogni metà video
+Dialogue: 0,0:00:52.31,0:00:52.75,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:52.75,0:00:52.91,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene {\1c&HFF00&\u1}ogni{\r} metà video
+Dialogue: 0,0:00:52.91,0:00:52.95,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:52.95,0:00:53.09,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni {\1c&HFF00&\u1}metà{\r} video
+Dialogue: 0,0:00:53.09,0:00:53.19,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà video
+Dialogue: 0,0:00:53.19,0:00:53.37,Default,,0,0,0,,perché ho pensato che adesso per quest'anno che viene ogni metà {\1c&HFF00&\u1}video{\r}
+Dialogue: 0,0:00:53.36,0:00:53.78,Default,,0,0,0,,{\1c&HFF00&\u1}voglio{\r} farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:53.78,0:00:53.80,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:53.80,0:00:54.04,Default,,0,0,0,,voglio {\1c&HFF00&\u1}farvi{\r} una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.04,0:00:54.08,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.08,0:00:54.18,Default,,0,0,0,,voglio farvi {\1c&HFF00&\u1}una{\r} domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.18,0:00:54.20,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.20,0:00:54.56,Default,,0,0,0,,voglio farvi una {\1c&HFF00&\u1}domandina{\r} che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.56,0:00:54.62,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.62,0:00:54.71,Default,,0,0,0,,voglio farvi una domandina {\1c&HFF00&\u1}che{\r} non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.71,0:00:54.75,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.75,0:00:54.83,Default,,0,0,0,,voglio farvi una domandina che {\1c&HFF00&\u1}non{\r} vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.83,0:00:54.85,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.85,0:00:54.91,Default,,0,0,0,,voglio farvi una domandina che non {\1c&HFF00&\u1}vi{\r} aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.91,0:00:54.97,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:54.97,0:00:55.47,Default,,0,0,0,,voglio farvi una domandina che non vi {\1c&HFF00&\u1}aspettate.{\r} Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:55.47,0:00:55.89,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:55.89,0:00:56.23,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. {\1c&HFF00&\u1}Lasciatemi{\r} scritto qui sotto
+Dialogue: 0,0:00:56.23,0:00:56.27,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:56.27,0:00:56.47,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi {\1c&HFF00&\u1}scritto{\r} qui sotto
+Dialogue: 0,0:00:56.47,0:00:56.53,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:56.53,0:00:56.59,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto {\1c&HFF00&\u1}qui{\r} sotto
+Dialogue: 0,0:00:56.59,0:00:56.67,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui sotto
+Dialogue: 0,0:00:56.67,0:00:56.83,Default,,0,0,0,,voglio farvi una domandina che non vi aspettate. Lasciatemi scritto qui {\1c&HFF00&\u1}sotto{\r}
+Dialogue: 0,0:00:56.94,0:00:57.06,Default,,0,0,0,,{\1c&HFF00&\u1}Qual{\r} è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.06,0:00:57.08,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.08,0:00:57.10,Default,,0,0,0,,Qual {\1c&HFF00&\u1}è{\r} quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.10,0:00:57.12,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.12,0:00:57.32,Default,,0,0,0,,Qual è {\1c&HFF00&\u1}quella{\r} cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.32,0:00:57.36,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.36,0:00:57.52,Default,,0,0,0,,Qual è quella {\1c&HFF00&\u1}cosa{\r} che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.52,0:00:57.58,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.58,0:00:57.70,Default,,0,0,0,,Qual è quella cosa {\1c&HFF00&\u1}che{\r} non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.70,0:00:57.90,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:57.90,0:00:58.06,Default,,0,0,0,,Qual è quella cosa che {\1c&HFF00&\u1}non{\r} potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:58.06,0:00:58.16,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:58.16,0:00:58.53,Default,,0,0,0,,Qual è quella cosa che non {\1c&HFF00&\u1}potete{\r} non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:58.53,0:00:58.61,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:58.61,0:00:58.73,Default,,0,0,0,,Qual è quella cosa che non potete {\1c&HFF00&\u1}non{\r} comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:58.73,0:00:58.79,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:58.79,0:00:59.19,Default,,0,0,0,,Qual è quella cosa che non potete non {\1c&HFF00&\u1}comprare{\r} quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.19,0:00:59.23,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.23,0:00:59.39,Default,,0,0,0,,Qual è quella cosa che non potete non comprare {\1c&HFF00&\u1}quando{\r} andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.39,0:00:59.41,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.41,0:00:59.53,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando {\1c&HFF00&\u1}andate{\r} a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.53,0:00:59.57,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.57,0:00:59.61,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate {\1c&HFF00&\u1}a{\r} fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.61,0:00:59.67,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.67,0:00:59.83,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a {\1c&HFF00&\u1}fare{\r} la spesa ma in ottica di
+Dialogue: 0,0:00:59.83,0:00:59.89,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:00:59.89,0:00:59.95,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare {\1c&HFF00&\u1}la{\r} spesa ma in ottica di
+Dialogue: 0,0:00:59.95,0:01:0.01,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:01:0.01,0:01:0.37,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la {\1c&HFF00&\u1}spesa{\r} ma in ottica di
+Dialogue: 0,0:01:0.37,0:01:0.81,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:01:0.81,0:01:0.91,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa {\1c&HFF00&\u1}ma{\r} in ottica di
+Dialogue: 0,0:01:0.91,0:01:1.07,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:01:1.07,0:01:1.15,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma {\1c&HFF00&\u1}in{\r} ottica di
+Dialogue: 0,0:01:1.15,0:01:1.19,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:01:1.19,0:01:1.65,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in {\1c&HFF00&\u1}ottica{\r} di
+Dialogue: 0,0:01:1.65,0:01:1.83,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica di
+Dialogue: 0,0:01:1.83,0:01:1.89,Default,,0,0,0,,Qual è quella cosa che non potete non comprare quando andate a fare la spesa ma in ottica {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:01:2.56,0:01:2.86,Default,,0,0,0,,{\1c&HFF00&\u1}Utilità{\r} e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:2.86,0:01:3.06,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:3.06,0:01:3.10,Default,,0,0,0,,Utilità {\1c&HFF00&\u1}e{\r} sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:3.10,0:01:3.14,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:3.14,0:01:3.86,Default,,0,0,0,,Utilità e {\1c&HFF00&\u1}sostenibilità{\r} quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:3.86,0:01:4.03,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:4.03,0:01:4.21,Default,,0,0,0,,Utilità e sostenibilità {\1c&HFF00&\u1}quindi{\r} non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:4.21,0:01:4.25,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:4.25,0:01:4.37,Default,,0,0,0,,Utilità e sostenibilità quindi {\1c&HFF00&\u1}non{\r} lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:4.37,0:01:4.59,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:4.59,0:01:4.65,Default,,0,0,0,,Utilità e sostenibilità quindi non {\1c&HFF00&\u1}lo{\r} sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:4.65,0:01:4.69,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:4.69,0:01:5.01,Default,,0,0,0,,Utilità e sostenibilità quindi non lo {\1c&HFF00&\u1}sfizio{\r} cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:5.01,0:01:5.05,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:5.05,0:01:5.71,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio {\1c&HFF00&\u1}cioccolatoso{\r} ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:5.71,0:01:6.01,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:6.01,0:01:6.07,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso {\1c&HFF00&\u1}ma{\r} la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:6.07,0:01:6.23,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:6.23,0:01:6.31,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma {\1c&HFF00&\u1}la{\r} cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:6.31,0:01:6.35,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:6.35,0:01:6.53,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la {\1c&HFF00&\u1}cosa{\r} tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:6.53,0:01:6.59,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:6.59,0:01:6.89,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa {\1c&HFF00&\u1}tipo{\r} in casa mia non può mai mancare
+Dialogue: 0,0:01:6.89,0:01:7.11,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:7.11,0:01:7.19,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo {\1c&HFF00&\u1}in{\r} casa mia non può mai mancare
+Dialogue: 0,0:01:7.19,0:01:7.25,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:7.25,0:01:7.41,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in {\1c&HFF00&\u1}casa{\r} mia non può mai mancare
+Dialogue: 0,0:01:7.41,0:01:7.49,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:7.49,0:01:7.65,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa {\1c&HFF00&\u1}mia{\r} non può mai mancare
+Dialogue: 0,0:01:7.65,0:01:7.71,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:7.71,0:01:7.81,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia {\1c&HFF00&\u1}non{\r} può mai mancare
+Dialogue: 0,0:01:7.81,0:01:7.87,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:7.87,0:01:7.99,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non {\1c&HFF00&\u1}può{\r} mai mancare
+Dialogue: 0,0:01:7.99,0:01:8.05,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:8.05,0:01:8.18,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può {\1c&HFF00&\u1}mai{\r} mancare
+Dialogue: 0,0:01:8.18,0:01:8.22,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai mancare
+Dialogue: 0,0:01:8.22,0:01:8.48,Default,,0,0,0,,Utilità e sostenibilità quindi non lo sfizio cioccolatoso ma la cosa tipo in casa mia non può mai {\1c&HFF00&\u1}mancare{\r}
+Dialogue: 0,0:01:8.28,0:01:8.40,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.40,0:01:8.42,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.42,0:01:8.44,Default,,0,0,0,,perché {\1c&HFF00&\u1}è{\r} utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.44,0:01:8.46,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.46,0:01:8.66,Default,,0,0,0,,perché è {\1c&HFF00&\u1}utilissimo{\r} per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.66,0:01:8.68,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.68,0:01:8.74,Default,,0,0,0,,perché è utilissimo {\1c&HFF00&\u1}per{\r} fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.74,0:01:8.76,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.76,0:01:8.84,Default,,0,0,0,,perché è utilissimo per {\1c&HFF00&\u1}fare{\r} questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.84,0:01:8.86,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.86,0:01:8.98,Default,,0,0,0,,perché è utilissimo per fare {\1c&HFF00&\u1}questo{\r} questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:8.98,0:01:9.00,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.00,0:01:9.12,Default,,0,0,0,,perché è utilissimo per fare questo {\1c&HFF00&\u1}questo{\r} questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.12,0:01:9.14,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.14,0:01:9.26,Default,,0,0,0,,perché è utilissimo per fare questo questo {\1c&HFF00&\u1}questo{\r} questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.26,0:01:9.28,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.28,0:01:9.40,Default,,0,0,0,,perché è utilissimo per fare questo questo questo {\1c&HFF00&\u1}questo{\r} e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.40,0:01:9.42,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.42,0:01:9.44,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo {\1c&HFF00&\u1}e{\r} questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.44,0:01:9.46,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.46,0:01:9.58,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e {\1c&HFF00&\u1}questo{\r} fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.58,0:01:9.60,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.60,0:01:9.72,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo {\1c&HFF00&\u1}fatemi{\r} sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.72,0:01:9.74,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.74,0:01:9.86,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi {\1c&HFF00&\u1}sapere{\r} sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.86,0:01:9.88,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.88,0:01:9.99,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere {\1c&HFF00&\u1}sono{\r} curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:9.99,0:01:10.01,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.01,0:01:10.15,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono {\1c&HFF00&\u1}curiosa{\r} proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.15,0:01:10.19,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.19,0:01:10.35,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa {\1c&HFF00&\u1}proprio{\r} per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.35,0:01:10.37,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.37,0:01:10.45,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio {\1c&HFF00&\u1}per{\r} questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.45,0:01:10.47,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.47,0:01:10.69,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per {\1c&HFF00&\u1}questo{\r} motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.69,0:01:10.73,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.73,0:01:10.93,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo {\1c&HFF00&\u1}motivo{\r} arriviamo al consiglio numero
+Dialogue: 0,0:01:10.93,0:01:10.95,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:10.95,0:01:11.19,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo {\1c&HFF00&\u1}arriviamo{\r} al consiglio numero
+Dialogue: 0,0:01:11.19,0:01:11.21,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:11.21,0:01:11.25,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo {\1c&HFF00&\u1}al{\r} consiglio numero
+Dialogue: 0,0:01:11.25,0:01:11.27,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:11.27,0:01:11.51,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al {\1c&HFF00&\u1}consiglio{\r} numero
+Dialogue: 0,0:01:11.51,0:01:11.53,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio numero
+Dialogue: 0,0:01:11.53,0:01:12.25,Default,,0,0,0,,perché è utilissimo per fare questo questo questo questo e questo fatemi sapere sono curiosa proprio per questo motivo arriviamo al consiglio {\1c&HFF00&\u1}numero{\r}

@@ -1,0 +1,64 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.36,0:00:0.42,Default,,0,0,0,,{\1c&HFF00&\u1}Si{\r} fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:0.42,0:00:0.46,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:0.46,0:00:0.56,Default,,0,0,0,,Si {\1c&HFF00&\u1}fa{\r} così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:0.56,0:00:0.64,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:0.64,0:00:0.86,Default,,0,0,0,,Si fa {\1c&HFF00&\u1}così,{\r} quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:0.86,0:00:1.28,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:1.28,0:00:1.56,Default,,0,0,0,,Si fa così, {\1c&HFF00&\u1}quando{\r} io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:1.56,0:00:1.58,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:1.58,0:00:1.62,Default,,0,0,0,,Si fa così, quando {\1c&HFF00&\u1}io{\r} arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:1.62,0:00:1.64,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:1.64,0:00:1.86,Default,,0,0,0,,Si fa così, quando io {\1c&HFF00&\u1}arrivo{\r} sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:1.86,0:00:1.90,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:1.90,0:00:2.02,Default,,0,0,0,,Si fa così, quando io arrivo {\1c&HFF00&\u1}sul{\r} posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:2.02,0:00:2.12,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:2.12,0:00:3.59,Default,,0,0,0,,Si fa così, quando io arrivo sul {\1c&HFF00&\u1}posto,{\r} vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:3.59,0:00:5.03,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:5.03,0:00:5.27,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, {\1c&HFF00&\u1}vado{\r} col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:5.27,0:00:5.33,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:5.33,0:00:5.51,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado {\1c&HFF00&\u1}col{\r} mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:5.51,0:00:5.55,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:5.55,0:00:5.69,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col {\1c&HFF00&\u1}mio{\r} amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:5.69,0:00:5.73,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:5.73,0:00:6.37,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio {\1c&HFF00&\u1}amico{\r} Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:6.37,0:00:6.71,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:6.71,0:00:7.17,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico {\1c&HFF00&\u1}Alessandro{\r} che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.17,0:00:7.21,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.21,0:00:7.37,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro {\1c&HFF00&\u1}che{\r} fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.37,0:00:7.56,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.56,0:00:7.62,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che {\1c&HFF00&\u1}fa{\r} il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.62,0:00:7.66,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.66,0:00:7.70,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa {\1c&HFF00&\u1}il{\r} mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.70,0:00:7.74,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.74,0:00:7.84,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il {\1c&HFF00&\u1}mio{\r} tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.84,0:00:7.90,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:7.90,0:00:8.02,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio {\1c&HFF00&\u1}tour{\r} manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:8.02,0:00:8.06,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:8.06,0:00:8.40,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour {\1c&HFF00&\u1}manager,{\r} quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:8.40,0:00:8.42,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:8.42,0:00:8.62,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, {\1c&HFF00&\u1}quindi{\r} mi porta in giro mi scarrota
+Dialogue: 0,0:00:8.62,0:00:8.68,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:8.68,0:00:8.74,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi {\1c&HFF00&\u1}mi{\r} porta in giro mi scarrota
+Dialogue: 0,0:00:8.74,0:00:8.80,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:8.80,0:00:9.04,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi {\1c&HFF00&\u1}porta{\r} in giro mi scarrota
+Dialogue: 0,0:00:9.04,0:00:9.08,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:9.08,0:00:9.14,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta {\1c&HFF00&\u1}in{\r} giro mi scarrota
+Dialogue: 0,0:00:9.14,0:00:9.16,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:9.16,0:00:9.26,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in {\1c&HFF00&\u1}giro{\r} mi scarrota
+Dialogue: 0,0:00:9.26,0:00:9.28,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:9.28,0:00:9.32,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro {\1c&HFF00&\u1}mi{\r} scarrota
+Dialogue: 0,0:00:9.32,0:00:9.36,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi scarrota
+Dialogue: 0,0:00:9.36,0:00:9.66,Default,,0,0,0,,Si fa così, quando io arrivo sul posto, vado col mio amico Alessandro che fa il mio tour manager, quindi mi porta in giro mi {\1c&HFF00&\u1}scarrota{\r}

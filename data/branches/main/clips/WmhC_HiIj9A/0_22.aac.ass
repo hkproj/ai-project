@@ -1,0 +1,319 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}ormai{\r} due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:0.50,0:00:0.58,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:0.58,0:00:0.68,Default,,0,0,0,,ormai {\1c&HFF00&\u1}due{\r} mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:0.68,0:00:0.72,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:0.72,0:00:1.02,Default,,0,0,0,,ormai due {\1c&HFF00&\u1}mesi{\r} che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:1.02,0:00:1.16,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:1.16,0:00:1.36,Default,,0,0,0,,ormai due mesi {\1c&HFF00&\u1}che,{\r} no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:1.36,0:00:2.33,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:2.33,0:00:2.41,Default,,0,0,0,,ormai due mesi che, {\1c&HFF00&\u1}no,{\r} due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:2.41,0:00:2.45,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:2.45,0:00:2.55,Default,,0,0,0,,ormai due mesi che, no, {\1c&HFF00&\u1}due{\r} mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:2.55,0:00:2.59,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:2.59,0:00:2.77,Default,,0,0,0,,ormai due mesi che, no, due {\1c&HFF00&\u1}mesi,{\r} quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:2.77,0:00:2.89,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:2.89,0:00:3.17,Default,,0,0,0,,ormai due mesi che, no, due mesi, {\1c&HFF00&\u1}quattro{\r} mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:3.17,0:00:3.23,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:3.23,0:00:3.51,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro {\1c&HFF00&\u1}mesi{\r} che io metto da parte tutti gli
+Dialogue: 0,0:00:3.51,0:00:3.61,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:3.61,0:00:3.69,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi {\1c&HFF00&\u1}che{\r} io metto da parte tutti gli
+Dialogue: 0,0:00:3.69,0:00:3.77,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:3.77,0:00:3.87,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che {\1c&HFF00&\u1}io{\r} metto da parte tutti gli
+Dialogue: 0,0:00:3.87,0:00:3.97,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:3.97,0:00:4.15,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io {\1c&HFF00&\u1}metto{\r} da parte tutti gli
+Dialogue: 0,0:00:4.15,0:00:4.19,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:4.19,0:00:4.27,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto {\1c&HFF00&\u1}da{\r} parte tutti gli
+Dialogue: 0,0:00:4.27,0:00:4.31,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:4.31,0:00:4.57,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da {\1c&HFF00&\u1}parte{\r} tutti gli
+Dialogue: 0,0:00:4.57,0:00:4.69,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:4.69,0:00:4.85,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte {\1c&HFF00&\u1}tutti{\r} gli
+Dialogue: 0,0:00:4.85,0:00:4.89,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti gli
+Dialogue: 0,0:00:4.89,0:00:4.97,Default,,0,0,0,,ormai due mesi che, no, due mesi, quattro mesi che io metto da parte tutti {\1c&HFF00&\u1}gli{\r}
+Dialogue: 0,0:00:4.94,0:00:5.94,Default,,0,0,0,,{\1c&HFF00&\u1}scarti{\r} delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:5.94,0:00:5.98,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:5.98,0:00:6.52,Default,,0,0,0,,scarti {\1c&HFF00&\u1}delle,{\r} quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:6.52,0:00:6.56,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:6.56,0:00:6.68,Default,,0,0,0,,scarti delle, {\1c&HFF00&\u1}quindi{\r} tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:6.68,0:00:6.70,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:6.70,0:00:6.87,Default,,0,0,0,,scarti delle, quindi {\1c&HFF00&\u1}tutte{\r} le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:6.87,0:00:6.93,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:6.93,0:00:6.99,Default,,0,0,0,,scarti delle, quindi tutte {\1c&HFF00&\u1}le{\r} bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:6.99,0:00:7.05,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:7.05,0:00:7.41,Default,,0,0,0,,scarti delle, quindi tutte le {\1c&HFF00&\u1}bucce{\r} delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:7.41,0:00:7.77,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:7.77,0:00:7.91,Default,,0,0,0,,scarti delle, quindi tutte le bucce {\1c&HFF00&\u1}delle{\r} cose che mangio e consumo, quindi
+Dialogue: 0,0:00:7.91,0:00:7.95,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:7.95,0:00:8.15,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle {\1c&HFF00&\u1}cose{\r} che mangio e consumo, quindi
+Dialogue: 0,0:00:8.15,0:00:8.19,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:8.19,0:00:8.37,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose {\1c&HFF00&\u1}che{\r} mangio e consumo, quindi
+Dialogue: 0,0:00:8.37,0:00:9.21,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:9.21,0:00:9.53,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che {\1c&HFF00&\u1}mangio{\r} e consumo, quindi
+Dialogue: 0,0:00:9.53,0:00:9.59,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:9.59,0:00:9.63,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio {\1c&HFF00&\u1}e{\r} consumo, quindi
+Dialogue: 0,0:00:9.63,0:00:9.69,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:9.69,0:00:10.29,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e {\1c&HFF00&\u1}consumo,{\r} quindi
+Dialogue: 0,0:00:10.29,0:00:10.49,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, quindi
+Dialogue: 0,0:00:10.49,0:00:10.67,Default,,0,0,0,,scarti delle, quindi tutte le bucce delle cose che mangio e consumo, {\1c&HFF00&\u1}quindi{\r}
+Dialogue: 0,0:00:10.86,0:00:11.10,Default,,0,0,0,,{\1c&HFF00&\u1}parliamo{\r} di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.10,0:00:11.14,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.14,0:00:11.18,Default,,0,0,0,,parliamo {\1c&HFF00&\u1}di{\r} carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.18,0:00:11.22,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.22,0:00:11.52,Default,,0,0,0,,parliamo di {\1c&HFF00&\u1}carote,{\r} cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.52,0:00:11.56,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.56,0:00:11.90,Default,,0,0,0,,parliamo di carote, {\1c&HFF00&\u1}cipolle,{\r} patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.90,0:00:11.94,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:11.94,0:00:12.30,Default,,0,0,0,,parliamo di carote, cipolle, {\1c&HFF00&\u1}patate,{\r} zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:12.30,0:00:12.38,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:12.38,0:00:12.93,Default,,0,0,0,,parliamo di carote, cipolle, patate, {\1c&HFF00&\u1}zucchine,{\r} aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:12.93,0:00:13.33,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:13.33,0:00:13.57,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, {\1c&HFF00&\u1}aglio,{\r} cipolla, broccolo oppure
+Dialogue: 0,0:00:13.57,0:00:13.63,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:13.63,0:00:14.23,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, {\1c&HFF00&\u1}cipolla,{\r} broccolo oppure
+Dialogue: 0,0:00:14.23,0:00:15.17,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:15.17,0:00:15.83,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, {\1c&HFF00&\u1}broccolo{\r} oppure
+Dialogue: 0,0:00:15.83,0:00:15.97,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo oppure
+Dialogue: 0,0:00:15.97,0:00:16.35,Default,,0,0,0,,parliamo di carote, cipolle, patate, zucchine, aglio, cipolla, broccolo {\1c&HFF00&\u1}oppure{\r}
+Dialogue: 0,0:00:16.64,0:00:16.68,Default,,0,0,0,,{\1c&HFF00&\u1}il{\r} cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:16.68,0:00:16.70,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:16.70,0:00:16.94,Default,,0,0,0,,il {\1c&HFF00&\u1}cavolo{\r} cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:16.94,0:00:16.96,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:16.96,0:00:17.38,Default,,0,0,0,,il cavolo {\1c&HFF00&\u1}cappuccio{\r} rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:17.38,0:00:17.44,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:17.44,0:00:17.80,Default,,0,0,0,,il cavolo cappuccio {\1c&HFF00&\u1}rosso{\r} che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:17.80,0:00:17.84,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:17.84,0:00:17.95,Default,,0,0,0,,il cavolo cappuccio rosso {\1c&HFF00&\u1}che{\r} mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:17.95,0:00:17.97,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:17.97,0:00:18.03,Default,,0,0,0,,il cavolo cappuccio rosso che {\1c&HFF00&\u1}mi{\r} ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:18.03,0:00:18.05,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:18.05,0:00:18.15,Default,,0,0,0,,il cavolo cappuccio rosso che mi {\1c&HFF00&\u1}ero{\r} comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:18.15,0:00:18.17,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:18.17,0:00:18.63,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero {\1c&HFF00&\u1}comprata,{\r} quindi tutte queste cose a
+Dialogue: 0,0:00:18.63,0:00:19.69,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:19.69,0:00:19.85,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, {\1c&HFF00&\u1}quindi{\r} tutte queste cose a
+Dialogue: 0,0:00:19.85,0:00:19.89,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:19.89,0:00:20.03,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi {\1c&HFF00&\u1}tutte{\r} queste cose a
+Dialogue: 0,0:00:20.03,0:00:20.07,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:20.07,0:00:20.25,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte {\1c&HFF00&\u1}queste{\r} cose a
+Dialogue: 0,0:00:20.25,0:00:20.29,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:20.29,0:00:20.41,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste {\1c&HFF00&\u1}cose{\r} a
+Dialogue: 0,0:00:20.41,0:00:20.43,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose a
+Dialogue: 0,0:00:20.43,0:00:20.45,Default,,0,0,0,,il cavolo cappuccio rosso che mi ero comprata, quindi tutte queste cose {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:20.62,0:00:20.82,Default,,0,0,0,,{\1c&HFF00&\u1}crudo{\r} io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:20.82,0:00:20.86,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:20.86,0:00:20.90,Default,,0,0,0,,crudo {\1c&HFF00&\u1}io{\r} le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:20.90,0:00:20.94,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:20.94,0:00:21.02,Default,,0,0,0,,crudo io {\1c&HFF00&\u1}le{\r} congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.02,0:00:21.06,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.06,0:00:21.36,Default,,0,0,0,,crudo io le {\1c&HFF00&\u1}congelo{\r} in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.36,0:00:21.38,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.38,0:00:21.42,Default,,0,0,0,,crudo io le congelo {\1c&HFF00&\u1}in{\r} una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.42,0:00:21.46,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.46,0:00:21.58,Default,,0,0,0,,crudo io le congelo in {\1c&HFF00&\u1}una{\r} grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.58,0:00:21.60,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.60,0:00:21.82,Default,,0,0,0,,crudo io le congelo in una {\1c&HFF00&\u1}grande{\r} sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.82,0:00:21.84,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:21.84,0:00:23.05,Default,,0,0,0,,crudo io le congelo in una grande {\1c&HFF00&\u1}sacca,{\r} quando ho riempito la sacca io butto
+Dialogue: 0,0:00:23.05,0:00:23.09,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:23.09,0:00:23.31,Default,,0,0,0,,crudo io le congelo in una grande sacca, {\1c&HFF00&\u1}quando{\r} ho riempito la sacca io butto
+Dialogue: 0,0:00:23.31,0:00:23.45,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:23.45,0:00:23.53,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando {\1c&HFF00&\u1}ho{\r} riempito la sacca io butto
+Dialogue: 0,0:00:23.53,0:00:23.69,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:23.69,0:00:24.03,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho {\1c&HFF00&\u1}riempito{\r} la sacca io butto
+Dialogue: 0,0:00:24.03,0:00:24.09,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:24.09,0:00:24.17,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito {\1c&HFF00&\u1}la{\r} sacca io butto
+Dialogue: 0,0:00:24.17,0:00:24.21,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:24.21,0:00:24.59,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la {\1c&HFF00&\u1}sacca{\r} io butto
+Dialogue: 0,0:00:24.59,0:00:25.09,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:25.09,0:00:25.19,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca {\1c&HFF00&\u1}io{\r} butto
+Dialogue: 0,0:00:25.19,0:00:25.37,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io butto
+Dialogue: 0,0:00:25.37,0:00:25.63,Default,,0,0,0,,crudo io le congelo in una grande sacca, quando ho riempito la sacca io {\1c&HFF00&\u1}butto{\r}
+Dialogue: 0,0:00:26.36,0:00:26.46,Default,,0,0,0,,{\1c&HFF00&\u1}tutto{\r} quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:26.46,0:00:26.48,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:26.48,0:00:26.60,Default,,0,0,0,,tutto {\1c&HFF00&\u1}quanto{\r} nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:26.60,0:00:26.62,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:26.62,0:00:27.00,Default,,0,0,0,,tutto quanto {\1c&HFF00&\u1}nell'acqua{\r} con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.00,0:00:27.11,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.11,0:00:27.27,Default,,0,0,0,,tutto quanto nell'acqua {\1c&HFF00&\u1}con{\r} del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.27,0:00:27.33,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.33,0:00:27.49,Default,,0,0,0,,tutto quanto nell'acqua con {\1c&HFF00&\u1}del{\r} sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.49,0:00:27.53,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.53,0:00:27.77,Default,,0,0,0,,tutto quanto nell'acqua con del {\1c&HFF00&\u1}sale{\r} grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.77,0:00:27.83,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:27.83,0:00:28.33,Default,,0,0,0,,tutto quanto nell'acqua con del sale {\1c&HFF00&\u1}grosso{\r} e mi faccio del brodo vegetale
+Dialogue: 0,0:00:28.33,0:00:28.49,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:28.49,0:00:28.51,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso {\1c&HFF00&\u1}e{\r} mi faccio del brodo vegetale
+Dialogue: 0,0:00:28.51,0:00:28.55,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:28.55,0:00:28.61,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e {\1c&HFF00&\u1}mi{\r} faccio del brodo vegetale
+Dialogue: 0,0:00:28.61,0:00:28.65,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:28.65,0:00:28.83,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi {\1c&HFF00&\u1}faccio{\r} del brodo vegetale
+Dialogue: 0,0:00:28.83,0:00:28.87,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:28.87,0:00:28.97,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio {\1c&HFF00&\u1}del{\r} brodo vegetale
+Dialogue: 0,0:00:28.97,0:00:28.99,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:28.99,0:00:29.17,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del {\1c&HFF00&\u1}brodo{\r} vegetale
+Dialogue: 0,0:00:29.17,0:00:29.19,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo vegetale
+Dialogue: 0,0:00:29.19,0:00:29.53,Default,,0,0,0,,tutto quanto nell'acqua con del sale grosso e mi faccio del brodo {\1c&HFF00&\u1}vegetale{\r}
+Dialogue: 0,0:00:29.62,0:00:29.76,Default,,0,0,0,,{\1c&HFF00&\u1}fatto{\r} in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:29.76,0:00:29.84,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:29.84,0:00:29.88,Default,,0,0,0,,fatto {\1c&HFF00&\u1}in{\r} casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:29.88,0:00:29.90,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:29.90,0:00:30.50,Default,,0,0,0,,fatto in {\1c&HFF00&\u1}casa.{\r} Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:30.50,0:00:30.54,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:30.54,0:00:30.86,Default,,0,0,0,,fatto in casa. {\1c&HFF00&\u1}Ovviamente{\r} prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:30.86,0:00:30.98,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:30.98,0:00:31.16,Default,,0,0,0,,fatto in casa. Ovviamente {\1c&HFF00&\u1}prima{\r} di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.16,0:00:31.20,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.20,0:00:31.26,Default,,0,0,0,,fatto in casa. Ovviamente prima {\1c&HFF00&\u1}di{\r} farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.26,0:00:31.30,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.30,0:00:31.58,Default,,0,0,0,,fatto in casa. Ovviamente prima di {\1c&HFF00&\u1}farlo{\r} io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.58,0:00:31.69,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.69,0:00:31.77,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo {\1c&HFF00&\u1}io{\r} mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.77,0:00:31.83,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.83,0:00:31.91,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io {\1c&HFF00&\u1}mi{\r} prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:31.91,0:00:33.01,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:33.01,0:00:33.27,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi {\1c&HFF00&\u1}prendo{\r} diciamo la briga di andare a pulire
+Dialogue: 0,0:00:33.27,0:00:33.31,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:33.31,0:00:33.53,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo {\1c&HFF00&\u1}diciamo{\r} la briga di andare a pulire
+Dialogue: 0,0:00:33.53,0:00:33.59,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:33.59,0:00:33.65,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo {\1c&HFF00&\u1}la{\r} briga di andare a pulire
+Dialogue: 0,0:00:33.65,0:00:33.75,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:33.75,0:00:34.21,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la {\1c&HFF00&\u1}briga{\r} di andare a pulire
+Dialogue: 0,0:00:34.21,0:00:34.35,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:34.35,0:00:34.43,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga {\1c&HFF00&\u1}di{\r} andare a pulire
+Dialogue: 0,0:00:34.43,0:00:34.49,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:34.49,0:00:34.93,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di {\1c&HFF00&\u1}andare{\r} a pulire
+Dialogue: 0,0:00:34.93,0:00:35.11,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:35.11,0:00:35.21,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare {\1c&HFF00&\u1}a{\r} pulire
+Dialogue: 0,0:00:35.21,0:00:35.35,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a pulire
+Dialogue: 0,0:00:35.35,0:00:35.71,Default,,0,0,0,,fatto in casa. Ovviamente prima di farlo io mi prendo diciamo la briga di andare a {\1c&HFF00&\u1}pulire{\r}
+Dialogue: 0,0:00:36.16,0:00:36.56,Default,,0,0,0,,{\1c&HFF00&\u1}queste{\r} bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:36.56,0:00:36.62,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:36.62,0:00:37.04,Default,,0,0,0,,queste {\1c&HFF00&\u1}bucce{\r} prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:37.04,0:00:37.06,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:37.06,0:00:37.22,Default,,0,0,0,,queste bucce {\1c&HFF00&\u1}prima{\r} di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:37.22,0:00:37.24,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:37.24,0:00:37.32,Default,,0,0,0,,queste bucce prima {\1c&HFF00&\u1}di{\r} congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:37.32,0:00:37.34,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:37.34,0:00:37.99,Default,,0,0,0,,queste bucce prima di {\1c&HFF00&\u1}congelarle{\r} e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:37.99,0:00:38.39,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:38.39,0:00:38.43,Default,,0,0,0,,queste bucce prima di congelarle {\1c&HFF00&\u1}e{\r} ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:38.43,0:00:38.53,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:38.53,0:00:38.89,Default,,0,0,0,,queste bucce prima di congelarle e {\1c&HFF00&\u1}ovviamente{\r} mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:38.89,0:00:38.95,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:38.95,0:00:39.01,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente {\1c&HFF00&\u1}mi{\r} assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:39.01,0:00:39.07,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:39.07,0:00:39.43,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi {\1c&HFF00&\u1}assicuro{\r} che si tratti di cose che ho comprato
+Dialogue: 0,0:00:39.43,0:00:39.45,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:39.45,0:00:39.53,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro {\1c&HFF00&\u1}che{\r} si tratti di cose che ho comprato
+Dialogue: 0,0:00:39.53,0:00:39.81,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:39.81,0:00:39.87,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che {\1c&HFF00&\u1}si{\r} tratti di cose che ho comprato
+Dialogue: 0,0:00:39.87,0:00:39.93,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:39.93,0:00:40.19,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si {\1c&HFF00&\u1}tratti{\r} di cose che ho comprato
+Dialogue: 0,0:00:40.19,0:00:40.23,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:40.23,0:00:40.29,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti {\1c&HFF00&\u1}di{\r} cose che ho comprato
+Dialogue: 0,0:00:40.29,0:00:40.33,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:40.33,0:00:40.47,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di {\1c&HFF00&\u1}cose{\r} che ho comprato
+Dialogue: 0,0:00:40.47,0:00:40.51,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:40.51,0:00:40.57,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose {\1c&HFF00&\u1}che{\r} ho comprato
+Dialogue: 0,0:00:40.57,0:00:40.59,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:40.59,0:00:40.63,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che {\1c&HFF00&\u1}ho{\r} comprato
+Dialogue: 0,0:00:40.63,0:00:40.67,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho comprato
+Dialogue: 0,0:00:40.67,0:00:40.91,Default,,0,0,0,,queste bucce prima di congelarle e ovviamente mi assicuro che si tratti di cose che ho {\1c&HFF00&\u1}comprato{\r}
+Dialogue: 0,0:00:40.92,0:00:40.94,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:40.94,0:00:41.12,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:41.12,0:00:41.56,Default,,0,0,0,,a {\1c&HFF00&\u1}chilometro{\r} zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:41.56,0:00:41.62,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:41.62,0:00:41.72,Default,,0,0,0,,a chilometro {\1c&HFF00&\u1}zero{\r} comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:41.72,0:00:41.74,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:41.74,0:00:42.00,Default,,0,0,0,,a chilometro zero {\1c&HFF00&\u1}comunque{\r} biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.00,0:00:42.04,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.04,0:00:42.49,Default,,0,0,0,,a chilometro zero comunque {\1c&HFF00&\u1}biologiche{\r} che non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.49,0:00:42.53,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.53,0:00:42.63,Default,,0,0,0,,a chilometro zero comunque biologiche {\1c&HFF00&\u1}che{\r} non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.63,0:00:42.65,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.65,0:00:42.75,Default,,0,0,0,,a chilometro zero comunque biologiche che {\1c&HFF00&\u1}non{\r} sono state trattate con chissà quali
+Dialogue: 0,0:00:42.75,0:00:42.79,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.79,0:00:42.97,Default,,0,0,0,,a chilometro zero comunque biologiche che non {\1c&HFF00&\u1}sono{\r} state trattate con chissà quali
+Dialogue: 0,0:00:42.97,0:00:42.99,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:42.99,0:00:43.15,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono {\1c&HFF00&\u1}state{\r} trattate con chissà quali
+Dialogue: 0,0:00:43.15,0:00:43.21,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:43.21,0:00:43.57,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state {\1c&HFF00&\u1}trattate{\r} con chissà quali
+Dialogue: 0,0:00:43.57,0:00:43.61,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:43.61,0:00:43.75,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate {\1c&HFF00&\u1}con{\r} chissà quali
+Dialogue: 0,0:00:43.75,0:00:43.77,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:43.77,0:00:44.01,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con {\1c&HFF00&\u1}chissà{\r} quali
+Dialogue: 0,0:00:44.01,0:00:44.05,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà quali
+Dialogue: 0,0:00:44.05,0:00:44.19,Default,,0,0,0,,a chilometro zero comunque biologiche che non sono state trattate con chissà {\1c&HFF00&\u1}quali{\r}
+Dialogue: 0,0:00:44.16,0:00:44.68,Default,,0,0,0,,{\1c&HFF00&\u1}schifezze{\r} altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:44.68,0:00:44.72,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:44.72,0:00:45.08,Default,,0,0,0,,schifezze {\1c&HFF00&\u1}altrimenti{\r} sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:45.08,0:00:45.12,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:45.12,0:00:45.36,Default,,0,0,0,,schifezze altrimenti {\1c&HFF00&\u1}sarebbe{\r} un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:45.36,0:00:45.78,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:45.78,0:00:45.84,Default,,0,0,0,,schifezze altrimenti sarebbe {\1c&HFF00&\u1}un{\r} po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:45.84,0:00:45.86,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:45.86,0:00:45.96,Default,,0,0,0,,schifezze altrimenti sarebbe un {\1c&HFF00&\u1}po'{\r} controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:45.96,0:00:46.05,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:46.05,0:00:46.93,Default,,0,0,0,,schifezze altrimenti sarebbe un po' {\1c&HFF00&\u1}controproducente{\r} e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:46.93,0:00:47.33,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:47.33,0:00:47.37,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente {\1c&HFF00&\u1}e{\r} quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:47.37,0:00:47.43,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:47.43,0:00:47.61,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e {\1c&HFF00&\u1}quindi{\r} niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:47.61,0:00:47.67,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:47.67,0:00:47.93,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi {\1c&HFF00&\u1}niente{\r} io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:47.93,0:00:48.01,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:48.01,0:00:48.07,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente {\1c&HFF00&\u1}io{\r} mi faccio questo brodo vegetale
+Dialogue: 0,0:00:48.07,0:00:48.11,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:48.11,0:00:48.17,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io {\1c&HFF00&\u1}mi{\r} faccio questo brodo vegetale
+Dialogue: 0,0:00:48.17,0:00:48.23,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:48.23,0:00:48.47,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi {\1c&HFF00&\u1}faccio{\r} questo brodo vegetale
+Dialogue: 0,0:00:48.47,0:00:48.53,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:48.53,0:00:48.73,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio {\1c&HFF00&\u1}questo{\r} brodo vegetale
+Dialogue: 0,0:00:48.73,0:00:48.79,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:48.79,0:00:48.97,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo {\1c&HFF00&\u1}brodo{\r} vegetale
+Dialogue: 0,0:00:48.97,0:00:49.01,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo vegetale
+Dialogue: 0,0:00:49.01,0:00:49.51,Default,,0,0,0,,schifezze altrimenti sarebbe un po' controproducente e quindi niente io mi faccio questo brodo {\1c&HFF00&\u1}vegetale{\r}
+Dialogue: 0,0:00:49.52,0:00:49.54,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.54,0:00:49.56,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.56,0:00:49.62,Default,,0,0,0,,è {\1c&HFF00&\u1}già{\r} stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.62,0:00:49.64,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.64,0:00:49.74,Default,,0,0,0,,è già {\1c&HFF00&\u1}stata{\r} un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.74,0:00:49.76,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.76,0:00:49.80,Default,,0,0,0,,è già stata {\1c&HFF00&\u1}un{\r} ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.80,0:00:49.82,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.82,0:00:49.94,Default,,0,0,0,,è già stata un {\1c&HFF00&\u1}ottimo{\r} successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.94,0:00:49.96,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:49.96,0:00:50.12,Default,,0,0,0,,è già stata un ottimo {\1c&HFF00&\u1}successo{\r} e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.12,0:00:50.14,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.14,0:00:50.16,Default,,0,0,0,,è già stata un ottimo successo {\1c&HFF00&\u1}e{\r} niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.16,0:00:50.18,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.18,0:00:50.30,Default,,0,0,0,,è già stata un ottimo successo e {\1c&HFF00&\u1}niente{\r} ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.30,0:00:50.36,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.36,0:00:50.40,Default,,0,0,0,,è già stata un ottimo successo e niente {\1c&HFF00&\u1}ne{\r} sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.40,0:00:50.54,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.54,0:00:50.68,Default,,0,0,0,,è già stata un ottimo successo e niente ne {\1c&HFF00&\u1}sono{\r} felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.68,0:00:50.74,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:50.74,0:00:51.04,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono {\1c&HFF00&\u1}felice.{\r} Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:51.04,0:00:51.18,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:51.18,0:00:51.67,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. {\1c&HFF00&\u1}Consiglio{\r} numero 7, tutto quello
+Dialogue: 0,0:00:51.67,0:00:51.71,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:51.71,0:00:52.03,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio {\1c&HFF00&\u1}numero 7,{\r} tutto quello
+Dialogue: 0,0:00:52.03,0:00:52.07,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:52.07,0:00:52.19,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, {\1c&HFF00&\u1}tutto{\r} quello
+Dialogue: 0,0:00:52.19,0:00:52.23,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto quello
+Dialogue: 0,0:00:52.23,0:00:52.39,Default,,0,0,0,,è già stata un ottimo successo e niente ne sono felice. Consiglio numero 7, tutto {\1c&HFF00&\u1}quello{\r}
+Dialogue: 0,0:00:54.18,0:00:54.24,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} l'hanno.
+Dialogue: 0,0:00:54.24,0:00:54.29,Default,,0,0,0,,che l'hanno.
+Dialogue: 0,0:00:54.29,0:00:54.47,Default,,0,0,0,,che {\1c&HFF00&\u1}l'hanno.{\r}

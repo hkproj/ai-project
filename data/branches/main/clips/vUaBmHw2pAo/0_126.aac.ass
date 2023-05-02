@@ -1,0 +1,49 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.24,Default,,0,0,0,,{\1c&HFF00&\u1}Lo{\r} spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.24,0:00:0.26,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.26,0:00:0.68,Default,,0,0,0,,Lo {\1c&HFF00&\u1}spettacolo{\r} non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.68,0:00:0.72,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,Lo spettacolo {\1c&HFF00&\u1}non{\r} lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.78,0:00:0.80,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.80,0:00:0.88,Default,,0,0,0,,Lo spettacolo non {\1c&HFF00&\u1}lo{\r} fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:0.90,0:00:1.08,Default,,0,0,0,,Lo spettacolo non lo {\1c&HFF00&\u1}fai{\r} tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:1.08,0:00:1.16,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:1.16,0:00:1.28,Default,,0,0,0,,Lo spettacolo non lo fai {\1c&HFF00&\u1}tu,{\r} lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:1.28,0:00:1.81,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:1.81,0:00:1.89,Default,,0,0,0,,Lo spettacolo non lo fai tu, {\1c&HFF00&\u1}lo{\r} fa il demone che vive dentro di te.
+Dialogue: 0,0:00:1.89,0:00:1.91,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:1.91,0:00:2.01,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo {\1c&HFF00&\u1}fa{\r} il demone che vive dentro di te.
+Dialogue: 0,0:00:2.01,0:00:2.19,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:2.19,0:00:2.31,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa {\1c&HFF00&\u1}il{\r} demone che vive dentro di te.
+Dialogue: 0,0:00:2.31,0:00:2.41,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:2.41,0:00:2.83,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il {\1c&HFF00&\u1}demone{\r} che vive dentro di te.
+Dialogue: 0,0:00:2.83,0:00:2.89,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:2.89,0:00:2.99,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone {\1c&HFF00&\u1}che{\r} vive dentro di te.
+Dialogue: 0,0:00:2.99,0:00:3.03,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:3.03,0:00:3.23,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che {\1c&HFF00&\u1}vive{\r} dentro di te.
+Dialogue: 0,0:00:3.23,0:00:3.31,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:3.31,0:00:3.63,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive {\1c&HFF00&\u1}dentro{\r} di te.
+Dialogue: 0,0:00:3.63,0:00:3.69,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:3.69,0:00:3.77,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro {\1c&HFF00&\u1}di{\r} te.
+Dialogue: 0,0:00:3.77,0:00:3.85,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di te.
+Dialogue: 0,0:00:3.85,0:00:3.91,Default,,0,0,0,,Lo spettacolo non lo fai tu, lo fa il demone che vive dentro di {\1c&HFF00&\u1}te.{\r}
+Dialogue: 0,0:00:6.31,0:00:6.59,Default,,0,0,0,,{\1c&HFF00&\u1}Guardate{\r} che è veramente...
+Dialogue: 0,0:00:6.59,0:00:6.67,Default,,0,0,0,,Guardate che è veramente...
+Dialogue: 0,0:00:6.67,0:00:6.73,Default,,0,0,0,,Guardate {\1c&HFF00&\u1}che{\r} è veramente...
+Dialogue: 0,0:00:6.73,0:00:6.79,Default,,0,0,0,,Guardate che è veramente...
+Dialogue: 0,0:00:6.79,0:00:6.81,Default,,0,0,0,,Guardate che {\1c&HFF00&\u1}è{\r} veramente...
+Dialogue: 0,0:00:6.81,0:00:6.83,Default,,0,0,0,,Guardate che è veramente...
+Dialogue: 0,0:00:6.83,0:00:7.05,Default,,0,0,0,,Guardate che è {\1c&HFF00&\u1}veramente...{\r}

@@ -1,0 +1,195 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} la cosa bella è che è gratis.
+Dialogue: 0,0:00:0.18,0:00:0.22,Default,,0,0,0,,E la cosa bella è che è gratis.
+Dialogue: 0,0:00:0.22,0:00:0.28,Default,,0,0,0,,E {\1c&HFF00&\u1}la{\r} cosa bella è che è gratis.
+Dialogue: 0,0:00:0.28,0:00:0.34,Default,,0,0,0,,E la cosa bella è che è gratis.
+Dialogue: 0,0:00:0.34,0:00:0.52,Default,,0,0,0,,E la {\1c&HFF00&\u1}cosa{\r} bella è che è gratis.
+Dialogue: 0,0:00:0.52,0:00:0.58,Default,,0,0,0,,E la cosa bella è che è gratis.
+Dialogue: 0,0:00:0.58,0:00:0.92,Default,,0,0,0,,E la cosa {\1c&HFF00&\u1}bella{\r} è che è gratis.
+Dialogue: 0,0:00:0.92,0:00:1.25,Default,,0,0,0,,E la cosa bella è che è gratis.
+Dialogue: 0,0:00:1.25,0:00:1.29,Default,,0,0,0,,E la cosa bella {\1c&HFF00&\u1}è{\r} che è gratis.
+Dialogue: 0,0:00:1.29,0:00:1.33,Default,,0,0,0,,E la cosa bella è che è gratis.
+Dialogue: 0,0:00:1.33,0:00:1.39,Default,,0,0,0,,E la cosa bella è {\1c&HFF00&\u1}che{\r} è gratis.
+Dialogue: 0,0:00:1.39,0:00:1.41,Default,,0,0,0,,E la cosa bella è che è gratis.
+Dialogue: 0,0:00:1.41,0:00:1.43,Default,,0,0,0,,E la cosa bella è che {\1c&HFF00&\u1}è{\r} gratis.
+Dialogue: 0,0:00:1.43,0:00:1.47,Default,,0,0,0,,E la cosa bella è che è gratis.
+Dialogue: 0,0:00:1.47,0:00:1.83,Default,,0,0,0,,E la cosa bella è che è {\1c&HFF00&\u1}gratis.{\r}
+Dialogue: 0,0:00:2.34,0:00:2.46,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:2.46,0:00:2.48,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:2.48,0:00:2.58,Default,,0,0,0,,Non {\1c&HFF00&\u1}per{\r} togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:2.58,0:00:2.60,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:2.60,0:00:2.88,Default,,0,0,0,,Non per {\1c&HFF00&\u1}togliere{\r} niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:2.88,0:00:2.92,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:2.92,0:00:3.10,Default,,0,0,0,,Non per togliere {\1c&HFF00&\u1}niente{\r} a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.10,0:00:3.12,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.12,0:00:3.14,Default,,0,0,0,,Non per togliere niente {\1c&HFF00&\u1}a{\r} nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.14,0:00:3.18,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.18,0:00:3.56,Default,,0,0,0,,Non per togliere niente a {\1c&HFF00&\u1}nessuno,{\r} ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.56,0:00:3.87,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.87,0:00:3.95,Default,,0,0,0,,Non per togliere niente a nessuno, {\1c&HFF00&\u1}ma{\r} secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.95,0:00:3.97,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:3.97,0:00:4.21,Default,,0,0,0,,Non per togliere niente a nessuno, ma {\1c&HFF00&\u1}secondo{\r} me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:4.21,0:00:4.23,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:4.23,0:00:4.31,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo {\1c&HFF00&\u1}me{\r} le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:4.31,0:00:4.35,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:4.35,0:00:4.41,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me {\1c&HFF00&\u1}le{\r} informazioni di questo sito sono meglio
+Dialogue: 0,0:00:4.41,0:00:4.47,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:4.47,0:00:4.95,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le {\1c&HFF00&\u1}informazioni{\r} di questo sito sono meglio
+Dialogue: 0,0:00:4.95,0:00:5.01,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:5.01,0:00:5.09,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni {\1c&HFF00&\u1}di{\r} questo sito sono meglio
+Dialogue: 0,0:00:5.09,0:00:5.15,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:5.15,0:00:5.37,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di {\1c&HFF00&\u1}questo{\r} sito sono meglio
+Dialogue: 0,0:00:5.37,0:00:5.45,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:5.45,0:00:5.77,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo {\1c&HFF00&\u1}sito{\r} sono meglio
+Dialogue: 0,0:00:5.77,0:00:6.17,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:6.17,0:00:6.33,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito {\1c&HFF00&\u1}sono{\r} meglio
+Dialogue: 0,0:00:6.33,0:00:6.37,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono meglio
+Dialogue: 0,0:00:6.37,0:00:6.55,Default,,0,0,0,,Non per togliere niente a nessuno, ma secondo me le informazioni di questo sito sono {\1c&HFF00&\u1}meglio{\r}
+Dialogue: 0,0:00:6.54,0:00:6.58,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.58,0:00:6.60,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.60,0:00:6.72,Default,,0,0,0,,di {\1c&HFF00&\u1}alcuni{\r} corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.72,0:00:6.74,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.74,0:00:6.84,Default,,0,0,0,,di alcuni {\1c&HFF00&\u1}corsi{\r} che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.84,0:00:6.86,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.86,0:00:6.92,Default,,0,0,0,,di alcuni corsi {\1c&HFF00&\u1}che{\r} si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.92,0:00:6.94,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.94,0:00:6.98,Default,,0,0,0,,di alcuni corsi che {\1c&HFF00&\u1}si{\r} trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:6.98,0:00:7.00,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.00,0:00:7.14,Default,,0,0,0,,di alcuni corsi che si {\1c&HFF00&\u1}trovano{\r} online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.14,0:00:7.16,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.16,0:00:7.28,Default,,0,0,0,,di alcuni corsi che si trovano {\1c&HFF00&\u1}online{\r} che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.28,0:00:7.30,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.30,0:00:7.36,Default,,0,0,0,,di alcuni corsi che si trovano online {\1c&HFF00&\u1}che{\r} vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.36,0:00:7.38,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.38,0:00:7.52,Default,,0,0,0,,di alcuni corsi che si trovano online che {\1c&HFF00&\u1}vengono{\r} venduti a centinaia di euro.
+Dialogue: 0,0:00:7.52,0:00:7.54,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.54,0:00:7.68,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono {\1c&HFF00&\u1}venduti{\r} a centinaia di euro.
+Dialogue: 0,0:00:7.68,0:00:7.70,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.70,0:00:7.72,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti {\1c&HFF00&\u1}a{\r} centinaia di euro.
+Dialogue: 0,0:00:7.72,0:00:7.74,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.74,0:00:7.92,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a {\1c&HFF00&\u1}centinaia{\r} di euro.
+Dialogue: 0,0:00:7.92,0:00:7.94,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:7.94,0:00:7.98,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia {\1c&HFF00&\u1}di{\r} euro.
+Dialogue: 0,0:00:7.98,0:00:8.00,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di euro.
+Dialogue: 0,0:00:8.00,0:00:8.11,Default,,0,0,0,,di alcuni corsi che si trovano online che vengono venduti a centinaia di {\1c&HFF00&\u1}euro.{\r}
+Dialogue: 0,0:00:10.74,0:00:11.32,Default,,0,0,0,,{\1c&HFF00&\u1}Ok,{\r} ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.32,0:00:11.36,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.36,0:00:11.40,Default,,0,0,0,,Ok, {\1c&HFF00&\u1}ma{\r} alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.40,0:00:11.42,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.42,0:00:11.56,Default,,0,0,0,,Ok, ma {\1c&HFF00&\u1}alla{\r} fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.56,0:00:11.62,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.62,0:00:11.76,Default,,0,0,0,,Ok, ma alla {\1c&HFF00&\u1}fine{\r} leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.76,0:00:11.84,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:11.84,0:00:12.18,Default,,0,0,0,,Ok, ma alla fine {\1c&HFF00&\u1}leggere{\r} libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:12.18,0:00:12.28,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:12.28,0:00:12.63,Default,,0,0,0,,Ok, ma alla fine leggere {\1c&HFF00&\u1}libri{\r} e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:12.63,0:00:12.65,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:12.65,0:00:12.67,Default,,0,0,0,,Ok, ma alla fine leggere libri {\1c&HFF00&\u1}e{\r} leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:12.67,0:00:12.71,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:12.71,0:00:13.05,Default,,0,0,0,,Ok, ma alla fine leggere libri e {\1c&HFF00&\u1}leggere{\r} articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.05,0:00:13.09,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.09,0:00:13.63,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere {\1c&HFF00&\u1}articoli{\r} è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.63,0:00:13.67,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.67,0:00:13.71,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli {\1c&HFF00&\u1}è{\r} un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.71,0:00:13.75,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.75,0:00:13.79,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è {\1c&HFF00&\u1}un{\r} po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.79,0:00:13.83,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.83,0:00:13.91,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un {\1c&HFF00&\u1}po'{\r} noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.91,0:00:13.95,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:13.95,0:00:14.47,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' {\1c&HFF00&\u1}noioso{\r} e sto facendo un po' la
+Dialogue: 0,0:00:14.47,0:00:14.75,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:14.75,0:00:14.79,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso {\1c&HFF00&\u1}e{\r} sto facendo un po' la
+Dialogue: 0,0:00:14.79,0:00:14.81,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:14.81,0:00:14.95,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e {\1c&HFF00&\u1}sto{\r} facendo un po' la
+Dialogue: 0,0:00:14.95,0:00:14.99,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:14.99,0:00:15.27,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto {\1c&HFF00&\u1}facendo{\r} un po' la
+Dialogue: 0,0:00:15.27,0:00:15.31,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:15.31,0:00:15.35,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo {\1c&HFF00&\u1}un{\r} po' la
+Dialogue: 0,0:00:15.35,0:00:15.37,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:15.37,0:00:15.45,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un {\1c&HFF00&\u1}po'{\r} la
+Dialogue: 0,0:00:15.45,0:00:15.51,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' la
+Dialogue: 0,0:00:15.51,0:00:15.57,Default,,0,0,0,,Ok, ma alla fine leggere libri e leggere articoli è un po' noioso e sto facendo un po' {\1c&HFF00&\u1}la{\r}
+Dialogue: 0,0:00:15.52,0:00:15.84,Default,,0,0,0,,{\1c&HFF00&\u1}parte{\r} del vecchietto.
+Dialogue: 0,0:00:15.84,0:00:15.90,Default,,0,0,0,,parte del vecchietto.
+Dialogue: 0,0:00:15.90,0:00:16.00,Default,,0,0,0,,parte {\1c&HFF00&\u1}del{\r} vecchietto.
+Dialogue: 0,0:00:16.00,0:00:16.04,Default,,0,0,0,,parte del vecchietto.
+Dialogue: 0,0:00:16.04,0:00:16.53,Default,,0,0,0,,parte del {\1c&HFF00&\u1}vecchietto.{\r}
+Dialogue: 0,0:00:17.10,0:00:17.16,Default,,0,0,0,,{\1c&HFF00&\u1}Su{\r} YouTube.
+Dialogue: 0,0:00:17.16,0:00:17.22,Default,,0,0,0,,Su YouTube.
+Dialogue: 0,0:00:17.22,0:00:17.59,Default,,0,0,0,,Su {\1c&HFF00&\u1}YouTube.{\r}
+Dialogue: 0,0:00:18.18,0:00:18.29,Default,,0,0,0,,{\1c&HFF00&\u1}Chi{\r} seguire?
+Dialogue: 0,0:00:18.29,0:00:18.35,Default,,0,0,0,,Chi seguire?
+Dialogue: 0,0:00:18.35,0:00:18.61,Default,,0,0,0,,Chi {\1c&HFF00&\u1}seguire?{\r}
+Dialogue: 0,0:00:18.86,0:00:19.14,Default,,0,0,0,,{\1c&HFF00&\u1}Partiamo{\r} dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.14,0:00:19.20,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.20,0:00:19.34,Default,,0,0,0,,Partiamo {\1c&HFF00&\u1}dal{\r} fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.34,0:00:19.38,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.38,0:00:19.64,Default,,0,0,0,,Partiamo dal {\1c&HFF00&\u1}fatto{\r} che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.64,0:00:19.68,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.68,0:00:19.78,Default,,0,0,0,,Partiamo dal fatto {\1c&HFF00&\u1}che{\r} YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.78,0:00:19.84,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:19.84,0:00:20.32,Default,,0,0,0,,Partiamo dal fatto che {\1c&HFF00&\u1}YouTube{\r} è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:20.32,0:00:20.51,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:20.51,0:00:20.57,Default,,0,0,0,,Partiamo dal fatto che YouTube {\1c&HFF00&\u1}è{\r} una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:20.57,0:00:20.61,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:20.61,0:00:20.73,Default,,0,0,0,,Partiamo dal fatto che YouTube è {\1c&HFF00&\u1}una{\r} piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:20.73,0:00:20.77,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:20.77,0:00:21.23,Default,,0,0,0,,Partiamo dal fatto che YouTube è una {\1c&HFF00&\u1}piattaforma{\r} di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:21.23,0:00:21.27,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:21.27,0:00:21.33,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma {\1c&HFF00&\u1}di{\r} intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:21.33,0:00:21.37,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:21.37,0:00:22.01,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di {\1c&HFF00&\u1}intrattenimento{\r} alla fine, quindi non per
+Dialogue: 0,0:00:22.01,0:00:22.03,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:22.03,0:00:22.17,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento {\1c&HFF00&\u1}alla{\r} fine, quindi non per
+Dialogue: 0,0:00:22.17,0:00:22.21,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:22.21,0:00:22.87,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla {\1c&HFF00&\u1}fine,{\r} quindi non per
+Dialogue: 0,0:00:22.87,0:00:22.91,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:22.91,0:00:23.25,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, {\1c&HFF00&\u1}quindi{\r} non per
+Dialogue: 0,0:00:23.25,0:00:23.57,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:23.57,0:00:23.69,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi {\1c&HFF00&\u1}non{\r} per
+Dialogue: 0,0:00:23.69,0:00:23.75,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non per
+Dialogue: 0,0:00:23.75,0:00:23.85,Default,,0,0,0,,Partiamo dal fatto che YouTube è una piattaforma di intrattenimento alla fine, quindi non {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:00:24.08,0:00:24.28,Default,,0,0,0,,{\1c&HFF00&\u1}forza{\r} i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.28,0:00:24.30,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.30,0:00:24.32,Default,,0,0,0,,forza {\1c&HFF00&\u1}i{\r} canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.32,0:00:24.34,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.34,0:00:24.60,Default,,0,0,0,,forza i {\1c&HFF00&\u1}canali{\r} con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.60,0:00:24.62,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.62,0:00:24.68,Default,,0,0,0,,forza i canali {\1c&HFF00&\u1}con{\r} più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.68,0:00:24.84,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.84,0:00:24.94,Default,,0,0,0,,forza i canali con {\1c&HFF00&\u1}più{\r} iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.94,0:00:24.96,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:24.96,0:00:25.54,Default,,0,0,0,,forza i canali con più {\1c&HFF00&\u1}iscritti{\r} saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:25.54,0:00:25.92,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:25.92,0:00:26.23,Default,,0,0,0,,forza i canali con più iscritti {\1c&HFF00&\u1}saranno{\r} quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:26.23,0:00:26.27,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:26.27,0:00:26.47,Default,,0,0,0,,forza i canali con più iscritti saranno {\1c&HFF00&\u1}quelli{\r} che ne sanno di più di trading.
+Dialogue: 0,0:00:26.47,0:00:26.49,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:26.49,0:00:26.57,Default,,0,0,0,,forza i canali con più iscritti saranno quelli {\1c&HFF00&\u1}che{\r} ne sanno di più di trading.
+Dialogue: 0,0:00:26.57,0:00:26.61,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:26.61,0:00:26.69,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che {\1c&HFF00&\u1}ne{\r} sanno di più di trading.
+Dialogue: 0,0:00:26.69,0:00:26.77,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:26.77,0:00:26.99,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne {\1c&HFF00&\u1}sanno{\r} di più di trading.
+Dialogue: 0,0:00:26.99,0:00:27.03,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:27.03,0:00:27.11,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno {\1c&HFF00&\u1}di{\r} più di trading.
+Dialogue: 0,0:00:27.11,0:00:27.13,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:27.13,0:00:27.23,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di {\1c&HFF00&\u1}più{\r} di trading.
+Dialogue: 0,0:00:27.23,0:00:27.27,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:27.27,0:00:27.35,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più {\1c&HFF00&\u1}di{\r} trading.
+Dialogue: 0,0:00:27.35,0:00:27.39,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di trading.
+Dialogue: 0,0:00:27.39,0:00:27.77,Default,,0,0,0,,forza i canali con più iscritti saranno quelli che ne sanno di più di {\1c&HFF00&\u1}trading.{\r}
+Dialogue: 0,0:00:28.06,0:00:28.16,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} esempio...
+Dialogue: 0,0:00:28.16,0:00:28.18,Default,,0,0,0,,Per esempio...
+Dialogue: 0,0:00:28.18,0:00:28.47,Default,,0,0,0,,Per {\1c&HFF00&\u1}esempio...{\r}

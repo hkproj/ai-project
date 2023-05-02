@@ -1,0 +1,138 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.56,0:00:0.62,Default,,0,0,0,,{\1c&HFF00&\u1}Il{\r} primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:0.62,0:00:0.68,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:0.68,0:00:0.88,Default,,0,0,0,,Il {\1c&HFF00&\u1}primo{\r} caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:0.88,0:00:0.98,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:0.98,0:00:1.30,Default,,0,0,0,,Il primo {\1c&HFF00&\u1}caso{\r} si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:1.30,0:00:1.44,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:1.44,0:00:1.50,Default,,0,0,0,,Il primo caso {\1c&HFF00&\u1}si{\r} divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:1.50,0:00:1.60,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:1.60,0:00:1.94,Default,,0,0,0,,Il primo caso si {\1c&HFF00&\u1}divide{\r} a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:1.94,0:00:1.98,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:1.98,0:00:2.00,Default,,0,0,0,,Il primo caso si divide {\1c&HFF00&\u1}a{\r} sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:2.00,0:00:2.08,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:2.08,0:00:2.21,Default,,0,0,0,,Il primo caso si divide a {\1c&HFF00&\u1}sua{\r} volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:2.21,0:00:2.23,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:2.23,0:00:2.57,Default,,0,0,0,,Il primo caso si divide a sua {\1c&HFF00&\u1}volta{\r} in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:2.57,0:00:3.21,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:3.21,0:00:3.29,Default,,0,0,0,,Il primo caso si divide a sua volta {\1c&HFF00&\u1}in{\r} due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:3.29,0:00:3.35,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:3.35,0:00:3.45,Default,,0,0,0,,Il primo caso si divide a sua volta in {\1c&HFF00&\u1}due{\r} casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:3.45,0:00:3.55,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:3.55,0:00:3.97,Default,,0,0,0,,Il primo caso si divide a sua volta in due {\1c&HFF00&\u1}casi,{\r} come prevenire l'ansia prima
+Dialogue: 0,0:00:3.97,0:00:4.51,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:4.51,0:00:4.69,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, {\1c&HFF00&\u1}come{\r} prevenire l'ansia prima
+Dialogue: 0,0:00:4.69,0:00:4.79,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:4.79,0:00:5.31,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come {\1c&HFF00&\u1}prevenire{\r} l'ansia prima
+Dialogue: 0,0:00:5.31,0:00:5.39,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:5.39,0:00:5.83,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire {\1c&HFF00&\u1}l'ansia{\r} prima
+Dialogue: 0,0:00:5.83,0:00:6.03,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia prima
+Dialogue: 0,0:00:6.03,0:00:6.66,Default,,0,0,0,,Il primo caso si divide a sua volta in due casi, come prevenire l'ansia {\1c&HFF00&\u1}prima{\r}
+Dialogue: 0,0:00:6.98,0:00:7.44,Default,,0,0,0,,{\1c&HFF00&\u1}prevenire,{\r} prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:7.44,0:00:7.56,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:7.56,0:00:7.98,Default,,0,0,0,,prevenire, {\1c&HFF00&\u1}prima{\r} prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:7.98,0:00:8.04,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:8.04,0:00:8.53,Default,,0,0,0,,prevenire, prima {\1c&HFF00&\u1}prevenire,{\r} cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:8.53,0:00:8.59,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:8.59,0:00:8.67,Default,,0,0,0,,prevenire, prima prevenire, {\1c&HFF00&\u1}cioè{\r} quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:8.67,0:00:8.69,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:8.69,0:00:8.83,Default,,0,0,0,,prevenire, prima prevenire, cioè {\1c&HFF00&\u1}quando{\r} mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:8.83,0:00:8.87,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:8.87,0:00:9.17,Default,,0,0,0,,prevenire, prima prevenire, cioè quando {\1c&HFF00&\u1}mancano{\r} giorni settimane ancora all'evento
+Dialogue: 0,0:00:9.17,0:00:9.69,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:9.69,0:00:10.11,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano {\1c&HFF00&\u1}giorni{\r} settimane ancora all'evento
+Dialogue: 0,0:00:10.11,0:00:10.19,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:10.19,0:00:10.97,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni {\1c&HFF00&\u1}settimane{\r} ancora all'evento
+Dialogue: 0,0:00:10.97,0:00:11.01,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:11.01,0:00:11.25,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane {\1c&HFF00&\u1}ancora{\r} all'evento
+Dialogue: 0,0:00:11.25,0:00:11.29,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora all'evento
+Dialogue: 0,0:00:11.29,0:00:11.89,Default,,0,0,0,,prevenire, prima prevenire, cioè quando mancano giorni settimane ancora {\1c&HFF00&\u1}all'evento{\r}
+Dialogue: 0,0:00:14.00,0:00:14.27,Default,,0,0,0,,{\1c&HFF00&\u1}Secondo{\r} caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:14.27,0:00:14.31,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:14.31,0:00:14.55,Default,,0,0,0,,Secondo {\1c&HFF00&\u1}caso{\r} come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:14.55,0:00:14.75,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:14.75,0:00:15.15,Default,,0,0,0,,Secondo caso {\1c&HFF00&\u1}come{\r} prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:15.15,0:00:15.65,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:15.65,0:00:16.05,Default,,0,0,0,,Secondo caso come {\1c&HFF00&\u1}prevenire{\r} l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.05,0:00:16.11,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.11,0:00:16.41,Default,,0,0,0,,Secondo caso come prevenire {\1c&HFF00&\u1}l'ansia,{\r} come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.41,0:00:16.45,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.45,0:00:16.59,Default,,0,0,0,,Secondo caso come prevenire l'ansia, {\1c&HFF00&\u1}come{\r} fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.59,0:00:16.65,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.65,0:00:16.79,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come {\1c&HFF00&\u1}fare{\r} in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.79,0:00:16.81,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.81,0:00:16.87,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare {\1c&HFF00&\u1}in{\r} modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.87,0:00:16.91,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:16.91,0:00:17.09,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in {\1c&HFF00&\u1}modo{\r} che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:17.09,0:00:17.17,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:17.17,0:00:17.29,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo {\1c&HFF00&\u1}che{\r} non sorga quando ormai ci siamo
+Dialogue: 0,0:00:17.29,0:00:17.43,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:17.43,0:00:17.61,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che {\1c&HFF00&\u1}non{\r} sorga quando ormai ci siamo
+Dialogue: 0,0:00:17.61,0:00:17.73,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:17.73,0:00:18.19,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non {\1c&HFF00&\u1}sorga{\r} quando ormai ci siamo
+Dialogue: 0,0:00:18.19,0:00:18.79,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:18.79,0:00:18.97,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga {\1c&HFF00&\u1}quando{\r} ormai ci siamo
+Dialogue: 0,0:00:18.97,0:00:19.01,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:19.01,0:00:19.24,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando {\1c&HFF00&\u1}ormai{\r} ci siamo
+Dialogue: 0,0:00:19.24,0:00:19.32,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:19.32,0:00:19.38,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai {\1c&HFF00&\u1}ci{\r} siamo
+Dialogue: 0,0:00:19.38,0:00:19.48,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci siamo
+Dialogue: 0,0:00:19.48,0:00:19.86,Default,,0,0,0,,Secondo caso come prevenire l'ansia, come fare in modo che non sorga quando ormai ci {\1c&HFF00&\u1}siamo{\r}
+Dialogue: 0,0:00:20.50,0:00:20.98,Default,,0,0,0,,{\1c&HFF00&\u1}quando{\r} manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:20.98,0:00:21.04,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:21.04,0:00:21.30,Default,,0,0,0,,quando {\1c&HFF00&\u1}manca{\r} un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:21.30,0:00:21.34,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:21.34,0:00:21.68,Default,,0,0,0,,quando manca {\1c&HFF00&\u1}un'ora,{\r} manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:21.68,0:00:21.72,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:21.72,0:00:21.93,Default,,0,0,0,,quando manca un'ora, {\1c&HFF00&\u1}manca{\r} mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:21.93,0:00:21.99,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:21.99,0:00:22.51,Default,,0,0,0,,quando manca un'ora, manca {\1c&HFF00&\u1}mezz'ora,{\r} ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:22.51,0:00:22.75,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:22.75,0:00:22.93,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, {\1c&HFF00&\u1}ormai{\r} sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:22.93,0:00:22.97,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:22.97,0:00:23.05,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai {\1c&HFF00&\u1}sei{\r} lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.05,0:00:23.09,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.09,0:00:23.17,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei {\1c&HFF00&\u1}lì{\r} già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.17,0:00:23.21,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.21,0:00:23.61,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì {\1c&HFF00&\u1}già,{\r} sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.61,0:00:23.65,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.65,0:00:23.75,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, {\1c&HFF00&\u1}sei{\r} sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.75,0:00:23.83,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.83,0:00:23.93,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei {\1c&HFF00&\u1}sul{\r} posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.93,0:00:23.99,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:23.99,0:00:24.31,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul {\1c&HFF00&\u1}posto,{\r} ormai alla platella sia riempita
+Dialogue: 0,0:00:24.31,0:00:24.75,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:24.75,0:00:24.95,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, {\1c&HFF00&\u1}ormai{\r} alla platella sia riempita
+Dialogue: 0,0:00:24.95,0:00:25.31,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:25.31,0:00:25.43,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai {\1c&HFF00&\u1}alla{\r} platella sia riempita
+Dialogue: 0,0:00:25.43,0:00:25.45,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:25.45,0:00:25.75,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla {\1c&HFF00&\u1}platella{\r} sia riempita
+Dialogue: 0,0:00:25.75,0:00:25.81,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:25.81,0:00:25.91,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella {\1c&HFF00&\u1}sia{\r} riempita
+Dialogue: 0,0:00:25.91,0:00:25.95,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia riempita
+Dialogue: 0,0:00:25.95,0:00:26.46,Default,,0,0,0,,quando manca un'ora, manca mezz'ora, ormai sei lì già, sei sul posto, ormai alla platella sia {\1c&HFF00&\u1}riempita{\r}
+Dialogue: 0,0:00:28.47,0:00:28.99,Default,,0,0,0,,{\1c&HFF00&\u1}Primissimo{\r} caso, primo caso del primo caso.
+Dialogue: 0,0:00:28.99,0:00:29.05,Default,,0,0,0,,Primissimo caso, primo caso del primo caso.
+Dialogue: 0,0:00:29.05,0:00:29.25,Default,,0,0,0,,Primissimo {\1c&HFF00&\u1}caso,{\r} primo caso del primo caso.
+Dialogue: 0,0:00:29.25,0:00:29.35,Default,,0,0,0,,Primissimo caso, primo caso del primo caso.
+Dialogue: 0,0:00:29.35,0:00:29.57,Default,,0,0,0,,Primissimo caso, {\1c&HFF00&\u1}primo{\r} caso del primo caso.
+Dialogue: 0,0:00:29.57,0:00:29.65,Default,,0,0,0,,Primissimo caso, primo caso del primo caso.
+Dialogue: 0,0:00:29.65,0:00:29.89,Default,,0,0,0,,Primissimo caso, primo {\1c&HFF00&\u1}caso{\r} del primo caso.
+Dialogue: 0,0:00:29.89,0:00:29.93,Default,,0,0,0,,Primissimo caso, primo caso del primo caso.
+Dialogue: 0,0:00:29.93,0:00:30.05,Default,,0,0,0,,Primissimo caso, primo caso {\1c&HFF00&\u1}del{\r} primo caso.
+Dialogue: 0,0:00:30.05,0:00:30.09,Default,,0,0,0,,Primissimo caso, primo caso del primo caso.
+Dialogue: 0,0:00:30.09,0:00:30.27,Default,,0,0,0,,Primissimo caso, primo caso del {\1c&HFF00&\u1}primo{\r} caso.
+Dialogue: 0,0:00:30.27,0:00:30.33,Default,,0,0,0,,Primissimo caso, primo caso del primo caso.
+Dialogue: 0,0:00:30.33,0:00:30.61,Default,,0,0,0,,Primissimo caso, primo caso del primo {\1c&HFF00&\u1}caso.{\r}

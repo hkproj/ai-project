@@ -1,0 +1,403 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:0.50,0:00:0.52,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:0.52,0:00:0.56,Default,,0,0,0,,E {\1c&HFF00&\u1}no,{\r} non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:0.56,0:00:0.60,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:0.60,0:00:0.66,Default,,0,0,0,,E no, {\1c&HFF00&\u1}non{\r} consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:0.66,0:00:0.70,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:0.70,0:00:1.22,Default,,0,0,0,,E no, non {\1c&HFF00&\u1}consegno{\r} regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:1.22,0:00:1.28,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:1.28,0:00:1.64,Default,,0,0,0,,E no, non consegno {\1c&HFF00&\u1}regali{\r} in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:1.64,0:00:1.68,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:1.68,0:00:1.76,Default,,0,0,0,,E no, non consegno regali {\1c&HFF00&\u1}in{\r} anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:1.76,0:00:1.80,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:1.80,0:00:2.40,Default,,0,0,0,,E no, non consegno regali in {\1c&HFF00&\u1}anticipo{\r} e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.40,0:00:2.43,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.43,0:00:2.47,Default,,0,0,0,,E no, non consegno regali in anticipo {\1c&HFF00&\u1}e{\r} non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.47,0:00:2.51,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.51,0:00:2.63,Default,,0,0,0,,E no, non consegno regali in anticipo e {\1c&HFF00&\u1}non{\r} vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.63,0:00:2.67,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.67,0:00:2.91,Default,,0,0,0,,E no, non consegno regali in anticipo e non {\1c&HFF00&\u1}vado{\r} a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.91,0:00:2.93,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.93,0:00:2.97,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado {\1c&HFF00&\u1}a{\r} qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:2.97,0:00:3.01,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:3.01,0:00:3.53,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a {\1c&HFF00&\u1}qualcuno{\r} a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:3.53,0:00:4.11,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:4.11,0:00:4.23,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno {\1c&HFF00&\u1}a{\r} giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:4.23,0:00:4.33,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:4.33,0:00:4.79,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a {\1c&HFF00&\u1}giugno{\r} a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:4.79,0:00:4.83,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:4.83,0:00:4.87,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno {\1c&HFF00&\u1}a{\r} dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:4.87,0:00:4.91,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:4.91,0:00:5.13,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a {\1c&HFF00&\u1}dire{\r} buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:5.13,0:00:5.31,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:5.31,0:00:5.51,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire {\1c&HFF00&\u1}buon{\r} Natale con un regalo improvvisato.
+Dialogue: 0,0:00:5.51,0:00:5.55,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:5.55,0:00:6.07,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon {\1c&HFF00&\u1}Natale{\r} con un regalo improvvisato.
+Dialogue: 0,0:00:6.07,0:00:6.17,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:6.17,0:00:6.31,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale {\1c&HFF00&\u1}con{\r} un regalo improvvisato.
+Dialogue: 0,0:00:6.31,0:00:6.35,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:6.35,0:00:6.45,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con {\1c&HFF00&\u1}un{\r} regalo improvvisato.
+Dialogue: 0,0:00:6.45,0:00:6.49,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:6.49,0:00:6.81,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un {\1c&HFF00&\u1}regalo{\r} improvvisato.
+Dialogue: 0,0:00:6.81,0:00:6.89,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo improvvisato.
+Dialogue: 0,0:00:6.89,0:00:7.52,Default,,0,0,0,,E no, non consegno regali in anticipo e non vado a qualcuno a giugno a dire buon Natale con un regalo {\1c&HFF00&\u1}improvvisato.{\r}
+Dialogue: 0,0:00:7.92,0:00:8.10,Default,,0,0,0,,{\1c&HFF00&\u1}Nulla{\r} di tutto ciò.
+Dialogue: 0,0:00:8.10,0:00:8.12,Default,,0,0,0,,Nulla di tutto ciò.
+Dialogue: 0,0:00:8.12,0:00:8.20,Default,,0,0,0,,Nulla {\1c&HFF00&\u1}di{\r} tutto ciò.
+Dialogue: 0,0:00:8.20,0:00:8.24,Default,,0,0,0,,Nulla di tutto ciò.
+Dialogue: 0,0:00:8.24,0:00:8.44,Default,,0,0,0,,Nulla di {\1c&HFF00&\u1}tutto{\r} ciò.
+Dialogue: 0,0:00:8.44,0:00:8.53,Default,,0,0,0,,Nulla di tutto ciò.
+Dialogue: 0,0:00:8.53,0:00:8.59,Default,,0,0,0,,Nulla di tutto {\1c&HFF00&\u1}ciò.{\r}
+Dialogue: 0,0:00:8.94,0:00:9.18,Default,,0,0,0,,{\1c&HFF00&\u1}Però{\r} quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:9.18,0:00:9.38,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:9.38,0:00:9.64,Default,,0,0,0,,Però {\1c&HFF00&\u1}quando{\r} possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:9.64,0:00:9.68,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:9.68,0:00:10.20,Default,,0,0,0,,Però quando {\1c&HFF00&\u1}possibile{\r} cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:10.20,0:00:10.28,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:10.28,0:00:10.54,Default,,0,0,0,,Però quando possibile {\1c&HFF00&\u1}cerco{\r} di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:10.54,0:00:10.60,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:10.60,0:00:10.68,Default,,0,0,0,,Però quando possibile cerco {\1c&HFF00&\u1}di{\r} pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:10.68,0:00:10.91,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:10.91,0:00:11.63,Default,,0,0,0,,Però quando possibile cerco di {\1c&HFF00&\u1}pensarci{\r} in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:11.63,0:00:11.79,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:11.79,0:00:11.85,Default,,0,0,0,,Però quando possibile cerco di pensarci {\1c&HFF00&\u1}in{\r} anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:11.85,0:00:11.89,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:11.89,0:00:12.33,Default,,0,0,0,,Però quando possibile cerco di pensarci in {\1c&HFF00&\u1}anticipo,{\r} magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.33,0:00:12.37,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.37,0:00:12.61,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, {\1c&HFF00&\u1}magari{\r} anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.61,0:00:12.63,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.63,0:00:12.79,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari {\1c&HFF00&\u1}anche{\r} di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.79,0:00:12.83,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.83,0:00:12.89,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche {\1c&HFF00&\u1}di{\r} acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.89,0:00:12.91,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:12.91,0:00:13.49,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di {\1c&HFF00&\u1}acquistare{\r} lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:13.49,0:00:13.57,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:13.57,0:00:13.61,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare {\1c&HFF00&\u1}lo{\r} stesso prodotto in anticipo.
+Dialogue: 0,0:00:13.61,0:00:13.65,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:13.65,0:00:13.87,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo {\1c&HFF00&\u1}stesso{\r} prodotto in anticipo.
+Dialogue: 0,0:00:13.87,0:00:13.93,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:13.93,0:00:14.27,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso {\1c&HFF00&\u1}prodotto{\r} in anticipo.
+Dialogue: 0,0:00:14.27,0:00:14.29,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:14.29,0:00:14.37,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto {\1c&HFF00&\u1}in{\r} anticipo.
+Dialogue: 0,0:00:14.37,0:00:14.41,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in anticipo.
+Dialogue: 0,0:00:14.41,0:00:14.87,Default,,0,0,0,,Però quando possibile cerco di pensarci in anticipo, magari anche di acquistare lo stesso prodotto in {\1c&HFF00&\u1}anticipo.{\r}
+Dialogue: 0,0:00:15.14,0:00:15.22,Default,,0,0,0,,{\1c&HFF00&\u1}Se{\r} so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.22,0:00:15.30,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.30,0:00:15.40,Default,,0,0,0,,Se {\1c&HFF00&\u1}so{\r} che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.40,0:00:15.44,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.44,0:00:15.52,Default,,0,0,0,,Se so {\1c&HFF00&\u1}che{\r} tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.52,0:00:15.58,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.58,0:00:15.72,Default,,0,0,0,,Se so che {\1c&HFF00&\u1}tra{\r} sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.72,0:00:15.86,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:15.86,0:00:16.04,Default,,0,0,0,,Se so che tra {\1c&HFF00&\u1}sei{\r} mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.04,0:00:16.10,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.10,0:00:16.48,Default,,0,0,0,,Se so che tra sei {\1c&HFF00&\u1}mesi{\r} è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.48,0:00:16.52,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.52,0:00:16.56,Default,,0,0,0,,Se so che tra sei mesi {\1c&HFF00&\u1}è{\r} il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.56,0:00:16.62,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.62,0:00:16.66,Default,,0,0,0,,Se so che tra sei mesi è {\1c&HFF00&\u1}il{\r} compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.66,0:00:16.70,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:16.70,0:00:17.14,Default,,0,0,0,,Se so che tra sei mesi è il {\1c&HFF00&\u1}compleanno{\r} di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.14,0:00:17.18,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.18,0:00:17.24,Default,,0,0,0,,Se so che tra sei mesi è il compleanno {\1c&HFF00&\u1}di{\r} un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.24,0:00:17.26,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.26,0:00:17.34,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di {\1c&HFF00&\u1}un{\r} amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.34,0:00:17.38,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.38,0:00:17.77,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un {\1c&HFF00&\u1}amico{\r} e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.77,0:00:17.93,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:17.93,0:00:18.01,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico {\1c&HFF00&\u1}e{\r} vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:18.01,0:00:18.09,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:18.09,0:00:18.27,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e {\1c&HFF00&\u1}vedo{\r} qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:18.27,0:00:18.33,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:18.33,0:00:18.81,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo {\1c&HFF00&\u1}qualcosa{\r} che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:18.81,0:00:18.89,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:18.89,0:00:19.07,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa {\1c&HFF00&\u1}che,{\r} in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:19.07,0:00:19.71,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:19.71,0:00:19.77,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, {\1c&HFF00&\u1}in{\r} base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:19.77,0:00:19.81,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:19.81,0:00:20.01,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in {\1c&HFF00&\u1}base{\r} a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.01,0:00:20.03,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.03,0:00:20.07,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base {\1c&HFF00&\u1}a{\r} come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.07,0:00:20.13,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.13,0:00:20.27,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a {\1c&HFF00&\u1}come{\r} lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.27,0:00:20.33,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.33,0:00:20.39,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come {\1c&HFF00&\u1}lo{\r} conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.39,0:00:20.43,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.43,0:00:20.81,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo {\1c&HFF00&\u1}conosco,{\r} potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.81,0:00:20.85,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:20.85,0:00:21.15,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, {\1c&HFF00&\u1}potrebbe{\r} piacergli, già lo compro.
+Dialogue: 0,0:00:21.15,0:00:21.21,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:21.21,0:00:22.25,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe {\1c&HFF00&\u1}piacergli,{\r} già lo compro.
+Dialogue: 0,0:00:22.25,0:00:22.27,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:22.27,0:00:22.35,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, {\1c&HFF00&\u1}già{\r} lo compro.
+Dialogue: 0,0:00:22.35,0:00:22.39,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:22.39,0:00:22.45,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già {\1c&HFF00&\u1}lo{\r} compro.
+Dialogue: 0,0:00:22.45,0:00:22.52,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo compro.
+Dialogue: 0,0:00:22.52,0:00:22.88,Default,,0,0,0,,Se so che tra sei mesi è il compleanno di un amico e vedo qualcosa che, in base a come lo conosco, potrebbe piacergli, già lo {\1c&HFF00&\u1}compro.{\r}
+Dialogue: 0,0:00:23.16,0:00:23.28,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:23.28,0:00:23.34,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:23.34,0:00:23.60,Default,,0,0,0,,Non {\1c&HFF00&\u1}solo,{\r} con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:23.60,0:00:23.72,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:23.72,0:00:23.88,Default,,0,0,0,,Non solo, {\1c&HFF00&\u1}con{\r} le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:23.88,0:00:23.94,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:23.94,0:00:24.02,Default,,0,0,0,,Non solo, con {\1c&HFF00&\u1}le{\r} persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.02,0:00:24.06,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.06,0:00:24.38,Default,,0,0,0,,Non solo, con le {\1c&HFF00&\u1}persone{\r} con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.38,0:00:24.42,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.42,0:00:24.56,Default,,0,0,0,,Non solo, con le persone {\1c&HFF00&\u1}con{\r} cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.56,0:00:24.58,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.58,0:00:24.70,Default,,0,0,0,,Non solo, con le persone con {\1c&HFF00&\u1}cui{\r} magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.70,0:00:24.75,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:24.75,0:00:25.01,Default,,0,0,0,,Non solo, con le persone con cui {\1c&HFF00&\u1}magari{\r} siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.01,0:00:25.09,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.09,0:00:25.29,Default,,0,0,0,,Non solo, con le persone con cui magari {\1c&HFF00&\u1}siamo{\r} meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.29,0:00:25.37,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.37,0:00:25.53,Default,,0,0,0,,Non solo, con le persone con cui magari siamo {\1c&HFF00&\u1}meno{\r} in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.53,0:00:25.57,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.57,0:00:25.63,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno {\1c&HFF00&\u1}in{\r} confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.63,0:00:25.67,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:25.67,0:00:26.37,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in {\1c&HFF00&\u1}confidenza,{\r} con cui ci si fa regali un po' per
+Dialogue: 0,0:00:26.37,0:00:26.43,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:26.43,0:00:26.57,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, {\1c&HFF00&\u1}con{\r} cui ci si fa regali un po' per
+Dialogue: 0,0:00:26.57,0:00:26.61,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:26.61,0:00:26.71,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con {\1c&HFF00&\u1}cui{\r} ci si fa regali un po' per
+Dialogue: 0,0:00:26.71,0:00:26.77,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:26.77,0:00:26.85,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui {\1c&HFF00&\u1}ci{\r} si fa regali un po' per
+Dialogue: 0,0:00:26.85,0:00:26.91,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:26.91,0:00:26.99,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci {\1c&HFF00&\u1}si{\r} fa regali un po' per
+Dialogue: 0,0:00:26.99,0:00:27.03,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:27.03,0:00:27.13,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si {\1c&HFF00&\u1}fa{\r} regali un po' per
+Dialogue: 0,0:00:27.13,0:00:27.17,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:27.17,0:00:27.51,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa {\1c&HFF00&\u1}regali{\r} un po' per
+Dialogue: 0,0:00:27.51,0:00:27.53,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:27.53,0:00:27.57,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali {\1c&HFF00&\u1}un{\r} po' per
+Dialogue: 0,0:00:27.57,0:00:27.69,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:27.69,0:00:27.81,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un {\1c&HFF00&\u1}po'{\r} per
+Dialogue: 0,0:00:27.81,0:00:27.87,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' per
+Dialogue: 0,0:00:27.87,0:00:28.03,Default,,0,0,0,,Non solo, con le persone con cui magari siamo meno in confidenza, con cui ci si fa regali un po' {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:00:27.88,0:00:29.20,Default,,0,0,0,,{\1c&HFF00&\u1}quieto{\r} vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:29.20,0:00:29.28,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:29.28,0:00:29.62,Default,,0,0,0,,quieto {\1c&HFF00&\u1}vivere,{\r} potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:29.62,0:00:29.96,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:29.96,0:00:30.23,Default,,0,0,0,,quieto vivere, {\1c&HFF00&\u1}potete{\r} anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:30.23,0:00:30.27,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:30.27,0:00:30.43,Default,,0,0,0,,quieto vivere, potete {\1c&HFF00&\u1}anche{\r} pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:30.43,0:00:30.49,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:30.49,0:00:30.81,Default,,0,0,0,,quieto vivere, potete anche {\1c&HFF00&\u1}pensare{\r} dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:30.81,0:00:30.87,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:30.87,0:00:30.97,Default,,0,0,0,,quieto vivere, potete anche pensare {\1c&HFF00&\u1}dei{\r} regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:30.97,0:00:31.03,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:31.03,0:00:31.39,Default,,0,0,0,,quieto vivere, potete anche pensare dei {\1c&HFF00&\u1}regali{\r} paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:31.39,0:00:31.71,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:31.71,0:00:32.21,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali {\1c&HFF00&\u1}paspartout,{\r} un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:32.21,0:00:32.47,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:32.47,0:00:32.51,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, {\1c&HFF00&\u1}un{\r} qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:32.51,0:00:32.55,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:32.55,0:00:32.85,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un {\1c&HFF00&\u1}qualcosa{\r} di adatto più o meno a tutti.
+Dialogue: 0,0:00:32.85,0:00:32.91,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:32.91,0:00:33.01,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa {\1c&HFF00&\u1}di{\r} adatto più o meno a tutti.
+Dialogue: 0,0:00:33.01,0:00:33.19,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:33.19,0:00:33.55,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di {\1c&HFF00&\u1}adatto{\r} più o meno a tutti.
+Dialogue: 0,0:00:33.55,0:00:33.77,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:33.77,0:00:33.85,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto {\1c&HFF00&\u1}più{\r} o meno a tutti.
+Dialogue: 0,0:00:33.85,0:00:33.87,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:33.87,0:00:33.89,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più {\1c&HFF00&\u1}o{\r} meno a tutti.
+Dialogue: 0,0:00:33.89,0:00:33.93,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:33.93,0:00:34.07,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o {\1c&HFF00&\u1}meno{\r} a tutti.
+Dialogue: 0,0:00:34.07,0:00:34.11,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:34.11,0:00:34.15,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno {\1c&HFF00&\u1}a{\r} tutti.
+Dialogue: 0,0:00:34.15,0:00:34.19,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a tutti.
+Dialogue: 0,0:00:34.19,0:00:34.46,Default,,0,0,0,,quieto vivere, potete anche pensare dei regali paspartout, un qualcosa di adatto più o meno a {\1c&HFF00&\u1}tutti.{\r}
+Dialogue: 0,0:00:34.84,0:00:34.92,Default,,0,0,0,,{\1c&HFF00&\u1}Io{\r} per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:34.92,0:00:34.94,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:34.94,0:00:35.04,Default,,0,0,0,,Io {\1c&HFF00&\u1}per{\r} esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:35.04,0:00:35.06,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:35.06,0:00:35.34,Default,,0,0,0,,Io per {\1c&HFF00&\u1}esempio{\r} regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:35.34,0:00:35.42,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:35.42,0:00:35.72,Default,,0,0,0,,Io per esempio {\1c&HFF00&\u1}regalo{\r} spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:35.72,0:00:35.78,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:35.78,0:00:36.08,Default,,0,0,0,,Io per esempio regalo {\1c&HFF00&\u1}spesso{\r} alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.08,0:00:36.14,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.14,0:00:36.43,Default,,0,0,0,,Io per esempio regalo spesso {\1c&HFF00&\u1}alcuni{\r} libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.43,0:00:36.49,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.49,0:00:36.73,Default,,0,0,0,,Io per esempio regalo spesso alcuni {\1c&HFF00&\u1}libri{\r} che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.73,0:00:36.77,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.77,0:00:36.87,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri {\1c&HFF00&\u1}che{\r} mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.87,0:00:36.89,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.89,0:00:36.97,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che {\1c&HFF00&\u1}mi{\r} sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:36.97,0:00:37.01,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:37.01,0:00:37.19,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi {\1c&HFF00&\u1}sono{\r} molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:37.19,0:00:37.47,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:37.47,0:00:37.77,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono {\1c&HFF00&\u1}molto{\r} piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:37.77,0:00:37.83,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:37.83,0:00:38.37,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto {\1c&HFF00&\u1}piaciuti{\r} e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:38.37,0:00:38.55,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:38.55,0:00:38.61,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti {\1c&HFF00&\u1}e{\r} che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:38.61,0:00:38.71,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:38.71,0:00:38.81,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e {\1c&HFF00&\u1}che{\r} sono adatti più o meno a tutti.
+Dialogue: 0,0:00:38.81,0:00:38.87,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:38.87,0:00:39.03,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che {\1c&HFF00&\u1}sono{\r} adatti più o meno a tutti.
+Dialogue: 0,0:00:39.03,0:00:39.07,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:39.07,0:00:39.41,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono {\1c&HFF00&\u1}adatti{\r} più o meno a tutti.
+Dialogue: 0,0:00:39.41,0:00:39.63,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:39.63,0:00:39.73,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti {\1c&HFF00&\u1}più{\r} o meno a tutti.
+Dialogue: 0,0:00:39.73,0:00:39.75,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:39.75,0:00:39.77,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più {\1c&HFF00&\u1}o{\r} meno a tutti.
+Dialogue: 0,0:00:39.77,0:00:39.81,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:39.81,0:00:39.99,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o {\1c&HFF00&\u1}meno{\r} a tutti.
+Dialogue: 0,0:00:39.99,0:00:40.03,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:40.03,0:00:40.07,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno {\1c&HFF00&\u1}a{\r} tutti.
+Dialogue: 0,0:00:40.07,0:00:40.11,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a tutti.
+Dialogue: 0,0:00:40.11,0:00:40.44,Default,,0,0,0,,Io per esempio regalo spesso alcuni libri che mi sono molto piaciuti e che sono adatti più o meno a {\1c&HFF00&\u1}tutti.{\r}
+Dialogue: 0,0:00:40.86,0:00:40.92,Default,,0,0,0,,{\1c&HFF00&\u1}Un{\r} esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:40.92,0:00:40.96,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:40.96,0:00:41.32,Default,,0,0,0,,Un {\1c&HFF00&\u1}esempio{\r} è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:41.32,0:00:41.40,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:41.40,0:00:41.44,Default,,0,0,0,,Un esempio {\1c&HFF00&\u1}è{\r} La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:41.44,0:00:41.64,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:41.64,0:00:41.70,Default,,0,0,0,,Un esempio è {\1c&HFF00&\u1}La{\r} fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:41.70,0:00:41.76,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:41.76,0:00:42.08,Default,,0,0,0,,Un esempio è La {\1c&HFF00&\u1}fattoria{\r} degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.08,0:00:42.12,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.12,0:00:42.28,Default,,0,0,0,,Un esempio è La fattoria {\1c&HFF00&\u1}degli{\r} animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.28,0:00:42.32,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.32,0:00:42.75,Default,,0,0,0,,Un esempio è La fattoria degli {\1c&HFF00&\u1}animali,{\r} che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.75,0:00:42.81,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.81,0:00:42.89,Default,,0,0,0,,Un esempio è La fattoria degli animali, {\1c&HFF00&\u1}che{\r} è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.89,0:00:42.91,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.91,0:00:42.93,Default,,0,0,0,,Un esempio è La fattoria degli animali, che {\1c&HFF00&\u1}è{\r} un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.93,0:00:42.97,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:42.97,0:00:43.05,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è {\1c&HFF00&\u1}un{\r} libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.05,0:00:43.07,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.07,0:00:43.31,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un {\1c&HFF00&\u1}libro{\r} di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.31,0:00:43.35,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.35,0:00:43.41,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro {\1c&HFF00&\u1}di{\r} George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.41,0:00:43.49,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.49,0:00:43.73,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di {\1c&HFF00&\u1}George{\r} Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.73,0:00:43.75,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:43.75,0:00:44.21,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George {\1c&HFF00&\u1}Orwell{\r} molto corto e decisamente accattivante che
+Dialogue: 0,0:00:44.21,0:00:44.57,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:44.57,0:00:44.83,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell {\1c&HFF00&\u1}molto{\r} corto e decisamente accattivante che
+Dialogue: 0,0:00:44.83,0:00:44.91,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:44.91,0:00:45.31,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto {\1c&HFF00&\u1}corto{\r} e decisamente accattivante che
+Dialogue: 0,0:00:45.31,0:00:45.45,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:45.45,0:00:45.53,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto {\1c&HFF00&\u1}e{\r} decisamente accattivante che
+Dialogue: 0,0:00:45.53,0:00:45.69,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:45.69,0:00:46.19,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e {\1c&HFF00&\u1}decisamente{\r} accattivante che
+Dialogue: 0,0:00:46.19,0:00:46.25,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:46.25,0:00:47.06,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente {\1c&HFF00&\u1}accattivante{\r} che
+Dialogue: 0,0:00:47.06,0:00:47.14,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante che
+Dialogue: 0,0:00:47.14,0:00:47.22,Default,,0,0,0,,Un esempio è La fattoria degli animali, che è un libro di George Orwell molto corto e decisamente accattivante {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:47.16,0:00:47.34,Default,,0,0,0,,{\1c&HFF00&\u1}qualsiasi{\r} persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.34,0:00:47.38,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.38,0:00:47.52,Default,,0,0,0,,qualsiasi {\1c&HFF00&\u1}persona{\r} a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.52,0:00:47.54,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.54,0:00:47.56,Default,,0,0,0,,qualsiasi persona {\1c&HFF00&\u1}a{\r} cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.56,0:00:47.58,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.58,0:00:47.64,Default,,0,0,0,,qualsiasi persona a {\1c&HFF00&\u1}cui{\r} l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.64,0:00:47.66,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.66,0:00:47.72,Default,,0,0,0,,qualsiasi persona a cui {\1c&HFF00&\u1}l'ho{\r} regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.72,0:00:47.74,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.74,0:00:47.90,Default,,0,0,0,,qualsiasi persona a cui l'ho {\1c&HFF00&\u1}regalato{\r} l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.90,0:00:47.92,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.92,0:00:47.98,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato {\1c&HFF00&\u1}l'ha{\r} apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:47.98,0:00:48.00,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.00,0:00:48.20,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha {\1c&HFF00&\u1}apprezzato.{\r} Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.20,0:00:48.22,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.22,0:00:48.30,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. {\1c&HFF00&\u1}Fare{\r} così vi eviterà tanto per
+Dialogue: 0,0:00:48.30,0:00:48.32,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.32,0:00:48.40,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare {\1c&HFF00&\u1}così{\r} vi eviterà tanto per
+Dialogue: 0,0:00:48.40,0:00:48.42,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.42,0:00:48.46,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così {\1c&HFF00&\u1}vi{\r} eviterà tanto per
+Dialogue: 0,0:00:48.46,0:00:48.48,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.48,0:00:48.62,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi {\1c&HFF00&\u1}eviterà{\r} tanto per
+Dialogue: 0,0:00:48.62,0:00:48.64,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.64,0:00:48.74,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà {\1c&HFF00&\u1}tanto{\r} per
+Dialogue: 0,0:00:48.74,0:00:48.76,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto per
+Dialogue: 0,0:00:48.76,0:00:48.82,Default,,0,0,0,,qualsiasi persona a cui l'ho regalato l'ha apprezzato. Fare così vi eviterà tanto {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:00:52.44,0:00:52.64,Default,,0,0,0,,{\1c&HFF00&\u1}cominciare{\r} lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:52.64,0:00:52.66,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:52.66,0:00:52.70,Default,,0,0,0,,cominciare {\1c&HFF00&\u1}lo{\r} stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:52.70,0:00:53.40,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:53.40,0:00:53.84,Default,,0,0,0,,cominciare lo {\1c&HFF00&\u1}stress{\r} di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:53.84,0:00:53.88,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:53.88,0:00:54.04,Default,,0,0,0,,cominciare lo stress {\1c&HFF00&\u1}di{\r} andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.04,0:00:54.18,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.18,0:00:54.43,Default,,0,0,0,,cominciare lo stress di {\1c&HFF00&\u1}andare{\r} in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.43,0:00:54.49,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.49,0:00:54.61,Default,,0,0,0,,cominciare lo stress di andare {\1c&HFF00&\u1}in{\r} giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.61,0:00:54.65,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.65,0:00:54.93,Default,,0,0,0,,cominciare lo stress di andare in {\1c&HFF00&\u1}giro{\r} e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.93,0:00:54.99,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:54.99,0:00:55.09,Default,,0,0,0,,cominciare lo stress di andare in giro {\1c&HFF00&\u1}e{\r} cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.09,0:00:55.15,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.15,0:00:55.49,Default,,0,0,0,,cominciare lo stress di andare in giro e {\1c&HFF00&\u1}cercare{\r} un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.49,0:00:55.53,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.53,0:00:55.59,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare {\1c&HFF00&\u1}un{\r} regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.59,0:00:55.61,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.61,0:00:55.87,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un {\1c&HFF00&\u1}regalo{\r} all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.87,0:00:55.93,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:55.93,0:00:56.55,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo {\1c&HFF00&\u1}all'ultimo{\r} e soprattutto vi eviterà di
+Dialogue: 0,0:00:56.55,0:00:56.93,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:56.93,0:00:56.97,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo {\1c&HFF00&\u1}e{\r} soprattutto vi eviterà di
+Dialogue: 0,0:00:56.97,0:00:57.01,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:57.01,0:00:57.47,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e {\1c&HFF00&\u1}soprattutto{\r} vi eviterà di
+Dialogue: 0,0:00:57.47,0:00:57.55,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:57.55,0:00:57.61,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto {\1c&HFF00&\u1}vi{\r} eviterà di
+Dialogue: 0,0:00:57.61,0:00:57.65,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:57.65,0:00:58.03,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi {\1c&HFF00&\u1}eviterà{\r} di
+Dialogue: 0,0:00:58.03,0:00:58.13,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà di
+Dialogue: 0,0:00:58.13,0:00:58.17,Default,,0,0,0,,cominciare lo stress di andare in giro e cercare un regalo all'ultimo e soprattutto vi eviterà {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:59.24,0:00:59.62,Default,,0,0,0,,{\1c&HFF00&\u1}spinti{\r} dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:00:59.62,0:00:59.66,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:00:59.66,0:00:59.86,Default,,0,0,0,,spinti {\1c&HFF00&\u1}dalla{\r} fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:00:59.86,0:00:59.90,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:00:59.90,0:01:0.27,Default,,0,0,0,,spinti dalla {\1c&HFF00&\u1}fretta{\r} a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:0.27,0:01:0.29,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:0.29,0:01:0.31,Default,,0,0,0,,spinti dalla fretta {\1c&HFF00&\u1}a{\r} comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:0.31,0:01:0.37,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:0.37,0:01:0.77,Default,,0,0,0,,spinti dalla fretta a {\1c&HFF00&\u1}comprare{\r} qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:0.77,0:01:0.83,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:0.83,0:01:1.21,Default,,0,0,0,,spinti dalla fretta a comprare {\1c&HFF00&\u1}qualcosa{\r} di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:1.21,0:01:1.27,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:1.27,0:01:1.37,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa {\1c&HFF00&\u1}di{\r} brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:1.37,0:01:1.59,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:1.59,0:01:2.01,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di {\1c&HFF00&\u1}brutto{\r} inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:2.01,0:01:2.09,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:2.09,0:01:2.53,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto {\1c&HFF00&\u1}inutile{\r} o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:2.53,0:01:2.65,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:2.65,0:01:2.69,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile {\1c&HFF00&\u1}o{\r} magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:2.69,0:01:2.71,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:2.71,0:01:2.95,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o {\1c&HFF00&\u1}magari{\r} anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:2.95,0:01:3.01,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:3.01,0:01:3.19,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari {\1c&HFF00&\u1}anche{\r} di pagarlo troppo. Niente
+Dialogue: 0,0:01:3.19,0:01:3.23,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:3.23,0:01:3.31,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche {\1c&HFF00&\u1}di{\r} pagarlo troppo. Niente
+Dialogue: 0,0:01:3.31,0:01:3.49,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:3.49,0:01:3.90,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di {\1c&HFF00&\u1}pagarlo{\r} troppo. Niente
+Dialogue: 0,0:01:3.90,0:01:3.96,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:3.96,0:01:4.34,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo {\1c&HFF00&\u1}troppo.{\r} Niente
+Dialogue: 0,0:01:4.34,0:01:4.48,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. Niente
+Dialogue: 0,0:01:4.48,0:01:6.64,Default,,0,0,0,,spinti dalla fretta a comprare qualcosa di brutto inutile o magari anche di pagarlo troppo. {\1c&HFF00&\u1}Niente{\r}
+Dialogue: 0,0:01:5.30,0:01:5.40,Default,,0,0,0,,{\1c&HFF00&\u1}più{\r} regali stupidi come la
+Dialogue: 0,0:01:5.40,0:01:5.47,Default,,0,0,0,,più regali stupidi come la
+Dialogue: 0,0:01:5.47,0:01:5.97,Default,,0,0,0,,più {\1c&HFF00&\u1}regali{\r} stupidi come la
+Dialogue: 0,0:01:5.97,0:01:6.05,Default,,0,0,0,,più regali stupidi come la
+Dialogue: 0,0:01:6.05,0:01:6.44,Default,,0,0,0,,più regali {\1c&HFF00&\u1}stupidi{\r} come la
+Dialogue: 0,0:01:6.44,0:01:6.50,Default,,0,0,0,,più regali stupidi come la
+Dialogue: 0,0:01:6.50,0:01:6.66,Default,,0,0,0,,più regali stupidi {\1c&HFF00&\u1}come{\r} la
+Dialogue: 0,0:01:6.66,0:01:6.74,Default,,0,0,0,,più regali stupidi come la
+Dialogue: 0,0:01:6.74,0:01:6.80,Default,,0,0,0,,più regali stupidi come {\1c&HFF00&\u1}la{\r}

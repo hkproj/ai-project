@@ -1,0 +1,22 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.94,0:00:1.08,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} respingere l'ansia? come scacciarla?
+Dialogue: 0,0:00:1.08,0:00:1.12,Default,,0,0,0,,come respingere l'ansia? come scacciarla?
+Dialogue: 0,0:00:1.12,0:00:1.61,Default,,0,0,0,,come {\1c&HFF00&\u1}respingere{\r} l'ansia? come scacciarla?
+Dialogue: 0,0:00:1.61,0:00:1.67,Default,,0,0,0,,come respingere l'ansia? come scacciarla?
+Dialogue: 0,0:00:1.67,0:00:2.01,Default,,0,0,0,,come respingere {\1c&HFF00&\u1}l'ansia?{\r} come scacciarla?
+Dialogue: 0,0:00:2.01,0:00:2.05,Default,,0,0,0,,come respingere l'ansia? come scacciarla?
+Dialogue: 0,0:00:2.05,0:00:2.21,Default,,0,0,0,,come respingere l'ansia? {\1c&HFF00&\u1}come{\r} scacciarla?
+Dialogue: 0,0:00:2.21,0:00:3.87,Default,,0,0,0,,come respingere l'ansia? come scacciarla?
+Dialogue: 0,0:00:3.87,0:00:4.53,Default,,0,0,0,,come respingere l'ansia? come {\1c&HFF00&\u1}scacciarla?{\r}

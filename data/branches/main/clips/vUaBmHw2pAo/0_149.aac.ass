@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.10,Default,,0,0,0,,{\1c&HFF00&\u1}avevo{\r} un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.10,0:00:0.12,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.12,0:00:0.16,Default,,0,0,0,,avevo {\1c&HFF00&\u1}un{\r} mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.18,0:00:0.24,Default,,0,0,0,,avevo un {\1c&HFF00&\u1}mal{\r} di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.24,0:00:0.26,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.26,0:00:0.30,Default,,0,0,0,,avevo un mal {\1c&HFF00&\u1}di{\r} pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.32,0:00:0.44,Default,,0,0,0,,avevo un mal di {\1c&HFF00&\u1}pancia{\r} e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.44,0:00:0.46,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.46,0:00:0.48,Default,,0,0,0,,avevo un mal di pancia {\1c&HFF00&\u1}e{\r} ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.50,0:00:0.54,Default,,0,0,0,,avevo un mal di pancia e {\1c&HFF00&\u1}ti{\r} passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.54,0:00:0.56,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.56,0:00:0.66,Default,,0,0,0,,avevo un mal di pancia e ti {\1c&HFF00&\u1}passa,{\r} sembra una cosa quasi magica
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.68,0:00:0.80,Default,,0,0,0,,avevo un mal di pancia e ti passa, {\1c&HFF00&\u1}sembra{\r} una cosa quasi magica
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra {\1c&HFF00&\u1}una{\r} cosa quasi magica
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:0.90,0:00:1.00,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una {\1c&HFF00&\u1}cosa{\r} quasi magica
+Dialogue: 0,0:00:1.00,0:00:1.02,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:1.02,0:00:1.12,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa {\1c&HFF00&\u1}quasi{\r} magica
+Dialogue: 0,0:00:1.12,0:00:1.14,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi magica
+Dialogue: 0,0:00:1.14,0:00:1.42,Default,,0,0,0,,avevo un mal di pancia e ti passa, sembra una cosa quasi {\1c&HFF00&\u1}magica{\r}

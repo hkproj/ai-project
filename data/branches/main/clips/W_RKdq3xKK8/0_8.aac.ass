@@ -1,0 +1,71 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.28,0:00:0.34,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:0.34,0:00:0.36,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:0.36,0:00:0.66,Default,,0,0,0,,Non {\1c&HFF00&\u1}esisto{\r} troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:0.66,0:00:0.72,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:0.72,0:00:0.94,Default,,0,0,0,,Non esisto {\1c&HFF00&\u1}troppo{\r} su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:0.94,0:00:0.98,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:0.98,0:00:1.06,Default,,0,0,0,,Non esisto troppo {\1c&HFF00&\u1}su{\r} software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:1.06,0:00:1.14,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:1.14,0:00:1.50,Default,,0,0,0,,Non esisto troppo su {\1c&HFF00&\u1}software{\r} perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:1.50,0:00:1.54,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:1.54,0:00:1.89,Default,,0,0,0,,Non esisto troppo su software {\1c&HFF00&\u1}perché{\r} voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:1.89,0:00:1.99,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:1.99,0:00:2.41,Default,,0,0,0,,Non esisto troppo su software perché {\1c&HFF00&\u1}voglio{\r} risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:2.41,0:00:2.65,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:2.65,0:00:3.09,Default,,0,0,0,,Non esisto troppo su software perché voglio {\1c&HFF00&\u1}risparmiare{\r} un po' di tempo per parlarvi
+Dialogue: 0,0:00:3.09,0:00:3.11,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:3.11,0:00:3.15,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare {\1c&HFF00&\u1}un{\r} po' di tempo per parlarvi
+Dialogue: 0,0:00:3.15,0:00:3.17,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:3.17,0:00:3.25,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un {\1c&HFF00&\u1}po'{\r} di tempo per parlarvi
+Dialogue: 0,0:00:3.25,0:00:3.29,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:3.29,0:00:3.35,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' {\1c&HFF00&\u1}di{\r} tempo per parlarvi
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:3.39,0:00:3.69,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di {\1c&HFF00&\u1}tempo{\r} per parlarvi
+Dialogue: 0,0:00:3.69,0:00:3.79,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:3.79,0:00:3.91,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo {\1c&HFF00&\u1}per{\r} parlarvi
+Dialogue: 0,0:00:3.91,0:00:3.97,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per parlarvi
+Dialogue: 0,0:00:3.97,0:00:4.37,Default,,0,0,0,,Non esisto troppo su software perché voglio risparmiare un po' di tempo per {\1c&HFF00&\u1}parlarvi{\r}
+Dialogue: 0,0:00:4.88,0:00:5.04,Default,,0,0,0,,{\1c&HFF00&\u1}delle{\r} fotocamere.
+Dialogue: 0,0:00:5.04,0:00:5.08,Default,,0,0,0,,delle fotocamere.
+Dialogue: 0,0:00:5.08,0:00:5.61,Default,,0,0,0,,delle {\1c&HFF00&\u1}fotocamere.{\r}
+Dialogue: 0,0:00:6.10,0:00:6.32,Default,,0,0,0,,{\1c&HFF00&\u1}Sono{\r} fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:6.32,0:00:6.52,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:6.52,0:00:7.06,Default,,0,0,0,,Sono {\1c&HFF00&\u1}fondamentalmente{\r} le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.06,0:00:7.14,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.14,0:00:7.20,Default,,0,0,0,,Sono fondamentalmente {\1c&HFF00&\u1}le{\r} stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.20,0:00:7.24,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.24,0:00:7.54,Default,,0,0,0,,Sono fondamentalmente le {\1c&HFF00&\u1}stesse{\r} a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.54,0:00:7.60,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.60,0:00:7.64,Default,,0,0,0,,Sono fondamentalmente le stesse {\1c&HFF00&\u1}a{\r} livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.64,0:00:7.66,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.66,0:00:7.88,Default,,0,0,0,,Sono fondamentalmente le stesse a {\1c&HFF00&\u1}livello{\r} hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.88,0:00:7.90,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:7.90,0:00:8.30,Default,,0,0,0,,Sono fondamentalmente le stesse a livello {\1c&HFF00&\u1}hardware,{\r} abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:8.30,0:00:8.32,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:8.32,0:00:8.52,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, {\1c&HFF00&\u1}abbiamo{\r} gli stessi sensori dello
+Dialogue: 0,0:00:8.52,0:00:8.56,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:8.56,0:00:8.64,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo {\1c&HFF00&\u1}gli{\r} stessi sensori dello
+Dialogue: 0,0:00:8.64,0:00:8.68,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:8.68,0:00:8.92,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli {\1c&HFF00&\u1}stessi{\r} sensori dello
+Dialogue: 0,0:00:8.92,0:00:8.98,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:8.98,0:00:9.31,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi {\1c&HFF00&\u1}sensori{\r} dello
+Dialogue: 0,0:00:9.31,0:00:9.35,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori dello
+Dialogue: 0,0:00:9.35,0:00:9.51,Default,,0,0,0,,Sono fondamentalmente le stesse a livello hardware, abbiamo gli stessi sensori {\1c&HFF00&\u1}dello{\r}
+Dialogue: 0,0:00:9.60,0:00:9.64,Default,,0,0,0,,{\1c&HFF00&\u1}lo{\r} scorso anno.
+Dialogue: 0,0:00:9.64,0:00:9.66,Default,,0,0,0,,lo scorso anno.
+Dialogue: 0,0:00:9.66,0:00:9.86,Default,,0,0,0,,lo {\1c&HFF00&\u1}scorso{\r} anno.
+Dialogue: 0,0:00:9.86,0:00:9.96,Default,,0,0,0,,lo scorso anno.
+Dialogue: 0,0:00:9.96,0:00:10.11,Default,,0,0,0,,lo scorso {\1c&HFF00&\u1}anno.{\r}

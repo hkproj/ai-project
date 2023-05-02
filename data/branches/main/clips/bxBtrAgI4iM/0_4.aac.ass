@@ -1,0 +1,67 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:0.32,0:00:0.52,Default,,0,0,0,,un {\1c&HFF00&\u1}altro{\r} signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:0.52,0:00:0.58,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:0.58,0:00:1.02,Default,,0,0,0,,un altro {\1c&HFF00&\u1}signore{\r} in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:1.02,0:00:1.10,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:1.10,0:00:1.18,Default,,0,0,0,,un altro signore {\1c&HFF00&\u1}in{\r} rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:1.18,0:00:1.22,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:1.22,0:00:1.93,Default,,0,0,0,,un altro signore in {\1c&HFF00&\u1}rappresentanza{\r} di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:1.93,0:00:1.97,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:1.97,0:00:2.03,Default,,0,0,0,,un altro signore in rappresentanza {\1c&HFF00&\u1}di{\r} un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.03,0:00:2.07,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.07,0:00:2.15,Default,,0,0,0,,un altro signore in rappresentanza di {\1c&HFF00&\u1}un{\r} paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.15,0:00:2.19,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.19,0:00:2.47,Default,,0,0,0,,un altro signore in rappresentanza di un {\1c&HFF00&\u1}paese{\r} che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.47,0:00:2.55,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.55,0:00:2.67,Default,,0,0,0,,un altro signore in rappresentanza di un paese {\1c&HFF00&\u1}che,{\r} a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.67,0:00:2.75,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.75,0:00:2.79,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, {\1c&HFF00&\u1}a{\r} prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.79,0:00:2.83,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:2.83,0:00:3.05,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a {\1c&HFF00&\u1}prima{\r} vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:3.05,0:00:3.09,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:3.09,0:00:3.41,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima {\1c&HFF00&\u1}vista,{\r} non avrebbe niente a che vedere
+Dialogue: 0,0:00:3.41,0:00:3.53,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:3.53,0:00:3.65,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, {\1c&HFF00&\u1}non{\r} avrebbe niente a che vedere
+Dialogue: 0,0:00:3.65,0:00:3.69,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:3.69,0:00:4.03,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non {\1c&HFF00&\u1}avrebbe{\r} niente a che vedere
+Dialogue: 0,0:00:4.03,0:00:4.25,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:4.25,0:00:4.61,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe {\1c&HFF00&\u1}niente{\r} a che vedere
+Dialogue: 0,0:00:4.61,0:00:4.63,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:4.63,0:00:4.67,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente {\1c&HFF00&\u1}a{\r} che vedere
+Dialogue: 0,0:00:4.67,0:00:4.71,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:4.71,0:00:4.83,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a {\1c&HFF00&\u1}che{\r} vedere
+Dialogue: 0,0:00:4.83,0:00:4.87,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che vedere
+Dialogue: 0,0:00:4.87,0:00:5.13,Default,,0,0,0,,un altro signore in rappresentanza di un paese che, a prima vista, non avrebbe niente a che {\1c&HFF00&\u1}vedere{\r}
+Dialogue: 0,0:00:5.38,0:00:5.44,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:5.44,0:00:5.48,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:5.48,0:00:5.70,Default,,0,0,0,,con {\1c&HFF00&\u1}l'Unione{\r} Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:5.70,0:00:5.74,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:5.74,0:00:6.10,Default,,0,0,0,,con l'Unione {\1c&HFF00&\u1}Europea,{\r} né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:6.10,0:00:6.28,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:6.28,0:00:6.34,Default,,0,0,0,,con l'Unione Europea, {\1c&HFF00&\u1}né{\r} tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:6.34,0:00:6.40,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:6.40,0:00:6.62,Default,,0,0,0,,con l'Unione Europea, né {\1c&HFF00&\u1}tanto{\r} meno con l'Europol, la Cina.
+Dialogue: 0,0:00:6.62,0:00:6.66,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:6.66,0:00:6.84,Default,,0,0,0,,con l'Unione Europea, né tanto {\1c&HFF00&\u1}meno{\r} con l'Europol, la Cina.
+Dialogue: 0,0:00:6.84,0:00:6.92,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:6.92,0:00:7.00,Default,,0,0,0,,con l'Unione Europea, né tanto meno {\1c&HFF00&\u1}con{\r} l'Europol, la Cina.
+Dialogue: 0,0:00:7.00,0:00:7.08,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:7.08,0:00:7.69,Default,,0,0,0,,con l'Unione Europea, né tanto meno con {\1c&HFF00&\u1}l'Europol,{\r} la Cina.
+Dialogue: 0,0:00:7.69,0:00:8.17,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:8.17,0:00:8.25,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, {\1c&HFF00&\u1}la{\r} Cina.
+Dialogue: 0,0:00:8.25,0:00:8.33,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la Cina.
+Dialogue: 0,0:00:8.33,0:00:8.55,Default,,0,0,0,,con l'Unione Europea, né tanto meno con l'Europol, la {\1c&HFF00&\u1}Cina.{\r}

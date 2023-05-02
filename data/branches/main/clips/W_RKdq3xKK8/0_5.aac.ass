@@ -1,0 +1,163 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.34,Default,,0,0,0,,{\1c&HFF00&\u1}Quando{\r} lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:0.34,0:00:0.40,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:0.40,0:00:0.46,Default,,0,0,0,,Quando {\1c&HFF00&\u1}lo{\r} stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:0.46,0:00:0.50,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:0.50,0:00:1.14,Default,,0,0,0,,Quando lo {\1c&HFF00&\u1}stressate,{\r} lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:1.14,0:00:1.28,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:1.28,0:00:1.46,Default,,0,0,0,,Quando lo stressate, {\1c&HFF00&\u1}lui{\r} consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:1.46,0:00:1.50,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:1.50,0:00:1.99,Default,,0,0,0,,Quando lo stressate, lui {\1c&HFF00&\u1}consuma{\r} tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:1.99,0:00:2.15,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:2.15,0:00:2.43,Default,,0,0,0,,Quando lo stressate, lui consuma {\1c&HFF00&\u1}tanto{\r} quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:2.43,0:00:2.49,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:2.49,0:00:2.83,Default,,0,0,0,,Quando lo stressate, lui consuma tanto {\1c&HFF00&\u1}quanto{\r} il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:2.83,0:00:2.87,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:2.87,0:00:2.93,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto {\1c&HFF00&\u1}il{\r} vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:2.93,0:00:2.97,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:2.97,0:00:3.19,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il {\1c&HFF00&\u1}vecchio{\r} modello, forse anche di più, e
+Dialogue: 0,0:00:3.19,0:00:3.25,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:3.25,0:00:3.63,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio {\1c&HFF00&\u1}modello,{\r} forse anche di più, e
+Dialogue: 0,0:00:3.63,0:00:3.73,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:3.73,0:00:4.01,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, {\1c&HFF00&\u1}forse{\r} anche di più, e
+Dialogue: 0,0:00:4.01,0:00:4.27,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:4.27,0:00:4.51,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse {\1c&HFF00&\u1}anche{\r} di più, e
+Dialogue: 0,0:00:4.51,0:00:4.57,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:4.57,0:00:4.63,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche {\1c&HFF00&\u1}di{\r} più, e
+Dialogue: 0,0:00:4.63,0:00:4.69,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:4.69,0:00:4.87,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di {\1c&HFF00&\u1}più,{\r} e
+Dialogue: 0,0:00:4.87,0:00:5.39,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, e
+Dialogue: 0,0:00:5.39,0:00:5.41,Default,,0,0,0,,Quando lo stressate, lui consuma tanto quanto il vecchio modello, forse anche di più, {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:5.62,0:00:5.72,Default,,0,0,0,,{\1c&HFF00&\u1}ho{\r} utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:5.72,0:00:5.78,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:5.78,0:00:6.46,Default,,0,0,0,,ho {\1c&HFF00&\u1}utilizzato{\r} S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:6.46,0:00:6.76,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:6.76,0:00:6.86,Default,,0,0,0,,ho utilizzato {\1c&HFF00&\u1}S22{\r} insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:6.86,0:00:7.06,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:7.06,0:00:7.57,Default,,0,0,0,,ho utilizzato S22 {\1c&HFF00&\u1}insieme{\r} a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:7.57,0:00:7.73,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:7.73,0:00:7.75,Default,,0,0,0,,ho utilizzato S22 insieme {\1c&HFF00&\u1}a{\r} lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:7.75,0:00:7.81,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:7.81,0:00:8.01,Default,,0,0,0,,ho utilizzato S22 insieme a {\1c&HFF00&\u1}lui{\r} durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.01,0:00:8.05,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.05,0:00:8.29,Default,,0,0,0,,ho utilizzato S22 insieme a lui {\1c&HFF00&\u1}durante{\r} una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.29,0:00:8.33,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.33,0:00:8.43,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante {\1c&HFF00&\u1}una{\r} giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.43,0:00:8.47,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.47,0:00:8.73,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una {\1c&HFF00&\u1}giornata{\r} in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.73,0:00:8.77,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.77,0:00:8.83,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata {\1c&HFF00&\u1}in{\r} cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.83,0:00:8.85,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.85,0:00:8.95,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in {\1c&HFF00&\u1}cui{\r} li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.95,0:00:8.97,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:8.97,0:00:9.03,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui {\1c&HFF00&\u1}li{\r} ho messi sotto stress facendo
+Dialogue: 0,0:00:9.03,0:00:9.05,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:9.05,0:00:9.13,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li {\1c&HFF00&\u1}ho{\r} messi sotto stress facendo
+Dialogue: 0,0:00:9.13,0:00:9.15,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:9.15,0:00:9.39,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho {\1c&HFF00&\u1}messi{\r} sotto stress facendo
+Dialogue: 0,0:00:9.39,0:00:9.43,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:9.43,0:00:9.65,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi {\1c&HFF00&\u1}sotto{\r} stress facendo
+Dialogue: 0,0:00:9.65,0:00:9.71,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:9.71,0:00:10.05,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto {\1c&HFF00&\u1}stress{\r} facendo
+Dialogue: 0,0:00:10.05,0:00:10.07,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress facendo
+Dialogue: 0,0:00:10.07,0:00:10.39,Default,,0,0,0,,ho utilizzato S22 insieme a lui durante una giornata in cui li ho messi sotto stress {\1c&HFF00&\u1}facendo{\r}
+Dialogue: 0,0:00:10.90,0:00:11.46,Default,,0,0,0,,{\1c&HFF00&\u1}benchmark{\r} a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:11.46,0:00:11.56,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:11.56,0:00:11.60,Default,,0,0,0,,benchmark {\1c&HFF00&\u1}a{\r} raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:11.60,0:00:11.62,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:11.62,0:00:12.12,Default,,0,0,0,,benchmark a {\1c&HFF00&\u1}raffica,{\r} gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:12.12,0:00:12.20,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:12.20,0:00:12.67,Default,,0,0,0,,benchmark a raffica, {\1c&HFF00&\u1}gaming,{\r} eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:12.67,0:00:12.71,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:12.71,0:00:13.01,Default,,0,0,0,,benchmark a raffica, gaming, {\1c&HFF00&\u1}eccetera{\r} eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:13.01,0:00:13.03,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:13.03,0:00:13.41,Default,,0,0,0,,benchmark a raffica, gaming, eccetera {\1c&HFF00&\u1}eccetera,{\r} beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:13.41,0:00:13.83,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:13.83,0:00:13.93,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, {\1c&HFF00&\u1}beh{\r} alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:13.93,0:00:14.03,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:14.03,0:00:14.19,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh {\1c&HFF00&\u1}alla{\r} fine sono arrivati morti, tutte
+Dialogue: 0,0:00:14.19,0:00:14.23,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:14.23,0:00:14.43,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla {\1c&HFF00&\u1}fine{\r} sono arrivati morti, tutte
+Dialogue: 0,0:00:14.43,0:00:14.49,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:14.49,0:00:14.59,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine {\1c&HFF00&\u1}sono{\r} arrivati morti, tutte
+Dialogue: 0,0:00:14.59,0:00:14.61,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:14.61,0:00:14.91,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono {\1c&HFF00&\u1}arrivati{\r} morti, tutte
+Dialogue: 0,0:00:14.91,0:00:14.99,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:14.99,0:00:15.29,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati {\1c&HFF00&\u1}morti,{\r} tutte
+Dialogue: 0,0:00:15.29,0:00:15.31,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, tutte
+Dialogue: 0,0:00:15.31,0:00:15.43,Default,,0,0,0,,benchmark a raffica, gaming, eccetera eccetera, beh alla fine sono arrivati morti, {\1c&HFF00&\u1}tutte{\r}
+Dialogue: 0,0:00:15.54,0:00:15.56,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} due verso metà giornata.
+Dialogue: 0,0:00:15.56,0:00:15.58,Default,,0,0,0,,e due verso metà giornata.
+Dialogue: 0,0:00:15.58,0:00:15.64,Default,,0,0,0,,e {\1c&HFF00&\u1}due{\r} verso metà giornata.
+Dialogue: 0,0:00:15.64,0:00:15.66,Default,,0,0,0,,e due verso metà giornata.
+Dialogue: 0,0:00:15.66,0:00:15.76,Default,,0,0,0,,e due {\1c&HFF00&\u1}verso{\r} metà giornata.
+Dialogue: 0,0:00:15.76,0:00:15.78,Default,,0,0,0,,e due verso metà giornata.
+Dialogue: 0,0:00:15.78,0:00:15.86,Default,,0,0,0,,e due verso {\1c&HFF00&\u1}metà{\r} giornata.
+Dialogue: 0,0:00:15.86,0:00:15.88,Default,,0,0,0,,e due verso metà giornata.
+Dialogue: 0,0:00:15.88,0:00:16.04,Default,,0,0,0,,e due verso metà {\1c&HFF00&\u1}giornata.{\r}
+Dialogue: 0,0:00:17.74,0:00:17.80,Default,,0,0,0,,{\1c&HFF00&\u1}La{\r} vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:17.80,0:00:17.84,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:17.84,0:00:18.00,Default,,0,0,0,,La {\1c&HFF00&\u1}vera{\r} differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.00,0:00:18.04,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.04,0:00:18.58,Default,,0,0,0,,La vera {\1c&HFF00&\u1}differenza{\r} che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.58,0:00:18.64,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.64,0:00:18.72,Default,,0,0,0,,La vera differenza {\1c&HFF00&\u1}che{\r} fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.72,0:00:18.78,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.78,0:00:18.88,Default,,0,0,0,,La vera differenza che {\1c&HFF00&\u1}fa{\r} questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.88,0:00:18.94,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:18.94,0:00:19.18,Default,,0,0,0,,La vera differenza che fa {\1c&HFF00&\u1}questo{\r} smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:19.18,0:00:19.22,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:19.22,0:00:19.69,Default,,0,0,0,,La vera differenza che fa questo {\1c&HFF00&\u1}smartphone{\r} però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:19.69,0:00:19.73,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:19.73,0:00:19.91,Default,,0,0,0,,La vera differenza che fa questo smartphone {\1c&HFF00&\u1}però{\r} è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:19.91,0:00:20.33,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:20.33,0:00:20.39,Default,,0,0,0,,La vera differenza che fa questo smartphone però {\1c&HFF00&\u1}è{\r} nell'uso parsimonioso della energia
+Dialogue: 0,0:00:20.39,0:00:20.53,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:20.53,0:00:21.05,Default,,0,0,0,,La vera differenza che fa questo smartphone però è {\1c&HFF00&\u1}nell'uso{\r} parsimonioso della energia
+Dialogue: 0,0:00:21.05,0:00:21.17,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:21.17,0:00:22.11,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso {\1c&HFF00&\u1}parsimonioso{\r} della energia
+Dialogue: 0,0:00:22.11,0:00:22.31,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:22.31,0:00:22.65,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso {\1c&HFF00&\u1}della{\r} energia
+Dialogue: 0,0:00:22.65,0:00:22.85,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della energia
+Dialogue: 0,0:00:22.85,0:00:23.37,Default,,0,0,0,,La vera differenza che fa questo smartphone però è nell'uso parsimonioso della {\1c&HFF00&\u1}energia{\r}
+Dialogue: 0,0:00:23.96,0:00:24.18,Default,,0,0,0,,{\1c&HFF00&\u1}quando{\r} non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.18,0:00:24.22,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.22,0:00:24.32,Default,,0,0,0,,quando {\1c&HFF00&\u1}non{\r} lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.32,0:00:24.34,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.34,0:00:24.40,Default,,0,0,0,,quando non {\1c&HFF00&\u1}lo{\r} mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.40,0:00:24.44,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.44,0:00:24.74,Default,,0,0,0,,quando non lo {\1c&HFF00&\u1}mettete{\r} sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.74,0:00:24.81,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:24.81,0:00:25.03,Default,,0,0,0,,quando non lo mettete {\1c&HFF00&\u1}sotto{\r} stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:25.03,0:00:25.07,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:25.07,0:00:25.45,Default,,0,0,0,,quando non lo mettete sotto {\1c&HFF00&\u1}stress,{\r} e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:25.45,0:00:25.57,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:25.57,0:00:25.61,Default,,0,0,0,,quando non lo mettete sotto stress, {\1c&HFF00&\u1}e{\r} qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:25.61,0:00:25.77,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:25.77,0:00:25.93,Default,,0,0,0,,quando non lo mettete sotto stress, e {\1c&HFF00&\u1}qui{\r} c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:25.93,0:00:26.17,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:26.17,0:00:26.29,Default,,0,0,0,,quando non lo mettete sotto stress, e qui {\1c&HFF00&\u1}c'è{\r} veramente il punto di svolta perché
+Dialogue: 0,0:00:26.29,0:00:26.33,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:26.33,0:00:26.71,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è {\1c&HFF00&\u1}veramente{\r} il punto di svolta perché
+Dialogue: 0,0:00:26.71,0:00:26.75,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:26.75,0:00:26.81,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente {\1c&HFF00&\u1}il{\r} punto di svolta perché
+Dialogue: 0,0:00:26.81,0:00:26.86,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:26.86,0:00:27.04,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il {\1c&HFF00&\u1}punto{\r} di svolta perché
+Dialogue: 0,0:00:27.04,0:00:27.08,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:27.08,0:00:27.16,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto {\1c&HFF00&\u1}di{\r} svolta perché
+Dialogue: 0,0:00:27.16,0:00:27.20,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:27.20,0:00:27.56,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di {\1c&HFF00&\u1}svolta{\r} perché
+Dialogue: 0,0:00:27.56,0:00:27.62,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta perché
+Dialogue: 0,0:00:27.62,0:00:27.80,Default,,0,0,0,,quando non lo mettete sotto stress, e qui c'è veramente il punto di svolta {\1c&HFF00&\u1}perché{\r}

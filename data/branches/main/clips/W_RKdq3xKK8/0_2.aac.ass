@@ -1,0 +1,80 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.26,0:00:0.34,Default,,0,0,0,,{\1c&HFF00&\u1}Ma{\r} arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:0.34,0:00:0.50,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:0.50,0:00:1.00,Default,,0,0,0,,Ma {\1c&HFF00&\u1}arriviamo{\r} all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:1.00,0:00:1.20,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:1.20,0:00:1.68,Default,,0,0,0,,Ma arriviamo {\1c&HFF00&\u1}all'altro{\r} asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:1.68,0:00:1.84,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:1.84,0:00:2.10,Default,,0,0,0,,Ma arriviamo all'altro {\1c&HFF00&\u1}asso{\r} nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:2.10,0:00:2.16,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:2.16,0:00:2.36,Default,,0,0,0,,Ma arriviamo all'altro asso {\1c&HFF00&\u1}nella{\r} manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:2.36,0:00:2.40,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:2.40,0:00:2.84,Default,,0,0,0,,Ma arriviamo all'altro asso nella {\1c&HFF00&\u1}manica,{\r} non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:2.84,0:00:3.15,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.15,0:00:3.29,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, {\1c&HFF00&\u1}non{\r} me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.29,0:00:3.35,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.35,0:00:3.41,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non {\1c&HFF00&\u1}me{\r} ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.41,0:00:3.45,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.45,0:00:3.53,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me {\1c&HFF00&\u1}ne{\r} voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.53,0:00:3.57,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.57,0:00:3.89,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne {\1c&HFF00&\u1}voglia{\r} Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.89,0:00:3.97,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:3.97,0:00:4.59,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia {\1c&HFF00&\u1}Samsung,{\r} ma c'è lo Snapdragon
+Dialogue: 0,0:00:4.59,0:00:4.83,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:4.83,0:00:4.89,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, {\1c&HFF00&\u1}ma{\r} c'è lo Snapdragon
+Dialogue: 0,0:00:4.89,0:00:4.95,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:4.95,0:00:5.03,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma {\1c&HFF00&\u1}c'è{\r} lo Snapdragon
+Dialogue: 0,0:00:5.03,0:00:5.05,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:5.05,0:00:5.11,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è {\1c&HFF00&\u1}lo{\r} Snapdragon
+Dialogue: 0,0:00:5.11,0:00:5.13,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo Snapdragon
+Dialogue: 0,0:00:5.13,0:00:5.79,Default,,0,0,0,,Ma arriviamo all'altro asso nella manica, non me ne voglia Samsung, ma c'è lo {\1c&HFF00&\u1}Snapdragon{\r}
+Dialogue: 0,0:00:10.22,0:00:10.76,Default,,0,0,0,,{\1c&HFF00&\u1}8 Gen 2{\r} che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:10.76,0:00:10.84,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:10.84,0:00:10.94,Default,,0,0,0,,8 Gen 2 {\1c&HFF00&\u1}che{\r} tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:10.94,0:00:11.00,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.00,0:00:11.10,Default,,0,0,0,,8 Gen 2 che {\1c&HFF00&\u1}tra{\r} l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.10,0:00:11.16,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.16,0:00:11.44,Default,,0,0,0,,8 Gen 2 che tra {\1c&HFF00&\u1}l'altro{\r} è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.44,0:00:11.50,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.50,0:00:11.54,Default,,0,0,0,,8 Gen 2 che tra l'altro {\1c&HFF00&\u1}è{\r} uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.54,0:00:11.64,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.64,0:00:11.88,Default,,0,0,0,,8 Gen 2 che tra l'altro è {\1c&HFF00&\u1}uno{\r} di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.88,0:00:11.92,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:11.92,0:00:12.01,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno {\1c&HFF00&\u1}di{\r} quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:12.01,0:00:12.03,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:12.03,0:00:12.19,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di {\1c&HFF00&\u1}quei{\r} processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:12.19,0:00:12.23,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:12.23,0:00:12.87,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei {\1c&HFF00&\u1}processori{\r} che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:12.87,0:00:13.29,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:13.29,0:00:13.39,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori {\1c&HFF00&\u1}che{\r} qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:13.39,0:00:13.43,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:13.43,0:00:13.83,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che {\1c&HFF00&\u1}qualcuno{\r} fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:13.83,0:00:13.93,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:13.93,0:00:14.07,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno {\1c&HFF00&\u1}fa{\r} ogni tanto e che gli vengono
+Dialogue: 0,0:00:14.07,0:00:14.35,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:14.35,0:00:14.51,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa {\1c&HFF00&\u1}ogni{\r} tanto e che gli vengono
+Dialogue: 0,0:00:14.51,0:00:14.57,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:14.57,0:00:14.93,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni {\1c&HFF00&\u1}tanto{\r} e che gli vengono
+Dialogue: 0,0:00:14.93,0:00:15.15,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:15.15,0:00:15.19,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto {\1c&HFF00&\u1}e{\r} che gli vengono
+Dialogue: 0,0:00:15.19,0:00:15.21,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:15.21,0:00:15.31,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e {\1c&HFF00&\u1}che{\r} gli vengono
+Dialogue: 0,0:00:15.31,0:00:15.33,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:15.33,0:00:15.43,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che {\1c&HFF00&\u1}gli{\r} vengono
+Dialogue: 0,0:00:15.43,0:00:15.47,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli vengono
+Dialogue: 0,0:00:15.47,0:00:15.77,Default,,0,0,0,,8 Gen 2 che tra l'altro è uno di quei processori che qualcuno fa ogni tanto e che gli {\1c&HFF00&\u1}vengono{\r}
+Dialogue: 0,0:00:15.94,0:00:16.11,Default,,0,0,0,,{\1c&HFF00&\u1}proprio{\r} bene.
+Dialogue: 0,0:00:16.11,0:00:16.17,Default,,0,0,0,,proprio bene.
+Dialogue: 0,0:00:16.17,0:00:16.39,Default,,0,0,0,,proprio {\1c&HFF00&\u1}bene.{\r}

@@ -1,0 +1,123 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.56,Default,,0,0,0,,{\1c&HFF00&\u1}Le{\r} ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:0.56,0:00:0.62,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:0.62,0:00:0.68,Default,,0,0,0,,Le {\1c&HFF00&\u1}ho{\r} detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:0.68,0:00:0.72,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:0.72,0:00:0.86,Default,,0,0,0,,Le ho {\1c&HFF00&\u1}detto,{\r} guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:0.86,0:00:0.90,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:0.90,0:00:1.50,Default,,0,0,0,,Le ho detto, {\1c&HFF00&\u1}guarda,{\r} forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.50,0:00:1.52,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.52,0:00:1.68,Default,,0,0,0,,Le ho detto, guarda, {\1c&HFF00&\u1}forse{\r} è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.68,0:00:1.70,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.70,0:00:1.72,Default,,0,0,0,,Le ho detto, guarda, forse {\1c&HFF00&\u1}è{\r} un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.72,0:00:1.74,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.74,0:00:1.81,Default,,0,0,0,,Le ho detto, guarda, forse è {\1c&HFF00&\u1}un{\r} po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.81,0:00:1.85,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.85,0:00:1.93,Default,,0,0,0,,Le ho detto, guarda, forse è un {\1c&HFF00&\u1}po'{\r} complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.93,0:00:1.97,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:1.97,0:00:2.41,Default,,0,0,0,,Le ho detto, guarda, forse è un po' {\1c&HFF00&\u1}complicato{\r} spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:2.41,0:00:2.47,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:2.47,0:00:3.01,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato {\1c&HFF00&\u1}spiegarlo{\r} così per iscritto, ti faccio un
+Dialogue: 0,0:00:3.01,0:00:3.09,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:3.09,0:00:3.25,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo {\1c&HFF00&\u1}così{\r} per iscritto, ti faccio un
+Dialogue: 0,0:00:3.25,0:00:3.47,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:3.47,0:00:3.57,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così {\1c&HFF00&\u1}per{\r} iscritto, ti faccio un
+Dialogue: 0,0:00:3.57,0:00:3.61,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:3.61,0:00:4.05,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per {\1c&HFF00&\u1}iscritto,{\r} ti faccio un
+Dialogue: 0,0:00:4.05,0:00:4.57,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:4.57,0:00:4.63,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, {\1c&HFF00&\u1}ti{\r} faccio un
+Dialogue: 0,0:00:4.63,0:00:4.65,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:4.65,0:00:4.85,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti {\1c&HFF00&\u1}faccio{\r} un
+Dialogue: 0,0:00:4.85,0:00:4.87,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio un
+Dialogue: 0,0:00:4.87,0:00:4.93,Default,,0,0,0,,Le ho detto, guarda, forse è un po' complicato spiegarlo così per iscritto, ti faccio {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:5.20,0:00:5.80,Default,,0,0,0,,{\1c&HFF00&\u1}video,{\r} ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:5.80,0:00:5.82,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:5.82,0:00:5.92,Default,,0,0,0,,video, {\1c&HFF00&\u1}ti{\r} faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:5.92,0:00:5.96,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:5.96,0:00:6.20,Default,,0,0,0,,video, ti {\1c&HFF00&\u1}faccio{\r} un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.20,0:00:6.24,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.24,0:00:6.30,Default,,0,0,0,,video, ti faccio {\1c&HFF00&\u1}un{\r} video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.30,0:00:6.34,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.34,0:00:6.56,Default,,0,0,0,,video, ti faccio un {\1c&HFF00&\u1}video,{\r} ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.56,0:00:6.60,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.60,0:00:6.66,Default,,0,0,0,,video, ti faccio un video, {\1c&HFF00&\u1}ti{\r} rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.66,0:00:6.69,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.69,0:00:6.99,Default,,0,0,0,,video, ti faccio un video, ti {\1c&HFF00&\u1}rispondo{\r} in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:6.99,0:00:7.03,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.03,0:00:7.09,Default,,0,0,0,,video, ti faccio un video, ti rispondo {\1c&HFF00&\u1}in{\r} un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.09,0:00:7.11,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.11,0:00:7.19,Default,,0,0,0,,video, ti faccio un video, ti rispondo in {\1c&HFF00&\u1}un{\r} video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.19,0:00:7.21,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.21,0:00:7.45,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un {\1c&HFF00&\u1}video,{\r} poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.45,0:00:7.85,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.85,0:00:7.95,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, {\1c&HFF00&\u1}poi{\r} il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.95,0:00:7.97,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:7.97,0:00:8.01,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi {\1c&HFF00&\u1}il{\r} video lo pubblico su YouTube
+Dialogue: 0,0:00:8.01,0:00:8.05,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:8.05,0:00:8.19,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il {\1c&HFF00&\u1}video{\r} lo pubblico su YouTube
+Dialogue: 0,0:00:8.19,0:00:8.25,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:8.25,0:00:8.29,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video {\1c&HFF00&\u1}lo{\r} pubblico su YouTube
+Dialogue: 0,0:00:8.29,0:00:8.33,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:8.33,0:00:8.57,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo {\1c&HFF00&\u1}pubblico{\r} su YouTube
+Dialogue: 0,0:00:8.57,0:00:8.63,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:8.63,0:00:8.69,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico {\1c&HFF00&\u1}su{\r} YouTube
+Dialogue: 0,0:00:8.69,0:00:8.73,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su YouTube
+Dialogue: 0,0:00:8.73,0:00:9.11,Default,,0,0,0,,video, ti faccio un video, ti rispondo in un video, poi il video lo pubblico su {\1c&HFF00&\u1}YouTube{\r}
+Dialogue: 0,0:00:9.26,0:00:9.52,Default,,0,0,0,,{\1c&HFF00&\u1}così{\r} oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:9.52,0:00:9.54,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:9.54,0:00:9.68,Default,,0,0,0,,così {\1c&HFF00&\u1}oltre{\r} ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:9.68,0:00:9.92,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:9.92,0:00:10.00,Default,,0,0,0,,così oltre {\1c&HFF00&\u1}ad{\r} usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:10.00,0:00:10.02,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:10.02,0:00:10.50,Default,,0,0,0,,così oltre ad {\1c&HFF00&\u1}usufruirne{\r} tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:10.50,0:00:10.56,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:10.56,0:00:10.70,Default,,0,0,0,,così oltre ad usufruirne {\1c&HFF00&\u1}tu,{\r} ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:10.70,0:00:11.29,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:11.29,0:00:11.37,Default,,0,0,0,,così oltre ad usufruirne tu, {\1c&HFF00&\u1}ne{\r} usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:11.37,0:00:11.41,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:11.41,0:00:11.97,Default,,0,0,0,,così oltre ad usufruirne tu, ne {\1c&HFF00&\u1}usufruisce{\r} chiunque sia interessato alla questione.
+Dialogue: 0,0:00:11.97,0:00:12.73,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:12.73,0:00:13.13,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce {\1c&HFF00&\u1}chiunque{\r} sia interessato alla questione.
+Dialogue: 0,0:00:13.13,0:00:13.19,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:13.19,0:00:13.29,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque {\1c&HFF00&\u1}sia{\r} interessato alla questione.
+Dialogue: 0,0:00:13.29,0:00:13.33,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:13.33,0:00:13.75,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia {\1c&HFF00&\u1}interessato{\r} alla questione.
+Dialogue: 0,0:00:13.75,0:00:13.77,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:13.77,0:00:13.87,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato {\1c&HFF00&\u1}alla{\r} questione.
+Dialogue: 0,0:00:13.87,0:00:13.91,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla questione.
+Dialogue: 0,0:00:13.91,0:00:14.19,Default,,0,0,0,,così oltre ad usufruirne tu, ne usufruisce chiunque sia interessato alla {\1c&HFF00&\u1}questione.{\r}
+Dialogue: 0,0:00:14.60,0:00:14.68,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:14.68,0:00:14.70,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:14.70,0:00:14.90,Default,,0,0,0,,come {\1c&HFF00&\u1}affrontare{\r} l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:14.90,0:00:14.92,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:14.92,0:00:15.04,Default,,0,0,0,,come affrontare {\1c&HFF00&\u1}l'ansia{\r} di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.04,0:00:15.06,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.06,0:00:15.10,Default,,0,0,0,,come affrontare l'ansia {\1c&HFF00&\u1}di{\r} parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.10,0:00:15.12,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.12,0:00:15.26,Default,,0,0,0,,come affrontare l'ansia di {\1c&HFF00&\u1}parlare{\r} in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.26,0:00:15.28,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.28,0:00:15.32,Default,,0,0,0,,come affrontare l'ansia di parlare {\1c&HFF00&\u1}in{\r} pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.32,0:00:15.34,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.34,0:00:15.50,Default,,0,0,0,,come affrontare l'ansia di parlare in {\1c&HFF00&\u1}pubblico,{\r} non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.50,0:00:15.52,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.52,0:00:15.60,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, {\1c&HFF00&\u1}non{\r} necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.60,0:00:15.62,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:15.62,0:00:16.57,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non {\1c&HFF00&\u1}necessariamente{\r} per uno spettacolo.
+Dialogue: 0,0:00:16.57,0:00:16.59,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:16.59,0:00:16.65,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente {\1c&HFF00&\u1}per{\r} uno spettacolo.
+Dialogue: 0,0:00:16.65,0:00:16.67,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:16.67,0:00:16.73,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per {\1c&HFF00&\u1}uno{\r} spettacolo.
+Dialogue: 0,0:00:16.73,0:00:16.75,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno spettacolo.
+Dialogue: 0,0:00:16.75,0:00:17.11,Default,,0,0,0,,come affrontare l'ansia di parlare in pubblico, non necessariamente per uno {\1c&HFF00&\u1}spettacolo.{\r}

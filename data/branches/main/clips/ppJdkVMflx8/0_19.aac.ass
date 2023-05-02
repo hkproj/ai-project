@@ -1,0 +1,350 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.36,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}faccio{\r} la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:0.54,0:00:0.60,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:0.60,0:00:0.64,Default,,0,0,0,,faccio {\1c&HFF00&\u1}la{\r} maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:0.64,0:00:0.68,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:0.68,0:00:1.08,Default,,0,0,0,,faccio la {\1c&HFF00&\u1}maturità,{\r} finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:1.08,0:00:1.48,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:1.48,0:00:1.79,Default,,0,0,0,,faccio la maturità, {\1c&HFF00&\u1}finisco{\r} la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:1.79,0:00:1.83,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:1.83,0:00:1.87,Default,,0,0,0,,faccio la maturità, finisco {\1c&HFF00&\u1}la{\r} maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:1.87,0:00:1.89,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:1.89,0:00:2.31,Default,,0,0,0,,faccio la maturità, finisco la {\1c&HFF00&\u1}maturità,{\r} dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:2.31,0:00:2.57,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:2.57,0:00:2.71,Default,,0,0,0,,faccio la maturità, finisco la maturità, {\1c&HFF00&\u1}dagli{\r} a settembre non avrei fatto niente
+Dialogue: 0,0:00:2.71,0:00:2.75,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:2.75,0:00:2.79,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli {\1c&HFF00&\u1}a{\r} settembre non avrei fatto niente
+Dialogue: 0,0:00:2.79,0:00:2.83,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:2.83,0:00:3.17,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a {\1c&HFF00&\u1}settembre{\r} non avrei fatto niente
+Dialogue: 0,0:00:3.17,0:00:3.23,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:3.23,0:00:3.33,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre {\1c&HFF00&\u1}non{\r} avrei fatto niente
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:3.37,0:00:3.53,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non {\1c&HFF00&\u1}avrei{\r} fatto niente
+Dialogue: 0,0:00:3.53,0:00:3.57,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:3.57,0:00:3.83,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei {\1c&HFF00&\u1}fatto{\r} niente
+Dialogue: 0,0:00:3.83,0:00:4.11,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto niente
+Dialogue: 0,0:00:4.11,0:00:4.47,Default,,0,0,0,,faccio la maturità, finisco la maturità, dagli a settembre non avrei fatto {\1c&HFF00&\u1}niente{\r}
+Dialogue: 0,0:00:4.66,0:00:4.84,Default,,0,0,0,,{\1c&HFF00&\u1}allora{\r} mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:4.84,0:00:4.88,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:4.88,0:00:4.94,Default,,0,0,0,,allora {\1c&HFF00&\u1}mi{\r} sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:4.94,0:00:4.96,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:4.96,0:00:5.06,Default,,0,0,0,,allora mi {\1c&HFF00&\u1}sono{\r} detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.06,0:00:5.08,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.08,0:00:5.34,Default,,0,0,0,,allora mi sono {\1c&HFF00&\u1}detto{\r} facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.34,0:00:5.36,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.36,0:00:5.66,Default,,0,0,0,,allora mi sono detto {\1c&HFF00&\u1}facciamo{\r} un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.66,0:00:5.68,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.68,0:00:5.74,Default,,0,0,0,,allora mi sono detto facciamo {\1c&HFF00&\u1}un{\r} video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.74,0:00:5.76,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.76,0:00:5.87,Default,,0,0,0,,allora mi sono detto facciamo un {\1c&HFF00&\u1}video{\r} al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.87,0:00:5.89,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.89,0:00:5.99,Default,,0,0,0,,allora mi sono detto facciamo un video {\1c&HFF00&\u1}al{\r} giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:5.99,0:00:6.01,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:6.01,0:00:6.29,Default,,0,0,0,,allora mi sono detto facciamo un video al {\1c&HFF00&\u1}giorno,{\r} inizio a fare un sacco di video video video
+Dialogue: 0,0:00:6.29,0:00:6.33,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:6.33,0:00:6.53,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, {\1c&HFF00&\u1}inizio{\r} a fare un sacco di video video video
+Dialogue: 0,0:00:6.53,0:00:6.55,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:6.55,0:00:6.57,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio {\1c&HFF00&\u1}a{\r} fare un sacco di video video video
+Dialogue: 0,0:00:6.57,0:00:6.59,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:6.59,0:00:6.71,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a {\1c&HFF00&\u1}fare{\r} un sacco di video video video
+Dialogue: 0,0:00:6.71,0:00:6.73,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:6.73,0:00:6.79,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare {\1c&HFF00&\u1}un{\r} sacco di video video video
+Dialogue: 0,0:00:6.79,0:00:6.83,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:6.83,0:00:6.99,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un {\1c&HFF00&\u1}sacco{\r} di video video video
+Dialogue: 0,0:00:6.99,0:00:7.03,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:7.03,0:00:7.07,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco {\1c&HFF00&\u1}di{\r} video video video
+Dialogue: 0,0:00:7.07,0:00:7.09,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:7.09,0:00:7.27,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di {\1c&HFF00&\u1}video{\r} video video
+Dialogue: 0,0:00:7.27,0:00:7.31,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:7.31,0:00:7.51,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video {\1c&HFF00&\u1}video{\r} video
+Dialogue: 0,0:00:7.51,0:00:7.53,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video video
+Dialogue: 0,0:00:7.53,0:00:7.69,Default,,0,0,0,,allora mi sono detto facciamo un video al giorno, inizio a fare un sacco di video video {\1c&HFF00&\u1}video{\r}
+Dialogue: 0,0:00:8.28,0:00:8.36,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.36,0:00:8.40,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.40,0:00:8.46,Default,,0,0,0,,e {\1c&HFF00&\u1}il{\r} mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.46,0:00:8.48,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.48,0:00:8.56,Default,,0,0,0,,e il {\1c&HFF00&\u1}mio{\r} canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.56,0:00:8.58,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.58,0:00:8.78,Default,,0,0,0,,e il mio {\1c&HFF00&\u1}canale{\r} youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.78,0:00:8.86,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:8.86,0:00:9.24,Default,,0,0,0,,e il mio canale {\1c&HFF00&\u1}youtube{\r} da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:9.24,0:00:9.30,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:9.30,0:00:9.44,Default,,0,0,0,,e il mio canale youtube {\1c&HFF00&\u1}da{\r} canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:9.44,0:00:9.74,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:9.74,0:00:10.13,Default,,0,0,0,,e il mio canale youtube da {\1c&HFF00&\u1}canale{\r} grande ma comunque con numeri modesti
+Dialogue: 0,0:00:10.13,0:00:10.55,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:10.55,0:00:10.95,Default,,0,0,0,,e il mio canale youtube da canale {\1c&HFF00&\u1}grande{\r} ma comunque con numeri modesti
+Dialogue: 0,0:00:10.95,0:00:11.01,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:11.01,0:00:11.09,Default,,0,0,0,,e il mio canale youtube da canale grande {\1c&HFF00&\u1}ma{\r} comunque con numeri modesti
+Dialogue: 0,0:00:11.09,0:00:11.23,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:11.23,0:00:11.57,Default,,0,0,0,,e il mio canale youtube da canale grande ma {\1c&HFF00&\u1}comunque{\r} con numeri modesti
+Dialogue: 0,0:00:11.57,0:00:11.79,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:11.79,0:00:11.91,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque {\1c&HFF00&\u1}con{\r} numeri modesti
+Dialogue: 0,0:00:11.91,0:00:11.97,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:11.97,0:00:12.21,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con {\1c&HFF00&\u1}numeri{\r} modesti
+Dialogue: 0,0:00:12.21,0:00:12.27,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri modesti
+Dialogue: 0,0:00:12.27,0:00:12.67,Default,,0,0,0,,e il mio canale youtube da canale grande ma comunque con numeri {\1c&HFF00&\u1}modesti{\r}
+Dialogue: 0,0:00:12.70,0:00:12.82,Default,,0,0,0,,{\1c&HFF00&\u1}inizia{\r} a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:12.82,0:00:12.84,Default,,0,0,0,,inizia a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:12.84,0:00:12.86,Default,,0,0,0,,inizia {\1c&HFF00&\u1}a{\r} crescere sempre sempre sempre di più
+Dialogue: 0,0:00:12.86,0:00:12.88,Default,,0,0,0,,inizia a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:12.88,0:00:13.04,Default,,0,0,0,,inizia a {\1c&HFF00&\u1}crescere{\r} sempre sempre sempre di più
+Dialogue: 0,0:00:13.04,0:00:13.06,Default,,0,0,0,,inizia a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:13.06,0:00:13.18,Default,,0,0,0,,inizia a crescere {\1c&HFF00&\u1}sempre{\r} sempre sempre di più
+Dialogue: 0,0:00:13.18,0:00:13.20,Default,,0,0,0,,inizia a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:13.20,0:00:13.32,Default,,0,0,0,,inizia a crescere sempre {\1c&HFF00&\u1}sempre{\r} sempre di più
+Dialogue: 0,0:00:13.32,0:00:13.34,Default,,0,0,0,,inizia a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:13.34,0:00:13.46,Default,,0,0,0,,inizia a crescere sempre sempre {\1c&HFF00&\u1}sempre{\r} di più
+Dialogue: 0,0:00:13.46,0:00:13.48,Default,,0,0,0,,inizia a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:13.48,0:00:13.52,Default,,0,0,0,,inizia a crescere sempre sempre sempre {\1c&HFF00&\u1}di{\r} più
+Dialogue: 0,0:00:13.52,0:00:13.54,Default,,0,0,0,,inizia a crescere sempre sempre sempre di più
+Dialogue: 0,0:00:13.54,0:00:13.60,Default,,0,0,0,,inizia a crescere sempre sempre sempre di {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:00:15.36,0:00:15.60,Default,,0,0,0,,{\1c&HFF00&\u1}inizio{\r} quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:15.60,0:00:15.62,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:15.62,0:00:15.78,Default,,0,0,0,,inizio {\1c&HFF00&\u1}quindi{\r} ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:15.78,0:00:15.80,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:15.80,0:00:16.26,Default,,0,0,0,,inizio quindi {\1c&HFF00&\u1}ingegneria{\r} super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:16.26,0:00:16.58,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:16.58,0:00:16.85,Default,,0,0,0,,inizio quindi ingegneria {\1c&HFF00&\u1}super{\r} carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:16.85,0:00:16.89,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:16.89,0:00:17.27,Default,,0,0,0,,inizio quindi ingegneria super {\1c&HFF00&\u1}carico,{\r} prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:17.27,0:00:17.45,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:17.45,0:00:17.67,Default,,0,0,0,,inizio quindi ingegneria super carico, {\1c&HFF00&\u1}prime{\r} settimane proprio wow fighissimo
+Dialogue: 0,0:00:17.67,0:00:17.73,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:17.73,0:00:18.15,Default,,0,0,0,,inizio quindi ingegneria super carico, prime {\1c&HFF00&\u1}settimane{\r} proprio wow fighissimo
+Dialogue: 0,0:00:18.15,0:00:18.19,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:18.19,0:00:18.51,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane {\1c&HFF00&\u1}proprio{\r} wow fighissimo
+Dialogue: 0,0:00:18.51,0:00:18.91,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:18.91,0:00:19.17,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio {\1c&HFF00&\u1}wow{\r} fighissimo
+Dialogue: 0,0:00:19.17,0:00:19.23,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow fighissimo
+Dialogue: 0,0:00:19.23,0:00:19.69,Default,,0,0,0,,inizio quindi ingegneria super carico, prime settimane proprio wow {\1c&HFF00&\u1}fighissimo{\r}
+Dialogue: 0,0:00:19.92,0:00:19.96,Default,,0,0,0,,{\1c&HFF00&\u1}mi{\r} piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:19.96,0:00:20.04,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:20.04,0:00:20.30,Default,,0,0,0,,mi {\1c&HFF00&\u1}piaceva{\r} tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:20.30,0:00:20.34,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:20.34,0:00:20.74,Default,,0,0,0,,mi piaceva {\1c&HFF00&\u1}tantissimo{\r} l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:20.74,0:00:20.82,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:20.82,0:00:21.43,Default,,0,0,0,,mi piaceva tantissimo {\1c&HFF00&\u1}l'ambiente,{\r} la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:21.43,0:00:21.45,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:21.45,0:00:21.49,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, {\1c&HFF00&\u1}la{\r} gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:21.49,0:00:21.81,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:21.81,0:00:21.99,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la {\1c&HFF00&\u1}gente{\r} che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:21.99,0:00:22.03,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:22.03,0:00:22.09,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente {\1c&HFF00&\u1}che{\r} ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:22.09,0:00:22.11,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:22.11,0:00:22.19,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che {\1c&HFF00&\u1}ho{\r} iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:22.19,0:00:22.21,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:22.21,0:00:22.43,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho {\1c&HFF00&\u1}iniziato{\r} a conoscere, tutto quanto
+Dialogue: 0,0:00:22.43,0:00:22.45,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:22.45,0:00:22.47,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato {\1c&HFF00&\u1}a{\r} conoscere, tutto quanto
+Dialogue: 0,0:00:22.47,0:00:22.53,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:22.53,0:00:22.95,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a {\1c&HFF00&\u1}conoscere,{\r} tutto quanto
+Dialogue: 0,0:00:22.95,0:00:23.01,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:23.01,0:00:23.19,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, {\1c&HFF00&\u1}tutto{\r} quanto
+Dialogue: 0,0:00:23.19,0:00:23.23,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto quanto
+Dialogue: 0,0:00:23.23,0:00:23.59,Default,,0,0,0,,mi piaceva tantissimo l'ambiente, la gente che ho iniziato a conoscere, tutto {\1c&HFF00&\u1}quanto{\r}
+Dialogue: 0,0:00:23.94,0:00:24.02,Default,,0,0,0,,{\1c&HFF00&\u1}ai{\r} tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.02,0:00:24.04,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.04,0:00:24.18,Default,,0,0,0,,ai {\1c&HFF00&\u1}tempi{\r} tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.18,0:00:24.20,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.20,0:00:24.28,Default,,0,0,0,,ai tempi {\1c&HFF00&\u1}tra{\r} l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.28,0:00:24.30,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.30,0:00:24.50,Default,,0,0,0,,ai tempi tra {\1c&HFF00&\u1}l'altro{\r} non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.50,0:00:24.56,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.56,0:00:24.64,Default,,0,0,0,,ai tempi tra l'altro {\1c&HFF00&\u1}non{\r} mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.64,0:00:24.66,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.66,0:00:24.72,Default,,0,0,0,,ai tempi tra l'altro non {\1c&HFF00&\u1}mi{\r} era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.72,0:00:24.74,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.74,0:00:24.80,Default,,0,0,0,,ai tempi tra l'altro non mi {\1c&HFF00&\u1}era{\r} ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.80,0:00:24.82,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:24.82,0:00:25.02,Default,,0,0,0,,ai tempi tra l'altro non mi era {\1c&HFF00&\u1}ancora{\r} trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:25.02,0:00:25.06,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:25.06,0:00:25.49,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora {\1c&HFF00&\u1}trasferito{\r} qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:25.49,0:00:25.57,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:25.57,0:00:25.71,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito {\1c&HFF00&\u1}qui{\r} quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:25.71,0:00:25.77,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:25.77,0:00:25.97,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui {\1c&HFF00&\u1}quindi{\r} facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:25.97,0:00:26.01,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:26.01,0:00:26.31,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi {\1c&HFF00&\u1}facevo{\r} avanti indietro tutti i giorni
+Dialogue: 0,0:00:26.31,0:00:26.67,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:26.67,0:00:27.03,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo {\1c&HFF00&\u1}avanti{\r} indietro tutti i giorni
+Dialogue: 0,0:00:27.03,0:00:27.07,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:27.07,0:00:27.49,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti {\1c&HFF00&\u1}indietro{\r} tutti i giorni
+Dialogue: 0,0:00:27.49,0:00:27.55,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:27.55,0:00:27.75,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro {\1c&HFF00&\u1}tutti{\r} i giorni
+Dialogue: 0,0:00:27.75,0:00:27.77,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:27.77,0:00:27.81,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti {\1c&HFF00&\u1}i{\r} giorni
+Dialogue: 0,0:00:27.81,0:00:27.85,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i giorni
+Dialogue: 0,0:00:27.85,0:00:28.23,Default,,0,0,0,,ai tempi tra l'altro non mi era ancora trasferito qui quindi facevo avanti indietro tutti i {\1c&HFF00&\u1}giorni{\r}
+Dialogue: 0,0:00:28.60,0:00:29.12,Default,,0,0,0,,{\1c&HFF00&\u1}treni,{\r} ritardi, cose, mi spiace veramente
+Dialogue: 0,0:00:29.12,0:00:29.18,Default,,0,0,0,,treni, ritardi, cose, mi spiace veramente
+Dialogue: 0,0:00:29.18,0:00:29.77,Default,,0,0,0,,treni, {\1c&HFF00&\u1}ritardi,{\r} cose, mi spiace veramente
+Dialogue: 0,0:00:29.77,0:00:29.83,Default,,0,0,0,,treni, ritardi, cose, mi spiace veramente
+Dialogue: 0,0:00:29.83,0:00:30.09,Default,,0,0,0,,treni, ritardi, {\1c&HFF00&\u1}cose,{\r} mi spiace veramente
+Dialogue: 0,0:00:30.09,0:00:30.31,Default,,0,0,0,,treni, ritardi, cose, mi spiace veramente
+Dialogue: 0,0:00:30.31,0:00:30.39,Default,,0,0,0,,treni, ritardi, cose, {\1c&HFF00&\u1}mi{\r} spiace veramente
+Dialogue: 0,0:00:30.39,0:00:30.43,Default,,0,0,0,,treni, ritardi, cose, mi spiace veramente
+Dialogue: 0,0:00:30.43,0:00:30.79,Default,,0,0,0,,treni, ritardi, cose, mi {\1c&HFF00&\u1}spiace{\r} veramente
+Dialogue: 0,0:00:30.79,0:00:30.87,Default,,0,0,0,,treni, ritardi, cose, mi spiace veramente
+Dialogue: 0,0:00:30.87,0:00:31.33,Default,,0,0,0,,treni, ritardi, cose, mi spiace {\1c&HFF00&\u1}veramente{\r}
+Dialogue: 0,0:00:31.84,0:00:32.04,Default,,0,0,0,,{\1c&HFF00&\u1}tutti{\r} voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.04,0:00:32.08,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.08,0:00:32.20,Default,,0,0,0,,tutti {\1c&HFF00&\u1}voi{\r} che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.20,0:00:32.22,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.22,0:00:32.34,Default,,0,0,0,,tutti voi {\1c&HFF00&\u1}che{\r} fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.34,0:00:32.40,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.40,0:00:32.58,Default,,0,0,0,,tutti voi che {\1c&HFF00&\u1}fate{\r} i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.58,0:00:32.60,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.60,0:00:32.62,Default,,0,0,0,,tutti voi che fate {\1c&HFF00&\u1}i{\r} pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.62,0:00:32.68,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:32.68,0:00:33.27,Default,,0,0,0,,tutti voi che fate i {\1c&HFF00&\u1}pendolari{\r} sono con voi, tenete duro
+Dialogue: 0,0:00:33.27,0:00:33.71,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:33.71,0:00:33.91,Default,,0,0,0,,tutti voi che fate i pendolari {\1c&HFF00&\u1}sono{\r} con voi, tenete duro
+Dialogue: 0,0:00:33.91,0:00:33.97,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:33.97,0:00:34.11,Default,,0,0,0,,tutti voi che fate i pendolari sono {\1c&HFF00&\u1}con{\r} voi, tenete duro
+Dialogue: 0,0:00:34.11,0:00:34.17,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:34.17,0:00:34.45,Default,,0,0,0,,tutti voi che fate i pendolari sono con {\1c&HFF00&\u1}voi,{\r} tenete duro
+Dialogue: 0,0:00:34.45,0:00:34.65,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:34.65,0:00:34.95,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, {\1c&HFF00&\u1}tenete{\r} duro
+Dialogue: 0,0:00:34.95,0:00:35.01,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete duro
+Dialogue: 0,0:00:35.01,0:00:35.29,Default,,0,0,0,,tutti voi che fate i pendolari sono con voi, tenete {\1c&HFF00&\u1}duro{\r}
+Dialogue: 0,0:00:35.56,0:00:35.70,Default,,0,0,0,,{\1c&HFF00&\u1}fatto{\r} sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:35.70,0:00:35.72,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:35.72,0:00:35.82,Default,,0,0,0,,fatto {\1c&HFF00&\u1}sta{\r} che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:35.82,0:00:35.86,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:35.86,0:00:35.94,Default,,0,0,0,,fatto sta {\1c&HFF00&\u1}che{\r} ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:35.94,0:00:36.12,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:36.12,0:00:36.20,Default,,0,0,0,,fatto sta che {\1c&HFF00&\u1}ci{\r} stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:36.20,0:00:36.24,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:36.24,0:00:36.48,Default,,0,0,0,,fatto sta che ci {\1c&HFF00&\u1}stavo{\r} già ragionando da un po' di tempo
+Dialogue: 0,0:00:36.48,0:00:36.50,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:36.50,0:00:36.61,Default,,0,0,0,,fatto sta che ci stavo {\1c&HFF00&\u1}già{\r} ragionando da un po' di tempo
+Dialogue: 0,0:00:36.61,0:00:36.67,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:36.67,0:00:37.07,Default,,0,0,0,,fatto sta che ci stavo già {\1c&HFF00&\u1}ragionando{\r} da un po' di tempo
+Dialogue: 0,0:00:37.07,0:00:37.11,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:37.11,0:00:37.17,Default,,0,0,0,,fatto sta che ci stavo già ragionando {\1c&HFF00&\u1}da{\r} un po' di tempo
+Dialogue: 0,0:00:37.17,0:00:37.19,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:37.19,0:00:37.23,Default,,0,0,0,,fatto sta che ci stavo già ragionando da {\1c&HFF00&\u1}un{\r} po' di tempo
+Dialogue: 0,0:00:37.23,0:00:37.25,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:37.25,0:00:37.35,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un {\1c&HFF00&\u1}po'{\r} di tempo
+Dialogue: 0,0:00:37.35,0:00:37.37,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:37.37,0:00:37.43,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' {\1c&HFF00&\u1}di{\r} tempo
+Dialogue: 0,0:00:37.43,0:00:37.47,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di tempo
+Dialogue: 0,0:00:37.47,0:00:37.83,Default,,0,0,0,,fatto sta che ci stavo già ragionando da un po' di {\1c&HFF00&\u1}tempo{\r}
+Dialogue: 0,0:00:38.10,0:00:38.24,Default,,0,0,0,,{\1c&HFF00&\u1}c'era{\r} la possibilità di avere questa casa libera
+Dialogue: 0,0:00:38.24,0:00:38.28,Default,,0,0,0,,c'era la possibilità di avere questa casa libera
+Dialogue: 0,0:00:38.28,0:00:38.32,Default,,0,0,0,,c'era {\1c&HFF00&\u1}la{\r} possibilità di avere questa casa libera
+Dialogue: 0,0:00:38.32,0:00:38.34,Default,,0,0,0,,c'era la possibilità di avere questa casa libera
+Dialogue: 0,0:00:38.34,0:00:38.68,Default,,0,0,0,,c'era la {\1c&HFF00&\u1}possibilità{\r} di avere questa casa libera
+Dialogue: 0,0:00:38.68,0:00:38.72,Default,,0,0,0,,c'era la possibilità di avere questa casa libera
+Dialogue: 0,0:00:38.72,0:00:38.76,Default,,0,0,0,,c'era la possibilità {\1c&HFF00&\u1}di{\r} avere questa casa libera
+Dialogue: 0,0:00:38.76,0:00:38.78,Default,,0,0,0,,c'era la possibilità di avere questa casa libera
+Dialogue: 0,0:00:38.78,0:00:38.97,Default,,0,0,0,,c'era la possibilità di {\1c&HFF00&\u1}avere{\r} questa casa libera
+Dialogue: 0,0:00:38.97,0:00:39.01,Default,,0,0,0,,c'era la possibilità di avere questa casa libera
+Dialogue: 0,0:00:39.01,0:00:39.23,Default,,0,0,0,,c'era la possibilità di avere {\1c&HFF00&\u1}questa{\r} casa libera
+Dialogue: 0,0:00:39.23,0:00:39.27,Default,,0,0,0,,c'era la possibilità di avere questa casa libera
+Dialogue: 0,0:00:39.27,0:00:39.49,Default,,0,0,0,,c'era la possibilità di avere questa {\1c&HFF00&\u1}casa{\r} libera
+Dialogue: 0,0:00:39.49,0:00:39.55,Default,,0,0,0,,c'era la possibilità di avere questa casa libera
+Dialogue: 0,0:00:39.55,0:00:39.81,Default,,0,0,0,,c'era la possibilità di avere questa casa {\1c&HFF00&\u1}libera{\r}
+Dialogue: 0,0:00:40.14,0:00:40.50,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:40.50,0:00:40.64,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:40.64,0:00:40.74,Default,,0,0,0,,perché {\1c&HFF00&\u1}qui{\r} vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:40.74,0:00:40.78,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:40.78,0:00:40.92,Default,,0,0,0,,perché qui {\1c&HFF00&\u1}vive{\r} la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:40.92,0:00:40.94,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:40.94,0:00:40.98,Default,,0,0,0,,perché qui vive {\1c&HFF00&\u1}la{\r} mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:40.98,0:00:41.00,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.00,0:00:41.10,Default,,0,0,0,,perché qui vive la {\1c&HFF00&\u1}mia{\r} nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.10,0:00:41.14,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.14,0:00:41.47,Default,,0,0,0,,perché qui vive la mia {\1c&HFF00&\u1}nonna,{\r} non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.47,0:00:41.69,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.69,0:00:41.79,Default,,0,0,0,,perché qui vive la mia nonna, {\1c&HFF00&\u1}non{\r} è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.79,0:00:41.85,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.85,0:00:41.89,Default,,0,0,0,,perché qui vive la mia nonna, non {\1c&HFF00&\u1}è{\r} venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.89,0:00:41.93,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:41.93,0:00:42.15,Default,,0,0,0,,perché qui vive la mia nonna, non è {\1c&HFF00&\u1}venuta{\r} a mancare fortunatamente
+Dialogue: 0,0:00:42.15,0:00:42.17,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:42.17,0:00:42.19,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta {\1c&HFF00&\u1}a{\r} mancare fortunatamente
+Dialogue: 0,0:00:42.19,0:00:42.23,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:42.23,0:00:42.59,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a {\1c&HFF00&\u1}mancare{\r} fortunatamente
+Dialogue: 0,0:00:42.59,0:00:42.65,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare fortunatamente
+Dialogue: 0,0:00:42.65,0:00:43.25,Default,,0,0,0,,perché qui vive la mia nonna, non è venuta a mancare {\1c&HFF00&\u1}fortunatamente{\r}
+Dialogue: 0,0:00:43.40,0:00:43.56,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} vive da un'altra parte
+Dialogue: 0,0:00:43.56,0:00:43.58,Default,,0,0,0,,ma vive da un'altra parte
+Dialogue: 0,0:00:43.58,0:00:43.72,Default,,0,0,0,,ma {\1c&HFF00&\u1}vive{\r} da un'altra parte
+Dialogue: 0,0:00:43.72,0:00:43.74,Default,,0,0,0,,ma vive da un'altra parte
+Dialogue: 0,0:00:43.74,0:00:43.78,Default,,0,0,0,,ma vive {\1c&HFF00&\u1}da{\r} un'altra parte
+Dialogue: 0,0:00:43.78,0:00:43.84,Default,,0,0,0,,ma vive da un'altra parte
+Dialogue: 0,0:00:43.84,0:00:44.12,Default,,0,0,0,,ma vive da {\1c&HFF00&\u1}un'altra{\r} parte
+Dialogue: 0,0:00:44.12,0:00:44.19,Default,,0,0,0,,ma vive da un'altra parte
+Dialogue: 0,0:00:44.19,0:00:44.53,Default,,0,0,0,,ma vive da un'altra {\1c&HFF00&\u1}parte{\r}
+Dialogue: 0,0:00:44.80,0:00:44.84,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:44.84,0:00:44.88,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:44.88,0:00:45.08,Default,,0,0,0,,e {\1c&HFF00&\u1}quindi{\r} sia per una questione logistica legata all'università
+Dialogue: 0,0:00:45.08,0:00:45.16,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:45.16,0:00:45.36,Default,,0,0,0,,e quindi {\1c&HFF00&\u1}sia{\r} per una questione logistica legata all'università
+Dialogue: 0,0:00:45.36,0:00:45.46,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:45.46,0:00:45.66,Default,,0,0,0,,e quindi sia {\1c&HFF00&\u1}per{\r} una questione logistica legata all'università
+Dialogue: 0,0:00:45.66,0:00:45.70,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:45.70,0:00:45.79,Default,,0,0,0,,e quindi sia per {\1c&HFF00&\u1}una{\r} questione logistica legata all'università
+Dialogue: 0,0:00:45.79,0:00:45.83,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:45.83,0:00:46.23,Default,,0,0,0,,e quindi sia per una {\1c&HFF00&\u1}questione{\r} logistica legata all'università
+Dialogue: 0,0:00:46.23,0:00:46.45,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:46.45,0:00:46.87,Default,,0,0,0,,e quindi sia per una questione {\1c&HFF00&\u1}logistica{\r} legata all'università
+Dialogue: 0,0:00:46.87,0:00:46.91,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:46.91,0:00:47.15,Default,,0,0,0,,e quindi sia per una questione logistica {\1c&HFF00&\u1}legata{\r} all'università
+Dialogue: 0,0:00:47.15,0:00:47.17,Default,,0,0,0,,e quindi sia per una questione logistica legata all'università
+Dialogue: 0,0:00:47.17,0:00:47.69,Default,,0,0,0,,e quindi sia per una questione logistica legata {\1c&HFF00&\u1}all'università{\r}
+Dialogue: 0,0:00:47.98,0:00:48.08,Default,,0,0,0,,{\1c&HFF00&\u1}sia{\r} banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:48.08,0:00:48.12,Default,,0,0,0,,sia banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:48.12,0:00:48.54,Default,,0,0,0,,sia {\1c&HFF00&\u1}banalmente{\r} per avere una connessione internet decente
+Dialogue: 0,0:00:48.54,0:00:48.58,Default,,0,0,0,,sia banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:48.58,0:00:48.68,Default,,0,0,0,,sia banalmente {\1c&HFF00&\u1}per{\r} avere una connessione internet decente
+Dialogue: 0,0:00:48.68,0:00:48.70,Default,,0,0,0,,sia banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:48.70,0:00:48.88,Default,,0,0,0,,sia banalmente per {\1c&HFF00&\u1}avere{\r} una connessione internet decente
+Dialogue: 0,0:00:48.88,0:00:48.92,Default,,0,0,0,,sia banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:48.92,0:00:49.02,Default,,0,0,0,,sia banalmente per avere {\1c&HFF00&\u1}una{\r} connessione internet decente
+Dialogue: 0,0:00:49.02,0:00:49.12,Default,,0,0,0,,sia banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:49.12,0:00:49.75,Default,,0,0,0,,sia banalmente per avere una {\1c&HFF00&\u1}connessione{\r} internet decente
+Dialogue: 0,0:00:49.75,0:00:49.85,Default,,0,0,0,,sia banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:49.85,0:00:50.33,Default,,0,0,0,,sia banalmente per avere una connessione {\1c&HFF00&\u1}internet{\r} decente
+Dialogue: 0,0:00:50.33,0:00:50.39,Default,,0,0,0,,sia banalmente per avere una connessione internet decente
+Dialogue: 0,0:00:50.39,0:00:50.87,Default,,0,0,0,,sia banalmente per avere una connessione internet {\1c&HFF00&\u1}decente{\r}
+Dialogue: 0,0:00:51.28,0:00:51.40,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.40,0:00:51.42,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.42,0:00:51.44,Default,,0,0,0,,che {\1c&HFF00&\u1}a{\r} casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.44,0:00:51.46,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.46,0:00:51.58,Default,,0,0,0,,che a {\1c&HFF00&\u1}casa{\r} mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.58,0:00:51.64,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.64,0:00:51.70,Default,,0,0,0,,che a casa {\1c&HFF00&\u1}mia{\r} vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.70,0:00:51.74,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.74,0:00:51.94,Default,,0,0,0,,che a casa mia {\1c&HFF00&\u1}vecchia{\r} come ben sapete non avevo
+Dialogue: 0,0:00:51.94,0:00:51.96,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:51.96,0:00:52.10,Default,,0,0,0,,che a casa mia vecchia {\1c&HFF00&\u1}come{\r} ben sapete non avevo
+Dialogue: 0,0:00:52.10,0:00:52.14,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:52.14,0:00:52.24,Default,,0,0,0,,che a casa mia vecchia come {\1c&HFF00&\u1}ben{\r} sapete non avevo
+Dialogue: 0,0:00:52.24,0:00:52.28,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:52.28,0:00:52.51,Default,,0,0,0,,che a casa mia vecchia come ben {\1c&HFF00&\u1}sapete{\r} non avevo
+Dialogue: 0,0:00:52.51,0:00:52.55,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:52.55,0:00:52.65,Default,,0,0,0,,che a casa mia vecchia come ben sapete {\1c&HFF00&\u1}non{\r} avevo
+Dialogue: 0,0:00:52.65,0:00:52.69,Default,,0,0,0,,che a casa mia vecchia come ben sapete non avevo
+Dialogue: 0,0:00:52.69,0:00:52.97,Default,,0,0,0,,che a casa mia vecchia come ben sapete non {\1c&HFF00&\u1}avevo{\r}
+Dialogue: 0,0:00:53.38,0:00:53.53,Default,,0,0,0,,{\1c&HFF00&\u1}sia{\r} per avere un
+Dialogue: 0,0:00:53.53,0:00:53.57,Default,,0,0,0,,sia per avere un
+Dialogue: 0,0:00:53.57,0:00:53.67,Default,,0,0,0,,sia {\1c&HFF00&\u1}per{\r} avere un
+Dialogue: 0,0:00:53.67,0:00:53.71,Default,,0,0,0,,sia per avere un
+Dialogue: 0,0:00:53.71,0:00:53.93,Default,,0,0,0,,sia per {\1c&HFF00&\u1}avere{\r} un
+Dialogue: 0,0:00:53.93,0:00:53.99,Default,,0,0,0,,sia per avere un
+Dialogue: 0,0:00:53.99,0:00:54.03,Default,,0,0,0,,sia per avere {\1c&HFF00&\u1}un{\r}

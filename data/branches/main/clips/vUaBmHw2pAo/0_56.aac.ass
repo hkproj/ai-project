@@ -1,0 +1,51 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.64,0:00:0.88,Default,,0,0,0,,{\1c&HFF00&\u1}arriviamo{\r} assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:0.90,0:00:1.26,Default,,0,0,0,,arriviamo {\1c&HFF00&\u1}assieme,{\r} io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:1.26,0:00:2.00,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:2.00,0:00:2.29,Default,,0,0,0,,arriviamo assieme, {\1c&HFF00&\u1}io{\r} non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:2.29,0:00:2.91,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:2.91,0:00:3.05,Default,,0,0,0,,arriviamo assieme, io {\1c&HFF00&\u1}non{\r} vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:3.05,0:00:3.15,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:3.15,0:00:3.57,Default,,0,0,0,,arriviamo assieme, io non {\1c&HFF00&\u1}vado{\r} a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:3.57,0:00:3.65,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:3.65,0:00:3.67,Default,,0,0,0,,arriviamo assieme, io non vado {\1c&HFF00&\u1}a{\r} bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:3.67,0:00:3.73,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:3.73,0:00:3.97,Default,,0,0,0,,arriviamo assieme, io non vado a {\1c&HFF00&\u1}bermi{\r} un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:3.97,0:00:4.01,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:4.01,0:00:4.07,Default,,0,0,0,,arriviamo assieme, io non vado a bermi {\1c&HFF00&\u1}un{\r} bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:4.07,0:00:4.11,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:4.11,0:00:4.77,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un {\1c&HFF00&\u1}bicchierino{\r} col mio amico Alessandro
+Dialogue: 0,0:00:4.77,0:00:5.43,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:5.43,0:00:5.55,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino {\1c&HFF00&\u1}col{\r} mio amico Alessandro
+Dialogue: 0,0:00:5.55,0:00:5.59,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:5.59,0:00:5.65,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col {\1c&HFF00&\u1}mio{\r} amico Alessandro
+Dialogue: 0,0:00:5.65,0:00:5.67,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:5.67,0:00:5.81,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio {\1c&HFF00&\u1}amico{\r} Alessandro
+Dialogue: 0,0:00:5.81,0:00:5.83,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico Alessandro
+Dialogue: 0,0:00:5.83,0:00:6.44,Default,,0,0,0,,arriviamo assieme, io non vado a bermi un bicchierino col mio amico {\1c&HFF00&\u1}Alessandro{\r}
+Dialogue: 0,0:00:6.98,0:00:7.20,Default,,0,0,0,,{\1c&HFF00&\u1}così{\r} mi distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:7.20,0:00:7.26,Default,,0,0,0,,così mi distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:7.26,0:00:7.36,Default,,0,0,0,,così {\1c&HFF00&\u1}mi{\r} distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:7.36,0:00:7.42,Default,,0,0,0,,così mi distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:7.42,0:00:8.12,Default,,0,0,0,,così mi {\1c&HFF00&\u1}distraggo,{\r} così mi rilascio, no!
+Dialogue: 0,0:00:8.12,0:00:8.94,Default,,0,0,0,,così mi distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:8.94,0:00:9.24,Default,,0,0,0,,così mi distraggo, {\1c&HFF00&\u1}così{\r} mi rilascio, no!
+Dialogue: 0,0:00:9.24,0:00:9.31,Default,,0,0,0,,così mi distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:9.31,0:00:9.37,Default,,0,0,0,,così mi distraggo, così {\1c&HFF00&\u1}mi{\r} rilascio, no!
+Dialogue: 0,0:00:9.37,0:00:9.41,Default,,0,0,0,,così mi distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:9.41,0:00:9.83,Default,,0,0,0,,così mi distraggo, così mi {\1c&HFF00&\u1}rilascio,{\r} no!
+Dialogue: 0,0:00:9.83,0:00:9.87,Default,,0,0,0,,così mi distraggo, così mi rilascio, no!
+Dialogue: 0,0:00:9.87,0:00:9.93,Default,,0,0,0,,così mi distraggo, così mi rilascio, {\1c&HFF00&\u1}no!{\r}

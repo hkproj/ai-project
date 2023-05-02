@@ -1,0 +1,71 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:0.32,0:00:0.66,Default,,0,0,0,,di {\1c&HFF00&\u1}cooperazione{\r} un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:0.68,0:00:0.72,Default,,0,0,0,,di cooperazione {\1c&HFF00&\u1}un{\r} po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:0.72,0:00:0.90,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:0.90,0:00:0.96,Default,,0,0,0,,di cooperazione un {\1c&HFF00&\u1}po'{\r} anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:0.96,0:00:1.00,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:1.00,0:00:1.46,Default,,0,0,0,,di cooperazione un po' {\1c&HFF00&\u1}anomalo,{\r} visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:1.46,0:00:1.50,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:1.50,0:00:1.66,Default,,0,0,0,,di cooperazione un po' anomalo, {\1c&HFF00&\u1}visto{\r} che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:1.66,0:00:1.71,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:1.71,0:00:1.85,Default,,0,0,0,,di cooperazione un po' anomalo, visto {\1c&HFF00&\u1}che{\r} sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:1.85,0:00:2.07,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:2.07,0:00:2.23,Default,,0,0,0,,di cooperazione un po' anomalo, visto che {\1c&HFF00&\u1}sono{\r} pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:2.23,0:00:2.31,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:2.31,0:00:2.71,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono {\1c&HFF00&\u1}pochi{\r} paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:2.71,0:00:2.77,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:2.77,0:00:3.05,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi {\1c&HFF00&\u1}paesi{\r} al mondo a vantare una collaborazione
+Dialogue: 0,0:00:3.05,0:00:3.09,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:3.09,0:00:3.19,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi {\1c&HFF00&\u1}al{\r} mondo a vantare una collaborazione
+Dialogue: 0,0:00:3.19,0:00:3.23,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:3.23,0:00:3.47,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al {\1c&HFF00&\u1}mondo{\r} a vantare una collaborazione
+Dialogue: 0,0:00:3.47,0:00:3.49,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:3.49,0:00:3.51,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo {\1c&HFF00&\u1}a{\r} vantare una collaborazione
+Dialogue: 0,0:00:3.51,0:00:3.63,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:3.63,0:00:3.97,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a {\1c&HFF00&\u1}vantare{\r} una collaborazione
+Dialogue: 0,0:00:3.97,0:00:4.01,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:4.01,0:00:4.09,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare {\1c&HFF00&\u1}una{\r} collaborazione
+Dialogue: 0,0:00:4.09,0:00:4.15,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una collaborazione
+Dialogue: 0,0:00:4.15,0:00:4.75,Default,,0,0,0,,di cooperazione un po' anomalo, visto che sono pochi paesi al mondo a vantare una {\1c&HFF00&\u1}collaborazione{\r}
+Dialogue: 0,0:00:4.76,0:00:4.92,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:4.92,0:00:5.08,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:5.08,0:00:5.12,Default,,0,0,0,,con {\1c&HFF00&\u1}la{\r} polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:5.12,0:00:5.16,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:5.16,0:00:5.46,Default,,0,0,0,,con la {\1c&HFF00&\u1}polizia{\r} cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:5.46,0:00:5.52,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:5.52,0:00:5.92,Default,,0,0,0,,con la polizia {\1c&HFF00&\u1}cinese,{\r} per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:5.92,0:00:6.36,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:6.36,0:00:6.48,Default,,0,0,0,,con la polizia cinese, {\1c&HFF00&\u1}per{\r} di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:6.48,0:00:6.54,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:6.54,0:00:6.60,Default,,0,0,0,,con la polizia cinese, per {\1c&HFF00&\u1}di{\r} più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:6.60,0:00:6.66,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:6.66,0:00:6.76,Default,,0,0,0,,con la polizia cinese, per di {\1c&HFF00&\u1}più{\r} firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:6.76,0:00:6.98,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:6.98,0:00:7.41,Default,,0,0,0,,con la polizia cinese, per di più {\1c&HFF00&\u1}firmato{\r} a margine di una conferenza europea.
+Dialogue: 0,0:00:7.41,0:00:7.49,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:7.49,0:00:7.53,Default,,0,0,0,,con la polizia cinese, per di più firmato {\1c&HFF00&\u1}a{\r} margine di una conferenza europea.
+Dialogue: 0,0:00:7.53,0:00:7.59,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:7.59,0:00:7.77,Default,,0,0,0,,con la polizia cinese, per di più firmato a {\1c&HFF00&\u1}margine{\r} di una conferenza europea.
+Dialogue: 0,0:00:7.77,0:00:7.81,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:7.81,0:00:7.85,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine {\1c&HFF00&\u1}di{\r} una conferenza europea.
+Dialogue: 0,0:00:7.85,0:00:7.89,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:7.89,0:00:7.95,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di {\1c&HFF00&\u1}una{\r} conferenza europea.
+Dialogue: 0,0:00:7.95,0:00:7.97,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:7.97,0:00:8.21,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una {\1c&HFF00&\u1}conferenza{\r} europea.
+Dialogue: 0,0:00:8.21,0:00:8.23,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza europea.
+Dialogue: 0,0:00:8.23,0:00:8.41,Default,,0,0,0,,con la polizia cinese, per di più firmato a margine di una conferenza {\1c&HFF00&\u1}europea.{\r}

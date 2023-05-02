@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.14,0:00:0.32,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.32,0:00:0.36,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.36,0:00:0.44,Default,,0,0,0,,perché {\1c&HFF00&\u1}ti{\r} venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.44,0:00:0.48,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.48,0:00:0.66,Default,,0,0,0,,perché ti {\1c&HFF00&\u1}venga{\r} la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.68,0:00:0.74,Default,,0,0,0,,perché ti venga {\1c&HFF00&\u1}la{\r} tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.74,0:00:0.80,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:0.80,0:00:1.18,Default,,0,0,0,,perché ti venga la {\1c&HFF00&\u1}tensione,{\r} non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.18,0:00:1.28,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.28,0:00:1.36,Default,,0,0,0,,perché ti venga la tensione, {\1c&HFF00&\u1}non{\r} devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.36,0:00:1.38,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.38,0:00:1.51,Default,,0,0,0,,perché ti venga la tensione, non {\1c&HFF00&\u1}devi{\r} chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.51,0:00:1.53,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.53,0:00:1.87,Default,,0,0,0,,perché ti venga la tensione, non devi {\1c&HFF00&\u1}chiacchierare{\r} con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.87,0:00:1.91,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.91,0:00:1.99,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare {\1c&HFF00&\u1}con{\r} gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:1.99,0:00:2.01,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.01,0:00:2.09,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con {\1c&HFF00&\u1}gli{\r} altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.09,0:00:2.13,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.13,0:00:2.31,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli {\1c&HFF00&\u1}altri,{\r} non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.31,0:00:2.35,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.35,0:00:2.43,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, {\1c&HFF00&\u1}non{\r} devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.43,0:00:2.45,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.45,0:00:2.55,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non {\1c&HFF00&\u1}devi{\r} andare a bere un bicchierino,
+Dialogue: 0,0:00:2.55,0:00:2.57,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:2.57,0:00:2.75,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi {\1c&HFF00&\u1}andare{\r} a bere un bicchierino,
+Dialogue: 0,0:00:2.75,0:00:3.11,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:3.11,0:00:3.13,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare {\1c&HFF00&\u1}a{\r} bere un bicchierino,
+Dialogue: 0,0:00:3.13,0:00:3.17,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:3.17,0:00:3.27,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a {\1c&HFF00&\u1}bere{\r} un bicchierino,
+Dialogue: 0,0:00:3.27,0:00:3.31,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:3.31,0:00:3.35,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere {\1c&HFF00&\u1}un{\r} bicchierino,
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un bicchierino,
+Dialogue: 0,0:00:3.39,0:00:3.83,Default,,0,0,0,,perché ti venga la tensione, non devi chiacchierare con gli altri, non devi andare a bere un {\1c&HFF00&\u1}bicchierino,{\r}
+Dialogue: 0,0:00:3.90,0:00:3.94,Default,,0,0,0,,{\1c&HFF00&\u1}ti{\r} devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:3.94,0:00:3.96,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:3.96,0:00:4.04,Default,,0,0,0,,ti {\1c&HFF00&\u1}devi{\r} distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:4.04,0:00:4.06,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:4.06,0:00:4.24,Default,,0,0,0,,ti devi {\1c&HFF00&\u1}distrarre,{\r} ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:4.24,0:00:4.26,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:4.26,0:00:5.34,Default,,0,0,0,,ti devi distrarre, {\1c&HFF00&\u1}ti{\r} devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:5.34,0:00:5.38,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:5.38,0:00:5.56,Default,,0,0,0,,ti devi distrarre, ti {\1c&HFF00&\u1}devi{\r} concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:5.56,0:00:5.62,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:5.62,0:00:6.08,Default,,0,0,0,,ti devi distrarre, ti devi {\1c&HFF00&\u1}concentrare,{\r} ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:6.08,0:00:6.14,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:6.14,0:00:6.20,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, {\1c&HFF00&\u1}ti{\r} devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:6.20,0:00:6.24,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:6.24,0:00:6.40,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti {\1c&HFF00&\u1}devi{\r} isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:6.40,0:00:6.44,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:6.44,0:00:6.80,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi {\1c&HFF00&\u1}isolare,{\r} ti devi alienare, bene!
+Dialogue: 0,0:00:6.80,0:00:6.84,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:6.84,0:00:7.00,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, {\1c&HFF00&\u1}ti{\r} devi alienare, bene!
+Dialogue: 0,0:00:7.00,0:00:7.02,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:7.02,0:00:7.22,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti {\1c&HFF00&\u1}devi{\r} alienare, bene!
+Dialogue: 0,0:00:7.22,0:00:7.63,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:7.63,0:00:8.01,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi {\1c&HFF00&\u1}alienare,{\r} bene!
+Dialogue: 0,0:00:8.01,0:00:8.03,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, bene!
+Dialogue: 0,0:00:8.03,0:00:8.33,Default,,0,0,0,,ti devi distrarre, ti devi concentrare, ti devi isolare, ti devi alienare, {\1c&HFF00&\u1}bene!{\r}

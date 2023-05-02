@@ -1,0 +1,206 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.20,Default,,0,0,0,,{\1c&HFF00&\u1}Che{\r} bel regalo, eh?
+Dialogue: 0,0:00:0.20,0:00:0.22,Default,,0,0,0,,Che bel regalo, eh?
+Dialogue: 0,0:00:0.22,0:00:0.32,Default,,0,0,0,,Che {\1c&HFF00&\u1}bel{\r} regalo, eh?
+Dialogue: 0,0:00:0.32,0:00:0.36,Default,,0,0,0,,Che bel regalo, eh?
+Dialogue: 0,0:00:0.36,0:00:0.72,Default,,0,0,0,,Che bel {\1c&HFF00&\u1}regalo,{\r} eh?
+Dialogue: 0,0:00:0.72,0:00:0.74,Default,,0,0,0,,Che bel regalo, eh?
+Dialogue: 0,0:00:0.74,0:00:0.79,Default,,0,0,0,,Che bel regalo, {\1c&HFF00&\u1}eh?{\r}
+Dialogue: 0,0:00:1.28,0:00:1.56,Default,,0,0,0,,{\1c&HFF00&\u1}Ragazzi,{\r} spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:1.56,0:00:1.64,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:1.64,0:00:1.84,Default,,0,0,0,,Ragazzi, {\1c&HFF00&\u1}spero{\r} davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:1.84,0:00:1.88,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:1.88,0:00:2.08,Default,,0,0,0,,Ragazzi, spero {\1c&HFF00&\u1}davvero{\r} che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.08,0:00:2.10,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.10,0:00:2.16,Default,,0,0,0,,Ragazzi, spero davvero {\1c&HFF00&\u1}che{\r} abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.16,0:00:2.18,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.18,0:00:2.42,Default,,0,0,0,,Ragazzi, spero davvero che {\1c&HFF00&\u1}abbiate{\r} trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.42,0:00:2.48,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.48,0:00:2.77,Default,,0,0,0,,Ragazzi, spero davvero che abbiate {\1c&HFF00&\u1}trovato{\r} utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.77,0:00:2.87,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:2.87,0:00:3.11,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato {\1c&HFF00&\u1}utili{\r} questi trucchetti e come al solito vi
+Dialogue: 0,0:00:3.11,0:00:3.15,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:3.15,0:00:3.35,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili {\1c&HFF00&\u1}questi{\r} trucchetti e come al solito vi
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:3.39,0:00:3.89,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi {\1c&HFF00&\u1}trucchetti{\r} e come al solito vi
+Dialogue: 0,0:00:3.89,0:00:3.93,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:3.93,0:00:3.97,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti {\1c&HFF00&\u1}e{\r} come al solito vi
+Dialogue: 0,0:00:3.97,0:00:4.03,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:4.03,0:00:4.17,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e {\1c&HFF00&\u1}come{\r} al solito vi
+Dialogue: 0,0:00:4.17,0:00:4.21,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:4.21,0:00:4.31,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come {\1c&HFF00&\u1}al{\r} solito vi
+Dialogue: 0,0:00:4.31,0:00:4.35,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:4.35,0:00:4.73,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al {\1c&HFF00&\u1}solito{\r} vi
+Dialogue: 0,0:00:4.73,0:00:5.03,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito vi
+Dialogue: 0,0:00:5.03,0:00:5.07,Default,,0,0,0,,Ragazzi, spero davvero che abbiate trovato utili questi trucchetti e come al solito {\1c&HFF00&\u1}vi{\r}
+Dialogue: 0,0:00:5.34,0:00:5.54,Default,,0,0,0,,{\1c&HFF00&\u1}chiedo,{\r} ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:5.54,0:00:5.92,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:5.92,0:00:6.06,Default,,0,0,0,,chiedo, {\1c&HFF00&\u1}ma{\r} già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:6.06,0:00:6.22,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:6.22,0:00:6.32,Default,,0,0,0,,chiedo, ma {\1c&HFF00&\u1}già{\r} li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:6.32,0:00:6.36,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:6.36,0:00:6.44,Default,,0,0,0,,chiedo, ma già {\1c&HFF00&\u1}li{\r} utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:6.44,0:00:6.46,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:6.46,0:00:7.03,Default,,0,0,0,,chiedo, ma già li {\1c&HFF00&\u1}utilizzate{\r} già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.03,0:00:7.15,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.15,0:00:7.23,Default,,0,0,0,,chiedo, ma già li utilizzate {\1c&HFF00&\u1}già{\r} era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.23,0:00:7.27,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.27,0:00:7.39,Default,,0,0,0,,chiedo, ma già li utilizzate già {\1c&HFF00&\u1}era{\r} qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.39,0:00:7.43,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.43,0:00:7.79,Default,,0,0,0,,chiedo, ma già li utilizzate già era {\1c&HFF00&\u1}qualcosa{\r} che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.79,0:00:7.85,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.85,0:00:7.99,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa {\1c&HFF00&\u1}che{\r} avevate messo in pratica o è la prima
+Dialogue: 0,0:00:7.99,0:00:8.11,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:8.11,0:00:8.43,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che {\1c&HFF00&\u1}avevate{\r} messo in pratica o è la prima
+Dialogue: 0,0:00:8.43,0:00:8.47,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:8.47,0:00:8.69,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate {\1c&HFF00&\u1}messo{\r} in pratica o è la prima
+Dialogue: 0,0:00:8.69,0:00:8.75,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:8.75,0:00:8.81,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo {\1c&HFF00&\u1}in{\r} pratica o è la prima
+Dialogue: 0,0:00:8.81,0:00:8.85,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:8.85,0:00:9.29,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in {\1c&HFF00&\u1}pratica{\r} o è la prima
+Dialogue: 0,0:00:9.29,0:00:9.47,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:9.47,0:00:9.59,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica {\1c&HFF00&\u1}o{\r} è la prima
+Dialogue: 0,0:00:9.59,0:00:9.75,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:9.75,0:00:9.77,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o {\1c&HFF00&\u1}è{\r} la prima
+Dialogue: 0,0:00:9.77,0:00:9.81,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:9.81,0:00:9.85,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è {\1c&HFF00&\u1}la{\r} prima
+Dialogue: 0,0:00:9.85,0:00:9.87,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la prima
+Dialogue: 0,0:00:9.87,0:00:10.01,Default,,0,0,0,,chiedo, ma già li utilizzate già era qualcosa che avevate messo in pratica o è la {\1c&HFF00&\u1}prima{\r}
+Dialogue: 0,0:00:10.18,0:00:10.28,Default,,0,0,0,,{\1c&HFF00&\u1}volta{\r} che li sentite?
+Dialogue: 0,0:00:10.28,0:00:10.30,Default,,0,0,0,,volta che li sentite?
+Dialogue: 0,0:00:10.30,0:00:10.40,Default,,0,0,0,,volta {\1c&HFF00&\u1}che{\r} li sentite?
+Dialogue: 0,0:00:10.40,0:00:10.42,Default,,0,0,0,,volta che li sentite?
+Dialogue: 0,0:00:10.42,0:00:10.50,Default,,0,0,0,,volta che {\1c&HFF00&\u1}li{\r} sentite?
+Dialogue: 0,0:00:10.50,0:00:10.54,Default,,0,0,0,,volta che li sentite?
+Dialogue: 0,0:00:10.54,0:00:10.89,Default,,0,0,0,,volta che li {\1c&HFF00&\u1}sentite?{\r}
+Dialogue: 0,0:00:11.24,0:00:11.28,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.28,0:00:11.30,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.30,0:00:11.60,Default,,0,0,0,,E {\1c&HFF00&\u1}invece,{\r} ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.60,0:00:11.64,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.64,0:00:11.90,Default,,0,0,0,,E invece, {\1c&HFF00&\u1}ditemi{\r} un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.90,0:00:11.92,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.92,0:00:11.96,Default,,0,0,0,,E invece, ditemi {\1c&HFF00&\u1}un{\r} po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.96,0:00:11.98,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:11.98,0:00:12.06,Default,,0,0,0,,E invece, ditemi un {\1c&HFF00&\u1}po'{\r} nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.06,0:00:12.08,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.08,0:00:12.20,Default,,0,0,0,,E invece, ditemi un po' {\1c&HFF00&\u1}nei{\r} commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.20,0:00:12.24,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.24,0:00:12.72,Default,,0,0,0,,E invece, ditemi un po' nei {\1c&HFF00&\u1}commenti,{\r} ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.72,0:00:12.81,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.81,0:00:12.89,Default,,0,0,0,,E invece, ditemi un po' nei commenti, {\1c&HFF00&\u1}ci{\r} sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.89,0:00:12.97,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:12.97,0:00:13.11,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci {\1c&HFF00&\u1}sono{\r} alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:13.11,0:00:13.15,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:13.15,0:00:13.43,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono {\1c&HFF00&\u1}alcuni{\r} trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:13.43,0:00:13.51,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:13.51,0:00:13.77,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni {\1c&HFF00&\u1}trucchi{\r} che voi utilizzate per risparmiare
+Dialogue: 0,0:00:13.77,0:00:13.83,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:13.83,0:00:13.95,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi {\1c&HFF00&\u1}che{\r} voi utilizzate per risparmiare
+Dialogue: 0,0:00:13.95,0:00:14.11,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:14.11,0:00:14.45,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che {\1c&HFF00&\u1}voi{\r} utilizzate per risparmiare
+Dialogue: 0,0:00:14.45,0:00:14.63,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:14.63,0:00:15.13,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi {\1c&HFF00&\u1}utilizzate{\r} per risparmiare
+Dialogue: 0,0:00:15.13,0:00:15.19,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:15.19,0:00:15.31,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate {\1c&HFF00&\u1}per{\r} risparmiare
+Dialogue: 0,0:00:15.31,0:00:15.37,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per risparmiare
+Dialogue: 0,0:00:15.37,0:00:15.93,Default,,0,0,0,,E invece, ditemi un po' nei commenti, ci sono alcuni trucchi che voi utilizzate per {\1c&HFF00&\u1}risparmiare{\r}
+Dialogue: 0,0:00:15.94,0:00:16.00,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.00,0:00:16.02,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.02,0:00:16.08,Default,,0,0,0,,che {\1c&HFF00&\u1}non{\r} ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.08,0:00:16.10,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.10,0:00:16.14,Default,,0,0,0,,che non {\1c&HFF00&\u1}ho{\r} detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.14,0:00:16.16,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.16,0:00:16.26,Default,,0,0,0,,che non ho {\1c&HFF00&\u1}detto{\r} in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.26,0:00:16.28,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.28,0:00:16.32,Default,,0,0,0,,che non ho detto {\1c&HFF00&\u1}in{\r} questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.32,0:00:16.34,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.34,0:00:16.46,Default,,0,0,0,,che non ho detto in {\1c&HFF00&\u1}questo{\r} video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.46,0:00:16.48,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.48,0:00:16.58,Default,,0,0,0,,che non ho detto in questo {\1c&HFF00&\u1}video,{\r} sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.58,0:00:16.60,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.60,0:00:16.82,Default,,0,0,0,,che non ho detto in questo video, {\1c&HFF00&\u1}sicuramente{\r} sono curioso di saperli.
+Dialogue: 0,0:00:16.82,0:00:16.84,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.84,0:00:16.92,Default,,0,0,0,,che non ho detto in questo video, sicuramente {\1c&HFF00&\u1}sono{\r} curioso di saperli.
+Dialogue: 0,0:00:16.92,0:00:16.94,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:16.94,0:00:17.08,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono {\1c&HFF00&\u1}curioso{\r} di saperli.
+Dialogue: 0,0:00:17.08,0:00:17.10,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:17.10,0:00:17.14,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso {\1c&HFF00&\u1}di{\r} saperli.
+Dialogue: 0,0:00:17.14,0:00:17.16,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di saperli.
+Dialogue: 0,0:00:17.16,0:00:17.31,Default,,0,0,0,,che non ho detto in questo video, sicuramente sono curioso di {\1c&HFF00&\u1}saperli.{\r}
+Dialogue: 0,0:00:19.28,0:00:19.40,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:19.40,0:00:19.44,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:19.44,0:00:19.66,Default,,0,0,0,,Per {\1c&HFF00&\u1}vedere{\r} altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:19.66,0:00:19.82,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:19.82,0:00:20.02,Default,,0,0,0,,Per vedere {\1c&HFF00&\u1}altri{\r} video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.02,0:00:20.06,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.06,0:00:20.24,Default,,0,0,0,,Per vedere altri {\1c&HFF00&\u1}video{\r} come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.24,0:00:20.26,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.26,0:00:20.40,Default,,0,0,0,,Per vedere altri video {\1c&HFF00&\u1}come{\r} questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.40,0:00:20.44,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.44,0:00:20.66,Default,,0,0,0,,Per vedere altri video come {\1c&HFF00&\u1}questo{\r} vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.66,0:00:20.71,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.71,0:00:20.77,Default,,0,0,0,,Per vedere altri video come questo {\1c&HFF00&\u1}vi{\r} ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.77,0:00:20.81,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:20.81,0:00:21.09,Default,,0,0,0,,Per vedere altri video come questo vi {\1c&HFF00&\u1}ricordo{\r} di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.09,0:00:21.13,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.13,0:00:21.19,Default,,0,0,0,,Per vedere altri video come questo vi ricordo {\1c&HFF00&\u1}di{\r} iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.19,0:00:21.31,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.31,0:00:21.81,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di {\1c&HFF00&\u1}iscrivervi{\r} e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.81,0:00:21.83,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.83,0:00:21.85,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi {\1c&HFF00&\u1}e{\r} di schiacciare sulla campanella
+Dialogue: 0,0:00:21.85,0:00:21.89,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.89,0:00:21.95,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e {\1c&HFF00&\u1}di{\r} schiacciare sulla campanella
+Dialogue: 0,0:00:21.95,0:00:21.97,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:21.97,0:00:22.31,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di {\1c&HFF00&\u1}schiacciare{\r} sulla campanella
+Dialogue: 0,0:00:22.31,0:00:22.35,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:22.35,0:00:22.51,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare {\1c&HFF00&\u1}sulla{\r} campanella
+Dialogue: 0,0:00:22.51,0:00:22.55,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla campanella
+Dialogue: 0,0:00:22.55,0:00:23.05,Default,,0,0,0,,Per vedere altri video come questo vi ricordo di iscrivervi e di schiacciare sulla {\1c&HFF00&\u1}campanella{\r}
+Dialogue: 0,0:00:23.04,0:00:23.08,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.08,0:00:23.10,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.10,0:00:23.18,Default,,0,0,0,,in {\1c&HFF00&\u1}modo{\r} tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.18,0:00:23.20,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.20,0:00:23.28,Default,,0,0,0,,in modo {\1c&HFF00&\u1}tale{\r} da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.28,0:00:23.30,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.30,0:00:23.34,Default,,0,0,0,,in modo tale {\1c&HFF00&\u1}da{\r} non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.34,0:00:23.36,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.36,0:00:23.42,Default,,0,0,0,,in modo tale da {\1c&HFF00&\u1}non{\r} perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.42,0:00:23.44,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.44,0:00:23.60,Default,,0,0,0,,in modo tale da non {\1c&HFF00&\u1}perdervi{\r} tutti i prossimi video.
+Dialogue: 0,0:00:23.60,0:00:23.62,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.62,0:00:23.72,Default,,0,0,0,,in modo tale da non perdervi {\1c&HFF00&\u1}tutti{\r} i prossimi video.
+Dialogue: 0,0:00:23.72,0:00:23.74,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.74,0:00:23.76,Default,,0,0,0,,in modo tale da non perdervi tutti {\1c&HFF00&\u1}i{\r} prossimi video.
+Dialogue: 0,0:00:23.76,0:00:23.78,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.78,0:00:23.94,Default,,0,0,0,,in modo tale da non perdervi tutti i {\1c&HFF00&\u1}prossimi{\r} video.
+Dialogue: 0,0:00:23.94,0:00:23.96,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi video.
+Dialogue: 0,0:00:23.96,0:00:24.06,Default,,0,0,0,,in modo tale da non perdervi tutti i prossimi {\1c&HFF00&\u1}video.{\r}
+Dialogue: 0,0:00:25.76,0:00:25.88,Default,,0,0,0,,{\1c&HFF00&\u1}Per{\r} oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:25.88,0:00:25.92,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:25.92,0:00:26.08,Default,,0,0,0,,Per {\1c&HFF00&\u1}oggi{\r} è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:26.08,0:00:26.12,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:26.12,0:00:26.16,Default,,0,0,0,,Per oggi {\1c&HFF00&\u1}è{\r} tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:26.16,0:00:26.25,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:26.25,0:00:26.53,Default,,0,0,0,,Per oggi è {\1c&HFF00&\u1}tutto,{\r} vi saluto e alla prossima!
+Dialogue: 0,0:00:26.53,0:00:26.67,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:26.67,0:00:26.73,Default,,0,0,0,,Per oggi è tutto, {\1c&HFF00&\u1}vi{\r} saluto e alla prossima!
+Dialogue: 0,0:00:26.73,0:00:26.77,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:26.77,0:00:27.05,Default,,0,0,0,,Per oggi è tutto, vi {\1c&HFF00&\u1}saluto{\r} e alla prossima!
+Dialogue: 0,0:00:27.05,0:00:27.11,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:27.11,0:00:27.15,Default,,0,0,0,,Per oggi è tutto, vi saluto {\1c&HFF00&\u1}e{\r} alla prossima!
+Dialogue: 0,0:00:27.15,0:00:27.44,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:27.44,0:00:27.56,Default,,0,0,0,,Per oggi è tutto, vi saluto e {\1c&HFF00&\u1}alla{\r} prossima!
+Dialogue: 0,0:00:27.56,0:00:27.60,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla prossima!
+Dialogue: 0,0:00:27.60,0:00:27.94,Default,,0,0,0,,Per oggi è tutto, vi saluto e alla {\1c&HFF00&\u1}prossima!{\r}

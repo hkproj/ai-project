@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}no{\r} no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.30,0:00:0.38,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.38,0:00:0.42,Default,,0,0,0,,no {\1c&HFF00&\u1}no{\r} perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.42,0:00:0.44,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.44,0:00:0.58,Default,,0,0,0,,no no {\1c&HFF00&\u1}perché{\r} io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.58,0:00:0.66,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.66,0:00:0.72,Default,,0,0,0,,no no perché {\1c&HFF00&\u1}io{\r} se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.72,0:00:0.76,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.76,0:00:0.82,Default,,0,0,0,,no no perché io {\1c&HFF00&\u1}se{\r} mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.88,0:00:0.94,Default,,0,0,0,,no no perché io se {\1c&HFF00&\u1}mi{\r} preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:0.94,0:00:1.00,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:1.00,0:00:1.28,Default,,0,0,0,,no no perché io se mi {\1c&HFF00&\u1}preparo{\r} mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:1.28,0:00:1.32,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:1.32,0:00:1.38,Default,,0,0,0,,no no perché io se mi preparo {\1c&HFF00&\u1}mi{\r} viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:1.38,0:00:1.40,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:1.40,0:00:1.56,Default,,0,0,0,,no no perché io se mi preparo mi {\1c&HFF00&\u1}viene{\r} l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:1.56,0:00:1.60,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:1.60,0:00:2.03,Default,,0,0,0,,no no perché io se mi preparo mi viene {\1c&HFF00&\u1}l'ansia.{\r} Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:2.03,0:00:3.23,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:3.23,0:00:3.37,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. {\1c&HFF00&\u1}Allora{\r} vedete, allora tentiamo di
+Dialogue: 0,0:00:3.37,0:00:3.39,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:3.39,0:00:3.65,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora {\1c&HFF00&\u1}vedete,{\r} allora tentiamo di
+Dialogue: 0,0:00:3.65,0:00:3.85,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:3.85,0:00:4.97,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, {\1c&HFF00&\u1}allora{\r} tentiamo di
+Dialogue: 0,0:00:4.97,0:00:5.05,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:5.05,0:00:5.35,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora {\1c&HFF00&\u1}tentiamo{\r} di
+Dialogue: 0,0:00:5.35,0:00:5.39,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo di
+Dialogue: 0,0:00:5.39,0:00:5.43,Default,,0,0,0,,no no perché io se mi preparo mi viene l'ansia. Allora vedete, allora tentiamo {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:5.40,0:00:5.96,Default,,0,0,0,,{\1c&HFF00&\u1}districare{\r} il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:5.96,0:00:6.04,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.04,0:00:6.08,Default,,0,0,0,,districare {\1c&HFF00&\u1}il{\r} nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.08,0:00:6.12,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.12,0:00:6.26,Default,,0,0,0,,districare il {\1c&HFF00&\u1}nodo,{\r} qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.26,0:00:6.28,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.28,0:00:6.34,Default,,0,0,0,,districare il nodo, {\1c&HFF00&\u1}qui{\r} c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.34,0:00:6.38,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.38,0:00:6.44,Default,,0,0,0,,districare il nodo, qui {\1c&HFF00&\u1}c'è{\r} un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.44,0:00:6.52,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.52,0:00:6.60,Default,,0,0,0,,districare il nodo, qui c'è {\1c&HFF00&\u1}un{\r} nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.60,0:00:6.62,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:6.62,0:00:8.79,Default,,0,0,0,,districare il nodo, qui c'è un {\1c&HFF00&\u1}nodo.{\r} Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:8.79,0:00:8.85,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:8.85,0:00:9.51,Default,,0,0,0,,districare il nodo, qui c'è un nodo. {\1c&HFF00&\u1}Prepararti{\r} è quello che previene l'ansia
+Dialogue: 0,0:00:9.51,0:00:10.11,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:10.11,0:00:10.15,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti {\1c&HFF00&\u1}è{\r} quello che previene l'ansia
+Dialogue: 0,0:00:10.15,0:00:10.17,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:10.17,0:00:10.31,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è {\1c&HFF00&\u1}quello{\r} che previene l'ansia
+Dialogue: 0,0:00:10.31,0:00:10.33,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:10.33,0:00:10.39,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello {\1c&HFF00&\u1}che{\r} previene l'ansia
+Dialogue: 0,0:00:10.39,0:00:10.43,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:10.43,0:00:10.69,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che {\1c&HFF00&\u1}previene{\r} l'ansia
+Dialogue: 0,0:00:10.69,0:00:10.75,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene l'ansia
+Dialogue: 0,0:00:10.75,0:00:11.11,Default,,0,0,0,,districare il nodo, qui c'è un nodo. Prepararti è quello che previene {\1c&HFF00&\u1}l'ansia{\r}
+Dialogue: 0,0:00:11.60,0:00:11.98,Default,,0,0,0,,{\1c&HFF00&\u1}però{\r} può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:11.98,0:00:12.00,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.00,0:00:12.08,Default,,0,0,0,,però {\1c&HFF00&\u1}può{\r} essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.08,0:00:12.10,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.10,0:00:12.26,Default,,0,0,0,,però può {\1c&HFF00&\u1}essere{\r} anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.26,0:00:12.28,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.28,0:00:12.40,Default,,0,0,0,,però può essere {\1c&HFF00&\u1}anche{\r} la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.40,0:00:12.44,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.44,0:00:12.50,Default,,0,0,0,,però può essere anche {\1c&HFF00&\u1}la{\r} cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.50,0:00:12.52,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.52,0:00:12.64,Default,,0,0,0,,però può essere anche la {\1c&HFF00&\u1}cosa{\r} che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.64,0:00:12.66,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.66,0:00:12.74,Default,,0,0,0,,però può essere anche la cosa {\1c&HFF00&\u1}che{\r} te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.74,0:00:12.76,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.76,0:00:12.82,Default,,0,0,0,,però può essere anche la cosa che {\1c&HFF00&\u1}te{\r} la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.82,0:00:12.86,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.86,0:00:12.92,Default,,0,0,0,,però può essere anche la cosa che te {\1c&HFF00&\u1}la{\r} fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.92,0:00:12.96,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:12.96,0:00:13.04,Default,,0,0,0,,però può essere anche la cosa che te la {\1c&HFF00&\u1}fa{\r} venire, può essere anche la cosa che
+Dialogue: 0,0:00:13.04,0:00:13.08,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:13.08,0:00:13.40,Default,,0,0,0,,però può essere anche la cosa che te la fa {\1c&HFF00&\u1}venire,{\r} può essere anche la cosa che
+Dialogue: 0,0:00:13.40,0:00:14.55,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:14.55,0:00:14.61,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, {\1c&HFF00&\u1}può{\r} essere anche la cosa che
+Dialogue: 0,0:00:14.61,0:00:14.63,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:14.63,0:00:14.75,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può {\1c&HFF00&\u1}essere{\r} anche la cosa che
+Dialogue: 0,0:00:14.75,0:00:14.77,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:14.77,0:00:14.97,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere {\1c&HFF00&\u1}anche{\r} la cosa che
+Dialogue: 0,0:00:14.97,0:00:15.31,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:15.31,0:00:15.35,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche {\1c&HFF00&\u1}la{\r} cosa che
+Dialogue: 0,0:00:15.35,0:00:15.39,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:15.39,0:00:15.51,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la {\1c&HFF00&\u1}cosa{\r} che
+Dialogue: 0,0:00:15.51,0:00:15.53,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa che
+Dialogue: 0,0:00:15.53,0:00:15.59,Default,,0,0,0,,però può essere anche la cosa che te la fa venire, può essere anche la cosa {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:15.56,0:00:15.66,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} te la può fa scacciare però
+Dialogue: 0,0:00:15.66,0:00:15.70,Default,,0,0,0,,che te la può fa scacciare però
+Dialogue: 0,0:00:15.70,0:00:15.80,Default,,0,0,0,,che {\1c&HFF00&\u1}te{\r} la può fa scacciare però
+Dialogue: 0,0:00:15.80,0:00:15.82,Default,,0,0,0,,che te la può fa scacciare però
+Dialogue: 0,0:00:15.82,0:00:15.86,Default,,0,0,0,,che te {\1c&HFF00&\u1}la{\r} può fa scacciare però
+Dialogue: 0,0:00:15.86,0:00:15.88,Default,,0,0,0,,che te la può fa scacciare però
+Dialogue: 0,0:00:15.88,0:00:16.06,Default,,0,0,0,,che te la {\1c&HFF00&\u1}può{\r} fa scacciare però
+Dialogue: 0,0:00:16.06,0:00:16.10,Default,,0,0,0,,che te la può fa scacciare però
+Dialogue: 0,0:00:16.10,0:00:16.16,Default,,0,0,0,,che te la può {\1c&HFF00&\u1}fa{\r} scacciare però
+Dialogue: 0,0:00:16.16,0:00:16.20,Default,,0,0,0,,che te la può fa scacciare però
+Dialogue: 0,0:00:16.20,0:00:16.57,Default,,0,0,0,,che te la può fa {\1c&HFF00&\u1}scacciare{\r} però
+Dialogue: 0,0:00:16.57,0:00:16.61,Default,,0,0,0,,che te la può fa scacciare però
+Dialogue: 0,0:00:16.61,0:00:16.73,Default,,0,0,0,,che te la può fa scacciare {\1c&HFF00&\u1}però{\r}

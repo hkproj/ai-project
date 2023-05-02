@@ -1,0 +1,44 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.02,0:00:0.24,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.24,0:00:0.26,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.26,0:00:0.32,Default,,0,0,0,,e {\1c&HFF00&\u1}fai,{\r} in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.32,0:00:0.34,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.34,0:00:0.44,Default,,0,0,0,,e fai, {\1c&HFF00&\u1}in{\r} camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.44,0:00:0.46,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.46,0:00:0.78,Default,,0,0,0,,e fai, in {\1c&HFF00&\u1}camerino,{\r} in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.78,0:00:0.82,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.82,0:00:0.86,Default,,0,0,0,,e fai, in camerino, {\1c&HFF00&\u1}in{\r} camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.86,0:00:0.90,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:0.90,0:00:1.38,Default,,0,0,0,,e fai, in camerino, in {\1c&HFF00&\u1}camerino{\r} non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:1.38,0:00:2.15,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.15,0:00:2.25,Default,,0,0,0,,e fai, in camerino, in camerino {\1c&HFF00&\u1}non{\r} so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.25,0:00:2.27,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.27,0:00:2.33,Default,,0,0,0,,e fai, in camerino, in camerino non {\1c&HFF00&\u1}so{\r} perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.33,0:00:2.37,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.37,0:00:2.51,Default,,0,0,0,,e fai, in camerino, in camerino non so {\1c&HFF00&\u1}perché{\r} è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.51,0:00:2.55,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.55,0:00:2.57,Default,,0,0,0,,e fai, in camerino, in camerino non so perché {\1c&HFF00&\u1}è{\r} quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.57,0:00:2.61,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:2.61,0:00:2.85,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è {\1c&HFF00&\u1}quello,{\r} perché non ti sente nessuno?
+Dialogue: 0,0:00:2.85,0:00:3.23,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:3.23,0:00:3.45,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, {\1c&HFF00&\u1}perché{\r} non ti sente nessuno?
+Dialogue: 0,0:00:3.45,0:00:3.51,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:3.51,0:00:3.61,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché {\1c&HFF00&\u1}non{\r} ti sente nessuno?
+Dialogue: 0,0:00:3.61,0:00:3.63,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:3.63,0:00:3.79,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non {\1c&HFF00&\u1}ti{\r} sente nessuno?
+Dialogue: 0,0:00:3.79,0:00:3.85,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:3.85,0:00:4.34,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti {\1c&HFF00&\u1}sente{\r} nessuno?
+Dialogue: 0,0:00:4.34,0:00:4.38,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente nessuno?
+Dialogue: 0,0:00:4.38,0:00:4.78,Default,,0,0,0,,e fai, in camerino, in camerino non so perché è quello, perché non ti sente {\1c&HFF00&\u1}nessuno?{\r}

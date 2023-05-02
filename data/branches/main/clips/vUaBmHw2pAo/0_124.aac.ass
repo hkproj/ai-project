@@ -1,0 +1,86 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:0.78,0:00:0.80,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:0.80,0:00:1.00,Default,,0,0,0,,di {\1c&HFF00&\u1}usare{\r} il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:1.00,0:00:1.04,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:1.04,0:00:1.10,Default,,0,0,0,,di usare {\1c&HFF00&\u1}il{\r} cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:1.10,0:00:1.16,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:1.16,0:00:2.35,Default,,0,0,0,,di usare il {\1c&HFF00&\u1}cervello,{\r} non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.35,0:00:2.37,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.37,0:00:2.45,Default,,0,0,0,,di usare il cervello, {\1c&HFF00&\u1}non{\r} lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.45,0:00:2.49,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.49,0:00:2.55,Default,,0,0,0,,di usare il cervello, non {\1c&HFF00&\u1}lo{\r} fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.55,0:00:2.59,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.59,0:00:2.73,Default,,0,0,0,,di usare il cervello, non lo {\1c&HFF00&\u1}fa{\r} la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.73,0:00:2.95,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:2.95,0:00:3.03,Default,,0,0,0,,di usare il cervello, non lo fa {\1c&HFF00&\u1}la{\r} tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:3.03,0:00:3.11,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:3.11,0:00:3.29,Default,,0,0,0,,di usare il cervello, non lo fa la {\1c&HFF00&\u1}tua{\r} identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:3.29,0:00:3.35,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:3.35,0:00:3.95,Default,,0,0,0,,di usare il cervello, non lo fa la tua {\1c&HFF00&\u1}identità{\r} quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:3.95,0:00:4.07,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:4.07,0:00:4.77,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità {\1c&HFF00&\u1}quotidiana,{\r} lo fa un modo di usare il cervello
+Dialogue: 0,0:00:4.77,0:00:5.79,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:5.79,0:00:5.85,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, {\1c&HFF00&\u1}lo{\r} fa un modo di usare il cervello
+Dialogue: 0,0:00:5.85,0:00:5.87,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:5.87,0:00:5.95,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo {\1c&HFF00&\u1}fa{\r} un modo di usare il cervello
+Dialogue: 0,0:00:5.95,0:00:6.01,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:6.01,0:00:6.07,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa {\1c&HFF00&\u1}un{\r} modo di usare il cervello
+Dialogue: 0,0:00:6.07,0:00:6.13,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:6.13,0:00:6.43,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un {\1c&HFF00&\u1}modo{\r} di usare il cervello
+Dialogue: 0,0:00:6.43,0:00:6.45,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:6.45,0:00:6.51,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo {\1c&HFF00&\u1}di{\r} usare il cervello
+Dialogue: 0,0:00:6.51,0:00:6.55,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:6.55,0:00:6.72,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di {\1c&HFF00&\u1}usare{\r} il cervello
+Dialogue: 0,0:00:6.72,0:00:6.74,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:6.74,0:00:6.78,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare {\1c&HFF00&\u1}il{\r} cervello
+Dialogue: 0,0:00:6.78,0:00:6.82,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il cervello
+Dialogue: 0,0:00:6.82,0:00:7.42,Default,,0,0,0,,di usare il cervello, non lo fa la tua identità quotidiana, lo fa un modo di usare il {\1c&HFF00&\u1}cervello{\r}
+Dialogue: 0,0:00:6.88,0:00:8.28,Default,,0,0,0,,{\1c&HFF00&\u1}pervello{\r} diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:8.28,0:00:8.32,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:8.32,0:00:8.96,Default,,0,0,0,,pervello {\1c&HFF00&\u1}diverso{\r} che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:8.96,0:00:9.53,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:9.53,0:00:9.61,Default,,0,0,0,,pervello diverso {\1c&HFF00&\u1}che{\r} nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:9.61,0:00:9.65,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:9.65,0:00:9.81,Default,,0,0,0,,pervello diverso che {\1c&HFF00&\u1}nella{\r} vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:9.81,0:00:9.83,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:9.83,0:00:9.99,Default,,0,0,0,,pervello diverso che nella {\1c&HFF00&\u1}vita{\r} quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:9.99,0:00:10.05,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:10.05,0:00:10.73,Default,,0,0,0,,pervello diverso che nella vita {\1c&HFF00&\u1}quotidiana{\r} non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:10.73,0:00:11.35,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:11.35,0:00:11.47,Default,,0,0,0,,pervello diverso che nella vita quotidiana {\1c&HFF00&\u1}non{\r} emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:11.47,0:00:11.51,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:11.51,0:00:12.11,Default,,0,0,0,,pervello diverso che nella vita quotidiana non {\1c&HFF00&\u1}emerge{\r} ma che c'è in te. Ora io non
+Dialogue: 0,0:00:12.11,0:00:12.69,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:12.69,0:00:12.75,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge {\1c&HFF00&\u1}ma{\r} che c'è in te. Ora io non
+Dialogue: 0,0:00:12.75,0:00:12.81,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:12.81,0:00:12.89,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma {\1c&HFF00&\u1}che{\r} c'è in te. Ora io non
+Dialogue: 0,0:00:12.89,0:00:12.99,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:12.99,0:00:13.05,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che {\1c&HFF00&\u1}c'è{\r} in te. Ora io non
+Dialogue: 0,0:00:13.05,0:00:13.13,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:13.13,0:00:13.23,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è {\1c&HFF00&\u1}in{\r} te. Ora io non
+Dialogue: 0,0:00:13.23,0:00:13.31,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:13.31,0:00:13.43,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in {\1c&HFF00&\u1}te.{\r} Ora io non
+Dialogue: 0,0:00:13.43,0:00:14.86,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:14.86,0:00:14.96,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. {\1c&HFF00&\u1}Ora{\r} io non
+Dialogue: 0,0:00:14.96,0:00:15.06,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:15.06,0:00:15.32,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora {\1c&HFF00&\u1}io{\r} non
+Dialogue: 0,0:00:15.32,0:00:15.46,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io non
+Dialogue: 0,0:00:15.46,0:00:15.60,Default,,0,0,0,,pervello diverso che nella vita quotidiana non emerge ma che c'è in te. Ora io {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:15.24,0:00:15.32,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} uno psicologo.
+Dialogue: 0,0:00:15.32,0:00:15.34,Default,,0,0,0,,sono uno psicologo.
+Dialogue: 0,0:00:15.34,0:00:15.40,Default,,0,0,0,,sono {\1c&HFF00&\u1}uno{\r} psicologo.
+Dialogue: 0,0:00:15.40,0:00:15.42,Default,,0,0,0,,sono uno psicologo.
+Dialogue: 0,0:00:15.42,0:00:15.61,Default,,0,0,0,,sono uno {\1c&HFF00&\u1}psicologo.{\r}

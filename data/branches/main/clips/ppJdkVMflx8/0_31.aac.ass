@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.16,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:0.18,0:00:0.44,Default,,0,0,0,,E {\1c&HFF00&\u1}invece{\r} di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:0.44,0:00:0.48,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:0.48,0:00:0.56,Default,,0,0,0,,E invece {\1c&HFF00&\u1}di{\r} puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:0.56,0:00:0.64,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:0.64,0:00:1.00,Default,,0,0,0,,E invece di {\1c&HFF00&\u1}puntare{\r} solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:1.00,0:00:1.06,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:1.06,0:00:1.48,Default,,0,0,0,,E invece di puntare {\1c&HFF00&\u1}solamente{\r} a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:1.48,0:00:1.56,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:1.56,0:00:1.71,Default,,0,0,0,,E invece di puntare solamente {\1c&HFF00&\u1}a{\r} essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:1.71,0:00:1.91,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:1.91,0:00:2.19,Default,,0,0,0,,E invece di puntare solamente a {\1c&HFF00&\u1}essere{\r} sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:2.19,0:00:2.29,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:2.29,0:00:2.53,Default,,0,0,0,,E invece di puntare solamente a essere {\1c&HFF00&\u1}sempre{\r} a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:2.53,0:00:2.55,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:2.55,0:00:2.57,Default,,0,0,0,,E invece di puntare solamente a essere sempre {\1c&HFF00&\u1}a{\r} lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:2.57,0:00:2.63,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:2.63,0:00:3.01,Default,,0,0,0,,E invece di puntare solamente a essere sempre a {\1c&HFF00&\u1}lezione{\r} tutti i giorni o quant'altro,
+Dialogue: 0,0:00:3.01,0:00:3.11,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:3.11,0:00:3.27,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione {\1c&HFF00&\u1}tutti{\r} i giorni o quant'altro,
+Dialogue: 0,0:00:3.27,0:00:3.29,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:3.29,0:00:3.33,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti {\1c&HFF00&\u1}i{\r} giorni o quant'altro,
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:3.37,0:00:3.57,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i {\1c&HFF00&\u1}giorni{\r} o quant'altro,
+Dialogue: 0,0:00:3.57,0:00:3.59,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:3.59,0:00:3.65,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni {\1c&HFF00&\u1}o{\r} quant'altro,
+Dialogue: 0,0:00:3.65,0:00:3.69,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o quant'altro,
+Dialogue: 0,0:00:3.69,0:00:4.27,Default,,0,0,0,,E invece di puntare solamente a essere sempre a lezione tutti i giorni o {\1c&HFF00&\u1}quant'altro,{\r}
+Dialogue: 0,0:00:4.68,0:00:4.88,Default,,0,0,0,,{\1c&HFF00&\u1}siccome{\r} l'università dà anche questa possibilità,
+Dialogue: 0,0:00:4.88,0:00:4.92,Default,,0,0,0,,siccome l'università dà anche questa possibilità,
+Dialogue: 0,0:00:4.92,0:00:5.38,Default,,0,0,0,,siccome {\1c&HFF00&\u1}l'università{\r} dà anche questa possibilità,
+Dialogue: 0,0:00:5.38,0:00:5.50,Default,,0,0,0,,siccome l'università dà anche questa possibilità,
+Dialogue: 0,0:00:5.50,0:00:5.59,Default,,0,0,0,,siccome l'università {\1c&HFF00&\u1}dà{\r} anche questa possibilità,
+Dialogue: 0,0:00:5.59,0:00:5.61,Default,,0,0,0,,siccome l'università dà anche questa possibilità,
+Dialogue: 0,0:00:5.61,0:00:5.81,Default,,0,0,0,,siccome l'università dà {\1c&HFF00&\u1}anche{\r} questa possibilità,
+Dialogue: 0,0:00:5.81,0:00:5.85,Default,,0,0,0,,siccome l'università dà anche questa possibilità,
+Dialogue: 0,0:00:5.85,0:00:6.07,Default,,0,0,0,,siccome l'università dà anche {\1c&HFF00&\u1}questa{\r} possibilità,
+Dialogue: 0,0:00:6.07,0:00:6.11,Default,,0,0,0,,siccome l'università dà anche questa possibilità,
+Dialogue: 0,0:00:6.11,0:00:6.49,Default,,0,0,0,,siccome l'università dà anche questa {\1c&HFF00&\u1}possibilità,{\r}
+Dialogue: 0,0:00:6.78,0:00:6.82,Default,,0,0,0,,{\1c&HFF00&\u1}ho{\r} deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:6.82,0:00:6.86,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:6.86,0:00:7.06,Default,,0,0,0,,ho {\1c&HFF00&\u1}deciso{\r} di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.06,0:00:7.08,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.08,0:00:7.16,Default,,0,0,0,,ho deciso {\1c&HFF00&\u1}di{\r} gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.16,0:00:7.24,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.24,0:00:7.63,Default,,0,0,0,,ho deciso di {\1c&HFF00&\u1}gestirmi{\r} bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.63,0:00:7.71,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.71,0:00:7.85,Default,,0,0,0,,ho deciso di gestirmi {\1c&HFF00&\u1}bene{\r} il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.85,0:00:7.87,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.87,0:00:7.93,Default,,0,0,0,,ho deciso di gestirmi bene {\1c&HFF00&\u1}il{\r} tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.93,0:00:7.97,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:7.97,0:00:8.29,Default,,0,0,0,,ho deciso di gestirmi bene il {\1c&HFF00&\u1}tempo,{\r} frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:8.29,0:00:8.35,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:8.35,0:00:8.79,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, {\1c&HFF00&\u1}frequentare{\r} solo le lezioni che volevo
+Dialogue: 0,0:00:8.79,0:00:8.91,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:8.91,0:00:9.09,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare {\1c&HFF00&\u1}solo{\r} le lezioni che volevo
+Dialogue: 0,0:00:9.09,0:00:9.19,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:9.19,0:00:9.25,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo {\1c&HFF00&\u1}le{\r} lezioni che volevo
+Dialogue: 0,0:00:9.25,0:00:9.33,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:9.33,0:00:9.78,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le {\1c&HFF00&\u1}lezioni{\r} che volevo
+Dialogue: 0,0:00:9.78,0:00:9.92,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:9.92,0:00:10.02,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni {\1c&HFF00&\u1}che{\r} volevo
+Dialogue: 0,0:00:10.02,0:00:10.06,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che volevo
+Dialogue: 0,0:00:10.06,0:00:10.42,Default,,0,0,0,,ho deciso di gestirmi bene il tempo, frequentare solo le lezioni che {\1c&HFF00&\u1}volevo{\r}

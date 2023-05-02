@@ -1,0 +1,826 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.06,0:00:1.28,Default,,0,0,0,,{\1c&HFF00&\u1}Quando{\r} viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:1.28,0:00:1.32,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:1.32,0:00:1.48,Default,,0,0,0,,Quando {\1c&HFF00&\u1}viene{\r} richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:1.48,0:00:1.52,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:1.52,0:00:1.97,Default,,0,0,0,,Quando viene {\1c&HFF00&\u1}richiamato?{\r} Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:1.97,0:00:2.03,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.03,0:00:2.17,Default,,0,0,0,,Quando viene richiamato? {\1c&HFF00&\u1}Quando{\r} viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.17,0:00:2.21,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.21,0:00:2.33,Default,,0,0,0,,Quando viene richiamato? Quando {\1c&HFF00&\u1}viene{\r} richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.33,0:00:2.35,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.35,0:00:2.71,Default,,0,0,0,,Quando viene richiamato? Quando viene {\1c&HFF00&\u1}richiamato{\r} il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.71,0:00:2.73,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.73,0:00:2.77,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato {\1c&HFF00&\u1}il{\r} nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.77,0:00:2.79,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.79,0:00:2.97,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il {\1c&HFF00&\u1}nostro{\r} cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.97,0:00:2.99,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:2.99,0:00:3.19,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro {\1c&HFF00&\u1}cane{\r} non torna e vi dico subito perché
+Dialogue: 0,0:00:3.19,0:00:3.23,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:3.23,0:00:3.35,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane {\1c&HFF00&\u1}non{\r} torna e vi dico subito perché
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:3.39,0:00:3.71,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non {\1c&HFF00&\u1}torna{\r} e vi dico subito perché
+Dialogue: 0,0:00:3.71,0:00:3.87,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:3.87,0:00:3.89,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna {\1c&HFF00&\u1}e{\r} vi dico subito perché
+Dialogue: 0,0:00:3.89,0:00:3.93,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:3.93,0:00:3.99,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e {\1c&HFF00&\u1}vi{\r} dico subito perché
+Dialogue: 0,0:00:3.99,0:00:4.05,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:4.05,0:00:4.19,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi {\1c&HFF00&\u1}dico{\r} subito perché
+Dialogue: 0,0:00:4.19,0:00:4.23,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:4.23,0:00:4.51,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico {\1c&HFF00&\u1}subito{\r} perché
+Dialogue: 0,0:00:4.51,0:00:4.57,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito perché
+Dialogue: 0,0:00:4.57,0:00:4.77,Default,,0,0,0,,Quando viene richiamato? Quando viene richiamato il nostro cane non torna e vi dico subito {\1c&HFF00&\u1}perché{\r}
+Dialogue: 0,0:00:5.16,0:00:5.36,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:5.36,0:00:5.38,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:5.38,0:00:5.42,Default,,0,0,0,,perché {\1c&HFF00&\u1}ha{\r} associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:5.42,0:00:5.48,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:5.48,0:00:5.92,Default,,0,0,0,,perché ha {\1c&HFF00&\u1}associato,{\r} ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:5.92,0:00:5.96,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:5.96,0:00:6.00,Default,,0,0,0,,perché ha associato, {\1c&HFF00&\u1}ha{\r} fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:6.00,0:00:6.02,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:6.02,0:00:6.14,Default,,0,0,0,,perché ha associato, ha {\1c&HFF00&\u1}fatto{\r} un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:6.14,0:00:6.18,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:6.18,0:00:6.85,Default,,0,0,0,,perché ha associato, ha fatto {\1c&HFF00&\u1}un'associazione{\r} negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:6.85,0:00:7.15,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:7.15,0:00:7.61,Default,,0,0,0,,perché ha associato, ha fatto un'associazione {\1c&HFF00&\u1}negativa{\r} ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:7.61,0:00:7.79,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:7.79,0:00:8.05,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa {\1c&HFF00&\u1}ovvero{\r} quando il cane viene richiamato
+Dialogue: 0,0:00:8.05,0:00:8.11,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:8.11,0:00:8.39,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero {\1c&HFF00&\u1}quando{\r} il cane viene richiamato
+Dialogue: 0,0:00:8.39,0:00:8.45,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:8.45,0:00:8.49,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando {\1c&HFF00&\u1}il{\r} cane viene richiamato
+Dialogue: 0,0:00:8.49,0:00:8.53,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:8.53,0:00:8.73,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il {\1c&HFF00&\u1}cane{\r} viene richiamato
+Dialogue: 0,0:00:8.73,0:00:8.77,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:8.77,0:00:8.91,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane {\1c&HFF00&\u1}viene{\r} richiamato
+Dialogue: 0,0:00:8.91,0:00:8.93,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene richiamato
+Dialogue: 0,0:00:8.93,0:00:9.37,Default,,0,0,0,,perché ha associato, ha fatto un'associazione negativa ovvero quando il cane viene {\1c&HFF00&\u1}richiamato{\r}
+Dialogue: 0,0:00:9.94,0:00:10.02,Default,,0,0,0,,{\1c&HFF00&\u1}noi{\r} lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.02,0:00:10.06,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.06,0:00:10.10,Default,,0,0,0,,noi {\1c&HFF00&\u1}lo{\r} richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.10,0:00:10.16,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.16,0:00:10.52,Default,,0,0,0,,noi lo {\1c&HFF00&\u1}richiamo{\r} e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.52,0:00:10.66,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.66,0:00:10.68,Default,,0,0,0,,noi lo richiamo {\1c&HFF00&\u1}e{\r} lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.68,0:00:10.72,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.72,0:00:10.78,Default,,0,0,0,,noi lo richiamo e {\1c&HFF00&\u1}lo{\r} portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.78,0:00:10.80,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:10.80,0:00:11.09,Default,,0,0,0,,noi lo richiamo e lo {\1c&HFF00&\u1}portiamo{\r} a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.09,0:00:11.11,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.11,0:00:11.13,Default,,0,0,0,,noi lo richiamo e lo portiamo {\1c&HFF00&\u1}a{\r} casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.13,0:00:11.19,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.19,0:00:11.43,Default,,0,0,0,,noi lo richiamo e lo portiamo a {\1c&HFF00&\u1}casa{\r} quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.43,0:00:11.53,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.53,0:00:11.79,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa {\1c&HFF00&\u1}quindi{\r} psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.79,0:00:11.91,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:11.91,0:00:12.85,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi {\1c&HFF00&\u1}psicologicamente{\r} parlando per il tuo cane
+Dialogue: 0,0:00:12.85,0:00:12.91,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:12.91,0:00:13.37,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente {\1c&HFF00&\u1}parlando{\r} per il tuo cane
+Dialogue: 0,0:00:13.37,0:00:13.41,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:13.41,0:00:13.51,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando {\1c&HFF00&\u1}per{\r} il tuo cane
+Dialogue: 0,0:00:13.51,0:00:13.55,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:13.55,0:00:13.59,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per {\1c&HFF00&\u1}il{\r} tuo cane
+Dialogue: 0,0:00:13.59,0:00:13.65,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:13.65,0:00:13.71,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il {\1c&HFF00&\u1}tuo{\r} cane
+Dialogue: 0,0:00:13.71,0:00:13.77,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo cane
+Dialogue: 0,0:00:13.77,0:00:14.03,Default,,0,0,0,,noi lo richiamo e lo portiamo a casa quindi psicologicamente parlando per il tuo {\1c&HFF00&\u1}cane{\r}
+Dialogue: 0,0:00:14.00,0:00:14.30,Default,,0,0,0,,{\1c&HFF00&\u1}quando{\r} lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:14.30,0:00:14.40,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:14.40,0:00:14.52,Default,,0,0,0,,quando {\1c&HFF00&\u1}lo{\r} chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:14.52,0:00:14.66,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:14.66,0:00:14.84,Default,,0,0,0,,quando lo {\1c&HFF00&\u1}chiami{\r} significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:14.84,0:00:15.08,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:15.08,0:00:15.46,Default,,0,0,0,,quando lo chiami {\1c&HFF00&\u1}significa{\r} fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:15.46,0:00:15.84,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:15.84,0:00:16.00,Default,,0,0,0,,quando lo chiami significa {\1c&HFF00&\u1}fine{\r} dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:16.00,0:00:16.04,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:16.04,0:00:16.17,Default,,0,0,0,,quando lo chiami significa fine {\1c&HFF00&\u1}dei{\r} giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:16.17,0:00:16.21,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:16.21,0:00:16.49,Default,,0,0,0,,quando lo chiami significa fine dei {\1c&HFF00&\u1}giochi,{\r} fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:16.49,0:00:16.95,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:16.95,0:00:17.21,Default,,0,0,0,,quando lo chiami significa fine dei giochi, {\1c&HFF00&\u1}fine{\r} del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:17.21,0:00:17.35,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:17.35,0:00:17.47,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine {\1c&HFF00&\u1}del{\r} divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:17.47,0:00:17.51,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:17.51,0:00:18.15,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del {\1c&HFF00&\u1}divertimento{\r} e questo è un problema ed è il
+Dialogue: 0,0:00:18.15,0:00:18.77,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:18.77,0:00:18.83,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento {\1c&HFF00&\u1}e{\r} questo è un problema ed è il
+Dialogue: 0,0:00:18.83,0:00:18.87,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:18.87,0:00:19.17,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e {\1c&HFF00&\u1}questo{\r} è un problema ed è il
+Dialogue: 0,0:00:19.17,0:00:19.45,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:19.45,0:00:19.53,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo {\1c&HFF00&\u1}è{\r} un problema ed è il
+Dialogue: 0,0:00:19.53,0:00:19.73,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:19.73,0:00:19.79,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è {\1c&HFF00&\u1}un{\r} problema ed è il
+Dialogue: 0,0:00:19.79,0:00:19.83,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:19.83,0:00:20.19,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un {\1c&HFF00&\u1}problema{\r} ed è il
+Dialogue: 0,0:00:20.19,0:00:20.33,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:20.33,0:00:20.44,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema {\1c&HFF00&\u1}ed{\r} è il
+Dialogue: 0,0:00:20.44,0:00:20.46,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:20.46,0:00:20.50,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed {\1c&HFF00&\u1}è{\r} il
+Dialogue: 0,0:00:20.50,0:00:20.54,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è il
+Dialogue: 0,0:00:20.54,0:00:20.58,Default,,0,0,0,,quando lo chiami significa fine dei giochi, fine del divertimento e questo è un problema ed è {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:20.52,0:00:20.64,Default,,0,0,0,,{\1c&HFF00&\u1}motivo{\r} per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.64,0:00:20.66,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.66,0:00:20.72,Default,,0,0,0,,motivo {\1c&HFF00&\u1}per{\r} cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.72,0:00:20.74,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.74,0:00:20.80,Default,,0,0,0,,motivo per {\1c&HFF00&\u1}cui{\r} il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.80,0:00:20.82,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.82,0:00:20.86,Default,,0,0,0,,motivo per cui {\1c&HFF00&\u1}il{\r} tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.86,0:00:20.88,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.88,0:00:20.94,Default,,0,0,0,,motivo per cui il {\1c&HFF00&\u1}tuo{\r} cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.94,0:00:20.96,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:20.96,0:00:21.04,Default,,0,0,0,,motivo per cui il tuo {\1c&HFF00&\u1}cane{\r} molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.04,0:00:21.06,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.06,0:00:21.16,Default,,0,0,0,,motivo per cui il tuo cane {\1c&HFF00&\u1}molte{\r} volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.16,0:00:21.18,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.18,0:00:21.28,Default,,0,0,0,,motivo per cui il tuo cane molte {\1c&HFF00&\u1}volte{\r} decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.28,0:00:21.30,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.30,0:00:21.42,Default,,0,0,0,,motivo per cui il tuo cane molte volte {\1c&HFF00&\u1}decide{\r} di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.42,0:00:21.44,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.44,0:00:21.48,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide {\1c&HFF00&\u1}di{\r} non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.48,0:00:21.50,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.50,0:00:21.56,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di {\1c&HFF00&\u1}non{\r} tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.56,0:00:21.58,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.58,0:00:21.72,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non {\1c&HFF00&\u1}tornare{\r} quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.72,0:00:21.74,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.74,0:00:21.86,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare {\1c&HFF00&\u1}quando{\r} lo richiama. Come fare ad
+Dialogue: 0,0:00:21.86,0:00:21.88,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.88,0:00:21.92,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando {\1c&HFF00&\u1}lo{\r} richiama. Come fare ad
+Dialogue: 0,0:00:21.92,0:00:21.94,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:21.94,0:00:22.10,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo {\1c&HFF00&\u1}richiama.{\r} Come fare ad
+Dialogue: 0,0:00:22.10,0:00:22.12,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:22.12,0:00:22.20,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. {\1c&HFF00&\u1}Come{\r} fare ad
+Dialogue: 0,0:00:22.20,0:00:22.22,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:22.22,0:00:22.31,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come {\1c&HFF00&\u1}fare{\r} ad
+Dialogue: 0,0:00:22.31,0:00:22.33,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare ad
+Dialogue: 0,0:00:22.33,0:00:22.37,Default,,0,0,0,,motivo per cui il tuo cane molte volte decide di non tornare quando lo richiama. Come fare {\1c&HFF00&\u1}ad{\r}
+Dialogue: 0,0:00:25.60,0:00:25.98,Default,,0,0,0,,{\1c&HFF00&\u1}insegnarli{\r} quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:25.98,0:00:26.02,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:26.02,0:00:26.34,Default,,0,0,0,,insegnarli {\1c&HFF00&\u1}quindi{\r} a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:26.34,0:00:26.56,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:26.56,0:00:26.60,Default,,0,0,0,,insegnarli quindi {\1c&HFF00&\u1}a{\r} capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:26.60,0:00:26.64,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:26.64,0:00:27.00,Default,,0,0,0,,insegnarli quindi a {\1c&HFF00&\u1}capire{\r} che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.00,0:00:27.12,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.12,0:00:27.22,Default,,0,0,0,,insegnarli quindi a capire {\1c&HFF00&\u1}che{\r} lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.22,0:00:27.41,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.41,0:00:27.59,Default,,0,0,0,,insegnarli quindi a capire che {\1c&HFF00&\u1}lui{\r} deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.59,0:00:27.71,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.71,0:00:27.89,Default,,0,0,0,,insegnarli quindi a capire che lui {\1c&HFF00&\u1}deve{\r} scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.89,0:00:27.93,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:27.93,0:00:28.29,Default,,0,0,0,,insegnarli quindi a capire che lui deve {\1c&HFF00&\u1}scegliere{\r} di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:28.29,0:00:28.31,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:28.31,0:00:28.37,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere {\1c&HFF00&\u1}di{\r} tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:28.37,0:00:28.41,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:28.41,0:00:28.73,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di {\1c&HFF00&\u1}tornare,{\r} a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:28.73,0:00:28.75,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:28.75,0:00:28.77,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, {\1c&HFF00&\u1}a{\r} farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:28.77,0:00:29.05,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:29.05,0:00:29.27,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a {\1c&HFF00&\u1}farlo,{\r} a convincerlo di scegliere di
+Dialogue: 0,0:00:29.27,0:00:29.41,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:29.41,0:00:29.45,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, {\1c&HFF00&\u1}a{\r} convincerlo di scegliere di
+Dialogue: 0,0:00:29.45,0:00:29.51,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:29.51,0:00:30.17,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a {\1c&HFF00&\u1}convincerlo{\r} di scegliere di
+Dialogue: 0,0:00:30.17,0:00:30.19,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:30.19,0:00:30.43,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo {\1c&HFF00&\u1}di{\r} scegliere di
+Dialogue: 0,0:00:30.43,0:00:30.45,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:30.45,0:00:30.89,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di {\1c&HFF00&\u1}scegliere{\r} di
+Dialogue: 0,0:00:30.89,0:00:30.91,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere di
+Dialogue: 0,0:00:30.91,0:00:30.95,Default,,0,0,0,,insegnarli quindi a capire che lui deve scegliere di tornare, a farlo, a convincerlo di scegliere {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:31.72,0:00:31.98,Default,,0,0,0,,{\1c&HFF00&\u1}tornare{\r} ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:31.98,0:00:32.00,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:32.00,0:00:32.08,Default,,0,0,0,,tornare {\1c&HFF00&\u1}ogni{\r} volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:32.08,0:00:32.10,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:32.10,0:00:32.20,Default,,0,0,0,,tornare ogni {\1c&HFF00&\u1}volta{\r} che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:32.20,0:00:32.22,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:32.22,0:00:32.32,Default,,0,0,0,,tornare ogni volta {\1c&HFF00&\u1}che{\r} viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:32.32,0:00:32.36,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:32.36,0:00:33.31,Default,,0,0,0,,tornare ogni volta che {\1c&HFF00&\u1}viene{\r} richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:33.31,0:00:33.53,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:33.53,0:00:33.73,Default,,0,0,0,,tornare ogni volta che viene {\1c&HFF00&\u1}richiamato.{\r} Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:33.73,0:00:33.75,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:33.75,0:00:33.81,Default,,0,0,0,,tornare ogni volta che viene richiamato. {\1c&HFF00&\u1}Per{\r} prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:33.81,0:00:33.85,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:33.85,0:00:34.03,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per {\1c&HFF00&\u1}prima{\r} cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:34.03,0:00:34.07,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:34.07,0:00:34.39,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima {\1c&HFF00&\u1}cosa{\r} nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:34.39,0:00:34.55,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:34.55,0:00:34.67,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa {\1c&HFF00&\u1}nel{\r} momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:34.67,0:00:34.69,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:34.69,0:00:34.95,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel {\1c&HFF00&\u1}momento{\r} in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:34.95,0:00:35.01,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:35.01,0:00:35.07,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento {\1c&HFF00&\u1}in{\r} cui il cane è libero dobbiamo
+Dialogue: 0,0:00:35.07,0:00:35.15,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:35.15,0:00:35.41,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in {\1c&HFF00&\u1}cui{\r} il cane è libero dobbiamo
+Dialogue: 0,0:00:35.41,0:00:35.57,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:35.57,0:00:35.61,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui {\1c&HFF00&\u1}il{\r} cane è libero dobbiamo
+Dialogue: 0,0:00:35.61,0:00:35.67,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:35.67,0:00:35.91,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il {\1c&HFF00&\u1}cane{\r} è libero dobbiamo
+Dialogue: 0,0:00:35.91,0:00:35.93,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:35.93,0:00:35.99,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane {\1c&HFF00&\u1}è{\r} libero dobbiamo
+Dialogue: 0,0:00:35.99,0:00:36.03,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:36.03,0:00:36.37,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è {\1c&HFF00&\u1}libero{\r} dobbiamo
+Dialogue: 0,0:00:36.37,0:00:36.53,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero dobbiamo
+Dialogue: 0,0:00:36.53,0:00:36.81,Default,,0,0,0,,tornare ogni volta che viene richiamato. Per prima cosa nel momento in cui il cane è libero {\1c&HFF00&\u1}dobbiamo{\r}
+Dialogue: 0,0:00:36.80,0:00:37.64,Default,,0,0,0,,{\1c&HFF00&\u1}iniziare{\r} a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:37.64,0:00:37.66,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:37.66,0:00:37.68,Default,,0,0,0,,iniziare {\1c&HFF00&\u1}a{\r} chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:37.68,0:00:37.70,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:37.70,0:00:38.20,Default,,0,0,0,,iniziare a {\1c&HFF00&\u1}chiamarlo{\r} più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:38.20,0:00:38.54,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:38.54,0:00:38.66,Default,,0,0,0,,iniziare a chiamarlo {\1c&HFF00&\u1}più{\r} volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:38.66,0:00:38.78,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:38.78,0:00:39.19,Default,,0,0,0,,iniziare a chiamarlo più {\1c&HFF00&\u1}volte,{\r} ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:39.19,0:00:39.69,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:39.69,0:00:39.97,Default,,0,0,0,,iniziare a chiamarlo più volte, {\1c&HFF00&\u1}ok?{\r} Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:39.97,0:00:40.39,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:40.39,0:00:40.53,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? {\1c&HFF00&\u1}Non{\r} solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:40.53,0:00:40.67,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:40.67,0:00:40.95,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non {\1c&HFF00&\u1}solo{\r} quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:40.95,0:00:41.01,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:41.01,0:00:41.27,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo {\1c&HFF00&\u1}quando{\r} ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:41.27,0:00:41.33,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:41.33,0:00:41.39,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando {\1c&HFF00&\u1}ci{\r} serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:41.39,0:00:41.45,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:41.45,0:00:41.79,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci {\1c&HFF00&\u1}serve{\r} per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:41.79,0:00:41.91,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:41.91,0:00:42.01,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve {\1c&HFF00&\u1}per{\r} tornare a casa. Quindi cosa
+Dialogue: 0,0:00:42.01,0:00:42.07,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:42.07,0:00:42.31,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per {\1c&HFF00&\u1}tornare{\r} a casa. Quindi cosa
+Dialogue: 0,0:00:42.31,0:00:42.37,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:42.37,0:00:42.39,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare {\1c&HFF00&\u1}a{\r} casa. Quindi cosa
+Dialogue: 0,0:00:42.39,0:00:42.47,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:42.47,0:00:42.73,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a {\1c&HFF00&\u1}casa.{\r} Quindi cosa
+Dialogue: 0,0:00:42.73,0:00:43.25,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:43.25,0:00:43.53,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. {\1c&HFF00&\u1}Quindi{\r} cosa
+Dialogue: 0,0:00:43.53,0:00:44.22,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi cosa
+Dialogue: 0,0:00:44.22,0:00:44.36,Default,,0,0,0,,iniziare a chiamarlo più volte, ok? Non solo quando ci serve per tornare a casa. Quindi {\1c&HFF00&\u1}cosa{\r}
+Dialogue: 0,0:00:44.46,0:00:44.74,Default,,0,0,0,,{\1c&HFF00&\u1}facciamo?{\r} Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:44.74,0:00:44.90,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:44.90,0:00:44.94,Default,,0,0,0,,facciamo? {\1c&HFF00&\u1}Il{\r} cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:44.94,0:00:44.98,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:44.98,0:00:45.16,Default,,0,0,0,,facciamo? Il {\1c&HFF00&\u1}cane{\r} è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:45.16,0:00:45.18,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:45.18,0:00:45.20,Default,,0,0,0,,facciamo? Il cane {\1c&HFF00&\u1}è{\r} libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:45.20,0:00:45.26,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:45.26,0:00:45.52,Default,,0,0,0,,facciamo? Il cane è {\1c&HFF00&\u1}libero,{\r} noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:45.52,0:00:45.80,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:45.80,0:00:46.00,Default,,0,0,0,,facciamo? Il cane è libero, {\1c&HFF00&\u1}noi{\r} siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:46.00,0:00:46.35,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:46.35,0:00:46.61,Default,,0,0,0,,facciamo? Il cane è libero, noi {\1c&HFF00&\u1}siamo{\r} al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:46.61,0:00:46.85,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:46.85,0:00:46.93,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo {\1c&HFF00&\u1}al{\r} parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:46.93,0:00:46.97,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:46.97,0:00:47.31,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al {\1c&HFF00&\u1}parco{\r} comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:47.31,0:00:47.35,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:47.35,0:00:47.67,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco {\1c&HFF00&\u1}comunque{\r} vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:47.67,0:00:47.73,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:47.73,0:00:47.99,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque {\1c&HFF00&\u1}vicino{\r} a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:47.99,0:00:48.01,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:48.01,0:00:48.03,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino {\1c&HFF00&\u1}a{\r} lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:48.03,0:00:48.07,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:48.07,0:00:48.27,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a {\1c&HFF00&\u1}lui,{\r} lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:48.27,0:00:48.65,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:48.65,0:00:48.71,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, {\1c&HFF00&\u1}lo{\r} chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:48.71,0:00:48.77,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:48.77,0:00:49.21,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo {\1c&HFF00&\u1}chiamiamo,{\r} ci abbassiamo,
+Dialogue: 0,0:00:49.21,0:00:49.65,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:49.65,0:00:49.73,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, {\1c&HFF00&\u1}ci{\r} abbassiamo,
+Dialogue: 0,0:00:49.73,0:00:49.77,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci abbassiamo,
+Dialogue: 0,0:00:49.77,0:00:50.38,Default,,0,0,0,,facciamo? Il cane è libero, noi siamo al parco comunque vicino a lui, lo chiamiamo, ci {\1c&HFF00&\u1}abbassiamo,{\r}
+Dialogue: 0,0:00:51.08,0:00:51.18,Default,,0,0,0,,{\1c&HFF00&\u1}con{\r} un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:51.18,0:00:51.24,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:51.24,0:00:51.28,Default,,0,0,0,,con {\1c&HFF00&\u1}un{\r} premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:51.28,0:00:51.30,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:51.30,0:00:51.84,Default,,0,0,0,,con un {\1c&HFF00&\u1}premietto{\r} lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:51.84,0:00:52.14,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:52.14,0:00:52.28,Default,,0,0,0,,con un premietto {\1c&HFF00&\u1}lui{\r} verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:52.28,0:00:52.34,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:52.34,0:00:52.69,Default,,0,0,0,,con un premietto lui {\1c&HFF00&\u1}verrà,{\r} lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:52.69,0:00:53.19,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:53.19,0:00:53.23,Default,,0,0,0,,con un premietto lui verrà, {\1c&HFF00&\u1}lo{\r} chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:53.23,0:00:53.27,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:53.27,0:00:53.59,Default,,0,0,0,,con un premietto lui verrà, lo {\1c&HFF00&\u1}chiamiamo{\r} finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:53.59,0:00:53.67,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:53.67,0:00:53.91,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo {\1c&HFF00&\u1}finché{\r} non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:53.91,0:00:53.93,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:53.93,0:00:54.05,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché {\1c&HFF00&\u1}non{\r} viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:54.05,0:00:54.09,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:54.09,0:00:54.35,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non {\1c&HFF00&\u1}viene,{\r} a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:54.35,0:00:55.05,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:55.05,0:00:55.09,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, {\1c&HFF00&\u1}a{\r} quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:55.09,0:00:55.11,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:55.11,0:00:55.27,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a {\1c&HFF00&\u1}quel{\r} punto verrà, prenderà il premio,
+Dialogue: 0,0:00:55.27,0:00:55.31,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:55.31,0:00:55.63,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel {\1c&HFF00&\u1}punto{\r} verrà, prenderà il premio,
+Dialogue: 0,0:00:55.63,0:00:55.87,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:55.87,0:00:56.13,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto {\1c&HFF00&\u1}verrà,{\r} prenderà il premio,
+Dialogue: 0,0:00:56.13,0:00:56.43,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:56.43,0:00:56.73,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, {\1c&HFF00&\u1}prenderà{\r} il premio,
+Dialogue: 0,0:00:56.73,0:00:56.77,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:56.77,0:00:56.83,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà {\1c&HFF00&\u1}il{\r} premio,
+Dialogue: 0,0:00:56.83,0:00:56.87,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il premio,
+Dialogue: 0,0:00:56.87,0:00:57.16,Default,,0,0,0,,con un premietto lui verrà, lo chiamiamo finché non viene, a quel punto verrà, prenderà il {\1c&HFF00&\u1}premio,{\r}
+Dialogue: 0,0:00:57.14,0:00:57.50,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:57.50,0:00:57.54,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:57.54,0:00:57.98,Default,,0,0,0,,una {\1c&HFF00&\u1}coccola,{\r} ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:57.98,0:00:58.02,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:58.02,0:00:58.08,Default,,0,0,0,,una coccola, {\1c&HFF00&\u1}ci{\r} giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:58.08,0:00:58.12,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:58.12,0:00:58.48,Default,,0,0,0,,una coccola, ci {\1c&HFF00&\u1}giriamo{\r} e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:58.48,0:00:59.07,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:59.07,0:00:59.11,Default,,0,0,0,,una coccola, ci giriamo {\1c&HFF00&\u1}e{\r} continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:59.11,0:00:59.43,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:59.43,0:00:59.85,Default,,0,0,0,,una coccola, ci giriamo e {\1c&HFF00&\u1}continuiamo{\r} a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:59.85,0:00:59.87,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:59.87,0:00:59.89,Default,,0,0,0,,una coccola, ci giriamo e continuiamo {\1c&HFF00&\u1}a{\r} lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:59.89,0:00:59.95,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:00:59.95,0:01:0.27,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a {\1c&HFF00&\u1}lasciarlo{\r} fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.27,0:01:0.29,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.29,0:01:0.47,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo {\1c&HFF00&\u1}fare{\r} quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.47,0:01:0.49,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.49,0:01:0.63,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare {\1c&HFF00&\u1}quello{\r} che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.63,0:01:0.65,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.65,0:01:0.73,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello {\1c&HFF00&\u1}che{\r} stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.73,0:01:0.79,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.79,0:01:0.93,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che {\1c&HFF00&\u1}stava{\r} facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.93,0:01:0.97,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:0.97,0:01:1.27,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava {\1c&HFF00&\u1}facendo{\r} prima, ok? Quindi
+Dialogue: 0,0:01:1.27,0:01:1.29,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:1.29,0:01:1.49,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo {\1c&HFF00&\u1}prima,{\r} ok? Quindi
+Dialogue: 0,0:01:1.49,0:01:1.75,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:1.75,0:01:2.01,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, {\1c&HFF00&\u1}ok?{\r} Quindi
+Dialogue: 0,0:01:2.01,0:01:2.09,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? Quindi
+Dialogue: 0,0:01:2.09,0:01:2.27,Default,,0,0,0,,una coccola, ci giriamo e continuiamo a lasciarlo fare quello che stava facendo prima, ok? {\1c&HFF00&\u1}Quindi{\r}
+Dialogue: 0,0:01:2.42,0:01:2.58,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:2.58,0:01:2.64,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:2.64,0:01:2.70,Default,,0,0,0,,non {\1c&HFF00&\u1}lo{\r} leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:2.70,0:01:2.76,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:2.76,0:01:3.16,Default,,0,0,0,,non lo {\1c&HFF00&\u1}leghiamo,{\r} non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:3.16,0:01:3.30,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:3.30,0:01:3.40,Default,,0,0,0,,non lo leghiamo, {\1c&HFF00&\u1}non{\r} gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:3.40,0:01:3.42,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:3.42,0:01:3.58,Default,,0,0,0,,non lo leghiamo, non {\1c&HFF00&\u1}gli{\r} tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:3.58,0:01:3.62,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:3.62,0:01:3.94,Default,,0,0,0,,non lo leghiamo, non gli {\1c&HFF00&\u1}tocchiamo{\r} il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:3.94,0:01:4.00,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.00,0:01:4.04,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo {\1c&HFF00&\u1}il{\r} collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.04,0:01:4.08,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.08,0:01:4.49,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il {\1c&HFF00&\u1}collare,{\r} non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.49,0:01:4.53,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.53,0:01:4.63,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, {\1c&HFF00&\u1}non{\r} facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.63,0:01:4.65,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.65,0:01:4.95,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non {\1c&HFF00&\u1}facciamo{\r} nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.95,0:01:4.99,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:4.99,0:01:5.69,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo {\1c&HFF00&\u1}nulla.{\r} In quel caso, diciamo così
+Dialogue: 0,0:01:5.69,0:01:5.73,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:5.73,0:01:5.77,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. {\1c&HFF00&\u1}In{\r} quel caso, diciamo così
+Dialogue: 0,0:01:5.77,0:01:5.81,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:5.81,0:01:5.97,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In {\1c&HFF00&\u1}quel{\r} caso, diciamo così
+Dialogue: 0,0:01:5.97,0:01:6.01,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:6.01,0:01:7.07,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel {\1c&HFF00&\u1}caso,{\r} diciamo così
+Dialogue: 0,0:01:7.07,0:01:7.09,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:7.09,0:01:7.49,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, {\1c&HFF00&\u1}diciamo{\r} così
+Dialogue: 0,0:01:7.49,0:01:7.63,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo così
+Dialogue: 0,0:01:7.63,0:01:7.75,Default,,0,0,0,,non lo leghiamo, non gli tocchiamo il collare, non facciamo nulla. In quel caso, diciamo {\1c&HFF00&\u1}così{\r}
+Dialogue: 0,0:01:7.88,0:01:8.22,Default,,0,0,0,,{\1c&HFF00&\u1}facendo,{\r} il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:8.22,0:01:8.26,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:8.26,0:01:8.32,Default,,0,0,0,,facendo, {\1c&HFF00&\u1}il{\r} cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:8.32,0:01:8.38,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:8.38,0:01:8.62,Default,,0,0,0,,facendo, il {\1c&HFF00&\u1}cane{\r} inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:8.62,0:01:8.64,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:8.64,0:01:9.02,Default,,0,0,0,,facendo, il cane {\1c&HFF00&\u1}inizierà{\r} a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.02,0:01:9.04,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.04,0:01:9.06,Default,,0,0,0,,facendo, il cane inizierà {\1c&HFF00&\u1}a{\r} capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.06,0:01:9.20,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.20,0:01:9.55,Default,,0,0,0,,facendo, il cane inizierà a {\1c&HFF00&\u1}capire{\r} che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.55,0:01:9.57,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.57,0:01:9.67,Default,,0,0,0,,facendo, il cane inizierà a capire {\1c&HFF00&\u1}che{\r} ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.67,0:01:9.69,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.69,0:01:9.81,Default,,0,0,0,,facendo, il cane inizierà a capire che {\1c&HFF00&\u1}ogni{\r} volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.81,0:01:9.85,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:9.85,0:01:10.03,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni {\1c&HFF00&\u1}volta{\r} che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:10.03,0:01:10.07,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:10.07,0:01:10.13,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta {\1c&HFF00&\u1}che{\r} lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:10.13,0:01:10.17,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:10.17,0:01:10.21,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che {\1c&HFF00&\u1}lo{\r} chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:10.21,0:01:10.25,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:10.25,0:01:10.67,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo {\1c&HFF00&\u1}chiamate{\r} può succedere anche qualcosa di
+Dialogue: 0,0:01:10.67,0:01:11.69,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:11.69,0:01:11.79,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate {\1c&HFF00&\u1}può{\r} succedere anche qualcosa di
+Dialogue: 0,0:01:11.79,0:01:11.83,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:11.83,0:01:12.17,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può {\1c&HFF00&\u1}succedere{\r} anche qualcosa di
+Dialogue: 0,0:01:12.17,0:01:12.19,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:12.19,0:01:12.37,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere {\1c&HFF00&\u1}anche{\r} qualcosa di
+Dialogue: 0,0:01:12.37,0:01:12.39,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:12.39,0:01:12.67,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche {\1c&HFF00&\u1}qualcosa{\r} di
+Dialogue: 0,0:01:12.67,0:01:12.71,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa di
+Dialogue: 0,0:01:12.71,0:01:12.75,Default,,0,0,0,,facendo, il cane inizierà a capire che ogni volta che lo chiamate può succedere anche qualcosa {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:01:12.72,0:01:13.90,Default,,0,0,0,,{\1c&HFF00&\u1}positivo,{\r} per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:13.90,0:01:13.92,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:13.92,0:01:13.98,Default,,0,0,0,,positivo, {\1c&HFF00&\u1}per{\r} esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:13.98,0:01:14.00,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.00,0:01:14.24,Default,,0,0,0,,positivo, per {\1c&HFF00&\u1}esempio{\r} avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.24,0:01:14.28,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.28,0:01:14.42,Default,,0,0,0,,positivo, per esempio {\1c&HFF00&\u1}avere{\r} un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.42,0:01:14.48,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.48,0:01:14.56,Default,,0,0,0,,positivo, per esempio avere {\1c&HFF00&\u1}un{\r} premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.56,0:01:14.62,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.62,0:01:14.85,Default,,0,0,0,,positivo, per esempio avere un {\1c&HFF00&\u1}premio,{\r} avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.85,0:01:14.89,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:14.89,0:01:15.05,Default,,0,0,0,,positivo, per esempio avere un premio, {\1c&HFF00&\u1}avere{\r} una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:15.05,0:01:15.09,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:15.09,0:01:15.17,Default,,0,0,0,,positivo, per esempio avere un premio, avere {\1c&HFF00&\u1}una{\r} coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:15.17,0:01:15.21,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:15.21,0:01:15.57,Default,,0,0,0,,positivo, per esempio avere un premio, avere una {\1c&HFF00&\u1}coccola,{\r} eccetera. Nella fase successiva,
+Dialogue: 0,0:01:15.57,0:01:15.59,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:15.59,0:01:17.99,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, {\1c&HFF00&\u1}eccetera.{\r} Nella fase successiva,
+Dialogue: 0,0:01:17.99,0:01:18.01,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:18.01,0:01:18.19,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. {\1c&HFF00&\u1}Nella{\r} fase successiva,
+Dialogue: 0,0:01:18.19,0:01:18.21,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:18.21,0:01:18.37,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella {\1c&HFF00&\u1}fase{\r} successiva,
+Dialogue: 0,0:01:18.37,0:01:18.43,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase successiva,
+Dialogue: 0,0:01:18.43,0:01:18.86,Default,,0,0,0,,positivo, per esempio avere un premio, avere una coccola, eccetera. Nella fase {\1c&HFF00&\u1}successiva,{\r}
+Dialogue: 0,0:01:18.96,0:01:19.16,Default,,0,0,0,,{\1c&HFF00&\u1}quando{\r} iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:19.16,0:01:19.18,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:19.18,0:01:19.52,Default,,0,0,0,,quando {\1c&HFF00&\u1}iniziamo{\r} a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:19.52,0:01:19.54,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:19.54,0:01:19.58,Default,,0,0,0,,quando iniziamo {\1c&HFF00&\u1}a{\r} capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:19.58,0:01:19.64,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:19.64,0:01:19.96,Default,,0,0,0,,quando iniziamo a {\1c&HFF00&\u1}capire{\r} che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:19.96,0:01:20.04,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:20.04,0:01:20.16,Default,,0,0,0,,quando iniziamo a capire {\1c&HFF00&\u1}che{\r} il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:20.16,0:01:20.22,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:20.22,0:01:20.28,Default,,0,0,0,,quando iniziamo a capire che {\1c&HFF00&\u1}il{\r} cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:20.28,0:01:20.37,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:20.37,0:01:20.77,Default,,0,0,0,,quando iniziamo a capire che il {\1c&HFF00&\u1}cane{\r} torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:20.77,0:01:21.27,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:21.27,0:01:21.71,Default,,0,0,0,,quando iniziamo a capire che il cane {\1c&HFF00&\u1}torna,{\r} inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:21.71,0:01:22.09,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:22.09,0:01:22.27,Default,,0,0,0,,quando iniziamo a capire che il cane torna, {\1c&HFF00&\u1}inizia{\r} a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:22.27,0:01:22.29,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:22.29,0:01:22.31,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia {\1c&HFF00&\u1}a{\r} scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:22.31,0:01:22.33,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:22.33,0:01:22.63,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a {\1c&HFF00&\u1}scegliere{\r} di tornare quasi sempre,
+Dialogue: 0,0:01:22.63,0:01:22.65,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:22.65,0:01:22.71,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere {\1c&HFF00&\u1}di{\r} tornare quasi sempre,
+Dialogue: 0,0:01:22.71,0:01:22.75,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:22.75,0:01:23.01,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di {\1c&HFF00&\u1}tornare{\r} quasi sempre,
+Dialogue: 0,0:01:23.01,0:01:23.09,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:23.09,0:01:23.33,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare {\1c&HFF00&\u1}quasi{\r} sempre,
+Dialogue: 0,0:01:23.33,0:01:23.39,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi sempre,
+Dialogue: 0,0:01:23.39,0:01:23.77,Default,,0,0,0,,quando iniziamo a capire che il cane torna, inizia a scegliere di tornare quasi {\1c&HFF00&\u1}sempre,{\r}
+Dialogue: 0,0:01:24.18,0:01:24.54,Default,,0,0,0,,{\1c&HFF00&\u1}possiamo{\r} fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:24.54,0:01:24.62,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:24.62,0:01:24.84,Default,,0,0,0,,possiamo {\1c&HFF00&\u1}fare{\r} uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:24.84,0:01:24.98,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:24.98,0:01:25.12,Default,,0,0,0,,possiamo fare {\1c&HFF00&\u1}uno{\r} step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:25.12,0:01:25.16,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:25.16,0:01:25.66,Default,,0,0,0,,possiamo fare uno {\1c&HFF00&\u1}step{\r} in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:25.66,0:01:25.70,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:25.70,0:01:25.76,Default,,0,0,0,,possiamo fare uno step {\1c&HFF00&\u1}in{\r} più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:25.76,0:01:25.84,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:25.84,0:01:25.97,Default,,0,0,0,,possiamo fare uno step in {\1c&HFF00&\u1}più,{\r} ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:25.97,0:01:26.43,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:26.43,0:01:26.73,Default,,0,0,0,,possiamo fare uno step in più, {\1c&HFF00&\u1}ovvero{\r} lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:26.73,0:01:27.35,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:27.35,0:01:27.41,Default,,0,0,0,,possiamo fare uno step in più, ovvero {\1c&HFF00&\u1}lo{\r} chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:27.41,0:01:27.45,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:27.45,0:01:27.89,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo {\1c&HFF00&\u1}chiamiamo,{\r} quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:27.89,0:01:28.79,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:28.79,0:01:28.95,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, {\1c&HFF00&\u1}quando{\r} lo chiamiamo è bene anche
+Dialogue: 0,0:01:28.95,0:01:28.99,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:28.99,0:01:29.03,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando {\1c&HFF00&\u1}lo{\r} chiamiamo è bene anche
+Dialogue: 0,0:01:29.03,0:01:29.07,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:29.07,0:01:29.51,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo {\1c&HFF00&\u1}chiamiamo{\r} è bene anche
+Dialogue: 0,0:01:29.51,0:01:29.77,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:29.77,0:01:29.81,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo {\1c&HFF00&\u1}è{\r} bene anche
+Dialogue: 0,0:01:29.81,0:01:29.87,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:29.87,0:01:30.05,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è {\1c&HFF00&\u1}bene{\r} anche
+Dialogue: 0,0:01:30.05,0:01:30.12,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene anche
+Dialogue: 0,0:01:30.12,0:01:30.30,Default,,0,0,0,,possiamo fare uno step in più, ovvero lo chiamiamo, quando lo chiamiamo è bene {\1c&HFF00&\u1}anche{\r}
+Dialogue: 0,0:01:30.24,0:01:31.42,Default,,0,0,0,,{\1c&HFF00&\u1}abbassarsi,{\r} abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:31.42,0:01:31.44,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:31.44,0:01:31.92,Default,,0,0,0,,abbassarsi, {\1c&HFF00&\u1}abbassarsi{\r} non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:31.92,0:01:32.00,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.00,0:01:32.12,Default,,0,0,0,,abbassarsi, abbassarsi {\1c&HFF00&\u1}non{\r} verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.12,0:01:32.16,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.16,0:01:32.36,Default,,0,0,0,,abbassarsi, abbassarsi non {\1c&HFF00&\u1}verso{\r} di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.36,0:01:32.42,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.42,0:01:32.49,Default,,0,0,0,,abbassarsi, abbassarsi non verso {\1c&HFF00&\u1}di{\r} lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.49,0:01:32.53,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.53,0:01:32.75,Default,,0,0,0,,abbassarsi, abbassarsi non verso di {\1c&HFF00&\u1}lui{\r} ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:32.75,0:01:33.11,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:33.11,0:01:33.19,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui {\1c&HFF00&\u1}ma{\r} magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:33.19,0:01:33.21,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:33.21,0:01:33.65,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma {\1c&HFF00&\u1}magari{\r} non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:33.65,0:01:34.81,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:34.81,0:01:34.89,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari {\1c&HFF00&\u1}non{\r} proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:34.89,0:01:34.93,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:34.93,0:01:35.15,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non {\1c&HFF00&\u1}proprio{\r} diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:35.15,0:01:35.35,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:35.35,0:01:35.61,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio {\1c&HFF00&\u1}diciamo{\r} di fronte a lui ma magari un
+Dialogue: 0,0:01:35.61,0:01:35.69,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:35.69,0:01:35.73,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo {\1c&HFF00&\u1}di{\r} fronte a lui ma magari un
+Dialogue: 0,0:01:35.73,0:01:35.81,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:35.81,0:01:36.07,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di {\1c&HFF00&\u1}fronte{\r} a lui ma magari un
+Dialogue: 0,0:01:36.07,0:01:36.11,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:36.11,0:01:36.19,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte {\1c&HFF00&\u1}a{\r} lui ma magari un
+Dialogue: 0,0:01:36.19,0:01:36.23,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:36.23,0:01:36.45,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a {\1c&HFF00&\u1}lui{\r} ma magari un
+Dialogue: 0,0:01:36.45,0:01:36.75,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:36.75,0:01:36.81,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui {\1c&HFF00&\u1}ma{\r} magari un
+Dialogue: 0,0:01:36.81,0:01:36.85,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:36.85,0:01:37.16,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma {\1c&HFF00&\u1}magari{\r} un
+Dialogue: 0,0:01:37.16,0:01:37.24,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari un
+Dialogue: 0,0:01:37.24,0:01:37.28,Default,,0,0,0,,abbassarsi, abbassarsi non verso di lui ma magari non proprio diciamo di fronte a lui ma magari {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:01:37.20,0:01:37.68,Default,,0,0,0,,{\1c&HFF00&\u1}po'{\r} lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:37.68,0:01:37.72,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:37.72,0:01:38.38,Default,,0,0,0,,po' {\1c&HFF00&\u1}lateralmente,{\r} ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:38.38,0:01:38.40,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:38.40,0:01:38.54,Default,,0,0,0,,po' lateralmente, {\1c&HFF00&\u1}ok?{\r} allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:38.54,0:01:39.02,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:39.02,0:01:39.53,Default,,0,0,0,,po' lateralmente, ok? {\1c&HFF00&\u1}allora{\r} quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:39.53,0:01:39.59,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:39.59,0:01:39.77,Default,,0,0,0,,po' lateralmente, ok? allora {\1c&HFF00&\u1}quando{\r} ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:39.77,0:01:39.83,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:39.83,0:01:39.89,Default,,0,0,0,,po' lateralmente, ok? allora quando {\1c&HFF00&\u1}ci{\r} abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:39.89,0:01:39.93,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:39.93,0:01:40.53,Default,,0,0,0,,po' lateralmente, ok? allora quando ci {\1c&HFF00&\u1}abbassiamo{\r} gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:40.53,0:01:41.65,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:41.65,0:01:41.73,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo {\1c&HFF00&\u1}gli{\r} facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:41.73,0:01:41.77,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:41.77,0:01:42.03,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli {\1c&HFF00&\u1}facciamo{\r} una carezza, gli diamo un premietto
+Dialogue: 0,0:01:42.03,0:01:42.05,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:42.05,0:01:42.15,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo {\1c&HFF00&\u1}una{\r} carezza, gli diamo un premietto
+Dialogue: 0,0:01:42.15,0:01:42.17,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:42.17,0:01:42.61,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una {\1c&HFF00&\u1}carezza,{\r} gli diamo un premietto
+Dialogue: 0,0:01:42.61,0:01:43.45,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:43.45,0:01:43.57,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, {\1c&HFF00&\u1}gli{\r} diamo un premietto
+Dialogue: 0,0:01:43.57,0:01:43.59,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:43.59,0:01:43.77,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli {\1c&HFF00&\u1}diamo{\r} un premietto
+Dialogue: 0,0:01:43.77,0:01:43.81,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:43.81,0:01:43.89,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo {\1c&HFF00&\u1}un{\r} premietto
+Dialogue: 0,0:01:43.89,0:01:43.91,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un premietto
+Dialogue: 0,0:01:43.91,0:01:44.44,Default,,0,0,0,,po' lateralmente, ok? allora quando ci abbassiamo gli facciamo una carezza, gli diamo un {\1c&HFF00&\u1}premietto{\r}
+Dialogue: 0,0:01:45.40,0:01:45.44,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:45.44,0:01:45.58,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:45.58,0:01:45.66,Default,,0,0,0,,e {\1c&HFF00&\u1}gli{\r} prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:45.66,0:01:45.72,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:45.72,0:01:46.02,Default,,0,0,0,,e gli {\1c&HFF00&\u1}prendiamo{\r} il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:46.02,0:01:46.06,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:46.06,0:01:46.10,Default,,0,0,0,,e gli prendiamo {\1c&HFF00&\u1}il{\r} collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:46.10,0:01:46.20,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:46.20,0:01:46.65,Default,,0,0,0,,e gli prendiamo il {\1c&HFF00&\u1}collare{\r} e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:46.65,0:01:47.39,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:47.39,0:01:47.45,Default,,0,0,0,,e gli prendiamo il collare {\1c&HFF00&\u1}e{\r} lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:47.45,0:01:47.49,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:47.49,0:01:47.57,Default,,0,0,0,,e gli prendiamo il collare e {\1c&HFF00&\u1}lo{\r} leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:47.57,0:01:47.61,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:47.61,0:01:48.03,Default,,0,0,0,,e gli prendiamo il collare e lo {\1c&HFF00&\u1}leghiamo,{\r} ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:48.03,0:01:48.69,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:48.69,0:01:48.93,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, {\1c&HFF00&\u1}ok?{\r} aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:48.93,0:01:49.51,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:49.51,0:01:49.89,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? {\1c&HFF00&\u1}aspettiamo{\r} qualche secondo, ci alziamo,
+Dialogue: 0,0:01:49.89,0:01:49.91,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:49.91,0:01:50.13,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo {\1c&HFF00&\u1}qualche{\r} secondo, ci alziamo,
+Dialogue: 0,0:01:50.13,0:01:50.21,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:50.21,0:01:50.53,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche {\1c&HFF00&\u1}secondo,{\r} ci alziamo,
+Dialogue: 0,0:01:50.53,0:01:50.57,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:50.57,0:01:50.63,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, {\1c&HFF00&\u1}ci{\r} alziamo,
+Dialogue: 0,0:01:50.63,0:01:50.67,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci alziamo,
+Dialogue: 0,0:01:50.67,0:01:51.06,Default,,0,0,0,,e gli prendiamo il collare e lo leghiamo, ok? aspettiamo qualche secondo, ci {\1c&HFF00&\u1}alziamo,{\r}
+Dialogue: 0,0:01:51.42,0:01:51.82,Default,,0,0,0,,{\1c&HFF00&\u1}aspettiamo{\r} qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:51.82,0:01:51.84,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:51.84,0:01:52.08,Default,,0,0,0,,aspettiamo {\1c&HFF00&\u1}qualche{\r} secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:52.08,0:01:52.14,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:52.14,0:01:52.52,Default,,0,0,0,,aspettiamo qualche {\1c&HFF00&\u1}secondo{\r} dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:52.52,0:01:52.69,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:52.69,0:01:53.11,Default,,0,0,0,,aspettiamo qualche secondo {\1c&HFF00&\u1}dopodiché{\r} lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:53.11,0:01:53.45,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:53.45,0:01:53.55,Default,,0,0,0,,aspettiamo qualche secondo dopodiché {\1c&HFF00&\u1}lo{\r} sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:53.55,0:01:53.59,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:53.59,0:01:54.13,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo {\1c&HFF00&\u1}sleghiamo{\r} e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:54.13,0:01:54.95,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:54.95,0:01:54.97,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo {\1c&HFF00&\u1}e{\r} lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:54.97,0:01:55.01,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:55.01,0:01:55.07,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e {\1c&HFF00&\u1}lo{\r} lasciamo libero nuovamente.
+Dialogue: 0,0:01:55.07,0:01:55.11,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:55.11,0:01:55.41,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo {\1c&HFF00&\u1}lasciamo{\r} libero nuovamente.
+Dialogue: 0,0:01:55.41,0:01:55.45,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:55.45,0:01:55.67,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo {\1c&HFF00&\u1}libero{\r} nuovamente.
+Dialogue: 0,0:01:55.67,0:01:55.73,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero nuovamente.
+Dialogue: 0,0:01:55.73,0:01:56.21,Default,,0,0,0,,aspettiamo qualche secondo dopodiché lo sleghiamo e lo lasciamo libero {\1c&HFF00&\u1}nuovamente.{\r}
+Dialogue: 0,0:01:57.06,0:01:57.20,Default,,0,0,0,,{\1c&HFF00&\u1}Questa{\r} associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:57.20,0:01:57.22,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:57.22,0:01:57.86,Default,,0,0,0,,Questa {\1c&HFF00&\u1}associazione{\r} inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:57.86,0:01:58.06,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:58.06,0:01:58.57,Default,,0,0,0,,Questa associazione {\1c&HFF00&\u1}inizierà{\r} ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:58.57,0:01:59.05,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.05,0:01:59.13,Default,,0,0,0,,Questa associazione inizierà {\1c&HFF00&\u1}ad{\r} essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.13,0:01:59.17,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.17,0:01:59.41,Default,,0,0,0,,Questa associazione inizierà ad {\1c&HFF00&\u1}essere{\r} una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.41,0:01:59.43,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.43,0:01:59.53,Default,,0,0,0,,Questa associazione inizierà ad essere {\1c&HFF00&\u1}una{\r} nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.53,0:01:59.57,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.57,0:01:59.83,Default,,0,0,0,,Questa associazione inizierà ad essere una {\1c&HFF00&\u1}nuova{\r} associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.83,0:01:59.99,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:01:59.99,0:02:0.47,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova {\1c&HFF00&\u1}associazione{\r} per i cari, ovvero quando mi
+Dialogue: 0,0:02:0.47,0:02:0.53,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:02:0.53,0:02:0.61,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione {\1c&HFF00&\u1}per{\r} i cari, ovvero quando mi
+Dialogue: 0,0:02:0.61,0:02:0.63,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:02:0.63,0:02:0.69,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per {\1c&HFF00&\u1}i{\r} cari, ovvero quando mi
+Dialogue: 0,0:02:0.69,0:02:0.75,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:02:0.75,0:02:0.99,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i {\1c&HFF00&\u1}cari,{\r} ovvero quando mi
+Dialogue: 0,0:02:0.99,0:02:1.13,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:02:1.13,0:02:1.39,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, {\1c&HFF00&\u1}ovvero{\r} quando mi
+Dialogue: 0,0:02:1.39,0:02:1.67,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:02:1.67,0:02:1.85,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero {\1c&HFF00&\u1}quando{\r} mi
+Dialogue: 0,0:02:1.85,0:02:1.89,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando mi
+Dialogue: 0,0:02:1.89,0:02:1.93,Default,,0,0,0,,Questa associazione inizierà ad essere una nuova associazione per i cari, ovvero quando {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:02:2.16,0:02:2.62,Default,,0,0,0,,{\1c&HFF00&\u1}chiama{\r} potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:2.62,0:02:2.64,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:2.64,0:02:2.92,Default,,0,0,0,,chiama {\1c&HFF00&\u1}potrebbe{\r} darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:2.92,0:02:2.98,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:2.98,0:02:3.18,Default,,0,0,0,,chiama potrebbe {\1c&HFF00&\u1}darmi{\r} un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:3.18,0:02:3.22,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:3.22,0:02:3.28,Default,,0,0,0,,chiama potrebbe darmi {\1c&HFF00&\u1}un{\r} premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:3.28,0:02:3.30,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:3.30,0:02:3.61,Default,,0,0,0,,chiama potrebbe darmi un {\1c&HFF00&\u1}premio,{\r} potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:3.61,0:02:3.67,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:3.67,0:02:3.97,Default,,0,0,0,,chiama potrebbe darmi un premio, {\1c&HFF00&\u1}potrebbe{\r} darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:3.97,0:02:4.01,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:4.01,0:02:4.19,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe {\1c&HFF00&\u1}darmi{\r} una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:4.19,0:02:4.21,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:4.21,0:02:4.31,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi {\1c&HFF00&\u1}una{\r} coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:4.31,0:02:4.33,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:4.33,0:02:4.69,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una {\1c&HFF00&\u1}coccola,{\r} potrebbe non succedere niente,
+Dialogue: 0,0:02:4.69,0:02:4.97,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:4.97,0:02:5.23,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, {\1c&HFF00&\u1}potrebbe{\r} non succedere niente,
+Dialogue: 0,0:02:5.23,0:02:5.27,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:5.27,0:02:5.35,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe {\1c&HFF00&\u1}non{\r} succedere niente,
+Dialogue: 0,0:02:5.35,0:02:5.39,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:5.39,0:02:5.69,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non {\1c&HFF00&\u1}succedere{\r} niente,
+Dialogue: 0,0:02:5.69,0:02:5.77,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere niente,
+Dialogue: 0,0:02:5.77,0:02:6.09,Default,,0,0,0,,chiama potrebbe darmi un premio, potrebbe darmi una coccola, potrebbe non succedere {\1c&HFF00&\u1}niente,{\r}
+Dialogue: 0,0:02:6.32,0:02:6.64,Default,,0,0,0,,{\1c&HFF00&\u1}potrebbe{\r} essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:6.64,0:02:6.68,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:6.68,0:02:6.88,Default,,0,0,0,,potrebbe {\1c&HFF00&\u1}essere{\r} che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:6.88,0:02:6.92,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:6.92,0:02:7.02,Default,,0,0,0,,potrebbe essere {\1c&HFF00&\u1}che{\r} mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.02,0:02:7.06,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.06,0:02:7.14,Default,,0,0,0,,potrebbe essere che {\1c&HFF00&\u1}mi{\r} lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.14,0:02:7.18,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.18,0:02:7.46,Default,,0,0,0,,potrebbe essere che mi {\1c&HFF00&\u1}lega{\r} e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.46,0:02:7.58,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.58,0:02:7.62,Default,,0,0,0,,potrebbe essere che mi lega {\1c&HFF00&\u1}e{\r} poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.62,0:02:7.66,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.66,0:02:7.78,Default,,0,0,0,,potrebbe essere che mi lega e {\1c&HFF00&\u1}poi{\r} mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.78,0:02:7.80,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.80,0:02:7.84,Default,,0,0,0,,potrebbe essere che mi lega e poi {\1c&HFF00&\u1}mi{\r} slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.84,0:02:7.88,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:7.88,0:02:8.21,Default,,0,0,0,,potrebbe essere che mi lega e poi mi {\1c&HFF00&\u1}slega,{\r} ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:8.21,0:02:8.71,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:8.71,0:02:8.81,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, {\1c&HFF00&\u1}ma{\r} nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:8.81,0:02:9.41,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:9.41,0:02:9.57,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma {\1c&HFF00&\u1}nella{\r} maggior parte delle volte non vuol
+Dialogue: 0,0:02:9.57,0:02:9.61,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:9.61,0:02:9.81,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella {\1c&HFF00&\u1}maggior{\r} parte delle volte non vuol
+Dialogue: 0,0:02:9.81,0:02:9.87,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:9.87,0:02:10.07,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior {\1c&HFF00&\u1}parte{\r} delle volte non vuol
+Dialogue: 0,0:02:10.07,0:02:10.09,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:10.09,0:02:10.23,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte {\1c&HFF00&\u1}delle{\r} volte non vuol
+Dialogue: 0,0:02:10.23,0:02:10.27,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:10.27,0:02:10.57,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle {\1c&HFF00&\u1}volte{\r} non vuol
+Dialogue: 0,0:02:10.57,0:02:11.25,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:11.25,0:02:11.37,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte {\1c&HFF00&\u1}non{\r} vuol
+Dialogue: 0,0:02:11.37,0:02:11.41,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non vuol
+Dialogue: 0,0:02:11.41,0:02:11.53,Default,,0,0,0,,potrebbe essere che mi lega e poi mi slega, ma nella maggior parte delle volte non {\1c&HFF00&\u1}vuol{\r}
+Dialogue: 0,0:02:11.48,0:02:11.80,Default,,0,0,0,,{\1c&HFF00&\u1}dire{\r} che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:11.80,0:02:11.82,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:11.82,0:02:11.94,Default,,0,0,0,,dire {\1c&HFF00&\u1}che{\r} torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:11.94,0:02:11.96,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:11.96,0:02:12.20,Default,,0,0,0,,dire che {\1c&HFF00&\u1}torniamo{\r} a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:12.20,0:02:12.26,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:12.26,0:02:12.34,Default,,0,0,0,,dire che torniamo {\1c&HFF00&\u1}a{\r} casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:12.34,0:02:12.38,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:12.38,0:02:12.54,Default,,0,0,0,,dire che torniamo a {\1c&HFF00&\u1}casa,{\r} ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:12.54,0:02:12.92,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:12.92,0:02:13.53,Default,,0,0,0,,dire che torniamo a casa, {\1c&HFF00&\u1}ok?{\r} Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:13.53,0:02:13.55,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:13.55,0:02:13.75,Default,,0,0,0,,dire che torniamo a casa, ok? {\1c&HFF00&\u1}Quindi{\r} l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:13.75,0:02:13.79,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:13.79,0:02:14.39,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi {\1c&HFF00&\u1}l'associazione{\r} nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:14.39,0:02:14.55,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:14.55,0:02:14.79,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione {\1c&HFF00&\u1}nella{\r} maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:14.79,0:02:14.83,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:14.83,0:02:15.09,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella {\1c&HFF00&\u1}maggior{\r} parte delle volte è positiva, ok?
+Dialogue: 0,0:02:15.09,0:02:15.13,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:15.13,0:02:15.33,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior {\1c&HFF00&\u1}parte{\r} delle volte è positiva, ok?
+Dialogue: 0,0:02:15.33,0:02:15.37,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:15.37,0:02:15.53,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte {\1c&HFF00&\u1}delle{\r} volte è positiva, ok?
+Dialogue: 0,0:02:15.53,0:02:15.57,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:15.57,0:02:15.83,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle {\1c&HFF00&\u1}volte{\r} è positiva, ok?
+Dialogue: 0,0:02:15.83,0:02:16.03,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:16.03,0:02:16.07,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte {\1c&HFF00&\u1}è{\r} positiva, ok?
+Dialogue: 0,0:02:16.07,0:02:16.13,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:16.13,0:02:16.57,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è {\1c&HFF00&\u1}positiva,{\r} ok?
+Dialogue: 0,0:02:16.57,0:02:17.07,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, ok?
+Dialogue: 0,0:02:17.07,0:02:17.17,Default,,0,0,0,,dire che torniamo a casa, ok? Quindi l'associazione nella maggior parte delle volte è positiva, {\1c&HFF00&\u1}ok?{\r}
+Dialogue: 0,0:02:17.54,0:02:17.60,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:17.60,0:02:17.84,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:17.84,0:02:17.92,Default,,0,0,0,,E {\1c&HFF00&\u1}in{\r} questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:17.92,0:02:17.96,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:17.96,0:02:18.20,Default,,0,0,0,,E in {\1c&HFF00&\u1}questo{\r} modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:18.20,0:02:18.26,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:18.26,0:02:18.50,Default,,0,0,0,,E in questo {\1c&HFF00&\u1}modo{\r} il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:18.50,0:02:18.68,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:18.68,0:02:18.72,Default,,0,0,0,,E in questo modo {\1c&HFF00&\u1}il{\r} cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:18.72,0:02:18.76,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:18.76,0:02:18.99,Default,,0,0,0,,E in questo modo il {\1c&HFF00&\u1}cane{\r} inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:18.99,0:02:19.03,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:19.03,0:02:19.37,Default,,0,0,0,,E in questo modo il cane {\1c&HFF00&\u1}inizierà{\r} a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:19.37,0:02:19.73,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:19.73,0:02:19.77,Default,,0,0,0,,E in questo modo il cane inizierà {\1c&HFF00&\u1}a{\r} tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:19.77,0:02:19.81,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:19.81,0:02:20.19,Default,,0,0,0,,E in questo modo il cane inizierà a {\1c&HFF00&\u1}tornare{\r} praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:20.19,0:02:20.27,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:20.27,0:02:20.75,Default,,0,0,0,,E in questo modo il cane inizierà a tornare {\1c&HFF00&\u1}praticamente{\r} sempre, perché nella maggior parte
+Dialogue: 0,0:02:20.75,0:02:20.79,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:20.79,0:02:21.11,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente {\1c&HFF00&\u1}sempre,{\r} perché nella maggior parte
+Dialogue: 0,0:02:21.11,0:02:21.17,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:21.17,0:02:21.39,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, {\1c&HFF00&\u1}perché{\r} nella maggior parte
+Dialogue: 0,0:02:21.39,0:02:21.71,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:21.71,0:02:21.85,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché {\1c&HFF00&\u1}nella{\r} maggior parte
+Dialogue: 0,0:02:21.85,0:02:21.87,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:21.87,0:02:22.07,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella {\1c&HFF00&\u1}maggior{\r} parte
+Dialogue: 0,0:02:22.07,0:02:22.11,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior parte
+Dialogue: 0,0:02:22.11,0:02:22.29,Default,,0,0,0,,E in questo modo il cane inizierà a tornare praticamente sempre, perché nella maggior {\1c&HFF00&\u1}parte{\r}
+Dialogue: 0,0:02:22.24,0:02:22.58,Default,,0,0,0,,{\1c&HFF00&\u1}delle{\r} volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:22.58,0:02:22.62,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:22.62,0:02:23.00,Default,,0,0,0,,delle {\1c&HFF00&\u1}volte{\r} per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.00,0:02:23.04,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.04,0:02:23.22,Default,,0,0,0,,delle volte {\1c&HFF00&\u1}per{\r} lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.22,0:02:23.24,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.24,0:02:23.30,Default,,0,0,0,,delle volte per {\1c&HFF00&\u1}lui{\r} accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.30,0:02:23.32,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.32,0:02:23.56,Default,,0,0,0,,delle volte per lui {\1c&HFF00&\u1}accadrà{\r} qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.56,0:02:23.58,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.58,0:02:23.89,Default,,0,0,0,,delle volte per lui accadrà {\1c&HFF00&\u1}qualcosa{\r} di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.89,0:02:23.91,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.91,0:02:23.99,Default,,0,0,0,,delle volte per lui accadrà qualcosa {\1c&HFF00&\u1}di{\r} positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:23.99,0:02:24.01,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:24.01,0:02:24.35,Default,,0,0,0,,delle volte per lui accadrà qualcosa di {\1c&HFF00&\u1}positivo{\r} quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:24.35,0:02:24.41,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:24.41,0:02:24.55,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo {\1c&HFF00&\u1}quando{\r} lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:24.55,0:02:24.59,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:24.59,0:02:24.65,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando {\1c&HFF00&\u1}lo{\r} chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:24.65,0:02:24.69,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:24.69,0:02:25.67,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo {\1c&HFF00&\u1}chiamiamo.{\r} Per questo video è tutto,
+Dialogue: 0,0:02:25.67,0:02:25.69,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:25.69,0:02:25.79,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. {\1c&HFF00&\u1}Per{\r} questo video è tutto,
+Dialogue: 0,0:02:25.79,0:02:25.81,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:25.81,0:02:25.99,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per {\1c&HFF00&\u1}questo{\r} video è tutto,
+Dialogue: 0,0:02:25.99,0:02:26.05,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:26.05,0:02:26.21,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo {\1c&HFF00&\u1}video{\r} è tutto,
+Dialogue: 0,0:02:26.21,0:02:26.23,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:26.23,0:02:26.31,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video {\1c&HFF00&\u1}è{\r} tutto,
+Dialogue: 0,0:02:26.31,0:02:26.33,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è tutto,
+Dialogue: 0,0:02:26.33,0:02:26.59,Default,,0,0,0,,delle volte per lui accadrà qualcosa di positivo quando lo chiamiamo. Per questo video è {\1c&HFF00&\u1}tutto,{\r}
+Dialogue: 0,0:02:27.68,0:02:27.74,Default,,0,0,0,,{\1c&HFF00&\u1}mi{\r} raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:27.74,0:02:27.76,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:27.76,0:02:28.12,Default,,0,0,0,,mi {\1c&HFF00&\u1}raccomando{\r} iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:28.12,0:02:28.16,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:28.16,0:02:28.51,Default,,0,0,0,,mi raccomando {\1c&HFF00&\u1}iscriviti{\r} al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:28.51,0:02:28.53,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:28.53,0:02:28.59,Default,,0,0,0,,mi raccomando iscriviti {\1c&HFF00&\u1}al{\r} canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:28.59,0:02:28.63,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:28.63,0:02:28.95,Default,,0,0,0,,mi raccomando iscriviti al {\1c&HFF00&\u1}canale{\r} attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:28.95,0:02:29.13,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:29.13,0:02:29.39,Default,,0,0,0,,mi raccomando iscriviti al canale {\1c&HFF00&\u1}attiva{\r} la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:29.39,0:02:29.43,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:29.43,0:02:29.49,Default,,0,0,0,,mi raccomando iscriviti al canale attiva {\1c&HFF00&\u1}la{\r} campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:29.49,0:02:29.51,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:29.51,0:02:30.03,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la {\1c&HFF00&\u1}campanella{\r} ci vediamo nel prossimo video
+Dialogue: 0,0:02:30.03,0:02:30.25,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:30.25,0:02:30.31,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella {\1c&HFF00&\u1}ci{\r} vediamo nel prossimo video
+Dialogue: 0,0:02:30.31,0:02:30.35,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:30.35,0:02:30.67,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci {\1c&HFF00&\u1}vediamo{\r} nel prossimo video
+Dialogue: 0,0:02:30.67,0:02:30.83,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:30.83,0:02:30.93,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo {\1c&HFF00&\u1}nel{\r} prossimo video
+Dialogue: 0,0:02:30.93,0:02:30.97,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:30.97,0:02:31.27,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel {\1c&HFF00&\u1}prossimo{\r} video
+Dialogue: 0,0:02:31.27,0:02:31.31,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo video
+Dialogue: 0,0:02:31.31,0:02:31.66,Default,,0,0,0,,mi raccomando iscriviti al canale attiva la campanella ci vediamo nel prossimo {\1c&HFF00&\u1}video{\r}

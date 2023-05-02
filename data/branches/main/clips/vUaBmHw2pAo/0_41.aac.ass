@@ -1,0 +1,57 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.12,Default,,0,0,0,,{\1c&HFF00&\u1}finché{\r} il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.12,0:00:0.14,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.14,0:00:0.18,Default,,0,0,0,,finché {\1c&HFF00&\u1}il{\r} limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.18,0:00:0.20,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.20,0:00:0.32,Default,,0,0,0,,finché il {\1c&HFF00&\u1}limite{\r} si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.32,0:00:0.34,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.34,0:00:0.38,Default,,0,0,0,,finché il limite {\1c&HFF00&\u1}si{\r} schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.40,0:00:0.58,Default,,0,0,0,,finché il limite si {\1c&HFF00&\u1}schiaccia{\r} contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.58,0:00:0.60,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.60,0:00:0.72,Default,,0,0,0,,finché il limite si schiaccia {\1c&HFF00&\u1}contro{\r} il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.72,0:00:0.74,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.74,0:00:0.78,Default,,0,0,0,,finché il limite si schiaccia contro {\1c&HFF00&\u1}il{\r} momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.78,0:00:0.80,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.80,0:00:0.96,Default,,0,0,0,,finché il limite si schiaccia contro il {\1c&HFF00&\u1}momento{\r} in cui devi salire sul palco
+Dialogue: 0,0:00:0.96,0:00:0.98,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:0.98,0:00:1.02,Default,,0,0,0,,finché il limite si schiaccia contro il momento {\1c&HFF00&\u1}in{\r} cui devi salire sul palco
+Dialogue: 0,0:00:1.02,0:00:1.04,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:1.04,0:00:1.10,Default,,0,0,0,,finché il limite si schiaccia contro il momento in {\1c&HFF00&\u1}cui{\r} devi salire sul palco
+Dialogue: 0,0:00:1.10,0:00:1.12,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:1.12,0:00:1.20,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui {\1c&HFF00&\u1}devi{\r} salire sul palco
+Dialogue: 0,0:00:1.20,0:00:1.22,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:1.22,0:00:1.34,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi {\1c&HFF00&\u1}salire{\r} sul palco
+Dialogue: 0,0:00:1.34,0:00:1.36,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:1.36,0:00:1.42,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire {\1c&HFF00&\u1}sul{\r} palco
+Dialogue: 0,0:00:1.42,0:00:1.44,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul palco
+Dialogue: 0,0:00:1.44,0:00:1.54,Default,,0,0,0,,finché il limite si schiaccia contro il momento in cui devi salire sul {\1c&HFF00&\u1}palco{\r}
+Dialogue: 0,0:00:4.46,0:00:4.66,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.66,0:00:4.68,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.68,0:00:4.72,Default,,0,0,0,,non {\1c&HFF00&\u1}so{\r} se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.72,0:00:4.76,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.76,0:00:4.84,Default,,0,0,0,,non so {\1c&HFF00&\u1}se{\r} mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.84,0:00:4.86,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.86,0:00:4.94,Default,,0,0,0,,non so se {\1c&HFF00&\u1}mi{\r} spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.94,0:00:4.96,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:4.96,0:00:5.20,Default,,0,0,0,,non so se mi {\1c&HFF00&\u1}spiego.{\r} Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:5.20,0:00:5.60,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:5.60,0:00:5.80,Default,,0,0,0,,non so se mi spiego. {\1c&HFF00&\u1}Bene.{\r} Bene. Bene. Poi...
+Dialogue: 0,0:00:5.80,0:00:5.94,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:5.94,0:00:7.15,Default,,0,0,0,,non so se mi spiego. Bene. {\1c&HFF00&\u1}Bene.{\r} Bene. Poi...
+Dialogue: 0,0:00:7.15,0:00:7.19,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:7.19,0:00:7.43,Default,,0,0,0,,non so se mi spiego. Bene. Bene. {\1c&HFF00&\u1}Bene.{\r} Poi...
+Dialogue: 0,0:00:7.43,0:00:7.45,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. Poi...
+Dialogue: 0,0:00:7.45,0:00:7.73,Default,,0,0,0,,non so se mi spiego. Bene. Bene. Bene. {\1c&HFF00&\u1}Poi...{\r}

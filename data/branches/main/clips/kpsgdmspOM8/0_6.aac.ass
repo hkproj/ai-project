@@ -1,0 +1,663 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.12,Default,,0,0,0,,{\1c&HFF00&\u1}adesso{\r} dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.12,0:00:0.14,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.14,0:00:0.20,Default,,0,0,0,,adesso {\1c&HFF00&\u1}dei{\r} miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.20,0:00:0.22,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.22,0:00:0.30,Default,,0,0,0,,adesso dei {\1c&HFF00&\u1}miei{\r} errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.32,0:00:0.44,Default,,0,0,0,,adesso dei miei {\1c&HFF00&\u1}errori{\r} dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.44,0:00:0.46,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.46,0:00:0.52,Default,,0,0,0,,adesso dei miei errori {\1c&HFF00&\u1}dei{\r} miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.52,0:00:0.54,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.54,0:00:0.62,Default,,0,0,0,,adesso dei miei errori dei {\1c&HFF00&\u1}miei{\r} mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.62,0:00:0.64,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.64,0:00:0.80,Default,,0,0,0,,adesso dei miei errori dei miei {\1c&HFF00&\u1}mistakes{\r} dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,adesso dei miei errori dei miei mistakes {\1c&HFF00&\u1}dei{\r} miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:0.90,0:00:0.98,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei {\1c&HFF00&\u1}miei{\r} non so che cosa secondo me ho
+Dialogue: 0,0:00:0.98,0:00:1.00,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:1.00,0:00:1.06,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei {\1c&HFF00&\u1}non{\r} so che cosa secondo me ho
+Dialogue: 0,0:00:1.06,0:00:1.08,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:1.08,0:00:1.12,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non {\1c&HFF00&\u1}so{\r} che cosa secondo me ho
+Dialogue: 0,0:00:1.12,0:00:1.14,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:1.14,0:00:1.20,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so {\1c&HFF00&\u1}che{\r} cosa secondo me ho
+Dialogue: 0,0:00:1.20,0:00:1.22,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:1.22,0:00:1.30,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che {\1c&HFF00&\u1}cosa{\r} secondo me ho
+Dialogue: 0,0:00:1.30,0:00:1.32,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:1.32,0:00:1.75,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa {\1c&HFF00&\u1}secondo{\r} me ho
+Dialogue: 0,0:00:1.75,0:00:1.77,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:1.77,0:00:1.81,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo {\1c&HFF00&\u1}me{\r} ho
+Dialogue: 0,0:00:1.81,0:00:1.89,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me ho
+Dialogue: 0,0:00:1.89,0:00:1.95,Default,,0,0,0,,adesso dei miei errori dei miei mistakes dei miei non so che cosa secondo me {\1c&HFF00&\u1}ho{\r}
+Dialogue: 0,0:00:5.08,0:00:5.24,Default,,0,0,0,,{\1c&HFF00&\u1}fatto{\r} due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:5.24,0:00:5.28,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:5.28,0:00:5.36,Default,,0,0,0,,fatto {\1c&HFF00&\u1}due{\r} errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:5.36,0:00:5.38,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:5.38,0:00:5.72,Default,,0,0,0,,fatto due {\1c&HFF00&\u1}errori{\r} il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:5.72,0:00:5.92,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:5.92,0:00:6.00,Default,,0,0,0,,fatto due errori {\1c&HFF00&\u1}il{\r} primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.00,0:00:6.04,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.04,0:00:6.22,Default,,0,0,0,,fatto due errori il {\1c&HFF00&\u1}primo{\r} errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.22,0:00:6.28,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.28,0:00:6.63,Default,,0,0,0,,fatto due errori il primo {\1c&HFF00&\u1}errore{\r} è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.63,0:00:6.71,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.71,0:00:6.75,Default,,0,0,0,,fatto due errori il primo errore {\1c&HFF00&\u1}è{\r} quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.75,0:00:6.79,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.79,0:00:6.97,Default,,0,0,0,,fatto due errori il primo errore è {\1c&HFF00&\u1}quello{\r} di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.97,0:00:6.99,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:6.99,0:00:7.05,Default,,0,0,0,,fatto due errori il primo errore è quello {\1c&HFF00&\u1}di{\r} iniziare a studiare tardi cioè
+Dialogue: 0,0:00:7.05,0:00:7.07,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:7.07,0:00:7.41,Default,,0,0,0,,fatto due errori il primo errore è quello di {\1c&HFF00&\u1}iniziare{\r} a studiare tardi cioè
+Dialogue: 0,0:00:7.41,0:00:7.43,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:7.43,0:00:7.45,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare {\1c&HFF00&\u1}a{\r} studiare tardi cioè
+Dialogue: 0,0:00:7.45,0:00:7.49,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:7.49,0:00:7.85,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a {\1c&HFF00&\u1}studiare{\r} tardi cioè
+Dialogue: 0,0:00:7.85,0:00:8.05,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:8.05,0:00:8.49,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare {\1c&HFF00&\u1}tardi{\r} cioè
+Dialogue: 0,0:00:8.49,0:00:8.59,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi cioè
+Dialogue: 0,0:00:8.59,0:00:8.93,Default,,0,0,0,,fatto due errori il primo errore è quello di iniziare a studiare tardi {\1c&HFF00&\u1}cioè{\r}
+Dialogue: 0,0:00:8.88,0:00:8.94,Default,,0,0,0,,{\1c&HFF00&\u1}io{\r} ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:8.94,0:00:8.96,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:8.96,0:00:9.00,Default,,0,0,0,,io {\1c&HFF00&\u1}ho{\r} frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:9.00,0:00:9.02,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:9.02,0:00:9.54,Default,,0,0,0,,io ho {\1c&HFF00&\u1}frequentato{\r} tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:9.54,0:00:9.64,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:9.64,0:00:9.86,Default,,0,0,0,,io ho frequentato {\1c&HFF00&\u1}tutte{\r} le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:9.86,0:00:9.92,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:9.92,0:00:9.98,Default,,0,0,0,,io ho frequentato tutte {\1c&HFF00&\u1}le{\r} lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:9.98,0:00:10.04,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:10.04,0:00:10.51,Default,,0,0,0,,io ho frequentato tutte le {\1c&HFF00&\u1}lezioni{\r} perché per me è fondamentale tranne le
+Dialogue: 0,0:00:10.51,0:00:10.57,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:10.57,0:00:10.73,Default,,0,0,0,,io ho frequentato tutte le lezioni {\1c&HFF00&\u1}perché{\r} per me è fondamentale tranne le
+Dialogue: 0,0:00:10.73,0:00:10.77,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:10.77,0:00:10.85,Default,,0,0,0,,io ho frequentato tutte le lezioni perché {\1c&HFF00&\u1}per{\r} me è fondamentale tranne le
+Dialogue: 0,0:00:10.85,0:00:10.91,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:10.91,0:00:11.01,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per {\1c&HFF00&\u1}me{\r} è fondamentale tranne le
+Dialogue: 0,0:00:11.01,0:00:11.03,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:11.03,0:00:11.05,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me {\1c&HFF00&\u1}è{\r} fondamentale tranne le
+Dialogue: 0,0:00:11.05,0:00:11.11,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:11.11,0:00:11.69,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è {\1c&HFF00&\u1}fondamentale{\r} tranne le
+Dialogue: 0,0:00:11.69,0:00:11.79,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:11.79,0:00:12.17,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale {\1c&HFF00&\u1}tranne{\r} le
+Dialogue: 0,0:00:12.17,0:00:12.29,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne le
+Dialogue: 0,0:00:12.29,0:00:12.33,Default,,0,0,0,,io ho frequentato tutte le lezioni perché per me è fondamentale tranne {\1c&HFF00&\u1}le{\r}
+Dialogue: 0,0:00:12.32,0:00:12.46,Default,,0,0,0,,{\1c&HFF00&\u1}lezioni{\r} di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.46,0:00:12.48,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.48,0:00:12.52,Default,,0,0,0,,lezioni {\1c&HFF00&\u1}di{\r} una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.52,0:00:12.54,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.54,0:00:12.60,Default,,0,0,0,,lezioni di {\1c&HFF00&\u1}una{\r} materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.60,0:00:12.62,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.62,0:00:12.76,Default,,0,0,0,,lezioni di una {\1c&HFF00&\u1}materia{\r} in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.76,0:00:12.78,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.78,0:00:12.82,Default,,0,0,0,,lezioni di una materia {\1c&HFF00&\u1}in{\r} realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.82,0:00:12.84,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.84,0:00:12.96,Default,,0,0,0,,lezioni di una materia in {\1c&HFF00&\u1}realtà{\r} perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.96,0:00:12.98,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:12.98,0:00:13.10,Default,,0,0,0,,lezioni di una materia in realtà {\1c&HFF00&\u1}perché{\r} me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.10,0:00:13.12,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.12,0:00:13.16,Default,,0,0,0,,lezioni di una materia in realtà perché {\1c&HFF00&\u1}me{\r} l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.16,0:00:13.18,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.18,0:00:13.26,Default,,0,0,0,,lezioni di una materia in realtà perché me {\1c&HFF00&\u1}l'ero{\r} presa antipatico lo giuro però
+Dialogue: 0,0:00:13.26,0:00:13.28,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.28,0:00:13.40,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero {\1c&HFF00&\u1}presa{\r} antipatico lo giuro però
+Dialogue: 0,0:00:13.40,0:00:13.42,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.42,0:00:13.62,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa {\1c&HFF00&\u1}antipatico{\r} lo giuro però
+Dialogue: 0,0:00:13.62,0:00:13.65,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.65,0:00:13.81,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico {\1c&HFF00&\u1}lo{\r} giuro però
+Dialogue: 0,0:00:13.81,0:00:13.85,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:13.85,0:00:14.01,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo {\1c&HFF00&\u1}giuro{\r} però
+Dialogue: 0,0:00:14.01,0:00:14.05,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro però
+Dialogue: 0,0:00:14.05,0:00:14.17,Default,,0,0,0,,lezioni di una materia in realtà perché me l'ero presa antipatico lo giuro {\1c&HFF00&\u1}però{\r}
+Dialogue: 0,0:00:15.96,0:00:16.04,Default,,0,0,0,,{\1c&HFF00&\u1}per{\r} il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.04,0:00:16.08,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.08,0:00:16.14,Default,,0,0,0,,per {\1c&HFF00&\u1}il{\r} resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.14,0:00:16.16,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.16,0:00:16.34,Default,,0,0,0,,per il {\1c&HFF00&\u1}resto{\r} ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.34,0:00:16.36,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.36,0:00:16.40,Default,,0,0,0,,per il resto {\1c&HFF00&\u1}ho{\r} frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.40,0:00:16.42,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.42,0:00:16.76,Default,,0,0,0,,per il resto ho {\1c&HFF00&\u1}frequentato{\r} tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.76,0:00:16.80,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.80,0:00:16.95,Default,,0,0,0,,per il resto ho frequentato {\1c&HFF00&\u1}tutte{\r} le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:16.95,0:00:17.01,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:17.01,0:00:17.05,Default,,0,0,0,,per il resto ho frequentato tutte {\1c&HFF00&\u1}le{\r} lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:17.05,0:00:17.13,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:17.13,0:00:17.41,Default,,0,0,0,,per il resto ho frequentato tutte le {\1c&HFF00&\u1}lezioni{\r} di tutte le materie ok di cui
+Dialogue: 0,0:00:17.41,0:00:17.47,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:17.47,0:00:17.55,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni {\1c&HFF00&\u1}di{\r} tutte le materie ok di cui
+Dialogue: 0,0:00:17.55,0:00:17.57,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:17.57,0:00:17.71,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di {\1c&HFF00&\u1}tutte{\r} le materie ok di cui
+Dialogue: 0,0:00:17.71,0:00:17.75,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:17.75,0:00:17.81,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte {\1c&HFF00&\u1}le{\r} materie ok di cui
+Dialogue: 0,0:00:17.81,0:00:17.85,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:17.85,0:00:18.17,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le {\1c&HFF00&\u1}materie{\r} ok di cui
+Dialogue: 0,0:00:18.17,0:00:18.19,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:18.19,0:00:18.23,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie {\1c&HFF00&\u1}ok{\r} di cui
+Dialogue: 0,0:00:18.23,0:00:18.27,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:18.27,0:00:18.35,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok {\1c&HFF00&\u1}di{\r} cui
+Dialogue: 0,0:00:18.35,0:00:18.37,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di cui
+Dialogue: 0,0:00:18.37,0:00:18.47,Default,,0,0,0,,per il resto ho frequentato tutte le lezioni di tutte le materie ok di {\1c&HFF00&\u1}cui{\r}
+Dialogue: 0,0:00:18.60,0:00:18.92,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:18.92,0:00:19.00,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.00,0:00:19.34,Default,,0,0,0,,sono {\1c&HFF00&\u1}stata{\r} una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.34,0:00:19.38,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.38,0:00:19.48,Default,,0,0,0,,sono stata {\1c&HFF00&\u1}una{\r} lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.48,0:00:19.52,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.52,0:00:19.86,Default,,0,0,0,,sono stata una {\1c&HFF00&\u1}lezione{\r} due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.86,0:00:19.90,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.90,0:00:19.98,Default,,0,0,0,,sono stata una lezione {\1c&HFF00&\u1}due{\r} lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:19.98,0:00:20.02,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:20.02,0:00:20.41,Default,,0,0,0,,sono stata una lezione due {\1c&HFF00&\u1}lezioni{\r} però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:20.41,0:00:20.65,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:20.65,0:00:20.83,Default,,0,0,0,,sono stata una lezione due lezioni {\1c&HFF00&\u1}però{\r} in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:20.83,0:00:20.87,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:20.87,0:00:20.97,Default,,0,0,0,,sono stata una lezione due lezioni però {\1c&HFF00&\u1}in{\r} quel frangente lì non ho studiato o
+Dialogue: 0,0:00:20.97,0:00:20.99,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:20.99,0:00:21.11,Default,,0,0,0,,sono stata una lezione due lezioni però in {\1c&HFF00&\u1}quel{\r} frangente lì non ho studiato o
+Dialogue: 0,0:00:21.11,0:00:21.15,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:21.15,0:00:21.59,Default,,0,0,0,,sono stata una lezione due lezioni però in quel {\1c&HFF00&\u1}frangente{\r} lì non ho studiato o
+Dialogue: 0,0:00:21.59,0:00:21.71,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:21.71,0:00:21.81,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente {\1c&HFF00&\u1}lì{\r} non ho studiato o
+Dialogue: 0,0:00:21.81,0:00:21.91,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:21.91,0:00:21.99,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì {\1c&HFF00&\u1}non{\r} ho studiato o
+Dialogue: 0,0:00:21.99,0:00:22.01,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:22.01,0:00:22.09,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non {\1c&HFF00&\u1}ho{\r} studiato o
+Dialogue: 0,0:00:22.09,0:00:22.13,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:22.13,0:00:22.51,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho {\1c&HFF00&\u1}studiato{\r} o
+Dialogue: 0,0:00:22.51,0:00:22.79,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato o
+Dialogue: 0,0:00:22.79,0:00:22.81,Default,,0,0,0,,sono stata una lezione due lezioni però in quel frangente lì non ho studiato {\1c&HFF00&\u1}o{\r}
+Dialogue: 0,0:00:22.92,0:00:23.08,Default,,0,0,0,,{\1c&HFF00&\u1}almeno{\r} ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:23.08,0:00:23.10,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:23.10,0:00:23.14,Default,,0,0,0,,almeno {\1c&HFF00&\u1}ho{\r} studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:23.14,0:00:23.16,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:23.16,0:00:23.48,Default,,0,0,0,,almeno ho {\1c&HFF00&\u1}studiato{\r} pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:23.48,0:00:23.54,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:23.54,0:00:23.98,Default,,0,0,0,,almeno ho studiato {\1c&HFF00&\u1}pochissimo{\r} tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:23.98,0:00:24.00,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.00,0:00:24.17,Default,,0,0,0,,almeno ho studiato pochissimo {\1c&HFF00&\u1}tipo{\r} ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.17,0:00:24.19,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.19,0:00:24.23,Default,,0,0,0,,almeno ho studiato pochissimo tipo {\1c&HFF00&\u1}ho{\r} letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.23,0:00:24.27,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.27,0:00:24.47,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho {\1c&HFF00&\u1}letto{\r} un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.47,0:00:24.49,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.49,0:00:24.57,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto {\1c&HFF00&\u1}un{\r} libricino e ho studiato davvero
+Dialogue: 0,0:00:24.57,0:00:24.63,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:24.63,0:00:25.19,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un {\1c&HFF00&\u1}libricino{\r} e ho studiato davvero
+Dialogue: 0,0:00:25.19,0:00:25.21,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:25.21,0:00:25.23,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino {\1c&HFF00&\u1}e{\r} ho studiato davvero
+Dialogue: 0,0:00:25.23,0:00:25.45,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:25.45,0:00:25.53,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e {\1c&HFF00&\u1}ho{\r} studiato davvero
+Dialogue: 0,0:00:25.53,0:00:25.57,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:25.57,0:00:25.81,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho {\1c&HFF00&\u1}studiato{\r} davvero
+Dialogue: 0,0:00:25.81,0:00:25.83,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato davvero
+Dialogue: 0,0:00:25.83,0:00:26.09,Default,,0,0,0,,almeno ho studiato pochissimo tipo ho letto un libricino e ho studiato {\1c&HFF00&\u1}davvero{\r}
+Dialogue: 0,0:00:26.04,0:00:26.50,Default,,0,0,0,,{\1c&HFF00&\u1}poco{\r} secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.50,0:00:26.52,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.52,0:00:26.68,Default,,0,0,0,,poco {\1c&HFF00&\u1}secondo{\r} me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.68,0:00:26.70,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.70,0:00:26.76,Default,,0,0,0,,poco secondo {\1c&HFF00&\u1}me{\r} questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.76,0:00:26.78,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.78,0:00:26.92,Default,,0,0,0,,poco secondo me {\1c&HFF00&\u1}questa{\r} cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.92,0:00:26.96,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:26.96,0:00:27.08,Default,,0,0,0,,poco secondo me questa {\1c&HFF00&\u1}cosa{\r} è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:27.08,0:00:27.23,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:27.23,0:00:27.25,Default,,0,0,0,,poco secondo me questa cosa {\1c&HFF00&\u1}è{\r} stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:27.25,0:00:27.27,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:27.27,0:00:27.43,Default,,0,0,0,,poco secondo me questa cosa è {\1c&HFF00&\u1}stata{\r} sbagliata infatti nella prossima
+Dialogue: 0,0:00:27.43,0:00:27.49,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:27.49,0:00:28.01,Default,,0,0,0,,poco secondo me questa cosa è stata {\1c&HFF00&\u1}sbagliata{\r} infatti nella prossima
+Dialogue: 0,0:00:28.01,0:00:28.03,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:28.03,0:00:28.29,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata {\1c&HFF00&\u1}infatti{\r} nella prossima
+Dialogue: 0,0:00:28.29,0:00:28.31,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:28.31,0:00:28.45,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti {\1c&HFF00&\u1}nella{\r} prossima
+Dialogue: 0,0:00:28.45,0:00:28.49,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella prossima
+Dialogue: 0,0:00:28.49,0:00:28.77,Default,,0,0,0,,poco secondo me questa cosa è stata sbagliata infatti nella {\1c&HFF00&\u1}prossima{\r}
+Dialogue: 0,0:00:28.76,0:00:29.70,Default,,0,0,0,,{\1c&HFF00&\u1}sessione{\r} cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:29.70,0:00:29.78,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:29.78,0:00:30.20,Default,,0,0,0,,sessione {\1c&HFF00&\u1}cercherò{\r} di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.20,0:00:30.32,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.32,0:00:30.40,Default,,0,0,0,,sessione cercherò {\1c&HFF00&\u1}di{\r} essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.40,0:00:30.44,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.44,0:00:30.72,Default,,0,0,0,,sessione cercherò di {\1c&HFF00&\u1}essere{\r} un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.72,0:00:30.77,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.77,0:00:30.83,Default,,0,0,0,,sessione cercherò di essere {\1c&HFF00&\u1}un{\r} po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.83,0:00:30.85,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.85,0:00:30.95,Default,,0,0,0,,sessione cercherò di essere un {\1c&HFF00&\u1}po'{\r} più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:30.95,0:00:31.03,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.03,0:00:31.15,Default,,0,0,0,,sessione cercherò di essere un po' {\1c&HFF00&\u1}più{\r} non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.15,0:00:31.23,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.23,0:00:31.33,Default,,0,0,0,,sessione cercherò di essere un po' più {\1c&HFF00&\u1}non{\r} al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.33,0:00:31.41,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.41,0:00:31.47,Default,,0,0,0,,sessione cercherò di essere un po' più non {\1c&HFF00&\u1}al{\r} passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.47,0:00:31.59,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.59,0:00:31.91,Default,,0,0,0,,sessione cercherò di essere un po' più non al {\1c&HFF00&\u1}passo{\r} che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.91,0:00:31.93,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:31.93,0:00:32.03,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo {\1c&HFF00&\u1}che{\r} ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.03,0:00:32.07,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.07,0:00:32.21,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che {\1c&HFF00&\u1}ogni{\r} giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.21,0:00:32.27,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.27,0:00:32.51,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni {\1c&HFF00&\u1}giorno{\r} metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.51,0:00:32.59,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.59,0:00:32.81,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno {\1c&HFF00&\u1}metto{\r} all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.81,0:00:32.83,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:32.83,0:00:33.27,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto {\1c&HFF00&\u1}all'estudio{\r} perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.27,0:00:33.29,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.29,0:00:33.47,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio {\1c&HFF00&\u1}perché{\r} lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.47,0:00:33.53,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.53,0:00:33.57,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché {\1c&HFF00&\u1}lo{\r} so che non lo farò mai perché
+Dialogue: 0,0:00:33.57,0:00:33.61,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.61,0:00:33.67,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo {\1c&HFF00&\u1}so{\r} che non lo farò mai perché
+Dialogue: 0,0:00:33.67,0:00:33.69,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.69,0:00:33.77,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so {\1c&HFF00&\u1}che{\r} non lo farò mai perché
+Dialogue: 0,0:00:33.77,0:00:33.81,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.81,0:00:33.89,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che {\1c&HFF00&\u1}non{\r} lo farò mai perché
+Dialogue: 0,0:00:33.89,0:00:33.91,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.91,0:00:33.97,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non {\1c&HFF00&\u1}lo{\r} farò mai perché
+Dialogue: 0,0:00:33.97,0:00:33.99,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:33.99,0:00:34.17,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo {\1c&HFF00&\u1}farò{\r} mai perché
+Dialogue: 0,0:00:34.17,0:00:34.23,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:34.23,0:00:34.49,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò {\1c&HFF00&\u1}mai{\r} perché
+Dialogue: 0,0:00:34.49,0:00:34.57,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai perché
+Dialogue: 0,0:00:34.57,0:00:34.74,Default,,0,0,0,,sessione cercherò di essere un po' più non al passo che ogni giorno metto all'estudio perché lo so che non lo farò mai {\1c&HFF00&\u1}perché{\r}
+Dialogue: 0,0:00:34.70,0:00:34.88,Default,,0,0,0,,{\1c&HFF00&\u1}Mi{\r} piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:34.88,0:00:34.94,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:34.94,0:00:35.18,Default,,0,0,0,,Mi {\1c&HFF00&\u1}piace{\r} ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:35.18,0:00:35.20,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:35.20,0:00:35.46,Default,,0,0,0,,Mi piace {\1c&HFF00&\u1}ridurmi{\r} all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:35.46,0:00:35.50,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:35.50,0:00:36.02,Default,,0,0,0,,Mi piace ridurmi {\1c&HFF00&\u1}all'ultimo{\r} ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.02,0:00:36.20,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.20,0:00:36.26,Default,,0,0,0,,Mi piace ridurmi all'ultimo {\1c&HFF00&\u1}ma{\r} mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.26,0:00:36.28,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.28,0:00:36.36,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma {\1c&HFF00&\u1}mi{\r} piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.36,0:00:36.40,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.40,0:00:36.72,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi {\1c&HFF00&\u1}piace{\r} l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.72,0:00:36.80,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:36.80,0:00:37.61,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace {\1c&HFF00&\u1}l'ansietta{\r} l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:37.61,0:00:37.69,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:37.69,0:00:38.15,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta {\1c&HFF00&\u1}l'ansietta{\r} proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:38.15,0:00:38.21,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:38.21,0:00:38.45,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta {\1c&HFF00&\u1}proprio{\r} dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:38.45,0:00:38.49,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:38.49,0:00:38.93,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio {\1c&HFF00&\u1}dell'esame{\r} qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:38.93,0:00:39.11,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:39.11,0:00:39.31,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame {\1c&HFF00&\u1}qua{\r} e tu dici come non sa vasta va
+Dialogue: 0,0:00:39.31,0:00:39.61,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:39.61,0:00:39.65,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua {\1c&HFF00&\u1}e{\r} tu dici come non sa vasta va
+Dialogue: 0,0:00:39.65,0:00:39.69,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:39.69,0:00:39.75,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e {\1c&HFF00&\u1}tu{\r} dici come non sa vasta va
+Dialogue: 0,0:00:39.75,0:00:39.79,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:39.79,0:00:40.01,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu {\1c&HFF00&\u1}dici{\r} come non sa vasta va
+Dialogue: 0,0:00:40.01,0:00:40.45,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:40.45,0:00:40.63,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici {\1c&HFF00&\u1}come{\r} non sa vasta va
+Dialogue: 0,0:00:40.63,0:00:40.67,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:40.67,0:00:40.73,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come {\1c&HFF00&\u1}non{\r} sa vasta va
+Dialogue: 0,0:00:40.73,0:00:40.77,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:40.77,0:00:40.85,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non {\1c&HFF00&\u1}sa{\r} vasta va
+Dialogue: 0,0:00:40.85,0:00:40.89,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:40.89,0:00:41.22,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa {\1c&HFF00&\u1}vasta{\r} va
+Dialogue: 0,0:00:41.22,0:00:41.26,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta va
+Dialogue: 0,0:00:41.26,0:00:41.32,Default,,0,0,0,,Mi piace ridurmi all'ultimo ma mi piace l'ansietta l'ansietta proprio dell'esame qua e tu dici come non sa vasta {\1c&HFF00&\u1}va{\r}
+Dialogue: 0,0:00:41.54,0:00:41.74,Default,,0,0,0,,{\1c&HFF00&\u1}Bien{\r} però voglio cercare almeno
+Dialogue: 0,0:00:41.74,0:00:41.88,Default,,0,0,0,,Bien però voglio cercare almeno
+Dialogue: 0,0:00:41.88,0:00:42.10,Default,,0,0,0,,Bien {\1c&HFF00&\u1}però{\r} voglio cercare almeno
+Dialogue: 0,0:00:42.10,0:00:42.16,Default,,0,0,0,,Bien però voglio cercare almeno
+Dialogue: 0,0:00:42.16,0:00:42.37,Default,,0,0,0,,Bien però {\1c&HFF00&\u1}voglio{\r} cercare almeno
+Dialogue: 0,0:00:42.37,0:00:42.41,Default,,0,0,0,,Bien però voglio cercare almeno
+Dialogue: 0,0:00:42.41,0:00:42.73,Default,,0,0,0,,Bien però voglio {\1c&HFF00&\u1}cercare{\r} almeno
+Dialogue: 0,0:00:42.73,0:00:42.99,Default,,0,0,0,,Bien però voglio cercare almeno
+Dialogue: 0,0:00:42.99,0:00:43.53,Default,,0,0,0,,Bien però voglio cercare {\1c&HFF00&\u1}almeno{\r}
+Dialogue: 0,0:00:44.08,0:00:44.18,Default,,0,0,0,,{\1c&HFF00&\u1}Di{\r} memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:44.18,0:00:44.40,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:44.40,0:00:45.02,Default,,0,0,0,,Di {\1c&HFF00&\u1}memorizzare{\r} da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.02,0:00:45.06,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.06,0:00:45.14,Default,,0,0,0,,Di memorizzare {\1c&HFF00&\u1}da{\r} subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.14,0:00:45.22,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.22,0:00:45.57,Default,,0,0,0,,Di memorizzare da {\1c&HFF00&\u1}subito{\r} le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.57,0:00:45.65,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.65,0:00:45.71,Default,,0,0,0,,Di memorizzare da subito {\1c&HFF00&\u1}le{\r} cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.71,0:00:45.75,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.75,0:00:45.93,Default,,0,0,0,,Di memorizzare da subito le {\1c&HFF00&\u1}cose{\r} che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.93,0:00:45.97,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:45.97,0:00:46.05,Default,,0,0,0,,Di memorizzare da subito le cose {\1c&HFF00&\u1}che{\r} sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.05,0:00:46.17,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.17,0:00:46.31,Default,,0,0,0,,Di memorizzare da subito le cose che {\1c&HFF00&\u1}sono{\r} state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.31,0:00:46.35,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.35,0:00:46.51,Default,,0,0,0,,Di memorizzare da subito le cose che sono {\1c&HFF00&\u1}state{\r} dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.51,0:00:46.55,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.55,0:00:46.73,Default,,0,0,0,,Di memorizzare da subito le cose che sono state {\1c&HFF00&\u1}dette{\r} lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.73,0:00:46.83,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:46.83,0:00:47.19,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette {\1c&HFF00&\u1}lezione{\r} perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.19,0:00:47.25,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.25,0:00:47.43,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione {\1c&HFF00&\u1}perché{\r} ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.43,0:00:47.45,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.45,0:00:47.51,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché {\1c&HFF00&\u1}ho{\r} lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.51,0:00:47.55,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.55,0:00:47.85,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho {\1c&HFF00&\u1}lezione{\r} posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.85,0:00:47.89,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:47.89,0:00:48.07,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione {\1c&HFF00&\u1}posso{\r} anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:48.07,0:00:48.09,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:48.09,0:00:48.23,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso {\1c&HFF00&\u1}anche{\r} scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:48.23,0:00:48.33,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:48.33,0:00:48.63,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche {\1c&HFF00&\u1}scrivere{\r} gli appunti ma se per casa non te
+Dialogue: 0,0:00:48.63,0:00:48.65,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:48.65,0:00:48.73,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere {\1c&HFF00&\u1}gli{\r} appunti ma se per casa non te
+Dialogue: 0,0:00:48.73,0:00:48.77,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:48.77,0:00:49.15,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli {\1c&HFF00&\u1}appunti{\r} ma se per casa non te
+Dialogue: 0,0:00:49.15,0:00:49.19,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:49.19,0:00:49.25,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti {\1c&HFF00&\u1}ma{\r} se per casa non te
+Dialogue: 0,0:00:49.25,0:00:49.29,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:49.29,0:00:49.35,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma {\1c&HFF00&\u1}se{\r} per casa non te
+Dialogue: 0,0:00:49.35,0:00:49.39,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:49.39,0:00:49.49,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se {\1c&HFF00&\u1}per{\r} casa non te
+Dialogue: 0,0:00:49.49,0:00:49.51,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:49.51,0:00:49.67,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per {\1c&HFF00&\u1}casa{\r} non te
+Dialogue: 0,0:00:49.67,0:00:49.72,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:49.72,0:00:49.80,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa {\1c&HFF00&\u1}non{\r} te
+Dialogue: 0,0:00:49.80,0:00:49.82,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non te
+Dialogue: 0,0:00:49.82,0:00:49.88,Default,,0,0,0,,Di memorizzare da subito le cose che sono state dette lezione perché ho lezione posso anche scrivere gli appunti ma se per casa non {\1c&HFF00&\u1}te{\r}
+Dialogue: 0,0:00:49.84,0:00:49.94,Default,,0,0,0,,{\1c&HFF00&\u1}Dice{\r} leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:49.94,0:00:49.96,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:49.96,0:00:50.06,Default,,0,0,0,,Dice {\1c&HFF00&\u1}leggi{\r} appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:50.06,0:00:50.64,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:50.64,0:00:50.90,Default,,0,0,0,,Dice leggi {\1c&HFF00&\u1}appunti{\r} rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:50.90,0:00:50.94,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:50.94,0:00:51.24,Default,,0,0,0,,Dice leggi appunti {\1c&HFF00&\u1}rimangono{\r} là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.24,0:00:51.38,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.38,0:00:51.48,Default,,0,0,0,,Dice leggi appunti rimangono {\1c&HFF00&\u1}là{\r} puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.48,0:00:51.60,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.60,0:00:51.73,Default,,0,0,0,,Dice leggi appunti rimangono là {\1c&HFF00&\u1}puoi{\r} te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.73,0:00:51.75,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.75,0:00:51.81,Default,,0,0,0,,Dice leggi appunti rimangono là puoi {\1c&HFF00&\u1}te{\r} li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.81,0:00:51.87,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.87,0:00:51.91,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te {\1c&HFF00&\u1}li{\r} scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.91,0:00:51.97,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:51.97,0:00:52.41,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li {\1c&HFF00&\u1}scordi{\r} quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:52.41,0:00:52.65,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:52.65,0:00:52.81,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi {\1c&HFF00&\u1}quindi{\r} secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:52.81,0:00:52.85,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:52.85,0:00:53.07,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi {\1c&HFF00&\u1}secondo{\r} me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.07,0:00:53.11,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.11,0:00:53.15,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo {\1c&HFF00&\u1}me{\r} ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.15,0:00:53.19,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.19,0:00:53.23,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me {\1c&HFF00&\u1}ho{\r} sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.23,0:00:53.29,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.29,0:00:53.73,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho {\1c&HFF00&\u1}sbagliato{\r} perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.73,0:00:53.77,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.77,0:00:53.93,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato {\1c&HFF00&\u1}perché{\r} ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.93,0:00:53.95,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.95,0:00:53.99,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché {\1c&HFF00&\u1}ho{\r} iniziato a studiare un po tardino
+Dialogue: 0,0:00:53.99,0:00:54.01,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:54.01,0:00:54.19,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho {\1c&HFF00&\u1}iniziato{\r} a studiare un po tardino
+Dialogue: 0,0:00:54.19,0:00:54.21,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:54.21,0:00:54.25,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato {\1c&HFF00&\u1}a{\r} studiare un po tardino
+Dialogue: 0,0:00:54.25,0:00:54.27,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:54.27,0:00:54.59,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a {\1c&HFF00&\u1}studiare{\r} un po tardino
+Dialogue: 0,0:00:54.59,0:00:54.75,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:54.75,0:00:54.81,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare {\1c&HFF00&\u1}un{\r} po tardino
+Dialogue: 0,0:00:54.81,0:00:54.85,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:54.85,0:00:54.93,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un {\1c&HFF00&\u1}po{\r} tardino
+Dialogue: 0,0:00:54.93,0:00:54.97,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po tardino
+Dialogue: 0,0:00:54.97,0:00:55.52,Default,,0,0,0,,Dice leggi appunti rimangono là puoi te li scordi quindi secondo me ho sbagliato perché ho iniziato a studiare un po {\1c&HFF00&\u1}tardino{\r}
+Dialogue: 0,0:00:55.80,0:00:56.00,Default,,0,0,0,,{\1c&HFF00&\u1}Seconda{\r} cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.00,0:00:56.02,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.02,0:00:56.10,Default,,0,0,0,,Seconda {\1c&HFF00&\u1}cosa{\r} che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.10,0:00:56.18,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.18,0:00:56.24,Default,,0,0,0,,Seconda cosa {\1c&HFF00&\u1}che{\r} ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.24,0:00:56.30,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.30,0:00:56.38,Default,,0,0,0,,Seconda cosa che {\1c&HFF00&\u1}ho{\r} sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.38,0:00:56.42,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.42,0:00:56.94,Default,,0,0,0,,Seconda cosa che ho {\1c&HFF00&\u1}sbagliato{\r} è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:56.94,0:00:57.15,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.15,0:00:57.19,Default,,0,0,0,,Seconda cosa che ho sbagliato {\1c&HFF00&\u1}è{\r} che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.19,0:00:57.23,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.23,0:00:57.33,Default,,0,0,0,,Seconda cosa che ho sbagliato è {\1c&HFF00&\u1}che{\r} mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.33,0:00:57.39,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.39,0:00:57.47,Default,,0,0,0,,Seconda cosa che ho sbagliato è che {\1c&HFF00&\u1}mi{\r} sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.47,0:00:57.51,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.51,0:00:57.69,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi {\1c&HFF00&\u1}sono{\r} focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.69,0:00:57.73,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:57.73,0:00:58.29,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono {\1c&HFF00&\u1}focalizzata{\r} poco sulla modalità d'esame.
+Dialogue: 0,0:00:58.29,0:00:58.39,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:58.39,0:00:58.77,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata {\1c&HFF00&\u1}poco{\r} sulla modalità d'esame.
+Dialogue: 0,0:00:58.77,0:00:58.87,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:58.87,0:00:59.05,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco {\1c&HFF00&\u1}sulla{\r} modalità d'esame.
+Dialogue: 0,0:00:59.05,0:00:59.11,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:59.11,0:00:59.47,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla {\1c&HFF00&\u1}modalità{\r} d'esame.
+Dialogue: 0,0:00:59.47,0:00:59.51,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità d'esame.
+Dialogue: 0,0:00:59.51,0:00:59.93,Default,,0,0,0,,Seconda cosa che ho sbagliato è che mi sono focalizzata poco sulla modalità {\1c&HFF00&\u1}d'esame.{\r}
+Dialogue: 0,0:00:59.94,0:01:0.42,Default,,0,0,0,,{\1c&HFF00&\u1}Cioè{\r} ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:0.42,0:01:0.44,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:0.44,0:01:0.48,Default,,0,0,0,,Cioè {\1c&HFF00&\u1}ad{\r} esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:0.48,0:01:0.58,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:0.58,0:01:0.78,Default,,0,0,0,,Cioè ad {\1c&HFF00&\u1}esempio{\r} c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:0.78,0:01:0.80,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:0.80,0:01:1.18,Default,,0,0,0,,Cioè ad esempio {\1c&HFF00&\u1}c'era{\r} un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.18,0:01:1.22,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.22,0:01:1.28,Default,,0,0,0,,Cioè ad esempio c'era {\1c&HFF00&\u1}un{\r} esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.28,0:01:1.34,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.34,0:01:1.66,Default,,0,0,0,,Cioè ad esempio c'era un {\1c&HFF00&\u1}esame{\r} che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.66,0:01:1.70,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.70,0:01:1.78,Default,,0,0,0,,Cioè ad esempio c'era un esame {\1c&HFF00&\u1}che{\r} era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.78,0:01:1.80,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.80,0:01:1.97,Default,,0,0,0,,Cioè ad esempio c'era un esame che {\1c&HFF00&\u1}era{\r} scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:1.97,0:01:2.03,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:2.03,0:01:2.55,Default,,0,0,0,,Cioè ad esempio c'era un esame che era {\1c&HFF00&\u1}scritto{\r} e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:2.55,0:01:2.77,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:2.77,0:01:2.83,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto {\1c&HFF00&\u1}e{\r} io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:2.83,0:01:2.91,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:2.91,0:01:2.99,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e {\1c&HFF00&\u1}io{\r} l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:2.99,0:01:3.07,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.07,0:01:3.15,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io {\1c&HFF00&\u1}l'ho{\r} studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.15,0:01:3.19,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.19,0:01:3.61,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho {\1c&HFF00&\u1}studiato{\r} come se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.61,0:01:3.65,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.65,0:01:3.79,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato {\1c&HFF00&\u1}come{\r} se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.79,0:01:3.83,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.83,0:01:3.91,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come {\1c&HFF00&\u1}se{\r} fosse stato un orale, capito?
+Dialogue: 0,0:01:3.91,0:01:3.99,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:3.99,0:01:4.29,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se {\1c&HFF00&\u1}fosse{\r} stato un orale, capito?
+Dialogue: 0,0:01:4.29,0:01:4.41,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:4.41,0:01:4.65,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse {\1c&HFF00&\u1}stato{\r} un orale, capito?
+Dialogue: 0,0:01:4.65,0:01:4.69,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:4.69,0:01:4.79,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato {\1c&HFF00&\u1}un{\r} orale, capito?
+Dialogue: 0,0:01:4.79,0:01:4.81,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:4.81,0:01:5.15,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un {\1c&HFF00&\u1}orale,{\r} capito?
+Dialogue: 0,0:01:5.15,0:01:5.21,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, capito?
+Dialogue: 0,0:01:5.21,0:01:5.53,Default,,0,0,0,,Cioè ad esempio c'era un esame che era scritto e io l'ho studiato come se fosse stato un orale, {\1c&HFF00&\u1}capito?{\r}
+Dialogue: 0,0:01:6.00,0:01:6.08,Default,,0,0,0,,{\1c&HFF00&\u1}Cioè{\r} mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.08,0:01:6.10,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.10,0:01:6.16,Default,,0,0,0,,Cioè {\1c&HFF00&\u1}mi{\r} sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.16,0:01:6.18,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.18,0:01:6.32,Default,,0,0,0,,Cioè mi {\1c&HFF00&\u1}sono{\r} focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.32,0:01:6.34,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.34,0:01:6.84,Default,,0,0,0,,Cioè mi sono {\1c&HFF00&\u1}focalizzata{\r} poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.84,0:01:6.93,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:6.93,0:01:7.21,Default,,0,0,0,,Cioè mi sono focalizzata {\1c&HFF00&\u1}poco{\r} su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.21,0:01:7.29,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.29,0:01:7.39,Default,,0,0,0,,Cioè mi sono focalizzata poco {\1c&HFF00&\u1}su{\r} quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.39,0:01:7.43,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.43,0:01:7.61,Default,,0,0,0,,Cioè mi sono focalizzata poco su {\1c&HFF00&\u1}quello{\r} che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.61,0:01:7.63,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.63,0:01:7.73,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello {\1c&HFF00&\u1}che{\r} davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.73,0:01:7.77,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:7.77,0:01:8.03,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che {\1c&HFF00&\u1}davvero{\r} poteva andarti a chiedere,
+Dialogue: 0,0:01:8.03,0:01:8.07,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:8.07,0:01:8.29,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero {\1c&HFF00&\u1}poteva{\r} andarti a chiedere,
+Dialogue: 0,0:01:8.29,0:01:8.31,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:8.31,0:01:8.61,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva {\1c&HFF00&\u1}andarti{\r} a chiedere,
+Dialogue: 0,0:01:8.61,0:01:8.63,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:8.63,0:01:8.65,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti {\1c&HFF00&\u1}a{\r} chiedere,
+Dialogue: 0,0:01:8.65,0:01:8.73,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a chiedere,
+Dialogue: 0,0:01:8.73,0:01:8.99,Default,,0,0,0,,Cioè mi sono focalizzata poco su quello che davvero poteva andarti a {\1c&HFF00&\u1}chiedere,{\r}
+Dialogue: 0,0:01:8.96,0:01:9.06,Default,,0,0,0,,{\1c&HFF00&\u1}sulla{\r} maniera dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.06,0:01:9.08,Default,,0,0,0,,sulla maniera dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.08,0:01:9.24,Default,,0,0,0,,sulla {\1c&HFF00&\u1}maniera{\r} dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.24,0:01:9.26,Default,,0,0,0,,sulla maniera dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.26,0:01:9.48,Default,,0,0,0,,sulla maniera {\1c&HFF00&\u1}dettagliata{\r} di cosa ti chiedeva.
+Dialogue: 0,0:01:9.48,0:01:9.50,Default,,0,0,0,,sulla maniera dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.50,0:01:9.54,Default,,0,0,0,,sulla maniera dettagliata {\1c&HFF00&\u1}di{\r} cosa ti chiedeva.
+Dialogue: 0,0:01:9.54,0:01:9.56,Default,,0,0,0,,sulla maniera dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.56,0:01:9.64,Default,,0,0,0,,sulla maniera dettagliata di {\1c&HFF00&\u1}cosa{\r} ti chiedeva.
+Dialogue: 0,0:01:9.64,0:01:9.66,Default,,0,0,0,,sulla maniera dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.66,0:01:9.70,Default,,0,0,0,,sulla maniera dettagliata di cosa {\1c&HFF00&\u1}ti{\r} chiedeva.
+Dialogue: 0,0:01:9.70,0:01:9.72,Default,,0,0,0,,sulla maniera dettagliata di cosa ti chiedeva.
+Dialogue: 0,0:01:9.72,0:01:9.98,Default,,0,0,0,,sulla maniera dettagliata di cosa ti {\1c&HFF00&\u1}chiedeva.{\r}
+Dialogue: 0,0:01:11.78,0:01:11.86,Default,,0,0,0,,{\1c&HFF00&\u1}Cioè{\r} secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:11.86,0:01:11.88,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:11.88,0:01:12.20,Default,,0,0,0,,Cioè {\1c&HFF00&\u1}secondo{\r} me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:12.20,0:01:12.26,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:12.26,0:01:12.44,Default,,0,0,0,,Cioè secondo {\1c&HFF00&\u1}me{\r} dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:12.44,0:01:12.74,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:12.74,0:01:13.02,Default,,0,0,0,,Cioè secondo me {\1c&HFF00&\u1}dovevo{\r} stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.02,0:01:13.08,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.08,0:01:13.28,Default,,0,0,0,,Cioè secondo me dovevo {\1c&HFF00&\u1}stare{\r} più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.28,0:01:13.36,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.36,0:01:13.44,Default,,0,0,0,,Cioè secondo me dovevo stare {\1c&HFF00&\u1}più{\r} attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.44,0:01:13.46,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.46,0:01:13.89,Default,,0,0,0,,Cioè secondo me dovevo stare più {\1c&HFF00&\u1}attenta{\r} anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.89,0:01:13.95,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:13.95,0:01:14.15,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta {\1c&HFF00&\u1}anche{\r} a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:14.15,0:01:14.29,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:14.29,0:01:14.33,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche {\1c&HFF00&\u1}a{\r} lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:14.33,0:01:14.41,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:14.41,0:01:14.87,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a {\1c&HFF00&\u1}lezione{\r} a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:14.87,0:01:14.91,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:14.91,0:01:14.95,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione {\1c&HFF00&\u1}a{\r} capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:14.95,0:01:15.07,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:15.07,0:01:15.53,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a {\1c&HFF00&\u1}capire{\r} le parti che a lui interessavano di più
+Dialogue: 0,0:01:15.53,0:01:15.93,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:15.93,0:01:16.01,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire {\1c&HFF00&\u1}le{\r} parti che a lui interessavano di più
+Dialogue: 0,0:01:16.01,0:01:16.05,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:16.05,0:01:16.33,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le {\1c&HFF00&\u1}parti{\r} che a lui interessavano di più
+Dialogue: 0,0:01:16.33,0:01:16.35,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:16.35,0:01:16.43,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti {\1c&HFF00&\u1}che{\r} a lui interessavano di più
+Dialogue: 0,0:01:16.43,0:01:16.45,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:16.45,0:01:16.47,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che {\1c&HFF00&\u1}a{\r} lui interessavano di più
+Dialogue: 0,0:01:16.47,0:01:16.49,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:16.49,0:01:16.67,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a {\1c&HFF00&\u1}lui{\r} interessavano di più
+Dialogue: 0,0:01:16.67,0:01:16.69,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:16.69,0:01:17.23,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui {\1c&HFF00&\u1}interessavano{\r} di più
+Dialogue: 0,0:01:17.23,0:01:17.27,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:17.27,0:01:17.35,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano {\1c&HFF00&\u1}di{\r} più
+Dialogue: 0,0:01:17.35,0:01:17.41,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di più
+Dialogue: 0,0:01:17.41,0:01:17.47,Default,,0,0,0,,Cioè secondo me dovevo stare più attenta anche a lezione a capire le parti che a lui interessavano di {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:01:17.58,0:01:17.60,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:17.60,0:01:17.64,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:17.64,0:01:17.70,Default,,0,0,0,,e {\1c&HFF00&\u1}le{\r} parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:17.70,0:01:17.74,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:17.74,0:01:17.96,Default,,0,0,0,,e le {\1c&HFF00&\u1}parti{\r} che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:17.96,0:01:17.98,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:17.98,0:01:18.10,Default,,0,0,0,,e le parti {\1c&HFF00&\u1}che{\r} sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:18.10,0:01:18.14,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:18.14,0:01:18.50,Default,,0,0,0,,e le parti che {\1c&HFF00&\u1}sicuramente{\r} avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:18.50,0:01:18.54,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:18.54,0:01:18.76,Default,,0,0,0,,e le parti che sicuramente {\1c&HFF00&\u1}avrebbe{\r} messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:18.76,0:01:18.84,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:18.84,0:01:18.99,Default,,0,0,0,,e le parti che sicuramente avrebbe {\1c&HFF00&\u1}messo{\r} nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:18.99,0:01:19.01,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:19.01,0:01:19.51,Default,,0,0,0,,e le parti che sicuramente avrebbe messo {\1c&HFF00&\u1}nell'esame{\r} perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:19.51,0:01:19.79,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:19.79,0:01:19.99,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame {\1c&HFF00&\u1}perché{\r} ho studiato un mallocco di cose,
+Dialogue: 0,0:01:19.99,0:01:20.01,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:20.01,0:01:20.07,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché {\1c&HFF00&\u1}ho{\r} studiato un mallocco di cose,
+Dialogue: 0,0:01:20.07,0:01:20.09,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:20.09,0:01:20.39,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho {\1c&HFF00&\u1}studiato{\r} un mallocco di cose,
+Dialogue: 0,0:01:20.39,0:01:20.43,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:20.43,0:01:20.49,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato {\1c&HFF00&\u1}un{\r} mallocco di cose,
+Dialogue: 0,0:01:20.49,0:01:20.53,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:20.53,0:01:20.99,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un {\1c&HFF00&\u1}mallocco{\r} di cose,
+Dialogue: 0,0:01:20.99,0:01:21.01,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:21.01,0:01:21.07,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco {\1c&HFF00&\u1}di{\r} cose,
+Dialogue: 0,0:01:21.07,0:01:21.13,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di cose,
+Dialogue: 0,0:01:21.13,0:01:21.43,Default,,0,0,0,,e le parti che sicuramente avrebbe messo nell'esame perché ho studiato un mallocco di {\1c&HFF00&\u1}cose,{\r}
+Dialogue: 0,0:01:21.66,0:01:21.74,Default,,0,0,0,,{\1c&HFF00&\u1}ho{\r} studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:21.74,0:01:21.76,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:21.76,0:01:21.98,Default,,0,0,0,,ho {\1c&HFF00&\u1}studiato{\r} tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:21.98,0:01:22.04,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:22.04,0:01:22.30,Default,,0,0,0,,ho studiato {\1c&HFF00&\u1}tanto{\r} tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:22.30,0:01:22.32,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:22.32,0:01:22.54,Default,,0,0,0,,ho studiato tanto {\1c&HFF00&\u1}tanto{\r} tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:22.54,0:01:22.58,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:22.58,0:01:22.78,Default,,0,0,0,,ho studiato tanto tanto {\1c&HFF00&\u1}tanto{\r} tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:22.78,0:01:22.82,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:22.82,0:01:23.03,Default,,0,0,0,,ho studiato tanto tanto tanto {\1c&HFF00&\u1}tanto{\r} tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:23.03,0:01:23.05,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:23.05,0:01:23.43,Default,,0,0,0,,ho studiato tanto tanto tanto tanto {\1c&HFF00&\u1}tanto,{\r} ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:23.43,0:01:23.69,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:23.69,0:01:23.83,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, {\1c&HFF00&\u1}ma{\r} essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:23.83,0:01:24.09,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:24.09,0:01:24.71,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma {\1c&HFF00&\u1}essenzialmente{\r} quello che ho studiato le cose
+Dialogue: 0,0:01:24.71,0:01:24.77,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:24.77,0:01:24.93,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente {\1c&HFF00&\u1}quello{\r} che ho studiato le cose
+Dialogue: 0,0:01:24.93,0:01:24.95,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:24.95,0:01:25.01,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello {\1c&HFF00&\u1}che{\r} ho studiato le cose
+Dialogue: 0,0:01:25.01,0:01:25.03,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:25.03,0:01:25.09,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che {\1c&HFF00&\u1}ho{\r} studiato le cose
+Dialogue: 0,0:01:25.09,0:01:25.11,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:25.11,0:01:25.45,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho {\1c&HFF00&\u1}studiato{\r} le cose
+Dialogue: 0,0:01:25.45,0:01:25.53,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:25.53,0:01:25.59,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato {\1c&HFF00&\u1}le{\r} cose
+Dialogue: 0,0:01:25.59,0:01:25.61,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le cose
+Dialogue: 0,0:01:25.61,0:01:25.77,Default,,0,0,0,,ho studiato tanto tanto tanto tanto tanto, ma essenzialmente quello che ho studiato le {\1c&HFF00&\u1}cose{\r}
+Dialogue: 0,0:01:25.74,0:01:26.46,Default,,0,0,0,,{\1c&HFF00&\u1}importanti{\r} erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:26.46,0:01:26.50,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:26.50,0:01:26.70,Default,,0,0,0,,importanti {\1c&HFF00&\u1}erano{\r} magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:26.70,0:01:26.72,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:26.72,0:01:27.10,Default,,0,0,0,,importanti erano {\1c&HFF00&\u1}magari{\r} la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:27.10,0:01:27.30,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:27.30,0:01:27.38,Default,,0,0,0,,importanti erano magari {\1c&HFF00&\u1}la{\r} metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:27.38,0:01:27.42,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:27.42,0:01:27.77,Default,,0,0,0,,importanti erano magari la {\1c&HFF00&\u1}metà{\r} e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:27.77,0:01:28.15,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.15,0:01:28.19,Default,,0,0,0,,importanti erano magari la metà {\1c&HFF00&\u1}e{\r} io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.19,0:01:28.25,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.25,0:01:28.33,Default,,0,0,0,,importanti erano magari la metà e {\1c&HFF00&\u1}io{\r} invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.33,0:01:28.37,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.37,0:01:28.75,Default,,0,0,0,,importanti erano magari la metà e io {\1c&HFF00&\u1}invece{\r} ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.75,0:01:28.93,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.93,0:01:28.97,Default,,0,0,0,,importanti erano magari la metà e io invece {\1c&HFF00&\u1}ho{\r} riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:28.97,0:01:29.01,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.01,0:01:29.27,Default,,0,0,0,,importanti erano magari la metà e io invece ho {\1c&HFF00&\u1}riempito{\r} il mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.27,0:01:29.31,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.31,0:01:29.35,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito {\1c&HFF00&\u1}il{\r} mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.35,0:01:29.39,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.39,0:01:29.45,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il {\1c&HFF00&\u1}mio{\r} cervello di tante cose importanti
+Dialogue: 0,0:01:29.45,0:01:29.49,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.49,0:01:29.77,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio {\1c&HFF00&\u1}cervello{\r} di tante cose importanti
+Dialogue: 0,0:01:29.77,0:01:29.79,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.79,0:01:29.85,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello {\1c&HFF00&\u1}di{\r} tante cose importanti
+Dialogue: 0,0:01:29.85,0:01:29.87,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:29.87,0:01:30.03,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di {\1c&HFF00&\u1}tante{\r} cose importanti
+Dialogue: 0,0:01:30.03,0:01:30.07,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:30.07,0:01:30.23,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante {\1c&HFF00&\u1}cose{\r} importanti
+Dialogue: 0,0:01:30.23,0:01:30.25,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose importanti
+Dialogue: 0,0:01:30.25,0:01:30.65,Default,,0,0,0,,importanti erano magari la metà e io invece ho riempito il mio cervello di tante cose {\1c&HFF00&\u1}importanti{\r}
+Dialogue: 0,0:01:30.68,0:01:30.78,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} per il momento è la stessa cosa
+Dialogue: 0,0:01:30.78,0:01:30.82,Default,,0,0,0,,che per il momento è la stessa cosa
+Dialogue: 0,0:01:30.82,0:01:30.88,Default,,0,0,0,,che {\1c&HFF00&\u1}per{\r} il momento è la stessa cosa
+Dialogue: 0,0:01:30.88,0:01:30.94,Default,,0,0,0,,che per il momento è la stessa cosa
+Dialogue: 0,0:01:30.94,0:01:30.98,Default,,0,0,0,,che per {\1c&HFF00&\u1}il{\r} momento è la stessa cosa
+Dialogue: 0,0:01:30.98,0:01:31.00,Default,,0,0,0,,che per il momento è la stessa cosa
+Dialogue: 0,0:01:31.00,0:01:31.33,Default,,0,0,0,,che per il {\1c&HFF00&\u1}momento{\r} è la stessa cosa
+Dialogue: 0,0:01:31.33,0:01:31.35,Default,,0,0,0,,che per il momento è la stessa cosa
+Dialogue: 0,0:01:31.35,0:01:31.37,Default,,0,0,0,,che per il momento {\1c&HFF00&\u1}è{\r} la stessa cosa
+Dialogue: 0,0:01:31.37,0:01:31.39,Default,,0,0,0,,che per il momento è la stessa cosa
+Dialogue: 0,0:01:31.39,0:01:31.45,Default,,0,0,0,,che per il momento è {\1c&HFF00&\u1}la{\r} stessa cosa
+Dialogue: 0,0:01:31.45,0:01:31.47,Default,,0,0,0,,che per il momento è la stessa cosa
+Dialogue: 0,0:01:31.47,0:01:31.63,Default,,0,0,0,,che per il momento è la {\1c&HFF00&\u1}stessa{\r} cosa
+Dialogue: 0,0:01:31.63,0:01:31.69,Default,,0,0,0,,che per il momento è la stessa cosa
+Dialogue: 0,0:01:31.69,0:01:31.90,Default,,0,0,0,,che per il momento è la stessa {\1c&HFF00&\u1}cosa{\r}

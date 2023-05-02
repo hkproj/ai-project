@@ -1,0 +1,48 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.38,0:00:0.42,Default,,0,0,0,,{\1c&HFF00&\u1}lo{\r} capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:0.42,0:00:0.46,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:0.46,0:00:0.90,Default,,0,0,0,,lo {\1c&HFF00&\u1}capisco{\r} però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:0.90,0:00:1.18,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:1.18,0:00:1.41,Default,,0,0,0,,lo capisco {\1c&HFF00&\u1}però{\r} in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:1.41,0:00:1.49,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:1.49,0:00:1.65,Default,,0,0,0,,lo capisco però {\1c&HFF00&\u1}in{\r} soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:1.65,0:00:1.89,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:1.89,0:00:2.47,Default,,0,0,0,,lo capisco però in {\1c&HFF00&\u1}soggiorno{\r} per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:2.47,0:00:2.49,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:2.49,0:00:2.59,Default,,0,0,0,,lo capisco però in soggiorno {\1c&HFF00&\u1}per{\r} esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:2.59,0:00:2.63,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:2.63,0:00:2.91,Default,,0,0,0,,lo capisco però in soggiorno per {\1c&HFF00&\u1}esempio{\r} non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:2.91,0:00:2.99,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:2.99,0:00:3.07,Default,,0,0,0,,lo capisco però in soggiorno per esempio {\1c&HFF00&\u1}non{\r} c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.07,0:00:3.11,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.11,0:00:3.21,Default,,0,0,0,,lo capisco però in soggiorno per esempio non {\1c&HFF00&\u1}c'è{\r} nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.21,0:00:3.33,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.33,0:00:3.49,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è {\1c&HFF00&\u1}nulla{\r} di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.49,0:00:3.53,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.53,0:00:3.59,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla {\1c&HFF00&\u1}di{\r} male a stare lì e passarsi una
+Dialogue: 0,0:00:3.59,0:00:3.63,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.63,0:00:3.87,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di {\1c&HFF00&\u1}male{\r} a stare lì e passarsi una
+Dialogue: 0,0:00:3.87,0:00:3.95,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:3.95,0:00:3.97,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male {\1c&HFF00&\u1}a{\r} stare lì e passarsi una
+Dialogue: 0,0:00:3.97,0:00:4.01,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:4.01,0:00:4.24,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a {\1c&HFF00&\u1}stare{\r} lì e passarsi una
+Dialogue: 0,0:00:4.24,0:00:4.30,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:4.30,0:00:4.36,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare {\1c&HFF00&\u1}lì{\r} e passarsi una
+Dialogue: 0,0:00:4.36,0:00:4.38,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:4.38,0:00:4.42,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì {\1c&HFF00&\u1}e{\r} passarsi una
+Dialogue: 0,0:00:4.42,0:00:4.46,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:4.46,0:00:4.82,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e {\1c&HFF00&\u1}passarsi{\r} una
+Dialogue: 0,0:00:4.82,0:00:4.86,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi una
+Dialogue: 0,0:00:4.86,0:00:4.92,Default,,0,0,0,,lo capisco però in soggiorno per esempio non c'è nulla di male a stare lì e passarsi {\1c&HFF00&\u1}una{\r}

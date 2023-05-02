@@ -1,0 +1,230 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.46,0:00:1.04,Default,,0,0,0,,{\1c&HFF00&\u1}1 euro{\r} al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:1.04,0:00:1.08,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:1.08,0:00:1.18,Default,,0,0,0,,1 euro {\1c&HFF00&\u1}al{\r} bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:1.18,0:00:1.22,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:1.22,0:00:1.50,Default,,0,0,0,,1 euro al {\1c&HFF00&\u1}bar 3{\r} euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:1.50,0:00:1.84,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:1.84,0:00:2.10,Default,,0,0,0,,1 euro al bar 3 {\1c&HFF00&\u1}euro{\r} e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:2.10,0:00:2.14,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:2.14,0:00:2.20,Default,,0,0,0,,1 euro al bar 3 euro {\1c&HFF00&\u1}e{\r} mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:2.20,0:00:2.28,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:2.28,0:00:2.67,Default,,0,0,0,,1 euro al bar 3 euro e {\1c&HFF00&\u1}mezzo,{\r} moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:2.67,0:00:2.95,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:2.95,0:00:3.53,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, {\1c&HFF00&\u1}moltiplicate{\r} poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.53,0:00:3.57,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.57,0:00:3.69,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate {\1c&HFF00&\u1}poi{\r} per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.69,0:00:3.73,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.73,0:00:3.83,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi {\1c&HFF00&\u1}per{\r} il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.83,0:00:3.87,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.87,0:00:3.95,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per {\1c&HFF00&\u1}il{\r} numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.95,0:00:3.99,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:3.99,0:00:4.21,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il {\1c&HFF00&\u1}numero{\r} di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:4.21,0:00:4.25,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:4.25,0:00:4.31,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero {\1c&HFF00&\u1}di{\r} amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:4.31,0:00:4.33,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:4.33,0:00:4.69,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di {\1c&HFF00&\u1}amici{\r} o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:4.69,0:00:5.27,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.27,0:00:5.33,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici {\1c&HFF00&\u1}o{\r} il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.33,0:00:5.37,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.37,0:00:5.43,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o {\1c&HFF00&\u1}il{\r} numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.43,0:00:5.45,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.45,0:00:5.69,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il {\1c&HFF00&\u1}numero{\r} di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.69,0:00:5.73,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.73,0:00:5.79,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero {\1c&HFF00&\u1}di{\r} birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.79,0:00:5.83,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:5.83,0:00:6.17,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di {\1c&HFF00&\u1}birre{\r} e vedete un po' quale il risparmio
+Dialogue: 0,0:00:6.17,0:00:6.59,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:6.59,0:00:6.65,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre {\1c&HFF00&\u1}e{\r} vedete un po' quale il risparmio
+Dialogue: 0,0:00:6.65,0:00:6.75,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:6.75,0:00:7.01,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e {\1c&HFF00&\u1}vedete{\r} un po' quale il risparmio
+Dialogue: 0,0:00:7.01,0:00:7.05,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:7.05,0:00:7.09,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete {\1c&HFF00&\u1}un{\r} po' quale il risparmio
+Dialogue: 0,0:00:7.09,0:00:7.11,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:7.11,0:00:7.23,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un {\1c&HFF00&\u1}po'{\r} quale il risparmio
+Dialogue: 0,0:00:7.23,0:00:7.25,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:7.25,0:00:7.42,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' {\1c&HFF00&\u1}quale{\r} il risparmio
+Dialogue: 0,0:00:7.42,0:00:7.50,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:7.50,0:00:7.56,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale {\1c&HFF00&\u1}il{\r} risparmio
+Dialogue: 0,0:00:7.56,0:00:7.60,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il risparmio
+Dialogue: 0,0:00:7.60,0:00:8.14,Default,,0,0,0,,1 euro al bar 3 euro e mezzo, moltiplicate poi per il numero di amici o il numero di birre e vedete un po' quale il {\1c&HFF00&\u1}risparmio{\r}
+Dialogue: 0,0:00:8.48,0:00:8.64,Default,,0,0,0,,{\1c&HFF00&\u1}prima{\r} di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:8.64,0:00:8.66,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:8.66,0:00:8.74,Default,,0,0,0,,prima {\1c&HFF00&\u1}di{\r} passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:8.74,0:00:8.80,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:8.80,0:00:8.98,Default,,0,0,0,,prima di {\1c&HFF00&\u1}passare{\r} al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:8.98,0:00:9.02,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:9.02,0:00:9.10,Default,,0,0,0,,prima di passare {\1c&HFF00&\u1}al{\r} prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:9.10,0:00:9.12,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:9.12,0:00:9.42,Default,,0,0,0,,prima di passare al {\1c&HFF00&\u1}prossimo{\r} punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:9.42,0:00:9.50,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:9.50,0:00:9.87,Default,,0,0,0,,prima di passare al prossimo {\1c&HFF00&\u1}punto{\r} voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:9.87,0:00:9.93,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:9.93,0:00:10.09,Default,,0,0,0,,prima di passare al prossimo punto {\1c&HFF00&\u1}voglio{\r} aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:10.09,0:00:10.11,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:10.11,0:00:10.47,Default,,0,0,0,,prima di passare al prossimo punto voglio {\1c&HFF00&\u1}aggiungere{\r} una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:10.47,0:00:10.53,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:10.53,0:00:10.65,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere {\1c&HFF00&\u1}una{\r} piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:10.65,0:00:10.71,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:10.71,0:00:11.07,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una {\1c&HFF00&\u1}piccola{\r} cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:11.07,0:00:11.13,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:11.13,0:00:11.37,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola {\1c&HFF00&\u1}cosa{\r} che ho notato in un po' di persone
+Dialogue: 0,0:00:11.37,0:00:11.43,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:11.43,0:00:11.53,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa {\1c&HFF00&\u1}che{\r} ho notato in un po' di persone
+Dialogue: 0,0:00:11.53,0:00:11.55,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:11.55,0:00:11.61,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che {\1c&HFF00&\u1}ho{\r} notato in un po' di persone
+Dialogue: 0,0:00:11.61,0:00:11.71,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:11.71,0:00:12.19,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho {\1c&HFF00&\u1}notato{\r} in un po' di persone
+Dialogue: 0,0:00:12.19,0:00:12.27,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:12.27,0:00:12.37,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato {\1c&HFF00&\u1}in{\r} un po' di persone
+Dialogue: 0,0:00:12.37,0:00:12.41,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:12.41,0:00:12.47,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in {\1c&HFF00&\u1}un{\r} po' di persone
+Dialogue: 0,0:00:12.47,0:00:12.51,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:12.51,0:00:12.61,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un {\1c&HFF00&\u1}po'{\r} di persone
+Dialogue: 0,0:00:12.61,0:00:12.65,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:12.65,0:00:12.71,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' {\1c&HFF00&\u1}di{\r} persone
+Dialogue: 0,0:00:12.71,0:00:12.75,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di persone
+Dialogue: 0,0:00:12.75,0:00:13.24,Default,,0,0,0,,prima di passare al prossimo punto voglio aggiungere una piccola cosa che ho notato in un po' di {\1c&HFF00&\u1}persone{\r}
+Dialogue: 0,0:00:13.58,0:00:13.86,Default,,0,0,0,,{\1c&HFF00&\u1}ossia{\r} il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:13.86,0:00:13.90,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:13.90,0:00:13.96,Default,,0,0,0,,ossia {\1c&HFF00&\u1}il{\r} preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:13.96,0:00:14.00,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:14.00,0:00:14.66,Default,,0,0,0,,ossia il {\1c&HFF00&\u1}preconcetto{\r} che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:14.66,0:00:14.70,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:14.70,0:00:14.82,Default,,0,0,0,,ossia il preconcetto {\1c&HFF00&\u1}che{\r} non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:14.82,0:00:14.92,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:14.92,0:00:15.02,Default,,0,0,0,,ossia il preconcetto che {\1c&HFF00&\u1}non{\r} si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.02,0:00:15.09,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.09,0:00:15.17,Default,,0,0,0,,ossia il preconcetto che non {\1c&HFF00&\u1}si{\r} debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.17,0:00:15.21,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.21,0:00:15.43,Default,,0,0,0,,ossia il preconcetto che non si {\1c&HFF00&\u1}debba{\r} mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.43,0:00:15.51,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.51,0:00:15.69,Default,,0,0,0,,ossia il preconcetto che non si debba {\1c&HFF00&\u1}mai{\r} invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.69,0:00:15.73,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:15.73,0:00:16.13,Default,,0,0,0,,ossia il preconcetto che non si debba mai {\1c&HFF00&\u1}invitare{\r} gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.13,0:00:16.21,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.21,0:00:16.45,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare {\1c&HFF00&\u1}gente{\r} a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.45,0:00:16.49,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.49,0:00:16.53,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente {\1c&HFF00&\u1}a{\r} casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.53,0:00:16.57,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.57,0:00:16.87,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a {\1c&HFF00&\u1}casa{\r} perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.87,0:00:16.93,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:16.93,0:00:17.15,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa {\1c&HFF00&\u1}perché{\r} la casa è un luogo privato personale
+Dialogue: 0,0:00:17.15,0:00:17.21,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:17.21,0:00:17.27,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché {\1c&HFF00&\u1}la{\r} casa è un luogo privato personale
+Dialogue: 0,0:00:17.27,0:00:17.31,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:17.31,0:00:17.67,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la {\1c&HFF00&\u1}casa{\r} è un luogo privato personale
+Dialogue: 0,0:00:17.67,0:00:17.83,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:17.83,0:00:17.93,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa {\1c&HFF00&\u1}è{\r} un luogo privato personale
+Dialogue: 0,0:00:17.93,0:00:18.01,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:18.01,0:00:18.19,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è {\1c&HFF00&\u1}un{\r} luogo privato personale
+Dialogue: 0,0:00:18.19,0:00:18.29,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:18.29,0:00:18.73,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un {\1c&HFF00&\u1}luogo{\r} privato personale
+Dialogue: 0,0:00:18.73,0:00:18.85,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:18.85,0:00:19.32,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo {\1c&HFF00&\u1}privato{\r} personale
+Dialogue: 0,0:00:19.32,0:00:19.38,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato personale
+Dialogue: 0,0:00:19.38,0:00:20.10,Default,,0,0,0,,ossia il preconcetto che non si debba mai invitare gente a casa perché la casa è un luogo privato {\1c&HFF00&\u1}personale{\r}
+Dialogue: 0,0:00:19.44,0:00:19.54,Default,,0,0,0,,{\1c&HFF00&\u1}quasi{\r} intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.54,0:00:19.56,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.56,0:00:19.68,Default,,0,0,0,,quasi {\1c&HFF00&\u1}intimo{\r} al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.68,0:00:19.70,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.70,0:00:19.74,Default,,0,0,0,,quasi intimo {\1c&HFF00&\u1}al{\r} massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.74,0:00:19.76,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.76,0:00:19.90,Default,,0,0,0,,quasi intimo al {\1c&HFF00&\u1}massimo{\r} adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.90,0:00:19.92,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:19.92,0:00:20.04,Default,,0,0,0,,quasi intimo al massimo {\1c&HFF00&\u1}adatta{\r} per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.04,0:00:20.06,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.06,0:00:20.12,Default,,0,0,0,,quasi intimo al massimo adatta {\1c&HFF00&\u1}per{\r} il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.12,0:00:20.14,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.14,0:00:20.18,Default,,0,0,0,,quasi intimo al massimo adatta per {\1c&HFF00&\u1}il{\r} proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.18,0:00:20.20,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.20,0:00:20.34,Default,,0,0,0,,quasi intimo al massimo adatta per il {\1c&HFF00&\u1}proprio{\r} partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.34,0:00:20.36,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.36,0:00:20.50,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio {\1c&HFF00&\u1}partner{\r} ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.50,0:00:20.52,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.52,0:00:20.56,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner {\1c&HFF00&\u1}ma{\r} sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.56,0:00:20.58,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.58,0:00:20.80,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma {\1c&HFF00&\u1}sicuramente{\r} non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.80,0:00:20.82,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.82,0:00:20.88,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente {\1c&HFF00&\u1}non{\r} per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.88,0:00:20.90,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.90,0:00:20.96,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non {\1c&HFF00&\u1}per{\r} gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.96,0:00:20.98,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:20.98,0:00:21.10,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per {\1c&HFF00&\u1}gli{\r} amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:21.10,0:00:21.12,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:21.12,0:00:21.42,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli {\1c&HFF00&\u1}amici{\r} a mio avviso non c'è motivo di
+Dialogue: 0,0:00:21.42,0:00:21.44,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:21.44,0:00:21.46,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici {\1c&HFF00&\u1}a{\r} mio avviso non c'è motivo di
+Dialogue: 0,0:00:21.46,0:00:21.56,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:21.56,0:00:21.91,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a {\1c&HFF00&\u1}mio{\r} avviso non c'è motivo di
+Dialogue: 0,0:00:21.91,0:00:22.01,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:22.01,0:00:22.41,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio {\1c&HFF00&\u1}avviso{\r} non c'è motivo di
+Dialogue: 0,0:00:22.41,0:00:22.43,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:22.43,0:00:22.49,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso {\1c&HFF00&\u1}non{\r} c'è motivo di
+Dialogue: 0,0:00:22.49,0:00:22.51,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:22.51,0:00:22.67,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non {\1c&HFF00&\u1}c'è{\r} motivo di
+Dialogue: 0,0:00:22.67,0:00:22.71,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:22.71,0:00:23.11,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è {\1c&HFF00&\u1}motivo{\r} di
+Dialogue: 0,0:00:23.11,0:00:23.17,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo di
+Dialogue: 0,0:00:23.17,0:00:23.23,Default,,0,0,0,,quasi intimo al massimo adatta per il proprio partner ma sicuramente non per gli amici a mio avviso non c'è motivo {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:27.20,0:00:27.88,Default,,0,0,0,,{\1c&HFF00&\u1}pensarlo,{\r} anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:27.88,0:00:28.06,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:28.06,0:00:28.30,Default,,0,0,0,,pensarlo, {\1c&HFF00&\u1}anzi{\r} provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:28.30,0:00:28.38,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:28.38,0:00:28.66,Default,,0,0,0,,pensarlo, anzi {\1c&HFF00&\u1}provate{\r} a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:28.66,0:00:28.68,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:28.68,0:00:28.70,Default,,0,0,0,,pensarlo, anzi provate {\1c&HFF00&\u1}a{\r} vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:28.70,0:00:28.76,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:28.76,0:00:29.11,Default,,0,0,0,,pensarlo, anzi provate a {\1c&HFF00&\u1}vederla{\r} come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.11,0:00:29.17,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.17,0:00:29.41,Default,,0,0,0,,pensarlo, anzi provate a vederla {\1c&HFF00&\u1}come{\r} un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.41,0:00:29.45,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.45,0:00:29.53,Default,,0,0,0,,pensarlo, anzi provate a vederla come {\1c&HFF00&\u1}un{\r} modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.53,0:00:29.57,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.57,0:00:29.81,Default,,0,0,0,,pensarlo, anzi provate a vederla come un {\1c&HFF00&\u1}modo{\r} per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.81,0:00:29.87,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:29.87,0:00:29.97,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo {\1c&HFF00&\u1}per{\r} essere ospitali, per essere in un
+Dialogue: 0,0:00:29.97,0:00:30.03,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:30.03,0:00:30.31,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per {\1c&HFF00&\u1}essere{\r} ospitali, per essere in un
+Dialogue: 0,0:00:30.31,0:00:30.63,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:30.63,0:00:31.27,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere {\1c&HFF00&\u1}ospitali,{\r} per essere in un
+Dialogue: 0,0:00:31.27,0:00:31.35,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:31.35,0:00:31.45,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, {\1c&HFF00&\u1}per{\r} essere in un
+Dialogue: 0,0:00:31.45,0:00:31.49,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:31.49,0:00:31.81,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per {\1c&HFF00&\u1}essere{\r} in un
+Dialogue: 0,0:00:31.81,0:00:31.87,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:31.87,0:00:31.95,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere {\1c&HFF00&\u1}in{\r} un
+Dialogue: 0,0:00:31.95,0:00:31.99,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in un
+Dialogue: 0,0:00:31.99,0:00:32.03,Default,,0,0,0,,pensarlo, anzi provate a vederla come un modo per essere ospitali, per essere in {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:32.02,0:00:32.26,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} luogo accogliente e raccolto.
+Dialogue: 0,0:00:32.26,0:00:32.28,Default,,0,0,0,,un luogo accogliente e raccolto.
+Dialogue: 0,0:00:32.28,0:00:32.50,Default,,0,0,0,,un {\1c&HFF00&\u1}luogo{\r} accogliente e raccolto.
+Dialogue: 0,0:00:32.50,0:00:32.62,Default,,0,0,0,,un luogo accogliente e raccolto.
+Dialogue: 0,0:00:32.62,0:00:33.31,Default,,0,0,0,,un luogo {\1c&HFF00&\u1}accogliente{\r} e raccolto.
+Dialogue: 0,0:00:33.31,0:00:33.33,Default,,0,0,0,,un luogo accogliente e raccolto.
+Dialogue: 0,0:00:33.33,0:00:33.35,Default,,0,0,0,,un luogo accogliente {\1c&HFF00&\u1}e{\r} raccolto.
+Dialogue: 0,0:00:33.35,0:00:33.49,Default,,0,0,0,,un luogo accogliente e raccolto.
+Dialogue: 0,0:00:33.49,0:00:34.07,Default,,0,0,0,,un luogo accogliente e {\1c&HFF00&\u1}raccolto.{\r}
+Dialogue: 0,0:00:34.40,0:00:34.50,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} dovete far venire i vostri...
+Dialogue: 0,0:00:34.50,0:00:34.53,Default,,0,0,0,,Non dovete far venire i vostri...
+Dialogue: 0,0:00:34.53,0:00:34.79,Default,,0,0,0,,Non {\1c&HFF00&\u1}dovete{\r} far venire i vostri...
+Dialogue: 0,0:00:34.79,0:00:34.83,Default,,0,0,0,,Non dovete far venire i vostri...
+Dialogue: 0,0:00:34.83,0:00:34.93,Default,,0,0,0,,Non dovete {\1c&HFF00&\u1}far{\r} venire i vostri...
+Dialogue: 0,0:00:34.93,0:00:35.00,Default,,0,0,0,,Non dovete far venire i vostri...
+Dialogue: 0,0:00:35.00,0:00:35.18,Default,,0,0,0,,Non dovete far {\1c&HFF00&\u1}venire{\r} i vostri...
+Dialogue: 0,0:00:35.18,0:00:35.20,Default,,0,0,0,,Non dovete far venire i vostri...
+Dialogue: 0,0:00:35.20,0:00:35.22,Default,,0,0,0,,Non dovete far venire {\1c&HFF00&\u1}i{\r} vostri...
+Dialogue: 0,0:00:35.22,0:00:35.24,Default,,0,0,0,,Non dovete far venire i vostri...
+Dialogue: 0,0:00:35.24,0:00:35.36,Default,,0,0,0,,Non dovete far venire i {\1c&HFF00&\u1}vostri...{\r}

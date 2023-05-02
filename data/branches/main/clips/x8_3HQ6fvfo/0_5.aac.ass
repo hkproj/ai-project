@@ -1,0 +1,151 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.22,0:00:0.46,Default,,0,0,0,,{\1c&HFF00&\u1}Apriamo{\r} l'express, facciamo una foto e bom
+Dialogue: 0,0:00:0.46,0:00:0.50,Default,,0,0,0,,Apriamo l'express, facciamo una foto e bom
+Dialogue: 0,0:00:0.50,0:00:0.94,Default,,0,0,0,,Apriamo {\1c&HFF00&\u1}l'express,{\r} facciamo una foto e bom
+Dialogue: 0,0:00:0.94,0:00:1.17,Default,,0,0,0,,Apriamo l'express, facciamo una foto e bom
+Dialogue: 0,0:00:1.17,0:00:1.45,Default,,0,0,0,,Apriamo l'express, {\1c&HFF00&\u1}facciamo{\r} una foto e bom
+Dialogue: 0,0:00:1.45,0:00:1.49,Default,,0,0,0,,Apriamo l'express, facciamo una foto e bom
+Dialogue: 0,0:00:1.49,0:00:1.61,Default,,0,0,0,,Apriamo l'express, facciamo {\1c&HFF00&\u1}una{\r} foto e bom
+Dialogue: 0,0:00:1.61,0:00:1.67,Default,,0,0,0,,Apriamo l'express, facciamo una foto e bom
+Dialogue: 0,0:00:1.67,0:00:1.99,Default,,0,0,0,,Apriamo l'express, facciamo una {\1c&HFF00&\u1}foto{\r} e bom
+Dialogue: 0,0:00:1.99,0:00:2.09,Default,,0,0,0,,Apriamo l'express, facciamo una foto e bom
+Dialogue: 0,0:00:2.09,0:00:2.11,Default,,0,0,0,,Apriamo l'express, facciamo una foto {\1c&HFF00&\u1}e{\r} bom
+Dialogue: 0,0:00:2.11,0:00:2.15,Default,,0,0,0,,Apriamo l'express, facciamo una foto e bom
+Dialogue: 0,0:00:2.15,0:00:2.33,Default,,0,0,0,,Apriamo l'express, facciamo una foto e {\1c&HFF00&\u1}bom{\r}
+Dialogue: 0,0:00:3.50,0:00:3.82,Default,,0,0,0,,{\1c&HFF00&\u1}19 euro{\r} ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:3.82,0:00:3.86,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:3.86,0:00:3.90,Default,,0,0,0,,19 euro {\1c&HFF00&\u1}ed{\r} è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:3.90,0:00:3.94,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:3.94,0:00:3.96,Default,,0,0,0,,19 euro ed {\1c&HFF00&\u1}è{\r} lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:3.96,0:00:4.02,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:4.02,0:00:4.08,Default,,0,0,0,,19 euro ed è {\1c&HFF00&\u1}lo{\r} stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:4.08,0:00:4.12,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:4.12,0:00:4.34,Default,,0,0,0,,19 euro ed è lo {\1c&HFF00&\u1}stesso{\r} identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:4.34,0:00:4.38,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:4.38,0:00:4.83,Default,,0,0,0,,19 euro ed è lo stesso {\1c&HFF00&\u1}identico,{\r} è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:4.83,0:00:5.15,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:5.15,0:00:5.19,Default,,0,0,0,,19 euro ed è lo stesso identico, {\1c&HFF00&\u1}è{\r} vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:5.19,0:00:5.23,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:5.23,0:00:5.45,Default,,0,0,0,,19 euro ed è lo stesso identico, è {\1c&HFF00&\u1}vero{\r} su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:5.45,0:00:5.65,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:5.65,0:00:5.71,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero {\1c&HFF00&\u1}su{\r} Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:5.71,0:00:5.75,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:5.75,0:00:6.09,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su {\1c&HFF00&\u1}Amazon{\r} ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:6.09,0:00:6.13,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:6.13,0:00:6.21,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon {\1c&HFF00&\u1}ce{\r} l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:6.21,0:00:6.25,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:6.25,0:00:6.57,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce {\1c&HFF00&\u1}l'avrei{\r} domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:6.57,0:00:6.81,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:6.81,0:00:7.25,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei {\1c&HFF00&\u1}domani{\r} mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:7.25,0:00:7.31,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:7.31,0:00:7.53,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani {\1c&HFF00&\u1}mentre{\r} su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:7.53,0:00:7.57,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:7.57,0:00:7.65,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre {\1c&HFF00&\u1}su{\r} Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:7.65,0:00:7.69,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:7.69,0:00:8.19,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su {\1c&HFF00&\u1}Aliexpress{\r} magari ci mette un mese ma
+Dialogue: 0,0:00:8.19,0:00:8.25,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:8.25,0:00:8.49,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress {\1c&HFF00&\u1}magari{\r} ci mette un mese ma
+Dialogue: 0,0:00:8.49,0:00:8.65,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:8.65,0:00:8.71,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari {\1c&HFF00&\u1}ci{\r} mette un mese ma
+Dialogue: 0,0:00:8.71,0:00:8.75,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:8.75,0:00:8.99,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci {\1c&HFF00&\u1}mette{\r} un mese ma
+Dialogue: 0,0:00:8.99,0:00:9.05,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:9.05,0:00:9.13,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette {\1c&HFF00&\u1}un{\r} mese ma
+Dialogue: 0,0:00:9.13,0:00:9.19,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:9.19,0:00:9.50,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un {\1c&HFF00&\u1}mese{\r} ma
+Dialogue: 0,0:00:9.50,0:00:9.56,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese ma
+Dialogue: 0,0:00:9.56,0:00:9.60,Default,,0,0,0,,19 euro ed è lo stesso identico, è vero su Amazon ce l'avrei domani mentre su Aliexpress magari ci mette un mese {\1c&HFF00&\u1}ma{\r}
+Dialogue: 0,0:00:10.00,0:00:10.04,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:10.04,0:00:10.10,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:10.10,0:00:10.20,Default,,0,0,0,,è {\1c&HFF00&\u1}una{\r} bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:10.20,0:00:10.24,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:10.24,0:00:10.74,Default,,0,0,0,,è una {\1c&HFF00&\u1}bilancia,{\r} chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:10.74,0:00:11.12,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.12,0:00:11.18,Default,,0,0,0,,è una bilancia, {\1c&HFF00&\u1}chi{\r} se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.18,0:00:11.22,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.22,0:00:11.28,Default,,0,0,0,,è una bilancia, chi {\1c&HFF00&\u1}se{\r} ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.28,0:00:11.32,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.32,0:00:11.38,Default,,0,0,0,,è una bilancia, chi se {\1c&HFF00&\u1}ne{\r} frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.38,0:00:11.42,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.42,0:00:11.73,Default,,0,0,0,,è una bilancia, chi se ne {\1c&HFF00&\u1}frega,{\r} questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.73,0:00:11.97,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:11.97,0:00:12.15,Default,,0,0,0,,è una bilancia, chi se ne frega, {\1c&HFF00&\u1}questo{\r} trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:12.15,0:00:12.19,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:12.19,0:00:12.63,Default,,0,0,0,,è una bilancia, chi se ne frega, questo {\1c&HFF00&\u1}trucchetto{\r} non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:12.63,0:00:12.75,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:12.75,0:00:12.93,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto {\1c&HFF00&\u1}non{\r} funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:12.93,0:00:13.01,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:13.01,0:00:13.53,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non {\1c&HFF00&\u1}funziona{\r} sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:13.53,0:00:13.63,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:13.63,0:00:14.03,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona {\1c&HFF00&\u1}sempre{\r} infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:14.03,0:00:14.07,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:14.07,0:00:14.39,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre {\1c&HFF00&\u1}infatti{\r} non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:14.39,0:00:14.45,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:14.45,0:00:14.61,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti {\1c&HFF00&\u1}non{\r} tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:14.61,0:00:14.69,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:14.69,0:00:14.95,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non {\1c&HFF00&\u1}tutto{\r} lo troviamo su Aliexpress
+Dialogue: 0,0:00:14.95,0:00:15.01,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:15.01,0:00:15.07,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto {\1c&HFF00&\u1}lo{\r} troviamo su Aliexpress
+Dialogue: 0,0:00:15.07,0:00:15.11,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:15.11,0:00:15.51,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo {\1c&HFF00&\u1}troviamo{\r} su Aliexpress
+Dialogue: 0,0:00:15.51,0:00:15.55,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:15.55,0:00:15.65,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo {\1c&HFF00&\u1}su{\r} Aliexpress
+Dialogue: 0,0:00:15.65,0:00:15.67,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su Aliexpress
+Dialogue: 0,0:00:15.67,0:00:16.34,Default,,0,0,0,,è una bilancia, chi se ne frega, questo trucchetto non funziona sempre infatti non tutto lo troviamo su {\1c&HFF00&\u1}Aliexpress{\r}
+Dialogue: 0,0:00:16.12,0:00:16.44,Default,,0,0,0,,{\1c&HFF00&\u1}express{\r} però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:16.44,0:00:16.74,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:16.74,0:00:16.92,Default,,0,0,0,,express {\1c&HFF00&\u1}però{\r} considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:16.92,0:00:16.96,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:16.96,0:00:17.38,Default,,0,0,0,,express però {\1c&HFF00&\u1}considerato{\r} che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:17.38,0:00:17.42,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:17.42,0:00:17.50,Default,,0,0,0,,express però considerato {\1c&HFF00&\u1}che{\r} ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:17.50,0:00:17.54,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:17.54,0:00:17.60,Default,,0,0,0,,express però considerato che {\1c&HFF00&\u1}ci{\r} mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:17.60,0:00:17.66,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:17.66,0:00:17.96,Default,,0,0,0,,express però considerato che ci {\1c&HFF00&\u1}mettiamo{\r} quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:17.96,0:00:18.02,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:18.02,0:00:18.28,Default,,0,0,0,,express però considerato che ci mettiamo {\1c&HFF00&\u1}quanto{\r} due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:18.28,0:00:18.64,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:18.64,0:00:18.80,Default,,0,0,0,,express però considerato che ci mettiamo quanto {\1c&HFF00&\u1}due{\r} click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:18.80,0:00:18.84,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:18.84,0:00:19.42,Default,,0,0,0,,express però considerato che ci mettiamo quanto due {\1c&HFF00&\u1}click{\r} se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:19.42,0:00:19.80,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:19.80,0:00:19.88,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click {\1c&HFF00&\u1}se{\r} spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:19.88,0:00:19.94,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:19.94,0:00:20.40,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se {\1c&HFF00&\u1}spendiamo{\r} sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:20.40,0:00:20.46,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:20.46,0:00:21.13,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo {\1c&HFF00&\u1}sopra{\r} a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:21.13,0:00:21.47,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:21.47,0:00:21.71,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra {\1c&HFF00&\u1}a 25{\r} euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:21.71,0:00:21.77,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:21.77,0:00:21.97,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 {\1c&HFF00&\u1}euro{\r} secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:21.97,0:00:22.05,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.05,0:00:22.27,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro {\1c&HFF00&\u1}secondo{\r} me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.27,0:00:22.33,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.33,0:00:22.41,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo {\1c&HFF00&\u1}me{\r} vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.41,0:00:22.57,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.57,0:00:22.75,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me {\1c&HFF00&\u1}vale{\r} la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.75,0:00:22.81,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.81,0:00:22.87,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale {\1c&HFF00&\u1}la{\r} pena almeno fare un tentativo
+Dialogue: 0,0:00:22.87,0:00:22.91,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:22.91,0:00:23.09,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la {\1c&HFF00&\u1}pena{\r} almeno fare un tentativo
+Dialogue: 0,0:00:23.09,0:00:23.27,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:23.27,0:00:23.53,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena {\1c&HFF00&\u1}almeno{\r} fare un tentativo
+Dialogue: 0,0:00:23.53,0:00:23.57,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:23.57,0:00:23.67,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno {\1c&HFF00&\u1}fare{\r} un tentativo
+Dialogue: 0,0:00:23.67,0:00:23.71,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:23.71,0:00:23.77,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare {\1c&HFF00&\u1}un{\r} tentativo
+Dialogue: 0,0:00:23.77,0:00:23.79,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un tentativo
+Dialogue: 0,0:00:23.79,0:00:24.13,Default,,0,0,0,,express però considerato che ci mettiamo quanto due click se spendiamo sopra a 25 euro secondo me vale la pena almeno fare un {\1c&HFF00&\u1}tentativo{\r}

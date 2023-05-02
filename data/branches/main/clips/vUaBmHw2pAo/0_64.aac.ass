@@ -1,0 +1,73 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.56,0:00:0.74,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:0.74,0:00:0.78,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:0.78,0:00:1.04,Default,,0,0,0,,come {\1c&HFF00&\u1}dire,{\r} sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:1.04,0:00:2.58,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:2.58,0:00:2.79,Default,,0,0,0,,come dire, {\1c&HFF00&\u1}sono{\r} lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:2.79,0:00:2.87,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:2.87,0:00:3.35,Default,,0,0,0,,come dire, sono {\1c&HFF00&\u1}lento,{\r} no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:3.35,0:00:3.43,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:3.43,0:00:3.87,Default,,0,0,0,,come dire, sono lento, {\1c&HFF00&\u1}no,{\r} sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:3.87,0:00:4.09,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:4.09,0:00:4.21,Default,,0,0,0,,come dire, sono lento, no, {\1c&HFF00&\u1}sei{\r} attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:4.21,0:00:4.27,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:4.27,0:00:4.73,Default,,0,0,0,,come dire, sono lento, no, sei {\1c&HFF00&\u1}attivo,{\r} hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:4.73,0:00:4.75,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:4.75,0:00:4.93,Default,,0,0,0,,come dire, sono lento, no, sei attivo, {\1c&HFF00&\u1}hai{\r} voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:4.93,0:00:4.97,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:4.97,0:00:5.23,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai {\1c&HFF00&\u1}voglia{\r} di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:5.23,0:00:5.27,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:5.27,0:00:5.33,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia {\1c&HFF00&\u1}di{\r} fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:5.33,0:00:5.41,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:5.41,0:00:5.73,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di {\1c&HFF00&\u1}fare,{\r} non ti deve venire l'ansia,
+Dialogue: 0,0:00:5.73,0:00:7.43,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:7.43,0:00:7.53,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, {\1c&HFF00&\u1}non{\r} ti deve venire l'ansia,
+Dialogue: 0,0:00:7.53,0:00:7.57,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:7.57,0:00:7.65,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non {\1c&HFF00&\u1}ti{\r} deve venire l'ansia,
+Dialogue: 0,0:00:7.65,0:00:7.69,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:7.69,0:00:7.87,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti {\1c&HFF00&\u1}deve{\r} venire l'ansia,
+Dialogue: 0,0:00:7.87,0:00:7.93,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:7.93,0:00:8.22,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve {\1c&HFF00&\u1}venire{\r} l'ansia,
+Dialogue: 0,0:00:8.22,0:00:8.30,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire l'ansia,
+Dialogue: 0,0:00:8.30,0:00:8.62,Default,,0,0,0,,come dire, sono lento, no, sei attivo, hai voglia di fare, non ti deve venire {\1c&HFF00&\u1}l'ansia,{\r}
+Dialogue: 0,0:00:8.76,0:00:8.84,Default,,0,0,0,,{\1c&HFF00&\u1}ti{\r} deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:8.84,0:00:8.90,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:8.90,0:00:9.12,Default,,0,0,0,,ti {\1c&HFF00&\u1}deve{\r} venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:9.12,0:00:9.14,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:9.14,0:00:9.36,Default,,0,0,0,,ti deve {\1c&HFF00&\u1}venire{\r} l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:9.36,0:00:9.42,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:9.42,0:00:9.92,Default,,0,0,0,,ti deve venire {\1c&HFF00&\u1}l'attenzione{\r} e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:9.92,0:00:10.32,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:10.32,0:00:10.38,Default,,0,0,0,,ti deve venire l'attenzione {\1c&HFF00&\u1}e{\r} quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:10.38,0:00:10.64,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:10.64,0:00:10.85,Default,,0,0,0,,ti deve venire l'attenzione e {\1c&HFF00&\u1}quella{\r} cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:10.85,0:00:10.91,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:10.91,0:00:11.13,Default,,0,0,0,,ti deve venire l'attenzione e quella {\1c&HFF00&\u1}cosa{\r} lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:11.13,0:00:11.21,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:11.21,0:00:11.43,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa {\1c&HFF00&\u1}lì{\r} di separarti dagli altri la devi fare
+Dialogue: 0,0:00:11.43,0:00:12.47,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:12.47,0:00:12.53,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì {\1c&HFF00&\u1}di{\r} separarti dagli altri la devi fare
+Dialogue: 0,0:00:12.53,0:00:12.59,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:12.59,0:00:13.15,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di {\1c&HFF00&\u1}separarti{\r} dagli altri la devi fare
+Dialogue: 0,0:00:13.15,0:00:13.21,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:13.21,0:00:13.43,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti {\1c&HFF00&\u1}dagli{\r} altri la devi fare
+Dialogue: 0,0:00:13.43,0:00:13.47,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:13.47,0:00:13.81,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli {\1c&HFF00&\u1}altri{\r} la devi fare
+Dialogue: 0,0:00:13.81,0:00:13.85,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:13.85,0:00:13.95,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri {\1c&HFF00&\u1}la{\r} devi fare
+Dialogue: 0,0:00:13.95,0:00:14.01,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:14.01,0:00:14.19,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la {\1c&HFF00&\u1}devi{\r} fare
+Dialogue: 0,0:00:14.19,0:00:14.29,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi fare
+Dialogue: 0,0:00:14.29,0:00:14.59,Default,,0,0,0,,ti deve venire l'attenzione e quella cosa lì di separarti dagli altri la devi {\1c&HFF00&\u1}fare{\r}

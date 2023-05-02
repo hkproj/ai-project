@@ -1,0 +1,189 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.10,0:00:0.20,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:0.20,0:00:0.24,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:0.24,0:00:0.30,Default,,0,0,0,,C'è {\1c&HFF00&\u1}il{\r} fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:0.30,0:00:0.34,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:0.34,0:00:0.62,Default,,0,0,0,,C'è il {\1c&HFF00&\u1}fondo,{\r} sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:0.62,0:00:1.62,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:1.62,0:00:1.74,Default,,0,0,0,,C'è il fondo, {\1c&HFF00&\u1}sto{\r} facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:1.74,0:00:1.78,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:1.78,0:00:2.05,Default,,0,0,0,,C'è il fondo, sto {\1c&HFF00&\u1}facendo{\r} il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:2.05,0:00:2.07,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:2.07,0:00:2.11,Default,,0,0,0,,C'è il fondo, sto facendo {\1c&HFF00&\u1}il{\r} mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:2.11,0:00:2.13,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:2.13,0:00:2.23,Default,,0,0,0,,C'è il fondo, sto facendo il {\1c&HFF00&\u1}mio{\r} mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:2.23,0:00:2.25,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:2.25,0:00:2.67,Default,,0,0,0,,C'è il fondo, sto facendo il mio {\1c&HFF00&\u1}mestiere,{\r} se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:2.67,0:00:3.23,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.23,0:00:3.31,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, {\1c&HFF00&\u1}se{\r} mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.31,0:00:3.35,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.35,0:00:3.39,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se {\1c&HFF00&\u1}mi{\r} pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.39,0:00:3.45,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.45,0:00:3.73,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi {\1c&HFF00&\u1}pagano{\r} lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.73,0:00:3.77,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.77,0:00:3.83,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano {\1c&HFF00&\u1}lo{\r} faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.83,0:00:3.89,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:3.89,0:00:4.23,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo {\1c&HFF00&\u1}faccio,{\r} non è il mio mestiere
+Dialogue: 0,0:00:4.23,0:00:4.53,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:4.53,0:00:4.61,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, {\1c&HFF00&\u1}non{\r} è il mio mestiere
+Dialogue: 0,0:00:4.61,0:00:4.65,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:4.65,0:00:4.67,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non {\1c&HFF00&\u1}è{\r} il mio mestiere
+Dialogue: 0,0:00:4.67,0:00:4.69,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:4.69,0:00:4.73,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è {\1c&HFF00&\u1}il{\r} mio mestiere
+Dialogue: 0,0:00:4.73,0:00:4.75,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:4.75,0:00:4.83,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il {\1c&HFF00&\u1}mio{\r} mestiere
+Dialogue: 0,0:00:4.83,0:00:4.85,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio mestiere
+Dialogue: 0,0:00:4.85,0:00:5.23,Default,,0,0,0,,C'è il fondo, sto facendo il mio mestiere, se mi pagano lo faccio, non è il mio {\1c&HFF00&\u1}mestiere{\r}
+Dialogue: 0,0:00:5.30,0:00:6.06,Default,,0,0,0,,{\1c&HFF00&\u1}eh,{\r} come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.06,0:00:6.08,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.08,0:00:6.22,Default,,0,0,0,,eh, {\1c&HFF00&\u1}come{\r} la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.22,0:00:6.58,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.58,0:00:6.64,Default,,0,0,0,,eh, come {\1c&HFF00&\u1}la{\r} persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.64,0:00:6.68,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.68,0:00:6.96,Default,,0,0,0,,eh, come la {\1c&HFF00&\u1}persona{\r} che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.96,0:00:6.98,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:6.98,0:00:7.06,Default,,0,0,0,,eh, come la persona {\1c&HFF00&\u1}che{\r} deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.06,0:00:7.10,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.10,0:00:7.22,Default,,0,0,0,,eh, come la persona che {\1c&HFF00&\u1}deve{\r} fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.22,0:00:7.28,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.28,0:00:7.81,Default,,0,0,0,,eh, come la persona che deve {\1c&HFF00&\u1}fare{\r} la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.81,0:00:7.87,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.87,0:00:7.93,Default,,0,0,0,,eh, come la persona che deve fare {\1c&HFF00&\u1}la{\r} recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.93,0:00:7.97,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:7.97,0:00:8.53,Default,,0,0,0,,eh, come la persona che deve fare la {\1c&HFF00&\u1}recita,{\r} vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:8.53,0:00:8.69,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:8.69,0:00:8.87,Default,,0,0,0,,eh, come la persona che deve fare la recita, {\1c&HFF00&\u1}vabbè,{\r} ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:8.87,0:00:10.37,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:10.37,0:00:10.41,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, {\1c&HFF00&\u1}ho{\r} detto, è un impegno come gli altri,
+Dialogue: 0,0:00:10.41,0:00:10.45,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:10.45,0:00:10.59,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho {\1c&HFF00&\u1}detto,{\r} è un impegno come gli altri,
+Dialogue: 0,0:00:10.59,0:00:10.77,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:10.77,0:00:10.81,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, {\1c&HFF00&\u1}è{\r} un impegno come gli altri,
+Dialogue: 0,0:00:10.81,0:00:10.83,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:10.83,0:00:10.89,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è {\1c&HFF00&\u1}un{\r} impegno come gli altri,
+Dialogue: 0,0:00:10.89,0:00:10.93,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:10.93,0:00:11.19,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un {\1c&HFF00&\u1}impegno{\r} come gli altri,
+Dialogue: 0,0:00:11.19,0:00:11.23,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:11.23,0:00:11.33,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno {\1c&HFF00&\u1}come{\r} gli altri,
+Dialogue: 0,0:00:11.33,0:00:11.37,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:11.37,0:00:11.45,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come {\1c&HFF00&\u1}gli{\r} altri,
+Dialogue: 0,0:00:11.45,0:00:11.47,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli altri,
+Dialogue: 0,0:00:11.47,0:00:11.71,Default,,0,0,0,,eh, come la persona che deve fare la recita, vabbè, ho detto, è un impegno come gli {\1c&HFF00&\u1}altri,{\r}
+Dialogue: 0,0:00:12.12,0:00:12.32,Default,,0,0,0,,{\1c&HFF00&\u1}lo{\r} faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.32,0:00:12.34,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.34,0:00:12.52,Default,,0,0,0,,lo {\1c&HFF00&\u1}faccio{\r} come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.52,0:00:12.54,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.54,0:00:12.64,Default,,0,0,0,,lo faccio {\1c&HFF00&\u1}come{\r} lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.64,0:00:12.66,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.66,0:00:12.70,Default,,0,0,0,,lo faccio come {\1c&HFF00&\u1}lo{\r} fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.70,0:00:12.72,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.72,0:00:12.86,Default,,0,0,0,,lo faccio come lo {\1c&HFF00&\u1}fanno{\r} gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.86,0:00:12.88,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.88,0:00:12.98,Default,,0,0,0,,lo faccio come lo fanno {\1c&HFF00&\u1}gli{\r} altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:12.98,0:00:13.06,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:13.06,0:00:14.41,Default,,0,0,0,,lo faccio come lo fanno gli {\1c&HFF00&\u1}altri,{\r} se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.41,0:00:14.43,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.43,0:00:14.57,Default,,0,0,0,,lo faccio come lo fanno gli altri, {\1c&HFF00&\u1}se{\r} è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.57,0:00:14.59,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.59,0:00:14.61,Default,,0,0,0,,lo faccio come lo fanno gli altri, se {\1c&HFF00&\u1}è{\r} uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.61,0:00:14.67,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.67,0:00:14.79,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è {\1c&HFF00&\u1}uno{\r} che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.79,0:00:14.81,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.81,0:00:14.87,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno {\1c&HFF00&\u1}che{\r} deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.87,0:00:14.89,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.89,0:00:14.99,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che {\1c&HFF00&\u1}deve{\r} fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:14.99,0:00:15.03,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:15.03,0:00:15.17,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve {\1c&HFF00&\u1}fare{\r} una relazione pubblica, un convegno,
+Dialogue: 0,0:00:15.17,0:00:15.19,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:15.19,0:00:15.29,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare {\1c&HFF00&\u1}una{\r} relazione pubblica, un convegno,
+Dialogue: 0,0:00:15.29,0:00:15.33,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:15.33,0:00:15.95,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una {\1c&HFF00&\u1}relazione{\r} pubblica, un convegno,
+Dialogue: 0,0:00:15.95,0:00:16.05,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:16.05,0:00:16.35,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione {\1c&HFF00&\u1}pubblica,{\r} un convegno,
+Dialogue: 0,0:00:16.35,0:00:16.43,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:16.43,0:00:16.49,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, {\1c&HFF00&\u1}un{\r} convegno,
+Dialogue: 0,0:00:16.49,0:00:16.51,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un convegno,
+Dialogue: 0,0:00:16.51,0:00:16.87,Default,,0,0,0,,lo faccio come lo fanno gli altri, se è uno che deve fare una relazione pubblica, un {\1c&HFF00&\u1}convegno,{\r}
+Dialogue: 0,0:00:17.20,0:00:17.72,Default,,0,0,0,,{\1c&HFF00&\u1}vabbè,{\r} fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:17.72,0:00:17.74,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:17.74,0:00:17.88,Default,,0,0,0,,vabbè, {\1c&HFF00&\u1}fa{\r} parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:17.88,0:00:17.96,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:17.96,0:00:18.18,Default,,0,0,0,,vabbè, fa {\1c&HFF00&\u1}parte{\r} della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:18.18,0:00:18.20,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:18.20,0:00:19.75,Default,,0,0,0,,vabbè, fa parte {\1c&HFF00&\u1}della{\r} mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:19.75,0:00:19.77,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:19.77,0:00:19.89,Default,,0,0,0,,vabbè, fa parte della {\1c&HFF00&\u1}mia{\r} professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:19.89,0:00:19.93,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:19.93,0:00:20.53,Default,,0,0,0,,vabbè, fa parte della mia {\1c&HFF00&\u1}professionalità.{\r} C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:20.53,0:00:21.37,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:21.37,0:00:21.45,Default,,0,0,0,,vabbè, fa parte della mia professionalità. {\1c&HFF00&\u1}C'è{\r} capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:21.45,0:00:21.47,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:21.47,0:00:21.71,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è {\1c&HFF00&\u1}capito?{\r} Non sto facendo niente speciale,
+Dialogue: 0,0:00:21.71,0:00:22.77,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:22.77,0:00:22.83,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? {\1c&HFF00&\u1}Non{\r} sto facendo niente speciale,
+Dialogue: 0,0:00:22.83,0:00:22.85,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:22.85,0:00:22.93,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non {\1c&HFF00&\u1}sto{\r} facendo niente speciale,
+Dialogue: 0,0:00:22.93,0:00:22.95,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:22.95,0:00:23.15,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto {\1c&HFF00&\u1}facendo{\r} niente speciale,
+Dialogue: 0,0:00:23.15,0:00:23.21,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:23.21,0:00:23.41,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo {\1c&HFF00&\u1}niente{\r} speciale,
+Dialogue: 0,0:00:23.41,0:00:23.43,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente speciale,
+Dialogue: 0,0:00:23.43,0:00:23.68,Default,,0,0,0,,vabbè, fa parte della mia professionalità. C'è capito? Non sto facendo niente {\1c&HFF00&\u1}speciale,{\r}
+Dialogue: 0,0:00:23.80,0:00:23.88,Default,,0,0,0,,{\1c&HFF00&\u1}sto{\r} facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:23.88,0:00:23.90,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:23.90,0:00:24.04,Default,,0,0,0,,sto {\1c&HFF00&\u1}facendo{\r} il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.04,0:00:24.06,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.06,0:00:24.12,Default,,0,0,0,,sto facendo {\1c&HFF00&\u1}il{\r} mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.12,0:00:24.24,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.24,0:00:24.30,Default,,0,0,0,,sto facendo il {\1c&HFF00&\u1}mio{\r} mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.30,0:00:24.32,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.32,0:00:24.58,Default,,0,0,0,,sto facendo il mio {\1c&HFF00&\u1}mestiere,{\r} sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.58,0:00:24.60,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.60,0:00:24.68,Default,,0,0,0,,sto facendo il mio mestiere, {\1c&HFF00&\u1}sto{\r} facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.68,0:00:24.72,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.72,0:00:24.94,Default,,0,0,0,,sto facendo il mio mestiere, sto {\1c&HFF00&\u1}facendo{\r} una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.94,0:00:24.96,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:24.96,0:00:25.06,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo {\1c&HFF00&\u1}una{\r} cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:25.06,0:00:25.10,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:25.10,0:00:25.22,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una {\1c&HFF00&\u1}cosa{\r} che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:25.22,0:00:25.26,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:25.26,0:00:25.38,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa {\1c&HFF00&\u1}che{\r} attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:25.38,0:00:26.03,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:26.03,0:00:26.47,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che {\1c&HFF00&\u1}attiene{\r} i miei compiti, sto facendo
+Dialogue: 0,0:00:26.47,0:00:26.49,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:26.49,0:00:26.51,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene {\1c&HFF00&\u1}i{\r} miei compiti, sto facendo
+Dialogue: 0,0:00:26.51,0:00:26.55,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:26.55,0:00:26.69,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i {\1c&HFF00&\u1}miei{\r} compiti, sto facendo
+Dialogue: 0,0:00:26.69,0:00:26.77,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:26.77,0:00:27.15,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei {\1c&HFF00&\u1}compiti,{\r} sto facendo
+Dialogue: 0,0:00:27.15,0:00:27.19,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:27.19,0:00:27.33,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, {\1c&HFF00&\u1}sto{\r} facendo
+Dialogue: 0,0:00:27.33,0:00:28.09,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto facendo
+Dialogue: 0,0:00:28.09,0:00:28.31,Default,,0,0,0,,sto facendo il mio mestiere, sto facendo una cosa che attiene i miei compiti, sto {\1c&HFF00&\u1}facendo{\r}
+Dialogue: 0,0:00:28.28,0:00:28.34,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.34,0:00:28.36,Default,,0,0,0,,una cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.36,0:00:28.44,Default,,0,0,0,,una {\1c&HFF00&\u1}cosa{\r} che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.44,0:00:28.46,Default,,0,0,0,,una cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.46,0:00:28.52,Default,,0,0,0,,una cosa {\1c&HFF00&\u1}che{\r} è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.52,0:00:28.54,Default,,0,0,0,,una cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.54,0:00:28.56,Default,,0,0,0,,una cosa che {\1c&HFF00&\u1}è{\r} nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.56,0:00:28.58,Default,,0,0,0,,una cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.58,0:00:28.76,Default,,0,0,0,,una cosa che è {\1c&HFF00&\u1}nell'alvio{\r} dei miei doveri.
+Dialogue: 0,0:00:28.76,0:00:28.78,Default,,0,0,0,,una cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.78,0:00:28.84,Default,,0,0,0,,una cosa che è nell'alvio {\1c&HFF00&\u1}dei{\r} miei doveri.
+Dialogue: 0,0:00:28.84,0:00:28.86,Default,,0,0,0,,una cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.86,0:00:28.94,Default,,0,0,0,,una cosa che è nell'alvio dei {\1c&HFF00&\u1}miei{\r} doveri.
+Dialogue: 0,0:00:28.94,0:00:28.96,Default,,0,0,0,,una cosa che è nell'alvio dei miei doveri.
+Dialogue: 0,0:00:28.96,0:00:29.08,Default,,0,0,0,,una cosa che è nell'alvio dei miei {\1c&HFF00&\u1}doveri.{\r}

@@ -1,0 +1,68 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.80,0:00:0.88,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:0.90,0:00:1.04,Default,,0,0,0,,non {\1c&HFF00&\u1}sono{\r} matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.04,0:00:1.08,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.08,0:00:1.36,Default,,0,0,0,,non sono {\1c&HFF00&\u1}matto{\r} e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.36,0:00:1.40,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.40,0:00:1.42,Default,,0,0,0,,non sono matto {\1c&HFF00&\u1}e{\r} non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.42,0:00:1.61,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.61,0:00:1.69,Default,,0,0,0,,non sono matto e {\1c&HFF00&\u1}non{\r} sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.69,0:00:1.73,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.73,0:00:1.87,Default,,0,0,0,,non sono matto e non {\1c&HFF00&\u1}sono{\r} matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.87,0:00:1.91,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:1.91,0:00:2.11,Default,,0,0,0,,non sono matto e non sono {\1c&HFF00&\u1}matto{\r} è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.11,0:00:2.17,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.17,0:00:2.21,Default,,0,0,0,,non sono matto e non sono matto {\1c&HFF00&\u1}è{\r} una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.21,0:00:2.25,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.25,0:00:2.33,Default,,0,0,0,,non sono matto e non sono matto è {\1c&HFF00&\u1}una{\r} cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.33,0:00:2.41,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.41,0:00:2.61,Default,,0,0,0,,non sono matto e non sono matto è una {\1c&HFF00&\u1}cosa{\r} è una possibilità che tutti noi
+Dialogue: 0,0:00:2.61,0:00:2.67,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.67,0:00:2.69,Default,,0,0,0,,non sono matto e non sono matto è una cosa {\1c&HFF00&\u1}è{\r} una possibilità che tutti noi
+Dialogue: 0,0:00:2.69,0:00:2.73,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.73,0:00:2.83,Default,,0,0,0,,non sono matto e non sono matto è una cosa è {\1c&HFF00&\u1}una{\r} possibilità che tutti noi
+Dialogue: 0,0:00:2.83,0:00:2.89,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:2.89,0:00:3.33,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una {\1c&HFF00&\u1}possibilità{\r} che tutti noi
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:3.37,0:00:3.45,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità {\1c&HFF00&\u1}che{\r} tutti noi
+Dialogue: 0,0:00:3.45,0:00:3.49,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:3.49,0:00:3.65,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che {\1c&HFF00&\u1}tutti{\r} noi
+Dialogue: 0,0:00:3.65,0:00:3.69,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti noi
+Dialogue: 0,0:00:3.69,0:00:3.81,Default,,0,0,0,,non sono matto e non sono matto è una cosa è una possibilità che tutti {\1c&HFF00&\u1}noi{\r}
+Dialogue: 0,0:00:3.74,0:00:4.16,Default,,0,0,0,,{\1c&HFF00&\u1}esseri{\r} umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:4.16,0:00:4.22,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:4.22,0:00:4.46,Default,,0,0,0,,esseri {\1c&HFF00&\u1}umani{\r} abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:4.46,0:00:4.48,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:4.48,0:00:4.76,Default,,0,0,0,,esseri umani {\1c&HFF00&\u1}abbiamo{\r} allora le tecniche sono queste qui
+Dialogue: 0,0:00:4.76,0:00:4.78,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:4.78,0:00:5.47,Default,,0,0,0,,esseri umani abbiamo {\1c&HFF00&\u1}allora{\r} le tecniche sono queste qui
+Dialogue: 0,0:00:5.47,0:00:5.51,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:5.51,0:00:5.55,Default,,0,0,0,,esseri umani abbiamo allora {\1c&HFF00&\u1}le{\r} tecniche sono queste qui
+Dialogue: 0,0:00:5.55,0:00:5.63,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:5.63,0:00:5.93,Default,,0,0,0,,esseri umani abbiamo allora le {\1c&HFF00&\u1}tecniche{\r} sono queste qui
+Dialogue: 0,0:00:5.93,0:00:5.97,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:5.97,0:00:6.11,Default,,0,0,0,,esseri umani abbiamo allora le tecniche {\1c&HFF00&\u1}sono{\r} queste qui
+Dialogue: 0,0:00:6.11,0:00:6.13,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:6.13,0:00:6.31,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono {\1c&HFF00&\u1}queste{\r} qui
+Dialogue: 0,0:00:6.31,0:00:6.39,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste qui
+Dialogue: 0,0:00:6.39,0:00:6.45,Default,,0,0,0,,esseri umani abbiamo allora le tecniche sono queste {\1c&HFF00&\u1}qui{\r}
+Dialogue: 0,0:00:8.40,0:00:8.52,Default,,0,0,0,,{\1c&HFF00&\u1}vedete{\r} voi quale usare
+Dialogue: 0,0:00:8.52,0:00:8.54,Default,,0,0,0,,vedete voi quale usare
+Dialogue: 0,0:00:8.54,0:00:8.62,Default,,0,0,0,,vedete {\1c&HFF00&\u1}voi{\r} quale usare
+Dialogue: 0,0:00:8.62,0:00:8.64,Default,,0,0,0,,vedete voi quale usare
+Dialogue: 0,0:00:8.64,0:00:8.74,Default,,0,0,0,,vedete voi {\1c&HFF00&\u1}quale{\r} usare
+Dialogue: 0,0:00:8.74,0:00:8.76,Default,,0,0,0,,vedete voi quale usare
+Dialogue: 0,0:00:8.76,0:00:8.86,Default,,0,0,0,,vedete voi quale {\1c&HFF00&\u1}usare{\r}

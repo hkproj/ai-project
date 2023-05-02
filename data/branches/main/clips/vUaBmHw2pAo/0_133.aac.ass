@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.20,0:00:0.26,Default,,0,0,0,,{\1c&HFF00&\u1}te{\r} vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.26,0:00:0.54,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.54,0:00:0.70,Default,,0,0,0,,te {\1c&HFF00&\u1}vanno{\r} di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.70,0:00:0.72,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,te vanno {\1c&HFF00&\u1}di{\r} chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.78,0:00:0.80,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.80,0:00:0.88,Default,,0,0,0,,te vanno di {\1c&HFF00&\u1}chi{\r} a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.88,0:00:0.94,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.94,0:00:0.98,Default,,0,0,0,,te vanno di chi {\1c&HFF00&\u1}a{\r} fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:0.98,0:00:1.02,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:1.02,0:00:1.14,Default,,0,0,0,,te vanno di chi a {\1c&HFF00&\u1}fare{\r} tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:1.14,0:00:1.20,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:1.20,0:00:1.36,Default,,0,0,0,,te vanno di chi a fare {\1c&HFF00&\u1}tutto,{\r} spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:1.36,0:00:1.43,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:1.43,0:00:1.95,Default,,0,0,0,,te vanno di chi a fare tutto, {\1c&HFF00&\u1}spettacolo,{\r} ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:1.95,0:00:2.11,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.11,0:00:2.17,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, {\1c&HFF00&\u1}ma{\r} non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.17,0:00:2.21,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.21,0:00:2.29,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma {\1c&HFF00&\u1}non{\r} lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.29,0:00:2.31,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.31,0:00:2.35,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non {\1c&HFF00&\u1}lo{\r} fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.35,0:00:2.39,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.39,0:00:2.53,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo {\1c&HFF00&\u1}fai{\r} tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.53,0:00:2.57,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.57,0:00:2.67,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai {\1c&HFF00&\u1}tu,{\r} lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.67,0:00:2.69,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.69,0:00:2.75,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, {\1c&HFF00&\u1}lo{\r} fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.75,0:00:2.79,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.79,0:00:2.87,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo {\1c&HFF00&\u1}fai{\r} il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.87,0:00:2.91,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.91,0:00:2.99,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai {\1c&HFF00&\u1}il{\r} demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:2.99,0:00:3.03,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.03,0:00:3.33,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il {\1c&HFF00&\u1}demone{\r} che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.37,0:00:3.45,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone {\1c&HFF00&\u1}che{\r} si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.45,0:00:3.47,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.47,0:00:3.53,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che {\1c&HFF00&\u1}si{\r} vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.53,0:00:3.57,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.57,0:00:3.73,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si {\1c&HFF00&\u1}vede{\r} dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.73,0:00:3.75,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.75,0:00:3.93,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede {\1c&HFF00&\u1}dentro,{\r} che stiamo mercadini
+Dialogue: 0,0:00:3.93,0:00:3.95,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:3.95,0:00:4.11,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, {\1c&HFF00&\u1}che{\r} stiamo mercadini
+Dialogue: 0,0:00:4.11,0:00:4.14,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:4.14,0:00:4.46,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che {\1c&HFF00&\u1}stiamo{\r} mercadini
+Dialogue: 0,0:00:4.46,0:00:4.54,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo mercadini
+Dialogue: 0,0:00:4.54,0:00:4.90,Default,,0,0,0,,te vanno di chi a fare tutto, spettacolo, ma non lo fai tu, lo fai il demone che si vede dentro, che stiamo {\1c&HFF00&\u1}mercadini{\r}

@@ -1,0 +1,67 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.06,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.06,0:00:0.08,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.08,0:00:0.12,Default,,0,0,0,,Non {\1c&HFF00&\u1}ci{\r} pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.12,0:00:0.14,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.14,0:00:0.28,Default,,0,0,0,,Non ci {\1c&HFF00&\u1}pensare,{\r} stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.28,0:00:0.30,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.30,0:00:0.38,Default,,0,0,0,,Non ci pensare, {\1c&HFF00&\u1}stai{\r} solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.40,0:00:0.48,Default,,0,0,0,,Non ci pensare, stai {\1c&HFF00&\u1}solo{\r} facendo il tuo mestiere.
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.50,0:00:0.64,Default,,0,0,0,,Non ci pensare, stai solo {\1c&HFF00&\u1}facendo{\r} il tuo mestiere.
+Dialogue: 0,0:00:0.64,0:00:0.66,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.66,0:00:0.70,Default,,0,0,0,,Non ci pensare, stai solo facendo {\1c&HFF00&\u1}il{\r} tuo mestiere.
+Dialogue: 0,0:00:0.70,0:00:0.72,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.72,0:00:0.80,Default,,0,0,0,,Non ci pensare, stai solo facendo il {\1c&HFF00&\u1}tuo{\r} mestiere.
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo mestiere.
+Dialogue: 0,0:00:0.82,0:00:1.12,Default,,0,0,0,,Non ci pensare, stai solo facendo il tuo {\1c&HFF00&\u1}mestiere.{\r}
+Dialogue: 0,0:00:4.94,0:00:5.16,Default,,0,0,0,,{\1c&HFF00&\u1}Ecco,{\r} quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:5.16,0:00:5.28,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:5.28,0:00:5.44,Default,,0,0,0,,Ecco, {\1c&HFF00&\u1}quando{\r} l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:5.44,0:00:5.46,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:5.46,0:00:5.54,Default,,0,0,0,,Ecco, quando {\1c&HFF00&\u1}l'ho{\r} ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:5.54,0:00:5.56,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:5.56,0:00:6.03,Default,,0,0,0,,Ecco, quando l'ho {\1c&HFF00&\u1}ascoltato{\r} ho detto ma dai, ma dai!
+Dialogue: 0,0:00:6.03,0:00:6.07,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:6.07,0:00:6.13,Default,,0,0,0,,Ecco, quando l'ho ascoltato {\1c&HFF00&\u1}ho{\r} detto ma dai, ma dai!
+Dialogue: 0,0:00:6.13,0:00:6.17,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:6.17,0:00:6.41,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho {\1c&HFF00&\u1}detto{\r} ma dai, ma dai!
+Dialogue: 0,0:00:6.41,0:00:6.45,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:6.45,0:00:6.53,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto {\1c&HFF00&\u1}ma{\r} dai, ma dai!
+Dialogue: 0,0:00:6.53,0:00:6.59,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:6.59,0:00:6.91,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma {\1c&HFF00&\u1}dai,{\r} ma dai!
+Dialogue: 0,0:00:6.91,0:00:7.49,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:7.49,0:00:7.63,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, {\1c&HFF00&\u1}ma{\r} dai!
+Dialogue: 0,0:00:7.63,0:00:7.71,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma dai!
+Dialogue: 0,0:00:7.71,0:00:8.31,Default,,0,0,0,,Ecco, quando l'ho ascoltato ho detto ma dai, ma {\1c&HFF00&\u1}dai!{\r}
+Dialogue: 0,0:00:9.22,0:00:9.52,Default,,0,0,0,,{\1c&HFF00&\u1}Vedi?{\r}
+Dialogue: 0,0:00:10.04,0:00:10.22,Default,,0,0,0,,{\1c&HFF00&\u1}Ah,{\r} ci vedo che non è una cosa che...
+Dialogue: 0,0:00:10.22,0:00:10.48,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:10.48,0:00:10.54,Default,,0,0,0,,Ah, {\1c&HFF00&\u1}ci{\r} vedo che non è una cosa che...
+Dialogue: 0,0:00:10.54,0:00:10.56,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:10.56,0:00:10.67,Default,,0,0,0,,Ah, ci {\1c&HFF00&\u1}vedo{\r} che non è una cosa che...
+Dialogue: 0,0:00:10.67,0:00:10.71,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:10.71,0:00:10.77,Default,,0,0,0,,Ah, ci vedo {\1c&HFF00&\u1}che{\r} non è una cosa che...
+Dialogue: 0,0:00:10.77,0:00:10.81,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:10.81,0:00:10.87,Default,,0,0,0,,Ah, ci vedo che {\1c&HFF00&\u1}non{\r} è una cosa che...
+Dialogue: 0,0:00:10.87,0:00:10.91,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:10.91,0:00:10.99,Default,,0,0,0,,Ah, ci vedo che non {\1c&HFF00&\u1}è{\r} una cosa che...
+Dialogue: 0,0:00:10.99,0:00:11.01,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:11.01,0:00:11.09,Default,,0,0,0,,Ah, ci vedo che non è {\1c&HFF00&\u1}una{\r} cosa che...
+Dialogue: 0,0:00:11.09,0:00:11.11,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:11.11,0:00:11.25,Default,,0,0,0,,Ah, ci vedo che non è una {\1c&HFF00&\u1}cosa{\r} che...
+Dialogue: 0,0:00:11.25,0:00:11.27,Default,,0,0,0,,Ah, ci vedo che non è una cosa che...
+Dialogue: 0,0:00:11.27,0:00:11.33,Default,,0,0,0,,Ah, ci vedo che non è una cosa {\1c&HFF00&\u1}che...{\r}

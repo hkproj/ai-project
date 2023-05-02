@@ -1,0 +1,266 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.16,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi{\r} tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:0.50,0:00:0.72,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:0.72,0:00:0.98,Default,,0,0,0,,Quindi {\1c&HFF00&\u1}tutto{\r} qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:0.98,0:00:1.06,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:1.06,0:00:1.22,Default,,0,0,0,,Quindi tutto {\1c&HFF00&\u1}qui,{\r} no? In realtà non è proprio così.
+Dialogue: 0,0:00:1.22,0:00:1.26,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:1.26,0:00:1.40,Default,,0,0,0,,Quindi tutto qui, {\1c&HFF00&\u1}no?{\r} In realtà non è proprio così.
+Dialogue: 0,0:00:1.40,0:00:1.93,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:1.93,0:00:2.01,Default,,0,0,0,,Quindi tutto qui, no? {\1c&HFF00&\u1}In{\r} realtà non è proprio così.
+Dialogue: 0,0:00:2.01,0:00:2.03,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:2.03,0:00:2.47,Default,,0,0,0,,Quindi tutto qui, no? In {\1c&HFF00&\u1}realtà{\r} non è proprio così.
+Dialogue: 0,0:00:2.47,0:00:2.65,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:2.65,0:00:2.77,Default,,0,0,0,,Quindi tutto qui, no? In realtà {\1c&HFF00&\u1}non{\r} è proprio così.
+Dialogue: 0,0:00:2.77,0:00:2.83,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:2.83,0:00:2.89,Default,,0,0,0,,Quindi tutto qui, no? In realtà non {\1c&HFF00&\u1}è{\r} proprio così.
+Dialogue: 0,0:00:2.89,0:00:2.95,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:2.95,0:00:3.27,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è {\1c&HFF00&\u1}proprio{\r} così.
+Dialogue: 0,0:00:3.27,0:00:3.33,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio così.
+Dialogue: 0,0:00:3.33,0:00:3.51,Default,,0,0,0,,Quindi tutto qui, no? In realtà non è proprio {\1c&HFF00&\u1}così.{\r}
+Dialogue: 0,0:00:3.90,0:00:3.96,Default,,0,0,0,,{\1c&HFF00&\u1}C'è{\r} anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:3.96,0:00:4.02,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.02,0:00:4.14,Default,,0,0,0,,C'è {\1c&HFF00&\u1}anche{\r} un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.14,0:00:4.16,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.16,0:00:4.20,Default,,0,0,0,,C'è anche {\1c&HFF00&\u1}un{\r} altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.20,0:00:4.24,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.24,0:00:4.42,Default,,0,0,0,,C'è anche un {\1c&HFF00&\u1}altro{\r} costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.42,0:00:4.48,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.48,0:00:4.86,Default,,0,0,0,,C'è anche un altro {\1c&HFF00&\u1}costo,{\r} abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:4.86,0:00:5.16,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:5.16,0:00:5.67,Default,,0,0,0,,C'è anche un altro costo, {\1c&HFF00&\u1}abbastanza{\r} nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:5.67,0:00:5.87,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:5.87,0:00:6.51,Default,,0,0,0,,C'è anche un altro costo, abbastanza {\1c&HFF00&\u1}nascosto,{\r} che si chiama costo-opportunità.
+Dialogue: 0,0:00:6.51,0:00:6.71,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:6.71,0:00:6.79,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, {\1c&HFF00&\u1}che{\r} si chiama costo-opportunità.
+Dialogue: 0,0:00:6.79,0:00:6.83,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:6.83,0:00:6.89,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che {\1c&HFF00&\u1}si{\r} chiama costo-opportunità.
+Dialogue: 0,0:00:6.89,0:00:6.93,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:6.93,0:00:7.17,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si {\1c&HFF00&\u1}chiama{\r} costo-opportunità.
+Dialogue: 0,0:00:7.17,0:00:7.27,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama costo-opportunità.
+Dialogue: 0,0:00:7.27,0:00:8.03,Default,,0,0,0,,C'è anche un altro costo, abbastanza nascosto, che si chiama {\1c&HFF00&\u1}costo-opportunità.{\r}
+Dialogue: 0,0:00:8.36,0:00:8.62,Default,,0,0,0,,{\1c&HFF00&\u1}Ovvero,{\r} se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:8.62,0:00:8.66,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:8.66,0:00:8.74,Default,,0,0,0,,Ovvero, {\1c&HFF00&\u1}se{\r} voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:8.74,0:00:8.76,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:8.76,0:00:8.88,Default,,0,0,0,,Ovvero, se {\1c&HFF00&\u1}voi{\r} frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:8.88,0:00:8.90,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:8.90,0:00:9.32,Default,,0,0,0,,Ovvero, se voi {\1c&HFF00&\u1}frequentate{\r} l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:9.32,0:00:9.38,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:9.38,0:00:9.82,Default,,0,0,0,,Ovvero, se voi frequentate {\1c&HFF00&\u1}l'università{\r} per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:9.82,0:00:9.86,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:9.86,0:00:9.98,Default,,0,0,0,,Ovvero, se voi frequentate l'università {\1c&HFF00&\u1}per{\r} cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:9.98,0:00:10.08,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:10.08,0:00:10.34,Default,,0,0,0,,Ovvero, se voi frequentate l'università per {\1c&HFF00&\u1}cinque{\r} anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:10.34,0:00:10.40,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:10.40,0:00:10.65,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque {\1c&HFF00&\u1}anni,{\r} state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:10.65,0:00:10.73,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:10.73,0:00:11.01,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, {\1c&HFF00&\u1}state{\r} certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:11.01,0:00:11.09,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:11.09,0:00:11.55,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state {\1c&HFF00&\u1}certamente{\r} spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:11.55,0:00:11.63,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:11.63,0:00:12.11,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente {\1c&HFF00&\u1}spendendo{\r} per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:12.11,0:00:12.17,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:12.17,0:00:12.31,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo {\1c&HFF00&\u1}per{\r} una retta dei libri o del trasporto,
+Dialogue: 0,0:00:12.31,0:00:12.49,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:12.49,0:00:12.63,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per {\1c&HFF00&\u1}una{\r} retta dei libri o del trasporto,
+Dialogue: 0,0:00:12.63,0:00:12.69,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:12.69,0:00:13.21,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una {\1c&HFF00&\u1}retta{\r} dei libri o del trasporto,
+Dialogue: 0,0:00:13.21,0:00:13.29,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:13.29,0:00:13.43,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta {\1c&HFF00&\u1}dei{\r} libri o del trasporto,
+Dialogue: 0,0:00:13.43,0:00:13.51,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:13.51,0:00:13.87,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei {\1c&HFF00&\u1}libri{\r} o del trasporto,
+Dialogue: 0,0:00:13.87,0:00:14.23,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:14.23,0:00:14.27,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri {\1c&HFF00&\u1}o{\r} del trasporto,
+Dialogue: 0,0:00:14.27,0:00:14.29,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:14.29,0:00:14.43,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o {\1c&HFF00&\u1}del{\r} trasporto,
+Dialogue: 0,0:00:14.43,0:00:14.47,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del trasporto,
+Dialogue: 0,0:00:14.47,0:00:15.12,Default,,0,0,0,,Ovvero, se voi frequentate l'università per cinque anni, state certamente spendendo per una retta dei libri o del {\1c&HFF00&\u1}trasporto,{\r}
+Dialogue: 0,0:00:15.80,0:00:15.92,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:15.92,0:00:15.98,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:15.98,0:00:16.20,Default,,0,0,0,,ma {\1c&HFF00&\u1}state{\r} anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:16.20,0:00:16.26,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:16.26,0:00:16.46,Default,,0,0,0,,ma state {\1c&HFF00&\u1}anche{\r} rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:16.46,0:00:16.52,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:16.52,0:00:17.21,Default,,0,0,0,,ma state anche {\1c&HFF00&\u1}rinunciando{\r} a cinque anni di lavoro.
+Dialogue: 0,0:00:17.21,0:00:17.29,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:17.29,0:00:17.39,Default,,0,0,0,,ma state anche rinunciando {\1c&HFF00&\u1}a{\r} cinque anni di lavoro.
+Dialogue: 0,0:00:17.39,0:00:17.53,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:17.53,0:00:17.77,Default,,0,0,0,,ma state anche rinunciando a {\1c&HFF00&\u1}cinque{\r} anni di lavoro.
+Dialogue: 0,0:00:17.77,0:00:17.79,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:17.79,0:00:17.95,Default,,0,0,0,,ma state anche rinunciando a cinque {\1c&HFF00&\u1}anni{\r} di lavoro.
+Dialogue: 0,0:00:17.95,0:00:17.99,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:17.99,0:00:18.07,Default,,0,0,0,,ma state anche rinunciando a cinque anni {\1c&HFF00&\u1}di{\r} lavoro.
+Dialogue: 0,0:00:18.07,0:00:18.11,Default,,0,0,0,,ma state anche rinunciando a cinque anni di lavoro.
+Dialogue: 0,0:00:18.11,0:00:18.39,Default,,0,0,0,,ma state anche rinunciando a cinque anni di {\1c&HFF00&\u1}lavoro.{\r}
+Dialogue: 0,0:00:18.90,0:00:18.92,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:18.92,0:00:18.94,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:18.94,0:00:19.54,Default,,0,0,0,,E {\1c&HFF00&\u1}chiaramente{\r} bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:19.54,0:00:19.58,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:19.58,0:00:20.00,Default,,0,0,0,,E chiaramente {\1c&HFF00&\u1}bisogna{\r} considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:20.00,0:00:20.20,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:20.20,0:00:20.80,Default,,0,0,0,,E chiaramente bisogna {\1c&HFF00&\u1}considerare{\r} questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:20.80,0:00:20.89,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:20.89,0:00:21.11,Default,,0,0,0,,E chiaramente bisogna considerare {\1c&HFF00&\u1}questi{\r} cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.11,0:00:21.21,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.21,0:00:21.47,Default,,0,0,0,,E chiaramente bisogna considerare questi {\1c&HFF00&\u1}cinque{\r} anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.47,0:00:21.51,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.51,0:00:21.67,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque {\1c&HFF00&\u1}anni{\r} di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.67,0:00:21.71,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.71,0:00:21.79,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni {\1c&HFF00&\u1}di{\r} lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.79,0:00:21.85,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:21.85,0:00:22.09,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di {\1c&HFF00&\u1}lavoro{\r} persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:22.09,0:00:22.15,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:22.15,0:00:22.55,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro {\1c&HFF00&\u1}persi,{\r} perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:22.55,0:00:22.59,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:22.59,0:00:23.01,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, {\1c&HFF00&\u1}perché{\r} cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.01,0:00:23.19,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.19,0:00:23.51,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché {\1c&HFF00&\u1}cinque{\r} anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.51,0:00:23.55,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.55,0:00:23.73,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque {\1c&HFF00&\u1}anni{\r} di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.73,0:00:23.77,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.77,0:00:23.85,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni {\1c&HFF00&\u1}di{\r} lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.85,0:00:23.89,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:23.89,0:00:24.27,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di {\1c&HFF00&\u1}lavoro{\r} sono soldi veri, ragazzi.
+Dialogue: 0,0:00:24.27,0:00:24.47,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:24.47,0:00:24.63,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro {\1c&HFF00&\u1}sono{\r} soldi veri, ragazzi.
+Dialogue: 0,0:00:24.63,0:00:24.71,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:24.71,0:00:24.99,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono {\1c&HFF00&\u1}soldi{\r} veri, ragazzi.
+Dialogue: 0,0:00:24.99,0:00:25.03,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:25.03,0:00:25.27,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi {\1c&HFF00&\u1}veri,{\r} ragazzi.
+Dialogue: 0,0:00:25.27,0:00:25.33,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, ragazzi.
+Dialogue: 0,0:00:25.33,0:00:25.70,Default,,0,0,0,,E chiaramente bisogna considerare questi cinque anni di lavoro persi, perché cinque anni di lavoro sono soldi veri, {\1c&HFF00&\u1}ragazzi.{\r}
+Dialogue: 0,0:00:25.90,0:00:26.42,Default,,0,0,0,,{\1c&HFF00&\u1}Ipotizziamo{\r} che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:26.42,0:00:26.46,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:26.46,0:00:26.54,Default,,0,0,0,,Ipotizziamo {\1c&HFF00&\u1}che{\r} comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:26.54,0:00:26.60,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:26.60,0:00:27.00,Default,,0,0,0,,Ipotizziamo che {\1c&HFF00&\u1}comunque{\r} un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.00,0:00:27.18,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.18,0:00:27.26,Default,,0,0,0,,Ipotizziamo che comunque {\1c&HFF00&\u1}un{\r} anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.26,0:00:27.30,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.30,0:00:27.56,Default,,0,0,0,,Ipotizziamo che comunque un {\1c&HFF00&\u1}anno{\r} di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.56,0:00:27.60,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.60,0:00:27.68,Default,,0,0,0,,Ipotizziamo che comunque un anno {\1c&HFF00&\u1}di{\r} questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.68,0:00:27.72,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.72,0:00:27.96,Default,,0,0,0,,Ipotizziamo che comunque un anno di {\1c&HFF00&\u1}questi{\r} cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:27.96,0:00:28.02,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:28.02,0:00:28.43,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi {\1c&HFF00&\u1}cinque{\r} vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:28.43,0:00:28.51,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:28.51,0:00:28.75,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque {\1c&HFF00&\u1}vada{\r} un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:28.75,0:00:28.81,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:28.81,0:00:28.89,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada {\1c&HFF00&\u1}un{\r} po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:28.89,0:00:28.93,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:28.93,0:00:29.07,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un {\1c&HFF00&\u1}po'{\r} via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:29.07,0:00:29.13,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:29.13,0:00:29.41,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' {\1c&HFF00&\u1}via,{\r} perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:29.41,0:00:29.53,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:29.53,0:00:29.97,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, {\1c&HFF00&\u1}perché{\r} tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:29.97,0:00:30.09,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:30.09,0:00:30.39,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché {\1c&HFF00&\u1}tra{\r} cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:30.39,0:00:30.51,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:30.51,0:00:30.85,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra {\1c&HFF00&\u1}cambi{\r} di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:30.85,0:00:30.91,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:30.91,0:00:30.99,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi {\1c&HFF00&\u1}di{\r} lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:30.99,0:00:31.03,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:31.03,0:00:31.45,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di {\1c&HFF00&\u1}lavoro{\r} e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:31.45,0:00:31.55,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:31.55,0:00:31.63,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro {\1c&HFF00&\u1}e{\r} la difficoltà nel trovarne uno
+Dialogue: 0,0:00:31.63,0:00:31.81,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:31.81,0:00:31.89,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e {\1c&HFF00&\u1}la{\r} difficoltà nel trovarne uno
+Dialogue: 0,0:00:31.89,0:00:31.91,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:31.91,0:00:32.33,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la {\1c&HFF00&\u1}difficoltà{\r} nel trovarne uno
+Dialogue: 0,0:00:32.33,0:00:32.39,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:32.39,0:00:32.53,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà {\1c&HFF00&\u1}nel{\r} trovarne uno
+Dialogue: 0,0:00:32.53,0:00:32.55,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:32.55,0:00:32.94,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel {\1c&HFF00&\u1}trovarne{\r} uno
+Dialogue: 0,0:00:32.94,0:00:33.00,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne uno
+Dialogue: 0,0:00:33.00,0:00:33.24,Default,,0,0,0,,Ipotizziamo che comunque un anno di questi cinque vada un po' via, perché tra cambi di lavoro e la difficoltà nel trovarne {\1c&HFF00&\u1}uno{\r}
+Dialogue: 0,0:00:34.14,0:00:34.40,Default,,0,0,0,,{\1c&HFF00&\u1}spesso{\r} si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:34.40,0:00:34.42,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:34.42,0:00:34.50,Default,,0,0,0,,spesso {\1c&HFF00&\u1}si{\r} finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:34.50,0:00:34.52,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:34.52,0:00:34.82,Default,,0,0,0,,spesso si {\1c&HFF00&\u1}finisce{\r} per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:34.82,0:00:34.86,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:34.86,0:00:34.96,Default,,0,0,0,,spesso si finisce {\1c&HFF00&\u1}per{\r} restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:34.96,0:00:35.02,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:35.02,0:00:35.32,Default,,0,0,0,,spesso si finisce per {\1c&HFF00&\u1}restare{\r} a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:35.32,0:00:35.34,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:35.34,0:00:35.36,Default,,0,0,0,,spesso si finisce per restare {\1c&HFF00&\u1}a{\r} casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:35.36,0:00:35.40,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:35.40,0:00:35.65,Default,,0,0,0,,spesso si finisce per restare a {\1c&HFF00&\u1}casa.{\r} Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:35.65,0:00:35.95,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:35.95,0:00:36.07,Default,,0,0,0,,spesso si finisce per restare a casa. {\1c&HFF00&\u1}Sono{\r} comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:36.07,0:00:36.13,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:36.13,0:00:36.47,Default,,0,0,0,,spesso si finisce per restare a casa. Sono {\1c&HFF00&\u1}comunque{\r} quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:36.47,0:00:36.55,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:36.55,0:00:36.85,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque {\1c&HFF00&\u1}quattro{\r} anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:36.85,0:00:36.89,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:36.89,0:00:37.05,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro {\1c&HFF00&\u1}anni{\r} di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.05,0:00:37.07,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.07,0:00:37.15,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni {\1c&HFF00&\u1}di{\r} lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.15,0:00:37.19,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.19,0:00:37.49,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di {\1c&HFF00&\u1}lavoro,{\r} per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.49,0:00:37.55,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.55,0:00:37.67,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, {\1c&HFF00&\u1}per{\r} uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.67,0:00:37.71,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.71,0:00:37.83,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per {\1c&HFF00&\u1}uno{\r} stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.83,0:00:37.87,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:37.87,0:00:38.39,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno {\1c&HFF00&\u1}stipendio{\r} decente a tempo pieno, sono circa
+Dialogue: 0,0:00:38.39,0:00:38.47,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:38.47,0:00:39.07,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio {\1c&HFF00&\u1}decente{\r} a tempo pieno, sono circa
+Dialogue: 0,0:00:39.07,0:00:39.15,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:39.15,0:00:39.19,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente {\1c&HFF00&\u1}a{\r} tempo pieno, sono circa
+Dialogue: 0,0:00:39.19,0:00:39.23,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:39.23,0:00:39.47,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a {\1c&HFF00&\u1}tempo{\r} pieno, sono circa
+Dialogue: 0,0:00:39.47,0:00:39.57,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:39.57,0:00:40.07,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo {\1c&HFF00&\u1}pieno,{\r} sono circa
+Dialogue: 0,0:00:40.07,0:00:40.24,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:40.24,0:00:40.42,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, {\1c&HFF00&\u1}sono{\r} circa
+Dialogue: 0,0:00:40.42,0:00:40.48,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono circa
+Dialogue: 0,0:00:40.48,0:00:40.68,Default,,0,0,0,,spesso si finisce per restare a casa. Sono comunque quattro anni di lavoro, per uno stipendio decente a tempo pieno, sono {\1c&HFF00&\u1}circa{\r}
+Dialogue: 0,0:00:41.00,0:00:41.50,Default,,0,0,0,,{\1c&HFF00&\u1}14 mila{\r} euro l'anno, per quattro anni sono
+Dialogue: 0,0:00:41.50,0:00:41.54,Default,,0,0,0,,14 mila euro l'anno, per quattro anni sono
+Dialogue: 0,0:00:41.54,0:00:41.72,Default,,0,0,0,,14 mila {\1c&HFF00&\u1}euro{\r} l'anno, per quattro anni sono
+Dialogue: 0,0:00:41.72,0:00:41.78,Default,,0,0,0,,14 mila euro l'anno, per quattro anni sono
+Dialogue: 0,0:00:41.78,0:00:42.17,Default,,0,0,0,,14 mila euro {\1c&HFF00&\u1}l'anno,{\r} per quattro anni sono
+Dialogue: 0,0:00:42.17,0:00:42.65,Default,,0,0,0,,14 mila euro l'anno, per quattro anni sono
+Dialogue: 0,0:00:42.65,0:00:42.83,Default,,0,0,0,,14 mila euro l'anno, {\1c&HFF00&\u1}per{\r} quattro anni sono
+Dialogue: 0,0:00:42.83,0:00:42.95,Default,,0,0,0,,14 mila euro l'anno, per quattro anni sono
+Dialogue: 0,0:00:42.95,0:00:43.25,Default,,0,0,0,,14 mila euro l'anno, per {\1c&HFF00&\u1}quattro{\r} anni sono
+Dialogue: 0,0:00:43.25,0:00:43.29,Default,,0,0,0,,14 mila euro l'anno, per quattro anni sono
+Dialogue: 0,0:00:43.29,0:00:43.59,Default,,0,0,0,,14 mila euro l'anno, per quattro {\1c&HFF00&\u1}anni{\r} sono
+Dialogue: 0,0:00:43.59,0:00:43.71,Default,,0,0,0,,14 mila euro l'anno, per quattro anni sono
+Dialogue: 0,0:00:43.71,0:00:43.89,Default,,0,0,0,,14 mila euro l'anno, per quattro anni {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:00:44.92,0:00:45.10,Default,,0,0,0,,{\1c&HFF00&\u1}57 mila{\r} euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:45.10,0:00:45.14,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:45.14,0:00:45.42,Default,,0,0,0,,57 mila {\1c&HFF00&\u1}euro.{\r} Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:45.42,0:00:45.71,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:45.71,0:00:45.77,Default,,0,0,0,,57 mila euro. {\1c&HFF00&\u1}Mi{\r} sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:45.77,0:00:45.81,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:45.81,0:00:46.07,Default,,0,0,0,,57 mila euro. Mi {\1c&HFF00&\u1}sarebbe{\r} piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:46.07,0:00:46.11,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:46.11,0:00:46.41,Default,,0,0,0,,57 mila euro. Mi sarebbe {\1c&HFF00&\u1}piaciuto{\r} tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:46.41,0:00:46.49,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:46.49,0:00:47.09,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto {\1c&HFF00&\u1}tantissimo{\r} parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:47.09,0:00:47.15,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:47.15,0:00:47.43,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo {\1c&HFF00&\u1}parlare{\r} delle differenze tra l'Italia
+Dialogue: 0,0:00:47.43,0:00:47.47,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:47.47,0:00:47.65,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare {\1c&HFF00&\u1}delle{\r} differenze tra l'Italia
+Dialogue: 0,0:00:47.65,0:00:47.69,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:47.69,0:00:48.31,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle {\1c&HFF00&\u1}differenze{\r} tra l'Italia
+Dialogue: 0,0:00:48.31,0:00:48.43,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:48.43,0:00:48.61,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze {\1c&HFF00&\u1}tra{\r} l'Italia
+Dialogue: 0,0:00:48.61,0:00:48.75,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra l'Italia
+Dialogue: 0,0:00:48.75,0:00:49.20,Default,,0,0,0,,57 mila euro. Mi sarebbe piaciuto tantissimo parlare delle differenze tra {\1c&HFF00&\u1}l'Italia{\r}

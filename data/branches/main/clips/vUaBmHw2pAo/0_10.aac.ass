@@ -1,0 +1,280 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.20,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.20,0:00:0.42,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.42,0:00:0.44,Default,,0,0,0,,ma {\1c&HFF00&\u1}a{\r} me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.44,0:00:0.46,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.46,0:00:0.56,Default,,0,0,0,,ma a {\1c&HFF00&\u1}me{\r} è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.56,0:00:0.58,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.58,0:00:0.60,Default,,0,0,0,,ma a me {\1c&HFF00&\u1}è{\r} capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.60,0:00:0.64,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:0.64,0:00:1.04,Default,,0,0,0,,ma a me è {\1c&HFF00&\u1}capitato{\r} tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.04,0:00:1.10,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.10,0:00:1.32,Default,,0,0,0,,ma a me è capitato {\1c&HFF00&\u1}tante{\r} volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.32,0:00:1.36,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.36,0:00:1.65,Default,,0,0,0,,ma a me è capitato tante {\1c&HFF00&\u1}volte{\r} di sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.65,0:00:1.71,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.71,0:00:1.77,Default,,0,0,0,,ma a me è capitato tante volte {\1c&HFF00&\u1}di{\r} sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.77,0:00:1.83,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:1.83,0:00:2.15,Default,,0,0,0,,ma a me è capitato tante volte di {\1c&HFF00&\u1}sentire{\r} persone che dicevano cose del
+Dialogue: 0,0:00:2.15,0:00:2.17,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:2.17,0:00:2.43,Default,,0,0,0,,ma a me è capitato tante volte di sentire {\1c&HFF00&\u1}persone{\r} che dicevano cose del
+Dialogue: 0,0:00:2.43,0:00:2.47,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:2.47,0:00:2.55,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone {\1c&HFF00&\u1}che{\r} dicevano cose del
+Dialogue: 0,0:00:2.55,0:00:2.61,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:2.61,0:00:2.99,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che {\1c&HFF00&\u1}dicevano{\r} cose del
+Dialogue: 0,0:00:2.99,0:00:3.19,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:3.19,0:00:3.37,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano {\1c&HFF00&\u1}cose{\r} del
+Dialogue: 0,0:00:3.37,0:00:3.41,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose del
+Dialogue: 0,0:00:3.41,0:00:3.51,Default,,0,0,0,,ma a me è capitato tante volte di sentire persone che dicevano cose {\1c&HFF00&\u1}del{\r}
+Dialogue: 0,0:00:3.48,0:00:3.56,Default,,0,0,0,,{\1c&HFF00&\u1}tipo{\r} no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:3.56,0:00:3.58,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:3.58,0:00:3.62,Default,,0,0,0,,tipo {\1c&HFF00&\u1}no{\r} no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:3.62,0:00:3.64,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:3.64,0:00:4.24,Default,,0,0,0,,tipo no {\1c&HFF00&\u1}no{\r} ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.24,0:00:4.26,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.26,0:00:4.34,Default,,0,0,0,,tipo no no {\1c&HFF00&\u1}ma{\r} io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.34,0:00:4.36,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.36,0:00:4.42,Default,,0,0,0,,tipo no no ma {\1c&HFF00&\u1}io{\r} devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.42,0:00:4.46,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.46,0:00:4.60,Default,,0,0,0,,tipo no no ma io {\1c&HFF00&\u1}devo{\r} fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.60,0:00:4.62,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.62,0:00:4.72,Default,,0,0,0,,tipo no no ma io devo {\1c&HFF00&\u1}fare{\r} un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.72,0:00:4.76,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.76,0:00:4.80,Default,,0,0,0,,tipo no no ma io devo fare {\1c&HFF00&\u1}un{\r} discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.80,0:00:4.82,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:4.82,0:00:5.09,Default,,0,0,0,,tipo no no ma io devo fare un {\1c&HFF00&\u1}discorso{\r} no ma non mi sono preparato
+Dialogue: 0,0:00:5.09,0:00:5.15,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:5.15,0:00:5.21,Default,,0,0,0,,tipo no no ma io devo fare un discorso {\1c&HFF00&\u1}no{\r} ma non mi sono preparato
+Dialogue: 0,0:00:5.21,0:00:5.25,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:5.25,0:00:5.33,Default,,0,0,0,,tipo no no ma io devo fare un discorso no {\1c&HFF00&\u1}ma{\r} non mi sono preparato
+Dialogue: 0,0:00:5.33,0:00:5.81,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:5.81,0:00:6.63,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma {\1c&HFF00&\u1}non{\r} mi sono preparato
+Dialogue: 0,0:00:6.63,0:00:6.65,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:6.65,0:00:6.71,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non {\1c&HFF00&\u1}mi{\r} sono preparato
+Dialogue: 0,0:00:6.71,0:00:6.75,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:6.75,0:00:6.85,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi {\1c&HFF00&\u1}sono{\r} preparato
+Dialogue: 0,0:00:6.85,0:00:6.87,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono preparato
+Dialogue: 0,0:00:6.87,0:00:7.25,Default,,0,0,0,,tipo no no ma io devo fare un discorso no ma non mi sono {\1c&HFF00&\u1}preparato{\r}
+Dialogue: 0,0:00:7.26,0:00:7.32,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:7.32,0:00:7.34,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:7.34,0:00:8.04,Default,,0,0,0,,non {\1c&HFF00&\u1}sono{\r} capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.04,0:00:8.10,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.10,0:00:8.46,Default,,0,0,0,,non sono {\1c&HFF00&\u1}capace{\r} di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.46,0:00:8.50,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.50,0:00:8.56,Default,,0,0,0,,non sono capace {\1c&HFF00&\u1}di{\r} parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.56,0:00:8.60,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.60,0:00:8.82,Default,,0,0,0,,non sono capace di {\1c&HFF00&\u1}parlare{\r} al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.82,0:00:8.84,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.84,0:00:8.88,Default,,0,0,0,,non sono capace di parlare {\1c&HFF00&\u1}al{\r} pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.88,0:00:8.92,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:8.92,0:00:10.53,Default,,0,0,0,,non sono capace di parlare al {\1c&HFF00&\u1}pubblico{\r} ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:10.53,0:00:10.55,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:10.55,0:00:10.61,Default,,0,0,0,,non sono capace di parlare al pubblico {\1c&HFF00&\u1}ma{\r} no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:10.61,0:00:10.65,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:10.65,0:00:10.87,Default,,0,0,0,,non sono capace di parlare al pubblico ma {\1c&HFF00&\u1}no{\r} ma no ma come non mi sono preparato
+Dialogue: 0,0:00:10.87,0:00:11.85,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:11.85,0:00:11.93,Default,,0,0,0,,non sono capace di parlare al pubblico ma no {\1c&HFF00&\u1}ma{\r} no ma come non mi sono preparato
+Dialogue: 0,0:00:11.93,0:00:11.95,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:11.95,0:00:12.11,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma {\1c&HFF00&\u1}no{\r} ma come non mi sono preparato
+Dialogue: 0,0:00:12.11,0:00:12.15,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:12.15,0:00:12.23,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no {\1c&HFF00&\u1}ma{\r} come non mi sono preparato
+Dialogue: 0,0:00:12.23,0:00:12.29,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:12.29,0:00:12.43,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma {\1c&HFF00&\u1}come{\r} non mi sono preparato
+Dialogue: 0,0:00:12.43,0:00:12.45,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:12.45,0:00:12.69,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come {\1c&HFF00&\u1}non{\r} mi sono preparato
+Dialogue: 0,0:00:12.69,0:00:12.85,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:12.85,0:00:12.91,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non {\1c&HFF00&\u1}mi{\r} sono preparato
+Dialogue: 0,0:00:12.91,0:00:12.99,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:12.99,0:00:13.17,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi {\1c&HFF00&\u1}sono{\r} preparato
+Dialogue: 0,0:00:13.17,0:00:13.25,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono preparato
+Dialogue: 0,0:00:13.25,0:00:13.75,Default,,0,0,0,,non sono capace di parlare al pubblico ma no ma no ma come non mi sono {\1c&HFF00&\u1}preparato{\r}
+Dialogue: 0,0:00:15.02,0:00:15.20,Default,,0,0,0,,{\1c&HFF00&\u1}tanto{\r} non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:15.20,0:00:15.26,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:15.26,0:00:15.34,Default,,0,0,0,,tanto {\1c&HFF00&\u1}non{\r} sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:15.34,0:00:15.36,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:15.36,0:00:15.50,Default,,0,0,0,,tanto non {\1c&HFF00&\u1}sono{\r} capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:15.50,0:00:15.52,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:15.52,0:00:16.07,Default,,0,0,0,,tanto non sono {\1c&HFF00&\u1}capace{\r} ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.07,0:00:16.17,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.17,0:00:16.27,Default,,0,0,0,,tanto non sono capace {\1c&HFF00&\u1}ma{\r} se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.27,0:00:16.37,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.37,0:00:16.45,Default,,0,0,0,,tanto non sono capace ma {\1c&HFF00&\u1}se{\r} non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.45,0:00:16.49,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.49,0:00:16.61,Default,,0,0,0,,tanto non sono capace ma se {\1c&HFF00&\u1}non{\r} ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.61,0:00:16.73,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.73,0:00:16.79,Default,,0,0,0,,tanto non sono capace ma se non {\1c&HFF00&\u1}ti{\r} prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.79,0:00:16.85,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:16.85,0:00:17.31,Default,,0,0,0,,tanto non sono capace ma se non ti {\1c&HFF00&\u1}prepari{\r} non sei capace cioè io che lo
+Dialogue: 0,0:00:17.31,0:00:17.37,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:17.37,0:00:17.51,Default,,0,0,0,,tanto non sono capace ma se non ti prepari {\1c&HFF00&\u1}non{\r} sei capace cioè io che lo
+Dialogue: 0,0:00:17.51,0:00:17.59,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:17.59,0:00:17.79,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non {\1c&HFF00&\u1}sei{\r} capace cioè io che lo
+Dialogue: 0,0:00:17.79,0:00:17.87,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:17.87,0:00:18.29,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei {\1c&HFF00&\u1}capace{\r} cioè io che lo
+Dialogue: 0,0:00:18.29,0:00:18.33,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:18.33,0:00:18.43,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace {\1c&HFF00&\u1}cioè{\r} io che lo
+Dialogue: 0,0:00:18.43,0:00:18.49,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:18.49,0:00:18.55,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè {\1c&HFF00&\u1}io{\r} che lo
+Dialogue: 0,0:00:18.55,0:00:18.57,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:18.57,0:00:18.65,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io {\1c&HFF00&\u1}che{\r} lo
+Dialogue: 0,0:00:18.65,0:00:18.69,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che lo
+Dialogue: 0,0:00:18.69,0:00:18.73,Default,,0,0,0,,tanto non sono capace ma se non ti prepari non sei capace cioè io che {\1c&HFF00&\u1}lo{\r}
+Dialogue: 0,0:00:18.92,0:00:19.22,Default,,0,0,0,,{\1c&HFF00&\u1}faccio{\r} di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:19.22,0:00:19.24,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:19.24,0:00:19.28,Default,,0,0,0,,faccio {\1c&HFF00&\u1}di{\r} mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:19.28,0:00:19.32,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:19.32,0:00:19.78,Default,,0,0,0,,faccio di {\1c&HFF00&\u1}mestiere{\r} mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:19.78,0:00:19.80,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:19.80,0:00:20.66,Default,,0,0,0,,faccio di mestiere {\1c&HFF00&\u1}mi{\r} preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:20.66,0:00:20.70,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:20.70,0:00:21.41,Default,,0,0,0,,faccio di mestiere mi {\1c&HFF00&\u1}preparo{\r} e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:21.41,0:00:23.43,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:23.43,0:00:23.47,Default,,0,0,0,,faccio di mestiere mi preparo {\1c&HFF00&\u1}e{\r} mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:23.47,0:00:24.11,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:24.11,0:00:24.17,Default,,0,0,0,,faccio di mestiere mi preparo e {\1c&HFF00&\u1}mi{\r} preparo se non mi preparo non sono
+Dialogue: 0,0:00:24.17,0:00:24.21,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:24.21,0:00:24.63,Default,,0,0,0,,faccio di mestiere mi preparo e mi {\1c&HFF00&\u1}preparo{\r} se non mi preparo non sono
+Dialogue: 0,0:00:24.63,0:00:24.69,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:24.69,0:00:24.77,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo {\1c&HFF00&\u1}se{\r} non mi preparo non sono
+Dialogue: 0,0:00:24.77,0:00:24.81,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:24.81,0:00:24.89,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se {\1c&HFF00&\u1}non{\r} mi preparo non sono
+Dialogue: 0,0:00:24.89,0:00:24.91,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:24.91,0:00:24.99,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non {\1c&HFF00&\u1}mi{\r} preparo non sono
+Dialogue: 0,0:00:24.99,0:00:25.03,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:25.03,0:00:25.35,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi {\1c&HFF00&\u1}preparo{\r} non sono
+Dialogue: 0,0:00:25.35,0:00:25.40,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:25.40,0:00:25.50,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo {\1c&HFF00&\u1}non{\r} sono
+Dialogue: 0,0:00:25.50,0:00:25.58,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non sono
+Dialogue: 0,0:00:25.58,0:00:25.72,Default,,0,0,0,,faccio di mestiere mi preparo e mi preparo se non mi preparo non {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:00:25.66,0:00:26.06,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.06,0:00:26.10,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.10,0:00:26.54,Default,,0,0,0,,Non {\1c&HFF00&\u1}capace,{\r} se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.54,0:00:26.60,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.60,0:00:26.68,Default,,0,0,0,,Non capace, {\1c&HFF00&\u1}se{\r} tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.68,0:00:26.72,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.72,0:00:26.78,Default,,0,0,0,,Non capace, se {\1c&HFF00&\u1}tu{\r} mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.78,0:00:26.80,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.80,0:00:26.90,Default,,0,0,0,,Non capace, se tu {\1c&HFF00&\u1}mi{\r} prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.90,0:00:26.94,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:26.94,0:00:27.20,Default,,0,0,0,,Non capace, se tu mi {\1c&HFF00&\u1}prendi,{\r} mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:27.20,0:00:28.79,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:28.79,0:00:28.85,Default,,0,0,0,,Non capace, se tu mi prendi, {\1c&HFF00&\u1}mi{\r} sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:28.85,0:00:28.87,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:28.87,0:00:29.07,Default,,0,0,0,,Non capace, se tu mi prendi, mi {\1c&HFF00&\u1}sbagli{\r} su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.07,0:00:29.11,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.11,0:00:29.17,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli {\1c&HFF00&\u1}su{\r} un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.17,0:00:29.19,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.19,0:00:29.27,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su {\1c&HFF00&\u1}un{\r} palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.27,0:00:29.31,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.31,0:00:29.53,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un {\1c&HFF00&\u1}palco{\r} così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.53,0:00:29.59,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.59,0:00:29.79,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco {\1c&HFF00&\u1}così,{\r} exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.79,0:00:29.93,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:29.93,0:00:30.51,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, {\1c&HFF00&\u1}exabrupto,{\r} a parlare di un argomento
+Dialogue: 0,0:00:30.51,0:00:31.49,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:31.49,0:00:31.53,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, {\1c&HFF00&\u1}a{\r} parlare di un argomento
+Dialogue: 0,0:00:31.53,0:00:31.55,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:31.55,0:00:31.83,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a {\1c&HFF00&\u1}parlare{\r} di un argomento
+Dialogue: 0,0:00:31.83,0:00:31.89,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:31.89,0:00:31.95,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare {\1c&HFF00&\u1}di{\r} un argomento
+Dialogue: 0,0:00:31.95,0:00:32.03,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:32.03,0:00:32.15,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di {\1c&HFF00&\u1}un{\r} argomento
+Dialogue: 0,0:00:32.15,0:00:32.19,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un argomento
+Dialogue: 0,0:00:32.19,0:00:32.65,Default,,0,0,0,,Non capace, se tu mi prendi, mi sbagli su un palco così, exabrupto, a parlare di un {\1c&HFF00&\u1}argomento{\r}
+Dialogue: 0,0:00:34.48,0:00:34.86,Default,,0,0,0,,{\1c&HFF00&\u1}su{\r} cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:34.86,0:00:34.88,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:34.88,0:00:34.96,Default,,0,0,0,,su {\1c&HFF00&\u1}cui{\r} non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:34.96,0:00:34.98,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:34.98,0:00:35.04,Default,,0,0,0,,su cui {\1c&HFF00&\u1}non{\r} mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.04,0:00:35.06,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.06,0:00:35.10,Default,,0,0,0,,su cui non {\1c&HFF00&\u1}mi{\r} sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.10,0:00:35.12,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.12,0:00:35.20,Default,,0,0,0,,su cui non mi {\1c&HFF00&\u1}sono{\r} preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.20,0:00:35.22,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.22,0:00:35.52,Default,,0,0,0,,su cui non mi sono {\1c&HFF00&\u1}preparato,{\r} anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.52,0:00:35.54,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.54,0:00:35.66,Default,,0,0,0,,su cui non mi sono preparato, {\1c&HFF00&\u1}anche{\r} un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.66,0:00:35.70,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.70,0:00:35.76,Default,,0,0,0,,su cui non mi sono preparato, anche {\1c&HFF00&\u1}un{\r} argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.76,0:00:35.81,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:35.81,0:00:36.09,Default,,0,0,0,,su cui non mi sono preparato, anche un {\1c&HFF00&\u1}argomento{\r} che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.09,0:00:36.11,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.11,0:00:36.21,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento {\1c&HFF00&\u1}che{\r} conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.21,0:00:36.23,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.23,0:00:36.57,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che {\1c&HFF00&\u1}conosco,{\r} ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.57,0:00:36.61,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.61,0:00:36.69,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, {\1c&HFF00&\u1}ma{\r} su cui non mi sono preparato
+Dialogue: 0,0:00:36.69,0:00:36.75,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.75,0:00:36.83,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma {\1c&HFF00&\u1}su{\r} cui non mi sono preparato
+Dialogue: 0,0:00:36.83,0:00:36.87,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:36.87,0:00:36.99,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su {\1c&HFF00&\u1}cui{\r} non mi sono preparato
+Dialogue: 0,0:00:36.99,0:00:37.01,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:37.01,0:00:37.09,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui {\1c&HFF00&\u1}non{\r} mi sono preparato
+Dialogue: 0,0:00:37.09,0:00:37.13,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:37.13,0:00:37.17,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non {\1c&HFF00&\u1}mi{\r} sono preparato
+Dialogue: 0,0:00:37.17,0:00:37.21,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:37.21,0:00:37.35,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi {\1c&HFF00&\u1}sono{\r} preparato
+Dialogue: 0,0:00:37.35,0:00:37.37,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono preparato
+Dialogue: 0,0:00:37.37,0:00:37.71,Default,,0,0,0,,su cui non mi sono preparato, anche un argomento che conosco, ma su cui non mi sono {\1c&HFF00&\u1}preparato{\r}
+Dialogue: 0,0:00:37.72,0:00:37.76,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:37.76,0:00:38.16,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:38.16,0:00:38.64,Default,,0,0,0,,un {\1c&HFF00&\u1}discorso,{\r} a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:38.64,0:00:40.02,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:40.02,0:00:40.06,Default,,0,0,0,,un discorso, {\1c&HFF00&\u1}a{\r} naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:40.06,0:00:40.15,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:40.15,0:00:40.75,Default,,0,0,0,,un discorso, a {\1c&HFF00&\u1}naspo,{\r} a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:40.75,0:00:41.33,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:41.33,0:00:41.39,Default,,0,0,0,,un discorso, a naspo, {\1c&HFF00&\u1}a{\r} naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:41.39,0:00:41.51,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:41.51,0:00:42.09,Default,,0,0,0,,un discorso, a naspo, a {\1c&HFF00&\u1}naspo,{\r} non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:42.09,0:00:42.79,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:42.79,0:00:42.89,Default,,0,0,0,,un discorso, a naspo, a naspo, {\1c&HFF00&\u1}non{\r} posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:42.89,0:00:42.91,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:42.91,0:00:43.09,Default,,0,0,0,,un discorso, a naspo, a naspo, non {\1c&HFF00&\u1}posso{\r} improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:43.09,0:00:43.13,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:43.13,0:00:43.65,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso {\1c&HFF00&\u1}improvvisare{\r} un discorso, neanche su un argomento
+Dialogue: 0,0:00:43.65,0:00:43.69,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:43.69,0:00:43.75,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare {\1c&HFF00&\u1}un{\r} discorso, neanche su un argomento
+Dialogue: 0,0:00:43.75,0:00:43.79,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:43.79,0:00:44.23,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un {\1c&HFF00&\u1}discorso,{\r} neanche su un argomento
+Dialogue: 0,0:00:44.23,0:00:44.33,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:44.33,0:00:44.73,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, {\1c&HFF00&\u1}neanche{\r} su un argomento
+Dialogue: 0,0:00:44.73,0:00:44.79,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:44.79,0:00:44.85,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche {\1c&HFF00&\u1}su{\r} un argomento
+Dialogue: 0,0:00:44.85,0:00:44.87,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:44.87,0:00:44.94,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su {\1c&HFF00&\u1}un{\r} argomento
+Dialogue: 0,0:00:44.94,0:00:44.98,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un argomento
+Dialogue: 0,0:00:44.98,0:00:45.32,Default,,0,0,0,,un discorso, a naspo, a naspo, non posso improvvisare un discorso, neanche su un {\1c&HFF00&\u1}argomento{\r}
+Dialogue: 0,0:00:45.32,0:00:45.38,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.38,0:00:45.40,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.40,0:00:45.54,Default,,0,0,0,,che {\1c&HFF00&\u1}conosco{\r} a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.54,0:00:45.56,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.56,0:00:45.58,Default,,0,0,0,,che conosco {\1c&HFF00&\u1}a{\r} menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.58,0:00:45.60,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.60,0:00:45.76,Default,,0,0,0,,che conosco a {\1c&HFF00&\u1}menadito.{\r} Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.76,0:00:45.78,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.78,0:00:45.82,Default,,0,0,0,,che conosco a menadito. {\1c&HFF00&\u1}Un{\r} discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.82,0:00:45.84,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:45.84,0:00:46.00,Default,,0,0,0,,che conosco a menadito. Un {\1c&HFF00&\u1}discorso{\r} si prepara. Tu devi preparare.
+Dialogue: 0,0:00:46.00,0:00:46.02,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:46.02,0:00:46.06,Default,,0,0,0,,che conosco a menadito. Un discorso {\1c&HFF00&\u1}si{\r} prepara. Tu devi preparare.
+Dialogue: 0,0:00:46.06,0:00:46.08,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:46.08,0:00:46.22,Default,,0,0,0,,che conosco a menadito. Un discorso si {\1c&HFF00&\u1}prepara.{\r} Tu devi preparare.
+Dialogue: 0,0:00:46.22,0:00:46.24,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:46.24,0:00:46.28,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. {\1c&HFF00&\u1}Tu{\r} devi preparare.
+Dialogue: 0,0:00:46.28,0:00:46.30,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:46.30,0:00:46.38,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu {\1c&HFF00&\u1}devi{\r} preparare.
+Dialogue: 0,0:00:46.38,0:00:46.40,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi preparare.
+Dialogue: 0,0:00:46.40,0:00:46.62,Default,,0,0,0,,che conosco a menadito. Un discorso si prepara. Tu devi {\1c&HFF00&\u1}preparare.{\r}

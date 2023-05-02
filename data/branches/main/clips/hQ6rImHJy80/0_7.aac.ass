@@ -1,0 +1,77 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.12,0:00:0.18,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:0.18,0:00:0.24,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:0.24,0:00:0.62,Default,,0,0,0,,di {\1c&HFF00&\u1}recente{\r} ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:0.62,0:00:0.66,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:0.66,0:00:0.72,Default,,0,0,0,,di recente {\1c&HFF00&\u1}ha{\r} comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:0.72,0:00:0.76,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:0.76,0:00:1.18,Default,,0,0,0,,di recente ha {\1c&HFF00&\u1}comunicato{\r} che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.18,0:00:1.20,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.20,0:00:1.28,Default,,0,0,0,,di recente ha comunicato {\1c&HFF00&\u1}che{\r} alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.28,0:00:1.34,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.34,0:00:1.58,Default,,0,0,0,,di recente ha comunicato che {\1c&HFF00&\u1}alzerà{\r} i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.58,0:00:1.64,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.64,0:00:1.68,Default,,0,0,0,,di recente ha comunicato che alzerà {\1c&HFF00&\u1}i{\r} prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.68,0:00:1.74,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:1.74,0:00:2.13,Default,,0,0,0,,di recente ha comunicato che alzerà i {\1c&HFF00&\u1}prezzi{\r} da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:2.13,0:00:3.27,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:3.27,0:00:3.37,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi {\1c&HFF00&\u1}da{\r} fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:3.37,0:00:3.43,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:3.43,0:00:3.67,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da {\1c&HFF00&\u1}fine{\r} febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:3.67,0:00:3.75,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:3.75,0:00:4.11,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine {\1c&HFF00&\u1}febbraio,{\r} se non ricordo male, e passeranno
+Dialogue: 0,0:00:4.11,0:00:4.13,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:4.13,0:00:4.17,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, {\1c&HFF00&\u1}se{\r} non ricordo male, e passeranno
+Dialogue: 0,0:00:4.17,0:00:4.21,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:4.21,0:00:4.37,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se {\1c&HFF00&\u1}non{\r} ricordo male, e passeranno
+Dialogue: 0,0:00:4.37,0:00:4.41,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:4.41,0:00:4.69,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non {\1c&HFF00&\u1}ricordo{\r} male, e passeranno
+Dialogue: 0,0:00:4.69,0:00:4.73,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:4.73,0:00:4.99,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo {\1c&HFF00&\u1}male,{\r} e passeranno
+Dialogue: 0,0:00:4.99,0:00:5.39,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:5.39,0:00:5.41,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, {\1c&HFF00&\u1}e{\r} passeranno
+Dialogue: 0,0:00:5.41,0:00:5.49,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e passeranno
+Dialogue: 0,0:00:5.49,0:00:5.96,Default,,0,0,0,,di recente ha comunicato che alzerà i prezzi da fine febbraio, se non ricordo male, e {\1c&HFF00&\u1}passeranno{\r}
+Dialogue: 0,0:00:6.10,0:00:6.20,Default,,0,0,0,,{\1c&HFF00&\u1}da{\r} circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:6.20,0:00:6.24,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:6.24,0:00:7.20,Default,,0,0,0,,da {\1c&HFF00&\u1}circa 75{\r} a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.20,0:00:7.28,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.28,0:00:7.34,Default,,0,0,0,,da circa 75 {\1c&HFF00&\u1}a{\r} un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.34,0:00:7.40,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.40,0:00:7.46,Default,,0,0,0,,da circa 75 a {\1c&HFF00&\u1}un{\r} centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.46,0:00:7.50,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.50,0:00:7.91,Default,,0,0,0,,da circa 75 a un {\1c&HFF00&\u1}centinaio{\r} di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.91,0:00:7.95,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:7.95,0:00:8.01,Default,,0,0,0,,da circa 75 a un centinaio {\1c&HFF00&\u1}di{\r} euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:8.01,0:00:8.07,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:8.07,0:00:8.29,Default,,0,0,0,,da circa 75 a un centinaio di {\1c&HFF00&\u1}euro{\r} per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:8.29,0:00:8.35,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:8.35,0:00:8.43,Default,,0,0,0,,da circa 75 a un centinaio di euro {\1c&HFF00&\u1}per{\r} sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:8.43,0:00:8.49,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:8.49,0:00:9.03,Default,,0,0,0,,da circa 75 a un centinaio di euro per {\1c&HFF00&\u1}sostituire{\r} la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:9.03,0:00:9.45,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:9.45,0:00:9.51,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire {\1c&HFF00&\u1}la{\r} batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:9.51,0:00:9.57,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:9.57,0:00:10.23,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la {\1c&HFF00&\u1}batteria{\r} di uno degli ultimi iPhone.
+Dialogue: 0,0:00:10.23,0:00:10.35,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:10.35,0:00:10.43,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria {\1c&HFF00&\u1}di{\r} uno degli ultimi iPhone.
+Dialogue: 0,0:00:10.43,0:00:10.51,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:10.51,0:00:10.73,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di {\1c&HFF00&\u1}uno{\r} degli ultimi iPhone.
+Dialogue: 0,0:00:10.73,0:00:10.87,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:10.87,0:00:11.05,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno {\1c&HFF00&\u1}degli{\r} ultimi iPhone.
+Dialogue: 0,0:00:11.05,0:00:11.09,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:11.09,0:00:11.35,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli {\1c&HFF00&\u1}ultimi{\r} iPhone.
+Dialogue: 0,0:00:11.35,0:00:11.56,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi iPhone.
+Dialogue: 0,0:00:11.56,0:00:11.80,Default,,0,0,0,,da circa 75 a un centinaio di euro per sostituire la batteria di uno degli ultimi {\1c&HFF00&\u1}iPhone.{\r}

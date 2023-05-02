@@ -1,0 +1,134 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.06,0:00:0.16,Default,,0,0,0,,{\1c&HFF00&\u1}ti{\r} annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:0.16,0:00:0.20,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:0.20,0:00:0.80,Default,,0,0,0,,ti {\1c&HFF00&\u1}annoierò,{\r} sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:0.82,0:00:1.56,Default,,0,0,0,,ti annoierò, {\1c&HFF00&\u1}sono{\r} arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:1.56,0:00:1.60,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:1.60,0:00:1.86,Default,,0,0,0,,ti annoierò, sono {\1c&HFF00&\u1}arrivato{\r} tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:1.86,0:00:1.90,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:1.90,0:00:2.13,Default,,0,0,0,,ti annoierò, sono arrivato {\1c&HFF00&\u1}tardi,{\r} mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:2.13,0:00:2.17,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:2.17,0:00:2.59,Default,,0,0,0,,ti annoierò, sono arrivato tardi, {\1c&HFF00&\u1}mancavano{\r} 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:2.59,0:00:2.61,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:2.61,0:00:2.85,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano {\1c&HFF00&\u1}3-4{\r} giorni, ancora questo monologo era in
+Dialogue: 0,0:00:2.85,0:00:2.89,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:2.89,0:00:3.17,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 {\1c&HFF00&\u1}giorni,{\r} ancora questo monologo era in
+Dialogue: 0,0:00:3.17,0:00:3.21,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:3.21,0:00:4.13,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, {\1c&HFF00&\u1}ancora{\r} questo monologo era in
+Dialogue: 0,0:00:4.13,0:00:4.19,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:4.19,0:00:4.41,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora {\1c&HFF00&\u1}questo{\r} monologo era in
+Dialogue: 0,0:00:4.41,0:00:4.47,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:4.47,0:00:4.85,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo {\1c&HFF00&\u1}monologo{\r} era in
+Dialogue: 0,0:00:4.85,0:00:5.55,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:5.55,0:00:5.65,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo {\1c&HFF00&\u1}era{\r} in
+Dialogue: 0,0:00:5.65,0:00:5.67,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era in
+Dialogue: 0,0:00:5.67,0:00:5.73,Default,,0,0,0,,ti annoierò, sono arrivato tardi, mancavano 3-4 giorni, ancora questo monologo era {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:5.68,0:00:5.92,Default,,0,0,0,,{\1c&HFF00&\u1}alto{\r} mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:5.92,0:00:5.94,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:5.94,0:00:6.68,Default,,0,0,0,,alto {\1c&HFF00&\u1}mare,{\r} vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:6.68,0:00:6.72,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:6.72,0:00:6.90,Default,,0,0,0,,alto mare, {\1c&HFF00&\u1}vado{\r} a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:6.90,0:00:6.92,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:6.92,0:00:6.96,Default,,0,0,0,,alto mare, vado {\1c&HFF00&\u1}a{\r} letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:6.96,0:00:7.02,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.02,0:00:7.36,Default,,0,0,0,,alto mare, vado a {\1c&HFF00&\u1}letto,{\r} ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.36,0:00:7.40,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.40,0:00:7.48,Default,,0,0,0,,alto mare, vado a letto, {\1c&HFF00&\u1}ero{\r} non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.48,0:00:7.50,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.50,0:00:7.59,Default,,0,0,0,,alto mare, vado a letto, ero {\1c&HFF00&\u1}non{\r} so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.59,0:00:7.63,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.63,0:00:7.83,Default,,0,0,0,,alto mare, vado a letto, ero non {\1c&HFF00&\u1}so,{\r} le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.83,0:00:7.97,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:7.97,0:00:8.33,Default,,0,0,0,,alto mare, vado a letto, ero non so, {\1c&HFF00&\u1}le 11,{\r} mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:8.33,0:00:8.77,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:8.77,0:00:9.29,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, {\1c&HFF00&\u1}mezzanotte,{\r} non prendevo sonno, non
+Dialogue: 0,0:00:9.29,0:00:10.39,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:10.39,0:00:10.47,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, {\1c&HFF00&\u1}non{\r} prendevo sonno, non
+Dialogue: 0,0:00:10.47,0:00:10.49,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:10.49,0:00:10.81,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non {\1c&HFF00&\u1}prendevo{\r} sonno, non
+Dialogue: 0,0:00:10.81,0:00:10.89,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:10.89,0:00:11.13,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo {\1c&HFF00&\u1}sonno,{\r} non
+Dialogue: 0,0:00:11.13,0:00:11.15,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, non
+Dialogue: 0,0:00:11.15,0:00:11.23,Default,,0,0,0,,alto mare, vado a letto, ero non so, le 11, mezzanotte, non prendevo sonno, {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:11.20,0:00:11.72,Default,,0,0,0,,{\1c&HFF00&\u1}prendevo{\r} sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:11.72,0:00:11.74,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:11.74,0:00:11.90,Default,,0,0,0,,prendevo {\1c&HFF00&\u1}sonno{\r} perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:11.90,0:00:11.92,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:11.92,0:00:12.10,Default,,0,0,0,,prendevo sonno {\1c&HFF00&\u1}perché{\r} l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:12.10,0:00:12.93,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:12.93,0:00:13.37,Default,,0,0,0,,prendevo sonno perché {\1c&HFF00&\u1}l'ansia{\r} mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:13.37,0:00:13.41,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:13.41,0:00:13.47,Default,,0,0,0,,prendevo sonno perché l'ansia {\1c&HFF00&\u1}mi{\r} vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:13.47,0:00:13.51,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:13.51,0:00:13.97,Default,,0,0,0,,prendevo sonno perché l'ansia mi {\1c&HFF00&\u1}vinceva,{\r} allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:13.97,0:00:14.11,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:14.11,0:00:14.43,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, {\1c&HFF00&\u1}allora{\r} invece di tentare di addormentarmi
+Dialogue: 0,0:00:14.43,0:00:14.63,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:14.63,0:00:14.91,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora {\1c&HFF00&\u1}invece{\r} di tentare di addormentarmi
+Dialogue: 0,0:00:14.91,0:00:14.93,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:14.93,0:00:15.01,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece {\1c&HFF00&\u1}di{\r} tentare di addormentarmi
+Dialogue: 0,0:00:15.01,0:00:15.07,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:15.07,0:00:15.29,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di {\1c&HFF00&\u1}tentare{\r} di addormentarmi
+Dialogue: 0,0:00:15.29,0:00:15.31,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:15.31,0:00:15.35,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare {\1c&HFF00&\u1}di{\r} addormentarmi
+Dialogue: 0,0:00:15.35,0:00:15.39,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di addormentarmi
+Dialogue: 0,0:00:15.39,0:00:15.93,Default,,0,0,0,,prendevo sonno perché l'ansia mi vinceva, allora invece di tentare di {\1c&HFF00&\u1}addormentarmi{\r}
+Dialogue: 0,0:00:16.34,0:00:16.42,Default,,0,0,0,,{\1c&HFF00&\u1}mi{\r} sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:16.42,0:00:16.44,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:16.44,0:00:16.58,Default,,0,0,0,,mi {\1c&HFF00&\u1}sono{\r} alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:16.58,0:00:16.66,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:16.66,0:00:17.02,Default,,0,0,0,,mi sono {\1c&HFF00&\u1}alzato,{\r} mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.02,0:00:17.06,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.06,0:00:17.10,Default,,0,0,0,,mi sono alzato, {\1c&HFF00&\u1}mi{\r} sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.10,0:00:17.12,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.12,0:00:17.24,Default,,0,0,0,,mi sono alzato, mi {\1c&HFF00&\u1}sono{\r} messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.24,0:00:17.28,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.28,0:00:17.44,Default,,0,0,0,,mi sono alzato, mi sono {\1c&HFF00&\u1}messo{\r} al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.44,0:00:17.50,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.50,0:00:17.54,Default,,0,0,0,,mi sono alzato, mi sono messo {\1c&HFF00&\u1}al{\r} computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.54,0:00:17.58,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:17.58,0:00:18.17,Default,,0,0,0,,mi sono alzato, mi sono messo al {\1c&HFF00&\u1}computer,{\r} ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:18.17,0:00:18.43,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:18.43,0:00:18.47,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, {\1c&HFF00&\u1}ho{\r} cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:18.47,0:00:18.49,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:18.49,0:00:18.89,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho {\1c&HFF00&\u1}cominciato{\r} a leggere, a scrivere, a
+Dialogue: 0,0:00:18.89,0:00:19.35,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:19.35,0:00:19.39,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato {\1c&HFF00&\u1}a{\r} leggere, a scrivere, a
+Dialogue: 0,0:00:19.39,0:00:19.45,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:19.45,0:00:19.67,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a {\1c&HFF00&\u1}leggere,{\r} a scrivere, a
+Dialogue: 0,0:00:19.67,0:00:19.75,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:19.75,0:00:19.77,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, {\1c&HFF00&\u1}a{\r} scrivere, a
+Dialogue: 0,0:00:19.77,0:00:19.81,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:19.81,0:00:20.15,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a {\1c&HFF00&\u1}scrivere,{\r} a
+Dialogue: 0,0:00:20.15,0:00:21.43,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, a
+Dialogue: 0,0:00:21.43,0:00:21.45,Default,,0,0,0,,mi sono alzato, mi sono messo al computer, ho cominciato a leggere, a scrivere, {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:21.60,0:00:22.36,Default,,0,0,0,,{\1c&HFF00&\u1}preparare{\r} il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:22.36,0:00:23.53,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:23.53,0:00:24.23,Default,,0,0,0,,preparare {\1c&HFF00&\u1}il{\r} monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:24.23,0:00:24.33,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:24.33,0:00:24.89,Default,,0,0,0,,preparare il {\1c&HFF00&\u1}monologo{\r} dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:24.89,0:00:25.07,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:25.07,0:00:25.31,Default,,0,0,0,,preparare il monologo {\1c&HFF00&\u1}dopo{\r} 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:25.31,0:00:25.33,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:25.33,0:00:25.57,Default,,0,0,0,,preparare il monologo dopo {\1c&HFF00&\u1}1-2{\r} ore, qualcosa avevo combinato
+Dialogue: 0,0:00:25.57,0:00:25.89,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:25.89,0:00:26.25,Default,,0,0,0,,preparare il monologo dopo 1-2 {\1c&HFF00&\u1}ore,{\r} qualcosa avevo combinato
+Dialogue: 0,0:00:26.25,0:00:27.98,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:27.98,0:00:28.70,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, {\1c&HFF00&\u1}qualcosa{\r} avevo combinato
+Dialogue: 0,0:00:28.70,0:00:28.76,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:28.76,0:00:28.98,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa {\1c&HFF00&\u1}avevo{\r} combinato
+Dialogue: 0,0:00:28.98,0:00:29.04,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo combinato
+Dialogue: 0,0:00:29.04,0:00:29.74,Default,,0,0,0,,preparare il monologo dopo 1-2 ore, qualcosa avevo {\1c&HFF00&\u1}combinato{\r}

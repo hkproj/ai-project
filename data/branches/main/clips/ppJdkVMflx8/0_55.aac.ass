@@ -1,0 +1,81 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.22,Default,,0,0,0,,{\1c&HFF00&\u1}Sono{\r} stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.22,0:00:0.24,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.24,0:00:0.44,Default,,0,0,0,,Sono {\1c&HFF00&\u1}stato{\r} di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.44,0:00:0.46,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.46,0:00:0.54,Default,,0,0,0,,Sono stato {\1c&HFF00&\u1}di{\r} qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.54,0:00:0.58,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.58,0:00:0.76,Default,,0,0,0,,Sono stato di {\1c&HFF00&\u1}qua,{\r} sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.76,0:00:0.94,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:0.94,0:00:1.12,Default,,0,0,0,,Sono stato di qua, {\1c&HFF00&\u1}sono{\r} stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.12,0:00:1.16,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.16,0:00:1.38,Default,,0,0,0,,Sono stato di qua, sono {\1c&HFF00&\u1}stato{\r} di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.38,0:00:1.44,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.44,0:00:1.52,Default,,0,0,0,,Sono stato di qua, sono stato {\1c&HFF00&\u1}di{\r} là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.52,0:00:1.56,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.56,0:00:1.79,Default,,0,0,0,,Sono stato di qua, sono stato di {\1c&HFF00&\u1}là,{\r} sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.79,0:00:1.87,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:1.87,0:00:2.05,Default,,0,0,0,,Sono stato di qua, sono stato di là, {\1c&HFF00&\u1}sono{\r} poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.05,0:00:2.11,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.11,0:00:2.25,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono {\1c&HFF00&\u1}poi{\r} andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.25,0:00:2.29,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.29,0:00:2.53,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi {\1c&HFF00&\u1}andato{\r} in Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.53,0:00:2.57,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.57,0:00:2.61,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato {\1c&HFF00&\u1}in{\r} Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.61,0:00:2.65,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:2.65,0:00:3.13,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in {\1c&HFF00&\u1}Toscana,{\r} sono poi andato in America
+Dialogue: 0,0:00:3.13,0:00:3.17,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:3.17,0:00:3.33,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, {\1c&HFF00&\u1}sono{\r} poi andato in America
+Dialogue: 0,0:00:3.33,0:00:3.37,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:3.37,0:00:3.47,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono {\1c&HFF00&\u1}poi{\r} andato in America
+Dialogue: 0,0:00:3.47,0:00:3.51,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:3.51,0:00:3.71,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi {\1c&HFF00&\u1}andato{\r} in America
+Dialogue: 0,0:00:3.71,0:00:3.75,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:3.75,0:00:3.81,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato {\1c&HFF00&\u1}in{\r} America
+Dialogue: 0,0:00:3.81,0:00:3.85,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in America
+Dialogue: 0,0:00:3.85,0:00:4.31,Default,,0,0,0,,Sono stato di qua, sono stato di là, sono poi andato in Toscana, sono poi andato in {\1c&HFF00&\u1}America{\r}
+Dialogue: 0,0:00:4.72,0:00:4.80,Default,,0,0,0,,{\1c&HFF00&\u1}Si{\r} sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:4.80,0:00:4.82,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:4.82,0:00:4.96,Default,,0,0,0,,Si {\1c&HFF00&\u1}sono{\r} susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:4.96,0:00:4.98,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:4.98,0:00:5.36,Default,,0,0,0,,Si sono {\1c&HFF00&\u1}susseguiti{\r} una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.36,0:00:5.38,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.38,0:00:5.48,Default,,0,0,0,,Si sono susseguiti {\1c&HFF00&\u1}una{\r} serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.48,0:00:5.50,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.50,0:00:5.64,Default,,0,0,0,,Si sono susseguiti una {\1c&HFF00&\u1}serie{\r} di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.64,0:00:5.66,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.66,0:00:5.72,Default,,0,0,0,,Si sono susseguiti una serie {\1c&HFF00&\u1}di{\r} cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.72,0:00:5.77,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.77,0:00:5.93,Default,,0,0,0,,Si sono susseguiti una serie di {\1c&HFF00&\u1}cose{\r} in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.93,0:00:5.95,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.95,0:00:5.99,Default,,0,0,0,,Si sono susseguiti una serie di cose {\1c&HFF00&\u1}in{\r} morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:5.99,0:00:6.01,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:6.01,0:00:6.17,Default,,0,0,0,,Si sono susseguiti una serie di cose in {\1c&HFF00&\u1}morale{\r} della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:6.17,0:00:6.19,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:6.19,0:00:6.35,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale {\1c&HFF00&\u1}della{\r} favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:6.35,0:00:6.37,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:6.37,0:00:6.73,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della {\1c&HFF00&\u1}favola,{\r} a settembre non ho fatto niente
+Dialogue: 0,0:00:6.73,0:00:7.15,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:7.15,0:00:7.19,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, {\1c&HFF00&\u1}a{\r} settembre non ho fatto niente
+Dialogue: 0,0:00:7.19,0:00:7.23,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:7.23,0:00:7.59,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a {\1c&HFF00&\u1}settembre{\r} non ho fatto niente
+Dialogue: 0,0:00:7.59,0:00:7.61,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:7.61,0:00:7.77,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre {\1c&HFF00&\u1}non{\r} ho fatto niente
+Dialogue: 0,0:00:7.77,0:00:7.83,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:7.83,0:00:7.89,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non {\1c&HFF00&\u1}ho{\r} fatto niente
+Dialogue: 0,0:00:7.89,0:00:7.91,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:7.91,0:00:8.09,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho {\1c&HFF00&\u1}fatto{\r} niente
+Dialogue: 0,0:00:8.09,0:00:8.22,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto niente
+Dialogue: 0,0:00:8.22,0:00:8.34,Default,,0,0,0,,Si sono susseguiti una serie di cose in morale della favola, a settembre non ho fatto {\1c&HFF00&\u1}niente{\r}

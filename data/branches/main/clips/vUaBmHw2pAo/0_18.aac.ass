@@ -1,0 +1,60 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.10,0:00:1.18,Default,,0,0,0,,{\1c&HFF00&\u1}Non{\r} è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.18,0:00:1.20,Default,,0,0,0,,Non è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.20,0:00:1.25,Default,,0,0,0,,Non {\1c&HFF00&\u1}è{\r} proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.25,0:00:1.27,Default,,0,0,0,,Non è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.27,0:00:1.43,Default,,0,0,0,,Non è {\1c&HFF00&\u1}proprio{\r} il mio parlare in pubblico!
+Dialogue: 0,0:00:1.43,0:00:1.47,Default,,0,0,0,,Non è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.47,0:00:1.51,Default,,0,0,0,,Non è proprio {\1c&HFF00&\u1}il{\r} mio parlare in pubblico!
+Dialogue: 0,0:00:1.51,0:00:1.55,Default,,0,0,0,,Non è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.55,0:00:1.65,Default,,0,0,0,,Non è proprio il {\1c&HFF00&\u1}mio{\r} parlare in pubblico!
+Dialogue: 0,0:00:1.65,0:00:1.71,Default,,0,0,0,,Non è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.71,0:00:1.93,Default,,0,0,0,,Non è proprio il mio {\1c&HFF00&\u1}parlare{\r} in pubblico!
+Dialogue: 0,0:00:1.93,0:00:1.97,Default,,0,0,0,,Non è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:1.97,0:00:2.01,Default,,0,0,0,,Non è proprio il mio parlare {\1c&HFF00&\u1}in{\r} pubblico!
+Dialogue: 0,0:00:2.01,0:00:2.05,Default,,0,0,0,,Non è proprio il mio parlare in pubblico!
+Dialogue: 0,0:00:2.05,0:00:2.35,Default,,0,0,0,,Non è proprio il mio parlare in {\1c&HFF00&\u1}pubblico!{\r}
+Dialogue: 0,0:00:2.88,0:00:2.90,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} le ho detto questa persona!
+Dialogue: 0,0:00:2.90,0:00:2.92,Default,,0,0,0,,E le ho detto questa persona!
+Dialogue: 0,0:00:2.92,0:00:2.96,Default,,0,0,0,,E {\1c&HFF00&\u1}le{\r} ho detto questa persona!
+Dialogue: 0,0:00:2.96,0:00:2.98,Default,,0,0,0,,E le ho detto questa persona!
+Dialogue: 0,0:00:2.98,0:00:3.02,Default,,0,0,0,,E le {\1c&HFF00&\u1}ho{\r} detto questa persona!
+Dialogue: 0,0:00:3.02,0:00:3.04,Default,,0,0,0,,E le ho detto questa persona!
+Dialogue: 0,0:00:3.04,0:00:3.14,Default,,0,0,0,,E le ho {\1c&HFF00&\u1}detto{\r} questa persona!
+Dialogue: 0,0:00:3.14,0:00:3.16,Default,,0,0,0,,E le ho detto questa persona!
+Dialogue: 0,0:00:3.16,0:00:3.28,Default,,0,0,0,,E le ho detto {\1c&HFF00&\u1}questa{\r} persona!
+Dialogue: 0,0:00:3.28,0:00:3.30,Default,,0,0,0,,E le ho detto questa persona!
+Dialogue: 0,0:00:3.30,0:00:3.44,Default,,0,0,0,,E le ho detto questa {\1c&HFF00&\u1}persona!{\r}
+Dialogue: 0,0:00:4.26,0:00:4.30,Default,,0,0,0,,{\1c&HFF00&\u1}Ma{\r} preparati!
+Dialogue: 0,0:00:4.30,0:00:4.32,Default,,0,0,0,,Ma preparati!
+Dialogue: 0,0:00:4.32,0:00:4.50,Default,,0,0,0,,Ma {\1c&HFF00&\u1}preparati!{\r}
+Dialogue: 0,0:00:5.66,0:00:5.80,Default,,0,0,0,,{\1c&HFF00&\u1}No,{\r} no, no, no, no, no, no, no!
+Dialogue: 0,0:00:5.80,0:00:5.82,Default,,0,0,0,,No, no, no, no, no, no, no, no!
+Dialogue: 0,0:00:5.82,0:00:6.07,Default,,0,0,0,,No, {\1c&HFF00&\u1}no,{\r} no, no, no, no, no, no!
+Dialogue: 0,0:00:6.07,0:00:6.09,Default,,0,0,0,,No, no, no, no, no, no, no, no!
+Dialogue: 0,0:00:6.09,0:00:6.21,Default,,0,0,0,,No, no, {\1c&HFF00&\u1}no,{\r} no, no, no, no, no!
+Dialogue: 0,0:00:6.21,0:00:6.23,Default,,0,0,0,,No, no, no, no, no, no, no, no!
+Dialogue: 0,0:00:6.23,0:00:6.35,Default,,0,0,0,,No, no, no, {\1c&HFF00&\u1}no,{\r} no, no, no, no!
+Dialogue: 0,0:00:6.35,0:00:6.37,Default,,0,0,0,,No, no, no, no, no, no, no, no!
+Dialogue: 0,0:00:6.37,0:00:6.49,Default,,0,0,0,,No, no, no, no, {\1c&HFF00&\u1}no,{\r} no, no, no!
+Dialogue: 0,0:00:6.49,0:00:6.51,Default,,0,0,0,,No, no, no, no, no, no, no, no!
+Dialogue: 0,0:00:6.51,0:00:6.61,Default,,0,0,0,,No, no, no, no, no, {\1c&HFF00&\u1}no,{\r} no, no!
+Dialogue: 0,0:00:6.61,0:00:6.63,Default,,0,0,0,,No, no, no, no, no, no, no, no!
+Dialogue: 0,0:00:6.63,0:00:6.83,Default,,0,0,0,,No, no, no, no, no, no, {\1c&HFF00&\u1}no,{\r} no!
+Dialogue: 0,0:00:6.83,0:00:6.85,Default,,0,0,0,,No, no, no, no, no, no, no, no!
+Dialogue: 0,0:00:6.85,0:00:6.91,Default,,0,0,0,,No, no, no, no, no, no, no, {\1c&HFF00&\u1}no!{\r}
+Dialogue: 0,0:00:7.24,0:00:7.37,Default,,0,0,0,,{\1c&HFF00&\u1}Come{\r} no?
+Dialogue: 0,0:00:7.37,0:00:7.43,Default,,0,0,0,,Come no?
+Dialogue: 0,0:00:7.43,0:00:7.47,Default,,0,0,0,,Come {\1c&HFF00&\u1}no?{\r}

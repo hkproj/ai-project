@@ -1,0 +1,703 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.02,0:00:0.80,Default,,0,0,0,,{\1c&HFF00&\u1}risparmiando{\r} un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:0.80,0:00:0.88,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:0.88,0:00:0.96,Default,,0,0,0,,risparmiando {\1c&HFF00&\u1}un{\r} botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:0.96,0:00:1.06,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:1.06,0:00:1.30,Default,,0,0,0,,risparmiando un {\1c&HFF00&\u1}botto{\r} in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:1.30,0:00:1.34,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:1.34,0:00:1.40,Default,,0,0,0,,risparmiando un botto {\1c&HFF00&\u1}in{\r} vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:1.40,0:00:1.46,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:1.46,0:00:1.95,Default,,0,0,0,,risparmiando un botto in {\1c&HFF00&\u1}vestiti.{\r} Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:1.95,0:00:2.21,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:2.21,0:00:2.47,Default,,0,0,0,,risparmiando un botto in vestiti. {\1c&HFF00&\u1}Come?{\r} Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:2.47,0:00:2.49,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:2.49,0:00:2.93,Default,,0,0,0,,risparmiando un botto in vestiti. Come? {\1c&HFF00&\u1}Beh,{\r} ci sono tre effetti negativi nei
+Dialogue: 0,0:00:2.93,0:00:3.09,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:3.09,0:00:3.17,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, {\1c&HFF00&\u1}ci{\r} sono tre effetti negativi nei
+Dialogue: 0,0:00:3.17,0:00:3.23,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:3.23,0:00:3.41,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci {\1c&HFF00&\u1}sono{\r} tre effetti negativi nei
+Dialogue: 0,0:00:3.41,0:00:3.61,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:3.61,0:00:3.85,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono {\1c&HFF00&\u1}tre{\r} effetti negativi nei
+Dialogue: 0,0:00:3.85,0:00:4.01,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:4.01,0:00:4.43,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre {\1c&HFF00&\u1}effetti{\r} negativi nei
+Dialogue: 0,0:00:4.43,0:00:4.49,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:4.49,0:00:4.95,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti {\1c&HFF00&\u1}negativi{\r} nei
+Dialogue: 0,0:00:4.95,0:00:5.01,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi nei
+Dialogue: 0,0:00:5.01,0:00:5.11,Default,,0,0,0,,risparmiando un botto in vestiti. Come? Beh, ci sono tre effetti negativi {\1c&HFF00&\u1}nei{\r}
+Dialogue: 0,0:00:5.08,0:00:5.76,Default,,0,0,0,,{\1c&HFF00&\u1}saldi.{\r} Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:5.76,0:00:5.78,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:5.78,0:00:5.84,Default,,0,0,0,,saldi. {\1c&HFF00&\u1}Il{\r} primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:5.84,0:00:5.88,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:5.88,0:00:6.14,Default,,0,0,0,,saldi. Il {\1c&HFF00&\u1}primo{\r} è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.14,0:00:6.28,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.28,0:00:6.32,Default,,0,0,0,,saldi. Il primo {\1c&HFF00&\u1}è{\r} che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.32,0:00:6.36,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.36,0:00:6.44,Default,,0,0,0,,saldi. Il primo è {\1c&HFF00&\u1}che{\r} i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.44,0:00:6.48,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.48,0:00:6.52,Default,,0,0,0,,saldi. Il primo è che {\1c&HFF00&\u1}i{\r} saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.52,0:00:6.57,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.57,0:00:6.83,Default,,0,0,0,,saldi. Il primo è che i {\1c&HFF00&\u1}saldi{\r} sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.83,0:00:6.91,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:6.91,0:00:7.11,Default,,0,0,0,,saldi. Il primo è che i saldi {\1c&HFF00&\u1}sono{\r} localizzati in uno specifico arco
+Dialogue: 0,0:00:7.11,0:00:7.29,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:7.29,0:00:7.87,Default,,0,0,0,,saldi. Il primo è che i saldi sono {\1c&HFF00&\u1}localizzati{\r} in uno specifico arco
+Dialogue: 0,0:00:7.87,0:00:7.89,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:7.89,0:00:7.95,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati {\1c&HFF00&\u1}in{\r} uno specifico arco
+Dialogue: 0,0:00:7.95,0:00:7.99,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:7.99,0:00:8.11,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in {\1c&HFF00&\u1}uno{\r} specifico arco
+Dialogue: 0,0:00:8.11,0:00:8.17,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:8.17,0:00:8.79,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno {\1c&HFF00&\u1}specifico{\r} arco
+Dialogue: 0,0:00:8.79,0:00:8.85,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico arco
+Dialogue: 0,0:00:8.85,0:00:9.03,Default,,0,0,0,,saldi. Il primo è che i saldi sono localizzati in uno specifico {\1c&HFF00&\u1}arco{\r}
+Dialogue: 0,0:00:9.20,0:00:10.02,Default,,0,0,0,,{\1c&HFF00&\u1}temporale,{\r} a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.02,0:00:10.04,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.04,0:00:10.06,Default,,0,0,0,,temporale, {\1c&HFF00&\u1}a{\r} un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.06,0:00:10.08,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.08,0:00:10.12,Default,,0,0,0,,temporale, a {\1c&HFF00&\u1}un{\r} certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.12,0:00:10.14,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.14,0:00:10.32,Default,,0,0,0,,temporale, a un {\1c&HFF00&\u1}certo{\r} punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.32,0:00:10.36,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.36,0:00:10.57,Default,,0,0,0,,temporale, a un certo {\1c&HFF00&\u1}punto{\r} finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.57,0:00:10.63,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:10.63,0:00:11.13,Default,,0,0,0,,temporale, a un certo punto {\1c&HFF00&\u1}finiscono{\r} e questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.13,0:00:11.21,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.21,0:00:11.25,Default,,0,0,0,,temporale, a un certo punto finiscono {\1c&HFF00&\u1}e{\r} questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.25,0:00:11.29,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.29,0:00:11.51,Default,,0,0,0,,temporale, a un certo punto finiscono e {\1c&HFF00&\u1}questo{\r} ci dà una sorta di senso
+Dialogue: 0,0:00:11.51,0:00:11.57,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.57,0:00:11.65,Default,,0,0,0,,temporale, a un certo punto finiscono e questo {\1c&HFF00&\u1}ci{\r} dà una sorta di senso
+Dialogue: 0,0:00:11.65,0:00:11.69,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.69,0:00:11.79,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci {\1c&HFF00&\u1}dà{\r} una sorta di senso
+Dialogue: 0,0:00:11.79,0:00:11.83,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.83,0:00:11.91,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà {\1c&HFF00&\u1}una{\r} sorta di senso
+Dialogue: 0,0:00:11.91,0:00:11.95,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:11.95,0:00:12.15,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una {\1c&HFF00&\u1}sorta{\r} di senso
+Dialogue: 0,0:00:12.15,0:00:12.19,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:12.19,0:00:12.27,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta {\1c&HFF00&\u1}di{\r} senso
+Dialogue: 0,0:00:12.27,0:00:12.33,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di senso
+Dialogue: 0,0:00:12.33,0:00:12.57,Default,,0,0,0,,temporale, a un certo punto finiscono e questo ci dà una sorta di {\1c&HFF00&\u1}senso{\r}
+Dialogue: 0,0:00:12.56,0:00:12.72,Default,,0,0,0,,{\1c&HFF00&\u1}d'urgenza{\r} per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:12.72,0:00:12.74,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:12.74,0:00:12.80,Default,,0,0,0,,d'urgenza {\1c&HFF00&\u1}per{\r} cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:12.80,0:00:12.82,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:12.82,0:00:12.88,Default,,0,0,0,,d'urgenza per {\1c&HFF00&\u1}cui{\r} dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:12.88,0:00:12.90,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:12.90,0:00:13.06,Default,,0,0,0,,d'urgenza per cui {\1c&HFF00&\u1}dobbiamo{\r} muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.06,0:00:13.08,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.08,0:00:13.24,Default,,0,0,0,,d'urgenza per cui dobbiamo {\1c&HFF00&\u1}muoverci{\r} altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.24,0:00:13.26,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.26,0:00:13.46,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci {\1c&HFF00&\u1}altrimenti{\r} non troviamo più vestiti, il
+Dialogue: 0,0:00:13.46,0:00:13.48,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.48,0:00:13.54,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti {\1c&HFF00&\u1}non{\r} troviamo più vestiti, il
+Dialogue: 0,0:00:13.54,0:00:13.56,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.56,0:00:13.72,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non {\1c&HFF00&\u1}troviamo{\r} più vestiti, il
+Dialogue: 0,0:00:13.72,0:00:13.74,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.74,0:00:13.80,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo {\1c&HFF00&\u1}più{\r} vestiti, il
+Dialogue: 0,0:00:13.80,0:00:13.82,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.82,0:00:13.96,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più {\1c&HFF00&\u1}vestiti,{\r} il
+Dialogue: 0,0:00:13.96,0:00:13.98,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, il
+Dialogue: 0,0:00:13.98,0:00:14.02,Default,,0,0,0,,d'urgenza per cui dobbiamo muoverci altrimenti non troviamo più vestiti, {\1c&HFF00&\u1}il{\r}
+Dialogue: 0,0:00:16.92,0:00:17.36,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.36,0:00:17.40,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.40,0:00:17.52,Default,,0,0,0,,che {\1c&HFF00&\u1}ci{\r} spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.52,0:00:17.54,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.54,0:00:17.84,Default,,0,0,0,,che ci {\1c&HFF00&\u1}spinge{\r} al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.84,0:00:17.90,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.90,0:00:17.96,Default,,0,0,0,,che ci spinge {\1c&HFF00&\u1}al{\r} cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.96,0:00:17.98,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:17.98,0:00:18.50,Default,,0,0,0,,che ci spinge al {\1c&HFF00&\u1}cosiddetto{\r} approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:18.50,0:00:18.83,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:18.83,0:00:19.85,Default,,0,0,0,,che ci spinge al cosiddetto {\1c&HFF00&\u1}approfittarne,{\r} o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:19.85,0:00:20.13,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:20.13,0:00:20.15,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, {\1c&HFF00&\u1}o{\r} meglio questo è lo stato mentale in
+Dialogue: 0,0:00:20.15,0:00:20.19,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:20.19,0:00:20.45,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o {\1c&HFF00&\u1}meglio{\r} questo è lo stato mentale in
+Dialogue: 0,0:00:20.45,0:00:20.53,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:20.53,0:00:20.73,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio {\1c&HFF00&\u1}questo{\r} è lo stato mentale in
+Dialogue: 0,0:00:20.73,0:00:20.75,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:20.75,0:00:20.77,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo {\1c&HFF00&\u1}è{\r} lo stato mentale in
+Dialogue: 0,0:00:20.77,0:00:20.81,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:20.81,0:00:20.87,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è {\1c&HFF00&\u1}lo{\r} stato mentale in
+Dialogue: 0,0:00:20.87,0:00:20.89,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:20.89,0:00:21.05,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo {\1c&HFF00&\u1}stato{\r} mentale in
+Dialogue: 0,0:00:21.05,0:00:21.09,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:21.09,0:00:21.37,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato {\1c&HFF00&\u1}mentale{\r} in
+Dialogue: 0,0:00:21.37,0:00:21.39,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale in
+Dialogue: 0,0:00:21.39,0:00:21.45,Default,,0,0,0,,che ci spinge al cosiddetto approfittarne, o meglio questo è lo stato mentale {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:21.40,0:00:21.46,Default,,0,0,0,,{\1c&HFF00&\u1}cui{\r} siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:21.46,0:00:21.48,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:21.48,0:00:22.12,Default,,0,0,0,,cui {\1c&HFF00&\u1}siamo.{\r} Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:22.12,0:00:22.16,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:22.16,0:00:22.50,Default,,0,0,0,,cui siamo. {\1c&HFF00&\u1}Sentiamo{\r} questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:22.50,0:00:22.56,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:22.56,0:00:22.83,Default,,0,0,0,,cui siamo. Sentiamo {\1c&HFF00&\u1}questo{\r} senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:22.83,0:00:22.89,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:22.89,0:00:23.19,Default,,0,0,0,,cui siamo. Sentiamo questo {\1c&HFF00&\u1}senso{\r} di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:23.19,0:00:23.25,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:23.25,0:00:23.33,Default,,0,0,0,,cui siamo. Sentiamo questo senso {\1c&HFF00&\u1}di{\r} fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:23.33,0:00:23.43,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:23.43,0:00:23.87,Default,,0,0,0,,cui siamo. Sentiamo questo senso di {\1c&HFF00&\u1}fretta{\r} che ci spinge a dover comprare
+Dialogue: 0,0:00:23.87,0:00:23.93,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:23.93,0:00:24.01,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta {\1c&HFF00&\u1}che{\r} ci spinge a dover comprare
+Dialogue: 0,0:00:24.01,0:00:24.07,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:24.07,0:00:24.13,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che {\1c&HFF00&\u1}ci{\r} spinge a dover comprare
+Dialogue: 0,0:00:24.13,0:00:24.19,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:24.19,0:00:24.49,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci {\1c&HFF00&\u1}spinge{\r} a dover comprare
+Dialogue: 0,0:00:24.49,0:00:24.51,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:24.51,0:00:24.53,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge {\1c&HFF00&\u1}a{\r} dover comprare
+Dialogue: 0,0:00:24.53,0:00:24.57,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:24.57,0:00:24.75,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a {\1c&HFF00&\u1}dover{\r} comprare
+Dialogue: 0,0:00:24.75,0:00:24.79,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover comprare
+Dialogue: 0,0:00:24.79,0:00:25.09,Default,,0,0,0,,cui siamo. Sentiamo questo senso di fretta che ci spinge a dover {\1c&HFF00&\u1}comprare{\r}
+Dialogue: 0,0:00:25.08,0:00:25.18,Default,,0,0,0,,{\1c&HFF00&\u1}tutto{\r} il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.18,0:00:25.20,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.20,0:00:25.24,Default,,0,0,0,,tutto {\1c&HFF00&\u1}il{\r} prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.24,0:00:25.26,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.26,0:00:25.36,Default,,0,0,0,,tutto il {\1c&HFF00&\u1}prima{\r} possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.36,0:00:25.38,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.38,0:00:25.56,Default,,0,0,0,,tutto il prima {\1c&HFF00&\u1}possibile{\r} e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.56,0:00:25.58,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.58,0:00:25.60,Default,,0,0,0,,tutto il prima possibile {\1c&HFF00&\u1}e{\r} questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.60,0:00:25.62,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.62,0:00:25.74,Default,,0,0,0,,tutto il prima possibile e {\1c&HFF00&\u1}questa{\r} roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.74,0:00:25.76,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.76,0:00:25.84,Default,,0,0,0,,tutto il prima possibile e questa {\1c&HFF00&\u1}roba{\r} qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.84,0:00:25.86,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.86,0:00:25.92,Default,,0,0,0,,tutto il prima possibile e questa roba {\1c&HFF00&\u1}qua{\r} fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.92,0:00:25.94,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:25.94,0:00:25.98,Default,,0,0,0,,tutto il prima possibile e questa roba qua {\1c&HFF00&\u1}fa{\r} spendere male e tanto altro lato
+Dialogue: 0,0:00:25.98,0:00:26.00,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:26.00,0:00:26.16,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa {\1c&HFF00&\u1}spendere{\r} male e tanto altro lato
+Dialogue: 0,0:00:26.16,0:00:26.18,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:26.18,0:00:26.26,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere {\1c&HFF00&\u1}male{\r} e tanto altro lato
+Dialogue: 0,0:00:26.26,0:00:26.28,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:26.28,0:00:26.30,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male {\1c&HFF00&\u1}e{\r} tanto altro lato
+Dialogue: 0,0:00:26.30,0:00:26.32,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:26.32,0:00:26.42,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e {\1c&HFF00&\u1}tanto{\r} altro lato
+Dialogue: 0,0:00:26.42,0:00:26.44,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:26.44,0:00:26.56,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto {\1c&HFF00&\u1}altro{\r} lato
+Dialogue: 0,0:00:26.56,0:00:26.58,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro lato
+Dialogue: 0,0:00:26.58,0:00:26.66,Default,,0,0,0,,tutto il prima possibile e questa roba qua fa spendere male e tanto altro {\1c&HFF00&\u1}lato{\r}
+Dialogue: 0,0:00:30.96,0:00:31.36,Default,,0,0,0,,{\1c&HFF00&\u1}negativo{\r} sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:31.36,0:00:31.44,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:31.44,0:00:31.80,Default,,0,0,0,,negativo {\1c&HFF00&\u1}sapendo{\r} che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:31.80,0:00:31.88,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:31.88,0:00:32.00,Default,,0,0,0,,negativo sapendo {\1c&HFF00&\u1}che{\r} i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:32.00,0:00:32.14,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:32.14,0:00:32.18,Default,,0,0,0,,negativo sapendo che {\1c&HFF00&\u1}i{\r} singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:32.18,0:00:32.28,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:32.28,0:00:32.63,Default,,0,0,0,,negativo sapendo che i {\1c&HFF00&\u1}singoli{\r} prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:32.63,0:00:32.69,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:32.69,0:00:33.07,Default,,0,0,0,,negativo sapendo che i singoli {\1c&HFF00&\u1}prodotti{\r} costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:33.07,0:00:33.15,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:33.15,0:00:33.55,Default,,0,0,0,,negativo sapendo che i singoli prodotti {\1c&HFF00&\u1}costano{\r} meno ci sentiremo un po' meno
+Dialogue: 0,0:00:33.55,0:00:33.61,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:33.61,0:00:33.99,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano {\1c&HFF00&\u1}meno{\r} ci sentiremo un po' meno
+Dialogue: 0,0:00:33.99,0:00:34.29,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:34.29,0:00:34.35,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno {\1c&HFF00&\u1}ci{\r} sentiremo un po' meno
+Dialogue: 0,0:00:34.35,0:00:34.41,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:34.41,0:00:34.81,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci {\1c&HFF00&\u1}sentiremo{\r} un po' meno
+Dialogue: 0,0:00:34.81,0:00:34.93,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:34.93,0:00:35.01,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo {\1c&HFF00&\u1}un{\r} po' meno
+Dialogue: 0,0:00:35.01,0:00:35.05,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:35.05,0:00:35.19,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un {\1c&HFF00&\u1}po'{\r} meno
+Dialogue: 0,0:00:35.19,0:00:35.25,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' meno
+Dialogue: 0,0:00:35.25,0:00:35.41,Default,,0,0,0,,negativo sapendo che i singoli prodotti costano meno ci sentiremo un po' {\1c&HFF00&\u1}meno{\r}
+Dialogue: 0,0:00:35.40,0:00:35.78,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:35.78,0:00:35.82,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:35.82,0:00:36.14,Default,,0,0,0,,in {\1c&HFF00&\u1}colpa{\r} a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:36.14,0:00:36.34,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:36.34,0:00:36.36,Default,,0,0,0,,in colpa {\1c&HFF00&\u1}a{\r} comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:36.36,0:00:36.42,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:36.42,0:00:37.01,Default,,0,0,0,,in colpa a {\1c&HFF00&\u1}comprarvi{\r} questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:37.01,0:00:37.05,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:37.05,0:00:37.27,Default,,0,0,0,,in colpa a comprarvi {\1c&HFF00&\u1}questo{\r} ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:37.27,0:00:37.39,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:37.39,0:00:37.53,Default,,0,0,0,,in colpa a comprarvi questo {\1c&HFF00&\u1}ci{\r} giustificherà ci legittimerà a
+Dialogue: 0,0:00:37.53,0:00:37.85,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:37.85,0:00:38.55,Default,,0,0,0,,in colpa a comprarvi questo ci {\1c&HFF00&\u1}giustificherà{\r} ci legittimerà a
+Dialogue: 0,0:00:38.55,0:00:38.63,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:38.63,0:00:38.71,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà {\1c&HFF00&\u1}ci{\r} legittimerà a
+Dialogue: 0,0:00:38.71,0:00:38.79,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:38.79,0:00:39.63,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci {\1c&HFF00&\u1}legittimerà{\r} a
+Dialogue: 0,0:00:39.63,0:00:39.81,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà a
+Dialogue: 0,0:00:39.81,0:00:39.83,Default,,0,0,0,,in colpa a comprarvi questo ci giustificherà ci legittimerà {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:40.00,0:00:40.38,Default,,0,0,0,,{\1c&HFF00&\u1}comprarne{\r} magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:40.38,0:00:40.44,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:40.44,0:00:40.72,Default,,0,0,0,,comprarne {\1c&HFF00&\u1}magari{\r} un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:40.72,0:00:41.06,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:41.06,0:00:41.12,Default,,0,0,0,,comprarne magari {\1c&HFF00&\u1}un{\r} secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:41.12,0:00:41.16,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:41.16,0:00:41.49,Default,,0,0,0,,comprarne magari un {\1c&HFF00&\u1}secondo{\r} capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:41.49,0:00:41.55,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:41.55,0:00:41.81,Default,,0,0,0,,comprarne magari un secondo {\1c&HFF00&\u1}capo{\r} un terzo le maglie costano la metà
+Dialogue: 0,0:00:41.81,0:00:41.99,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:41.99,0:00:42.09,Default,,0,0,0,,comprarne magari un secondo capo {\1c&HFF00&\u1}un{\r} terzo le maglie costano la metà
+Dialogue: 0,0:00:42.09,0:00:42.15,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:42.15,0:00:42.61,Default,,0,0,0,,comprarne magari un secondo capo un {\1c&HFF00&\u1}terzo{\r} le maglie costano la metà
+Dialogue: 0,0:00:42.61,0:00:42.97,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:42.97,0:00:43.03,Default,,0,0,0,,comprarne magari un secondo capo un terzo {\1c&HFF00&\u1}le{\r} maglie costano la metà
+Dialogue: 0,0:00:43.03,0:00:43.07,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:43.07,0:00:43.39,Default,,0,0,0,,comprarne magari un secondo capo un terzo le {\1c&HFF00&\u1}maglie{\r} costano la metà
+Dialogue: 0,0:00:43.39,0:00:43.45,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:43.45,0:00:43.81,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie {\1c&HFF00&\u1}costano{\r} la metà
+Dialogue: 0,0:00:43.81,0:00:43.87,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:43.87,0:00:43.91,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano {\1c&HFF00&\u1}la{\r} metà
+Dialogue: 0,0:00:43.91,0:00:43.95,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la metà
+Dialogue: 0,0:00:43.95,0:00:44.11,Default,,0,0,0,,comprarne magari un secondo capo un terzo le maglie costano la {\1c&HFF00&\u1}metà{\r}
+Dialogue: 0,0:00:44.58,0:00:44.72,Default,,0,0,0,,{\1c&HFF00&\u1}vabbè{\r} a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:44.72,0:00:44.76,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:44.76,0:00:44.82,Default,,0,0,0,,vabbè {\1c&HFF00&\u1}a{\r} sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:44.82,0:00:44.84,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:44.84,0:00:44.96,Default,,0,0,0,,vabbè a {\1c&HFF00&\u1}sto{\r} punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:44.96,0:00:45.02,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:45.02,0:00:45.24,Default,,0,0,0,,vabbè a sto {\1c&HFF00&\u1}punto{\r} ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:45.24,0:00:45.50,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:45.50,0:00:45.58,Default,,0,0,0,,vabbè a sto punto {\1c&HFF00&\u1}ne{\r} prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:45.58,0:00:45.66,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:45.66,0:00:45.99,Default,,0,0,0,,vabbè a sto punto ne {\1c&HFF00&\u1}prendo{\r} due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:45.99,0:00:46.05,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:46.05,0:00:46.31,Default,,0,0,0,,vabbè a sto punto ne prendo {\1c&HFF00&\u1}due{\r} o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:46.31,0:00:46.35,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:46.35,0:00:46.43,Default,,0,0,0,,vabbè a sto punto ne prendo due {\1c&HFF00&\u1}o{\r} magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:46.43,0:00:46.59,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:46.59,0:00:46.85,Default,,0,0,0,,vabbè a sto punto ne prendo due o {\1c&HFF00&\u1}magari{\r} anche tre e arriviamo però o a
+Dialogue: 0,0:00:46.85,0:00:46.91,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:46.91,0:00:47.17,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari {\1c&HFF00&\u1}anche{\r} tre e arriviamo però o a
+Dialogue: 0,0:00:47.17,0:00:47.25,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:47.25,0:00:47.43,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche {\1c&HFF00&\u1}tre{\r} e arriviamo però o a
+Dialogue: 0,0:00:47.43,0:00:47.75,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:47.75,0:00:47.79,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre {\1c&HFF00&\u1}e{\r} arriviamo però o a
+Dialogue: 0,0:00:47.79,0:00:47.83,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:47.83,0:00:48.23,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e {\1c&HFF00&\u1}arriviamo{\r} però o a
+Dialogue: 0,0:00:48.23,0:00:48.29,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:48.29,0:00:48.51,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo {\1c&HFF00&\u1}però{\r} o a
+Dialogue: 0,0:00:48.51,0:00:48.67,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:48.67,0:00:48.71,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però {\1c&HFF00&\u1}o{\r} a
+Dialogue: 0,0:00:48.71,0:00:48.73,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o a
+Dialogue: 0,0:00:48.73,0:00:48.75,Default,,0,0,0,,vabbè a sto punto ne prendo due o magari anche tre e arriviamo però o {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:49.00,0:00:49.30,Default,,0,0,0,,{\1c&HFF00&\u1}spendere{\r} uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:49.30,0:00:49.54,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:49.54,0:00:50.02,Default,,0,0,0,,spendere {\1c&HFF00&\u1}uguale{\r} rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.02,0:00:50.08,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.08,0:00:50.33,Default,,0,0,0,,spendere uguale {\1c&HFF00&\u1}rispetto{\r} a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.33,0:00:50.35,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.35,0:00:50.37,Default,,0,0,0,,spendere uguale rispetto {\1c&HFF00&\u1}a{\r} quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.37,0:00:50.39,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.39,0:00:50.57,Default,,0,0,0,,spendere uguale rispetto a {\1c&HFF00&\u1}quello{\r} che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.57,0:00:50.59,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.59,0:00:50.67,Default,,0,0,0,,spendere uguale rispetto a quello {\1c&HFF00&\u1}che{\r} spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.67,0:00:50.71,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:50.71,0:00:51.21,Default,,0,0,0,,spendere uguale rispetto a quello che {\1c&HFF00&\u1}spenderemo{\r} prima o addirittura di più
+Dialogue: 0,0:00:51.21,0:00:51.29,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:51.29,0:00:51.63,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo {\1c&HFF00&\u1}prima{\r} o addirittura di più
+Dialogue: 0,0:00:51.63,0:00:51.77,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:51.77,0:00:51.81,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima {\1c&HFF00&\u1}o{\r} addirittura di più
+Dialogue: 0,0:00:51.81,0:00:51.85,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:51.85,0:00:52.31,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o {\1c&HFF00&\u1}addirittura{\r} di più
+Dialogue: 0,0:00:52.31,0:00:52.49,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:52.49,0:00:52.55,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura {\1c&HFF00&\u1}di{\r} più
+Dialogue: 0,0:00:52.55,0:00:52.65,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di più
+Dialogue: 0,0:00:52.65,0:00:52.75,Default,,0,0,0,,spendere uguale rispetto a quello che spenderemo prima o addirittura di {\1c&HFF00&\u1}più{\r}
+Dialogue: 0,0:00:52.98,0:00:53.10,Default,,0,0,0,,{\1c&HFF00&\u1}tra{\r} l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:53.10,0:00:53.14,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:53.14,0:00:53.36,Default,,0,0,0,,tra {\1c&HFF00&\u1}l'altro{\r} comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:53.36,0:00:53.40,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:53.40,0:00:53.78,Default,,0,0,0,,tra l'altro {\1c&HFF00&\u1}comprando{\r} cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:53.78,0:00:53.82,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:53.82,0:00:53.96,Default,,0,0,0,,tra l'altro comprando {\1c&HFF00&\u1}cose{\r} che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:53.96,0:00:54.00,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.00,0:00:54.08,Default,,0,0,0,,tra l'altro comprando cose {\1c&HFF00&\u1}che{\r} non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.08,0:00:54.10,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.10,0:00:54.20,Default,,0,0,0,,tra l'altro comprando cose che {\1c&HFF00&\u1}non{\r} ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.20,0:00:54.24,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.24,0:00:54.30,Default,,0,0,0,,tra l'altro comprando cose che non {\1c&HFF00&\u1}ci{\r} servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.30,0:00:54.34,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.34,0:00:54.65,Default,,0,0,0,,tra l'altro comprando cose che non ci {\1c&HFF00&\u1}servono{\r} davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.65,0:00:54.69,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:54.69,0:00:55.09,Default,,0,0,0,,tra l'altro comprando cose che non ci servono {\1c&HFF00&\u1}davvero{\r} e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:55.09,0:00:55.33,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:55.33,0:00:55.37,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero {\1c&HFF00&\u1}e{\r} infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:55.37,0:00:55.41,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:55.41,0:00:55.83,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e {\1c&HFF00&\u1}infine{\r} lato negativo numero 3 i singoli
+Dialogue: 0,0:00:55.83,0:00:55.97,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:55.97,0:00:56.17,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine {\1c&HFF00&\u1}lato{\r} negativo numero 3 i singoli
+Dialogue: 0,0:00:56.17,0:00:56.21,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:56.21,0:00:56.55,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato {\1c&HFF00&\u1}negativo{\r} numero 3 i singoli
+Dialogue: 0,0:00:56.55,0:00:56.57,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:56.57,0:00:57.05,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo {\1c&HFF00&\u1}numero 3{\r} i singoli
+Dialogue: 0,0:00:57.05,0:00:57.25,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:57.25,0:00:57.29,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 {\1c&HFF00&\u1}i{\r} singoli
+Dialogue: 0,0:00:57.29,0:00:57.45,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i singoli
+Dialogue: 0,0:00:57.45,0:00:57.77,Default,,0,0,0,,tra l'altro comprando cose che non ci servono davvero e infine lato negativo numero 3 i {\1c&HFF00&\u1}singoli{\r}
+Dialogue: 0,0:00:57.80,0:00:58.36,Default,,0,0,0,,{\1c&HFF00&\u1}acquisti{\r} sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:58.36,0:00:58.38,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:58.38,0:00:58.84,Default,,0,0,0,,acquisti {\1c&HFF00&\u1}sono{\r} meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:58.84,0:00:58.86,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:58.86,0:00:59.02,Default,,0,0,0,,acquisti sono {\1c&HFF00&\u1}meno{\r} ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:59.02,0:00:59.06,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:59.06,0:00:59.91,Default,,0,0,0,,acquisti sono meno {\1c&HFF00&\u1}ragionati{\r} influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:59.91,0:00:59.93,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:00:59.93,0:01:0.49,Default,,0,0,0,,acquisti sono meno ragionati {\1c&HFF00&\u1}influenzati{\r} dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:0.49,0:01:0.55,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:0.55,0:01:0.79,Default,,0,0,0,,acquisti sono meno ragionati influenzati {\1c&HFF00&\u1}dallo{\r} sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:0.79,0:01:0.83,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:0.83,0:01:1.31,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo {\1c&HFF00&\u1}sconto{\r} e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:1.31,0:01:1.35,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:1.35,0:01:1.37,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto {\1c&HFF00&\u1}e{\r} dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:1.37,0:01:1.41,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:1.41,0:01:1.53,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e {\1c&HFF00&\u1}dai{\r} prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:1.53,0:01:1.59,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:1.59,0:01:1.87,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai {\1c&HFF00&\u1}prezzi{\r} bassi non perderemo troppo
+Dialogue: 0,0:01:1.87,0:01:1.93,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:1.93,0:01:2.37,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi {\1c&HFF00&\u1}bassi{\r} non perderemo troppo
+Dialogue: 0,0:01:2.37,0:01:2.71,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:2.71,0:01:2.81,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi {\1c&HFF00&\u1}non{\r} perderemo troppo
+Dialogue: 0,0:01:2.81,0:01:2.87,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:2.87,0:01:3.33,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non {\1c&HFF00&\u1}perderemo{\r} troppo
+Dialogue: 0,0:01:3.33,0:01:3.39,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo troppo
+Dialogue: 0,0:01:3.39,0:01:3.62,Default,,0,0,0,,acquisti sono meno ragionati influenzati dallo sconto e dai prezzi bassi non perderemo {\1c&HFF00&\u1}troppo{\r}
+Dialogue: 0,0:01:3.80,0:01:3.98,Default,,0,0,0,,{\1c&HFF00&\u1}tempo{\r} a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:3.98,0:01:4.00,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:4.00,0:01:4.02,Default,,0,0,0,,tempo {\1c&HFF00&\u1}a{\r} ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:4.02,0:01:4.06,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:4.06,0:01:4.44,Default,,0,0,0,,tempo a {\1c&HFF00&\u1}ragionare{\r} su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:4.44,0:01:4.52,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:4.52,0:01:4.66,Default,,0,0,0,,tempo a ragionare {\1c&HFF00&\u1}su{\r} effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:4.66,0:01:5.10,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:5.10,0:01:5.63,Default,,0,0,0,,tempo a ragionare su {\1c&HFF00&\u1}effettivamente{\r} questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:5.63,0:01:5.67,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:5.67,0:01:5.87,Default,,0,0,0,,tempo a ragionare su effettivamente {\1c&HFF00&\u1}questa{\r} cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:5.87,0:01:5.91,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:5.91,0:01:6.09,Default,,0,0,0,,tempo a ragionare su effettivamente questa {\1c&HFF00&\u1}cosa{\r} mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:6.09,0:01:6.15,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:6.15,0:01:6.21,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa {\1c&HFF00&\u1}mi{\r} serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:6.21,0:01:6.27,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:6.27,0:01:6.51,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi {\1c&HFF00&\u1}serve{\r} davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:6.51,0:01:6.55,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:6.55,0:01:7.01,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve {\1c&HFF00&\u1}davvero{\r} vale il prezzo che sto pagando e
+Dialogue: 0,0:01:7.01,0:01:7.27,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:7.27,0:01:7.55,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero {\1c&HFF00&\u1}vale{\r} il prezzo che sto pagando e
+Dialogue: 0,0:01:7.55,0:01:7.59,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:7.59,0:01:7.65,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale {\1c&HFF00&\u1}il{\r} prezzo che sto pagando e
+Dialogue: 0,0:01:7.65,0:01:7.69,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:7.69,0:01:7.95,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il {\1c&HFF00&\u1}prezzo{\r} che sto pagando e
+Dialogue: 0,0:01:7.95,0:01:7.97,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:7.97,0:01:8.11,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo {\1c&HFF00&\u1}che{\r} sto pagando e
+Dialogue: 0,0:01:8.11,0:01:8.13,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:8.13,0:01:8.23,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che {\1c&HFF00&\u1}sto{\r} pagando e
+Dialogue: 0,0:01:8.23,0:01:8.29,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:8.29,0:01:8.83,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto {\1c&HFF00&\u1}pagando{\r} e
+Dialogue: 0,0:01:8.83,0:01:9.28,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando e
+Dialogue: 0,0:01:9.28,0:01:9.30,Default,,0,0,0,,tempo a ragionare su effettivamente questa cosa mi serve davvero vale il prezzo che sto pagando {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:01:9.42,0:01:9.50,Default,,0,0,0,,{\1c&HFF00&\u1}lo{\r} prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:9.50,0:01:9.54,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:9.54,0:01:9.94,Default,,0,0,0,,lo {\1c&HFF00&\u1}prenderemo{\r} più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:9.94,0:01:10.00,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.00,0:01:10.10,Default,,0,0,0,,lo prenderemo {\1c&HFF00&\u1}più{\r} a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.10,0:01:10.14,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.14,0:01:10.18,Default,,0,0,0,,lo prenderemo più {\1c&HFF00&\u1}a{\r} cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.18,0:01:10.22,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.22,0:01:10.36,Default,,0,0,0,,lo prenderemo più a {\1c&HFF00&\u1}cuor{\r} leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.36,0:01:10.40,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.40,0:01:10.86,Default,,0,0,0,,lo prenderemo più a cuor {\1c&HFF00&\u1}leggero{\r} e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:10.86,0:01:11.13,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:11.13,0:01:11.17,Default,,0,0,0,,lo prenderemo più a cuor leggero {\1c&HFF00&\u1}e{\r} magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:11.17,0:01:11.21,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:11.21,0:01:11.51,Default,,0,0,0,,lo prenderemo più a cuor leggero e {\1c&HFF00&\u1}magari{\r} quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:11.51,0:01:11.59,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:11.59,0:01:11.85,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari {\1c&HFF00&\u1}quello{\r} stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:11.85,0:01:11.91,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:11.91,0:01:12.15,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello {\1c&HFF00&\u1}stesso{\r} articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:12.15,0:01:12.19,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:12.19,0:01:12.59,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso {\1c&HFF00&\u1}articolo{\r} si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:12.59,0:01:12.65,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:12.65,0:01:12.73,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo {\1c&HFF00&\u1}si{\r} rivelerà poi un qualcosa che
+Dialogue: 0,0:01:12.73,0:01:12.79,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:12.79,0:01:13.17,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si {\1c&HFF00&\u1}rivelerà{\r} poi un qualcosa che
+Dialogue: 0,0:01:13.17,0:01:13.23,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:13.23,0:01:13.47,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà {\1c&HFF00&\u1}poi{\r} un qualcosa che
+Dialogue: 0,0:01:13.47,0:01:14.11,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:14.11,0:01:14.15,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi {\1c&HFF00&\u1}un{\r} qualcosa che
+Dialogue: 0,0:01:14.15,0:01:14.19,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:14.19,0:01:14.51,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un {\1c&HFF00&\u1}qualcosa{\r} che
+Dialogue: 0,0:01:14.51,0:01:14.53,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa che
+Dialogue: 0,0:01:14.53,0:01:14.59,Default,,0,0,0,,lo prenderemo più a cuor leggero e magari quello stesso articolo si rivelerà poi un qualcosa {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:01:14.56,0:01:14.94,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:14.94,0:01:14.96,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:14.96,0:01:15.32,Default,,0,0,0,,non {\1c&HFF00&\u1}metteremo{\r} mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:15.32,0:01:15.36,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:15.36,0:01:15.88,Default,,0,0,0,,non metteremo {\1c&HFF00&\u1}mai{\r} è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:15.88,0:01:15.90,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:15.90,0:01:15.92,Default,,0,0,0,,non metteremo mai {\1c&HFF00&\u1}è{\r} un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:15.92,0:01:15.94,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:15.94,0:01:16.04,Default,,0,0,0,,non metteremo mai è {\1c&HFF00&\u1}un{\r} errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:16.04,0:01:16.10,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:16.10,0:01:16.53,Default,,0,0,0,,non metteremo mai è un {\1c&HFF00&\u1}errore{\r} a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:16.53,0:01:16.75,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:16.75,0:01:16.77,Default,,0,0,0,,non metteremo mai è un errore {\1c&HFF00&\u1}a{\r} posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:16.77,0:01:16.81,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:16.81,0:01:17.41,Default,,0,0,0,,non metteremo mai è un errore a {\1c&HFF00&\u1}posteriori{\r} io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:17.41,0:01:17.65,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:17.65,0:01:17.83,Default,,0,0,0,,non metteremo mai è un errore a posteriori {\1c&HFF00&\u1}io{\r} tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:17.83,0:01:18.01,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:18.01,0:01:18.31,Default,,0,0,0,,non metteremo mai è un errore a posteriori io {\1c&HFF00&\u1}tendo{\r} ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:18.31,0:01:18.35,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:18.35,0:01:18.43,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo {\1c&HFF00&\u1}ad{\r} evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:18.43,0:01:18.47,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:18.47,0:01:18.91,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad {\1c&HFF00&\u1}evitare{\r} il periodo dei saldi infatti
+Dialogue: 0,0:01:18.91,0:01:19.15,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:19.15,0:01:19.21,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare {\1c&HFF00&\u1}il{\r} periodo dei saldi infatti
+Dialogue: 0,0:01:19.21,0:01:19.25,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:19.25,0:01:19.53,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il {\1c&HFF00&\u1}periodo{\r} dei saldi infatti
+Dialogue: 0,0:01:19.53,0:01:19.59,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:19.59,0:01:19.71,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo {\1c&HFF00&\u1}dei{\r} saldi infatti
+Dialogue: 0,0:01:19.71,0:01:19.77,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:19.77,0:01:20.05,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei {\1c&HFF00&\u1}saldi{\r} infatti
+Dialogue: 0,0:01:20.05,0:01:20.09,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi infatti
+Dialogue: 0,0:01:20.09,0:01:20.37,Default,,0,0,0,,non metteremo mai è un errore a posteriori io tendo ad evitare il periodo dei saldi {\1c&HFF00&\u1}infatti{\r}
+Dialogue: 0,0:01:20.58,0:01:20.96,Default,,0,0,0,,{\1c&HFF00&\u1}comprando{\r} a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:20.96,0:01:20.98,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:20.98,0:01:21.00,Default,,0,0,0,,comprando {\1c&HFF00&\u1}a{\r} prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.00,0:01:21.06,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.06,0:01:21.32,Default,,0,0,0,,comprando a {\1c&HFF00&\u1}prezzo{\r} pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.32,0:01:21.38,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.38,0:01:21.68,Default,,0,0,0,,comprando a prezzo {\1c&HFF00&\u1}pieno{\r} mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.68,0:01:21.78,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.78,0:01:21.86,Default,,0,0,0,,comprando a prezzo pieno {\1c&HFF00&\u1}mi{\r} soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.86,0:01:21.94,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:21.94,0:01:22.41,Default,,0,0,0,,comprando a prezzo pieno mi {\1c&HFF00&\u1}soffermo{\r} molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:22.41,0:01:22.75,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:22.75,0:01:23.01,Default,,0,0,0,,comprando a prezzo pieno mi soffermo {\1c&HFF00&\u1}molto{\r} di più sul singolo prodotto e mi
+Dialogue: 0,0:01:23.01,0:01:23.05,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:23.05,0:01:23.11,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto {\1c&HFF00&\u1}di{\r} più sul singolo prodotto e mi
+Dialogue: 0,0:01:23.11,0:01:23.17,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:23.17,0:01:23.31,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di {\1c&HFF00&\u1}più{\r} sul singolo prodotto e mi
+Dialogue: 0,0:01:23.31,0:01:23.37,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:23.37,0:01:23.53,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più {\1c&HFF00&\u1}sul{\r} singolo prodotto e mi
+Dialogue: 0,0:01:23.53,0:01:23.57,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:23.57,0:01:23.87,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul {\1c&HFF00&\u1}singolo{\r} prodotto e mi
+Dialogue: 0,0:01:23.87,0:01:23.91,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:23.91,0:01:24.39,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo {\1c&HFF00&\u1}prodotto{\r} e mi
+Dialogue: 0,0:01:24.39,0:01:24.73,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:24.73,0:01:24.77,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto {\1c&HFF00&\u1}e{\r} mi
+Dialogue: 0,0:01:24.77,0:01:24.93,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e mi
+Dialogue: 0,0:01:24.93,0:01:24.99,Default,,0,0,0,,comprando a prezzo pieno mi soffermo molto di più sul singolo prodotto e {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:01:25.24,0:01:25.44,Default,,0,0,0,,{\1c&HFF00&\u1}chiedo{\r} se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:25.44,0:01:25.50,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:25.50,0:01:25.58,Default,,0,0,0,,chiedo {\1c&HFF00&\u1}se{\r} effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:25.58,0:01:25.60,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:25.60,0:01:26.14,Default,,0,0,0,,chiedo se {\1c&HFF00&\u1}effettivamente{\r} valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.14,0:01:26.18,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.18,0:01:26.38,Default,,0,0,0,,chiedo se effettivamente {\1c&HFF00&\u1}valga{\r} la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.38,0:01:26.47,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.47,0:01:26.51,Default,,0,0,0,,chiedo se effettivamente valga {\1c&HFF00&\u1}la{\r} pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.51,0:01:26.55,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.55,0:01:26.71,Default,,0,0,0,,chiedo se effettivamente valga la {\1c&HFF00&\u1}pena{\r} acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.71,0:01:26.73,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:26.73,0:01:27.43,Default,,0,0,0,,chiedo se effettivamente valga la pena {\1c&HFF00&\u1}acquistarlo{\r} o meno il risultato è che
+Dialogue: 0,0:01:27.43,0:01:27.45,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:27.45,0:01:27.47,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo {\1c&HFF00&\u1}o{\r} meno il risultato è che
+Dialogue: 0,0:01:27.47,0:01:27.69,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:27.69,0:01:27.99,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o {\1c&HFF00&\u1}meno{\r} il risultato è che
+Dialogue: 0,0:01:27.99,0:01:28.33,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:28.33,0:01:28.39,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno {\1c&HFF00&\u1}il{\r} risultato è che
+Dialogue: 0,0:01:28.39,0:01:28.43,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:28.43,0:01:28.79,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il {\1c&HFF00&\u1}risultato{\r} è che
+Dialogue: 0,0:01:28.79,0:01:28.85,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:28.85,0:01:28.87,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato {\1c&HFF00&\u1}è{\r} che
+Dialogue: 0,0:01:28.87,0:01:28.91,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è che
+Dialogue: 0,0:01:28.91,0:01:28.99,Default,,0,0,0,,chiedo se effettivamente valga la pena acquistarlo o meno il risultato è {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:01:28.96,0:01:29.08,Default,,0,0,0,,{\1c&HFF00&\u1}compro{\r} molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.08,0:01:29.10,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.10,0:01:29.20,Default,,0,0,0,,compro {\1c&HFF00&\u1}molte{\r} meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.20,0:01:29.22,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.22,0:01:29.30,Default,,0,0,0,,compro molte {\1c&HFF00&\u1}meno{\r} cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.30,0:01:29.32,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.32,0:01:29.40,Default,,0,0,0,,compro molte meno {\1c&HFF00&\u1}cose{\r} ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.40,0:01:29.42,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.42,0:01:29.46,Default,,0,0,0,,compro molte meno cose {\1c&HFF00&\u1}ma{\r} decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.46,0:01:29.48,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.48,0:01:29.70,Default,,0,0,0,,compro molte meno cose ma {\1c&HFF00&\u1}decisamente{\r} più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.70,0:01:29.72,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.72,0:01:29.78,Default,,0,0,0,,compro molte meno cose ma decisamente {\1c&HFF00&\u1}più{\r} ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.78,0:01:29.80,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:29.80,0:01:30.02,Default,,0,0,0,,compro molte meno cose ma decisamente più {\1c&HFF00&\u1}ragionate{\r} e alla fine se ripenso
+Dialogue: 0,0:01:30.02,0:01:30.04,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:30.04,0:01:30.06,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate {\1c&HFF00&\u1}e{\r} alla fine se ripenso
+Dialogue: 0,0:01:30.06,0:01:30.08,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:30.08,0:01:30.16,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e {\1c&HFF00&\u1}alla{\r} fine se ripenso
+Dialogue: 0,0:01:30.16,0:01:30.18,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:30.18,0:01:30.28,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla {\1c&HFF00&\u1}fine{\r} se ripenso
+Dialogue: 0,0:01:30.28,0:01:30.30,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:30.30,0:01:30.34,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine {\1c&HFF00&\u1}se{\r} ripenso
+Dialogue: 0,0:01:30.34,0:01:30.36,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se ripenso
+Dialogue: 0,0:01:30.36,0:01:30.60,Default,,0,0,0,,compro molte meno cose ma decisamente più ragionate e alla fine se {\1c&HFF00&\u1}ripenso{\r}
+Dialogue: 0,0:01:34.16,0:01:34.22,Default,,0,0,0,,{\1c&HFF00&\u1}più{\r} o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.22,0:01:34.24,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.24,0:01:34.26,Default,,0,0,0,,più {\1c&HFF00&\u1}o{\r} meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.26,0:01:34.30,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.30,0:01:34.44,Default,,0,0,0,,più o {\1c&HFF00&\u1}meno{\r} a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.44,0:01:34.50,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.50,0:01:34.54,Default,,0,0,0,,più o meno {\1c&HFF00&\u1}a{\r} quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.54,0:01:34.60,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.60,0:01:34.88,Default,,0,0,0,,più o meno a {\1c&HFF00&\u1}quanto{\r} spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.88,0:01:34.96,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:34.96,0:01:35.58,Default,,0,0,0,,più o meno a quanto {\1c&HFF00&\u1}spendevo{\r} quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:35.58,0:01:35.69,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:35.69,0:01:35.99,Default,,0,0,0,,più o meno a quanto spendevo {\1c&HFF00&\u1}quando{\r} come gran parte delle persone compravo nel
+Dialogue: 0,0:01:35.99,0:01:36.29,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:36.29,0:01:36.51,Default,,0,0,0,,più o meno a quanto spendevo quando {\1c&HFF00&\u1}come{\r} gran parte delle persone compravo nel
+Dialogue: 0,0:01:36.51,0:01:36.89,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:36.89,0:01:37.03,Default,,0,0,0,,più o meno a quanto spendevo quando come {\1c&HFF00&\u1}gran{\r} parte delle persone compravo nel
+Dialogue: 0,0:01:37.03,0:01:37.05,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:37.05,0:01:37.25,Default,,0,0,0,,più o meno a quanto spendevo quando come gran {\1c&HFF00&\u1}parte{\r} delle persone compravo nel
+Dialogue: 0,0:01:37.25,0:01:37.27,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:37.27,0:01:37.41,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte {\1c&HFF00&\u1}delle{\r} persone compravo nel
+Dialogue: 0,0:01:37.41,0:01:37.45,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:37.45,0:01:37.83,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle {\1c&HFF00&\u1}persone{\r} compravo nel
+Dialogue: 0,0:01:37.83,0:01:38.17,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:38.17,0:01:38.63,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone {\1c&HFF00&\u1}compravo{\r} nel
+Dialogue: 0,0:01:38.63,0:01:38.65,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo nel
+Dialogue: 0,0:01:38.65,0:01:38.75,Default,,0,0,0,,più o meno a quanto spendevo quando come gran parte delle persone compravo {\1c&HFF00&\u1}nel{\r}
+Dialogue: 0,0:01:38.68,0:01:38.88,Default,,0,0,0,,{\1c&HFF00&\u1}periodo{\r} dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:38.88,0:01:38.92,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:38.92,0:01:39.18,Default,,0,0,0,,periodo {\1c&HFF00&\u1}dei{\r} saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:39.18,0:01:39.62,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:39.62,0:01:39.88,Default,,0,0,0,,periodo dei {\1c&HFF00&\u1}saldi{\r} credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:39.88,0:01:39.90,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:39.90,0:01:40.08,Default,,0,0,0,,periodo dei saldi {\1c&HFF00&\u1}credo{\r} di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:40.08,0:01:40.12,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:40.12,0:01:40.17,Default,,0,0,0,,periodo dei saldi credo {\1c&HFF00&\u1}di{\r} spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:40.17,0:01:40.27,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:40.27,0:01:40.57,Default,,0,0,0,,periodo dei saldi credo di {\1c&HFF00&\u1}spendere{\r} molto meno se non addirittura la metà
+Dialogue: 0,0:01:40.57,0:01:40.93,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:40.93,0:01:41.17,Default,,0,0,0,,periodo dei saldi credo di spendere {\1c&HFF00&\u1}molto{\r} meno se non addirittura la metà
+Dialogue: 0,0:01:41.17,0:01:41.23,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:41.23,0:01:41.43,Default,,0,0,0,,periodo dei saldi credo di spendere molto {\1c&HFF00&\u1}meno{\r} se non addirittura la metà
+Dialogue: 0,0:01:41.43,0:01:41.47,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:41.47,0:01:41.55,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno {\1c&HFF00&\u1}se{\r} non addirittura la metà
+Dialogue: 0,0:01:41.55,0:01:41.59,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:41.59,0:01:41.69,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se {\1c&HFF00&\u1}non{\r} addirittura la metà
+Dialogue: 0,0:01:41.69,0:01:41.73,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:41.73,0:01:42.15,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non {\1c&HFF00&\u1}addirittura{\r} la metà
+Dialogue: 0,0:01:42.15,0:01:42.23,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:42.23,0:01:42.29,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura {\1c&HFF00&\u1}la{\r} metà
+Dialogue: 0,0:01:42.29,0:01:42.31,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la metà
+Dialogue: 0,0:01:42.31,0:01:42.51,Default,,0,0,0,,periodo dei saldi credo di spendere molto meno se non addirittura la {\1c&HFF00&\u1}metà{\r}
+Dialogue: 0,0:01:42.88,0:01:43.08,Default,,0,0,0,,{\1c&HFF00&\u1}questo{\r} vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.08,0:01:43.12,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.12,0:01:43.30,Default,,0,0,0,,questo {\1c&HFF00&\u1}vale{\r} per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.30,0:01:43.34,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.34,0:01:43.46,Default,,0,0,0,,questo vale {\1c&HFF00&\u1}per{\r} lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.46,0:01:43.52,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.52,0:01:43.58,Default,,0,0,0,,questo vale per {\1c&HFF00&\u1}lo{\r} shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.58,0:01:43.62,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:43.62,0:01:44.05,Default,,0,0,0,,questo vale per lo {\1c&HFF00&\u1}shopping{\r} ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:44.05,0:01:44.09,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:44.09,0:01:44.61,Default,,0,0,0,,questo vale per lo shopping {\1c&HFF00&\u1}ordinario{\r} se poi avete puntata una singola cosa
+Dialogue: 0,0:01:44.61,0:01:44.69,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:44.69,0:01:44.77,Default,,0,0,0,,questo vale per lo shopping ordinario {\1c&HFF00&\u1}se{\r} poi avete puntata una singola cosa
+Dialogue: 0,0:01:44.77,0:01:44.81,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:44.81,0:01:44.93,Default,,0,0,0,,questo vale per lo shopping ordinario se {\1c&HFF00&\u1}poi{\r} avete puntata una singola cosa
+Dialogue: 0,0:01:44.93,0:01:44.97,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:44.97,0:01:45.17,Default,,0,0,0,,questo vale per lo shopping ordinario se poi {\1c&HFF00&\u1}avete{\r} puntata una singola cosa
+Dialogue: 0,0:01:45.17,0:01:45.23,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:45.23,0:01:45.61,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete {\1c&HFF00&\u1}puntata{\r} una singola cosa
+Dialogue: 0,0:01:45.61,0:01:45.67,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:45.67,0:01:45.77,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata {\1c&HFF00&\u1}una{\r} singola cosa
+Dialogue: 0,0:01:45.77,0:01:45.89,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:45.89,0:01:46.25,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una {\1c&HFF00&\u1}singola{\r} cosa
+Dialogue: 0,0:01:46.25,0:01:46.31,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola cosa
+Dialogue: 0,0:01:46.31,0:01:46.63,Default,,0,0,0,,questo vale per lo shopping ordinario se poi avete puntata una singola {\1c&HFF00&\u1}cosa{\r}
+Dialogue: 0,0:01:46.92,0:01:47.16,Default,,0,0,0,,{\1c&HFF00&\u1}magari{\r} anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:47.16,0:01:47.18,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:47.18,0:01:47.34,Default,,0,0,0,,magari {\1c&HFF00&\u1}anche{\r} costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:47.34,0:01:47.40,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:47.40,0:01:48.10,Default,,0,0,0,,magari anche {\1c&HFF00&\u1}costosetta{\r} come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:48.10,0:01:48.14,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:48.14,0:01:48.33,Default,,0,0,0,,magari anche costosetta {\1c&HFF00&\u1}come{\r} una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:48.33,0:01:48.41,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:48.41,0:01:48.55,Default,,0,0,0,,magari anche costosetta come {\1c&HFF00&\u1}una{\r} giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:48.55,0:01:48.61,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:48.61,0:01:49.03,Default,,0,0,0,,magari anche costosetta come una {\1c&HFF00&\u1}giacca{\r} o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.03,0:01:49.05,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.05,0:01:49.07,Default,,0,0,0,,magari anche costosetta come una giacca {\1c&HFF00&\u1}o{\r} un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.07,0:01:49.11,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.11,0:01:49.17,Default,,0,0,0,,magari anche costosetta come una giacca o {\1c&HFF00&\u1}un{\r} paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.17,0:01:49.21,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.21,0:01:49.39,Default,,0,0,0,,magari anche costosetta come una giacca o un {\1c&HFF00&\u1}paio{\r} di scarpe allora in quel caso
+Dialogue: 0,0:01:49.39,0:01:49.43,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.43,0:01:49.51,Default,,0,0,0,,magari anche costosetta come una giacca o un paio {\1c&HFF00&\u1}di{\r} scarpe allora in quel caso
+Dialogue: 0,0:01:49.51,0:01:49.55,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:49.55,0:01:50.03,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di {\1c&HFF00&\u1}scarpe{\r} allora in quel caso
+Dialogue: 0,0:01:50.03,0:01:50.39,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:50.39,0:01:50.61,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe {\1c&HFF00&\u1}allora{\r} in quel caso
+Dialogue: 0,0:01:50.61,0:01:50.65,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:50.65,0:01:50.71,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora {\1c&HFF00&\u1}in{\r} quel caso
+Dialogue: 0,0:01:50.71,0:01:50.75,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:50.75,0:01:50.91,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in {\1c&HFF00&\u1}quel{\r} caso
+Dialogue: 0,0:01:50.91,0:01:50.95,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel caso
+Dialogue: 0,0:01:50.95,0:01:51.23,Default,,0,0,0,,magari anche costosetta come una giacca o un paio di scarpe allora in quel {\1c&HFF00&\u1}caso{\r}
+Dialogue: 0,0:01:51.68,0:01:51.84,Default,,0,0,0,,{\1c&HFF00&\u1}vale{\r} la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:51.84,0:01:51.90,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:51.90,0:01:51.96,Default,,0,0,0,,vale {\1c&HFF00&\u1}la{\r} pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:51.96,0:01:52.00,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:52.00,0:01:52.16,Default,,0,0,0,,vale la {\1c&HFF00&\u1}pena{\r} effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:52.16,0:01:52.20,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:52.20,0:01:52.70,Default,,0,0,0,,vale la pena {\1c&HFF00&\u1}effettivamente{\r} aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:52.70,0:01:52.74,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:52.74,0:01:53.13,Default,,0,0,0,,vale la pena effettivamente {\1c&HFF00&\u1}aspettare{\r} i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:53.13,0:01:53.15,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:53.15,0:01:53.17,Default,,0,0,0,,vale la pena effettivamente aspettare {\1c&HFF00&\u1}i{\r} saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:53.17,0:01:53.23,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:53.23,0:01:53.57,Default,,0,0,0,,vale la pena effettivamente aspettare i {\1c&HFF00&\u1}saldi{\r} a patto che il pagare meno quella
+Dialogue: 0,0:01:53.57,0:01:53.81,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:53.81,0:01:53.85,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi {\1c&HFF00&\u1}a{\r} patto che il pagare meno quella
+Dialogue: 0,0:01:53.85,0:01:53.89,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:53.89,0:01:54.17,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a {\1c&HFF00&\u1}patto{\r} che il pagare meno quella
+Dialogue: 0,0:01:54.17,0:01:54.25,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:54.25,0:01:54.39,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto {\1c&HFF00&\u1}che{\r} il pagare meno quella
+Dialogue: 0,0:01:54.39,0:01:54.57,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:54.57,0:01:54.67,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che {\1c&HFF00&\u1}il{\r} pagare meno quella
+Dialogue: 0,0:01:54.67,0:01:54.73,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:54.73,0:01:55.07,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il {\1c&HFF00&\u1}pagare{\r} meno quella
+Dialogue: 0,0:01:55.07,0:01:55.13,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:55.13,0:01:55.31,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare {\1c&HFF00&\u1}meno{\r} quella
+Dialogue: 0,0:01:55.31,0:01:55.37,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno quella
+Dialogue: 0,0:01:55.37,0:01:55.59,Default,,0,0,0,,vale la pena effettivamente aspettare i saldi a patto che il pagare meno {\1c&HFF00&\u1}quella{\r}
+Dialogue: 0,0:01:55.86,0:01:55.98,Default,,0,0,0,,{\1c&HFF00&\u1}cosa{\r} non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:55.98,0:01:56.02,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:56.02,0:01:56.12,Default,,0,0,0,,cosa {\1c&HFF00&\u1}non{\r} diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:56.12,0:01:56.16,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:56.16,0:01:56.52,Default,,0,0,0,,cosa non {\1c&HFF00&\u1}diventi{\r} una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:56.52,0:01:56.56,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:56.56,0:01:56.68,Default,,0,0,0,,cosa non diventi {\1c&HFF00&\u1}una{\r} scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:56.68,0:01:56.72,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:56.72,0:01:57.19,Default,,0,0,0,,cosa non diventi una {\1c&HFF00&\u1}scusa{\r} per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.19,0:01:57.25,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.25,0:01:57.37,Default,,0,0,0,,cosa non diventi una scusa {\1c&HFF00&\u1}per{\r} fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.37,0:01:57.41,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.41,0:01:57.59,Default,,0,0,0,,cosa non diventi una scusa per {\1c&HFF00&\u1}fare{\r} altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.59,0:01:57.63,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.63,0:01:57.89,Default,,0,0,0,,cosa non diventi una scusa per fare {\1c&HFF00&\u1}altri{\r} acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.89,0:01:57.93,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:57.93,0:01:58.27,Default,,0,0,0,,cosa non diventi una scusa per fare altri {\1c&HFF00&\u1}acquisti{\r} inutili. Mi raccomando!
+Dialogue: 0,0:01:58.27,0:01:58.29,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:58.29,0:01:58.83,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti {\1c&HFF00&\u1}inutili.{\r} Mi raccomando!
+Dialogue: 0,0:01:58.83,0:01:58.97,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:58.97,0:01:59.01,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. {\1c&HFF00&\u1}Mi{\r} raccomando!
+Dialogue: 0,0:01:59.01,0:01:59.03,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi raccomando!
+Dialogue: 0,0:01:59.03,0:01:59.47,Default,,0,0,0,,cosa non diventi una scusa per fare altri acquisti inutili. Mi {\1c&HFF00&\u1}raccomando!{\r}

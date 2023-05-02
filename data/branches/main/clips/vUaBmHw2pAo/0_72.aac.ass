@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:1.56,0:00:2.15,Default,,0,0,0,,{\1c&HFF00&\u1}necessità{\r} comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:2.15,0:00:2.29,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:2.29,0:00:2.81,Default,,0,0,0,,necessità {\1c&HFF00&\u1}comunque{\r} di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:2.81,0:00:3.11,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:3.11,0:00:3.17,Default,,0,0,0,,necessità comunque {\1c&HFF00&\u1}di{\r} avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:3.17,0:00:3.21,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:3.21,0:00:3.35,Default,,0,0,0,,necessità comunque di {\1c&HFF00&\u1}avere{\r} mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:3.35,0:00:3.41,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:3.41,0:00:3.99,Default,,0,0,0,,necessità comunque di avere {\1c&HFF00&\u1}mezz'ora,{\r} tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:3.99,0:00:4.55,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:4.55,0:00:4.65,Default,,0,0,0,,necessità comunque di avere mezz'ora, {\1c&HFF00&\u1}tre{\r} quarti d'ora, venti minuti
+Dialogue: 0,0:00:4.65,0:00:4.71,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:4.71,0:00:4.97,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre {\1c&HFF00&\u1}quarti{\r} d'ora, venti minuti
+Dialogue: 0,0:00:4.97,0:00:5.03,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:5.03,0:00:5.33,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti {\1c&HFF00&\u1}d'ora,{\r} venti minuti
+Dialogue: 0,0:00:5.33,0:00:5.35,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:5.35,0:00:5.47,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, {\1c&HFF00&\u1}venti{\r} minuti
+Dialogue: 0,0:00:5.47,0:00:5.49,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti minuti
+Dialogue: 0,0:00:5.49,0:00:5.61,Default,,0,0,0,,necessità comunque di avere mezz'ora, tre quarti d'ora, venti {\1c&HFF00&\u1}minuti{\r}

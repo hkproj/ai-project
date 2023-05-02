@@ -1,0 +1,111 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.58,0:00:1.10,Default,,0,0,0,,{\1c&HFF00&\u1}ti{\r} impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:1.10,0:00:1.20,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:1.20,0:00:1.88,Default,,0,0,0,,ti {\1c&HFF00&\u1}impappini,{\r} sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:1.88,0:00:3.25,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:3.25,0:00:3.47,Default,,0,0,0,,ti impappini, {\1c&HFF00&\u1}sudi{\r} freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:3.47,0:00:3.53,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:3.53,0:00:3.85,Default,,0,0,0,,ti impappini, sudi {\1c&HFF00&\u1}freddo,{\r} inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:3.85,0:00:4.15,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:4.15,0:00:4.73,Default,,0,0,0,,ti impappini, sudi freddo, {\1c&HFF00&\u1}inciampi{\r} sui tuoi stessi piedi,
+Dialogue: 0,0:00:4.73,0:00:4.77,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:4.77,0:00:4.89,Default,,0,0,0,,ti impappini, sudi freddo, inciampi {\1c&HFF00&\u1}sui{\r} tuoi stessi piedi,
+Dialogue: 0,0:00:4.89,0:00:4.91,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:4.91,0:00:5.01,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui {\1c&HFF00&\u1}tuoi{\r} stessi piedi,
+Dialogue: 0,0:00:5.01,0:00:5.03,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:5.03,0:00:5.27,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi {\1c&HFF00&\u1}stessi{\r} piedi,
+Dialogue: 0,0:00:5.27,0:00:5.35,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi piedi,
+Dialogue: 0,0:00:5.35,0:00:5.69,Default,,0,0,0,,ti impappini, sudi freddo, inciampi sui tuoi stessi {\1c&HFF00&\u1}piedi,{\r}
+Dialogue: 0,0:00:6.22,0:00:6.38,Default,,0,0,0,,{\1c&HFF00&\u1}invece{\r} di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:6.38,0:00:6.42,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:6.42,0:00:6.46,Default,,0,0,0,,invece {\1c&HFF00&\u1}di{\r} dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:6.46,0:00:6.48,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:6.48,0:00:6.60,Default,,0,0,0,,invece di {\1c&HFF00&\u1}dare{\r} il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:6.60,0:00:6.64,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:6.64,0:00:6.70,Default,,0,0,0,,invece di dare {\1c&HFF00&\u1}il 100%{\r} dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:6.70,0:00:7.32,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:7.32,0:00:7.46,Default,,0,0,0,,invece di dare il 100% {\1c&HFF00&\u1}dai{\r} il 50, il 30, il 20%.
+Dialogue: 0,0:00:7.46,0:00:7.48,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:7.48,0:00:7.52,Default,,0,0,0,,invece di dare il 100% dai {\1c&HFF00&\u1}il 50,{\r} il 30, il 20%.
+Dialogue: 0,0:00:7.52,0:00:7.64,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:7.64,0:00:7.78,Default,,0,0,0,,invece di dare il 100% dai il 50, {\1c&HFF00&\u1}il 30,{\r} il 20%.
+Dialogue: 0,0:00:7.78,0:00:7.82,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, il 20%.
+Dialogue: 0,0:00:7.82,0:00:7.88,Default,,0,0,0,,invece di dare il 100% dai il 50, il 30, {\1c&HFF00&\u1}il 20%.{\r}
+Dialogue: 0,0:00:12.08,0:00:12.12,Default,,0,0,0,,{\1c&HFF00&\u1}La{\r} tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:12.12,0:00:12.22,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:12.22,0:00:12.70,Default,,0,0,0,,La {\1c&HFF00&\u1}tensione{\r} è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:12.70,0:00:12.74,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:12.74,0:00:12.76,Default,,0,0,0,,La tensione {\1c&HFF00&\u1}è{\r} quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:12.76,0:00:12.82,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:12.82,0:00:13.04,Default,,0,0,0,,La tensione è {\1c&HFF00&\u1}quella{\r} cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:13.04,0:00:13.12,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:13.12,0:00:13.62,Default,,0,0,0,,La tensione è quella {\1c&HFF00&\u1}cosa{\r} che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:13.62,0:00:14.12,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:14.12,0:00:14.22,Default,,0,0,0,,La tensione è quella cosa {\1c&HFF00&\u1}che{\r} ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:14.22,0:00:14.26,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:14.26,0:00:14.37,Default,,0,0,0,,La tensione è quella cosa che {\1c&HFF00&\u1}ti{\r} permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:14.37,0:00:14.43,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:14.43,0:00:15.17,Default,,0,0,0,,La tensione è quella cosa che ti {\1c&HFF00&\u1}permette{\r} di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:15.17,0:00:15.21,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:15.21,0:00:15.27,Default,,0,0,0,,La tensione è quella cosa che ti permette {\1c&HFF00&\u1}di{\r} dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:15.27,0:00:15.33,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:15.33,0:00:15.49,Default,,0,0,0,,La tensione è quella cosa che ti permette di {\1c&HFF00&\u1}dare{\r} il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:15.49,0:00:15.55,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:15.55,0:00:16.63,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare {\1c&HFF00&\u1}il 100%,{\r} anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:16.63,0:00:16.67,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:16.67,0:00:16.85,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, {\1c&HFF00&\u1}anzi{\r} il 101, il 105, il 120%,
+Dialogue: 0,0:00:16.85,0:00:16.89,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:16.89,0:00:16.93,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi {\1c&HFF00&\u1}il 101,{\r} il 105, il 120%,
+Dialogue: 0,0:00:16.93,0:00:17.03,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:17.03,0:00:17.33,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, {\1c&HFF00&\u1}il 105,{\r} il 120%,
+Dialogue: 0,0:00:17.33,0:00:17.39,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, il 120%,
+Dialogue: 0,0:00:17.39,0:00:17.43,Default,,0,0,0,,La tensione è quella cosa che ti permette di dare il 100%, anzi il 101, il 105, {\1c&HFF00&\u1}il 120%,{\r}
+Dialogue: 0,0:00:20.20,0:00:20.24,Default,,0,0,0,,{\1c&HFF00&\u1}A{\r} volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:20.24,0:00:20.28,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:20.28,0:00:20.50,Default,,0,0,0,,A {\1c&HFF00&\u1}volte{\r} riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:20.50,0:00:20.56,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:20.56,0:00:21.06,Default,,0,0,0,,A volte {\1c&HFF00&\u1}riesci{\r} a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.06,0:00:21.08,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.08,0:00:21.10,Default,,0,0,0,,A volte riesci {\1c&HFF00&\u1}a{\r} tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.10,0:00:21.18,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.18,0:00:21.54,Default,,0,0,0,,A volte riesci a {\1c&HFF00&\u1}tirare{\r} fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.54,0:00:21.60,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.60,0:00:21.80,Default,,0,0,0,,A volte riesci a tirare {\1c&HFF00&\u1}fuori{\r} da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.80,0:00:21.84,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.84,0:00:21.92,Default,,0,0,0,,A volte riesci a tirare fuori {\1c&HFF00&\u1}da{\r} te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.92,0:00:21.98,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:21.98,0:00:22.10,Default,,0,0,0,,A volte riesci a tirare fuori da {\1c&HFF00&\u1}te{\r} delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:22.10,0:00:22.14,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:22.14,0:00:22.34,Default,,0,0,0,,A volte riesci a tirare fuori da te {\1c&HFF00&\u1}delle{\r} risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:22.34,0:00:22.36,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:22.36,0:00:22.88,Default,,0,0,0,,A volte riesci a tirare fuori da te delle {\1c&HFF00&\u1}risorse{\r} e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:22.88,0:00:23.42,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:23.42,0:00:23.46,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse {\1c&HFF00&\u1}e{\r} delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:23.46,0:00:23.48,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:23.48,0:00:23.62,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e {\1c&HFF00&\u1}delle{\r} capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:23.62,0:00:23.64,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:23.64,0:00:23.98,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle {\1c&HFF00&\u1}capacità{\r} che neanche tu pensavi di avere.
+Dialogue: 0,0:00:23.98,0:00:24.04,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:24.04,0:00:24.15,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità {\1c&HFF00&\u1}che{\r} neanche tu pensavi di avere.
+Dialogue: 0,0:00:24.15,0:00:24.21,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:24.21,0:00:24.53,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che {\1c&HFF00&\u1}neanche{\r} tu pensavi di avere.
+Dialogue: 0,0:00:24.53,0:00:24.59,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:24.59,0:00:24.67,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche {\1c&HFF00&\u1}tu{\r} pensavi di avere.
+Dialogue: 0,0:00:24.67,0:00:24.73,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:24.73,0:00:25.11,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu {\1c&HFF00&\u1}pensavi{\r} di avere.
+Dialogue: 0,0:00:25.11,0:00:25.15,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:25.15,0:00:25.21,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi {\1c&HFF00&\u1}di{\r} avere.
+Dialogue: 0,0:00:25.21,0:00:25.25,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di avere.
+Dialogue: 0,0:00:25.25,0:00:25.53,Default,,0,0,0,,A volte riesci a tirare fuori da te delle risorse e delle capacità che neanche tu pensavi di {\1c&HFF00&\u1}avere.{\r}

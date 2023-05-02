@@ -1,0 +1,113 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.02,0:00:0.14,Default,,0,0,0,,{\1c&HFF00&\u1}L'altra{\r} parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.14,0:00:0.16,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.16,0:00:0.26,Default,,0,0,0,,L'altra {\1c&HFF00&\u1}parte{\r} che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.26,0:00:0.28,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.28,0:00:0.34,Default,,0,0,0,,L'altra parte {\1c&HFF00&\u1}che{\r} è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.34,0:00:0.36,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.36,0:00:0.38,Default,,0,0,0,,L'altra parte che {\1c&HFF00&\u1}è{\r} fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.40,0:00:0.64,Default,,0,0,0,,L'altra parte che è {\1c&HFF00&\u1}fondamentale{\r} per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.64,0:00:0.66,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.66,0:00:0.72,Default,,0,0,0,,L'altra parte che è fondamentale {\1c&HFF00&\u1}per{\r} le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.72,0:00:0.74,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.74,0:00:0.80,Default,,0,0,0,,L'altra parte che è fondamentale per {\1c&HFF00&\u1}le{\r} mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.82,0:00:0.88,Default,,0,0,0,,L'altra parte che è fondamentale per le {\1c&HFF00&\u1}mie{\r} analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:0.90,0:00:1.04,Default,,0,0,0,,L'altra parte che è fondamentale per le mie {\1c&HFF00&\u1}analisi{\r} sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:1.04,0:00:1.06,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:1.06,0:00:1.14,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi {\1c&HFF00&\u1}sono{\r} gli indicatori, ma bisogna
+Dialogue: 0,0:00:1.14,0:00:1.16,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:1.16,0:00:1.22,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono {\1c&HFF00&\u1}gli{\r} indicatori, ma bisogna
+Dialogue: 0,0:00:1.22,0:00:1.24,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:1.24,0:00:1.44,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli {\1c&HFF00&\u1}indicatori,{\r} ma bisogna
+Dialogue: 0,0:00:1.44,0:00:1.46,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:1.46,0:00:1.50,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, {\1c&HFF00&\u1}ma{\r} bisogna
+Dialogue: 0,0:00:1.50,0:00:1.52,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma bisogna
+Dialogue: 0,0:00:1.52,0:00:1.66,Default,,0,0,0,,L'altra parte che è fondamentale per le mie analisi sono gli indicatori, ma {\1c&HFF00&\u1}bisogna{\r}
+Dialogue: 0,0:00:4.80,0:00:5.36,Default,,0,0,0,,{\1c&HFF00&\u1}chiarire{\r} alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:5.36,0:00:5.38,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:5.38,0:00:5.70,Default,,0,0,0,,chiarire {\1c&HFF00&\u1}alcune{\r} cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:5.70,0:00:5.78,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:5.78,0:00:6.41,Default,,0,0,0,,chiarire alcune {\1c&HFF00&\u1}cose{\r} che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.41,0:00:6.43,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.43,0:00:6.53,Default,,0,0,0,,chiarire alcune cose {\1c&HFF00&\u1}che{\r} non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.53,0:00:6.57,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.57,0:00:6.67,Default,,0,0,0,,chiarire alcune cose che {\1c&HFF00&\u1}non{\r} sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.67,0:00:6.71,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.71,0:00:6.87,Default,,0,0,0,,chiarire alcune cose che non {\1c&HFF00&\u1}sono{\r} chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.87,0:00:6.91,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:6.91,0:00:7.13,Default,,0,0,0,,chiarire alcune cose che non sono {\1c&HFF00&\u1}chiare{\r} nemmeno tra i trader certificati.
+Dialogue: 0,0:00:7.13,0:00:7.21,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:7.21,0:00:7.51,Default,,0,0,0,,chiarire alcune cose che non sono chiare {\1c&HFF00&\u1}nemmeno{\r} tra i trader certificati.
+Dialogue: 0,0:00:7.51,0:00:7.57,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:7.57,0:00:7.65,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno {\1c&HFF00&\u1}tra{\r} i trader certificati.
+Dialogue: 0,0:00:7.65,0:00:7.69,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:7.69,0:00:7.73,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra {\1c&HFF00&\u1}i{\r} trader certificati.
+Dialogue: 0,0:00:7.73,0:00:7.77,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:7.77,0:00:8.07,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i {\1c&HFF00&\u1}trader{\r} certificati.
+Dialogue: 0,0:00:8.07,0:00:8.11,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader certificati.
+Dialogue: 0,0:00:8.11,0:00:8.77,Default,,0,0,0,,chiarire alcune cose che non sono chiare nemmeno tra i trader {\1c&HFF00&\u1}certificati.{\r}
+Dialogue: 0,0:00:9.10,0:00:9.14,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.14,0:00:9.16,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.16,0:00:9.32,Default,,0,0,0,,E {\1c&HFF00&\u1}quello{\r} che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.32,0:00:9.36,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.36,0:00:9.46,Default,,0,0,0,,E quello {\1c&HFF00&\u1}che{\r} vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.46,0:00:9.48,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.48,0:00:9.52,Default,,0,0,0,,E quello che {\1c&HFF00&\u1}vi{\r} sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.52,0:00:9.54,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.54,0:00:9.66,Default,,0,0,0,,E quello che vi {\1c&HFF00&\u1}sto{\r} per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.66,0:00:9.72,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.72,0:00:9.84,Default,,0,0,0,,E quello che vi sto {\1c&HFF00&\u1}per{\r} dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.84,0:00:9.88,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:9.88,0:00:10.14,Default,,0,0,0,,E quello che vi sto per {\1c&HFF00&\u1}dire{\r} non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:10.14,0:00:10.69,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:10.69,0:00:10.79,Default,,0,0,0,,E quello che vi sto per dire {\1c&HFF00&\u1}non{\r} è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:10.79,0:00:10.83,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:10.83,0:00:10.87,Default,,0,0,0,,E quello che vi sto per dire non {\1c&HFF00&\u1}è{\r} così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:10.87,0:00:10.95,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:10.95,0:00:11.15,Default,,0,0,0,,E quello che vi sto per dire non è {\1c&HFF00&\u1}così{\r} perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.15,0:00:11.21,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.21,0:00:11.41,Default,,0,0,0,,E quello che vi sto per dire non è così {\1c&HFF00&\u1}perché{\r} lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.41,0:00:11.45,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.45,0:00:11.53,Default,,0,0,0,,E quello che vi sto per dire non è così perché {\1c&HFF00&\u1}lo{\r} sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.53,0:00:11.55,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.55,0:00:11.71,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo {\1c&HFF00&\u1}sto{\r} dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.71,0:00:11.75,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:11.75,0:00:12.09,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto {\1c&HFF00&\u1}dicendo{\r} io, è una cosa logica.
+Dialogue: 0,0:00:12.09,0:00:12.19,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:12.19,0:00:12.33,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo {\1c&HFF00&\u1}io,{\r} è una cosa logica.
+Dialogue: 0,0:00:12.33,0:00:12.95,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:12.95,0:00:12.97,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, {\1c&HFF00&\u1}è{\r} una cosa logica.
+Dialogue: 0,0:00:12.97,0:00:13.01,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:13.01,0:00:13.09,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è {\1c&HFF00&\u1}una{\r} cosa logica.
+Dialogue: 0,0:00:13.09,0:00:13.13,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:13.13,0:00:13.33,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una {\1c&HFF00&\u1}cosa{\r} logica.
+Dialogue: 0,0:00:13.33,0:00:13.41,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa logica.
+Dialogue: 0,0:00:13.41,0:00:13.73,Default,,0,0,0,,E quello che vi sto per dire non è così perché lo sto dicendo io, è una cosa {\1c&HFF00&\u1}logica.{\r}
+Dialogue: 0,0:00:14.06,0:00:14.42,Default,,0,0,0,,{\1c&HFF00&\u1}Possiamo{\r} raggruppare gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:14.42,0:00:14.46,Default,,0,0,0,,Possiamo raggruppare gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:14.46,0:00:14.90,Default,,0,0,0,,Possiamo {\1c&HFF00&\u1}raggruppare{\r} gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:14.90,0:00:14.96,Default,,0,0,0,,Possiamo raggruppare gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:14.96,0:00:15.06,Default,,0,0,0,,Possiamo raggruppare {\1c&HFF00&\u1}gli{\r} indicatori in diversi gruppi.
+Dialogue: 0,0:00:15.06,0:00:15.08,Default,,0,0,0,,Possiamo raggruppare gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:15.08,0:00:15.69,Default,,0,0,0,,Possiamo raggruppare gli {\1c&HFF00&\u1}indicatori{\r} in diversi gruppi.
+Dialogue: 0,0:00:15.69,0:00:15.71,Default,,0,0,0,,Possiamo raggruppare gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:15.71,0:00:15.75,Default,,0,0,0,,Possiamo raggruppare gli indicatori {\1c&HFF00&\u1}in{\r} diversi gruppi.
+Dialogue: 0,0:00:15.75,0:00:15.99,Default,,0,0,0,,Possiamo raggruppare gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:15.99,0:00:16.41,Default,,0,0,0,,Possiamo raggruppare gli indicatori in {\1c&HFF00&\u1}diversi{\r} gruppi.
+Dialogue: 0,0:00:16.41,0:00:16.47,Default,,0,0,0,,Possiamo raggruppare gli indicatori in diversi gruppi.
+Dialogue: 0,0:00:16.47,0:00:16.77,Default,,0,0,0,,Possiamo raggruppare gli indicatori in diversi {\1c&HFF00&\u1}gruppi.{\r}

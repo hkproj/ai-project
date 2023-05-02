@@ -1,0 +1,66 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.26,0:00:0.34,Default,,0,0,0,,{\1c&HFF00&\u1}poi{\r} si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.34,0:00:0.36,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.36,0:00:0.44,Default,,0,0,0,,poi {\1c&HFF00&\u1}si{\r} fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.44,0:00:0.52,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.52,0:00:0.88,Default,,0,0,0,,poi si {\1c&HFF00&\u1}fermano{\r} a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.90,0:00:0.94,Default,,0,0,0,,poi si fermano {\1c&HFF00&\u1}a{\r} prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.94,0:00:0.98,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:0.98,0:00:1.18,Default,,0,0,0,,poi si fermano a {\1c&HFF00&\u1}prendere{\r} da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.18,0:00:1.22,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.22,0:00:1.28,Default,,0,0,0,,poi si fermano a prendere {\1c&HFF00&\u1}da{\r} mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.28,0:00:1.34,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.34,0:00:1.71,Default,,0,0,0,,poi si fermano a prendere da {\1c&HFF00&\u1}mangiare{\r} in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.71,0:00:1.73,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.73,0:00:1.83,Default,,0,0,0,,poi si fermano a prendere da mangiare {\1c&HFF00&\u1}in{\r} autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.83,0:00:1.85,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:1.85,0:00:2.27,Default,,0,0,0,,poi si fermano a prendere da mangiare in {\1c&HFF00&\u1}autogrill,{\r} poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:2.27,0:00:2.29,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:2.29,0:00:2.39,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, {\1c&HFF00&\u1}poi{\r} ripartono dai che facciamo tardi
+Dialogue: 0,0:00:2.39,0:00:2.45,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:2.45,0:00:3.01,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi {\1c&HFF00&\u1}ripartono{\r} dai che facciamo tardi
+Dialogue: 0,0:00:3.01,0:00:3.03,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:3.03,0:00:3.09,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono {\1c&HFF00&\u1}dai{\r} che facciamo tardi
+Dialogue: 0,0:00:3.09,0:00:3.11,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:3.11,0:00:3.21,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai {\1c&HFF00&\u1}che{\r} facciamo tardi
+Dialogue: 0,0:00:3.21,0:00:3.23,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:3.23,0:00:3.47,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che {\1c&HFF00&\u1}facciamo{\r} tardi
+Dialogue: 0,0:00:3.47,0:00:3.55,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo tardi
+Dialogue: 0,0:00:3.55,0:00:3.89,Default,,0,0,0,,poi si fermano a prendere da mangiare in autogrill, poi ripartono dai che facciamo {\1c&HFF00&\u1}tardi{\r}
+Dialogue: 0,0:00:4.42,0:00:4.94,Default,,0,0,0,,{\1c&HFF00&\u1}ecco{\r} finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:4.94,0:00:4.98,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:4.98,0:00:5.26,Default,,0,0,0,,ecco {\1c&HFF00&\u1}finalmente{\r} siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:5.26,0:00:5.32,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:5.32,0:00:5.44,Default,,0,0,0,,ecco finalmente {\1c&HFF00&\u1}siamo{\r} in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:5.44,0:00:5.46,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:5.46,0:00:5.50,Default,,0,0,0,,ecco finalmente siamo {\1c&HFF00&\u1}in{\r} camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:5.50,0:00:5.54,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:5.54,0:00:6.01,Default,,0,0,0,,ecco finalmente siamo in {\1c&HFF00&\u1}camerino,{\r} accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:6.01,0:00:7.23,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:7.23,0:00:7.57,Default,,0,0,0,,ecco finalmente siamo in camerino, {\1c&HFF00&\u1}accordiamo{\r} gli strumenti eccetera
+Dialogue: 0,0:00:7.57,0:00:7.59,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:7.59,0:00:7.65,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo {\1c&HFF00&\u1}gli{\r} strumenti eccetera
+Dialogue: 0,0:00:7.65,0:00:7.69,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:7.69,0:00:8.07,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli {\1c&HFF00&\u1}strumenti{\r} eccetera
+Dialogue: 0,0:00:8.07,0:00:8.11,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti eccetera
+Dialogue: 0,0:00:8.11,0:00:8.45,Default,,0,0,0,,ecco finalmente siamo in camerino, accordiamo gli strumenti {\1c&HFF00&\u1}eccetera{\r}
+Dialogue: 0,0:00:9.17,0:00:9.37,Default,,0,0,0,,{\1c&HFF00&\u1}finchè{\r} arriva il momento...
+Dialogue: 0,0:00:9.37,0:00:9.41,Default,,0,0,0,,finchè arriva il momento...
+Dialogue: 0,0:00:9.41,0:00:9.61,Default,,0,0,0,,finchè {\1c&HFF00&\u1}arriva{\r} il momento...
+Dialogue: 0,0:00:9.61,0:00:9.67,Default,,0,0,0,,finchè arriva il momento...
+Dialogue: 0,0:00:9.67,0:00:9.73,Default,,0,0,0,,finchè arriva {\1c&HFF00&\u1}il{\r} momento...
+Dialogue: 0,0:00:9.73,0:00:9.77,Default,,0,0,0,,finchè arriva il momento...
+Dialogue: 0,0:00:9.77,0:00:10.12,Default,,0,0,0,,finchè arriva il {\1c&HFF00&\u1}momento...{\r}

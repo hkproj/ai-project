@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.30,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:0.30,0:00:0.38,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:0.38,0:00:0.46,Default,,0,0,0,,è {\1c&HFF00&\u1}il{\r} motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:0.46,0:00:0.50,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:0.50,0:00:0.84,Default,,0,0,0,,è il {\1c&HFF00&\u1}motivo.{\r} Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:0.84,0:00:0.96,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:0.96,0:00:1.14,Default,,0,0,0,,è il motivo. {\1c&HFF00&\u1}Prima{\r} di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.14,0:00:1.18,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.18,0:00:1.22,Default,,0,0,0,,è il motivo. Prima {\1c&HFF00&\u1}di{\r} cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.22,0:00:1.26,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.26,0:00:1.67,Default,,0,0,0,,è il motivo. Prima di {\1c&HFF00&\u1}cominciare{\r} come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.67,0:00:1.71,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.71,0:00:1.87,Default,,0,0,0,,è il motivo. Prima di cominciare {\1c&HFF00&\u1}come{\r} sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.87,0:00:1.95,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:1.95,0:00:2.23,Default,,0,0,0,,è il motivo. Prima di cominciare come {\1c&HFF00&\u1}sempre{\r} voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:2.23,0:00:2.27,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:2.27,0:00:2.45,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre {\1c&HFF00&\u1}voglio{\r} ricordarvi di iscrivervi
+Dialogue: 0,0:00:2.45,0:00:2.51,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:2.51,0:00:2.97,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio {\1c&HFF00&\u1}ricordarvi{\r} di iscrivervi
+Dialogue: 0,0:00:2.97,0:00:3.03,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:3.03,0:00:3.09,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi {\1c&HFF00&\u1}di{\r} iscrivervi
+Dialogue: 0,0:00:3.09,0:00:3.11,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di iscrivervi
+Dialogue: 0,0:00:3.11,0:00:3.55,Default,,0,0,0,,è il motivo. Prima di cominciare come sempre voglio ricordarvi di {\1c&HFF00&\u1}iscrivervi{\r}
+Dialogue: 0,0:00:3.56,0:00:3.94,Default,,0,0,0,,{\1c&HFF00&\u1}al{\r} canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:3.94,0:00:4.06,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.06,0:00:4.24,Default,,0,0,0,,al {\1c&HFF00&\u1}canale,{\r} di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.24,0:00:4.26,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.26,0:00:4.34,Default,,0,0,0,,al canale, {\1c&HFF00&\u1}di{\r} mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.34,0:00:4.38,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.38,0:00:4.64,Default,,0,0,0,,al canale, di {\1c&HFF00&\u1}mettere{\r} mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.64,0:00:4.68,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.68,0:00:4.76,Default,,0,0,0,,al canale, di mettere {\1c&HFF00&\u1}mi{\r} piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.76,0:00:4.80,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:4.80,0:00:5.11,Default,,0,0,0,,al canale, di mettere mi {\1c&HFF00&\u1}piace{\r} e di commentare perché è importantissimo per
+Dialogue: 0,0:00:5.11,0:00:5.51,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:5.51,0:00:5.55,Default,,0,0,0,,al canale, di mettere mi piace {\1c&HFF00&\u1}e{\r} di commentare perché è importantissimo per
+Dialogue: 0,0:00:5.55,0:00:5.57,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:5.57,0:00:5.63,Default,,0,0,0,,al canale, di mettere mi piace e {\1c&HFF00&\u1}di{\r} commentare perché è importantissimo per
+Dialogue: 0,0:00:5.63,0:00:5.69,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:5.69,0:00:6.17,Default,,0,0,0,,al canale, di mettere mi piace e di {\1c&HFF00&\u1}commentare{\r} perché è importantissimo per
+Dialogue: 0,0:00:6.17,0:00:6.21,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:6.21,0:00:6.43,Default,,0,0,0,,al canale, di mettere mi piace e di commentare {\1c&HFF00&\u1}perché{\r} è importantissimo per
+Dialogue: 0,0:00:6.43,0:00:6.45,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:6.45,0:00:6.47,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché {\1c&HFF00&\u1}è{\r} importantissimo per
+Dialogue: 0,0:00:6.47,0:00:6.51,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:6.51,0:00:7.27,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è {\1c&HFF00&\u1}importantissimo{\r} per
+Dialogue: 0,0:00:7.27,0:00:7.31,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo per
+Dialogue: 0,0:00:7.31,0:00:7.39,Default,,0,0,0,,al canale, di mettere mi piace e di commentare perché è importantissimo {\1c&HFF00&\u1}per{\r}
+Dialogue: 0,0:00:7.54,0:00:7.82,Default,,0,0,0,,{\1c&HFF00&\u1}youtube{\r} per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:7.82,0:00:7.86,Default,,0,0,0,,youtube per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:7.86,0:00:7.96,Default,,0,0,0,,youtube {\1c&HFF00&\u1}per{\r} sapere che siamo una comunità attiva
+Dialogue: 0,0:00:7.96,0:00:7.98,Default,,0,0,0,,youtube per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:7.98,0:00:8.21,Default,,0,0,0,,youtube per {\1c&HFF00&\u1}sapere{\r} che siamo una comunità attiva
+Dialogue: 0,0:00:8.21,0:00:8.25,Default,,0,0,0,,youtube per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:8.25,0:00:8.33,Default,,0,0,0,,youtube per sapere {\1c&HFF00&\u1}che{\r} siamo una comunità attiva
+Dialogue: 0,0:00:8.33,0:00:8.43,Default,,0,0,0,,youtube per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:8.43,0:00:8.67,Default,,0,0,0,,youtube per sapere che {\1c&HFF00&\u1}siamo{\r} una comunità attiva
+Dialogue: 0,0:00:8.67,0:00:8.91,Default,,0,0,0,,youtube per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:8.91,0:00:9.01,Default,,0,0,0,,youtube per sapere che siamo {\1c&HFF00&\u1}una{\r} comunità attiva
+Dialogue: 0,0:00:9.01,0:00:9.05,Default,,0,0,0,,youtube per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:9.05,0:00:9.41,Default,,0,0,0,,youtube per sapere che siamo una {\1c&HFF00&\u1}comunità{\r} attiva
+Dialogue: 0,0:00:9.41,0:00:9.61,Default,,0,0,0,,youtube per sapere che siamo una comunità attiva
+Dialogue: 0,0:00:9.61,0:00:9.96,Default,,0,0,0,,youtube per sapere che siamo una comunità {\1c&HFF00&\u1}attiva{\r}

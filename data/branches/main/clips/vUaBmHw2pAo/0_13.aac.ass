@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.52,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} c'è l'ansia di mezzo appunto
+Dialogue: 0,0:00:0.52,0:00:0.64,Default,,0,0,0,,perché c'è l'ansia di mezzo appunto
+Dialogue: 0,0:00:0.64,0:00:0.72,Default,,0,0,0,,perché {\1c&HFF00&\u1}c'è{\r} l'ansia di mezzo appunto
+Dialogue: 0,0:00:0.72,0:00:0.80,Default,,0,0,0,,perché c'è l'ansia di mezzo appunto
+Dialogue: 0,0:00:0.80,0:00:1.16,Default,,0,0,0,,perché c'è {\1c&HFF00&\u1}l'ansia{\r} di mezzo appunto
+Dialogue: 0,0:00:1.16,0:00:1.23,Default,,0,0,0,,perché c'è l'ansia di mezzo appunto
+Dialogue: 0,0:00:1.23,0:00:1.29,Default,,0,0,0,,perché c'è l'ansia {\1c&HFF00&\u1}di{\r} mezzo appunto
+Dialogue: 0,0:00:1.29,0:00:1.35,Default,,0,0,0,,perché c'è l'ansia di mezzo appunto
+Dialogue: 0,0:00:1.35,0:00:1.61,Default,,0,0,0,,perché c'è l'ansia di {\1c&HFF00&\u1}mezzo{\r} appunto
+Dialogue: 0,0:00:1.61,0:00:1.65,Default,,0,0,0,,perché c'è l'ansia di mezzo appunto
+Dialogue: 0,0:00:1.65,0:00:2.11,Default,,0,0,0,,perché c'è l'ansia di mezzo {\1c&HFF00&\u1}appunto{\r}
+Dialogue: 0,0:00:3.04,0:00:3.20,Default,,0,0,0,,{\1c&HFF00&\u1}aveva{\r} capitato di parlare con una persona
+Dialogue: 0,0:00:3.20,0:00:3.22,Default,,0,0,0,,aveva capitato di parlare con una persona
+Dialogue: 0,0:00:3.22,0:00:3.52,Default,,0,0,0,,aveva {\1c&HFF00&\u1}capitato{\r} di parlare con una persona
+Dialogue: 0,0:00:3.52,0:00:3.54,Default,,0,0,0,,aveva capitato di parlare con una persona
+Dialogue: 0,0:00:3.54,0:00:3.60,Default,,0,0,0,,aveva capitato {\1c&HFF00&\u1}di{\r} parlare con una persona
+Dialogue: 0,0:00:3.60,0:00:3.64,Default,,0,0,0,,aveva capitato di parlare con una persona
+Dialogue: 0,0:00:3.64,0:00:3.89,Default,,0,0,0,,aveva capitato di {\1c&HFF00&\u1}parlare{\r} con una persona
+Dialogue: 0,0:00:3.89,0:00:3.91,Default,,0,0,0,,aveva capitato di parlare con una persona
+Dialogue: 0,0:00:3.91,0:00:4.01,Default,,0,0,0,,aveva capitato di parlare {\1c&HFF00&\u1}con{\r} una persona
+Dialogue: 0,0:00:4.01,0:00:4.03,Default,,0,0,0,,aveva capitato di parlare con una persona
+Dialogue: 0,0:00:4.03,0:00:4.11,Default,,0,0,0,,aveva capitato di parlare con {\1c&HFF00&\u1}una{\r} persona
+Dialogue: 0,0:00:4.11,0:00:4.13,Default,,0,0,0,,aveva capitato di parlare con una persona
+Dialogue: 0,0:00:4.13,0:00:4.41,Default,,0,0,0,,aveva capitato di parlare con una {\1c&HFF00&\u1}persona{\r}
+Dialogue: 0,0:00:5.08,0:00:5.14,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} cui ho una stima
+Dialogue: 0,0:00:5.14,0:00:5.20,Default,,0,0,0,,di cui ho una stima
+Dialogue: 0,0:00:5.20,0:00:5.32,Default,,0,0,0,,di {\1c&HFF00&\u1}cui{\r} ho una stima
+Dialogue: 0,0:00:5.32,0:00:5.34,Default,,0,0,0,,di cui ho una stima
+Dialogue: 0,0:00:5.34,0:00:5.42,Default,,0,0,0,,di cui {\1c&HFF00&\u1}ho{\r} una stima
+Dialogue: 0,0:00:5.42,0:00:5.46,Default,,0,0,0,,di cui ho una stima
+Dialogue: 0,0:00:5.46,0:00:5.58,Default,,0,0,0,,di cui ho {\1c&HFF00&\u1}una{\r} stima
+Dialogue: 0,0:00:5.58,0:00:5.62,Default,,0,0,0,,di cui ho una stima
+Dialogue: 0,0:00:5.62,0:00:5.86,Default,,0,0,0,,di cui ho una {\1c&HFF00&\u1}stima{\r}
+Dialogue: 0,0:00:6.86,0:00:7.43,Default,,0,0,0,,{\1c&HFF00&\u1}enorme.{\r}

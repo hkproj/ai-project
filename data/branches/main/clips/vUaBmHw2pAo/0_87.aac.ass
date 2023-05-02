@@ -1,0 +1,59 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.02,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.02,0:00:0.04,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.04,0:00:0.20,Default,,0,0,0,,è {\1c&HFF00&\u1}migliore{\r} di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.20,0:00:0.22,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.22,0:00:0.26,Default,,0,0,0,,è migliore {\1c&HFF00&\u1}di{\r} me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.26,0:00:0.28,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.28,0:00:0.32,Default,,0,0,0,,è migliore di {\1c&HFF00&\u1}me,{\r} vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.32,0:00:0.34,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.34,0:00:0.40,Default,,0,0,0,,è migliore di me, {\1c&HFF00&\u1}vai{\r} che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.40,0:00:0.42,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.42,0:00:0.48,Default,,0,0,0,,è migliore di me, vai {\1c&HFF00&\u1}che{\r} spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.50,0:00:0.62,Default,,0,0,0,,è migliore di me, vai che {\1c&HFF00&\u1}spacco{\r} tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.62,0:00:0.64,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.64,0:00:0.74,Default,,0,0,0,,è migliore di me, vai che spacco {\1c&HFF00&\u1}tutto,{\r} dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.74,0:00:0.76,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.76,0:00:0.82,Default,,0,0,0,,è migliore di me, vai che spacco tutto, {\1c&HFF00&\u1}dai{\r} che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.82,0:00:0.84,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.84,0:00:0.90,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai {\1c&HFF00&\u1}che{\r} ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.90,0:00:0.92,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.92,0:00:0.96,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che {\1c&HFF00&\u1}ce{\r} la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.96,0:00:0.98,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:0.98,0:00:1.02,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce {\1c&HFF00&\u1}la{\r} fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.02,0:00:1.04,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.04,0:00:1.14,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la {\1c&HFF00&\u1}fanno,{\r} vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.14,0:00:1.16,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.16,0:00:1.22,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, {\1c&HFF00&\u1}vai{\r} ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.22,0:00:1.24,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.24,0:00:1.28,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai {\1c&HFF00&\u1}ma{\r} chi sei, ma chi sono
+Dialogue: 0,0:00:1.28,0:00:1.30,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.30,0:00:1.36,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma {\1c&HFF00&\u1}chi{\r} sei, ma chi sono
+Dialogue: 0,0:00:1.36,0:00:1.38,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.38,0:00:1.46,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi {\1c&HFF00&\u1}sei,{\r} ma chi sono
+Dialogue: 0,0:00:1.46,0:00:1.48,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.48,0:00:1.54,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, {\1c&HFF00&\u1}ma{\r} chi sono
+Dialogue: 0,0:00:1.54,0:00:1.56,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.56,0:00:1.66,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma {\1c&HFF00&\u1}chi{\r} sono
+Dialogue: 0,0:00:1.66,0:00:1.68,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi sono
+Dialogue: 0,0:00:1.68,0:00:2.01,Default,,0,0,0,,è migliore di me, vai che spacco tutto, dai che ce la fanno, vai ma chi sei, ma chi {\1c&HFF00&\u1}sono{\r}
+Dialogue: 0,0:00:5.80,0:00:6.08,Default,,0,0,0,,{\1c&HFF00&\u1}così?{\r}
+Dialogue: 0,0:00:7.00,0:00:7.18,Default,,0,0,0,,{\1c&HFF00&\u1}Cosa{\r} è?
+Dialogue: 0,0:00:7.18,0:00:7.20,Default,,0,0,0,,Cosa è?
+Dialogue: 0,0:00:7.20,0:00:7.22,Default,,0,0,0,,Cosa {\1c&HFF00&\u1}è?{\r}
+Dialogue: 0,0:00:7.82,0:00:7.90,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} menzio
+Dialogue: 0,0:00:7.90,0:00:7.94,Default,,0,0,0,,se menzio
+Dialogue: 0,0:00:7.94,0:00:8.21,Default,,0,0,0,,se {\1c&HFF00&\u1}menzio{\r}

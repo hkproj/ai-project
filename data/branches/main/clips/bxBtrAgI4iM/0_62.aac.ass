@@ -1,0 +1,61 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.24,Default,,0,0,0,,{\1c&HFF00&\u1}territoriale{\r} di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.24,0:00:0.26,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.26,0:00:0.30,Default,,0,0,0,,territoriale {\1c&HFF00&\u1}di{\r} un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.32,0:00:0.36,Default,,0,0,0,,territoriale di {\1c&HFF00&\u1}un{\r} paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.36,0:00:0.38,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.38,0:00:0.48,Default,,0,0,0,,territoriale di un {\1c&HFF00&\u1}paese{\r} non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.48,0:00:0.50,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.50,0:00:0.56,Default,,0,0,0,,territoriale di un paese {\1c&HFF00&\u1}non{\r} sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.56,0:00:0.58,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.58,0:00:0.66,Default,,0,0,0,,territoriale di un paese non {\1c&HFF00&\u1}sono{\r} proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.68,0:00:0.82,Default,,0,0,0,,territoriale di un paese non sono {\1c&HFF00&\u1}proprio{\r} degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.82,0:00:0.84,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.84,0:00:0.94,Default,,0,0,0,,territoriale di un paese non sono proprio {\1c&HFF00&\u1}degli{\r} optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.94,0:00:0.96,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:0.96,0:00:1.12,Default,,0,0,0,,territoriale di un paese non sono proprio degli {\1c&HFF00&\u1}optional.{\r} A volte, poi, sono le stesse
+Dialogue: 0,0:00:1.12,0:00:1.14,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:1.14,0:00:1.16,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. {\1c&HFF00&\u1}A{\r} volte, poi, sono le stesse
+Dialogue: 0,0:00:1.16,0:00:1.18,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:1.18,0:00:1.28,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A {\1c&HFF00&\u1}volte,{\r} poi, sono le stesse
+Dialogue: 0,0:00:1.28,0:00:1.30,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:1.30,0:00:1.38,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, {\1c&HFF00&\u1}poi,{\r} sono le stesse
+Dialogue: 0,0:00:1.38,0:00:1.40,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:1.40,0:00:1.48,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, {\1c&HFF00&\u1}sono{\r} le stesse
+Dialogue: 0,0:00:1.48,0:00:1.50,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:1.50,0:00:1.54,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono {\1c&HFF00&\u1}le{\r} stesse
+Dialogue: 0,0:00:1.54,0:00:1.56,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le stesse
+Dialogue: 0,0:00:1.56,0:00:1.68,Default,,0,0,0,,territoriale di un paese non sono proprio degli optional. A volte, poi, sono le {\1c&HFF00&\u1}stesse{\r}
+Dialogue: 0,0:00:5.24,0:00:5.54,Default,,0,0,0,,{\1c&HFF00&\u1}autorità{\r} cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:5.54,0:00:5.64,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:5.64,0:00:5.94,Default,,0,0,0,,autorità {\1c&HFF00&\u1}cinesi{\r} a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:5.94,0:00:6.02,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:6.02,0:00:6.04,Default,,0,0,0,,autorità cinesi {\1c&HFF00&\u1}a{\r} far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:6.04,0:00:6.10,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:6.10,0:00:6.22,Default,,0,0,0,,autorità cinesi a {\1c&HFF00&\u1}far{\r} confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:6.22,0:00:6.30,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:6.30,0:00:6.85,Default,,0,0,0,,autorità cinesi a far {\1c&HFF00&\u1}confusione{\r} e a cadere in contraddizione.
+Dialogue: 0,0:00:6.85,0:00:6.87,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:6.87,0:00:6.89,Default,,0,0,0,,autorità cinesi a far confusione {\1c&HFF00&\u1}e{\r} a cadere in contraddizione.
+Dialogue: 0,0:00:6.89,0:00:6.93,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:6.93,0:00:6.97,Default,,0,0,0,,autorità cinesi a far confusione e {\1c&HFF00&\u1}a{\r} cadere in contraddizione.
+Dialogue: 0,0:00:6.97,0:00:7.03,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:7.03,0:00:7.27,Default,,0,0,0,,autorità cinesi a far confusione e a {\1c&HFF00&\u1}cadere{\r} in contraddizione.
+Dialogue: 0,0:00:7.27,0:00:7.31,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:7.31,0:00:7.37,Default,,0,0,0,,autorità cinesi a far confusione e a cadere {\1c&HFF00&\u1}in{\r} contraddizione.
+Dialogue: 0,0:00:7.37,0:00:7.41,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in contraddizione.
+Dialogue: 0,0:00:7.41,0:00:8.13,Default,,0,0,0,,autorità cinesi a far confusione e a cadere in {\1c&HFF00&\u1}contraddizione.{\r}

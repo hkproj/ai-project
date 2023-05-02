@@ -1,0 +1,402 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.12,Default,,0,0,0,,{\1c&HFF00&\u1}cinese{\r} e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.12,0:00:0.14,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.14,0:00:0.16,Default,,0,0,0,,cinese {\1c&HFF00&\u1}e{\r} il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.16,0:00:0.18,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.18,0:00:0.22,Default,,0,0,0,,cinese e {\1c&HFF00&\u1}il 90%{\r} di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.22,0:00:0.26,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.26,0:00:0.30,Default,,0,0,0,,cinese e il 90% {\1c&HFF00&\u1}di{\r} quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.32,0:00:0.44,Default,,0,0,0,,cinese e il 90% di {\1c&HFF00&\u1}quello{\r} che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.44,0:00:0.46,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.46,0:00:0.52,Default,,0,0,0,,cinese e il 90% di quello {\1c&HFF00&\u1}che{\r} vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.52,0:00:0.54,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.54,0:00:0.68,Default,,0,0,0,,cinese e il 90% di quello che {\1c&HFF00&\u1}vediamo{\r} di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.68,0:00:0.70,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.70,0:00:0.74,Default,,0,0,0,,cinese e il 90% di quello che vediamo {\1c&HFF00&\u1}di{\r} solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.74,0:00:0.76,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.76,0:00:0.88,Default,,0,0,0,,cinese e il 90% di quello che vediamo di {\1c&HFF00&\u1}solito{\r} arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.88,0:00:0.90,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:0.90,0:00:1.04,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito {\1c&HFF00&\u1}arriva{\r} da lì. Semplicemente
+Dialogue: 0,0:00:1.04,0:00:1.06,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:1.06,0:00:1.10,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva {\1c&HFF00&\u1}da{\r} lì. Semplicemente
+Dialogue: 0,0:00:1.10,0:00:1.12,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:1.12,0:00:1.16,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da {\1c&HFF00&\u1}lì.{\r} Semplicemente
+Dialogue: 0,0:00:1.16,0:00:1.20,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. Semplicemente
+Dialogue: 0,0:00:1.20,0:00:1.46,Default,,0,0,0,,cinese e il 90% di quello che vediamo di solito arriva da lì. {\1c&HFF00&\u1}Semplicemente{\r}
+Dialogue: 0,0:00:5.88,0:00:6.12,Default,,0,0,0,,{\1c&HFF00&\u1}qualcun{\r} altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.12,0:00:6.14,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.14,0:00:6.40,Default,,0,0,0,,qualcun {\1c&HFF00&\u1}altro{\r} ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.40,0:00:6.48,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.48,0:00:6.52,Default,,0,0,0,,qualcun altro {\1c&HFF00&\u1}ci{\r} ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.52,0:00:6.54,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.54,0:00:6.58,Default,,0,0,0,,qualcun altro ci {\1c&HFF00&\u1}ha{\r} messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.58,0:00:6.64,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.64,0:00:6.84,Default,,0,0,0,,qualcun altro ci ha {\1c&HFF00&\u1}messo{\r} sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.84,0:00:6.90,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:6.90,0:00:7.21,Default,,0,0,0,,qualcun altro ci ha messo {\1c&HFF00&\u1}sopra{\r} un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:7.21,0:00:7.29,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:7.29,0:00:7.47,Default,,0,0,0,,qualcun altro ci ha messo sopra {\1c&HFF00&\u1}un{\r} prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:7.47,0:00:7.61,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:7.61,0:00:7.99,Default,,0,0,0,,qualcun altro ci ha messo sopra un {\1c&HFF00&\u1}prezzo{\r} più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:7.99,0:00:8.07,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:8.07,0:00:8.17,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo {\1c&HFF00&\u1}più{\r} alto e ce lo sta rivendendo
+Dialogue: 0,0:00:8.17,0:00:8.25,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:8.25,0:00:8.51,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più {\1c&HFF00&\u1}alto{\r} e ce lo sta rivendendo
+Dialogue: 0,0:00:8.51,0:00:8.53,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:8.53,0:00:8.55,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto {\1c&HFF00&\u1}e{\r} ce lo sta rivendendo
+Dialogue: 0,0:00:8.55,0:00:8.59,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:8.59,0:00:8.67,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e {\1c&HFF00&\u1}ce{\r} lo sta rivendendo
+Dialogue: 0,0:00:8.67,0:00:8.73,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:8.73,0:00:8.79,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce {\1c&HFF00&\u1}lo{\r} sta rivendendo
+Dialogue: 0,0:00:8.79,0:00:8.83,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:8.83,0:00:8.97,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo {\1c&HFF00&\u1}sta{\r} rivendendo
+Dialogue: 0,0:00:8.97,0:00:9.03,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta rivendendo
+Dialogue: 0,0:00:9.03,0:00:9.65,Default,,0,0,0,,qualcun altro ci ha messo sopra un prezzo più alto e ce lo sta {\1c&HFF00&\u1}rivendendo{\r}
+Dialogue: 0,0:00:9.86,0:00:10.06,Default,,0,0,0,,{\1c&HFF00&\u1}su{\r} altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:10.06,0:00:10.14,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:10.14,0:00:10.42,Default,,0,0,0,,su {\1c&HFF00&\u1}altri{\r} siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:10.42,0:00:10.50,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:10.50,0:00:10.76,Default,,0,0,0,,su altri {\1c&HFF00&\u1}siti,{\r} magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:10.76,0:00:10.80,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:10.80,0:00:11.05,Default,,0,0,0,,su altri siti, {\1c&HFF00&\u1}magari{\r} siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:11.05,0:00:11.11,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:11.11,0:00:11.29,Default,,0,0,0,,su altri siti, magari {\1c&HFF00&\u1}siti{\r} occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:11.29,0:00:11.33,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:11.33,0:00:11.99,Default,,0,0,0,,su altri siti, magari siti {\1c&HFF00&\u1}occidentali.{\r} Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:11.99,0:00:12.19,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:12.19,0:00:12.65,Default,,0,0,0,,su altri siti, magari siti occidentali. {\1c&HFF00&\u1}Scaricate{\r} l'applicazione di AliExpress e
+Dialogue: 0,0:00:12.65,0:00:12.73,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:12.73,0:00:13.29,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate {\1c&HFF00&\u1}l'applicazione{\r} di AliExpress e
+Dialogue: 0,0:00:13.29,0:00:13.35,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:13.35,0:00:13.41,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione {\1c&HFF00&\u1}di{\r} AliExpress e
+Dialogue: 0,0:00:13.41,0:00:13.45,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:13.45,0:00:14.09,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di {\1c&HFF00&\u1}AliExpress{\r} e
+Dialogue: 0,0:00:14.09,0:00:14.11,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress e
+Dialogue: 0,0:00:14.11,0:00:14.13,Default,,0,0,0,,su altri siti, magari siti occidentali. Scaricate l'applicazione di AliExpress {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:14.62,0:00:14.80,Default,,0,0,0,,{\1c&HFF00&\u1}vicino{\r} alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:14.80,0:00:14.82,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:14.82,0:00:14.94,Default,,0,0,0,,vicino {\1c&HFF00&\u1}alla{\r} barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:14.94,0:00:14.98,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:14.98,0:00:15.14,Default,,0,0,0,,vicino alla {\1c&HFF00&\u1}barra{\r} della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:15.14,0:00:15.16,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:15.16,0:00:15.34,Default,,0,0,0,,vicino alla barra {\1c&HFF00&\u1}della{\r} ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:15.34,0:00:15.38,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:15.38,0:00:15.74,Default,,0,0,0,,vicino alla barra della {\1c&HFF00&\u1}ricerca{\r} vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:15.74,0:00:15.81,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:15.81,0:00:16.13,Default,,0,0,0,,vicino alla barra della ricerca {\1c&HFF00&\u1}vedrete{\r} un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:16.13,0:00:16.19,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:16.19,0:00:16.27,Default,,0,0,0,,vicino alla barra della ricerca vedrete {\1c&HFF00&\u1}un{\r} simbolino che vi apre la ricerca
+Dialogue: 0,0:00:16.27,0:00:16.33,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:16.33,0:00:16.89,Default,,0,0,0,,vicino alla barra della ricerca vedrete un {\1c&HFF00&\u1}simbolino{\r} che vi apre la ricerca
+Dialogue: 0,0:00:16.89,0:00:17.17,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:17.17,0:00:17.27,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino {\1c&HFF00&\u1}che{\r} vi apre la ricerca
+Dialogue: 0,0:00:17.27,0:00:17.31,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:17.31,0:00:17.39,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che {\1c&HFF00&\u1}vi{\r} apre la ricerca
+Dialogue: 0,0:00:17.39,0:00:17.45,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:17.45,0:00:17.69,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi {\1c&HFF00&\u1}apre{\r} la ricerca
+Dialogue: 0,0:00:17.69,0:00:17.75,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:17.75,0:00:17.85,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre {\1c&HFF00&\u1}la{\r} ricerca
+Dialogue: 0,0:00:17.85,0:00:18.05,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la ricerca
+Dialogue: 0,0:00:18.05,0:00:18.43,Default,,0,0,0,,vicino alla barra della ricerca vedrete un simbolino che vi apre la {\1c&HFF00&\u1}ricerca{\r}
+Dialogue: 0,0:00:18.66,0:00:18.94,Default,,0,0,0,,{\1c&HFF00&\u1}tramite{\r} immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:18.94,0:00:19.02,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:19.02,0:00:19.50,Default,,0,0,0,,tramite {\1c&HFF00&\u1}immagine.{\r} Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:19.50,0:00:19.76,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:19.76,0:00:19.97,Default,,0,0,0,,tramite immagine. {\1c&HFF00&\u1}Questo{\r} vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:19.97,0:00:20.01,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:20.01,0:00:20.07,Default,,0,0,0,,tramite immagine. Questo {\1c&HFF00&\u1}vi{\r} consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:20.07,0:00:20.11,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:20.11,0:00:20.55,Default,,0,0,0,,tramite immagine. Questo vi {\1c&HFF00&\u1}consentirà{\r} di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:20.55,0:00:20.61,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:20.61,0:00:20.67,Default,,0,0,0,,tramite immagine. Questo vi consentirà {\1c&HFF00&\u1}di{\r} cercare gli articoli non in base al nome
+Dialogue: 0,0:00:20.67,0:00:20.71,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:20.71,0:00:21.05,Default,,0,0,0,,tramite immagine. Questo vi consentirà di {\1c&HFF00&\u1}cercare{\r} gli articoli non in base al nome
+Dialogue: 0,0:00:21.05,0:00:21.09,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:21.09,0:00:21.19,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare {\1c&HFF00&\u1}gli{\r} articoli non in base al nome
+Dialogue: 0,0:00:21.19,0:00:21.25,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:21.25,0:00:21.69,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli {\1c&HFF00&\u1}articoli{\r} non in base al nome
+Dialogue: 0,0:00:21.69,0:00:21.87,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:21.87,0:00:21.99,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli {\1c&HFF00&\u1}non{\r} in base al nome
+Dialogue: 0,0:00:21.99,0:00:22.03,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:22.03,0:00:22.11,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non {\1c&HFF00&\u1}in{\r} base al nome
+Dialogue: 0,0:00:22.11,0:00:22.13,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:22.13,0:00:22.37,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in {\1c&HFF00&\u1}base{\r} al nome
+Dialogue: 0,0:00:22.37,0:00:22.41,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:22.41,0:00:22.51,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base {\1c&HFF00&\u1}al{\r} nome
+Dialogue: 0,0:00:22.51,0:00:22.55,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al nome
+Dialogue: 0,0:00:22.55,0:00:22.77,Default,,0,0,0,,tramite immagine. Questo vi consentirà di cercare gli articoli non in base al {\1c&HFF00&\u1}nome{\r}
+Dialogue: 0,0:00:22.88,0:00:22.96,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:22.96,0:00:23.00,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:23.00,0:00:23.04,Default,,0,0,0,,ma {\1c&HFF00&\u1}in{\r} base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:23.04,0:00:23.08,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:23.08,0:00:23.24,Default,,0,0,0,,ma in {\1c&HFF00&\u1}base{\r} all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:23.24,0:00:23.28,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:23.28,0:00:23.76,Default,,0,0,0,,ma in base {\1c&HFF00&\u1}all'aspetto{\r} estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:23.76,0:00:23.80,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:23.80,0:00:24.35,Default,,0,0,0,,ma in base all'aspetto {\1c&HFF00&\u1}estetico.{\r} Se siete a computer non fate altro che
+Dialogue: 0,0:00:24.35,0:00:24.61,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:24.61,0:00:24.69,Default,,0,0,0,,ma in base all'aspetto estetico. {\1c&HFF00&\u1}Se{\r} siete a computer non fate altro che
+Dialogue: 0,0:00:24.69,0:00:24.75,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:24.75,0:00:24.99,Default,,0,0,0,,ma in base all'aspetto estetico. Se {\1c&HFF00&\u1}siete{\r} a computer non fate altro che
+Dialogue: 0,0:00:24.99,0:00:25.01,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:25.01,0:00:25.03,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete {\1c&HFF00&\u1}a{\r} computer non fate altro che
+Dialogue: 0,0:00:25.03,0:00:25.09,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:25.09,0:00:25.53,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a {\1c&HFF00&\u1}computer{\r} non fate altro che
+Dialogue: 0,0:00:25.53,0:00:25.57,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:25.57,0:00:25.67,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer {\1c&HFF00&\u1}non{\r} fate altro che
+Dialogue: 0,0:00:25.67,0:00:25.71,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:25.71,0:00:25.87,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non {\1c&HFF00&\u1}fate{\r} altro che
+Dialogue: 0,0:00:25.87,0:00:25.91,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:25.91,0:00:26.13,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate {\1c&HFF00&\u1}altro{\r} che
+Dialogue: 0,0:00:26.13,0:00:26.19,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro che
+Dialogue: 0,0:00:26.19,0:00:26.27,Default,,0,0,0,,ma in base all'aspetto estetico. Se siete a computer non fate altro {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:26.54,0:00:27.02,Default,,0,0,0,,{\1c&HFF00&\u1}inquadrare{\r} il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:27.02,0:00:27.06,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:27.06,0:00:27.14,Default,,0,0,0,,inquadrare {\1c&HFF00&\u1}il{\r} computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:27.14,0:00:27.18,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:27.18,0:00:27.82,Default,,0,0,0,,inquadrare il {\1c&HFF00&\u1}computer{\r} scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:27.82,0:00:28.11,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:28.11,0:00:28.61,Default,,0,0,0,,inquadrare il computer {\1c&HFF00&\u1}scattandogli{\r} una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:28.61,0:00:28.63,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:28.63,0:00:28.75,Default,,0,0,0,,inquadrare il computer scattandogli {\1c&HFF00&\u1}una{\r} foto se invece siete da cellulare prima
+Dialogue: 0,0:00:28.75,0:00:28.79,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:28.79,0:00:29.09,Default,,0,0,0,,inquadrare il computer scattandogli una {\1c&HFF00&\u1}foto{\r} se invece siete da cellulare prima
+Dialogue: 0,0:00:29.09,0:00:29.17,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:29.17,0:00:29.23,Default,,0,0,0,,inquadrare il computer scattandogli una foto {\1c&HFF00&\u1}se{\r} invece siete da cellulare prima
+Dialogue: 0,0:00:29.23,0:00:29.27,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:29.27,0:00:29.49,Default,,0,0,0,,inquadrare il computer scattandogli una foto se {\1c&HFF00&\u1}invece{\r} siete da cellulare prima
+Dialogue: 0,0:00:29.49,0:00:29.57,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:29.57,0:00:29.75,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece {\1c&HFF00&\u1}siete{\r} da cellulare prima
+Dialogue: 0,0:00:29.75,0:00:29.81,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:29.81,0:00:29.89,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete {\1c&HFF00&\u1}da{\r} cellulare prima
+Dialogue: 0,0:00:29.89,0:00:29.95,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:29.95,0:00:30.35,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da {\1c&HFF00&\u1}cellulare{\r} prima
+Dialogue: 0,0:00:30.35,0:00:30.49,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare prima
+Dialogue: 0,0:00:30.49,0:00:30.71,Default,,0,0,0,,inquadrare il computer scattandogli una foto se invece siete da cellulare {\1c&HFF00&\u1}prima{\r}
+Dialogue: 0,0:00:30.96,0:00:31.08,Default,,0,0,0,,{\1c&HFF00&\u1}fate{\r} uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.08,0:00:31.12,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.12,0:00:31.28,Default,,0,0,0,,fate {\1c&HFF00&\u1}uno{\r} screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.28,0:00:31.32,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.32,0:00:31.68,Default,,0,0,0,,fate uno {\1c&HFF00&\u1}screen{\r} a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.68,0:00:31.80,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.80,0:00:31.84,Default,,0,0,0,,fate uno screen {\1c&HFF00&\u1}a{\r} quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.84,0:00:31.86,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:31.86,0:00:32.05,Default,,0,0,0,,fate uno screen a {\1c&HFF00&\u1}quello{\r} che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:32.05,0:00:32.07,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:32.07,0:00:32.15,Default,,0,0,0,,fate uno screen a quello {\1c&HFF00&\u1}che{\r} volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:32.15,0:00:32.17,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:32.17,0:00:32.39,Default,,0,0,0,,fate uno screen a quello che {\1c&HFF00&\u1}volete{\r} acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:32.39,0:00:32.43,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:32.43,0:00:32.95,Default,,0,0,0,,fate uno screen a quello che volete {\1c&HFF00&\u1}acquistare{\r} e lo caricate su aliexpress
+Dialogue: 0,0:00:32.95,0:00:32.97,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:32.97,0:00:32.99,Default,,0,0,0,,fate uno screen a quello che volete acquistare {\1c&HFF00&\u1}e{\r} lo caricate su aliexpress
+Dialogue: 0,0:00:32.99,0:00:33.37,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:33.37,0:00:33.41,Default,,0,0,0,,fate uno screen a quello che volete acquistare e {\1c&HFF00&\u1}lo{\r} caricate su aliexpress
+Dialogue: 0,0:00:33.41,0:00:33.45,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:33.45,0:00:33.83,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo {\1c&HFF00&\u1}caricate{\r} su aliexpress
+Dialogue: 0,0:00:33.83,0:00:33.89,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:33.89,0:00:33.95,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate {\1c&HFF00&\u1}su{\r} aliexpress
+Dialogue: 0,0:00:33.95,0:00:33.99,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su aliexpress
+Dialogue: 0,0:00:33.99,0:00:34.57,Default,,0,0,0,,fate uno screen a quello che volete acquistare e lo caricate su {\1c&HFF00&\u1}aliexpress{\r}
+Dialogue: 0,0:00:34.66,0:00:34.84,Default,,0,0,0,,{\1c&HFF00&\u1}così{\r} lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:34.84,0:00:34.96,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:34.96,0:00:35.12,Default,,0,0,0,,così {\1c&HFF00&\u1}lui{\r} cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:35.12,0:00:35.28,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:35.28,0:00:35.74,Default,,0,0,0,,così lui {\1c&HFF00&\u1}cercherà{\r} e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:35.74,0:00:36.02,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.02,0:00:36.06,Default,,0,0,0,,così lui cercherà {\1c&HFF00&\u1}e{\r} vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.06,0:00:36.11,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.11,0:00:36.31,Default,,0,0,0,,così lui cercherà e {\1c&HFF00&\u1}vedrà{\r} se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.31,0:00:36.39,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.39,0:00:36.49,Default,,0,0,0,,così lui cercherà e vedrà {\1c&HFF00&\u1}se{\r} in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.49,0:00:36.53,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.53,0:00:36.59,Default,,0,0,0,,così lui cercherà e vedrà se {\1c&HFF00&\u1}in{\r} tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.59,0:00:36.63,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.63,0:00:36.83,Default,,0,0,0,,così lui cercherà e vedrà se in {\1c&HFF00&\u1}tutto{\r} il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.83,0:00:36.87,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.87,0:00:36.95,Default,,0,0,0,,così lui cercherà e vedrà se in tutto {\1c&HFF00&\u1}il{\r} sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:36.95,0:00:37.01,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:37.01,0:00:37.25,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il {\1c&HFF00&\u1}sito{\r} ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:37.25,0:00:37.31,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:37.31,0:00:37.37,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito {\1c&HFF00&\u1}ci{\r} sono cose simili. Il 50% delle
+Dialogue: 0,0:00:37.37,0:00:37.43,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:37.43,0:00:37.57,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci {\1c&HFF00&\u1}sono{\r} cose simili. Il 50% delle
+Dialogue: 0,0:00:37.57,0:00:37.63,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:37.63,0:00:37.79,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono {\1c&HFF00&\u1}cose{\r} simili. Il 50% delle
+Dialogue: 0,0:00:37.79,0:00:37.87,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:37.87,0:00:38.23,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose {\1c&HFF00&\u1}simili.{\r} Il 50% delle
+Dialogue: 0,0:00:38.23,0:00:38.51,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:38.51,0:00:38.69,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. {\1c&HFF00&\u1}Il 50%{\r} delle
+Dialogue: 0,0:00:38.69,0:00:38.73,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% delle
+Dialogue: 0,0:00:38.73,0:00:39.03,Default,,0,0,0,,così lui cercherà e vedrà se in tutto il sito ci sono cose simili. Il 50% {\1c&HFF00&\u1}delle{\r}
+Dialogue: 0,0:00:40.16,0:00:40.34,Default,,0,0,0,,{\1c&HFF00&\u1}volte{\r} scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:40.34,0:00:40.38,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:40.38,0:00:40.82,Default,,0,0,0,,volte {\1c&HFF00&\u1}scoprirete{\r} che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:40.82,0:00:40.86,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:40.86,0:00:40.96,Default,,0,0,0,,volte scoprirete {\1c&HFF00&\u1}che{\r} si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:40.96,0:00:41.00,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.00,0:00:41.06,Default,,0,0,0,,volte scoprirete che {\1c&HFF00&\u1}si{\r} tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.06,0:00:41.12,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.12,0:00:41.38,Default,,0,0,0,,volte scoprirete che si {\1c&HFF00&\u1}tratta{\r} di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.38,0:00:41.44,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.44,0:00:41.50,Default,,0,0,0,,volte scoprirete che si tratta {\1c&HFF00&\u1}di{\r} un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.50,0:00:41.55,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.55,0:00:41.71,Default,,0,0,0,,volte scoprirete che si tratta di {\1c&HFF00&\u1}un{\r} prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.71,0:00:41.81,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:41.81,0:00:42.27,Default,,0,0,0,,volte scoprirete che si tratta di un {\1c&HFF00&\u1}prodotto{\r} cinese che si trova di base su
+Dialogue: 0,0:00:42.27,0:00:42.41,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:42.41,0:00:42.87,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto {\1c&HFF00&\u1}cinese{\r} che si trova di base su
+Dialogue: 0,0:00:42.87,0:00:42.97,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:42.97,0:00:43.05,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese {\1c&HFF00&\u1}che{\r} si trova di base su
+Dialogue: 0,0:00:43.05,0:00:43.11,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:43.11,0:00:43.17,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che {\1c&HFF00&\u1}si{\r} trova di base su
+Dialogue: 0,0:00:43.17,0:00:43.23,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:43.23,0:00:43.51,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si {\1c&HFF00&\u1}trova{\r} di base su
+Dialogue: 0,0:00:43.51,0:00:43.65,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:43.65,0:00:43.73,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova {\1c&HFF00&\u1}di{\r} base su
+Dialogue: 0,0:00:43.73,0:00:43.79,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:43.79,0:00:44.05,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di {\1c&HFF00&\u1}base{\r} su
+Dialogue: 0,0:00:44.05,0:00:44.11,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base su
+Dialogue: 0,0:00:44.11,0:00:44.15,Default,,0,0,0,,volte scoprirete che si tratta di un prodotto cinese che si trova di base {\1c&HFF00&\u1}su{\r}
+Dialogue: 0,0:00:44.16,0:00:45.00,Default,,0,0,0,,{\1c&HFF00&\u1}aliexpress{\r} o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.00,0:00:45.08,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.08,0:00:45.28,Default,,0,0,0,,aliexpress {\1c&HFF00&\u1}o{\r} comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.28,0:00:45.30,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.30,0:00:45.60,Default,,0,0,0,,aliexpress o {\1c&HFF00&\u1}comunque{\r} in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.60,0:00:45.64,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.64,0:00:45.74,Default,,0,0,0,,aliexpress o comunque {\1c&HFF00&\u1}in{\r} cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.74,0:00:45.81,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:45.81,0:00:46.05,Default,,0,0,0,,aliexpress o comunque in {\1c&HFF00&\u1}cina{\r} e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.05,0:00:46.41,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.41,0:00:46.45,Default,,0,0,0,,aliexpress o comunque in cina {\1c&HFF00&\u1}e{\r} che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.45,0:00:46.47,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.47,0:00:46.57,Default,,0,0,0,,aliexpress o comunque in cina e {\1c&HFF00&\u1}che{\r} viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.57,0:00:46.61,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.61,0:00:46.79,Default,,0,0,0,,aliexpress o comunque in cina e che {\1c&HFF00&\u1}viene{\r} rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.79,0:00:46.87,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:46.87,0:00:47.29,Default,,0,0,0,,aliexpress o comunque in cina e che viene {\1c&HFF00&\u1}rivenduto{\r} qua magari al doppio
+Dialogue: 0,0:00:47.29,0:00:47.37,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:47.37,0:00:47.55,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto {\1c&HFF00&\u1}qua{\r} magari al doppio
+Dialogue: 0,0:00:47.55,0:00:47.59,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:47.59,0:00:47.99,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua {\1c&HFF00&\u1}magari{\r} al doppio
+Dialogue: 0,0:00:47.99,0:00:48.01,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:48.01,0:00:48.13,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari {\1c&HFF00&\u1}al{\r} doppio
+Dialogue: 0,0:00:48.13,0:00:48.19,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al doppio
+Dialogue: 0,0:00:48.19,0:00:48.57,Default,,0,0,0,,aliexpress o comunque in cina e che viene rivenduto qua magari al {\1c&HFF00&\u1}doppio{\r}
+Dialogue: 0,0:00:48.94,0:00:49.08,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:49.08,0:00:49.14,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:49.14,0:00:49.66,Default,,0,0,0,,non {\1c&HFF00&\u1}conviene{\r} sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:49.66,0:00:49.76,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:49.76,0:00:50.12,Default,,0,0,0,,non conviene {\1c&HFF00&\u1}sempre{\r} attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:50.12,0:00:50.16,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:50.16,0:00:50.77,Default,,0,0,0,,non conviene sempre {\1c&HFF00&\u1}attenzione{\r} perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:50.77,0:00:50.85,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:50.85,0:00:51.09,Default,,0,0,0,,non conviene sempre attenzione {\1c&HFF00&\u1}perché{\r} spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:51.09,0:00:51.27,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:51.27,0:00:51.75,Default,,0,0,0,,non conviene sempre attenzione perché {\1c&HFF00&\u1}spesso{\r} e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:51.75,0:00:51.77,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:51.77,0:00:51.79,Default,,0,0,0,,non conviene sempre attenzione perché spesso {\1c&HFF00&\u1}e{\r} volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:51.79,0:00:51.89,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:51.89,0:00:52.47,Default,,0,0,0,,non conviene sempre attenzione perché spesso e {\1c&HFF00&\u1}volentieri{\r} i prodotti d'aliexpress
+Dialogue: 0,0:00:52.47,0:00:52.49,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:52.49,0:00:52.51,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri {\1c&HFF00&\u1}i{\r} prodotti d'aliexpress
+Dialogue: 0,0:00:52.51,0:00:52.59,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:52.59,0:00:52.95,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i {\1c&HFF00&\u1}prodotti{\r} d'aliexpress
+Dialogue: 0,0:00:52.95,0:00:53.01,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti d'aliexpress
+Dialogue: 0,0:00:53.01,0:00:53.62,Default,,0,0,0,,non conviene sempre attenzione perché spesso e volentieri i prodotti {\1c&HFF00&\u1}d'aliexpress{\r}
+Dialogue: 0,0:00:53.12,0:00:53.80,Default,,0,0,0,,{\1c&HFF00&\u1}Aliexpress{\r} ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:53.80,0:00:53.82,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:53.82,0:00:53.86,Default,,0,0,0,,Aliexpress {\1c&HFF00&\u1}ci{\r} mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:53.86,0:00:53.88,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:53.88,0:00:54.14,Default,,0,0,0,,Aliexpress ci {\1c&HFF00&\u1}mettono{\r} anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.14,0:00:54.20,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.20,0:00:54.38,Default,,0,0,0,,Aliexpress ci mettono {\1c&HFF00&\u1}anche{\r} fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.38,0:00:54.42,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.42,0:00:54.60,Default,,0,0,0,,Aliexpress ci mettono anche {\1c&HFF00&\u1}fino{\r} a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.60,0:00:54.62,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.62,0:00:54.64,Default,,0,0,0,,Aliexpress ci mettono anche fino {\1c&HFF00&\u1}a{\r} un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.64,0:00:54.72,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.72,0:00:54.82,Default,,0,0,0,,Aliexpress ci mettono anche fino a {\1c&HFF00&\u1}un{\r} mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.82,0:00:54.88,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:54.88,0:00:55.21,Default,,0,0,0,,Aliexpress ci mettono anche fino a un {\1c&HFF00&\u1}mese{\r} per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:55.21,0:00:55.35,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:55.35,0:00:55.47,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese {\1c&HFF00&\u1}per{\r} arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:55.47,0:00:55.53,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:55.53,0:00:55.99,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per {\1c&HFF00&\u1}arrivare{\r} quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:55.99,0:00:56.05,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.05,0:00:56.27,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare {\1c&HFF00&\u1}quindi{\r} se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.27,0:00:56.33,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.33,0:00:56.41,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi {\1c&HFF00&\u1}se{\r} voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.41,0:00:56.45,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.45,0:00:56.57,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se {\1c&HFF00&\u1}voi{\r} avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.57,0:00:56.61,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.61,0:00:56.85,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi {\1c&HFF00&\u1}avete{\r} l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.85,0:00:56.93,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:56.93,0:00:57.49,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete {\1c&HFF00&\u1}l'urgenza{\r} di comprare qualcosa
+Dialogue: 0,0:00:57.49,0:00:57.53,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:57.53,0:00:57.59,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza {\1c&HFF00&\u1}di{\r} comprare qualcosa
+Dialogue: 0,0:00:57.59,0:00:57.63,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:57.63,0:00:57.97,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di {\1c&HFF00&\u1}comprare{\r} qualcosa
+Dialogue: 0,0:00:57.97,0:00:58.01,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare qualcosa
+Dialogue: 0,0:00:58.01,0:00:58.50,Default,,0,0,0,,Aliexpress ci mettono anche fino a un mese per arrivare quindi se voi avete l'urgenza di comprare {\1c&HFF00&\u1}qualcosa{\r}
+Dialogue: 0,0:00:58.20,0:00:59.26,Default,,0,0,0,,{\1c&HFF00&\u1}cosa{\r} fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.26,0:00:59.28,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.28,0:00:59.46,Default,,0,0,0,,cosa {\1c&HFF00&\u1}fregate,{\r} ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.46,0:00:59.50,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.50,0:00:59.58,Default,,0,0,0,,cosa fregate, {\1c&HFF00&\u1}ve{\r} ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.58,0:00:59.60,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.60,0:00:59.66,Default,,0,0,0,,cosa fregate, ve {\1c&HFF00&\u1}ne{\r} spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.66,0:00:59.70,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:00:59.70,0:01:0.05,Default,,0,0,0,,cosa fregate, ve ne {\1c&HFF00&\u1}spendete{\r} qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:0.05,0:01:0.11,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:0.11,0:01:0.53,Default,,0,0,0,,cosa fregate, ve ne spendete {\1c&HFF00&\u1}qualcosina{\r} in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:0.53,0:01:0.57,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:0.57,0:01:0.63,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina {\1c&HFF00&\u1}in{\r} più e compratelo magari da Amazon.
+Dialogue: 0,0:01:0.63,0:01:0.67,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:0.67,0:01:0.83,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in {\1c&HFF00&\u1}più{\r} e compratelo magari da Amazon.
+Dialogue: 0,0:01:0.83,0:01:1.03,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:1.03,0:01:1.09,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più {\1c&HFF00&\u1}e{\r} compratelo magari da Amazon.
+Dialogue: 0,0:01:1.09,0:01:1.17,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:1.17,0:01:1.69,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e {\1c&HFF00&\u1}compratelo{\r} magari da Amazon.
+Dialogue: 0,0:01:1.69,0:01:1.71,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:1.71,0:01:1.95,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo {\1c&HFF00&\u1}magari{\r} da Amazon.
+Dialogue: 0,0:01:1.95,0:01:1.99,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:1.99,0:01:2.05,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari {\1c&HFF00&\u1}da{\r} Amazon.
+Dialogue: 0,0:01:2.05,0:01:2.13,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da Amazon.
+Dialogue: 0,0:01:2.13,0:01:2.51,Default,,0,0,0,,cosa fregate, ve ne spendete qualcosina in più e compratelo magari da {\1c&HFF00&\u1}Amazon.{\r}
+Dialogue: 0,0:01:2.76,0:01:2.90,Default,,0,0,0,,{\1c&HFF00&\u1}Sono{\r} andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:2.90,0:01:2.92,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:2.92,0:01:3.14,Default,,0,0,0,,Sono {\1c&HFF00&\u1}andato{\r} su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.14,0:01:3.20,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.20,0:01:3.26,Default,,0,0,0,,Sono andato {\1c&HFF00&\u1}su{\r} Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.26,0:01:3.30,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.30,0:01:3.62,Default,,0,0,0,,Sono andato su {\1c&HFF00&\u1}Amazon,{\r} ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.62,0:01:3.64,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.64,0:01:3.69,Default,,0,0,0,,Sono andato su Amazon, {\1c&HFF00&\u1}ho{\r} preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.69,0:01:3.71,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.71,0:01:3.87,Default,,0,0,0,,Sono andato su Amazon, ho {\1c&HFF00&\u1}preso{\r} un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.87,0:01:3.91,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.91,0:01:3.95,Default,,0,0,0,,Sono andato su Amazon, ho preso {\1c&HFF00&\u1}un{\r} prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.95,0:01:3.99,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:3.99,0:01:4.27,Default,,0,0,0,,Sono andato su Amazon, ho preso un {\1c&HFF00&\u1}prodotto{\r} o qualsiasi nella o...
+Dialogue: 0,0:01:4.27,0:01:4.29,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:4.29,0:01:4.31,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto {\1c&HFF00&\u1}o{\r} qualsiasi nella o...
+Dialogue: 0,0:01:4.31,0:01:4.35,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:4.35,0:01:4.75,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o {\1c&HFF00&\u1}qualsiasi{\r} nella o...
+Dialogue: 0,0:01:4.75,0:01:4.79,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:4.79,0:01:4.91,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi {\1c&HFF00&\u1}nella{\r} o...
+Dialogue: 0,0:01:4.91,0:01:5.11,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella o...
+Dialogue: 0,0:01:5.11,0:01:5.13,Default,,0,0,0,,Sono andato su Amazon, ho preso un prodotto o qualsiasi nella {\1c&HFF00&\u1}o...{\r}

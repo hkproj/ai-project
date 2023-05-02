@@ -1,0 +1,812 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.40,0:00:0.76,Default,,0,0,0,,{\1c&HFF00&\u1}tutta{\r} colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:0.76,0:00:0.80,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:0.80,0:00:1.44,Default,,0,0,0,,tutta {\1c&HFF00&\u1}colpa{\r} sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:1.44,0:00:1.46,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:1.46,0:00:1.52,Default,,0,0,0,,tutta colpa {\1c&HFF00&\u1}sua{\r} senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:1.52,0:00:1.56,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:1.56,0:00:1.73,Default,,0,0,0,,tutta colpa sua {\1c&HFF00&\u1}senza{\r} soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:1.73,0:00:1.79,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:1.79,0:00:2.19,Default,,0,0,0,,tutta colpa sua senza {\1c&HFF00&\u1}soffermarci{\r} su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:2.19,0:00:2.23,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:2.23,0:00:2.31,Default,,0,0,0,,tutta colpa sua senza soffermarci {\1c&HFF00&\u1}su{\r} cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:2.31,0:00:2.33,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:2.33,0:00:2.51,Default,,0,0,0,,tutta colpa sua senza soffermarci su {\1c&HFF00&\u1}cosa{\r} sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:2.51,0:00:2.57,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:2.57,0:00:2.71,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa {\1c&HFF00&\u1}sia{\r} questa roba qua diciamo che sia
+Dialogue: 0,0:00:2.71,0:00:3.07,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:3.07,0:00:3.39,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia {\1c&HFF00&\u1}questa{\r} roba qua diciamo che sia
+Dialogue: 0,0:00:3.39,0:00:3.43,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:3.43,0:00:3.63,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa {\1c&HFF00&\u1}roba{\r} qua diciamo che sia
+Dialogue: 0,0:00:3.63,0:00:3.69,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:3.69,0:00:4.09,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba {\1c&HFF00&\u1}qua{\r} diciamo che sia
+Dialogue: 0,0:00:4.09,0:00:4.27,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:4.27,0:00:4.55,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua {\1c&HFF00&\u1}diciamo{\r} che sia
+Dialogue: 0,0:00:4.55,0:00:4.59,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:4.59,0:00:4.69,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo {\1c&HFF00&\u1}che{\r} sia
+Dialogue: 0,0:00:4.69,0:00:4.83,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che sia
+Dialogue: 0,0:00:4.83,0:00:4.93,Default,,0,0,0,,tutta colpa sua senza soffermarci su cosa sia questa roba qua diciamo che {\1c&HFF00&\u1}sia{\r}
+Dialogue: 0,0:00:5.06,0:00:5.30,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.30,0:00:5.36,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.36,0:00:5.42,Default,,0,0,0,,perché {\1c&HFF00&\u1}è{\r} una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.42,0:00:5.44,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.44,0:00:5.52,Default,,0,0,0,,perché è {\1c&HFF00&\u1}una{\r} materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.52,0:00:5.56,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.56,0:00:5.82,Default,,0,0,0,,perché è una {\1c&HFF00&\u1}materia{\r} un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.82,0:00:5.86,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.86,0:00:5.94,Default,,0,0,0,,perché è una materia {\1c&HFF00&\u1}un{\r} po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.94,0:00:5.96,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:5.96,0:00:6.08,Default,,0,0,0,,perché è una materia un {\1c&HFF00&\u1}po{\r} più astratta che va proprio capita sia
+Dialogue: 0,0:00:6.08,0:00:6.14,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:6.14,0:00:6.33,Default,,0,0,0,,perché è una materia un po {\1c&HFF00&\u1}più{\r} astratta che va proprio capita sia
+Dialogue: 0,0:00:6.33,0:00:6.61,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:6.61,0:00:7.15,Default,,0,0,0,,perché è una materia un po più {\1c&HFF00&\u1}astratta{\r} che va proprio capita sia
+Dialogue: 0,0:00:7.15,0:00:7.19,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:7.19,0:00:7.27,Default,,0,0,0,,perché è una materia un po più astratta {\1c&HFF00&\u1}che{\r} va proprio capita sia
+Dialogue: 0,0:00:7.27,0:00:7.31,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:7.31,0:00:7.39,Default,,0,0,0,,perché è una materia un po più astratta che {\1c&HFF00&\u1}va{\r} proprio capita sia
+Dialogue: 0,0:00:7.39,0:00:7.41,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:7.41,0:00:7.61,Default,,0,0,0,,perché è una materia un po più astratta che va {\1c&HFF00&\u1}proprio{\r} capita sia
+Dialogue: 0,0:00:7.61,0:00:7.65,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:7.65,0:00:8.13,Default,,0,0,0,,perché è una materia un po più astratta che va proprio {\1c&HFF00&\u1}capita{\r} sia
+Dialogue: 0,0:00:8.13,0:00:8.29,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita sia
+Dialogue: 0,0:00:8.29,0:00:8.39,Default,,0,0,0,,perché è una materia un po più astratta che va proprio capita {\1c&HFF00&\u1}sia{\r}
+Dialogue: 0,0:00:8.32,0:00:8.70,Default,,0,0,0,,{\1c&HFF00&\u1}perché{\r} il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:8.70,0:00:8.76,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:8.76,0:00:8.80,Default,,0,0,0,,perché {\1c&HFF00&\u1}il{\r} nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:8.80,0:00:8.82,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:8.82,0:00:9.00,Default,,0,0,0,,perché il {\1c&HFF00&\u1}nostro{\r} prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.00,0:00:9.06,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.06,0:00:9.28,Default,,0,0,0,,perché il nostro {\1c&HFF00&\u1}prof{\r} diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.28,0:00:9.30,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.30,0:00:9.50,Default,,0,0,0,,perché il nostro prof {\1c&HFF00&\u1}diciamo{\r} era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.50,0:00:9.52,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.52,0:00:9.64,Default,,0,0,0,,perché il nostro prof diciamo {\1c&HFF00&\u1}era{\r} un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.64,0:00:9.66,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.66,0:00:9.72,Default,,0,0,0,,perché il nostro prof diciamo era {\1c&HFF00&\u1}un{\r} po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.72,0:00:9.76,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.76,0:00:9.82,Default,,0,0,0,,perché il nostro prof diciamo era un {\1c&HFF00&\u1}po{\r} troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.82,0:00:9.87,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:9.87,0:00:10.13,Default,,0,0,0,,perché il nostro prof diciamo era un po {\1c&HFF00&\u1}troppo{\r} un legislaid e sia perché nel
+Dialogue: 0,0:00:10.13,0:00:10.21,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:10.21,0:00:10.35,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo {\1c&HFF00&\u1}un{\r} legislaid e sia perché nel
+Dialogue: 0,0:00:10.35,0:00:10.57,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:10.57,0:00:11.69,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un {\1c&HFF00&\u1}legislaid{\r} e sia perché nel
+Dialogue: 0,0:00:11.69,0:00:11.83,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:11.83,0:00:11.87,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid {\1c&HFF00&\u1}e{\r} sia perché nel
+Dialogue: 0,0:00:11.87,0:00:11.93,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:11.93,0:00:12.03,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e {\1c&HFF00&\u1}sia{\r} perché nel
+Dialogue: 0,0:00:12.03,0:00:12.07,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:12.07,0:00:12.29,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia {\1c&HFF00&\u1}perché{\r} nel
+Dialogue: 0,0:00:12.29,0:00:12.37,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché nel
+Dialogue: 0,0:00:12.37,0:00:12.47,Default,,0,0,0,,perché il nostro prof diciamo era un po troppo un legislaid e sia perché {\1c&HFF00&\u1}nel{\r}
+Dialogue: 0,0:00:12.40,0:00:12.88,Default,,0,0,0,,{\1c&HFF00&\u1}mentre{\r} come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:12.88,0:00:12.94,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:12.94,0:00:13.02,Default,,0,0,0,,mentre {\1c&HFF00&\u1}come{\r} al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.02,0:00:13.06,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.06,0:00:13.10,Default,,0,0,0,,mentre come {\1c&HFF00&\u1}al{\r} solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.10,0:00:13.12,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.12,0:00:13.32,Default,,0,0,0,,mentre come al {\1c&HFF00&\u1}solito{\r} vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.32,0:00:13.34,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.34,0:00:13.44,Default,,0,0,0,,mentre come al solito {\1c&HFF00&\u1}vi{\r} ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.44,0:00:13.50,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.50,0:00:13.80,Default,,0,0,0,,mentre come al solito vi {\1c&HFF00&\u1}ricordo{\r} che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.80,0:00:13.87,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:13.87,0:00:14.03,Default,,0,0,0,,mentre come al solito vi ricordo {\1c&HFF00&\u1}che{\r} mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:14.03,0:00:14.35,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:14.35,0:00:14.41,Default,,0,0,0,,mentre come al solito vi ricordo che {\1c&HFF00&\u1}mi{\r} stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:14.41,0:00:14.45,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:14.45,0:00:14.63,Default,,0,0,0,,mentre come al solito vi ricordo che mi {\1c&HFF00&\u1}stavo{\r} trasferendo continuate a fare un
+Dialogue: 0,0:00:14.63,0:00:14.67,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:14.67,0:00:15.31,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo {\1c&HFF00&\u1}trasferendo{\r} continuate a fare un
+Dialogue: 0,0:00:15.31,0:00:15.51,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:15.51,0:00:15.85,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo {\1c&HFF00&\u1}continuate{\r} a fare un
+Dialogue: 0,0:00:15.85,0:00:15.87,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:15.87,0:00:15.89,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate {\1c&HFF00&\u1}a{\r} fare un
+Dialogue: 0,0:00:15.89,0:00:15.93,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:15.93,0:00:16.05,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a {\1c&HFF00&\u1}fare{\r} un
+Dialogue: 0,0:00:16.05,0:00:16.09,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare un
+Dialogue: 0,0:00:16.09,0:00:16.13,Default,,0,0,0,,mentre come al solito vi ricordo che mi stavo trasferendo continuate a fare {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:16.28,0:00:16.42,Default,,0,0,0,,{\1c&HFF00&\u1}sacco{\r} di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.42,0:00:16.44,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.44,0:00:16.50,Default,,0,0,0,,sacco {\1c&HFF00&\u1}di{\r} video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.50,0:00:16.52,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.52,0:00:16.78,Default,,0,0,0,,sacco di {\1c&HFF00&\u1}video{\r} tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.78,0:00:16.80,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.80,0:00:16.94,Default,,0,0,0,,sacco di video {\1c&HFF00&\u1}tutto{\r} quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.94,0:00:16.98,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:16.98,0:00:17.47,Default,,0,0,0,,sacco di video tutto {\1c&HFF00&\u1}quanto{\r} mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:17.47,0:00:17.69,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:17.69,0:00:17.73,Default,,0,0,0,,sacco di video tutto quanto {\1c&HFF00&\u1}mi{\r} sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:17.73,0:00:17.79,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:17.79,0:00:17.93,Default,,0,0,0,,sacco di video tutto quanto mi {\1c&HFF00&\u1}sono{\r} ritrovato due settimane prima nel
+Dialogue: 0,0:00:17.93,0:00:17.97,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:17.97,0:00:18.51,Default,,0,0,0,,sacco di video tutto quanto mi sono {\1c&HFF00&\u1}ritrovato{\r} due settimane prima nel
+Dialogue: 0,0:00:18.51,0:00:18.61,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:18.61,0:00:18.71,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato {\1c&HFF00&\u1}due{\r} settimane prima nel
+Dialogue: 0,0:00:18.71,0:00:18.77,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:18.77,0:00:19.05,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due {\1c&HFF00&\u1}settimane{\r} prima nel
+Dialogue: 0,0:00:19.05,0:00:19.07,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:19.07,0:00:19.27,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane {\1c&HFF00&\u1}prima{\r} nel
+Dialogue: 0,0:00:19.27,0:00:19.31,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima nel
+Dialogue: 0,0:00:19.31,0:00:19.39,Default,,0,0,0,,sacco di video tutto quanto mi sono ritrovato due settimane prima {\1c&HFF00&\u1}nel{\r}
+Dialogue: 0,0:00:19.62,0:00:19.96,Default,,0,0,0,,{\1c&HFF00&\u1}parziale{\r} sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:19.96,0:00:20.16,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:20.16,0:00:20.74,Default,,0,0,0,,parziale {\1c&HFF00&\u1}sostanzialmente{\r} nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:20.74,0:00:20.84,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:20.84,0:00:20.99,Default,,0,0,0,,parziale sostanzialmente {\1c&HFF00&\u1}nel{\r} baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:20.99,0:00:21.03,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:21.03,0:00:21.51,Default,,0,0,0,,parziale sostanzialmente nel {\1c&HFF00&\u1}baratro{\r} i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:21.51,0:00:21.67,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:21.67,0:00:21.69,Default,,0,0,0,,parziale sostanzialmente nel baratro {\1c&HFF00&\u1}i{\r} parziali per chi non sapesse le prove
+Dialogue: 0,0:00:21.69,0:00:21.73,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:21.73,0:00:22.13,Default,,0,0,0,,parziale sostanzialmente nel baratro i {\1c&HFF00&\u1}parziali{\r} per chi non sapesse le prove
+Dialogue: 0,0:00:22.13,0:00:22.17,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:22.17,0:00:22.25,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali {\1c&HFF00&\u1}per{\r} chi non sapesse le prove
+Dialogue: 0,0:00:22.25,0:00:22.27,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:22.27,0:00:22.35,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per {\1c&HFF00&\u1}chi{\r} non sapesse le prove
+Dialogue: 0,0:00:22.35,0:00:22.37,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:22.37,0:00:22.49,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi {\1c&HFF00&\u1}non{\r} sapesse le prove
+Dialogue: 0,0:00:22.49,0:00:22.53,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:22.53,0:00:22.89,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non {\1c&HFF00&\u1}sapesse{\r} le prove
+Dialogue: 0,0:00:22.89,0:00:22.93,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:22.93,0:00:23.15,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse {\1c&HFF00&\u1}le{\r} prove
+Dialogue: 0,0:00:23.15,0:00:23.23,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le prove
+Dialogue: 0,0:00:23.23,0:00:23.51,Default,,0,0,0,,parziale sostanzialmente nel baratro i parziali per chi non sapesse le {\1c&HFF00&\u1}prove{\r}
+Dialogue: 0,0:00:23.48,0:00:24.62,Default,,0,0,0,,{\1c&HFF00&\u1}initinere{\r} per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.62,0:00:24.64,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.64,0:00:24.72,Default,,0,0,0,,initinere {\1c&HFF00&\u1}per{\r} chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.72,0:00:24.76,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.76,0:00:24.84,Default,,0,0,0,,initinere per {\1c&HFF00&\u1}chi{\r} si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.84,0:00:24.88,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.88,0:00:24.96,Default,,0,0,0,,initinere per chi {\1c&HFF00&\u1}si{\r} lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.96,0:00:24.98,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:24.98,0:00:25.02,Default,,0,0,0,,initinere per chi si {\1c&HFF00&\u1}lo{\r} vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:25.02,0:00:25.04,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:25.04,0:00:25.19,Default,,0,0,0,,initinere per chi si lo {\1c&HFF00&\u1}vuole{\r} tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:25.19,0:00:25.23,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:25.23,0:00:25.69,Default,,0,0,0,,initinere per chi si lo vuole {\1c&HFF00&\u1}tirare{\r} sono degli esami sostanzialmente
+Dialogue: 0,0:00:25.69,0:00:26.19,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:26.19,0:00:26.63,Default,,0,0,0,,initinere per chi si lo vuole tirare {\1c&HFF00&\u1}sono{\r} degli esami sostanzialmente
+Dialogue: 0,0:00:26.63,0:00:26.89,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:26.89,0:00:27.05,Default,,0,0,0,,initinere per chi si lo vuole tirare sono {\1c&HFF00&\u1}degli{\r} esami sostanzialmente
+Dialogue: 0,0:00:27.05,0:00:27.07,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:27.07,0:00:27.33,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli {\1c&HFF00&\u1}esami{\r} sostanzialmente
+Dialogue: 0,0:00:27.33,0:00:27.35,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami sostanzialmente
+Dialogue: 0,0:00:27.35,0:00:27.87,Default,,0,0,0,,initinere per chi si lo vuole tirare sono degli esami {\1c&HFF00&\u1}sostanzialmente{\r}
+Dialogue: 0,0:00:27.88,0:00:28.48,Default,,0,0,0,,{\1c&HFF00&\u1}intermedi{\r} quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:28.48,0:00:28.50,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:28.50,0:00:28.62,Default,,0,0,0,,intermedi {\1c&HFF00&\u1}quindi{\r} invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:28.62,0:00:28.64,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:28.64,0:00:28.88,Default,,0,0,0,,intermedi quindi {\1c&HFF00&\u1}invece{\r} che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:28.88,0:00:28.90,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:28.90,0:00:29.04,Default,,0,0,0,,intermedi quindi invece {\1c&HFF00&\u1}che{\r} fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:29.04,0:00:29.06,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:29.06,0:00:29.24,Default,,0,0,0,,intermedi quindi invece che {\1c&HFF00&\u1}fare{\r} un esame grande nella sessione invernale a
+Dialogue: 0,0:00:29.24,0:00:29.73,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:29.73,0:00:29.81,Default,,0,0,0,,intermedi quindi invece che fare {\1c&HFF00&\u1}un{\r} esame grande nella sessione invernale a
+Dialogue: 0,0:00:29.81,0:00:29.85,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:29.85,0:00:30.27,Default,,0,0,0,,intermedi quindi invece che fare un {\1c&HFF00&\u1}esame{\r} grande nella sessione invernale a
+Dialogue: 0,0:00:30.27,0:00:30.43,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:30.43,0:00:31.05,Default,,0,0,0,,intermedi quindi invece che fare un esame {\1c&HFF00&\u1}grande{\r} nella sessione invernale a
+Dialogue: 0,0:00:31.05,0:00:31.29,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:31.29,0:00:31.49,Default,,0,0,0,,intermedi quindi invece che fare un esame grande {\1c&HFF00&\u1}nella{\r} sessione invernale a
+Dialogue: 0,0:00:31.49,0:00:31.55,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:31.55,0:00:32.11,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella {\1c&HFF00&\u1}sessione{\r} invernale a
+Dialogue: 0,0:00:32.11,0:00:32.53,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:32.53,0:00:33.11,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione {\1c&HFF00&\u1}invernale{\r} a
+Dialogue: 0,0:00:33.11,0:00:33.15,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale a
+Dialogue: 0,0:00:33.15,0:00:33.17,Default,,0,0,0,,intermedi quindi invece che fare un esame grande nella sessione invernale {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:33.32,0:00:33.90,Default,,0,0,0,,{\1c&HFF00&\u1}gennaio{\r} a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:33.90,0:00:34.04,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:34.04,0:00:34.08,Default,,0,0,0,,gennaio {\1c&HFF00&\u1}a{\r} febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:34.08,0:00:34.12,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:34.12,0:00:34.68,Default,,0,0,0,,gennaio a {\1c&HFF00&\u1}febbraio{\r} ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:34.68,0:00:34.94,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:34.94,0:00:35.05,Default,,0,0,0,,gennaio a febbraio {\1c&HFF00&\u1}ne{\r} fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.05,0:00:35.09,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.09,0:00:35.27,Default,,0,0,0,,gennaio a febbraio ne {\1c&HFF00&\u1}fai{\r} due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.27,0:00:35.31,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.31,0:00:35.43,Default,,0,0,0,,gennaio a febbraio ne fai {\1c&HFF00&\u1}due{\r} più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.43,0:00:35.47,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.47,0:00:35.55,Default,,0,0,0,,gennaio a febbraio ne fai due {\1c&HFF00&\u1}più{\r} piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.55,0:00:35.61,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:35.61,0:00:36.07,Default,,0,0,0,,gennaio a febbraio ne fai due più {\1c&HFF00&\u1}piccoli{\r} uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:36.07,0:00:36.31,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:36.31,0:00:36.49,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli {\1c&HFF00&\u1}uno{\r} di solito a ottobre novembre e un
+Dialogue: 0,0:00:36.49,0:00:36.55,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:36.55,0:00:36.65,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno {\1c&HFF00&\u1}di{\r} solito a ottobre novembre e un
+Dialogue: 0,0:00:36.65,0:00:36.71,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:36.71,0:00:37.07,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di {\1c&HFF00&\u1}solito{\r} a ottobre novembre e un
+Dialogue: 0,0:00:37.07,0:00:37.13,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:37.13,0:00:37.23,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito {\1c&HFF00&\u1}a{\r} ottobre novembre e un
+Dialogue: 0,0:00:37.23,0:00:37.39,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:37.39,0:00:37.71,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a {\1c&HFF00&\u1}ottobre{\r} novembre e un
+Dialogue: 0,0:00:37.71,0:00:37.77,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:37.77,0:00:38.25,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre {\1c&HFF00&\u1}novembre{\r} e un
+Dialogue: 0,0:00:38.25,0:00:38.43,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:38.43,0:00:38.47,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre {\1c&HFF00&\u1}e{\r} un
+Dialogue: 0,0:00:38.47,0:00:38.63,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e un
+Dialogue: 0,0:00:38.63,0:00:38.69,Default,,0,0,0,,gennaio a febbraio ne fai due più piccoli uno di solito a ottobre novembre e {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:00:38.94,0:00:39.38,Default,,0,0,0,,{\1c&HFF00&\u1}altro{\r} appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:39.38,0:00:39.40,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:39.40,0:00:39.70,Default,,0,0,0,,altro {\1c&HFF00&\u1}appunto{\r} durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:39.70,0:00:39.76,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:39.76,0:00:40.00,Default,,0,0,0,,altro appunto {\1c&HFF00&\u1}durante{\r} la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:40.00,0:00:40.06,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:40.06,0:00:40.13,Default,,0,0,0,,altro appunto durante {\1c&HFF00&\u1}la{\r} sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:40.13,0:00:40.17,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:40.17,0:00:40.85,Default,,0,0,0,,altro appunto durante la {\1c&HFF00&\u1}sessione{\r} ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:40.85,0:00:40.89,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:40.89,0:00:41.07,Default,,0,0,0,,altro appunto durante la sessione {\1c&HFF00&\u1}ecco{\r} quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:41.07,0:00:41.11,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:41.11,0:00:41.31,Default,,0,0,0,,altro appunto durante la sessione ecco {\1c&HFF00&\u1}quindi{\r} mi son messo lì ho iniziato a
+Dialogue: 0,0:00:41.31,0:00:41.39,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:41.39,0:00:41.47,Default,,0,0,0,,altro appunto durante la sessione ecco quindi {\1c&HFF00&\u1}mi{\r} son messo lì ho iniziato a
+Dialogue: 0,0:00:41.47,0:00:41.51,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:41.51,0:00:41.59,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi {\1c&HFF00&\u1}son{\r} messo lì ho iniziato a
+Dialogue: 0,0:00:41.59,0:00:41.61,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:41.61,0:00:41.81,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son {\1c&HFF00&\u1}messo{\r} lì ho iniziato a
+Dialogue: 0,0:00:41.81,0:00:41.85,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:41.85,0:00:42.05,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo {\1c&HFF00&\u1}lì{\r} ho iniziato a
+Dialogue: 0,0:00:42.05,0:00:42.07,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:42.07,0:00:42.11,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì {\1c&HFF00&\u1}ho{\r} iniziato a
+Dialogue: 0,0:00:42.11,0:00:42.19,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:42.19,0:00:42.41,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho {\1c&HFF00&\u1}iniziato{\r} a
+Dialogue: 0,0:00:42.41,0:00:42.43,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato a
+Dialogue: 0,0:00:42.43,0:00:42.45,Default,,0,0,0,,altro appunto durante la sessione ecco quindi mi son messo lì ho iniziato {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:42.42,0:00:42.86,Default,,0,0,0,,{\1c&HFF00&\u1}studiare{\r} studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:42.86,0:00:42.88,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:42.88,0:00:43.16,Default,,0,0,0,,studiare {\1c&HFF00&\u1}studiare{\r} studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:43.16,0:00:43.18,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:43.18,0:00:43.50,Default,,0,0,0,,studiare studiare {\1c&HFF00&\u1}studiare{\r} non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:43.50,0:00:43.97,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:43.97,0:00:44.05,Default,,0,0,0,,studiare studiare studiare {\1c&HFF00&\u1}non{\r} è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.05,0:00:44.09,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.09,0:00:44.11,Default,,0,0,0,,studiare studiare studiare non {\1c&HFF00&\u1}è{\r} che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.11,0:00:44.17,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.17,0:00:44.25,Default,,0,0,0,,studiare studiare studiare non è {\1c&HFF00&\u1}che{\r} mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.25,0:00:44.29,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.29,0:00:44.37,Default,,0,0,0,,studiare studiare studiare non è che {\1c&HFF00&\u1}mi{\r} sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.37,0:00:44.41,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.41,0:00:44.55,Default,,0,0,0,,studiare studiare studiare non è che mi {\1c&HFF00&\u1}sono{\r} ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.55,0:00:44.59,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:44.59,0:00:45.01,Default,,0,0,0,,studiare studiare studiare non è che mi sono {\1c&HFF00&\u1}ammazzato{\r} di studio ci tengo a
+Dialogue: 0,0:00:45.01,0:00:45.07,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:45.07,0:00:45.13,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato {\1c&HFF00&\u1}di{\r} studio ci tengo a
+Dialogue: 0,0:00:45.13,0:00:45.17,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:45.17,0:00:45.63,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di {\1c&HFF00&\u1}studio{\r} ci tengo a
+Dialogue: 0,0:00:45.63,0:00:45.85,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:45.85,0:00:45.91,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio {\1c&HFF00&\u1}ci{\r} tengo a
+Dialogue: 0,0:00:45.91,0:00:45.95,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:45.95,0:00:46.11,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci {\1c&HFF00&\u1}tengo{\r} a
+Dialogue: 0,0:00:46.11,0:00:46.13,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo a
+Dialogue: 0,0:00:46.13,0:00:46.15,Default,,0,0,0,,studiare studiare studiare non è che mi sono ammazzato di studio ci tengo {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:46.12,0:00:46.78,Default,,0,0,0,,{\1c&HFF00&\u1}precisarlo{\r} però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:46.78,0:00:46.86,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:46.86,0:00:47.12,Default,,0,0,0,,precisarlo {\1c&HFF00&\u1}però{\r} abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:47.12,0:00:47.30,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:47.30,0:00:47.71,Default,,0,0,0,,precisarlo però {\1c&HFF00&\u1}abbastanza{\r} carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:47.71,0:00:47.75,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:47.75,0:00:48.13,Default,,0,0,0,,precisarlo però abbastanza {\1c&HFF00&\u1}carico{\r} consapevole che sicuramente non avrei
+Dialogue: 0,0:00:48.13,0:00:48.19,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:48.19,0:00:48.69,Default,,0,0,0,,precisarlo però abbastanza carico {\1c&HFF00&\u1}consapevole{\r} che sicuramente non avrei
+Dialogue: 0,0:00:48.69,0:00:48.73,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:48.73,0:00:48.81,Default,,0,0,0,,precisarlo però abbastanza carico consapevole {\1c&HFF00&\u1}che{\r} sicuramente non avrei
+Dialogue: 0,0:00:48.81,0:00:48.91,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:48.91,0:00:49.35,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che {\1c&HFF00&\u1}sicuramente{\r} non avrei
+Dialogue: 0,0:00:49.35,0:00:49.41,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:49.41,0:00:49.51,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente {\1c&HFF00&\u1}non{\r} avrei
+Dialogue: 0,0:00:49.51,0:00:49.55,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non avrei
+Dialogue: 0,0:00:49.55,0:00:49.65,Default,,0,0,0,,precisarlo però abbastanza carico consapevole che sicuramente non {\1c&HFF00&\u1}avrei{\r}
+Dialogue: 0,0:00:49.66,0:00:50.14,Default,,0,0,0,,{\1c&HFF00&\u1}preso{\r} un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:50.14,0:00:50.30,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:50.30,0:00:50.48,Default,,0,0,0,,preso {\1c&HFF00&\u1}un 30{\r} ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:50.48,0:00:50.52,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:50.52,0:00:50.60,Default,,0,0,0,,preso un 30 {\1c&HFF00&\u1}ma{\r} consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:50.60,0:00:50.72,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:50.72,0:00:51.23,Default,,0,0,0,,preso un 30 ma {\1c&HFF00&\u1}consapevole{\r} che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:51.23,0:00:51.35,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:51.35,0:00:51.47,Default,,0,0,0,,preso un 30 ma consapevole {\1c&HFF00&\u1}che{\r} determinate cose le sapevo fare vado
+Dialogue: 0,0:00:51.47,0:00:52.09,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:52.09,0:00:52.53,Default,,0,0,0,,preso un 30 ma consapevole che {\1c&HFF00&\u1}determinate{\r} cose le sapevo fare vado
+Dialogue: 0,0:00:52.53,0:00:52.57,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:52.57,0:00:52.75,Default,,0,0,0,,preso un 30 ma consapevole che determinate {\1c&HFF00&\u1}cose{\r} le sapevo fare vado
+Dialogue: 0,0:00:52.75,0:00:52.83,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:52.83,0:00:52.87,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose {\1c&HFF00&\u1}le{\r} sapevo fare vado
+Dialogue: 0,0:00:52.87,0:00:52.91,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:52.91,0:00:53.13,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le {\1c&HFF00&\u1}sapevo{\r} fare vado
+Dialogue: 0,0:00:53.13,0:00:53.19,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:53.19,0:00:53.45,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo {\1c&HFF00&\u1}fare{\r} vado
+Dialogue: 0,0:00:53.45,0:00:53.53,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare vado
+Dialogue: 0,0:00:53.53,0:00:53.65,Default,,0,0,0,,preso un 30 ma consapevole che determinate cose le sapevo fare {\1c&HFF00&\u1}vado{\r}
+Dialogue: 0,0:00:53.76,0:00:54.28,Default,,0,0,0,,{\1c&HFF00&\u1}all'esame{\r} disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:54.28,0:00:54.52,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:54.52,0:00:54.92,Default,,0,0,0,,all'esame {\1c&HFF00&\u1}disastro{\r} totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:54.92,0:00:54.96,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:54.96,0:00:55.37,Default,,0,0,0,,all'esame disastro {\1c&HFF00&\u1}totale{\r} io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:55.37,0:00:55.43,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:55.43,0:00:55.51,Default,,0,0,0,,all'esame disastro totale {\1c&HFF00&\u1}io{\r} ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:55.51,0:00:55.55,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:55.55,0:00:55.79,Default,,0,0,0,,all'esame disastro totale io {\1c&HFF00&\u1}ripeto{\r} sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:55.79,0:00:55.87,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:55.87,0:00:56.01,Default,,0,0,0,,all'esame disastro totale io ripeto {\1c&HFF00&\u1}sono{\r} sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:56.01,0:00:56.03,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:56.03,0:00:56.17,Default,,0,0,0,,all'esame disastro totale io ripeto sono {\1c&HFF00&\u1}sempre{\r} andato bene a scuola quindi non
+Dialogue: 0,0:00:56.17,0:00:56.19,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:56.19,0:00:56.43,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre {\1c&HFF00&\u1}andato{\r} bene a scuola quindi non
+Dialogue: 0,0:00:56.43,0:00:56.49,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:56.49,0:00:56.63,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato {\1c&HFF00&\u1}bene{\r} a scuola quindi non
+Dialogue: 0,0:00:56.63,0:00:56.69,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:56.69,0:00:56.71,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene {\1c&HFF00&\u1}a{\r} scuola quindi non
+Dialogue: 0,0:00:56.71,0:00:56.75,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:56.75,0:00:57.03,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a {\1c&HFF00&\u1}scuola{\r} quindi non
+Dialogue: 0,0:00:57.03,0:00:57.05,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:57.05,0:00:57.23,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola {\1c&HFF00&\u1}quindi{\r} non
+Dialogue: 0,0:00:57.23,0:00:57.25,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi non
+Dialogue: 0,0:00:57.25,0:00:57.31,Default,,0,0,0,,all'esame disastro totale io ripeto sono sempre andato bene a scuola quindi {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:57.30,0:00:57.40,Default,,0,0,0,,{\1c&HFF00&\u1}ma{\r} avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:57.40,0:00:57.42,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:57.42,0:00:57.54,Default,,0,0,0,,ma {\1c&HFF00&\u1}avevo{\r} mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:57.54,0:00:57.56,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:57.56,0:00:57.64,Default,,0,0,0,,ma avevo {\1c&HFF00&\u1}mai{\r} provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:57.64,0:00:57.68,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:57.68,0:00:58.04,Default,,0,0,0,,ma avevo mai {\1c&HFF00&\u1}provato{\r} questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:58.04,0:00:58.08,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:58.08,0:00:58.38,Default,,0,0,0,,ma avevo mai provato {\1c&HFF00&\u1}questa{\r} sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:58.38,0:00:58.88,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:58.88,0:00:59.44,Default,,0,0,0,,ma avevo mai provato questa {\1c&HFF00&\u1}sensazione{\r} di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:59.44,0:00:59.52,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:59.52,0:00:59.63,Default,,0,0,0,,ma avevo mai provato questa sensazione {\1c&HFF00&\u1}di{\r} disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:00:59.63,0:01:0.09,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:0.09,0:01:0.67,Default,,0,0,0,,ma avevo mai provato questa sensazione di {\1c&HFF00&\u1}disagio{\r} proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:0.67,0:01:0.73,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:0.73,0:01:1.03,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio {\1c&HFF00&\u1}proprio,{\r} panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:1.03,0:01:1.17,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:1.17,0:01:1.53,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, {\1c&HFF00&\u1}panico{\r} totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:1.53,0:01:1.59,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:1.59,0:01:2.21,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico {\1c&HFF00&\u1}totale{\r} e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.21,0:01:2.41,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.41,0:01:2.45,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale {\1c&HFF00&\u1}e{\r} in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.45,0:01:2.49,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.49,0:01:2.53,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e {\1c&HFF00&\u1}in{\r} quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.53,0:01:2.55,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.55,0:01:2.67,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in {\1c&HFF00&\u1}quel{\r} momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.67,0:01:2.69,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.69,0:01:2.93,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel {\1c&HFF00&\u1}momento{\r} mi è crollato il mondo addosso
+Dialogue: 0,0:01:2.93,0:01:3.05,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:3.05,0:01:3.11,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento {\1c&HFF00&\u1}mi{\r} è crollato il mondo addosso
+Dialogue: 0,0:01:3.11,0:01:3.15,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:3.15,0:01:3.17,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi {\1c&HFF00&\u1}è{\r} crollato il mondo addosso
+Dialogue: 0,0:01:3.17,0:01:3.25,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:3.25,0:01:3.73,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è {\1c&HFF00&\u1}crollato{\r} il mondo addosso
+Dialogue: 0,0:01:3.73,0:01:3.79,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:3.79,0:01:3.83,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato {\1c&HFF00&\u1}il{\r} mondo addosso
+Dialogue: 0,0:01:3.83,0:01:3.87,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:3.87,0:01:4.03,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il {\1c&HFF00&\u1}mondo{\r} addosso
+Dialogue: 0,0:01:4.03,0:01:4.08,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo addosso
+Dialogue: 0,0:01:4.08,0:01:4.44,Default,,0,0,0,,ma avevo mai provato questa sensazione di disagio proprio, panico totale e in quel momento mi è crollato il mondo {\1c&HFF00&\u1}addosso{\r}
+Dialogue: 0,0:01:4.56,0:01:4.60,Default,,0,0,0,,{\1c&HFF00&\u1}io{\r} mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:4.60,0:01:4.62,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:4.62,0:01:4.66,Default,,0,0,0,,io {\1c&HFF00&\u1}mi{\r} ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:4.66,0:01:4.68,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:4.68,0:01:4.94,Default,,0,0,0,,io mi {\1c&HFF00&\u1}ricordo{\r} che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:4.94,0:01:4.96,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:4.96,0:01:5.02,Default,,0,0,0,,io mi ricordo {\1c&HFF00&\u1}che{\r} la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:5.02,0:01:5.12,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:5.12,0:01:5.24,Default,,0,0,0,,io mi ricordo che {\1c&HFF00&\u1}la{\r} sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:5.24,0:01:5.26,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:5.26,0:01:5.66,Default,,0,0,0,,io mi ricordo che la {\1c&HFF00&\u1}sera{\r} ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:5.66,0:01:5.84,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:5.84,0:01:5.98,Default,,0,0,0,,io mi ricordo che la sera {\1c&HFF00&\u1}ero{\r} in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:5.98,0:01:6.00,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:6.00,0:01:6.06,Default,,0,0,0,,io mi ricordo che la sera ero {\1c&HFF00&\u1}in{\r} lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:6.06,0:01:6.10,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:6.10,0:01:6.53,Default,,0,0,0,,io mi ricordo che la sera ero in {\1c&HFF00&\u1}lacrime{\r} al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:6.53,0:01:6.55,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:6.55,0:01:6.59,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime {\1c&HFF00&\u1}al{\r} telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:6.59,0:01:6.73,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:6.73,0:01:7.05,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al {\1c&HFF00&\u1}telefono{\r} con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.05,0:01:7.07,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.07,0:01:7.15,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono {\1c&HFF00&\u1}con{\r} i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.15,0:01:7.17,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.17,0:01:7.19,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con {\1c&HFF00&\u1}i{\r} miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.19,0:01:7.21,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.21,0:01:7.33,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i {\1c&HFF00&\u1}miei{\r} genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.33,0:01:7.35,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.35,0:01:7.85,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei {\1c&HFF00&\u1}genitori{\r} dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.85,0:01:7.91,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:7.91,0:01:8.25,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori {\1c&HFF00&\u1}dicendo{\r} no no no no no sono un fallimento
+Dialogue: 0,0:01:8.25,0:01:8.27,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:8.27,0:01:8.43,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo {\1c&HFF00&\u1}no{\r} no no no no sono un fallimento
+Dialogue: 0,0:01:8.43,0:01:8.45,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:8.45,0:01:8.57,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no {\1c&HFF00&\u1}no{\r} no no no sono un fallimento
+Dialogue: 0,0:01:8.57,0:01:8.59,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:8.59,0:01:8.71,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no {\1c&HFF00&\u1}no{\r} no no sono un fallimento
+Dialogue: 0,0:01:8.71,0:01:8.73,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:8.73,0:01:8.87,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no {\1c&HFF00&\u1}no{\r} no sono un fallimento
+Dialogue: 0,0:01:8.87,0:01:8.91,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:8.91,0:01:9.11,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no {\1c&HFF00&\u1}no{\r} sono un fallimento
+Dialogue: 0,0:01:9.11,0:01:9.39,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:9.39,0:01:9.53,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no {\1c&HFF00&\u1}sono{\r} un fallimento
+Dialogue: 0,0:01:9.53,0:01:9.55,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:9.55,0:01:9.63,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono {\1c&HFF00&\u1}un{\r} fallimento
+Dialogue: 0,0:01:9.63,0:01:9.67,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un fallimento
+Dialogue: 0,0:01:9.67,0:01:10.27,Default,,0,0,0,,io mi ricordo che la sera ero in lacrime al telefono con i miei genitori dicendo no no no no no sono un {\1c&HFF00&\u1}fallimento{\r}
+Dialogue: 0,0:01:10.58,0:01:10.62,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:10.62,0:01:10.64,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:10.64,0:01:10.86,Default,,0,0,0,,in {\1c&HFF00&\u1}realtà{\r} poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:10.86,0:01:10.90,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:10.90,0:01:11.06,Default,,0,0,0,,in realtà {\1c&HFF00&\u1}poi{\r} era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.06,0:01:11.20,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.20,0:01:11.30,Default,,0,0,0,,in realtà poi {\1c&HFF00&\u1}era{\r} andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.30,0:01:11.34,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.34,0:01:11.64,Default,,0,0,0,,in realtà poi era {\1c&HFF00&\u1}andato{\r} nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.64,0:01:11.70,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.70,0:01:11.82,Default,,0,0,0,,in realtà poi era andato {\1c&HFF00&\u1}nel{\r} complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.82,0:01:11.86,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:11.86,0:01:12.31,Default,,0,0,0,,in realtà poi era andato nel {\1c&HFF00&\u1}complesso{\r} male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:12.31,0:01:12.39,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:12.39,0:01:12.69,Default,,0,0,0,,in realtà poi era andato nel complesso {\1c&HFF00&\u1}male{\r} a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:12.69,0:01:12.87,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:12.87,0:01:13.05,Default,,0,0,0,,in realtà poi era andato nel complesso male {\1c&HFF00&\u1}a{\r} tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.05,0:01:13.11,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.11,0:01:13.27,Default,,0,0,0,,in realtà poi era andato nel complesso male a {\1c&HFF00&\u1}tutti{\r} gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.27,0:01:13.31,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.31,0:01:13.39,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti {\1c&HFF00&\u1}gli{\r} altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.39,0:01:13.41,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.41,0:01:13.59,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli {\1c&HFF00&\u1}altri{\r} del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.59,0:01:13.63,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.63,0:01:13.73,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri {\1c&HFF00&\u1}del{\r} mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.73,0:01:13.77,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.77,0:01:13.85,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del {\1c&HFF00&\u1}mio{\r} corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.85,0:01:13.89,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:13.89,0:01:14.35,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio {\1c&HFF00&\u1}corso{\r} quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:14.35,0:01:14.47,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:14.47,0:01:14.63,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso {\1c&HFF00&\u1}quindi{\r} era anche una questione di difficoltà
+Dialogue: 0,0:01:14.63,0:01:14.65,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:14.65,0:01:14.71,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi {\1c&HFF00&\u1}era{\r} anche una questione di difficoltà
+Dialogue: 0,0:01:14.71,0:01:14.73,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:14.73,0:01:14.89,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era {\1c&HFF00&\u1}anche{\r} una questione di difficoltà
+Dialogue: 0,0:01:14.89,0:01:14.91,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:14.91,0:01:14.99,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche {\1c&HFF00&\u1}una{\r} questione di difficoltà
+Dialogue: 0,0:01:14.99,0:01:15.01,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:15.01,0:01:15.27,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una {\1c&HFF00&\u1}questione{\r} di difficoltà
+Dialogue: 0,0:01:15.27,0:01:16.11,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:16.11,0:01:16.19,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione {\1c&HFF00&\u1}di{\r} difficoltà
+Dialogue: 0,0:01:16.19,0:01:16.23,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di difficoltà
+Dialogue: 0,0:01:16.23,0:01:16.68,Default,,0,0,0,,in realtà poi era andato nel complesso male a tutti gli altri del mio corso quindi era anche una questione di {\1c&HFF00&\u1}difficoltà{\r}
+Dialogue: 0,0:01:16.90,0:01:17.18,Default,,0,0,0,,{\1c&HFF00&\u1}dopodiché{\r} ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.18,0:01:17.22,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.22,0:01:17.28,Default,,0,0,0,,dopodiché {\1c&HFF00&\u1}ci{\r} è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.28,0:01:17.30,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.30,0:01:17.32,Default,,0,0,0,,dopodiché ci {\1c&HFF00&\u1}è{\r} stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.32,0:01:17.36,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.36,0:01:17.50,Default,,0,0,0,,dopodiché ci è {\1c&HFF00&\u1}stato{\r} invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.50,0:01:17.52,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.52,0:01:17.76,Default,,0,0,0,,dopodiché ci è stato {\1c&HFF00&\u1}invece{\r} il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.76,0:01:17.80,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.80,0:01:17.88,Default,,0,0,0,,dopodiché ci è stato invece {\1c&HFF00&\u1}il{\r} parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.88,0:01:17.90,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:17.90,0:01:18.26,Default,,0,0,0,,dopodiché ci è stato invece il {\1c&HFF00&\u1}parziale{\r} di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:18.26,0:01:18.31,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:18.31,0:01:18.37,Default,,0,0,0,,dopodiché ci è stato invece il parziale {\1c&HFF00&\u1}di{\r} analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:18.37,0:01:18.41,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:18.41,0:01:18.99,Default,,0,0,0,,dopodiché ci è stato invece il parziale di {\1c&HFF00&\u1}analisi{\r} che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:18.99,0:01:19.13,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:19.13,0:01:19.23,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi {\1c&HFF00&\u1}che{\r} è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:19.23,0:01:19.27,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:19.27,0:01:19.31,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che {\1c&HFF00&\u1}è{\r} fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:19.31,0:01:19.59,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:19.59,0:01:20.07,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è {\1c&HFF00&\u1}fondamentalmente{\r} matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:20.07,0:01:20.13,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:20.13,0:01:20.69,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente {\1c&HFF00&\u1}matematica{\r} pura e quello è invece andato bene
+Dialogue: 0,0:01:20.69,0:01:20.75,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:20.75,0:01:21.09,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica {\1c&HFF00&\u1}pura{\r} e quello è invece andato bene
+Dialogue: 0,0:01:21.09,0:01:21.27,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:21.27,0:01:21.31,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura {\1c&HFF00&\u1}e{\r} quello è invece andato bene
+Dialogue: 0,0:01:21.31,0:01:21.33,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:21.33,0:01:21.45,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e {\1c&HFF00&\u1}quello{\r} è invece andato bene
+Dialogue: 0,0:01:21.45,0:01:21.47,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:21.47,0:01:21.49,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello {\1c&HFF00&\u1}è{\r} invece andato bene
+Dialogue: 0,0:01:21.49,0:01:21.51,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:21.51,0:01:21.67,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è {\1c&HFF00&\u1}invece{\r} andato bene
+Dialogue: 0,0:01:21.67,0:01:21.73,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:21.73,0:01:21.95,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece {\1c&HFF00&\u1}andato{\r} bene
+Dialogue: 0,0:01:21.95,0:01:21.99,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato bene
+Dialogue: 0,0:01:21.99,0:01:22.19,Default,,0,0,0,,dopodiché ci è stato invece il parziale di analisi che è fondamentalmente matematica pura e quello è invece andato {\1c&HFF00&\u1}bene{\r}
+Dialogue: 0,0:01:22.34,0:01:22.42,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:22.42,0:01:22.44,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:22.44,0:01:22.48,Default,,0,0,0,,non {\1c&HFF00&\u1}mi{\r} ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:22.48,0:01:22.50,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:22.50,0:01:22.70,Default,,0,0,0,,non mi {\1c&HFF00&\u1}ricordo{\r} se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:22.70,0:01:22.74,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:22.74,0:01:23.24,Default,,0,0,0,,non mi ricordo {\1c&HFF00&\u1}se{\r} avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:23.24,0:01:23.26,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:23.26,0:01:24.29,Default,,0,0,0,,non mi ricordo se {\1c&HFF00&\u1}avevo{\r} preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.29,0:01:24.31,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.31,0:01:24.77,Default,,0,0,0,,non mi ricordo se avevo {\1c&HFF00&\u1}preso 24{\r} o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.77,0:01:24.81,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.81,0:01:24.83,Default,,0,0,0,,non mi ricordo se avevo preso 24 {\1c&HFF00&\u1}o 25{\r} o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.83,0:01:24.87,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.87,0:01:24.89,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 {\1c&HFF00&\u1}o{\r} qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.89,0:01:24.91,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:24.91,0:01:25.19,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o {\1c&HFF00&\u1}qualcosa{\r} del genere ed era tutto
+Dialogue: 0,0:01:25.19,0:01:25.23,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:25.23,0:01:25.37,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa {\1c&HFF00&\u1}del{\r} genere ed era tutto
+Dialogue: 0,0:01:25.37,0:01:25.41,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:25.41,0:01:25.79,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del {\1c&HFF00&\u1}genere{\r} ed era tutto
+Dialogue: 0,0:01:25.79,0:01:25.99,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:25.99,0:01:26.05,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere {\1c&HFF00&\u1}ed{\r} era tutto
+Dialogue: 0,0:01:26.05,0:01:26.09,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:26.09,0:01:26.21,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed {\1c&HFF00&\u1}era{\r} tutto
+Dialogue: 0,0:01:26.21,0:01:26.25,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era tutto
+Dialogue: 0,0:01:26.25,0:01:26.45,Default,,0,0,0,,non mi ricordo se avevo preso 24 o 25 o qualcosa del genere ed era {\1c&HFF00&\u1}tutto{\r}
+Dialogue: 0,0:01:26.86,0:01:27.26,Default,,0,0,0,,{\1c&HFF00&\u1}programma{\r} già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.26,0:01:27.30,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.30,0:01:27.44,Default,,0,0,0,,programma {\1c&HFF00&\u1}già{\r} fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.44,0:01:27.50,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.50,0:01:27.68,Default,,0,0,0,,programma già {\1c&HFF00&\u1}fatto{\r} e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.68,0:01:27.70,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.70,0:01:27.72,Default,,0,0,0,,programma già fatto {\1c&HFF00&\u1}e{\r} rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.72,0:01:27.76,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:27.76,0:01:28.05,Default,,0,0,0,,programma già fatto e {\1c&HFF00&\u1}rifatto{\r} al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:28.05,0:01:28.07,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:28.07,0:01:28.11,Default,,0,0,0,,programma già fatto e rifatto {\1c&HFF00&\u1}al{\r} liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:28.11,0:01:28.17,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:28.17,0:01:28.49,Default,,0,0,0,,programma già fatto e rifatto al {\1c&HFF00&\u1}liceo{\r} fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:28.49,0:01:28.55,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:28.55,0:01:29.43,Default,,0,0,0,,programma già fatto e rifatto al liceo {\1c&HFF00&\u1}fondamentalmente{\r} e quindi mi ha fatto un
+Dialogue: 0,0:01:29.43,0:01:29.67,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:29.67,0:01:29.69,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente {\1c&HFF00&\u1}e{\r} quindi mi ha fatto un
+Dialogue: 0,0:01:29.69,0:01:29.73,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:29.73,0:01:29.87,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e {\1c&HFF00&\u1}quindi{\r} mi ha fatto un
+Dialogue: 0,0:01:29.87,0:01:29.89,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:29.89,0:01:29.93,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi {\1c&HFF00&\u1}mi{\r} ha fatto un
+Dialogue: 0,0:01:29.93,0:01:29.97,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:29.97,0:01:30.01,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi {\1c&HFF00&\u1}ha{\r} fatto un
+Dialogue: 0,0:01:30.01,0:01:30.03,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:30.03,0:01:30.15,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha {\1c&HFF00&\u1}fatto{\r} un
+Dialogue: 0,0:01:30.15,0:01:30.17,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto un
+Dialogue: 0,0:01:30.17,0:01:30.21,Default,,0,0,0,,programma già fatto e rifatto al liceo fondamentalmente e quindi mi ha fatto {\1c&HFF00&\u1}un{\r}
+Dialogue: 0,0:01:30.22,0:01:30.52,Default,,0,0,0,,{\1c&HFF00&\u1}po'{\r} risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:30.52,0:01:30.56,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:30.56,0:01:30.96,Default,,0,0,0,,po' {\1c&HFF00&\u1}risollevare{\r} ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:30.96,0:01:31.00,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.00,0:01:31.08,Default,,0,0,0,,po' risollevare {\1c&HFF00&\u1}ho{\r} detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.08,0:01:31.10,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.10,0:01:31.26,Default,,0,0,0,,po' risollevare ho {\1c&HFF00&\u1}detto{\r} ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.26,0:01:31.34,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.34,0:01:31.38,Default,,0,0,0,,po' risollevare ho detto {\1c&HFF00&\u1}ok{\r} forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.38,0:01:31.42,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.42,0:01:31.61,Default,,0,0,0,,po' risollevare ho detto ok {\1c&HFF00&\u1}forse{\r} non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.61,0:01:31.67,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.67,0:01:31.79,Default,,0,0,0,,po' risollevare ho detto ok forse {\1c&HFF00&\u1}non{\r} sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.79,0:01:31.83,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:31.83,0:01:31.97,Default,,0,0,0,,po' risollevare ho detto ok forse non {\1c&HFF00&\u1}sono{\r} così troppo un fallimento si può
+Dialogue: 0,0:01:31.97,0:01:32.03,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:32.03,0:01:32.17,Default,,0,0,0,,po' risollevare ho detto ok forse non sono {\1c&HFF00&\u1}così{\r} troppo un fallimento si può
+Dialogue: 0,0:01:32.17,0:01:32.21,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:32.21,0:01:32.43,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così {\1c&HFF00&\u1}troppo{\r} un fallimento si può
+Dialogue: 0,0:01:32.43,0:01:32.45,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:32.45,0:01:32.51,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo {\1c&HFF00&\u1}un{\r} fallimento si può
+Dialogue: 0,0:01:32.51,0:01:32.55,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:32.55,0:01:33.03,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un {\1c&HFF00&\u1}fallimento{\r} si può
+Dialogue: 0,0:01:33.03,0:01:33.27,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:33.27,0:01:33.35,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento {\1c&HFF00&\u1}si{\r} può
+Dialogue: 0,0:01:33.35,0:01:33.41,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si può
+Dialogue: 0,0:01:33.41,0:01:33.47,Default,,0,0,0,,po' risollevare ho detto ok forse non sono così troppo un fallimento si {\1c&HFF00&\u1}può{\r}
+Dialogue: 0,0:01:33.80,0:01:33.96,Default,,0,0,0,,{\1c&HFF00&\u1}fare{\r} posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:33.96,0:01:33.98,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:33.98,0:01:34.16,Default,,0,0,0,,fare {\1c&HFF00&\u1}posso{\r} fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:34.16,0:01:34.20,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:34.20,0:01:34.32,Default,,0,0,0,,fare posso {\1c&HFF00&\u1}fare{\r} ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:34.32,0:01:34.34,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:34.34,0:01:34.80,Default,,0,0,0,,fare posso fare {\1c&HFF00&\u1}ingegneria{\r} posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:34.80,0:01:34.86,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:34.86,0:01:35.09,Default,,0,0,0,,fare posso fare ingegneria {\1c&HFF00&\u1}posso{\r} nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:35.09,0:01:35.15,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:35.15,0:01:35.27,Default,,0,0,0,,fare posso fare ingegneria posso {\1c&HFF00&\u1}nel{\r} mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:35.27,0:01:35.31,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:35.31,0:01:35.59,Default,,0,0,0,,fare posso fare ingegneria posso nel {\1c&HFF00&\u1}mentre{\r} continuare a dedicare tanto tempo
+Dialogue: 0,0:01:35.59,0:01:35.63,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:35.63,0:01:35.99,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre {\1c&HFF00&\u1}continuare{\r} a dedicare tanto tempo
+Dialogue: 0,0:01:35.99,0:01:36.01,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:36.01,0:01:36.03,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare {\1c&HFF00&\u1}a{\r} dedicare tanto tempo
+Dialogue: 0,0:01:36.03,0:01:36.05,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:36.05,0:01:36.39,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a {\1c&HFF00&\u1}dedicare{\r} tanto tempo
+Dialogue: 0,0:01:36.39,0:01:36.49,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:36.49,0:01:36.75,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare {\1c&HFF00&\u1}tanto{\r} tempo
+Dialogue: 0,0:01:36.75,0:01:36.81,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto tempo
+Dialogue: 0,0:01:36.81,0:01:36.97,Default,,0,0,0,,fare posso fare ingegneria posso nel mentre continuare a dedicare tanto {\1c&HFF00&\u1}tempo{\r}
+Dialogue: 0,0:01:36.98,0:01:37.02,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:37.02,0:01:37.26,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:37.26,0:01:37.42,Default,,0,0,0,,a {\1c&HFF00&\u1}youtube{\r} perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:37.42,0:01:37.44,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:37.44,0:01:38.22,Default,,0,0,0,,a youtube {\1c&HFF00&\u1}perché{\r} questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:38.22,0:01:38.28,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:38.28,0:01:38.50,Default,,0,0,0,,a youtube perché {\1c&HFF00&\u1}questa{\r} roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:38.50,0:01:38.56,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:38.56,0:01:38.74,Default,,0,0,0,,a youtube perché questa {\1c&HFF00&\u1}roba{\r} qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:38.74,0:01:38.78,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:38.78,0:01:39.13,Default,,0,0,0,,a youtube perché questa roba {\1c&HFF00&\u1}qui{\r} non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:39.13,0:01:39.41,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:39.41,0:01:39.63,Default,,0,0,0,,a youtube perché questa roba qui {\1c&HFF00&\u1}non{\r} lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:39.63,0:01:39.75,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:39.75,0:01:39.83,Default,,0,0,0,,a youtube perché questa roba qui non {\1c&HFF00&\u1}lo{\r} so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:39.83,0:01:39.91,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:39.91,0:01:40.05,Default,,0,0,0,,a youtube perché questa roba qui non lo {\1c&HFF00&\u1}so{\r} se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:40.05,0:01:40.25,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:40.25,0:01:40.37,Default,,0,0,0,,a youtube perché questa roba qui non lo so {\1c&HFF00&\u1}se{\r} l'avete capito ma richiede tanto
+Dialogue: 0,0:01:40.37,0:01:40.53,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:40.53,0:01:40.79,Default,,0,0,0,,a youtube perché questa roba qui non lo so se {\1c&HFF00&\u1}l'avete{\r} capito ma richiede tanto
+Dialogue: 0,0:01:40.79,0:01:40.85,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:40.85,0:01:41.17,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete {\1c&HFF00&\u1}capito{\r} ma richiede tanto
+Dialogue: 0,0:01:41.17,0:01:41.23,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:41.23,0:01:41.37,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito {\1c&HFF00&\u1}ma{\r} richiede tanto
+Dialogue: 0,0:01:41.37,0:01:41.61,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:41.61,0:01:41.89,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma {\1c&HFF00&\u1}richiede{\r} tanto
+Dialogue: 0,0:01:41.89,0:01:42.01,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede tanto
+Dialogue: 0,0:01:42.01,0:01:42.31,Default,,0,0,0,,a youtube perché questa roba qui non lo so se l'avete capito ma richiede {\1c&HFF00&\u1}tanto{\r}
+Dialogue: 0,0:01:42.62,0:01:42.86,Default,,0,0,0,,{\1c&HFF00&\u1}tempo{\r} sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:42.86,0:01:43.02,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.02,0:01:43.12,Default,,0,0,0,,tempo {\1c&HFF00&\u1}sia{\r} per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.12,0:01:43.16,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.16,0:01:43.28,Default,,0,0,0,,tempo sia {\1c&HFF00&\u1}per{\r} fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.28,0:01:43.34,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.34,0:01:43.48,Default,,0,0,0,,tempo sia per {\1c&HFF00&\u1}fare{\r} i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.48,0:01:43.50,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.50,0:01:43.54,Default,,0,0,0,,tempo sia per fare {\1c&HFF00&\u1}i{\r} video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.54,0:01:43.56,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.56,0:01:43.87,Default,,0,0,0,,tempo sia per fare i {\1c&HFF00&\u1}video{\r} sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.87,0:01:43.95,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:43.95,0:01:44.09,Default,,0,0,0,,tempo sia per fare i video {\1c&HFF00&\u1}sia{\r} per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:44.09,0:01:44.13,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:44.13,0:01:44.25,Default,,0,0,0,,tempo sia per fare i video sia {\1c&HFF00&\u1}per{\r} recuperare i prodotti sia per montare
+Dialogue: 0,0:01:44.25,0:01:44.29,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:44.29,0:01:44.71,Default,,0,0,0,,tempo sia per fare i video sia per {\1c&HFF00&\u1}recuperare{\r} i prodotti sia per montare
+Dialogue: 0,0:01:44.71,0:01:44.75,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:44.75,0:01:44.79,Default,,0,0,0,,tempo sia per fare i video sia per recuperare {\1c&HFF00&\u1}i{\r} prodotti sia per montare
+Dialogue: 0,0:01:44.79,0:01:44.81,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:44.81,0:01:45.27,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i {\1c&HFF00&\u1}prodotti{\r} sia per montare
+Dialogue: 0,0:01:45.27,0:01:45.41,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:45.41,0:01:45.57,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti {\1c&HFF00&\u1}sia{\r} per montare
+Dialogue: 0,0:01:45.57,0:01:45.65,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:45.65,0:01:45.79,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia {\1c&HFF00&\u1}per{\r} montare
+Dialogue: 0,0:01:45.79,0:01:45.87,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per montare
+Dialogue: 0,0:01:45.87,0:01:46.37,Default,,0,0,0,,tempo sia per fare i video sia per recuperare i prodotti sia per {\1c&HFF00&\u1}montare{\r}
+Dialogue: 0,0:01:46.64,0:01:47.12,Default,,0,0,0,,{\1c&HFF00&\u1}disfare{\r} gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:47.12,0:01:47.42,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:47.42,0:01:47.68,Default,,0,0,0,,disfare {\1c&HFF00&\u1}gestire{\r} tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:47.68,0:01:47.74,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:47.74,0:01:47.93,Default,,0,0,0,,disfare gestire {\1c&HFF00&\u1}tutto{\r} il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:47.93,0:01:47.95,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:47.95,0:01:48.01,Default,,0,0,0,,disfare gestire tutto {\1c&HFF00&\u1}il{\r} lato commerciale le collaborazioni e
+Dialogue: 0,0:01:48.01,0:01:48.03,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:48.03,0:01:48.31,Default,,0,0,0,,disfare gestire tutto il {\1c&HFF00&\u1}lato{\r} commerciale le collaborazioni e
+Dialogue: 0,0:01:48.31,0:01:48.51,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:48.51,0:01:49.09,Default,,0,0,0,,disfare gestire tutto il lato {\1c&HFF00&\u1}commerciale{\r} le collaborazioni e
+Dialogue: 0,0:01:49.09,0:01:49.19,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:49.19,0:01:49.25,Default,,0,0,0,,disfare gestire tutto il lato commerciale {\1c&HFF00&\u1}le{\r} collaborazioni e
+Dialogue: 0,0:01:49.25,0:01:49.29,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:49.29,0:01:50.01,Default,,0,0,0,,disfare gestire tutto il lato commerciale le {\1c&HFF00&\u1}collaborazioni{\r} e
+Dialogue: 0,0:01:50.01,0:01:50.03,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni e
+Dialogue: 0,0:01:50.03,0:01:50.05,Default,,0,0,0,,disfare gestire tutto il lato commerciale le collaborazioni {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:01:50.26,0:01:50.88,Default,,0,0,0,,{\1c&HFF00&\u1}quant'altro{\r} io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:50.88,0:01:51.08,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.08,0:01:51.12,Default,,0,0,0,,quant'altro {\1c&HFF00&\u1}io{\r} andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.12,0:01:51.16,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.16,0:01:51.36,Default,,0,0,0,,quant'altro io {\1c&HFF00&\u1}andavo{\r} alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.36,0:01:51.38,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.38,0:01:51.48,Default,,0,0,0,,quant'altro io andavo {\1c&HFF00&\u1}alle{\r} lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.48,0:01:51.50,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.50,0:01:51.67,Default,,0,0,0,,quant'altro io andavo alle {\1c&HFF00&\u1}lezioni{\r} alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.67,0:01:51.73,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.73,0:01:51.83,Default,,0,0,0,,quant'altro io andavo alle lezioni {\1c&HFF00&\u1}alla{\r} mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.83,0:01:51.87,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:51.87,0:01:52.33,Default,,0,0,0,,quant'altro io andavo alle lezioni alla {\1c&HFF00&\u1}mattina{\r} tornava a casa facevo i video
+Dialogue: 0,0:01:52.33,0:01:52.49,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:52.49,0:01:52.77,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina {\1c&HFF00&\u1}tornava{\r} a casa facevo i video
+Dialogue: 0,0:01:52.77,0:01:52.79,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:52.79,0:01:52.81,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava {\1c&HFF00&\u1}a{\r} casa facevo i video
+Dialogue: 0,0:01:52.81,0:01:52.85,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:52.85,0:01:53.25,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a {\1c&HFF00&\u1}casa{\r} facevo i video
+Dialogue: 0,0:01:53.25,0:01:53.35,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:53.35,0:01:53.63,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa {\1c&HFF00&\u1}facevo{\r} i video
+Dialogue: 0,0:01:53.63,0:01:53.67,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:53.67,0:01:53.71,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo {\1c&HFF00&\u1}i{\r} video
+Dialogue: 0,0:01:53.71,0:01:53.73,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i video
+Dialogue: 0,0:01:53.73,0:01:54.05,Default,,0,0,0,,quant'altro io andavo alle lezioni alla mattina tornava a casa facevo i {\1c&HFF00&\u1}video{\r}
+Dialogue: 0,0:01:53.98,0:01:54.28,Default,,0,0,0,,{\1c&HFF00&\u1}però{\r} era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.28,0:01:54.32,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.32,0:01:54.58,Default,,0,0,0,,però {\1c&HFF00&\u1}era{\r} tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.58,0:01:54.60,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.60,0:01:54.76,Default,,0,0,0,,però era {\1c&HFF00&\u1}tutto{\r} un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.76,0:01:54.80,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.80,0:01:54.92,Default,,0,0,0,,però era tutto {\1c&HFF00&\u1}un{\r} loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.92,0:01:54.98,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:54.98,0:01:55.16,Default,,0,0,0,,però era tutto un {\1c&HFF00&\u1}loop{\r} continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:55.16,0:01:55.18,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:55.18,0:01:55.46,Default,,0,0,0,,però era tutto un loop {\1c&HFF00&\u1}continuo{\r} continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:55.46,0:01:55.50,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:55.50,0:01:55.75,Default,,0,0,0,,però era tutto un loop continuo {\1c&HFF00&\u1}continuo{\r} continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:55.75,0:01:55.79,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:55.79,0:01:56.29,Default,,0,0,0,,però era tutto un loop continuo continuo {\1c&HFF00&\u1}continuo{\r} e non è che studiavo a casa mi
+Dialogue: 0,0:01:56.29,0:01:56.43,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:56.43,0:01:56.45,Default,,0,0,0,,però era tutto un loop continuo continuo continuo {\1c&HFF00&\u1}e{\r} non è che studiavo a casa mi
+Dialogue: 0,0:01:56.45,0:01:56.49,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:56.49,0:01:56.57,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e {\1c&HFF00&\u1}non{\r} è che studiavo a casa mi
+Dialogue: 0,0:01:56.57,0:01:56.59,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:56.59,0:01:56.63,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non {\1c&HFF00&\u1}è{\r} che studiavo a casa mi
+Dialogue: 0,0:01:56.63,0:01:56.67,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:56.67,0:01:56.77,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è {\1c&HFF00&\u1}che{\r} studiavo a casa mi
+Dialogue: 0,0:01:56.77,0:01:56.83,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:56.83,0:01:57.27,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che {\1c&HFF00&\u1}studiavo{\r} a casa mi
+Dialogue: 0,0:01:57.27,0:01:57.33,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:57.33,0:01:57.37,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo {\1c&HFF00&\u1}a{\r} casa mi
+Dialogue: 0,0:01:57.37,0:01:57.41,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:57.41,0:01:57.83,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a {\1c&HFF00&\u1}casa{\r} mi
+Dialogue: 0,0:01:57.83,0:01:58.13,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa mi
+Dialogue: 0,0:01:58.13,0:01:58.19,Default,,0,0,0,,però era tutto un loop continuo continuo continuo e non è che studiavo a casa {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:01:58.34,0:01:59.00,Default,,0,0,0,,{\1c&HFF00&\u1}concentravo{\r} molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.00,0:01:59.04,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.04,0:01:59.26,Default,,0,0,0,,concentravo {\1c&HFF00&\u1}molto{\r} di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.26,0:01:59.28,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.28,0:01:59.36,Default,,0,0,0,,concentravo molto {\1c&HFF00&\u1}di{\r} più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.36,0:01:59.40,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.40,0:01:59.52,Default,,0,0,0,,concentravo molto di {\1c&HFF00&\u1}più{\r} nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.52,0:01:59.58,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.58,0:01:59.77,Default,,0,0,0,,concentravo molto di più {\1c&HFF00&\u1}nelle{\r} lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.77,0:01:59.83,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:01:59.83,0:02:0.15,Default,,0,0,0,,concentravo molto di più nelle {\1c&HFF00&\u1}lezioni{\r} e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:0.15,0:02:0.17,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:0.17,0:02:0.19,Default,,0,0,0,,concentravo molto di più nelle lezioni {\1c&HFF00&\u1}e{\r} cercavo di assorbire il più possibile
+Dialogue: 0,0:02:0.19,0:02:0.25,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:0.25,0:02:0.53,Default,,0,0,0,,concentravo molto di più nelle lezioni e {\1c&HFF00&\u1}cercavo{\r} di assorbire il più possibile
+Dialogue: 0,0:02:0.53,0:02:0.57,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:0.57,0:02:0.65,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo {\1c&HFF00&\u1}di{\r} assorbire il più possibile
+Dialogue: 0,0:02:0.65,0:02:0.81,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:0.81,0:02:1.43,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di {\1c&HFF00&\u1}assorbire{\r} il più possibile
+Dialogue: 0,0:02:1.43,0:02:1.57,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:1.57,0:02:1.63,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire {\1c&HFF00&\u1}il{\r} più possibile
+Dialogue: 0,0:02:1.63,0:02:1.65,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:1.65,0:02:1.73,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il {\1c&HFF00&\u1}più{\r} possibile
+Dialogue: 0,0:02:1.73,0:02:1.79,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più possibile
+Dialogue: 0,0:02:1.79,0:02:2.23,Default,,0,0,0,,concentravo molto di più nelle lezioni e cercavo di assorbire il più {\1c&HFF00&\u1}possibile{\r}
+Dialogue: 0,0:02:2.44,0:02:2.58,Default,,0,0,0,,{\1c&HFF00&\u1}Cosa{\r} che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:2.58,0:02:2.60,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:2.60,0:02:2.68,Default,,0,0,0,,Cosa {\1c&HFF00&\u1}che{\r} però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:2.68,0:02:2.72,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:2.72,0:02:2.86,Default,,0,0,0,,Cosa che {\1c&HFF00&\u1}però{\r} all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:2.86,0:02:2.88,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:2.88,0:02:3.47,Default,,0,0,0,,Cosa che però {\1c&HFF00&\u1}all'università{\r} non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:3.47,0:02:3.79,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:3.79,0:02:3.91,Default,,0,0,0,,Cosa che però all'università {\1c&HFF00&\u1}non{\r} basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:3.91,0:02:3.97,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:3.97,0:02:4.31,Default,,0,0,0,,Cosa che però all'università non {\1c&HFF00&\u1}basta,{\r} se al liceo basta seguire, star att...
+Dialogue: 0,0:02:4.31,0:02:4.39,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:4.39,0:02:4.47,Default,,0,0,0,,Cosa che però all'università non basta, {\1c&HFF00&\u1}se{\r} al liceo basta seguire, star att...
+Dialogue: 0,0:02:4.47,0:02:4.51,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:4.51,0:02:4.55,Default,,0,0,0,,Cosa che però all'università non basta, se {\1c&HFF00&\u1}al{\r} liceo basta seguire, star att...
+Dialogue: 0,0:02:4.55,0:02:4.57,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:4.57,0:02:4.84,Default,,0,0,0,,Cosa che però all'università non basta, se al {\1c&HFF00&\u1}liceo{\r} basta seguire, star att...
+Dialogue: 0,0:02:4.84,0:02:4.86,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:4.86,0:02:5.16,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo {\1c&HFF00&\u1}basta{\r} seguire, star att...
+Dialogue: 0,0:02:5.16,0:02:5.28,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:5.28,0:02:5.60,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta {\1c&HFF00&\u1}seguire,{\r} star att...
+Dialogue: 0,0:02:5.60,0:02:5.62,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:5.62,0:02:5.72,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, {\1c&HFF00&\u1}star{\r} att...
+Dialogue: 0,0:02:5.72,0:02:5.86,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star att...
+Dialogue: 0,0:02:5.86,0:02:5.92,Default,,0,0,0,,Cosa che però all'università non basta, se al liceo basta seguire, star {\1c&HFF00&\u1}att...{\r}

@@ -1,0 +1,322 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.32,0:00:0.36,Default,,0,0,0,,{\1c&HFF00&\u1}in{\r} due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:0.36,0:00:0.42,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:0.42,0:00:0.52,Default,,0,0,0,,in {\1c&HFF00&\u1}due{\r} siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:0.52,0:00:0.58,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:0.58,0:00:0.74,Default,,0,0,0,,in due {\1c&HFF00&\u1}siamo{\r} già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:0.74,0:00:0.78,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:0.78,0:00:1.04,Default,,0,0,0,,in due siamo {\1c&HFF00&\u1}già{\r} a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:1.04,0:00:1.56,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:1.56,0:00:1.60,Default,,0,0,0,,in due siamo già {\1c&HFF00&\u1}a 30{\r} euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:1.60,0:00:1.70,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:1.70,0:00:2.05,Default,,0,0,0,,in due siamo già a 30 {\1c&HFF00&\u1}euro{\r} a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:2.05,0:00:2.47,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:2.47,0:00:2.51,Default,,0,0,0,,in due siamo già a 30 euro {\1c&HFF00&\u1}a{\r} casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:2.51,0:00:2.57,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:2.57,0:00:3.03,Default,,0,0,0,,in due siamo già a 30 euro a {\1c&HFF00&\u1}casa{\r} se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.03,0:00:3.07,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.07,0:00:3.13,Default,,0,0,0,,in due siamo già a 30 euro a casa {\1c&HFF00&\u1}se{\r} ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.13,0:00:3.21,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.21,0:00:3.27,Default,,0,0,0,,in due siamo già a 30 euro a casa se {\1c&HFF00&\u1}ci{\r} si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.27,0:00:3.31,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.31,0:00:3.37,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci {\1c&HFF00&\u1}si{\r} fa una spaghettata con anche una
+Dialogue: 0,0:00:3.37,0:00:3.41,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.41,0:00:3.53,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si {\1c&HFF00&\u1}fa{\r} una spaghettata con anche una
+Dialogue: 0,0:00:3.53,0:00:3.57,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.57,0:00:3.69,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa {\1c&HFF00&\u1}una{\r} spaghettata con anche una
+Dialogue: 0,0:00:3.69,0:00:3.87,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:3.87,0:00:4.67,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una {\1c&HFF00&\u1}spaghettata{\r} con anche una
+Dialogue: 0,0:00:4.67,0:00:4.83,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:4.83,0:00:4.95,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata {\1c&HFF00&\u1}con{\r} anche una
+Dialogue: 0,0:00:4.95,0:00:4.99,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:4.99,0:00:5.13,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con {\1c&HFF00&\u1}anche{\r} una
+Dialogue: 0,0:00:5.13,0:00:5.17,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche una
+Dialogue: 0,0:00:5.17,0:00:5.27,Default,,0,0,0,,in due siamo già a 30 euro a casa se ci si fa una spaghettata con anche {\1c&HFF00&\u1}una{\r}
+Dialogue: 0,0:00:5.24,0:00:5.80,Default,,0,0,0,,{\1c&HFF00&\u1}pasta{\r} buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:5.80,0:00:5.82,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:5.82,0:00:6.10,Default,,0,0,0,,pasta {\1c&HFF00&\u1}buona{\r} per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:6.10,0:00:6.14,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:6.14,0:00:6.22,Default,,0,0,0,,pasta buona {\1c&HFF00&\u1}per{\r} esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:6.22,0:00:6.26,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:6.26,0:00:6.68,Default,,0,0,0,,pasta buona per {\1c&HFF00&\u1}esempio,{\r} quanto si spende? 3 euro.
+Dialogue: 0,0:00:6.68,0:00:7.03,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:7.03,0:00:7.23,Default,,0,0,0,,pasta buona per esempio, {\1c&HFF00&\u1}quanto{\r} si spende? 3 euro.
+Dialogue: 0,0:00:7.23,0:00:7.27,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:7.27,0:00:7.33,Default,,0,0,0,,pasta buona per esempio, quanto {\1c&HFF00&\u1}si{\r} spende? 3 euro.
+Dialogue: 0,0:00:7.33,0:00:7.39,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:7.39,0:00:7.77,Default,,0,0,0,,pasta buona per esempio, quanto si {\1c&HFF00&\u1}spende? 3{\r} euro.
+Dialogue: 0,0:00:7.77,0:00:8.59,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 euro.
+Dialogue: 0,0:00:8.59,0:00:8.83,Default,,0,0,0,,pasta buona per esempio, quanto si spende? 3 {\1c&HFF00&\u1}euro.{\r}
+Dialogue: 0,0:00:9.16,0:00:9.56,Default,,0,0,0,,{\1c&HFF00&\u1}Chiaramente{\r} questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:9.56,0:00:9.62,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:9.62,0:00:9.80,Default,,0,0,0,,Chiaramente {\1c&HFF00&\u1}questo{\r} discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:9.80,0:00:9.86,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:9.86,0:00:10.30,Default,,0,0,0,,Chiaramente questo {\1c&HFF00&\u1}discorso{\r} vale solamente se in quel momento volete
+Dialogue: 0,0:00:10.30,0:00:10.38,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:10.38,0:00:10.63,Default,,0,0,0,,Chiaramente questo discorso {\1c&HFF00&\u1}vale{\r} solamente se in quel momento volete
+Dialogue: 0,0:00:10.63,0:00:10.89,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:10.89,0:00:11.65,Default,,0,0,0,,Chiaramente questo discorso vale {\1c&HFF00&\u1}solamente{\r} se in quel momento volete
+Dialogue: 0,0:00:11.65,0:00:11.77,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:11.77,0:00:11.91,Default,,0,0,0,,Chiaramente questo discorso vale solamente {\1c&HFF00&\u1}se{\r} in quel momento volete
+Dialogue: 0,0:00:11.91,0:00:12.17,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:12.17,0:00:12.23,Default,,0,0,0,,Chiaramente questo discorso vale solamente se {\1c&HFF00&\u1}in{\r} quel momento volete
+Dialogue: 0,0:00:12.23,0:00:12.25,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:12.25,0:00:12.39,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in {\1c&HFF00&\u1}quel{\r} momento volete
+Dialogue: 0,0:00:12.39,0:00:12.41,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:12.41,0:00:12.69,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel {\1c&HFF00&\u1}momento{\r} volete
+Dialogue: 0,0:00:12.69,0:00:12.73,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento volete
+Dialogue: 0,0:00:12.73,0:00:12.97,Default,,0,0,0,,Chiaramente questo discorso vale solamente se in quel momento {\1c&HFF00&\u1}volete{\r}
+Dialogue: 0,0:00:12.98,0:00:13.58,Default,,0,0,0,,{\1c&HFF00&\u1}uscire{\r} per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:13.58,0:00:13.60,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:13.60,0:00:13.70,Default,,0,0,0,,uscire {\1c&HFF00&\u1}per{\r} la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:13.70,0:00:13.74,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:13.74,0:00:13.80,Default,,0,0,0,,uscire per {\1c&HFF00&\u1}la{\r} compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:13.80,0:00:13.86,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:13.86,0:00:14.36,Default,,0,0,0,,uscire per la {\1c&HFF00&\u1}compagnia,{\r} per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:14.36,0:00:14.46,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:14.46,0:00:14.56,Default,,0,0,0,,uscire per la compagnia, {\1c&HFF00&\u1}per{\r} stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:14.56,0:00:14.58,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:14.58,0:00:14.85,Default,,0,0,0,,uscire per la compagnia, per {\1c&HFF00&\u1}stare{\r} con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:14.85,0:00:15.21,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:15.21,0:00:15.31,Default,,0,0,0,,uscire per la compagnia, per stare {\1c&HFF00&\u1}con{\r} i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:15.31,0:00:15.37,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:15.37,0:00:15.41,Default,,0,0,0,,uscire per la compagnia, per stare con {\1c&HFF00&\u1}i{\r} vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:15.41,0:00:15.43,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:15.43,0:00:15.67,Default,,0,0,0,,uscire per la compagnia, per stare con i {\1c&HFF00&\u1}vostri{\r} amici, con il vostro partner, se
+Dialogue: 0,0:00:15.67,0:00:15.71,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:15.71,0:00:16.09,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri {\1c&HFF00&\u1}amici,{\r} con il vostro partner, se
+Dialogue: 0,0:00:16.09,0:00:16.23,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:16.23,0:00:16.53,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, {\1c&HFF00&\u1}con{\r} il vostro partner, se
+Dialogue: 0,0:00:16.53,0:00:16.57,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:16.57,0:00:16.63,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con {\1c&HFF00&\u1}il{\r} vostro partner, se
+Dialogue: 0,0:00:16.63,0:00:16.67,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:16.67,0:00:16.91,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il {\1c&HFF00&\u1}vostro{\r} partner, se
+Dialogue: 0,0:00:16.91,0:00:16.99,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:16.99,0:00:17.53,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro {\1c&HFF00&\u1}partner,{\r} se
+Dialogue: 0,0:00:17.53,0:00:17.79,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, se
+Dialogue: 0,0:00:17.79,0:00:17.85,Default,,0,0,0,,uscire per la compagnia, per stare con i vostri amici, con il vostro partner, {\1c&HFF00&\u1}se{\r}
+Dialogue: 0,0:00:17.84,0:00:18.32,Default,,0,0,0,,{\1c&HFF00&\u1}invece{\r} volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:18.32,0:00:18.36,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:18.36,0:00:18.54,Default,,0,0,0,,invece {\1c&HFF00&\u1}volete{\r} andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:18.54,0:00:18.60,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:18.60,0:00:18.80,Default,,0,0,0,,invece volete {\1c&HFF00&\u1}andare{\r} in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:18.80,0:00:18.82,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:18.82,0:00:18.94,Default,,0,0,0,,invece volete andare {\1c&HFF00&\u1}in{\r} un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:18.94,0:00:19.02,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.02,0:00:19.10,Default,,0,0,0,,invece volete andare in {\1c&HFF00&\u1}un{\r} posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.10,0:00:19.16,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.16,0:00:19.43,Default,,0,0,0,,invece volete andare in un {\1c&HFF00&\u1}posto{\r} a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.43,0:00:19.45,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.45,0:00:19.47,Default,,0,0,0,,invece volete andare in un posto {\1c&HFF00&\u1}a{\r} provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.47,0:00:19.53,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.53,0:00:19.87,Default,,0,0,0,,invece volete andare in un posto a {\1c&HFF00&\u1}provare{\r} proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.87,0:00:19.95,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:19.95,0:00:20.29,Default,,0,0,0,,invece volete andare in un posto a provare {\1c&HFF00&\u1}proprio{\r} quel posto lì, non ha
+Dialogue: 0,0:00:20.29,0:00:20.37,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:20.37,0:00:20.55,Default,,0,0,0,,invece volete andare in un posto a provare proprio {\1c&HFF00&\u1}quel{\r} posto lì, non ha
+Dialogue: 0,0:00:20.55,0:00:20.59,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:20.59,0:00:20.89,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel {\1c&HFF00&\u1}posto{\r} lì, non ha
+Dialogue: 0,0:00:20.89,0:00:20.95,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:20.95,0:00:21.09,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto {\1c&HFF00&\u1}lì,{\r} non ha
+Dialogue: 0,0:00:21.09,0:00:21.87,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:21.87,0:00:21.97,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, {\1c&HFF00&\u1}non{\r} ha
+Dialogue: 0,0:00:21.97,0:00:21.99,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non ha
+Dialogue: 0,0:00:21.99,0:00:22.03,Default,,0,0,0,,invece volete andare in un posto a provare proprio quel posto lì, non {\1c&HFF00&\u1}ha{\r}
+Dialogue: 0,0:00:22.12,0:00:22.32,Default,,0,0,0,,{\1c&HFF00&\u1}senso{\r} stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:22.32,0:00:22.34,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:22.34,0:00:22.46,Default,,0,0,0,,senso {\1c&HFF00&\u1}stare{\r} a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:22.46,0:00:22.48,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:22.48,0:00:22.54,Default,,0,0,0,,senso stare {\1c&HFF00&\u1}a{\r} casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:22.54,0:00:22.58,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:22.58,0:00:23.02,Default,,0,0,0,,senso stare a {\1c&HFF00&\u1}casa.{\r} Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.02,0:00:23.06,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.06,0:00:23.22,Default,,0,0,0,,senso stare a casa. {\1c&HFF00&\u1}Per{\r} il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.22,0:00:23.28,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.28,0:00:23.36,Default,,0,0,0,,senso stare a casa. Per {\1c&HFF00&\u1}il{\r} resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.36,0:00:23.40,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.40,0:00:23.63,Default,,0,0,0,,senso stare a casa. Per il {\1c&HFF00&\u1}resto{\r} delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.63,0:00:23.67,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.67,0:00:23.81,Default,,0,0,0,,senso stare a casa. Per il resto {\1c&HFF00&\u1}delle{\r} volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.81,0:00:23.85,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:23.85,0:00:24.09,Default,,0,0,0,,senso stare a casa. Per il resto delle {\1c&HFF00&\u1}volte{\r} però scoprirete che stare a casa
+Dialogue: 0,0:00:24.09,0:00:24.15,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:24.15,0:00:24.29,Default,,0,0,0,,senso stare a casa. Per il resto delle volte {\1c&HFF00&\u1}però{\r} scoprirete che stare a casa
+Dialogue: 0,0:00:24.29,0:00:24.35,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:24.35,0:00:24.85,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però {\1c&HFF00&\u1}scoprirete{\r} che stare a casa
+Dialogue: 0,0:00:24.85,0:00:24.89,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:24.89,0:00:24.99,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete {\1c&HFF00&\u1}che{\r} stare a casa
+Dialogue: 0,0:00:24.99,0:00:25.09,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:25.09,0:00:25.33,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che {\1c&HFF00&\u1}stare{\r} a casa
+Dialogue: 0,0:00:25.33,0:00:25.37,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:25.37,0:00:25.39,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare {\1c&HFF00&\u1}a{\r} casa
+Dialogue: 0,0:00:25.39,0:00:25.45,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a casa
+Dialogue: 0,0:00:25.45,0:00:25.69,Default,,0,0,0,,senso stare a casa. Per il resto delle volte però scoprirete che stare a {\1c&HFF00&\u1}casa{\r}
+Dialogue: 0,0:00:26.18,0:00:26.24,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.24,0:00:26.28,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.28,0:00:26.46,Default,,0,0,0,,non {\1c&HFF00&\u1}solo{\r} vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.46,0:00:26.50,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.50,0:00:26.58,Default,,0,0,0,,non solo {\1c&HFF00&\u1}vi{\r} farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.58,0:00:26.60,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.60,0:00:26.76,Default,,0,0,0,,non solo vi {\1c&HFF00&\u1}farà{\r} risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.76,0:00:26.82,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:26.82,0:00:27.33,Default,,0,0,0,,non solo vi farà {\1c&HFF00&\u1}risparmiare{\r} un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:27.33,0:00:27.39,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:27.39,0:00:27.47,Default,,0,0,0,,non solo vi farà risparmiare {\1c&HFF00&\u1}un{\r} sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:27.47,0:00:27.53,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:27.53,0:00:27.85,Default,,0,0,0,,non solo vi farà risparmiare un {\1c&HFF00&\u1}sacco{\r} ma magari aggiungerà anche valore
+Dialogue: 0,0:00:27.85,0:00:27.87,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:27.87,0:00:27.95,Default,,0,0,0,,non solo vi farà risparmiare un sacco {\1c&HFF00&\u1}ma{\r} magari aggiungerà anche valore
+Dialogue: 0,0:00:27.95,0:00:27.99,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:27.99,0:00:28.29,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma {\1c&HFF00&\u1}magari{\r} aggiungerà anche valore
+Dialogue: 0,0:00:28.29,0:00:28.31,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:28.31,0:00:28.75,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari {\1c&HFF00&\u1}aggiungerà{\r} anche valore
+Dialogue: 0,0:00:28.75,0:00:28.79,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:28.79,0:00:29.01,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà {\1c&HFF00&\u1}anche{\r} valore
+Dialogue: 0,0:00:29.01,0:00:29.07,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche valore
+Dialogue: 0,0:00:29.07,0:00:29.37,Default,,0,0,0,,non solo vi farà risparmiare un sacco ma magari aggiungerà anche {\1c&HFF00&\u1}valore{\r}
+Dialogue: 0,0:00:30.18,0:00:30.46,Default,,0,0,0,,{\1c&HFF00&\u1}all'esperienza.{\r} Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:30.46,0:00:30.48,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:30.48,0:00:30.76,Default,,0,0,0,,all'esperienza. {\1c&HFF00&\u1}Spesso{\r} io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:30.76,0:00:30.82,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:30.82,0:00:30.93,Default,,0,0,0,,all'esperienza. Spesso {\1c&HFF00&\u1}io{\r} organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:30.93,0:00:30.97,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:30.97,0:00:31.51,Default,,0,0,0,,all'esperienza. Spesso io {\1c&HFF00&\u1}organizzo{\r} con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:31.51,0:00:31.57,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:31.57,0:00:31.77,Default,,0,0,0,,all'esperienza. Spesso io organizzo {\1c&HFF00&\u1}con{\r} i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:31.77,0:00:31.83,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:31.83,0:00:31.85,Default,,0,0,0,,all'esperienza. Spesso io organizzo con {\1c&HFF00&\u1}i{\r} miei amici o con la mia ragazza di
+Dialogue: 0,0:00:31.85,0:00:31.89,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:31.89,0:00:31.97,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i {\1c&HFF00&\u1}miei{\r} amici o con la mia ragazza di
+Dialogue: 0,0:00:31.97,0:00:32.01,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:32.01,0:00:32.37,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei {\1c&HFF00&\u1}amici{\r} o con la mia ragazza di
+Dialogue: 0,0:00:32.37,0:00:32.49,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:32.49,0:00:32.57,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici {\1c&HFF00&\u1}o{\r} con la mia ragazza di
+Dialogue: 0,0:00:32.57,0:00:32.65,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:32.65,0:00:32.77,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o {\1c&HFF00&\u1}con{\r} la mia ragazza di
+Dialogue: 0,0:00:32.77,0:00:32.79,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:32.79,0:00:32.85,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con {\1c&HFF00&\u1}la{\r} mia ragazza di
+Dialogue: 0,0:00:32.85,0:00:32.87,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:32.87,0:00:32.95,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la {\1c&HFF00&\u1}mia{\r} ragazza di
+Dialogue: 0,0:00:32.95,0:00:32.99,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:32.99,0:00:33.35,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia {\1c&HFF00&\u1}ragazza{\r} di
+Dialogue: 0,0:00:33.35,0:00:33.39,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza di
+Dialogue: 0,0:00:33.39,0:00:33.45,Default,,0,0,0,,all'esperienza. Spesso io organizzo con i miei amici o con la mia ragazza {\1c&HFF00&\u1}di{\r}
+Dialogue: 0,0:00:33.44,0:00:33.60,Default,,0,0,0,,{\1c&HFF00&\u1}trovarci{\r} a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.60,0:00:33.62,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.62,0:00:33.64,Default,,0,0,0,,trovarci {\1c&HFF00&\u1}a{\r} casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.64,0:00:33.66,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.66,0:00:33.74,Default,,0,0,0,,trovarci a {\1c&HFF00&\u1}casa{\r} e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.74,0:00:33.76,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.76,0:00:33.78,Default,,0,0,0,,trovarci a casa {\1c&HFF00&\u1}e{\r} ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.78,0:00:33.80,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.80,0:00:33.84,Default,,0,0,0,,trovarci a casa e {\1c&HFF00&\u1}ci{\r} passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.84,0:00:33.86,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:33.86,0:00:34.02,Default,,0,0,0,,trovarci a casa e ci {\1c&HFF00&\u1}passiamo{\r} una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.02,0:00:34.04,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.04,0:00:34.10,Default,,0,0,0,,trovarci a casa e ci passiamo {\1c&HFF00&\u1}una{\r} serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.10,0:00:34.12,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.12,0:00:34.24,Default,,0,0,0,,trovarci a casa e ci passiamo una {\1c&HFF00&\u1}serata{\r} in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.24,0:00:34.26,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.26,0:00:34.30,Default,,0,0,0,,trovarci a casa e ci passiamo una serata {\1c&HFF00&\u1}in{\r} serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.30,0:00:34.32,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.32,0:00:34.48,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in {\1c&HFF00&\u1}serenità{\r} risparmiando. Questo non
+Dialogue: 0,0:00:34.48,0:00:34.50,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.50,0:00:34.74,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità {\1c&HFF00&\u1}risparmiando.{\r} Questo non
+Dialogue: 0,0:00:34.74,0:00:34.76,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.76,0:00:34.88,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. {\1c&HFF00&\u1}Questo{\r} non
+Dialogue: 0,0:00:34.88,0:00:34.90,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo non
+Dialogue: 0,0:00:34.90,0:00:34.96,Default,,0,0,0,,trovarci a casa e ci passiamo una serata in serenità risparmiando. Questo {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:38.20,0:00:38.50,Default,,0,0,0,,{\1c&HFF00&\u1}significa{\r} che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:38.50,0:00:38.54,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:38.54,0:00:38.64,Default,,0,0,0,,significa {\1c&HFF00&\u1}che{\r} non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:38.64,0:00:38.86,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:38.86,0:00:38.98,Default,,0,0,0,,significa che {\1c&HFF00&\u1}non{\r} usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:38.98,0:00:39.06,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:39.06,0:00:39.36,Default,,0,0,0,,significa che non {\1c&HFF00&\u1}usciamo{\r} mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:39.36,0:00:39.42,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:39.42,0:00:39.70,Default,,0,0,0,,significa che non usciamo {\1c&HFF00&\u1}mai{\r} però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:39.70,0:00:39.79,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:39.79,0:00:39.95,Default,,0,0,0,,significa che non usciamo mai {\1c&HFF00&\u1}però{\r} nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:39.95,0:00:40.03,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:40.03,0:00:40.49,Default,,0,0,0,,significa che non usciamo mai però {\1c&HFF00&\u1}nell'arco{\r} di un mese anziché fare 10
+Dialogue: 0,0:00:40.49,0:00:40.53,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:40.53,0:00:40.59,Default,,0,0,0,,significa che non usciamo mai però nell'arco {\1c&HFF00&\u1}di{\r} un mese anziché fare 10
+Dialogue: 0,0:00:40.59,0:00:40.61,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:40.61,0:00:40.69,Default,,0,0,0,,significa che non usciamo mai però nell'arco di {\1c&HFF00&\u1}un{\r} mese anziché fare 10
+Dialogue: 0,0:00:40.69,0:00:40.73,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:40.73,0:00:41.09,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un {\1c&HFF00&\u1}mese{\r} anziché fare 10
+Dialogue: 0,0:00:41.09,0:00:41.19,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:41.19,0:00:41.49,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese {\1c&HFF00&\u1}anziché{\r} fare 10
+Dialogue: 0,0:00:41.49,0:00:41.57,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché fare 10
+Dialogue: 0,0:00:41.57,0:00:41.83,Default,,0,0,0,,significa che non usciamo mai però nell'arco di un mese anziché {\1c&HFF00&\u1}fare 10{\r}
+Dialogue: 0,0:00:43.04,0:00:43.16,Default,,0,0,0,,{\1c&HFF00&\u1}uscite{\r} al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.16,0:00:43.18,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.18,0:00:43.22,Default,,0,0,0,,uscite {\1c&HFF00&\u1}al{\r} ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.22,0:00:43.24,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.24,0:00:43.44,Default,,0,0,0,,uscite al {\1c&HFF00&\u1}ristorante{\r} magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.44,0:00:43.46,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.46,0:00:43.58,Default,,0,0,0,,uscite al ristorante {\1c&HFF00&\u1}magari{\r} ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.58,0:00:43.60,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.60,0:00:43.64,Default,,0,0,0,,uscite al ristorante magari {\1c&HFF00&\u1}ne{\r} fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.64,0:00:43.66,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.66,0:00:43.72,Default,,0,0,0,,uscite al ristorante magari ne {\1c&HFF00&\u1}fai 5{\r} al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.72,0:00:43.76,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.76,0:00:43.80,Default,,0,0,0,,uscite al ristorante magari ne fai 5 {\1c&HFF00&\u1}al{\r} ristorante e 5 a casa.
+Dialogue: 0,0:00:43.80,0:00:43.82,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:43.82,0:00:44.02,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al {\1c&HFF00&\u1}ristorante{\r} e 5 a casa.
+Dialogue: 0,0:00:44.02,0:00:44.04,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:44.04,0:00:44.06,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante {\1c&HFF00&\u1}e 5{\r} a casa.
+Dialogue: 0,0:00:44.06,0:00:44.10,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:44.10,0:00:44.12,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 {\1c&HFF00&\u1}a{\r} casa.
+Dialogue: 0,0:00:44.12,0:00:44.14,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a casa.
+Dialogue: 0,0:00:44.14,0:00:44.22,Default,,0,0,0,,uscite al ristorante magari ne fai 5 al ristorante e 5 a {\1c&HFF00&\u1}casa.{\r}
+Dialogue: 0,0:00:47.02,0:00:47.10,Default,,0,0,0,,{\1c&HFF00&\u1}Tra{\r} l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.10,0:00:47.16,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.16,0:00:47.38,Default,,0,0,0,,Tra {\1c&HFF00&\u1}l'altro{\r} potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.38,0:00:47.42,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.42,0:00:47.70,Default,,0,0,0,,Tra l'altro {\1c&HFF00&\u1}potete{\r} pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.70,0:00:47.74,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.74,0:00:47.90,Default,,0,0,0,,Tra l'altro potete {\1c&HFF00&\u1}pure{\r} sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.90,0:00:47.96,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:47.96,0:00:48.30,Default,,0,0,0,,Tra l'altro potete pure {\1c&HFF00&\u1}sfruttare{\r} l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:48.30,0:00:48.37,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:48.37,0:00:48.87,Default,,0,0,0,,Tra l'altro potete pure sfruttare {\1c&HFF00&\u1}l'occasione{\r} di siamo a casa per fare
+Dialogue: 0,0:00:48.87,0:00:48.95,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:48.95,0:00:49.03,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione {\1c&HFF00&\u1}di{\r} siamo a casa per fare
+Dialogue: 0,0:00:49.03,0:00:49.25,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:49.25,0:00:49.51,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di {\1c&HFF00&\u1}siamo{\r} a casa per fare
+Dialogue: 0,0:00:49.51,0:00:49.53,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:49.53,0:00:49.55,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo {\1c&HFF00&\u1}a{\r} casa per fare
+Dialogue: 0,0:00:49.55,0:00:49.61,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:49.61,0:00:49.93,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a {\1c&HFF00&\u1}casa{\r} per fare
+Dialogue: 0,0:00:49.93,0:00:50.03,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:50.03,0:00:50.17,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa {\1c&HFF00&\u1}per{\r} fare
+Dialogue: 0,0:00:50.17,0:00:50.47,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per fare
+Dialogue: 0,0:00:50.47,0:00:50.61,Default,,0,0,0,,Tra l'altro potete pure sfruttare l'occasione di siamo a casa per {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:00:50.80,0:00:51.00,Default,,0,0,0,,{\1c&HFF00&\u1}qualche{\r} attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:51.00,0:00:51.04,Default,,0,0,0,,qualche attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:51.04,0:00:51.55,Default,,0,0,0,,qualche {\1c&HFF00&\u1}attività{\r} che al ristorante non potreste fare.
+Dialogue: 0,0:00:51.55,0:00:51.67,Default,,0,0,0,,qualche attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:51.67,0:00:51.85,Default,,0,0,0,,qualche attività {\1c&HFF00&\u1}che{\r} al ristorante non potreste fare.
+Dialogue: 0,0:00:51.85,0:00:51.93,Default,,0,0,0,,qualche attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:51.93,0:00:51.97,Default,,0,0,0,,qualche attività che {\1c&HFF00&\u1}al{\r} ristorante non potreste fare.
+Dialogue: 0,0:00:51.97,0:00:52.03,Default,,0,0,0,,qualche attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:52.03,0:00:52.50,Default,,0,0,0,,qualche attività che al {\1c&HFF00&\u1}ristorante{\r} non potreste fare.
+Dialogue: 0,0:00:52.50,0:00:52.54,Default,,0,0,0,,qualche attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:52.54,0:00:52.64,Default,,0,0,0,,qualche attività che al ristorante {\1c&HFF00&\u1}non{\r} potreste fare.
+Dialogue: 0,0:00:52.64,0:00:52.66,Default,,0,0,0,,qualche attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:52.66,0:00:52.86,Default,,0,0,0,,qualche attività che al ristorante non {\1c&HFF00&\u1}potreste{\r} fare.
+Dialogue: 0,0:00:52.86,0:00:52.92,Default,,0,0,0,,qualche attività che al ristorante non potreste fare.
+Dialogue: 0,0:00:52.92,0:00:53.00,Default,,0,0,0,,qualche attività che al ristorante non potreste {\1c&HFF00&\u1}fare.{\r}

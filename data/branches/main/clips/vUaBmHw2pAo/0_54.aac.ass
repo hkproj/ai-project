@@ -1,0 +1,38 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.48,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}è{\r} questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:0.54,0:00:0.56,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:0.56,0:00:0.72,Default,,0,0,0,,è {\1c&HFF00&\u1}questa{\r} qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:0.72,0:00:0.78,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:0.78,0:00:1.99,Default,,0,0,0,,è questa {\1c&HFF00&\u1}qui,{\r} della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:1.99,0:00:2.03,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:2.03,0:00:2.67,Default,,0,0,0,,è questa qui, {\1c&HFF00&\u1}della{\r} differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:2.67,0:00:2.75,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:2.75,0:00:3.07,Default,,0,0,0,,è questa qui, della {\1c&HFF00&\u1}differenza{\r} fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:3.07,0:00:3.13,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:3.13,0:00:3.23,Default,,0,0,0,,è questa qui, della differenza {\1c&HFF00&\u1}fra{\r} l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:3.23,0:00:3.31,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:3.31,0:00:3.85,Default,,0,0,0,,è questa qui, della differenza fra {\1c&HFF00&\u1}l'ansia{\r} e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:3.85,0:00:4.23,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:4.23,0:00:4.27,Default,,0,0,0,,è questa qui, della differenza fra l'ansia {\1c&HFF00&\u1}e{\r} l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:4.27,0:00:4.31,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:4.31,0:00:5.92,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e {\1c&HFF00&\u1}l'attenzione.{\r} Allora come si fa?
+Dialogue: 0,0:00:5.92,0:00:6.00,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:6.00,0:00:6.18,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. {\1c&HFF00&\u1}Allora{\r} come si fa?
+Dialogue: 0,0:00:6.18,0:00:6.22,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:6.22,0:00:6.36,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora {\1c&HFF00&\u1}come{\r} si fa?
+Dialogue: 0,0:00:6.36,0:00:6.42,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:6.42,0:00:6.48,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come {\1c&HFF00&\u1}si{\r} fa?
+Dialogue: 0,0:00:6.48,0:00:6.58,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si fa?
+Dialogue: 0,0:00:6.58,0:00:6.66,Default,,0,0,0,,è questa qui, della differenza fra l'ansia e l'attenzione. Allora come si {\1c&HFF00&\u1}fa?{\r}

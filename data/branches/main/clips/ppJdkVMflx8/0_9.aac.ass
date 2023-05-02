@@ -1,0 +1,42 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.10,Default,,0,0,0,,{\1c&HFF00&\u1}Primo{\r} giorno di università superato
+Dialogue: 0,0:00:0.10,0:00:0.12,Default,,0,0,0,,Primo giorno di università superato
+Dialogue: 0,0:00:0.12,0:00:0.24,Default,,0,0,0,,Primo {\1c&HFF00&\u1}giorno{\r} di università superato
+Dialogue: 0,0:00:0.24,0:00:0.26,Default,,0,0,0,,Primo giorno di università superato
+Dialogue: 0,0:00:0.26,0:00:0.30,Default,,0,0,0,,Primo giorno {\1c&HFF00&\u1}di{\r} università superato
+Dialogue: 0,0:00:0.30,0:00:0.32,Default,,0,0,0,,Primo giorno di università superato
+Dialogue: 0,0:00:0.32,0:00:0.52,Default,,0,0,0,,Primo giorno di {\1c&HFF00&\u1}università{\r} superato
+Dialogue: 0,0:00:0.52,0:00:0.54,Default,,0,0,0,,Primo giorno di università superato
+Dialogue: 0,0:00:0.54,0:00:0.70,Default,,0,0,0,,Primo giorno di università {\1c&HFF00&\u1}superato{\r}
+Dialogue: 0,0:00:2.28,0:00:2.30,Default,,0,0,0,,{\1c&HFF00&\u1}E{\r} poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:2.30,0:00:2.34,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:2.34,0:00:2.44,Default,,0,0,0,,E {\1c&HFF00&\u1}poi{\r} piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:2.44,0:00:2.48,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:2.48,0:00:2.64,Default,,0,0,0,,E poi {\1c&HFF00&\u1}piano{\r} piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:2.64,0:00:2.68,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:2.68,0:00:2.90,Default,,0,0,0,,E poi piano {\1c&HFF00&\u1}piano{\r} ho smesso completamente di parlarne
+Dialogue: 0,0:00:2.90,0:00:3.02,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:3.02,0:00:3.10,Default,,0,0,0,,E poi piano piano {\1c&HFF00&\u1}ho{\r} smesso completamente di parlarne
+Dialogue: 0,0:00:3.10,0:00:3.16,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:3.16,0:00:3.40,Default,,0,0,0,,E poi piano piano ho {\1c&HFF00&\u1}smesso{\r} completamente di parlarne
+Dialogue: 0,0:00:3.40,0:00:3.44,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:3.44,0:00:3.85,Default,,0,0,0,,E poi piano piano ho smesso {\1c&HFF00&\u1}completamente{\r} di parlarne
+Dialogue: 0,0:00:3.85,0:00:3.89,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:3.89,0:00:3.95,Default,,0,0,0,,E poi piano piano ho smesso completamente {\1c&HFF00&\u1}di{\r} parlarne
+Dialogue: 0,0:00:3.95,0:00:3.99,Default,,0,0,0,,E poi piano piano ho smesso completamente di parlarne
+Dialogue: 0,0:00:3.99,0:00:4.45,Default,,0,0,0,,E poi piano piano ho smesso completamente di {\1c&HFF00&\u1}parlarne{\r}
+Dialogue: 0,0:00:4.72,0:00:5.01,Default,,0,0,0,,{\1c&HFF00&\u1}mangiamo{\r} com-
+Dialogue: 0,0:00:5.01,0:00:5.15,Default,,0,0,0,,mangiamo com-
+Dialogue: 0,0:00:5.15,0:00:5.25,Default,,0,0,0,,mangiamo {\1c&HFF00&\u1}com-{\r}

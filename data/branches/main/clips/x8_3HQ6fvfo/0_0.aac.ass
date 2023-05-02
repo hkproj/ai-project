@@ -1,0 +1,150 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.04,0:00:0.26,Default,,0,0,0,,{\1c&HFF00&\u1}risparmiare{\r} risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:0.26,0:00:0.28,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:0.28,0:00:2.27,Default,,0,0,0,,risparmiare {\1c&HFF00&\u1}risparmiare{\r} risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:2.27,0:00:2.91,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:2.91,0:00:3.57,Default,,0,0,0,,risparmiare risparmiare {\1c&HFF00&\u1}risparmiare{\r} ma perché sembra sempre così difficile
+Dialogue: 0,0:00:3.57,0:00:3.85,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:3.85,0:00:3.93,Default,,0,0,0,,risparmiare risparmiare risparmiare {\1c&HFF00&\u1}ma{\r} perché sembra sempre così difficile
+Dialogue: 0,0:00:3.93,0:00:3.97,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:3.97,0:00:4.21,Default,,0,0,0,,risparmiare risparmiare risparmiare ma {\1c&HFF00&\u1}perché{\r} sembra sempre così difficile
+Dialogue: 0,0:00:4.21,0:00:4.33,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:4.33,0:00:4.65,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché {\1c&HFF00&\u1}sembra{\r} sempre così difficile
+Dialogue: 0,0:00:4.65,0:00:4.73,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:4.73,0:00:4.99,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra {\1c&HFF00&\u1}sempre{\r} così difficile
+Dialogue: 0,0:00:4.99,0:00:5.11,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:5.11,0:00:5.35,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre {\1c&HFF00&\u1}così{\r} difficile
+Dialogue: 0,0:00:5.35,0:00:5.41,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così difficile
+Dialogue: 0,0:00:5.41,0:00:5.95,Default,,0,0,0,,risparmiare risparmiare risparmiare ma perché sembra sempre così {\1c&HFF00&\u1}difficile{\r}
+Dialogue: 0,0:00:6.34,0:00:6.50,Default,,0,0,0,,{\1c&HFF00&\u1}uno{\r} guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:6.50,0:00:6.60,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:6.60,0:00:7.00,Default,,0,0,0,,uno {\1c&HFF00&\u1}guadagna{\r} duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:7.00,0:00:7.08,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:7.08,0:00:7.64,Default,,0,0,0,,uno guadagna {\1c&HFF00&\u1}duramente{\r} i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:7.64,0:00:7.67,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:7.67,0:00:7.69,Default,,0,0,0,,uno guadagna duramente {\1c&HFF00&\u1}i{\r} propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:7.69,0:00:7.73,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:7.73,0:00:7.99,Default,,0,0,0,,uno guadagna duramente i {\1c&HFF00&\u1}propri{\r} soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:7.99,0:00:8.09,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.09,0:00:8.41,Default,,0,0,0,,uno guadagna duramente i propri {\1c&HFF00&\u1}soldi{\r} e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.41,0:00:8.43,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.43,0:00:8.45,Default,,0,0,0,,uno guadagna duramente i propri soldi {\1c&HFF00&\u1}e{\r} non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.45,0:00:8.49,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.49,0:00:8.57,Default,,0,0,0,,uno guadagna duramente i propri soldi e {\1c&HFF00&\u1}non{\r} si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.57,0:00:8.61,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.61,0:00:8.67,Default,,0,0,0,,uno guadagna duramente i propri soldi e non {\1c&HFF00&\u1}si{\r} accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.67,0:00:8.71,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:8.71,0:00:9.07,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si {\1c&HFF00&\u1}accorge{\r} che dopo nemmeno un mese
+Dialogue: 0,0:00:9.07,0:00:9.15,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:9.15,0:00:9.27,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge {\1c&HFF00&\u1}che{\r} dopo nemmeno un mese
+Dialogue: 0,0:00:9.27,0:00:9.53,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:9.53,0:00:9.71,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che {\1c&HFF00&\u1}dopo{\r} nemmeno un mese
+Dialogue: 0,0:00:9.71,0:00:9.79,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:9.79,0:00:10.19,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo {\1c&HFF00&\u1}nemmeno{\r} un mese
+Dialogue: 0,0:00:10.19,0:00:10.25,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:10.25,0:00:10.31,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno {\1c&HFF00&\u1}un{\r} mese
+Dialogue: 0,0:00:10.31,0:00:10.37,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un mese
+Dialogue: 0,0:00:10.37,0:00:10.69,Default,,0,0,0,,uno guadagna duramente i propri soldi e non si accorge che dopo nemmeno un {\1c&HFF00&\u1}mese{\r}
+Dialogue: 0,0:00:11.60,0:00:11.74,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:11.74,0:00:11.78,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:11.78,0:00:11.86,Default,,0,0,0,,sono {\1c&HFF00&\u1}già{\r} finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:11.86,0:00:11.92,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:11.92,0:00:12.24,Default,,0,0,0,,sono già {\1c&HFF00&\u1}finiti{\r} nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:12.24,0:00:12.57,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:12.57,0:00:12.73,Default,,0,0,0,,sono già finiti {\1c&HFF00&\u1}nel{\r} tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:12.73,0:00:12.77,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:12.77,0:00:13.01,Default,,0,0,0,,sono già finiti nel {\1c&HFF00&\u1}tempo{\r} ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:13.01,0:00:13.03,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:13.03,0:00:13.07,Default,,0,0,0,,sono già finiti nel tempo {\1c&HFF00&\u1}ho{\r} sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:13.07,0:00:13.13,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:13.13,0:00:13.63,Default,,0,0,0,,sono già finiti nel tempo ho {\1c&HFF00&\u1}sviluppato{\r} tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:13.63,0:00:13.75,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:13.75,0:00:13.99,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato {\1c&HFF00&\u1}tutta{\r} una serie di piccoli trucchetti su
+Dialogue: 0,0:00:13.99,0:00:14.05,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:14.05,0:00:14.15,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta {\1c&HFF00&\u1}una{\r} serie di piccoli trucchetti su
+Dialogue: 0,0:00:14.15,0:00:14.19,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:14.19,0:00:14.43,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una {\1c&HFF00&\u1}serie{\r} di piccoli trucchetti su
+Dialogue: 0,0:00:14.43,0:00:14.47,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:14.47,0:00:14.55,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie {\1c&HFF00&\u1}di{\r} piccoli trucchetti su
+Dialogue: 0,0:00:14.55,0:00:14.67,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:14.67,0:00:14.97,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di {\1c&HFF00&\u1}piccoli{\r} trucchetti su
+Dialogue: 0,0:00:14.97,0:00:15.03,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:15.03,0:00:15.45,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli {\1c&HFF00&\u1}trucchetti{\r} su
+Dialogue: 0,0:00:15.45,0:00:15.51,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti su
+Dialogue: 0,0:00:15.51,0:00:15.55,Default,,0,0,0,,sono già finiti nel tempo ho sviluppato tutta una serie di piccoli trucchetti {\1c&HFF00&\u1}su{\r}
+Dialogue: 0,0:00:15.68,0:00:15.82,Default,,0,0,0,,{\1c&HFF00&\u1}come{\r} risparmiare alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:15.82,0:00:15.86,Default,,0,0,0,,come risparmiare alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:15.86,0:00:16.40,Default,,0,0,0,,come {\1c&HFF00&\u1}risparmiare{\r} alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:16.40,0:00:16.75,Default,,0,0,0,,come risparmiare alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:16.75,0:00:16.99,Default,,0,0,0,,come risparmiare {\1c&HFF00&\u1}alcuni{\r} di questi fanno risparmiare
+Dialogue: 0,0:00:16.99,0:00:17.03,Default,,0,0,0,,come risparmiare alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:17.03,0:00:17.09,Default,,0,0,0,,come risparmiare alcuni {\1c&HFF00&\u1}di{\r} questi fanno risparmiare
+Dialogue: 0,0:00:17.09,0:00:17.13,Default,,0,0,0,,come risparmiare alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:17.13,0:00:17.39,Default,,0,0,0,,come risparmiare alcuni di {\1c&HFF00&\u1}questi{\r} fanno risparmiare
+Dialogue: 0,0:00:17.39,0:00:17.45,Default,,0,0,0,,come risparmiare alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:17.45,0:00:17.63,Default,,0,0,0,,come risparmiare alcuni di questi {\1c&HFF00&\u1}fanno{\r} risparmiare
+Dialogue: 0,0:00:17.63,0:00:17.69,Default,,0,0,0,,come risparmiare alcuni di questi fanno risparmiare
+Dialogue: 0,0:00:17.69,0:00:18.17,Default,,0,0,0,,come risparmiare alcuni di questi fanno {\1c&HFF00&\u1}risparmiare{\r}
+Dialogue: 0,0:00:18.16,0:00:19.16,Default,,0,0,0,,{\1c&HFF00&\u1}regolarmente{\r} pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:19.16,0:00:19.26,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:19.26,0:00:19.54,Default,,0,0,0,,regolarmente {\1c&HFF00&\u1}pochi{\r} euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:19.54,0:00:19.64,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:19.64,0:00:19.97,Default,,0,0,0,,regolarmente pochi {\1c&HFF00&\u1}euro{\r} altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:19.97,0:00:20.23,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:20.23,0:00:20.53,Default,,0,0,0,,regolarmente pochi euro {\1c&HFF00&\u1}altri{\r} invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:20.53,0:00:20.55,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:20.55,0:00:20.83,Default,,0,0,0,,regolarmente pochi euro altri {\1c&HFF00&\u1}invece{\r} cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:20.83,0:00:20.91,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:20.91,0:00:21.35,Default,,0,0,0,,regolarmente pochi euro altri invece {\1c&HFF00&\u1}cambiano{\r} letteralmente il nostro modo
+Dialogue: 0,0:00:21.35,0:00:21.57,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:21.57,0:00:22.27,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano {\1c&HFF00&\u1}letteralmente{\r} il nostro modo
+Dialogue: 0,0:00:22.27,0:00:22.31,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:22.31,0:00:22.39,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente {\1c&HFF00&\u1}il{\r} nostro modo
+Dialogue: 0,0:00:22.39,0:00:22.43,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:22.43,0:00:22.69,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il {\1c&HFF00&\u1}nostro{\r} modo
+Dialogue: 0,0:00:22.69,0:00:22.75,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro modo
+Dialogue: 0,0:00:22.75,0:00:22.93,Default,,0,0,0,,regolarmente pochi euro altri invece cambiano letteralmente il nostro {\1c&HFF00&\u1}modo{\r}
+Dialogue: 0,0:00:22.80,0:00:22.84,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:22.84,0:00:22.86,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:22.86,0:00:23.02,Default,,0,0,0,,di {\1c&HFF00&\u1}spendere{\r} e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.02,0:00:23.04,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.04,0:00:23.06,Default,,0,0,0,,di spendere {\1c&HFF00&\u1}e{\r} tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.06,0:00:23.08,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.08,0:00:23.18,Default,,0,0,0,,di spendere e {\1c&HFF00&\u1}tutti{\r} questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.18,0:00:23.20,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.20,0:00:23.32,Default,,0,0,0,,di spendere e tutti {\1c&HFF00&\u1}questi{\r} chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.32,0:00:23.34,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.34,0:00:23.56,Default,,0,0,0,,di spendere e tutti questi {\1c&HFF00&\u1}chiaramente{\r} sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.56,0:00:23.58,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.58,0:00:23.72,Default,,0,0,0,,di spendere e tutti questi chiaramente {\1c&HFF00&\u1}sommati{\r} possono fare la differenza ma
+Dialogue: 0,0:00:23.72,0:00:23.74,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.74,0:00:23.88,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati {\1c&HFF00&\u1}possono{\r} fare la differenza ma
+Dialogue: 0,0:00:23.88,0:00:23.90,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:23.90,0:00:23.98,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono {\1c&HFF00&\u1}fare{\r} la differenza ma
+Dialogue: 0,0:00:23.98,0:00:24.00,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:24.00,0:00:24.04,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare {\1c&HFF00&\u1}la{\r} differenza ma
+Dialogue: 0,0:00:24.04,0:00:24.06,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:24.06,0:00:24.28,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la {\1c&HFF00&\u1}differenza{\r} ma
+Dialogue: 0,0:00:24.28,0:00:24.32,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza ma
+Dialogue: 0,0:00:24.32,0:00:24.36,Default,,0,0,0,,di spendere e tutti questi chiaramente sommati possono fare la differenza {\1c&HFF00&\u1}ma{\r}
+Dialogue: 0,0:00:27.50,0:00:27.56,Default,,0,0,0,,{\1c&HFF00&\u1}Ma{\r} prima di svelarveli, sigla.
+Dialogue: 0,0:00:27.56,0:00:27.60,Default,,0,0,0,,Ma prima di svelarveli, sigla.
+Dialogue: 0,0:00:27.60,0:00:27.76,Default,,0,0,0,,Ma {\1c&HFF00&\u1}prima{\r} di svelarveli, sigla.
+Dialogue: 0,0:00:27.76,0:00:27.78,Default,,0,0,0,,Ma prima di svelarveli, sigla.
+Dialogue: 0,0:00:27.78,0:00:27.86,Default,,0,0,0,,Ma prima {\1c&HFF00&\u1}di{\r} svelarveli, sigla.
+Dialogue: 0,0:00:27.86,0:00:27.88,Default,,0,0,0,,Ma prima di svelarveli, sigla.
+Dialogue: 0,0:00:27.88,0:00:28.43,Default,,0,0,0,,Ma prima di {\1c&HFF00&\u1}svelarveli,{\r} sigla.
+Dialogue: 0,0:00:28.43,0:00:28.95,Default,,0,0,0,,Ma prima di svelarveli, sigla.
+Dialogue: 0,0:00:28.95,0:00:29.22,Default,,0,0,0,,Ma prima di svelarveli, {\1c&HFF00&\u1}sigla.{\r}

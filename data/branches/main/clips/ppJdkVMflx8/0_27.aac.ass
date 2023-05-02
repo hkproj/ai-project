@@ -1,0 +1,110 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.60,Default,,0,0,0,,{\1c&HFF00&\u1}proprio{\r} esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:0.60,0:00:0.66,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:0.66,0:00:1.52,Default,,0,0,0,,proprio {\1c&HFF00&\u1}esponenziale,{\r} con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:1.52,0:00:1.68,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:1.68,0:00:1.76,Default,,0,0,0,,proprio esponenziale, {\1c&HFF00&\u1}con{\r} le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:1.76,0:00:1.80,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:1.80,0:00:1.86,Default,,0,0,0,,proprio esponenziale, con {\1c&HFF00&\u1}le{\r} prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:1.86,0:00:1.90,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:1.90,0:00:2.09,Default,,0,0,0,,proprio esponenziale, con le {\1c&HFF00&\u1}prime{\r} collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:2.09,0:00:2.13,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:2.13,0:00:2.75,Default,,0,0,0,,proprio esponenziale, con le prime {\1c&HFF00&\u1}collaborazioni{\r} grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:2.75,0:00:2.85,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:2.85,0:00:3.39,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni {\1c&HFF00&\u1}grosse,{\r} con grosse aziende, grosse realtà
+Dialogue: 0,0:00:3.39,0:00:3.47,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:3.47,0:00:3.61,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, {\1c&HFF00&\u1}con{\r} grosse aziende, grosse realtà
+Dialogue: 0,0:00:3.61,0:00:3.69,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:3.69,0:00:3.97,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con {\1c&HFF00&\u1}grosse{\r} aziende, grosse realtà
+Dialogue: 0,0:00:3.97,0:00:4.01,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:4.01,0:00:4.95,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse {\1c&HFF00&\u1}aziende,{\r} grosse realtà
+Dialogue: 0,0:00:4.95,0:00:5.09,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:5.09,0:00:5.37,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, {\1c&HFF00&\u1}grosse{\r} realtà
+Dialogue: 0,0:00:5.37,0:00:5.43,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse realtà
+Dialogue: 0,0:00:5.43,0:00:5.77,Default,,0,0,0,,proprio esponenziale, con le prime collaborazioni grosse, con grosse aziende, grosse {\1c&HFF00&\u1}realtà{\r}
+Dialogue: 0,0:00:6.18,0:00:6.26,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:6.26,0:00:6.44,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:6.44,0:00:6.82,Default,,0,0,0,,e {\1c&HFF00&\u1}grosse{\r} cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:6.82,0:00:6.90,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:6.90,0:00:7.36,Default,,0,0,0,,e grosse {\1c&HFF00&\u1}cose,{\r} non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:7.36,0:00:7.56,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:7.56,0:00:7.62,Default,,0,0,0,,e grosse cose, {\1c&HFF00&\u1}non{\r} mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:7.62,0:00:7.64,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:7.64,0:00:7.68,Default,,0,0,0,,e grosse cose, non {\1c&HFF00&\u1}mi{\r} nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:7.68,0:00:7.72,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:7.72,0:00:8.01,Default,,0,0,0,,e grosse cose, non mi {\1c&HFF00&\u1}nascondo{\r} che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.01,0:00:8.05,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.05,0:00:8.19,Default,,0,0,0,,e grosse cose, non mi nascondo {\1c&HFF00&\u1}che{\r} mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.19,0:00:8.33,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.33,0:00:8.41,Default,,0,0,0,,e grosse cose, non mi nascondo che {\1c&HFF00&\u1}mi{\r} sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.41,0:00:8.47,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.47,0:00:8.63,Default,,0,0,0,,e grosse cose, non mi nascondo che mi {\1c&HFF00&\u1}sono{\r} sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.63,0:00:8.71,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:8.71,0:00:9.05,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono {\1c&HFF00&\u1}sorte{\r} le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:9.05,0:00:9.31,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:9.31,0:00:9.39,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte {\1c&HFF00&\u1}le{\r} prime domande sul cosa caspita sto
+Dialogue: 0,0:00:9.39,0:00:9.49,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:9.49,0:00:9.69,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le {\1c&HFF00&\u1}prime{\r} domande sul cosa caspita sto
+Dialogue: 0,0:00:9.69,0:00:9.75,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:9.75,0:00:10.11,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime {\1c&HFF00&\u1}domande{\r} sul cosa caspita sto
+Dialogue: 0,0:00:10.11,0:00:10.23,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:10.23,0:00:10.55,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande {\1c&HFF00&\u1}sul{\r} cosa caspita sto
+Dialogue: 0,0:00:10.55,0:00:10.95,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:10.95,0:00:11.17,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul {\1c&HFF00&\u1}cosa{\r} caspita sto
+Dialogue: 0,0:00:11.17,0:00:11.21,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:11.21,0:00:11.59,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa {\1c&HFF00&\u1}caspita{\r} sto
+Dialogue: 0,0:00:11.59,0:00:11.63,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita sto
+Dialogue: 0,0:00:11.63,0:00:11.74,Default,,0,0,0,,e grosse cose, non mi nascondo che mi sono sorte le prime domande sul cosa caspita {\1c&HFF00&\u1}sto{\r}
+Dialogue: 0,0:00:11.82,0:00:12.12,Default,,0,0,0,,{\1c&HFF00&\u1}facendo{\r} della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.12,0:00:12.14,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.14,0:00:12.30,Default,,0,0,0,,facendo {\1c&HFF00&\u1}della{\r} mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.30,0:00:12.32,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.32,0:00:12.42,Default,,0,0,0,,facendo della {\1c&HFF00&\u1}mia{\r} vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.42,0:00:12.44,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.44,0:00:12.68,Default,,0,0,0,,facendo della mia {\1c&HFF00&\u1}vita,{\r} sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.68,0:00:12.84,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.84,0:00:12.92,Default,,0,0,0,,facendo della mia vita, {\1c&HFF00&\u1}sto{\r} buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.92,0:00:12.98,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:12.98,0:00:13.25,Default,,0,0,0,,facendo della mia vita, sto {\1c&HFF00&\u1}buttando{\r} via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.25,0:00:13.27,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.27,0:00:13.37,Default,,0,0,0,,facendo della mia vita, sto buttando {\1c&HFF00&\u1}via{\r} del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.37,0:00:13.39,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.39,0:00:13.51,Default,,0,0,0,,facendo della mia vita, sto buttando via {\1c&HFF00&\u1}del{\r} tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.51,0:00:13.53,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.53,0:00:13.97,Default,,0,0,0,,facendo della mia vita, sto buttando via del {\1c&HFF00&\u1}tempo,{\r} potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.97,0:00:13.99,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:13.99,0:00:14.35,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, {\1c&HFF00&\u1}potrei{\r} dedicarmi molto di più a
+Dialogue: 0,0:00:14.35,0:00:14.39,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:14.39,0:00:14.79,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei {\1c&HFF00&\u1}dedicarmi{\r} molto di più a
+Dialogue: 0,0:00:14.79,0:00:14.83,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:14.83,0:00:14.99,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi {\1c&HFF00&\u1}molto{\r} di più a
+Dialogue: 0,0:00:14.99,0:00:15.03,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:15.03,0:00:15.09,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto {\1c&HFF00&\u1}di{\r} più a
+Dialogue: 0,0:00:15.09,0:00:15.11,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:15.11,0:00:15.17,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di {\1c&HFF00&\u1}più{\r} a
+Dialogue: 0,0:00:15.17,0:00:15.19,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più a
+Dialogue: 0,0:00:15.19,0:00:15.21,Default,,0,0,0,,facendo della mia vita, sto buttando via del tempo, potrei dedicarmi molto di più {\1c&HFF00&\u1}a{\r}
+Dialogue: 0,0:00:16.06,0:00:16.31,Default,,0,0,0,,{\1c&HFF00&\u1}dovrei{\r} dedicarmi molto di più all'università
+Dialogue: 0,0:00:16.31,0:00:16.35,Default,,0,0,0,,dovrei dedicarmi molto di più all'università
+Dialogue: 0,0:00:16.35,0:00:16.77,Default,,0,0,0,,dovrei {\1c&HFF00&\u1}dedicarmi{\r} molto di più all'università
+Dialogue: 0,0:00:16.77,0:00:16.81,Default,,0,0,0,,dovrei dedicarmi molto di più all'università
+Dialogue: 0,0:00:16.81,0:00:16.97,Default,,0,0,0,,dovrei dedicarmi {\1c&HFF00&\u1}molto{\r} di più all'università
+Dialogue: 0,0:00:16.97,0:00:17.01,Default,,0,0,0,,dovrei dedicarmi molto di più all'università
+Dialogue: 0,0:00:17.01,0:00:17.07,Default,,0,0,0,,dovrei dedicarmi molto {\1c&HFF00&\u1}di{\r} più all'università
+Dialogue: 0,0:00:17.07,0:00:17.09,Default,,0,0,0,,dovrei dedicarmi molto di più all'università
+Dialogue: 0,0:00:17.09,0:00:17.17,Default,,0,0,0,,dovrei dedicarmi molto di {\1c&HFF00&\u1}più{\r} all'università
+Dialogue: 0,0:00:17.17,0:00:17.19,Default,,0,0,0,,dovrei dedicarmi molto di più all'università
+Dialogue: 0,0:00:17.19,0:00:17.76,Default,,0,0,0,,dovrei dedicarmi molto di più {\1c&HFF00&\u1}all'università{\r}
+Dialogue: 0,0:00:18.17,0:00:18.34,Default,,0,0,0,,{\1c&HFF00&\u1}BOO{\r}

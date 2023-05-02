@@ -1,0 +1,47 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.34,0:00:0.46,Default,,0,0,0,,{\1c&HFF00&\u1}Ora{\r} che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:0.46,0:00:0.56,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:0.56,0:00:0.64,Default,,0,0,0,,Ora {\1c&HFF00&\u1}che{\r} sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:0.64,0:00:0.70,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:0.70,0:00:1.02,Default,,0,0,0,,Ora che {\1c&HFF00&\u1}sappiamo{\r} che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.02,0:00:1.08,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.08,0:00:1.18,Default,,0,0,0,,Ora che sappiamo {\1c&HFF00&\u1}che{\r} cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.18,0:00:1.22,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.22,0:00:1.42,Default,,0,0,0,,Ora che sappiamo che {\1c&HFF00&\u1}cosa{\r} indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.42,0:00:1.48,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.48,0:00:1.80,Default,,0,0,0,,Ora che sappiamo che cosa {\1c&HFF00&\u1}indica{\r} questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.80,0:00:1.86,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:1.86,0:00:2.10,Default,,0,0,0,,Ora che sappiamo che cosa indica {\1c&HFF00&\u1}questa{\r} Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:2.10,0:00:2.20,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:2.20,0:00:2.40,Default,,0,0,0,,Ora che sappiamo che cosa indica questa {\1c&HFF00&\u1}Bus{\r} Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:2.40,0:00:2.44,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:2.44,0:00:2.77,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus {\1c&HFF00&\u1}Decline{\r} Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:2.77,0:00:2.83,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:2.83,0:00:3.07,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline {\1c&HFF00&\u1}Line,{\r} capite che non ha senso usarlo
+Dialogue: 0,0:00:3.07,0:00:3.37,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:3.37,0:00:3.71,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, {\1c&HFF00&\u1}capite{\r} che non ha senso usarlo
+Dialogue: 0,0:00:3.71,0:00:3.75,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:3.75,0:00:3.87,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite {\1c&HFF00&\u1}che{\r} non ha senso usarlo
+Dialogue: 0,0:00:3.87,0:00:3.93,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:3.93,0:00:4.03,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che {\1c&HFF00&\u1}non{\r} ha senso usarlo
+Dialogue: 0,0:00:4.03,0:00:4.07,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:4.07,0:00:4.15,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non {\1c&HFF00&\u1}ha{\r} senso usarlo
+Dialogue: 0,0:00:4.15,0:00:4.21,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:4.21,0:00:4.49,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha {\1c&HFF00&\u1}senso{\r} usarlo
+Dialogue: 0,0:00:4.49,0:00:4.55,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso usarlo
+Dialogue: 0,0:00:4.55,0:00:4.81,Default,,0,0,0,,Ora che sappiamo che cosa indica questa Bus Decline Line, capite che non ha senso {\1c&HFF00&\u1}usarlo{\r}
+Dialogue: 0,0:00:4.96,0:00:5.06,Default,,0,0,0,,{\1c&HFF00&\u1}per{\r} esempio.
+Dialogue: 0,0:00:5.06,0:00:5.08,Default,,0,0,0,,per esempio.
+Dialogue: 0,0:00:5.08,0:00:5.35,Default,,0,0,0,,per {\1c&HFF00&\u1}esempio.{\r}

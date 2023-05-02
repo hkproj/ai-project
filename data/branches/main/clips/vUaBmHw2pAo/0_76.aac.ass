@@ -1,0 +1,187 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:2.07,0:00:2.13,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.13,0:00:2.17,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.17,0:00:2.23,Default,,0,0,0,,non {\1c&HFF00&\u1}c'è{\r} il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.23,0:00:2.25,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.25,0:00:2.29,Default,,0,0,0,,non c'è {\1c&HFF00&\u1}il{\r} camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.29,0:00:2.33,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.33,0:00:2.71,Default,,0,0,0,,non c'è il {\1c&HFF00&\u1}camerino,{\r} ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.71,0:00:2.95,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.95,0:00:2.99,Default,,0,0,0,,non c'è il camerino, {\1c&HFF00&\u1}ti{\r} tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:2.99,0:00:3.01,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.01,0:00:3.19,Default,,0,0,0,,non c'è il camerino, ti {\1c&HFF00&\u1}tocca{\r} stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.19,0:00:3.21,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.21,0:00:3.41,Default,,0,0,0,,non c'è il camerino, ti tocca {\1c&HFF00&\u1}stare{\r} seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.41,0:00:3.59,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.59,0:00:3.85,Default,,0,0,0,,non c'è il camerino, ti tocca stare {\1c&HFF00&\u1}seduto{\r} in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.85,0:00:3.89,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.89,0:00:3.93,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto {\1c&HFF00&\u1}in{\r} mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.93,0:00:3.97,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:3.97,0:00:4.11,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in {\1c&HFF00&\u1}mezzo{\r} agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:4.11,0:00:4.13,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:4.13,0:00:4.21,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo {\1c&HFF00&\u1}agli{\r} altri, va bene, allora ti prendi
+Dialogue: 0,0:00:4.21,0:00:4.23,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:4.23,0:00:4.59,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli {\1c&HFF00&\u1}altri,{\r} va bene, allora ti prendi
+Dialogue: 0,0:00:4.59,0:00:4.67,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:4.67,0:00:4.73,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, {\1c&HFF00&\u1}va{\r} bene, allora ti prendi
+Dialogue: 0,0:00:4.73,0:00:4.79,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:4.79,0:00:4.99,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va {\1c&HFF00&\u1}bene,{\r} allora ti prendi
+Dialogue: 0,0:00:4.99,0:00:5.07,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:5.07,0:00:5.23,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, {\1c&HFF00&\u1}allora{\r} ti prendi
+Dialogue: 0,0:00:5.23,0:00:5.33,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:5.33,0:00:5.37,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora {\1c&HFF00&\u1}ti{\r} prendi
+Dialogue: 0,0:00:5.37,0:00:5.45,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti prendi
+Dialogue: 0,0:00:5.45,0:00:5.65,Default,,0,0,0,,non c'è il camerino, ti tocca stare seduto in mezzo agli altri, va bene, allora ti {\1c&HFF00&\u1}prendi{\r}
+Dialogue: 0,0:00:5.68,0:00:6.04,Default,,0,0,0,,{\1c&HFF00&\u1}una{\r} sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:6.04,0:00:6.08,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:6.08,0:00:6.30,Default,,0,0,0,,una {\1c&HFF00&\u1}sedia{\r} e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:6.30,0:00:7.06,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:7.06,0:00:7.10,Default,,0,0,0,,una sedia {\1c&HFF00&\u1}e{\r} stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:7.10,0:00:7.14,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:7.14,0:00:7.37,Default,,0,0,0,,una sedia e {\1c&HFF00&\u1}stai{\r} lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:7.37,0:00:7.41,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:7.41,0:00:7.57,Default,,0,0,0,,una sedia e stai {\1c&HFF00&\u1}lì,{\r} tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:7.57,0:00:8.31,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:8.31,0:00:8.47,Default,,0,0,0,,una sedia e stai lì, {\1c&HFF00&\u1}tanto{\r} che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:8.47,0:00:8.49,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:8.49,0:00:8.59,Default,,0,0,0,,una sedia e stai lì, tanto {\1c&HFF00&\u1}che{\r} ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:8.59,0:00:8.65,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:8.65,0:00:8.93,Default,,0,0,0,,una sedia e stai lì, tanto che {\1c&HFF00&\u1}ascolti{\r} le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:8.93,0:00:8.99,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:8.99,0:00:9.05,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti {\1c&HFF00&\u1}le{\r} conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:9.05,0:00:9.07,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:9.07,0:00:9.39,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le {\1c&HFF00&\u1}conferenze{\r} degli altri, gli interventi degli
+Dialogue: 0,0:00:9.39,0:00:9.43,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:9.43,0:00:9.59,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze {\1c&HFF00&\u1}degli{\r} altri, gli interventi degli
+Dialogue: 0,0:00:9.59,0:00:9.63,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:9.63,0:00:9.75,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli {\1c&HFF00&\u1}altri,{\r} gli interventi degli
+Dialogue: 0,0:00:9.75,0:00:9.77,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:9.77,0:00:9.83,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, {\1c&HFF00&\u1}gli{\r} interventi degli
+Dialogue: 0,0:00:9.83,0:00:9.85,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:9.85,0:00:10.17,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli {\1c&HFF00&\u1}interventi{\r} degli
+Dialogue: 0,0:00:10.17,0:00:10.21,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi degli
+Dialogue: 0,0:00:10.21,0:00:10.39,Default,,0,0,0,,una sedia e stai lì, tanto che ascolti le conferenze degli altri, gli interventi {\1c&HFF00&\u1}degli{\r}
+Dialogue: 0,0:00:10.66,0:00:10.84,Default,,0,0,0,,{\1c&HFF00&\u1}altri,{\r} stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:10.84,0:00:10.86,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:10.86,0:00:11.02,Default,,0,0,0,,altri, {\1c&HFF00&\u1}stai{\r} lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.02,0:00:11.04,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.04,0:00:11.08,Default,,0,0,0,,altri, stai {\1c&HFF00&\u1}lì{\r} un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.08,0:00:11.10,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.10,0:00:11.14,Default,,0,0,0,,altri, stai lì {\1c&HFF00&\u1}un{\r} po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.14,0:00:11.22,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.22,0:00:11.30,Default,,0,0,0,,altri, stai lì un {\1c&HFF00&\u1}po'{\r} ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.30,0:00:11.32,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.32,0:00:11.66,Default,,0,0,0,,altri, stai lì un po' {\1c&HFF00&\u1}ascolto,{\r} un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.66,0:00:11.70,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.70,0:00:11.74,Default,,0,0,0,,altri, stai lì un po' ascolto, {\1c&HFF00&\u1}un{\r} po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.74,0:00:11.76,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.76,0:00:11.82,Default,,0,0,0,,altri, stai lì un po' ascolto, un {\1c&HFF00&\u1}po'{\r} ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.82,0:00:11.87,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.87,0:00:11.93,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' {\1c&HFF00&\u1}ti{\r} consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.93,0:00:11.97,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:11.97,0:00:12.43,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti {\1c&HFF00&\u1}consenti,{\r} un po' ti estranei, sei lì però
+Dialogue: 0,0:00:12.43,0:00:12.45,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:12.45,0:00:12.49,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, {\1c&HFF00&\u1}un{\r} po' ti estranei, sei lì però
+Dialogue: 0,0:00:12.49,0:00:12.53,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:12.53,0:00:12.59,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un {\1c&HFF00&\u1}po'{\r} ti estranei, sei lì però
+Dialogue: 0,0:00:12.59,0:00:12.63,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:12.63,0:00:12.71,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' {\1c&HFF00&\u1}ti{\r} estranei, sei lì però
+Dialogue: 0,0:00:12.71,0:00:12.73,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:12.73,0:00:13.31,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti {\1c&HFF00&\u1}estranei,{\r} sei lì però
+Dialogue: 0,0:00:13.31,0:00:13.87,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:13.87,0:00:13.97,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, {\1c&HFF00&\u1}sei{\r} lì però
+Dialogue: 0,0:00:13.97,0:00:14.03,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:14.03,0:00:14.11,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei {\1c&HFF00&\u1}lì{\r} però
+Dialogue: 0,0:00:14.11,0:00:14.13,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì però
+Dialogue: 0,0:00:14.13,0:00:14.25,Default,,0,0,0,,altri, stai lì un po' ascolto, un po' ti consenti, un po' ti estranei, sei lì {\1c&HFF00&\u1}però{\r}
+Dialogue: 0,0:00:14.32,0:00:14.64,Default,,0,0,0,,{\1c&HFF00&\u1}non{\r} è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:14.64,0:00:14.66,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:14.66,0:00:14.70,Default,,0,0,0,,non {\1c&HFF00&\u1}è{\r} che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:14.70,0:00:14.72,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:14.72,0:00:14.80,Default,,0,0,0,,non è {\1c&HFF00&\u1}che{\r} chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:14.80,0:00:14.82,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:14.82,0:00:15.02,Default,,0,0,0,,non è che {\1c&HFF00&\u1}chiaccheri{\r} con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.02,0:00:15.04,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.04,0:00:15.10,Default,,0,0,0,,non è che chiaccheri {\1c&HFF00&\u1}con{\r} gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.10,0:00:15.12,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.12,0:00:15.18,Default,,0,0,0,,non è che chiaccheri con {\1c&HFF00&\u1}gli{\r} altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.18,0:00:15.20,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.20,0:00:15.30,Default,,0,0,0,,non è che chiaccheri con gli {\1c&HFF00&\u1}altri,{\r} non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.30,0:00:15.32,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.32,0:00:15.38,Default,,0,0,0,,non è che chiaccheri con gli altri, {\1c&HFF00&\u1}non{\r} chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.38,0:00:15.40,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.40,0:00:15.64,Default,,0,0,0,,non è che chiaccheri con gli altri, non {\1c&HFF00&\u1}chiaccheri{\r} con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.64,0:00:15.66,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.66,0:00:15.72,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri {\1c&HFF00&\u1}con{\r} nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.72,0:00:15.74,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.74,0:00:15.98,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con {\1c&HFF00&\u1}nessuno,{\r} stai a modo tu isolato, poi non
+Dialogue: 0,0:00:15.98,0:00:16.05,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:16.05,0:00:16.41,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, {\1c&HFF00&\u1}stai{\r} a modo tu isolato, poi non
+Dialogue: 0,0:00:16.41,0:00:17.41,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:17.41,0:00:17.45,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai {\1c&HFF00&\u1}a{\r} modo tu isolato, poi non
+Dialogue: 0,0:00:17.45,0:00:17.51,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:17.51,0:00:17.67,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a {\1c&HFF00&\u1}modo{\r} tu isolato, poi non
+Dialogue: 0,0:00:17.67,0:00:17.73,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:17.73,0:00:17.89,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo {\1c&HFF00&\u1}tu{\r} isolato, poi non
+Dialogue: 0,0:00:17.89,0:00:17.91,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:17.91,0:00:18.47,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu {\1c&HFF00&\u1}isolato,{\r} poi non
+Dialogue: 0,0:00:18.47,0:00:19.03,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:19.03,0:00:19.11,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, {\1c&HFF00&\u1}poi{\r} non
+Dialogue: 0,0:00:19.11,0:00:19.15,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi non
+Dialogue: 0,0:00:19.15,0:00:19.21,Default,,0,0,0,,non è che chiaccheri con gli altri, non chiaccheri con nessuno, stai a modo tu isolato, poi {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:19.20,0:00:19.54,Default,,0,0,0,,{\1c&HFF00&\u1}sei{\r} in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.54,0:00:19.56,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.56,0:00:19.60,Default,,0,0,0,,sei {\1c&HFF00&\u1}in{\r} una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.60,0:00:19.62,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.62,0:00:19.68,Default,,0,0,0,,sei in {\1c&HFF00&\u1}una{\r} stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.68,0:00:19.70,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.70,0:00:19.88,Default,,0,0,0,,sei in una {\1c&HFF00&\u1}stanza{\r} separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.88,0:00:19.94,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:19.94,0:00:20.20,Default,,0,0,0,,sei in una stanza {\1c&HFF00&\u1}separata{\r} dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.20,0:00:20.22,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.22,0:00:20.36,Default,,0,0,0,,sei in una stanza separata {\1c&HFF00&\u1}dagli{\r} altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.36,0:00:20.38,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.38,0:00:20.57,Default,,0,0,0,,sei in una stanza separata dagli {\1c&HFF00&\u1}altri,{\r} però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.57,0:00:20.59,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.59,0:00:20.77,Default,,0,0,0,,sei in una stanza separata dagli altri, {\1c&HFF00&\u1}però{\r} mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.77,0:00:20.85,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:20.85,0:00:21.23,Default,,0,0,0,,sei in una stanza separata dagli altri, però {\1c&HFF00&\u1}mentalmente{\r} sei separata dagli altri, non
+Dialogue: 0,0:00:21.23,0:00:21.27,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:21.27,0:00:21.33,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente {\1c&HFF00&\u1}sei{\r} separata dagli altri, non
+Dialogue: 0,0:00:21.33,0:00:21.37,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:21.37,0:00:21.61,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei {\1c&HFF00&\u1}separata{\r} dagli altri, non
+Dialogue: 0,0:00:21.61,0:00:21.63,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:21.63,0:00:21.73,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata {\1c&HFF00&\u1}dagli{\r} altri, non
+Dialogue: 0,0:00:21.73,0:00:21.75,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:21.75,0:00:21.89,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli {\1c&HFF00&\u1}altri,{\r} non
+Dialogue: 0,0:00:21.89,0:00:22.35,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, non
+Dialogue: 0,0:00:22.35,0:00:22.41,Default,,0,0,0,,sei in una stanza separata dagli altri, però mentalmente sei separata dagli altri, {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:22.60,0:00:22.70,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:22.70,0:00:22.78,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:22.78,0:00:23.10,Default,,0,0,0,,e {\1c&HFF00&\u1}chiacchierare{\r} con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:23.10,0:00:23.12,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:23.12,0:00:23.20,Default,,0,0,0,,e chiacchierare {\1c&HFF00&\u1}con{\r} gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:23.20,0:00:23.22,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:23.22,0:00:23.30,Default,,0,0,0,,e chiacchierare con {\1c&HFF00&\u1}gli{\r} altri. Quella cosa di serno.
+Dialogue: 0,0:00:23.30,0:00:23.36,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:23.36,0:00:23.64,Default,,0,0,0,,e chiacchierare con gli {\1c&HFF00&\u1}altri.{\r} Quella cosa di serno.
+Dialogue: 0,0:00:23.64,0:00:25.27,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:25.27,0:00:25.43,Default,,0,0,0,,e chiacchierare con gli altri. {\1c&HFF00&\u1}Quella{\r} cosa di serno.
+Dialogue: 0,0:00:25.43,0:00:25.45,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:25.45,0:00:25.59,Default,,0,0,0,,e chiacchierare con gli altri. Quella {\1c&HFF00&\u1}cosa{\r} di serno.
+Dialogue: 0,0:00:25.59,0:00:25.61,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:25.61,0:00:25.67,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa {\1c&HFF00&\u1}di{\r} serno.
+Dialogue: 0,0:00:25.67,0:00:25.73,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di serno.
+Dialogue: 0,0:00:25.73,0:00:26.03,Default,,0,0,0,,e chiacchierare con gli altri. Quella cosa di {\1c&HFF00&\u1}serno.{\r}

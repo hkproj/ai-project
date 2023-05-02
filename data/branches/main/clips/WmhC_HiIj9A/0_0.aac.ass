@@ -1,0 +1,121 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.06,0:00:0.38,Default,,0,0,0,,{\1c&HFF00&\u1}Buongiorno{\r} a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:0.38,0:00:0.50,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:0.50,0:00:0.52,Default,,0,0,0,,Buongiorno {\1c&HFF00&\u1}a{\r} tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:0.52,0:00:0.54,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:0.54,0:00:0.78,Default,,0,0,0,,Buongiorno a {\1c&HFF00&\u1}tutti{\r} buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:0.78,0:00:0.80,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:0.80,0:00:1.16,Default,,0,0,0,,Buongiorno a tutti {\1c&HFF00&\u1}buongiorno{\r} a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.16,0:00:1.26,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.26,0:00:1.28,Default,,0,0,0,,Buongiorno a tutti buongiorno {\1c&HFF00&\u1}a{\r} tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.28,0:00:1.30,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.30,0:00:1.58,Default,,0,0,0,,Buongiorno a tutti buongiorno a {\1c&HFF00&\u1}tutte{\r} e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.58,0:00:1.75,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.75,0:00:1.79,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte {\1c&HFF00&\u1}e{\r} benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.79,0:00:1.83,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:1.83,0:00:2.29,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e {\1c&HFF00&\u1}benvenuti{\r} in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:2.29,0:00:2.41,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:2.41,0:00:2.49,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti {\1c&HFF00&\u1}in{\r} questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:2.49,0:00:2.53,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:2.53,0:00:2.77,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in {\1c&HFF00&\u1}questo{\r} nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:2.77,0:00:2.83,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:2.83,0:00:3.01,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo {\1c&HFF00&\u1}nuovo{\r} video, io sono Daria e in questo
+Dialogue: 0,0:00:3.01,0:00:3.07,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:3.07,0:00:3.37,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo {\1c&HFF00&\u1}video,{\r} io sono Daria e in questo
+Dialogue: 0,0:00:3.37,0:00:3.53,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:3.53,0:00:3.59,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, {\1c&HFF00&\u1}io{\r} sono Daria e in questo
+Dialogue: 0,0:00:3.59,0:00:3.65,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:3.65,0:00:3.81,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io {\1c&HFF00&\u1}sono{\r} Daria e in questo
+Dialogue: 0,0:00:3.81,0:00:3.87,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:3.87,0:00:4.13,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono {\1c&HFF00&\u1}Daria{\r} e in questo
+Dialogue: 0,0:00:4.13,0:00:4.25,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:4.25,0:00:4.27,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria {\1c&HFF00&\u1}e{\r} in questo
+Dialogue: 0,0:00:4.27,0:00:4.33,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:4.33,0:00:4.39,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e {\1c&HFF00&\u1}in{\r} questo
+Dialogue: 0,0:00:4.39,0:00:4.41,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in questo
+Dialogue: 0,0:00:4.41,0:00:4.61,Default,,0,0,0,,Buongiorno a tutti buongiorno a tutte e benvenuti in questo nuovo video, io sono Daria e in {\1c&HFF00&\u1}questo{\r}
+Dialogue: 0,0:00:4.70,0:00:8.57,Default,,0,0,0,,{\1c&HFF00&\u1}canale{\r} parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:8.57,0:00:8.61,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:8.61,0:00:8.83,Default,,0,0,0,,canale {\1c&HFF00&\u1}parliamo{\r} di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:8.83,0:00:8.99,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:8.99,0:00:9.09,Default,,0,0,0,,canale parliamo {\1c&HFF00&\u1}di{\r} zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:9.09,0:00:9.11,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:9.11,0:00:9.35,Default,,0,0,0,,canale parliamo di {\1c&HFF00&\u1}zero{\r} waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:9.35,0:00:9.43,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:9.43,0:00:9.71,Default,,0,0,0,,canale parliamo di zero {\1c&HFF00&\u1}waste,{\r} sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:9.71,0:00:9.91,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:9.91,0:00:10.64,Default,,0,0,0,,canale parliamo di zero waste, {\1c&HFF00&\u1}sostenibilità{\r} e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.64,0:00:10.66,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.66,0:00:10.68,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità {\1c&HFF00&\u1}e{\r} vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.68,0:00:10.70,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.70,0:00:10.78,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e {\1c&HFF00&\u1}vita{\r} in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.78,0:00:10.80,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.80,0:00:10.84,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita {\1c&HFF00&\u1}in{\r} pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.84,0:00:10.86,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:10.86,0:00:11.00,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in {\1c&HFF00&\u1}pillole.{\r} Benvenuti in questo secondo
+Dialogue: 0,0:00:11.00,0:00:11.02,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:11.02,0:00:11.20,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. {\1c&HFF00&\u1}Benvenuti{\r} in questo secondo
+Dialogue: 0,0:00:11.20,0:00:11.22,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:11.22,0:00:11.26,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti {\1c&HFF00&\u1}in{\r} questo secondo
+Dialogue: 0,0:00:11.26,0:00:11.28,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:11.28,0:00:11.40,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in {\1c&HFF00&\u1}questo{\r} secondo
+Dialogue: 0,0:00:11.40,0:00:11.42,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo secondo
+Dialogue: 0,0:00:11.42,0:00:11.56,Default,,0,0,0,,canale parliamo di zero waste, sostenibilità e vita in pillole. Benvenuti in questo {\1c&HFF00&\u1}secondo{\r}
+Dialogue: 0,0:00:10.32,0:00:10.90,Default,,0,0,0,,{\1c&HFF00&\u1}video{\r} dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:10.90,0:00:10.92,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:10.92,0:00:11.42,Default,,0,0,0,,video {\1c&HFF00&\u1}dell'anno{\r} che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:11.42,0:00:11.44,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:11.44,0:00:11.52,Default,,0,0,0,,video dell'anno {\1c&HFF00&\u1}che{\r} sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:11.52,0:00:11.58,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:11.58,0:00:11.70,Default,,0,0,0,,video dell'anno che {\1c&HFF00&\u1}sto{\r} girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:11.70,0:00:11.76,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:11.76,0:00:12.06,Default,,0,0,0,,video dell'anno che sto {\1c&HFF00&\u1}girando{\r} ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.06,0:00:12.11,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.11,0:00:12.37,Default,,0,0,0,,video dell'anno che sto girando {\1c&HFF00&\u1}ancora{\r} sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.37,0:00:12.43,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.43,0:00:12.61,Default,,0,0,0,,video dell'anno che sto girando ancora {\1c&HFF00&\u1}sotto{\r} le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.61,0:00:12.65,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.65,0:00:12.73,Default,,0,0,0,,video dell'anno che sto girando ancora sotto {\1c&HFF00&\u1}le{\r} feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.73,0:00:12.77,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:12.77,0:00:13.15,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le {\1c&HFF00&\u1}feste{\r} emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:13.15,0:00:13.17,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:13.17,0:00:13.55,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste {\1c&HFF00&\u1}emotivo{\r} per il quale mi vedete ancora
+Dialogue: 0,0:00:13.55,0:00:13.61,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:13.61,0:00:13.71,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo {\1c&HFF00&\u1}per{\r} il quale mi vedete ancora
+Dialogue: 0,0:00:13.71,0:00:13.77,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:13.77,0:00:13.83,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per {\1c&HFF00&\u1}il{\r} quale mi vedete ancora
+Dialogue: 0,0:00:13.83,0:00:13.89,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:13.89,0:00:14.09,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il {\1c&HFF00&\u1}quale{\r} mi vedete ancora
+Dialogue: 0,0:00:14.09,0:00:14.13,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:14.13,0:00:14.19,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale {\1c&HFF00&\u1}mi{\r} vedete ancora
+Dialogue: 0,0:00:14.19,0:00:14.23,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:14.23,0:00:14.49,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi {\1c&HFF00&\u1}vedete{\r} ancora
+Dialogue: 0,0:00:14.49,0:00:14.53,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete ancora
+Dialogue: 0,0:00:14.53,0:00:14.85,Default,,0,0,0,,video dell'anno che sto girando ancora sotto le feste emotivo per il quale mi vedete {\1c&HFF00&\u1}ancora{\r}
+Dialogue: 0,0:00:15.42,0:00:15.60,Default,,0,0,0,,{\1c&HFF00&\u1}molto{\r} carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:15.60,0:00:15.64,Default,,0,0,0,,molto carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:15.64,0:00:16.10,Default,,0,0,0,,molto {\1c&HFF00&\u1}carina{\r} con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:16.10,0:00:16.16,Default,,0,0,0,,molto carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:16.16,0:00:16.67,Default,,0,0,0,,molto carina {\1c&HFF00&\u1}con{\r} i maglioncini glitterati e niente.
+Dialogue: 0,0:00:16.67,0:00:16.79,Default,,0,0,0,,molto carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:16.79,0:00:16.83,Default,,0,0,0,,molto carina con {\1c&HFF00&\u1}i{\r} maglioncini glitterati e niente.
+Dialogue: 0,0:00:16.83,0:00:16.85,Default,,0,0,0,,molto carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:16.85,0:00:17.41,Default,,0,0,0,,molto carina con i {\1c&HFF00&\u1}maglioncini{\r} glitterati e niente.
+Dialogue: 0,0:00:17.41,0:00:17.47,Default,,0,0,0,,molto carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:17.47,0:00:18.19,Default,,0,0,0,,molto carina con i maglioncini {\1c&HFF00&\u1}glitterati{\r} e niente.
+Dialogue: 0,0:00:18.19,0:00:18.25,Default,,0,0,0,,molto carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:18.25,0:00:18.29,Default,,0,0,0,,molto carina con i maglioncini glitterati {\1c&HFF00&\u1}e{\r} niente.
+Dialogue: 0,0:00:18.29,0:00:18.31,Default,,0,0,0,,molto carina con i maglioncini glitterati e niente.
+Dialogue: 0,0:00:18.31,0:00:19.30,Default,,0,0,0,,molto carina con i maglioncini glitterati e {\1c&HFF00&\u1}niente.{\r}

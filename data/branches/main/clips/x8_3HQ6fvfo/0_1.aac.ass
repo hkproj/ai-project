@@ -1,0 +1,194 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.38,Default,,0,0,0,,{\1c&HFF00&\u1}Ciao{\r} a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.38,0:00:0.40,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.40,0:00:0.42,Default,,0,0,0,,Ciao {\1c&HFF00&\u1}a{\r} tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.42,0:00:0.44,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.44,0:00:0.60,Default,,0,0,0,,Ciao a {\1c&HFF00&\u1}tutti{\r} ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.60,0:00:0.62,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.62,0:00:0.88,Default,,0,0,0,,Ciao a tutti {\1c&HFF00&\u1}ragazzi,{\r} io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.88,0:00:0.92,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.92,0:00:0.96,Default,,0,0,0,,Ciao a tutti ragazzi, {\1c&HFF00&\u1}io{\r} sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.96,0:00:0.98,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:0.98,0:00:1.14,Default,,0,0,0,,Ciao a tutti ragazzi, io {\1c&HFF00&\u1}sono{\r} Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:1.14,0:00:1.18,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:1.18,0:00:1.43,Default,,0,0,0,,Ciao a tutti ragazzi, io sono {\1c&HFF00&\u1}Pietro{\r} e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:1.43,0:00:1.47,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:1.47,0:00:1.51,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro {\1c&HFF00&\u1}e{\r} benvenuti in questo nuovo video.
+Dialogue: 0,0:00:1.51,0:00:1.67,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:1.67,0:00:2.13,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e {\1c&HFF00&\u1}benvenuti{\r} in questo nuovo video.
+Dialogue: 0,0:00:2.13,0:00:2.15,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:2.15,0:00:2.21,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti {\1c&HFF00&\u1}in{\r} questo nuovo video.
+Dialogue: 0,0:00:2.21,0:00:2.25,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:2.25,0:00:2.45,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in {\1c&HFF00&\u1}questo{\r} nuovo video.
+Dialogue: 0,0:00:2.45,0:00:2.49,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:2.49,0:00:2.67,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo {\1c&HFF00&\u1}nuovo{\r} video.
+Dialogue: 0,0:00:2.67,0:00:2.71,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo video.
+Dialogue: 0,0:00:2.71,0:00:2.95,Default,,0,0,0,,Ciao a tutti ragazzi, io sono Pietro e benvenuti in questo nuovo {\1c&HFF00&\u1}video.{\r}
+Dialogue: 0,0:00:3.00,0:00:3.12,Default,,0,0,0,,{\1c&HFF00&\u1}Prima{\r} di iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.12,0:00:3.14,Default,,0,0,0,,Prima di iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.14,0:00:3.18,Default,,0,0,0,,Prima {\1c&HFF00&\u1}di{\r} iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.18,0:00:3.20,Default,,0,0,0,,Prima di iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.20,0:00:3.36,Default,,0,0,0,,Prima di {\1c&HFF00&\u1}iniziare,{\r} tre cose molto importanti.
+Dialogue: 0,0:00:3.36,0:00:3.38,Default,,0,0,0,,Prima di iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.38,0:00:3.44,Default,,0,0,0,,Prima di iniziare, {\1c&HFF00&\u1}tre{\r} cose molto importanti.
+Dialogue: 0,0:00:3.44,0:00:3.46,Default,,0,0,0,,Prima di iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.46,0:00:3.54,Default,,0,0,0,,Prima di iniziare, tre {\1c&HFF00&\u1}cose{\r} molto importanti.
+Dialogue: 0,0:00:3.54,0:00:3.56,Default,,0,0,0,,Prima di iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.56,0:00:3.66,Default,,0,0,0,,Prima di iniziare, tre cose {\1c&HFF00&\u1}molto{\r} importanti.
+Dialogue: 0,0:00:3.66,0:00:3.68,Default,,0,0,0,,Prima di iniziare, tre cose molto importanti.
+Dialogue: 0,0:00:3.68,0:00:3.88,Default,,0,0,0,,Prima di iniziare, tre cose molto {\1c&HFF00&\u1}importanti.{\r}
+Dialogue: 0,0:00:6.28,0:00:6.48,Default,,0,0,0,,{\1c&HFF00&\u1}Numero{\r} uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:6.48,0:00:6.56,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:6.56,0:00:6.74,Default,,0,0,0,,Numero {\1c&HFF00&\u1}uno,{\r} sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:6.74,0:00:6.86,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:6.86,0:00:7.04,Default,,0,0,0,,Numero uno, {\1c&HFF00&\u1}sono{\r} un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.04,0:00:7.18,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.18,0:00:7.26,Default,,0,0,0,,Numero uno, sono {\1c&HFF00&\u1}un{\r} fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.26,0:00:7.30,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.30,0:00:7.66,Default,,0,0,0,,Numero uno, sono un {\1c&HFF00&\u1}fan{\r} a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.66,0:00:7.74,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.74,0:00:7.78,Default,,0,0,0,,Numero uno, sono un fan {\1c&HFF00&\u1}a{\r} canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.78,0:00:7.86,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:7.86,0:00:8.15,Default,,0,0,0,,Numero uno, sono un fan a {\1c&HFF00&\u1}canito{\r} di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:8.15,0:00:8.21,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:8.21,0:00:8.35,Default,,0,0,0,,Numero uno, sono un fan a canito {\1c&HFF00&\u1}di{\r} metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:8.35,0:00:8.51,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:8.51,0:00:8.87,Default,,0,0,0,,Numero uno, sono un fan a canito di {\1c&HFF00&\u1}metodi{\r} di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:8.87,0:00:8.91,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:8.91,0:00:9.01,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi {\1c&HFF00&\u1}di{\r} risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:9.01,0:00:9.05,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:9.05,0:00:9.73,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di {\1c&HFF00&\u1}risparmio,{\r} infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:9.73,0:00:9.75,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:9.75,0:00:9.97,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, {\1c&HFF00&\u1}infatti{\r} ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:9.97,0:00:9.99,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:9.99,0:00:10.03,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti {\1c&HFF00&\u1}ho{\r} già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:10.03,0:00:10.09,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:10.09,0:00:10.17,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho {\1c&HFF00&\u1}già{\r} fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:10.17,0:00:10.21,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:10.21,0:00:10.41,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già {\1c&HFF00&\u1}fatto{\r} tantissimi video sull'argomento,
+Dialogue: 0,0:00:10.41,0:00:10.55,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:10.55,0:00:11.15,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto {\1c&HFF00&\u1}tantissimi{\r} video sull'argomento,
+Dialogue: 0,0:00:11.15,0:00:11.17,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:11.17,0:00:11.37,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi {\1c&HFF00&\u1}video{\r} sull'argomento,
+Dialogue: 0,0:00:11.37,0:00:11.41,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video sull'argomento,
+Dialogue: 0,0:00:11.41,0:00:12.06,Default,,0,0,0,,Numero uno, sono un fan a canito di metodi di risparmio, infatti ho già fatto tantissimi video {\1c&HFF00&\u1}sull'argomento,{\r}
+Dialogue: 0,0:00:12.00,0:00:12.50,Default,,0,0,0,,{\1c&HFF00&\u1}spese{\r} da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:12.50,0:00:12.54,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:12.54,0:00:12.58,Default,,0,0,0,,spese {\1c&HFF00&\u1}da{\r} tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:12.58,0:00:12.62,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:12.62,0:00:13.16,Default,,0,0,0,,spese da {\1c&HFF00&\u1}tagliare,{\r} come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:13.16,0:00:13.20,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:13.20,0:00:13.34,Default,,0,0,0,,spese da tagliare, {\1c&HFF00&\u1}come{\r} risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:13.34,0:00:13.40,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:13.40,0:00:13.98,Default,,0,0,0,,spese da tagliare, come {\1c&HFF00&\u1}risparmiare,{\r} e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:13.98,0:00:14.33,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:14.33,0:00:14.35,Default,,0,0,0,,spese da tagliare, come risparmiare, {\1c&HFF00&\u1}e{\r} chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:14.35,0:00:14.39,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:14.39,0:00:14.79,Default,,0,0,0,,spese da tagliare, come risparmiare, e {\1c&HFF00&\u1}chiaramente{\r} in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:14.79,0:00:14.93,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:14.93,0:00:14.99,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente {\1c&HFF00&\u1}in{\r} ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:14.99,0:00:15.03,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.03,0:00:15.15,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in {\1c&HFF00&\u1}ogni{\r} video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.15,0:00:15.19,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.19,0:00:15.43,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni {\1c&HFF00&\u1}video{\r} tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.43,0:00:15.51,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.51,0:00:15.79,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video {\1c&HFF00&\u1}tendo{\r} a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.79,0:00:15.81,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.81,0:00:15.87,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo {\1c&HFF00&\u1}a{\r} dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.87,0:00:15.91,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:15.91,0:00:16.09,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a {\1c&HFF00&\u1}dire{\r} cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.09,0:00:16.15,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.15,0:00:16.35,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire {\1c&HFF00&\u1}cose{\r} diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.35,0:00:16.41,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.41,0:00:16.77,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose {\1c&HFF00&\u1}diverse,{\r} non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.77,0:00:16.79,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.79,0:00:16.91,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, {\1c&HFF00&\u1}non{\r} è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.91,0:00:16.93,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.93,0:00:16.95,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non {\1c&HFF00&\u1}è{\r} che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.95,0:00:16.99,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:16.99,0:00:17.09,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è {\1c&HFF00&\u1}che{\r} li ripeto sempre uguali.
+Dialogue: 0,0:00:17.09,0:00:17.35,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:17.35,0:00:17.43,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che {\1c&HFF00&\u1}li{\r} ripeto sempre uguali.
+Dialogue: 0,0:00:17.43,0:00:17.47,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:17.47,0:00:17.81,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li {\1c&HFF00&\u1}ripeto{\r} sempre uguali.
+Dialogue: 0,0:00:17.81,0:00:17.85,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:17.85,0:00:18.07,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto {\1c&HFF00&\u1}sempre{\r} uguali.
+Dialogue: 0,0:00:18.07,0:00:18.11,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre uguali.
+Dialogue: 0,0:00:18.11,0:00:18.44,Default,,0,0,0,,spese da tagliare, come risparmiare, e chiaramente in ogni video tendo a dire cose diverse, non è che li ripeto sempre {\1c&HFF00&\u1}uguali.{\r}
+Dialogue: 0,0:00:18.68,0:00:18.92,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi,{\r} alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:18.92,0:00:19.08,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:19.08,0:00:19.28,Default,,0,0,0,,Quindi, {\1c&HFF00&\u1}alla{\r} fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:19.28,0:00:19.32,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:19.32,0:00:19.60,Default,,0,0,0,,Quindi, alla {\1c&HFF00&\u1}fine{\r} e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:19.60,0:00:19.78,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:19.78,0:00:19.84,Default,,0,0,0,,Quindi, alla fine {\1c&HFF00&\u1}e{\r} qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:19.84,0:00:19.92,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:19.92,0:00:20.05,Default,,0,0,0,,Quindi, alla fine e {\1c&HFF00&\u1}qua{\r} in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:20.05,0:00:20.07,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:20.07,0:00:20.13,Default,,0,0,0,,Quindi, alla fine e qua {\1c&HFF00&\u1}in{\r} descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:20.13,0:00:20.15,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:20.15,0:00:20.69,Default,,0,0,0,,Quindi, alla fine e qua in {\1c&HFF00&\u1}descrizione{\r} troverete altri video di questo tipo,
+Dialogue: 0,0:00:20.69,0:00:20.75,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:20.75,0:00:21.15,Default,,0,0,0,,Quindi, alla fine e qua in descrizione {\1c&HFF00&\u1}troverete{\r} altri video di questo tipo,
+Dialogue: 0,0:00:21.15,0:00:21.37,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:21.37,0:00:21.57,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete {\1c&HFF00&\u1}altri{\r} video di questo tipo,
+Dialogue: 0,0:00:21.57,0:00:21.61,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:21.61,0:00:21.81,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri {\1c&HFF00&\u1}video{\r} di questo tipo,
+Dialogue: 0,0:00:21.81,0:00:21.85,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:21.85,0:00:21.93,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video {\1c&HFF00&\u1}di{\r} questo tipo,
+Dialogue: 0,0:00:21.93,0:00:21.99,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:21.99,0:00:22.23,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di {\1c&HFF00&\u1}questo{\r} tipo,
+Dialogue: 0,0:00:22.23,0:00:22.29,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo tipo,
+Dialogue: 0,0:00:22.29,0:00:22.53,Default,,0,0,0,,Quindi, alla fine e qua in descrizione troverete altri video di questo {\1c&HFF00&\u1}tipo,{\r}
+Dialogue: 0,0:00:22.50,0:00:22.54,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:22.54,0:00:22.56,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:22.56,0:00:22.68,Default,,0,0,0,,se {\1c&HFF00&\u1}volete{\r} continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:22.68,0:00:22.70,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:22.70,0:00:22.90,Default,,0,0,0,,se volete {\1c&HFF00&\u1}continuare{\r} all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:22.90,0:00:22.92,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:22.92,0:00:23.12,Default,,0,0,0,,se volete continuare {\1c&HFF00&\u1}all'interno{\r} di questo mondo del risparmio.
+Dialogue: 0,0:00:23.12,0:00:23.14,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:23.14,0:00:23.18,Default,,0,0,0,,se volete continuare all'interno {\1c&HFF00&\u1}di{\r} questo mondo del risparmio.
+Dialogue: 0,0:00:23.18,0:00:23.20,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:23.20,0:00:23.32,Default,,0,0,0,,se volete continuare all'interno di {\1c&HFF00&\u1}questo{\r} mondo del risparmio.
+Dialogue: 0,0:00:23.32,0:00:23.34,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:23.34,0:00:23.44,Default,,0,0,0,,se volete continuare all'interno di questo {\1c&HFF00&\u1}mondo{\r} del risparmio.
+Dialogue: 0,0:00:23.44,0:00:23.46,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:23.46,0:00:23.52,Default,,0,0,0,,se volete continuare all'interno di questo mondo {\1c&HFF00&\u1}del{\r} risparmio.
+Dialogue: 0,0:00:23.52,0:00:23.54,Default,,0,0,0,,se volete continuare all'interno di questo mondo del risparmio.
+Dialogue: 0,0:00:23.54,0:00:23.74,Default,,0,0,0,,se volete continuare all'interno di questo mondo del {\1c&HFF00&\u1}risparmio.{\r}
+Dialogue: 0,0:00:26.06,0:00:26.28,Default,,0,0,0,,{\1c&HFF00&\u1}numero 2{\r} mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:26.28,0:00:26.90,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:26.90,0:00:26.98,Default,,0,0,0,,numero 2 {\1c&HFF00&\u1}mi{\r} spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:26.98,0:00:27.06,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:27.06,0:00:27.54,Default,,0,0,0,,numero 2 mi {\1c&HFF00&\u1}spiace{\r} smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:27.54,0:00:27.62,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:27.62,0:00:28.38,Default,,0,0,0,,numero 2 mi spiace {\1c&HFF00&\u1}smontare{\r} le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:28.38,0:00:28.48,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:28.48,0:00:28.54,Default,,0,0,0,,numero 2 mi spiace smontare {\1c&HFF00&\u1}le{\r} aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:28.54,0:00:28.56,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:28.56,0:00:29.12,Default,,0,0,0,,numero 2 mi spiace smontare le {\1c&HFF00&\u1}aspettative{\r} di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:29.12,0:00:29.18,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:29.18,0:00:29.24,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative {\1c&HFF00&\u1}di{\r} qualcuno ma questi sono trucche
+Dialogue: 0,0:00:29.24,0:00:29.32,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:29.32,0:00:29.89,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di {\1c&HFF00&\u1}qualcuno{\r} ma questi sono trucche
+Dialogue: 0,0:00:29.89,0:00:29.97,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:29.97,0:00:30.07,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno {\1c&HFF00&\u1}ma{\r} questi sono trucche
+Dialogue: 0,0:00:30.07,0:00:30.41,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:30.41,0:00:30.61,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma {\1c&HFF00&\u1}questi{\r} sono trucche
+Dialogue: 0,0:00:30.61,0:00:30.67,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:30.67,0:00:30.83,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi {\1c&HFF00&\u1}sono{\r} trucche
+Dialogue: 0,0:00:30.83,0:00:30.95,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono trucche
+Dialogue: 0,0:00:30.95,0:00:31.19,Default,,0,0,0,,numero 2 mi spiace smontare le aspettative di qualcuno ma questi sono {\1c&HFF00&\u1}trucche{\r}

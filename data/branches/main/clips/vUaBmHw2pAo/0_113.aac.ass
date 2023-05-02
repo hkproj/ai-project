@@ -1,0 +1,49 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.02,0:00:1.24,Default,,0,0,0,,{\1c&HFF00&\u1}Allora{\r} si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.24,0:00:1.28,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.28,0:00:1.32,Default,,0,0,0,,Allora {\1c&HFF00&\u1}si{\r} tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.32,0:00:1.34,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.34,0:00:1.58,Default,,0,0,0,,Allora si {\1c&HFF00&\u1}tratta{\r} di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.58,0:00:1.60,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.60,0:00:1.64,Default,,0,0,0,,Allora si tratta {\1c&HFF00&\u1}di{\r} questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.64,0:00:1.68,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:1.68,0:00:2.04,Default,,0,0,0,,Allora si tratta di {\1c&HFF00&\u1}questa,{\r} tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:2.04,0:00:3.05,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.05,0:00:3.11,Default,,0,0,0,,Allora si tratta di questa, {\1c&HFF00&\u1}tu{\r} non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.11,0:00:3.17,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.17,0:00:3.23,Default,,0,0,0,,Allora si tratta di questa, tu {\1c&HFF00&\u1}non{\r} devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.23,0:00:3.27,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.27,0:00:3.39,Default,,0,0,0,,Allora si tratta di questa, tu non {\1c&HFF00&\u1}devi{\r} fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.39,0:00:3.43,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.43,0:00:3.55,Default,,0,0,0,,Allora si tratta di questa, tu non devi {\1c&HFF00&\u1}fare{\r} così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.55,0:00:3.67,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:3.67,0:00:4.15,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare {\1c&HFF00&\u1}così,{\r} tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:4.15,0:00:5.27,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:5.27,0:00:5.33,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, {\1c&HFF00&\u1}tu{\r} non devi fare così, tu devi fare
+Dialogue: 0,0:00:5.33,0:00:5.35,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:5.35,0:00:5.41,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu {\1c&HFF00&\u1}non{\r} devi fare così, tu devi fare
+Dialogue: 0,0:00:5.41,0:00:5.45,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:5.45,0:00:5.57,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non {\1c&HFF00&\u1}devi{\r} fare così, tu devi fare
+Dialogue: 0,0:00:5.57,0:00:5.61,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:5.61,0:00:5.75,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi {\1c&HFF00&\u1}fare{\r} così, tu devi fare
+Dialogue: 0,0:00:5.75,0:00:5.89,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:5.89,0:00:6.51,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare {\1c&HFF00&\u1}così,{\r} tu devi fare
+Dialogue: 0,0:00:6.51,0:00:7.13,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:7.13,0:00:7.22,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, {\1c&HFF00&\u1}tu{\r} devi fare
+Dialogue: 0,0:00:7.22,0:00:7.26,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:7.26,0:00:7.42,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu {\1c&HFF00&\u1}devi{\r} fare
+Dialogue: 0,0:00:7.42,0:00:7.46,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi fare
+Dialogue: 0,0:00:7.46,0:00:7.62,Default,,0,0,0,,Allora si tratta di questa, tu non devi fare così, tu non devi fare così, tu devi {\1c&HFF00&\u1}fare{\r}
+Dialogue: 0,0:00:7.60,0:00:7.68,Default,,0,0,0,,{\1c&HFF00&\u1}Così.{\r}

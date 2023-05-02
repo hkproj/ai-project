@@ -1,0 +1,416 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.50,Default,,0,0,0,,{\1c&HFF00&\u1}se{\r} dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:0.50,0:00:0.64,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:0.64,0:00:0.72,Default,,0,0,0,,se {\1c&HFF00&\u1}dal{\r} supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:0.72,0:00:0.76,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:0.76,0:00:1.26,Default,,0,0,0,,se dal {\1c&HFF00&\u1}supermercato{\r} vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.26,0:00:1.28,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.28,0:00:1.34,Default,,0,0,0,,se dal supermercato {\1c&HFF00&\u1}vi{\r} viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.34,0:00:1.38,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.38,0:00:1.57,Default,,0,0,0,,se dal supermercato vi {\1c&HFF00&\u1}viene{\r} voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.57,0:00:1.61,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.61,0:00:1.91,Default,,0,0,0,,se dal supermercato vi viene {\1c&HFF00&\u1}voglia{\r} e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.91,0:00:1.93,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.93,0:00:1.95,Default,,0,0,0,,se dal supermercato vi viene voglia {\1c&HFF00&\u1}e{\r} dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.95,0:00:1.99,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:1.99,0:00:2.21,Default,,0,0,0,,se dal supermercato vi viene voglia e {\1c&HFF00&\u1}dite{\r} oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:2.21,0:00:2.25,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:2.25,0:00:2.31,Default,,0,0,0,,se dal supermercato vi viene voglia e dite {\1c&HFF00&\u1}oh{\r} che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:2.31,0:00:2.35,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:2.35,0:00:2.49,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh {\1c&HFF00&\u1}che{\r} buono voglio proprio mangiare questo
+Dialogue: 0,0:00:2.49,0:00:2.53,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:2.53,0:00:2.77,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che {\1c&HFF00&\u1}buono{\r} voglio proprio mangiare questo
+Dialogue: 0,0:00:2.77,0:00:2.81,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:2.81,0:00:2.97,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono {\1c&HFF00&\u1}voglio{\r} proprio mangiare questo
+Dialogue: 0,0:00:2.97,0:00:3.01,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:3.01,0:00:3.17,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio {\1c&HFF00&\u1}proprio{\r} mangiare questo
+Dialogue: 0,0:00:3.17,0:00:3.19,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:3.19,0:00:3.49,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio {\1c&HFF00&\u1}mangiare{\r} questo
+Dialogue: 0,0:00:3.49,0:00:3.55,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare questo
+Dialogue: 0,0:00:3.55,0:00:3.87,Default,,0,0,0,,se dal supermercato vi viene voglia e dite oh che buono voglio proprio mangiare {\1c&HFF00&\u1}questo{\r}
+Dialogue: 0,0:00:3.82,0:00:4.70,Default,,0,0,0,,{\1c&HFF00&\u1}poi{\r} lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:4.70,0:00:4.72,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:4.72,0:00:4.76,Default,,0,0,0,,poi {\1c&HFF00&\u1}lo{\r} comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:4.76,0:00:4.78,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:4.78,0:00:4.96,Default,,0,0,0,,poi lo {\1c&HFF00&\u1}comprate{\r} e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:4.96,0:00:4.98,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:4.98,0:00:5.00,Default,,0,0,0,,poi lo comprate {\1c&HFF00&\u1}e{\r} mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.00,0:00:5.02,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.02,0:00:5.24,Default,,0,0,0,,poi lo comprate e {\1c&HFF00&\u1}mette{\r} in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.24,0:00:5.28,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.28,0:00:5.32,Default,,0,0,0,,poi lo comprate e mette {\1c&HFF00&\u1}in{\r} frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.32,0:00:5.38,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.38,0:00:5.64,Default,,0,0,0,,poi lo comprate e mette in {\1c&HFF00&\u1}frigo,{\r} quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.64,0:00:5.70,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.70,0:00:5.86,Default,,0,0,0,,poi lo comprate e mette in frigo, {\1c&HFF00&\u1}quella{\r} settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.86,0:00:5.90,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:5.90,0:00:6.27,Default,,0,0,0,,poi lo comprate e mette in frigo, quella {\1c&HFF00&\u1}settimana{\r} non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:6.27,0:00:6.39,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:6.39,0:00:6.51,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana {\1c&HFF00&\u1}non{\r} cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:6.51,0:00:6.57,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:6.57,0:00:7.01,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non {\1c&HFF00&\u1}cucinate{\r} niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.01,0:00:7.15,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.15,0:00:7.45,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate {\1c&HFF00&\u1}niente{\r} con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.45,0:00:7.49,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.49,0:00:7.59,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente {\1c&HFF00&\u1}con{\r} il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.59,0:00:7.63,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.63,0:00:7.69,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con {\1c&HFF00&\u1}il{\r} quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.69,0:00:7.75,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:7.75,0:00:8.03,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il {\1c&HFF00&\u1}quale{\r} va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:8.03,0:00:8.67,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:8.67,0:00:8.75,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale {\1c&HFF00&\u1}va{\r} bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:8.75,0:00:8.81,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:8.81,0:00:9.11,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va {\1c&HFF00&\u1}bene{\r} quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:9.11,0:00:9.19,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:9.19,0:00:9.49,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene {\1c&HFF00&\u1}quel{\r} ingrediente e lo fate andare a male
+Dialogue: 0,0:00:9.49,0:00:9.57,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:9.57,0:00:10.31,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel {\1c&HFF00&\u1}ingrediente{\r} e lo fate andare a male
+Dialogue: 0,0:00:10.31,0:00:10.49,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:10.49,0:00:10.53,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente {\1c&HFF00&\u1}e{\r} lo fate andare a male
+Dialogue: 0,0:00:10.53,0:00:10.59,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:10.59,0:00:10.63,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e {\1c&HFF00&\u1}lo{\r} fate andare a male
+Dialogue: 0,0:00:10.63,0:00:10.67,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:10.67,0:00:10.81,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo {\1c&HFF00&\u1}fate{\r} andare a male
+Dialogue: 0,0:00:10.81,0:00:10.83,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:10.83,0:00:11.00,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate {\1c&HFF00&\u1}andare{\r} a male
+Dialogue: 0,0:00:11.00,0:00:11.02,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:11.02,0:00:11.08,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare {\1c&HFF00&\u1}a{\r} male
+Dialogue: 0,0:00:11.08,0:00:11.12,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a male
+Dialogue: 0,0:00:11.12,0:00:11.32,Default,,0,0,0,,poi lo comprate e mette in frigo, quella settimana non cucinate niente con il quale va bene quel ingrediente e lo fate andare a {\1c&HFF00&\u1}male{\r}
+Dialogue: 0,0:00:11.94,0:00:12.10,Default,,0,0,0,,{\1c&HFF00&\u1}ecco{\r} a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.10,0:00:12.36,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.36,0:00:12.38,Default,,0,0,0,,ecco {\1c&HFF00&\u1}a{\r} me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.38,0:00:12.42,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.42,0:00:12.48,Default,,0,0,0,,ecco a {\1c&HFF00&\u1}me{\r} è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.48,0:00:12.50,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.50,0:00:12.52,Default,,0,0,0,,ecco a me {\1c&HFF00&\u1}è{\r} successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.52,0:00:12.54,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.54,0:00:12.90,Default,,0,0,0,,ecco a me è {\1c&HFF00&\u1}successo{\r} un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.90,0:00:12.92,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:12.92,0:00:13.00,Default,,0,0,0,,ecco a me è successo {\1c&HFF00&\u1}un{\r} sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:13.00,0:00:13.12,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:13.12,0:00:13.38,Default,,0,0,0,,ecco a me è successo un {\1c&HFF00&\u1}sacco{\r} di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:13.38,0:00:13.42,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:13.42,0:00:13.49,Default,,0,0,0,,ecco a me è successo un sacco {\1c&HFF00&\u1}di{\r} volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:13.49,0:00:13.53,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:13.53,0:00:13.89,Default,,0,0,0,,ecco a me è successo un sacco di {\1c&HFF00&\u1}volte{\r} motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:13.89,0:00:14.11,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.11,0:00:14.35,Default,,0,0,0,,ecco a me è successo un sacco di volte {\1c&HFF00&\u1}motivo{\r} per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.35,0:00:14.39,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.39,0:00:14.47,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo {\1c&HFF00&\u1}per{\r} il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.47,0:00:14.51,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.51,0:00:14.57,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per {\1c&HFF00&\u1}il{\r} quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.57,0:00:14.63,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.63,0:00:14.83,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il {\1c&HFF00&\u1}quale{\r} vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.83,0:00:14.91,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.91,0:00:14.99,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale {\1c&HFF00&\u1}vi{\r} suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:14.99,0:00:15.03,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:15.03,0:00:15.63,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi {\1c&HFF00&\u1}suggerisco{\r} di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:15.63,0:00:15.69,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:15.69,0:00:15.79,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco {\1c&HFF00&\u1}di{\r} andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:15.79,0:00:15.99,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:15.99,0:00:16.31,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di {\1c&HFF00&\u1}andare{\r} a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:16.31,0:00:16.33,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:16.33,0:00:16.37,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare {\1c&HFF00&\u1}a{\r} fare la spesa sempre con un occhio
+Dialogue: 0,0:00:16.37,0:00:16.45,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:16.45,0:00:16.61,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a {\1c&HFF00&\u1}fare{\r} la spesa sempre con un occhio
+Dialogue: 0,0:00:16.61,0:00:16.69,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:16.69,0:00:16.75,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare {\1c&HFF00&\u1}la{\r} spesa sempre con un occhio
+Dialogue: 0,0:00:16.75,0:00:16.79,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:16.79,0:00:17.05,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la {\1c&HFF00&\u1}spesa{\r} sempre con un occhio
+Dialogue: 0,0:00:17.05,0:00:17.11,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:17.11,0:00:17.37,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa {\1c&HFF00&\u1}sempre{\r} con un occhio
+Dialogue: 0,0:00:17.37,0:00:17.45,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:17.45,0:00:17.59,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre {\1c&HFF00&\u1}con{\r} un occhio
+Dialogue: 0,0:00:17.59,0:00:17.63,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:17.63,0:00:17.67,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con {\1c&HFF00&\u1}un{\r} occhio
+Dialogue: 0,0:00:17.67,0:00:17.71,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un occhio
+Dialogue: 0,0:00:17.71,0:00:17.90,Default,,0,0,0,,ecco a me è successo un sacco di volte motivo per il quale vi suggerisco di andare a fare la spesa sempre con un {\1c&HFF00&\u1}occhio{\r}
+Dialogue: 0,0:00:17.88,0:00:17.92,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:17.92,0:00:17.94,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:17.94,0:00:18.10,Default,,0,0,0,,di {\1c&HFF00&\u1}riguardo{\r} a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.10,0:00:18.12,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.12,0:00:18.14,Default,,0,0,0,,di riguardo {\1c&HFF00&\u1}a{\r} quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.14,0:00:18.16,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.16,0:00:18.28,Default,,0,0,0,,di riguardo a {\1c&HFF00&\u1}quello{\r} che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.28,0:00:18.30,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.30,0:00:18.36,Default,,0,0,0,,di riguardo a quello {\1c&HFF00&\u1}che{\r} pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.36,0:00:18.38,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.38,0:00:18.52,Default,,0,0,0,,di riguardo a quello che {\1c&HFF00&\u1}pensate{\r} di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.52,0:00:18.54,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.54,0:00:18.58,Default,,0,0,0,,di riguardo a quello che pensate {\1c&HFF00&\u1}di{\r} mangiare nella settimana a venire
+Dialogue: 0,0:00:18.58,0:00:18.60,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.60,0:00:18.78,Default,,0,0,0,,di riguardo a quello che pensate di {\1c&HFF00&\u1}mangiare{\r} nella settimana a venire
+Dialogue: 0,0:00:18.78,0:00:18.80,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.80,0:00:18.90,Default,,0,0,0,,di riguardo a quello che pensate di mangiare {\1c&HFF00&\u1}nella{\r} settimana a venire
+Dialogue: 0,0:00:18.90,0:00:18.92,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:18.92,0:00:19.10,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella {\1c&HFF00&\u1}settimana{\r} a venire
+Dialogue: 0,0:00:19.10,0:00:19.12,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:19.12,0:00:19.14,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana {\1c&HFF00&\u1}a{\r} venire
+Dialogue: 0,0:00:19.14,0:00:19.16,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a venire
+Dialogue: 0,0:00:19.16,0:00:19.29,Default,,0,0,0,,di riguardo a quello che pensate di mangiare nella settimana a {\1c&HFF00&\u1}venire{\r}
+Dialogue: 0,0:00:22.32,0:00:22.40,Default,,0,0,0,,{\1c&HFF00&\u1}vi{\r} giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.40,0:00:22.44,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.44,0:00:22.58,Default,,0,0,0,,vi {\1c&HFF00&\u1}giuro{\r} che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.58,0:00:22.60,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.60,0:00:22.66,Default,,0,0,0,,vi giuro {\1c&HFF00&\u1}che{\r} a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.66,0:00:22.68,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.68,0:00:22.70,Default,,0,0,0,,vi giuro che {\1c&HFF00&\u1}a{\r} me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.70,0:00:22.72,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.72,0:00:22.78,Default,,0,0,0,,vi giuro che a {\1c&HFF00&\u1}me{\r} mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.78,0:00:22.82,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.82,0:00:22.88,Default,,0,0,0,,vi giuro che a me {\1c&HFF00&\u1}mi{\r} ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.88,0:00:22.90,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.90,0:00:22.96,Default,,0,0,0,,vi giuro che a me mi {\1c&HFF00&\u1}ha{\r} salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.96,0:00:22.98,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:22.98,0:00:23.25,Default,,0,0,0,,vi giuro che a me mi ha {\1c&HFF00&\u1}salvato{\r} la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.25,0:00:23.31,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.31,0:00:23.37,Default,,0,0,0,,vi giuro che a me mi ha salvato {\1c&HFF00&\u1}la{\r} vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.37,0:00:23.39,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.39,0:00:23.53,Default,,0,0,0,,vi giuro che a me mi ha salvato la {\1c&HFF00&\u1}vita{\r} un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.53,0:00:23.57,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.57,0:00:23.71,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita {\1c&HFF00&\u1}un{\r} sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.71,0:00:23.73,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.73,0:00:23.89,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un {\1c&HFF00&\u1}sacco{\r} di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.89,0:00:23.91,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.91,0:00:23.95,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco {\1c&HFF00&\u1}di{\r} volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.95,0:00:23.99,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:23.99,0:00:24.33,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di {\1c&HFF00&\u1}volte{\r} anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.33,0:00:24.39,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.39,0:00:24.55,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte {\1c&HFF00&\u1}anche{\r} perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.55,0:00:24.57,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.57,0:00:24.75,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche {\1c&HFF00&\u1}perché{\r} mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.75,0:00:24.77,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.77,0:00:24.87,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché {\1c&HFF00&\u1}mi{\r} è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.87,0:00:24.89,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.89,0:00:24.93,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi {\1c&HFF00&\u1}è{\r} capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.93,0:00:24.97,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:24.97,0:00:25.27,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è {\1c&HFF00&\u1}capitato{\r} fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:25.27,0:00:25.29,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:25.29,0:00:25.39,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato {\1c&HFF00&\u1}fin{\r} troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:25.39,0:00:25.41,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:25.41,0:00:25.65,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin {\1c&HFF00&\u1}troppe{\r} volte di dover buttare delle cose
+Dialogue: 0,0:00:25.65,0:00:25.67,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:25.67,0:00:25.91,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe {\1c&HFF00&\u1}volte{\r} di dover buttare delle cose
+Dialogue: 0,0:00:25.91,0:00:25.93,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:25.93,0:00:25.97,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte {\1c&HFF00&\u1}di{\r} dover buttare delle cose
+Dialogue: 0,0:00:25.97,0:00:25.99,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:25.99,0:00:26.17,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di {\1c&HFF00&\u1}dover{\r} buttare delle cose
+Dialogue: 0,0:00:26.17,0:00:26.23,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:26.23,0:00:26.49,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover {\1c&HFF00&\u1}buttare{\r} delle cose
+Dialogue: 0,0:00:26.49,0:00:26.51,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:26.51,0:00:26.65,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare {\1c&HFF00&\u1}delle{\r} cose
+Dialogue: 0,0:00:26.65,0:00:26.67,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle cose
+Dialogue: 0,0:00:26.67,0:00:26.81,Default,,0,0,0,,vi giuro che a me mi ha salvato la vita un sacco di volte anche perché mi è capitato fin troppe volte di dover buttare delle {\1c&HFF00&\u1}cose{\r}
+Dialogue: 0,0:00:26.76,0:00:26.82,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:26.82,0:00:26.84,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:26.84,0:00:26.90,Default,,0,0,0,,che {\1c&HFF00&\u1}non{\r} andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:26.90,0:00:26.92,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:26.92,0:00:27.04,Default,,0,0,0,,che non {\1c&HFF00&\u1}andate{\r} a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.04,0:00:27.06,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.06,0:00:27.08,Default,,0,0,0,,che non andate {\1c&HFF00&\u1}a{\r} male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.08,0:00:27.10,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.10,0:00:27.18,Default,,0,0,0,,che non andate a {\1c&HFF00&\u1}male{\r} non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.18,0:00:27.20,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.20,0:00:27.26,Default,,0,0,0,,che non andate a male {\1c&HFF00&\u1}non{\r} c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.26,0:00:27.28,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.28,0:00:27.32,Default,,0,0,0,,che non andate a male non {\1c&HFF00&\u1}c'è{\r} cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.32,0:00:27.34,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.34,0:00:27.42,Default,,0,0,0,,che non andate a male non c'è {\1c&HFF00&\u1}cosa{\r} che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.42,0:00:27.44,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.44,0:00:27.50,Default,,0,0,0,,che non andate a male non c'è cosa {\1c&HFF00&\u1}che{\r} trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.50,0:00:27.52,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.52,0:00:27.62,Default,,0,0,0,,che non andate a male non c'è cosa che {\1c&HFF00&\u1}trovo{\r} più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.62,0:00:27.64,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.64,0:00:27.70,Default,,0,0,0,,che non andate a male non c'è cosa che trovo {\1c&HFF00&\u1}più{\r} sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.70,0:00:27.72,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.72,0:00:27.90,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più {\1c&HFF00&\u1}sacrilega{\r} e quindi insomma in
+Dialogue: 0,0:00:27.90,0:00:27.92,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.92,0:00:27.94,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega {\1c&HFF00&\u1}e{\r} quindi insomma in
+Dialogue: 0,0:00:27.94,0:00:27.96,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:27.96,0:00:28.10,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e {\1c&HFF00&\u1}quindi{\r} insomma in
+Dialogue: 0,0:00:28.10,0:00:28.12,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:28.12,0:00:28.26,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi {\1c&HFF00&\u1}insomma{\r} in
+Dialogue: 0,0:00:28.26,0:00:28.28,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma in
+Dialogue: 0,0:00:28.28,0:00:28.33,Default,,0,0,0,,che non andate a male non c'è cosa che trovo più sacrilega e quindi insomma {\1c&HFF00&\u1}in{\r}
+Dialogue: 0,0:00:31.12,0:00:31.34,Default,,0,0,0,,{\1c&HFF00&\u1}questo{\r} modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.34,0:00:31.38,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.38,0:00:31.56,Default,,0,0,0,,questo {\1c&HFF00&\u1}modo{\r} mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.56,0:00:31.62,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.62,0:00:31.68,Default,,0,0,0,,questo modo {\1c&HFF00&\u1}mi{\r} sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.68,0:00:31.72,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.72,0:00:31.86,Default,,0,0,0,,questo modo mi {\1c&HFF00&\u1}sono{\r} fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.86,0:00:31.90,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:31.90,0:00:32.22,Default,,0,0,0,,questo modo mi sono {\1c&HFF00&\u1}fatta{\r} un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:32.22,0:00:32.40,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:32.40,0:00:32.47,Default,,0,0,0,,questo modo mi sono fatta {\1c&HFF00&\u1}un{\r} po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:32.47,0:00:32.53,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:32.53,0:00:32.65,Default,,0,0,0,,questo modo mi sono fatta un {\1c&HFF00&\u1}po'{\r} un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:32.65,0:00:32.67,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:32.67,0:00:33.07,Default,,0,0,0,,questo modo mi sono fatta un po' {\1c&HFF00&\u1}un'idea{\r} di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.07,0:00:33.11,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.11,0:00:33.17,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea {\1c&HFF00&\u1}di{\r} cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.17,0:00:33.21,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.21,0:00:33.33,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di {\1c&HFF00&\u1}cosa{\r} mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.33,0:00:33.39,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.39,0:00:33.45,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa {\1c&HFF00&\u1}mi{\r} sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.45,0:00:33.49,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.49,0:00:33.73,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi {\1c&HFF00&\u1}sarebbe{\r} piaciuto mangiare, mi
+Dialogue: 0,0:00:33.73,0:00:33.77,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:33.77,0:00:34.01,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe {\1c&HFF00&\u1}piaciuto{\r} mangiare, mi
+Dialogue: 0,0:00:34.01,0:00:34.07,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:34.07,0:00:34.65,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto {\1c&HFF00&\u1}mangiare,{\r} mi
+Dialogue: 0,0:00:34.65,0:00:35.03,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, mi
+Dialogue: 0,0:00:35.03,0:00:35.07,Default,,0,0,0,,questo modo mi sono fatta un po' un'idea di cosa mi sarebbe piaciuto mangiare, {\1c&HFF00&\u1}mi{\r}
+Dialogue: 0,0:00:35.12,0:00:35.26,Default,,0,0,0,,{\1c&HFF00&\u1}sono{\r} fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:35.26,0:00:35.28,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:35.28,0:00:35.42,Default,,0,0,0,,sono {\1c&HFF00&\u1}fatto{\r} un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:35.42,0:00:35.46,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:35.46,0:00:35.52,Default,,0,0,0,,sono fatto {\1c&HFF00&\u1}un{\r} prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:35.52,0:00:35.54,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:35.54,0:00:36.06,Default,,0,0,0,,sono fatto un {\1c&HFF00&\u1}prospetto,{\r} addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.06,0:00:36.10,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.10,0:00:36.43,Default,,0,0,0,,sono fatto un prospetto, {\1c&HFF00&\u1}addirittura{\r} a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.43,0:00:36.45,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.45,0:00:36.47,Default,,0,0,0,,sono fatto un prospetto, addirittura {\1c&HFF00&\u1}a{\r} un certo punto utilizzavo una
+Dialogue: 0,0:00:36.47,0:00:36.49,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.49,0:00:36.55,Default,,0,0,0,,sono fatto un prospetto, addirittura a {\1c&HFF00&\u1}un{\r} certo punto utilizzavo una
+Dialogue: 0,0:00:36.55,0:00:36.57,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.57,0:00:36.77,Default,,0,0,0,,sono fatto un prospetto, addirittura a un {\1c&HFF00&\u1}certo{\r} punto utilizzavo una
+Dialogue: 0,0:00:36.77,0:00:36.81,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.81,0:00:36.95,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo {\1c&HFF00&\u1}punto{\r} utilizzavo una
+Dialogue: 0,0:00:36.95,0:00:36.97,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:36.97,0:00:37.33,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto {\1c&HFF00&\u1}utilizzavo{\r} una
+Dialogue: 0,0:00:37.33,0:00:37.39,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo una
+Dialogue: 0,0:00:37.39,0:00:37.51,Default,,0,0,0,,sono fatto un prospetto, addirittura a un certo punto utilizzavo {\1c&HFF00&\u1}una{\r}
+Dialogue: 0,0:00:37.72,0:00:38.34,Default,,0,0,0,,{\1c&HFF00&\u1}applicazione{\r} che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.34,0:00:38.38,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.38,0:00:38.44,Default,,0,0,0,,applicazione {\1c&HFF00&\u1}che{\r} mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.44,0:00:38.48,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.48,0:00:38.54,Default,,0,0,0,,applicazione che {\1c&HFF00&\u1}mi{\r} permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.54,0:00:38.58,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.58,0:00:38.95,Default,,0,0,0,,applicazione che mi {\1c&HFF00&\u1}permetteva{\r} di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.95,0:00:38.99,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:38.99,0:00:39.07,Default,,0,0,0,,applicazione che mi permetteva {\1c&HFF00&\u1}di{\r} decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:39.07,0:00:39.09,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:39.09,0:00:39.37,Default,,0,0,0,,applicazione che mi permetteva di {\1c&HFF00&\u1}decidere{\r} cosa mangiare a colazione,
+Dialogue: 0,0:00:39.37,0:00:39.41,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:39.41,0:00:39.53,Default,,0,0,0,,applicazione che mi permetteva di decidere {\1c&HFF00&\u1}cosa{\r} mangiare a colazione,
+Dialogue: 0,0:00:39.53,0:00:39.59,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:39.59,0:00:39.91,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa {\1c&HFF00&\u1}mangiare{\r} a colazione,
+Dialogue: 0,0:00:39.91,0:00:39.93,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:39.93,0:00:39.95,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare {\1c&HFF00&\u1}a{\r} colazione,
+Dialogue: 0,0:00:39.95,0:00:40.01,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a colazione,
+Dialogue: 0,0:00:40.01,0:00:40.45,Default,,0,0,0,,applicazione che mi permetteva di decidere cosa mangiare a {\1c&HFF00&\u1}colazione,{\r}
+Dialogue: 0,0:00:40.44,0:00:41.28,Default,,0,0,0,,{\1c&HFF00&\u1}pranzo{\r} e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:41.28,0:00:41.36,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:41.36,0:00:41.54,Default,,0,0,0,,pranzo {\1c&HFF00&\u1}e{\r} cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:41.54,0:00:41.80,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:41.80,0:00:41.88,Default,,0,0,0,,pranzo e {\1c&HFF00&\u1}cena,{\r} ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:41.88,0:00:41.90,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:41.90,0:00:41.94,Default,,0,0,0,,pranzo e cena, {\1c&HFF00&\u1}ma{\r} io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:41.94,0:00:42.20,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.20,0:00:42.27,Default,,0,0,0,,pranzo e cena, ma {\1c&HFF00&\u1}io{\r} e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.27,0:00:42.29,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.29,0:00:42.31,Default,,0,0,0,,pranzo e cena, ma io {\1c&HFF00&\u1}e{\r} la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.31,0:00:42.35,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.35,0:00:42.41,Default,,0,0,0,,pranzo e cena, ma io e {\1c&HFF00&\u1}la{\r} costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.41,0:00:42.45,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.45,0:00:42.99,Default,,0,0,0,,pranzo e cena, ma io e la {\1c&HFF00&\u1}costanza{\r} non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:42.99,0:00:43.05,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.05,0:00:43.17,Default,,0,0,0,,pranzo e cena, ma io e la costanza {\1c&HFF00&\u1}non{\r} siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.17,0:00:43.19,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.19,0:00:43.37,Default,,0,0,0,,pranzo e cena, ma io e la costanza non {\1c&HFF00&\u1}siamo{\r} mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.37,0:00:43.41,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.41,0:00:43.51,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo {\1c&HFF00&\u1}mai{\r} andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.51,0:00:43.55,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.55,0:00:43.77,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai {\1c&HFF00&\u1}andate{\r} d'accordo e quindi poi
+Dialogue: 0,0:00:43.77,0:00:43.83,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:43.83,0:00:44.35,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate {\1c&HFF00&\u1}d'accordo{\r} e quindi poi
+Dialogue: 0,0:00:44.35,0:00:45.19,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:45.19,0:00:45.23,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo {\1c&HFF00&\u1}e{\r} quindi poi
+Dialogue: 0,0:00:45.23,0:00:45.31,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:45.31,0:00:45.57,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e {\1c&HFF00&\u1}quindi{\r} poi
+Dialogue: 0,0:00:45.57,0:00:45.67,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi poi
+Dialogue: 0,0:00:45.67,0:00:45.83,Default,,0,0,0,,pranzo e cena, ma io e la costanza non siamo mai andate d'accordo e quindi {\1c&HFF00&\u1}poi{\r}
+Dialogue: 0,0:00:45.74,0:00:45.94,Default,,0,0,0,,{\1c&HFF00&\u1}un{\r} certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:45.94,0:00:45.96,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:45.96,0:00:46.12,Default,,0,0,0,,un {\1c&HFF00&\u1}certo{\r} punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:46.12,0:00:46.18,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:46.18,0:00:46.36,Default,,0,0,0,,un certo {\1c&HFF00&\u1}punto{\r} mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:46.36,0:00:46.40,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:46.40,0:00:46.44,Default,,0,0,0,,un certo punto {\1c&HFF00&\u1}mi{\r} sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:46.44,0:00:46.48,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:46.48,0:00:46.64,Default,,0,0,0,,un certo punto mi {\1c&HFF00&\u1}sono{\r} rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:46.64,0:00:47.08,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.08,0:00:47.22,Default,,0,0,0,,un certo punto mi sono {\1c&HFF00&\u1}rotta{\r} le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.22,0:00:47.29,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.29,0:00:47.33,Default,,0,0,0,,un certo punto mi sono rotta {\1c&HFF00&\u1}le{\r} scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.33,0:00:47.37,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.37,0:00:47.59,Default,,0,0,0,,un certo punto mi sono rotta le {\1c&HFF00&\u1}scatole{\r} di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.59,0:00:47.61,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.61,0:00:47.67,Default,,0,0,0,,un certo punto mi sono rotta le scatole {\1c&HFF00&\u1}di{\r} disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.67,0:00:47.69,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:47.69,0:00:48.21,Default,,0,0,0,,un certo punto mi sono rotta le scatole di {\1c&HFF00&\u1}disegnarlo{\r} e semplicemente quando vado
+Dialogue: 0,0:00:48.21,0:00:48.23,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:48.23,0:00:48.27,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo {\1c&HFF00&\u1}e{\r} semplicemente quando vado
+Dialogue: 0,0:00:48.27,0:00:48.33,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:48.33,0:00:48.91,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e {\1c&HFF00&\u1}semplicemente{\r} quando vado
+Dialogue: 0,0:00:48.91,0:00:49.67,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:49.67,0:00:49.83,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente {\1c&HFF00&\u1}quando{\r} vado
+Dialogue: 0,0:00:49.83,0:00:49.85,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando vado
+Dialogue: 0,0:00:49.85,0:00:49.97,Default,,0,0,0,,un certo punto mi sono rotta le scatole di disegnarlo e semplicemente quando {\1c&HFF00&\u1}vado{\r}
+Dialogue: 0,0:00:49.88,0:00:50.42,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.42,0:00:50.44,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.44,0:00:50.58,Default,,0,0,0,,a {\1c&HFF00&\u1}fare{\r} la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.58,0:00:50.66,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.66,0:00:50.70,Default,,0,0,0,,a fare {\1c&HFF00&\u1}la{\r} spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.70,0:00:50.72,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.72,0:00:50.82,Default,,0,0,0,,a fare la {\1c&HFF00&\u1}spesa{\r} penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.82,0:00:50.84,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.84,0:00:50.96,Default,,0,0,0,,a fare la spesa {\1c&HFF00&\u1}penso{\r} già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.96,0:00:50.98,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:50.98,0:00:51.28,Default,,0,0,0,,a fare la spesa penso {\1c&HFF00&\u1}già{\r} come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:51.28,0:00:51.30,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:51.30,0:00:51.49,Default,,0,0,0,,a fare la spesa penso già {\1c&HFF00&\u1}come{\r} combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:51.49,0:00:51.53,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:51.53,0:00:52.01,Default,,0,0,0,,a fare la spesa penso già come {\1c&HFF00&\u1}combinare{\r} i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:52.01,0:00:52.03,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:52.03,0:00:52.05,Default,,0,0,0,,a fare la spesa penso già come combinare {\1c&HFF00&\u1}i{\r} cibi che comprerò, molto facile.
+Dialogue: 0,0:00:52.05,0:00:52.11,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:52.11,0:00:52.29,Default,,0,0,0,,a fare la spesa penso già come combinare i {\1c&HFF00&\u1}cibi{\r} che comprerò, molto facile.
+Dialogue: 0,0:00:52.29,0:00:52.33,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:52.33,0:00:52.41,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi {\1c&HFF00&\u1}che{\r} comprerò, molto facile.
+Dialogue: 0,0:00:52.41,0:00:52.47,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:52.47,0:00:52.85,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che {\1c&HFF00&\u1}comprerò,{\r} molto facile.
+Dialogue: 0,0:00:52.85,0:00:53.09,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:53.09,0:00:53.27,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, {\1c&HFF00&\u1}molto{\r} facile.
+Dialogue: 0,0:00:53.27,0:00:53.31,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto facile.
+Dialogue: 0,0:00:53.31,0:00:53.61,Default,,0,0,0,,a fare la spesa penso già come combinare i cibi che comprerò, molto {\1c&HFF00&\u1}facile.{\r}
+Dialogue: 0,0:00:53.80,0:00:54.18,Default,,0,0,0,,{\1c&HFF00&\u1}Quinto{\r} consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:54.18,0:00:54.26,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:54.26,0:00:54.68,Default,,0,0,0,,Quinto {\1c&HFF00&\u1}consiglio{\r} che voglio darvi, no a cons...
+Dialogue: 0,0:00:54.68,0:00:54.74,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:54.74,0:00:54.82,Default,,0,0,0,,Quinto consiglio {\1c&HFF00&\u1}che{\r} voglio darvi, no a cons...
+Dialogue: 0,0:00:54.82,0:00:54.88,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:54.88,0:00:55.14,Default,,0,0,0,,Quinto consiglio che {\1c&HFF00&\u1}voglio{\r} darvi, no a cons...
+Dialogue: 0,0:00:55.14,0:00:55.30,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:55.30,0:00:55.68,Default,,0,0,0,,Quinto consiglio che voglio {\1c&HFF00&\u1}darvi,{\r} no a cons...
+Dialogue: 0,0:00:55.68,0:00:56.06,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:56.06,0:00:56.24,Default,,0,0,0,,Quinto consiglio che voglio darvi, {\1c&HFF00&\u1}no{\r} a cons...
+Dialogue: 0,0:00:56.24,0:00:56.46,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:56.46,0:00:56.49,Default,,0,0,0,,Quinto consiglio che voglio darvi, no {\1c&HFF00&\u1}a{\r} cons...
+Dialogue: 0,0:00:56.49,0:00:56.69,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a cons...
+Dialogue: 0,0:00:56.69,0:00:56.79,Default,,0,0,0,,Quinto consiglio che voglio darvi, no a {\1c&HFF00&\u1}cons...{\r}

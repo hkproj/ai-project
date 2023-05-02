@@ -1,0 +1,32 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.00,0:00:0.02,Default,,0,0,0,,{\1c&HFF00&\u1}a{\r} un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.02,0:00:0.04,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.04,0:00:0.08,Default,,0,0,0,,a {\1c&HFF00&\u1}un{\r} tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.08,0:00:0.10,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.10,0:00:0.22,Default,,0,0,0,,a un {\1c&HFF00&\u1}tipico{\r} pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.22,0:00:0.24,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.24,0:00:0.42,Default,,0,0,0,,a un tipico {\1c&HFF00&\u1}pasticcio{\r} all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.42,0:00:0.44,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.44,0:00:0.66,Default,,0,0,0,,a un tipico pasticcio {\1c&HFF00&\u1}all'italiana.{\r} Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.66,0:00:0.68,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.68,0:00:0.80,Default,,0,0,0,,a un tipico pasticcio all'italiana. {\1c&HFF00&\u1}Oppure{\r} è tutto un malinteso.
+Dialogue: 0,0:00:0.80,0:00:0.82,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.82,0:00:0.84,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure {\1c&HFF00&\u1}è{\r} tutto un malinteso.
+Dialogue: 0,0:00:0.84,0:00:0.86,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.86,0:00:0.96,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è {\1c&HFF00&\u1}tutto{\r} un malinteso.
+Dialogue: 0,0:00:0.96,0:00:0.98,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:0.98,0:00:1.02,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto {\1c&HFF00&\u1}un{\r} malinteso.
+Dialogue: 0,0:00:1.02,0:00:1.04,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un malinteso.
+Dialogue: 0,0:00:1.04,0:00:1.25,Default,,0,0,0,,a un tipico pasticcio all'italiana. Oppure è tutto un {\1c&HFF00&\u1}malinteso.{\r}

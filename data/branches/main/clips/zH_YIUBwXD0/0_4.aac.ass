@@ -1,0 +1,137 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.06,0:00:0.54,Default,,0,0,0,,{\1c&HFF00&\u1}nell'istante{\r} presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:0.54,0:00:0.60,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:0.60,0:00:2.27,Default,,0,0,0,,nell'istante {\1c&HFF00&\u1}presente.{\r} Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:2.27,0:00:2.33,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:2.33,0:00:2.59,Default,,0,0,0,,nell'istante presente. {\1c&HFF00&\u1}Questa{\r} è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:2.59,0:00:2.63,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:2.63,0:00:2.67,Default,,0,0,0,,nell'istante presente. Questa {\1c&HFF00&\u1}è{\r} veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:2.67,0:00:2.71,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:2.71,0:00:3.07,Default,,0,0,0,,nell'istante presente. Questa è {\1c&HFF00&\u1}veramente{\r} la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:3.07,0:00:3.13,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:3.13,0:00:3.19,Default,,0,0,0,,nell'istante presente. Questa è veramente {\1c&HFF00&\u1}la{\r} premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:3.19,0:00:3.25,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:3.25,0:00:4.21,Default,,0,0,0,,nell'istante presente. Questa è veramente la {\1c&HFF00&\u1}premessa.{\r} Il passaggio dall'adolescenza
+Dialogue: 0,0:00:4.21,0:00:4.65,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:4.65,0:00:4.71,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. {\1c&HFF00&\u1}Il{\r} passaggio dall'adolescenza
+Dialogue: 0,0:00:4.71,0:00:4.75,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:4.75,0:00:5.09,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il {\1c&HFF00&\u1}passaggio{\r} dall'adolescenza
+Dialogue: 0,0:00:5.09,0:00:5.15,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio dall'adolescenza
+Dialogue: 0,0:00:5.15,0:00:5.83,Default,,0,0,0,,nell'istante presente. Questa è veramente la premessa. Il passaggio {\1c&HFF00&\u1}dall'adolescenza{\r}
+Dialogue: 0,0:00:6.38,0:00:6.50,Default,,0,0,0,,{\1c&HFF00&\u1}all'età{\r} universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:6.50,0:00:6.52,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:6.52,0:00:7.36,Default,,0,0,0,,all'età {\1c&HFF00&\u1}universitaria{\r} o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.36,0:00:7.42,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.42,0:00:7.47,Default,,0,0,0,,all'età universitaria {\1c&HFF00&\u1}o{\r} di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.47,0:00:7.51,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.51,0:00:7.59,Default,,0,0,0,,all'età universitaria o {\1c&HFF00&\u1}di{\r} corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.59,0:00:7.65,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.65,0:00:7.93,Default,,0,0,0,,all'età universitaria o di {\1c&HFF00&\u1}corsi{\r} specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.93,0:00:7.99,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:7.99,0:00:8.91,Default,,0,0,0,,all'età universitaria o di corsi {\1c&HFF00&\u1}specialistici{\r} o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:8.91,0:00:8.95,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:8.95,0:00:8.99,Default,,0,0,0,,all'età universitaria o di corsi specialistici {\1c&HFF00&\u1}o{\r} di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:8.99,0:00:9.01,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.01,0:00:9.07,Default,,0,0,0,,all'età universitaria o di corsi specialistici o {\1c&HFF00&\u1}di{\r} quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.07,0:00:9.09,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.09,0:00:9.25,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di {\1c&HFF00&\u1}quello{\r} che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.25,0:00:9.29,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.29,0:00:9.39,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello {\1c&HFF00&\u1}che{\r} è, perché poi ognuno deve
+Dialogue: 0,0:00:9.39,0:00:9.47,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.47,0:00:9.53,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che {\1c&HFF00&\u1}è,{\r} perché poi ognuno deve
+Dialogue: 0,0:00:9.53,0:00:9.57,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.57,0:00:9.73,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, {\1c&HFF00&\u1}perché{\r} poi ognuno deve
+Dialogue: 0,0:00:9.73,0:00:9.75,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.75,0:00:9.85,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché {\1c&HFF00&\u1}poi{\r} ognuno deve
+Dialogue: 0,0:00:9.85,0:00:9.91,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:9.91,0:00:10.09,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi {\1c&HFF00&\u1}ognuno{\r} deve
+Dialogue: 0,0:00:10.09,0:00:10.11,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno deve
+Dialogue: 0,0:00:10.11,0:00:10.23,Default,,0,0,0,,all'età universitaria o di corsi specialistici o di quello che è, perché poi ognuno {\1c&HFF00&\u1}deve{\r}
+Dialogue: 0,0:00:10.34,0:00:10.50,Default,,0,0,0,,{\1c&HFF00&\u1}fare{\r} ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:10.50,0:00:10.52,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:10.52,0:00:11.12,Default,,0,0,0,,fare {\1c&HFF00&\u1}ciò{\r} che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.12,0:00:11.14,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.14,0:00:11.22,Default,,0,0,0,,fare ciò {\1c&HFF00&\u1}che{\r} ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.22,0:00:11.26,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.26,0:00:11.48,Default,,0,0,0,,fare ciò che {\1c&HFF00&\u1}ritiene{\r} gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.48,0:00:11.52,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.52,0:00:11.62,Default,,0,0,0,,fare ciò che ritiene {\1c&HFF00&\u1}gli{\r} siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.62,0:00:11.68,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:11.68,0:00:12.23,Default,,0,0,0,,fare ciò che ritiene gli {\1c&HFF00&\u1}siattagli{\r} di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.23,0:00:12.27,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.27,0:00:12.33,Default,,0,0,0,,fare ciò che ritiene gli siattagli {\1c&HFF00&\u1}di{\r} più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.33,0:00:12.37,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.37,0:00:12.51,Default,,0,0,0,,fare ciò che ritiene gli siattagli di {\1c&HFF00&\u1}più,{\r} che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.51,0:00:12.57,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.57,0:00:12.65,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, {\1c&HFF00&\u1}che{\r} sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.65,0:00:12.71,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:12.71,0:00:13.17,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che {\1c&HFF00&\u1}sia{\r} meno forzatura rispetto a quello
+Dialogue: 0,0:00:13.17,0:00:13.85,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:13.85,0:00:14.03,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia {\1c&HFF00&\u1}meno{\r} forzatura rispetto a quello
+Dialogue: 0,0:00:14.03,0:00:14.11,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:14.11,0:00:14.81,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno {\1c&HFF00&\u1}forzatura{\r} rispetto a quello
+Dialogue: 0,0:00:14.81,0:00:14.87,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:14.87,0:00:15.13,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura {\1c&HFF00&\u1}rispetto{\r} a quello
+Dialogue: 0,0:00:15.13,0:00:15.15,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:15.15,0:00:15.17,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto {\1c&HFF00&\u1}a{\r} quello
+Dialogue: 0,0:00:15.17,0:00:15.21,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a quello
+Dialogue: 0,0:00:15.21,0:00:15.37,Default,,0,0,0,,fare ciò che ritiene gli siattagli di più, che sia meno forzatura rispetto a {\1c&HFF00&\u1}quello{\r}
+Dialogue: 0,0:00:15.32,0:00:15.98,Default,,0,0,0,,{\1c&HFF00&\u1}che{\r} sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:15.98,0:00:16.00,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:16.00,0:00:16.04,Default,,0,0,0,,che {\1c&HFF00&\u1}sa{\r} fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:16.04,0:00:16.10,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:16.10,0:00:16.26,Default,,0,0,0,,che sa {\1c&HFF00&\u1}fare,{\r} le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:16.26,0:00:17.16,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:17.16,0:00:17.20,Default,,0,0,0,,che sa fare, {\1c&HFF00&\u1}le{\r} predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:17.20,0:00:17.22,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:17.22,0:00:17.83,Default,,0,0,0,,che sa fare, le {\1c&HFF00&\u1}predisposizioni{\r} che già credo che sia cruciale.
+Dialogue: 0,0:00:17.83,0:00:17.87,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:17.87,0:00:17.97,Default,,0,0,0,,che sa fare, le predisposizioni {\1c&HFF00&\u1}che{\r} già credo che sia cruciale.
+Dialogue: 0,0:00:17.97,0:00:18.03,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:18.03,0:00:18.21,Default,,0,0,0,,che sa fare, le predisposizioni che {\1c&HFF00&\u1}già{\r} credo che sia cruciale.
+Dialogue: 0,0:00:18.21,0:00:19.97,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:19.97,0:00:20.19,Default,,0,0,0,,che sa fare, le predisposizioni che già {\1c&HFF00&\u1}credo{\r} che sia cruciale.
+Dialogue: 0,0:00:20.19,0:00:21.11,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:21.11,0:00:21.19,Default,,0,0,0,,che sa fare, le predisposizioni che già credo {\1c&HFF00&\u1}che{\r} sia cruciale.
+Dialogue: 0,0:00:21.19,0:00:21.25,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:21.25,0:00:21.39,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che {\1c&HFF00&\u1}sia{\r} cruciale.
+Dialogue: 0,0:00:21.39,0:00:21.57,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia cruciale.
+Dialogue: 0,0:00:21.57,0:00:22.06,Default,,0,0,0,,che sa fare, le predisposizioni che già credo che sia {\1c&HFF00&\u1}cruciale.{\r}
+Dialogue: 0,0:00:22.12,0:00:22.24,Default,,0,0,0,,{\1c&HFF00&\u1}Quindi{\r} questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.24,0:00:22.26,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.26,0:00:22.40,Default,,0,0,0,,Quindi {\1c&HFF00&\u1}questo{\r} è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.40,0:00:22.42,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.42,0:00:22.44,Default,,0,0,0,,Quindi questo {\1c&HFF00&\u1}è{\r} il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.44,0:00:22.46,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.46,0:00:22.50,Default,,0,0,0,,Quindi questo è {\1c&HFF00&\u1}il{\r} mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.50,0:00:22.52,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.52,0:00:22.58,Default,,0,0,0,,Quindi questo è il {\1c&HFF00&\u1}mio{\r} consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.58,0:00:22.60,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.60,0:00:22.78,Default,,0,0,0,,Quindi questo è il mio {\1c&HFF00&\u1}consiglio,{\r} fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.78,0:00:22.80,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.80,0:00:22.92,Default,,0,0,0,,Quindi questo è il mio consiglio, {\1c&HFF00&\u1}fatevi{\r} un culo grande come una casa.
+Dialogue: 0,0:00:22.92,0:00:22.94,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:22.94,0:00:22.98,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi {\1c&HFF00&\u1}un{\r} culo grande come una casa.
+Dialogue: 0,0:00:22.98,0:00:23.00,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:23.00,0:00:23.08,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un {\1c&HFF00&\u1}culo{\r} grande come una casa.
+Dialogue: 0,0:00:23.08,0:00:23.10,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:23.10,0:00:23.22,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo {\1c&HFF00&\u1}grande{\r} come una casa.
+Dialogue: 0,0:00:23.22,0:00:23.24,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:23.24,0:00:23.32,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande {\1c&HFF00&\u1}come{\r} una casa.
+Dialogue: 0,0:00:23.32,0:00:23.34,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:23.34,0:00:23.40,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come {\1c&HFF00&\u1}una{\r} casa.
+Dialogue: 0,0:00:23.40,0:00:23.42,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una casa.
+Dialogue: 0,0:00:23.42,0:00:23.51,Default,,0,0,0,,Quindi questo è il mio consiglio, fatevi un culo grande come una {\1c&HFF00&\u1}casa.{\r}
+Dialogue: 0,0:00:25.36,0:00:25.44,Default,,0,0,0,,{\1c&HFF00&\u1}Ciao!{\r}

@@ -1,0 +1,497 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,24,&Hffffff,&Hffffff,&H0,&H0,0,0,0,0,100,100,0,0,1,1,0,2,10,10,10,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:0.24,0:00:0.48,Default,,0,0,0,,{\1c&HFF00&\u1}avete{\r} presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:0.48,0:00:0.52,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:0.52,0:00:0.94,Default,,0,0,0,,avete {\1c&HFF00&\u1}presente{\r} quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:0.94,0:00:0.98,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:0.98,0:00:1.18,Default,,0,0,0,,avete presente {\1c&HFF00&\u1}quelle{\r} situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:1.18,0:00:1.20,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:1.20,0:00:1.73,Default,,0,0,0,,avete presente quelle {\1c&HFF00&\u1}situazioni{\r} in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:1.73,0:00:1.77,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:1.77,0:00:1.83,Default,,0,0,0,,avete presente quelle situazioni {\1c&HFF00&\u1}in{\r} cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:1.83,0:00:1.89,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:1.89,0:00:2.07,Default,,0,0,0,,avete presente quelle situazioni in {\1c&HFF00&\u1}cui{\r} vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:2.07,0:00:2.13,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:2.13,0:00:2.21,Default,,0,0,0,,avete presente quelle situazioni in cui {\1c&HFF00&\u1}vi{\r} serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:2.21,0:00:2.29,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:2.29,0:00:2.51,Default,,0,0,0,,avete presente quelle situazioni in cui vi {\1c&HFF00&\u1}serve{\r} qualcosa all'ultimo però non
+Dialogue: 0,0:00:2.51,0:00:2.57,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:2.57,0:00:2.95,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve {\1c&HFF00&\u1}qualcosa{\r} all'ultimo però non
+Dialogue: 0,0:00:2.95,0:00:2.97,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:2.97,0:00:3.67,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa {\1c&HFF00&\u1}all'ultimo{\r} però non
+Dialogue: 0,0:00:3.67,0:00:3.91,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:3.91,0:00:4.09,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo {\1c&HFF00&\u1}però{\r} non
+Dialogue: 0,0:00:4.09,0:00:4.13,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però non
+Dialogue: 0,0:00:4.13,0:00:4.21,Default,,0,0,0,,avete presente quelle situazioni in cui vi serve qualcosa all'ultimo però {\1c&HFF00&\u1}non{\r}
+Dialogue: 0,0:00:4.20,0:00:4.50,Default,,0,0,0,,{\1c&HFF00&\u1}ce{\r} l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:4.50,0:00:4.54,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:4.54,0:00:4.74,Default,,0,0,0,,ce {\1c&HFF00&\u1}l'avete{\r} in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:4.74,0:00:4.76,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:4.76,0:00:4.80,Default,,0,0,0,,ce l'avete {\1c&HFF00&\u1}in{\r} casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:4.80,0:00:4.88,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:4.88,0:00:5.00,Default,,0,0,0,,ce l'avete in {\1c&HFF00&\u1}casa{\r} allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:5.00,0:00:5.02,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:5.02,0:00:5.22,Default,,0,0,0,,ce l'avete in casa {\1c&HFF00&\u1}allora{\r} magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:5.22,0:00:5.24,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:5.24,0:00:5.46,Default,,0,0,0,,ce l'avete in casa allora {\1c&HFF00&\u1}magari{\r} dovete uscire addirittura apposta e
+Dialogue: 0,0:00:5.46,0:00:5.48,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:5.48,0:00:5.71,Default,,0,0,0,,ce l'avete in casa allora magari {\1c&HFF00&\u1}dovete{\r} uscire addirittura apposta e
+Dialogue: 0,0:00:5.71,0:00:5.75,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:5.75,0:00:6.01,Default,,0,0,0,,ce l'avete in casa allora magari dovete {\1c&HFF00&\u1}uscire{\r} addirittura apposta e
+Dialogue: 0,0:00:6.01,0:00:6.05,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:6.05,0:00:6.51,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire {\1c&HFF00&\u1}addirittura{\r} apposta e
+Dialogue: 0,0:00:6.51,0:00:6.53,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:6.53,0:00:7.15,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura {\1c&HFF00&\u1}apposta{\r} e
+Dialogue: 0,0:00:7.15,0:00:7.45,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta e
+Dialogue: 0,0:00:7.45,0:00:7.47,Default,,0,0,0,,ce l'avete in casa allora magari dovete uscire addirittura apposta {\1c&HFF00&\u1}e{\r}
+Dialogue: 0,0:00:7.74,0:00:7.88,Default,,0,0,0,,{\1c&HFF00&\u1}andare{\r} a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:7.88,0:00:7.90,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:7.90,0:00:7.92,Default,,0,0,0,,andare {\1c&HFF00&\u1}a{\r} prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:7.92,0:00:7.94,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:7.94,0:00:8.22,Default,,0,0,0,,andare a {\1c&HFF00&\u1}prenderlo{\r} nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.22,0:00:8.24,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.24,0:00:8.38,Default,,0,0,0,,andare a prenderlo {\1c&HFF00&\u1}nel{\r} primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.38,0:00:8.42,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.42,0:00:8.58,Default,,0,0,0,,andare a prenderlo nel {\1c&HFF00&\u1}primo{\r} posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.58,0:00:8.62,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.62,0:00:8.91,Default,,0,0,0,,andare a prenderlo nel primo {\1c&HFF00&\u1}posto{\r} che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.91,0:00:8.95,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:8.95,0:00:9.03,Default,,0,0,0,,andare a prenderlo nel primo posto {\1c&HFF00&\u1}che{\r} ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:9.03,0:00:9.09,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:9.09,0:00:9.17,Default,,0,0,0,,andare a prenderlo nel primo posto che {\1c&HFF00&\u1}ce{\r} l'ha pagandolo pure caro?
+Dialogue: 0,0:00:9.17,0:00:9.25,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:9.25,0:00:9.37,Default,,0,0,0,,andare a prenderlo nel primo posto che ce {\1c&HFF00&\u1}l'ha{\r} pagandolo pure caro?
+Dialogue: 0,0:00:9.37,0:00:9.59,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:9.59,0:00:9.95,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha {\1c&HFF00&\u1}pagandolo{\r} pure caro?
+Dialogue: 0,0:00:9.95,0:00:9.99,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:9.99,0:00:10.15,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo {\1c&HFF00&\u1}pure{\r} caro?
+Dialogue: 0,0:00:10.15,0:00:10.19,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure caro?
+Dialogue: 0,0:00:10.19,0:00:10.47,Default,,0,0,0,,andare a prenderlo nel primo posto che ce l'ha pagandolo pure {\1c&HFF00&\u1}caro?{\r}
+Dialogue: 0,0:00:10.84,0:00:11.04,Default,,0,0,0,,{\1c&HFF00&\u1}bene{\r} anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:11.04,0:00:11.36,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:11.36,0:00:11.58,Default,,0,0,0,,bene {\1c&HFF00&\u1}anche{\r} io e le situazioni sono le più disparate
+Dialogue: 0,0:00:11.58,0:00:11.68,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:11.68,0:00:11.78,Default,,0,0,0,,bene anche {\1c&HFF00&\u1}io{\r} e le situazioni sono le più disparate
+Dialogue: 0,0:00:11.78,0:00:12.15,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:12.15,0:00:12.25,Default,,0,0,0,,bene anche io {\1c&HFF00&\u1}e{\r} le situazioni sono le più disparate
+Dialogue: 0,0:00:12.25,0:00:12.45,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:12.45,0:00:12.53,Default,,0,0,0,,bene anche io e {\1c&HFF00&\u1}le{\r} situazioni sono le più disparate
+Dialogue: 0,0:00:12.53,0:00:12.57,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:12.57,0:00:12.95,Default,,0,0,0,,bene anche io e le {\1c&HFF00&\u1}situazioni{\r} sono le più disparate
+Dialogue: 0,0:00:12.95,0:00:13.01,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:13.01,0:00:13.13,Default,,0,0,0,,bene anche io e le situazioni {\1c&HFF00&\u1}sono{\r} le più disparate
+Dialogue: 0,0:00:13.13,0:00:13.19,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:13.19,0:00:13.23,Default,,0,0,0,,bene anche io e le situazioni sono {\1c&HFF00&\u1}le{\r} più disparate
+Dialogue: 0,0:00:13.23,0:00:13.25,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:13.25,0:00:13.35,Default,,0,0,0,,bene anche io e le situazioni sono le {\1c&HFF00&\u1}più{\r} disparate
+Dialogue: 0,0:00:13.35,0:00:13.39,Default,,0,0,0,,bene anche io e le situazioni sono le più disparate
+Dialogue: 0,0:00:13.39,0:00:13.89,Default,,0,0,0,,bene anche io e le situazioni sono le più {\1c&HFF00&\u1}disparate{\r}
+Dialogue: 0,0:00:14.24,0:00:14.30,Default,,0,0,0,,{\1c&HFF00&\u1}vi{\r} faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:14.30,0:00:14.32,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:14.32,0:00:14.54,Default,,0,0,0,,vi {\1c&HFF00&\u1}faccio{\r} giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:14.54,0:00:14.60,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:14.60,0:00:14.84,Default,,0,0,0,,vi faccio {\1c&HFF00&\u1}giusto{\r} due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:14.84,0:00:15.10,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:15.10,0:00:15.22,Default,,0,0,0,,vi faccio giusto {\1c&HFF00&\u1}due{\r} esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:15.22,0:00:15.26,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:15.26,0:00:15.70,Default,,0,0,0,,vi faccio giusto due {\1c&HFF00&\u1}esempi{\r} io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:15.70,0:00:15.99,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:15.99,0:00:16.11,Default,,0,0,0,,vi faccio giusto due esempi {\1c&HFF00&\u1}io{\r} detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:16.11,0:00:16.31,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:16.31,0:00:16.81,Default,,0,0,0,,vi faccio giusto due esempi io {\1c&HFF00&\u1}detesto{\r} profondamente incartare regali è proprio
+Dialogue: 0,0:00:16.81,0:00:16.89,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:16.89,0:00:17.53,Default,,0,0,0,,vi faccio giusto due esempi io detesto {\1c&HFF00&\u1}profondamente{\r} incartare regali è proprio
+Dialogue: 0,0:00:17.53,0:00:17.71,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:17.71,0:00:18.31,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente {\1c&HFF00&\u1}incartare{\r} regali è proprio
+Dialogue: 0,0:00:18.31,0:00:18.37,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:18.37,0:00:18.79,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare {\1c&HFF00&\u1}regali{\r} è proprio
+Dialogue: 0,0:00:18.79,0:00:18.85,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:18.85,0:00:18.89,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali {\1c&HFF00&\u1}è{\r} proprio
+Dialogue: 0,0:00:18.89,0:00:18.93,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è proprio
+Dialogue: 0,0:00:18.93,0:00:19.13,Default,,0,0,0,,vi faccio giusto due esempi io detesto profondamente incartare regali è {\1c&HFF00&\u1}proprio{\r}
+Dialogue: 0,0:00:19.12,0:00:19.84,Default,,0,0,0,,{\1c&HFF00&\u1}un'attività{\r} che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:19.84,0:00:19.86,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:19.86,0:00:19.96,Default,,0,0,0,,un'attività {\1c&HFF00&\u1}che{\r} mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:19.96,0:00:19.98,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:19.98,0:00:20.20,Default,,0,0,0,,un'attività che {\1c&HFF00&\u1}mi{\r} irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.20,0:00:20.24,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.24,0:00:20.58,Default,,0,0,0,,un'attività che mi {\1c&HFF00&\u1}irrita{\r} e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.58,0:00:20.60,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.60,0:00:20.63,Default,,0,0,0,,un'attività che mi irrita {\1c&HFF00&\u1}e{\r} che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.63,0:00:20.67,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.67,0:00:20.77,Default,,0,0,0,,un'attività che mi irrita e {\1c&HFF00&\u1}che{\r} non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.77,0:00:20.79,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.79,0:00:20.89,Default,,0,0,0,,un'attività che mi irrita e che {\1c&HFF00&\u1}non{\r} ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.89,0:00:20.93,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:20.93,0:00:21.03,Default,,0,0,0,,un'attività che mi irrita e che non {\1c&HFF00&\u1}ho{\r} mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:21.03,0:00:21.11,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:21.11,0:00:21.27,Default,,0,0,0,,un'attività che mi irrita e che non ho {\1c&HFF00&\u1}mai{\r} voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:21.27,0:00:21.31,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:21.31,0:00:21.55,Default,,0,0,0,,un'attività che mi irrita e che non ho mai {\1c&HFF00&\u1}voglia{\r} di fare quindi da un bel po'
+Dialogue: 0,0:00:21.55,0:00:21.59,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:21.59,0:00:21.67,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia {\1c&HFF00&\u1}di{\r} fare quindi da un bel po'
+Dialogue: 0,0:00:21.67,0:00:21.71,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:21.71,0:00:21.99,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di {\1c&HFF00&\u1}fare{\r} quindi da un bel po'
+Dialogue: 0,0:00:21.99,0:00:22.37,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:22.37,0:00:22.63,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare {\1c&HFF00&\u1}quindi{\r} da un bel po'
+Dialogue: 0,0:00:22.63,0:00:22.69,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:22.69,0:00:22.77,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi {\1c&HFF00&\u1}da{\r} un bel po'
+Dialogue: 0,0:00:22.77,0:00:22.87,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:22.87,0:00:22.99,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da {\1c&HFF00&\u1}un{\r} bel po'
+Dialogue: 0,0:00:22.99,0:00:23.01,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:23.01,0:00:23.15,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un {\1c&HFF00&\u1}bel{\r} po'
+Dialogue: 0,0:00:23.15,0:00:23.19,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel po'
+Dialogue: 0,0:00:23.19,0:00:23.23,Default,,0,0,0,,un'attività che mi irrita e che non ho mai voglia di fare quindi da un bel {\1c&HFF00&\u1}po'{\r}
+Dialogue: 0,0:00:23.12,0:00:23.80,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:23.80,0:00:23.82,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:23.82,0:00:23.90,Default,,0,0,0,,di {\1c&HFF00&\u1}anni{\r} a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:23.90,0:00:23.92,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:23.92,0:00:23.94,Default,,0,0,0,,di anni {\1c&HFF00&\u1}a{\r} questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:23.94,0:00:23.96,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:23.96,0:00:24.10,Default,,0,0,0,,di anni a {\1c&HFF00&\u1}questa{\r} parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.10,0:00:24.12,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.12,0:00:24.30,Default,,0,0,0,,di anni a questa {\1c&HFF00&\u1}parte{\r} mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.30,0:00:24.34,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.34,0:00:24.42,Default,,0,0,0,,di anni a questa parte {\1c&HFF00&\u1}mi{\r} sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.42,0:00:24.46,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.46,0:00:24.61,Default,,0,0,0,,di anni a questa parte mi {\1c&HFF00&\u1}sono{\r} convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.61,0:00:24.67,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:24.67,0:00:25.19,Default,,0,0,0,,di anni a questa parte mi sono {\1c&HFF00&\u1}convertito{\r} ai sacchetti regalo
+Dialogue: 0,0:00:25.19,0:00:25.35,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:25.35,0:00:25.45,Default,,0,0,0,,di anni a questa parte mi sono convertito {\1c&HFF00&\u1}ai{\r} sacchetti regalo
+Dialogue: 0,0:00:25.45,0:00:25.51,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:25.51,0:00:25.97,Default,,0,0,0,,di anni a questa parte mi sono convertito ai {\1c&HFF00&\u1}sacchetti{\r} regalo
+Dialogue: 0,0:00:25.97,0:00:25.99,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti regalo
+Dialogue: 0,0:00:25.99,0:00:26.37,Default,,0,0,0,,di anni a questa parte mi sono convertito ai sacchetti {\1c&HFF00&\u1}regalo{\r}
+Dialogue: 0,0:00:26.68,0:00:26.72,Default,,0,0,0,,{\1c&HFF00&\u1}Il{\r} punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:26.72,0:00:26.76,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:26.76,0:00:26.98,Default,,0,0,0,,Il {\1c&HFF00&\u1}punto{\r} è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:26.98,0:00:27.00,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.00,0:00:27.04,Default,,0,0,0,,Il punto {\1c&HFF00&\u1}è{\r} che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.04,0:00:27.08,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.08,0:00:27.20,Default,,0,0,0,,Il punto è {\1c&HFF00&\u1}che{\r} non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.20,0:00:27.46,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.46,0:00:27.56,Default,,0,0,0,,Il punto è che {\1c&HFF00&\u1}non{\r} li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.56,0:00:27.60,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.60,0:00:27.66,Default,,0,0,0,,Il punto è che non {\1c&HFF00&\u1}li{\r} trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.66,0:00:27.70,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.70,0:00:27.92,Default,,0,0,0,,Il punto è che non li {\1c&HFF00&\u1}trovo{\r} mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.92,0:00:27.96,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:27.96,0:00:28.17,Default,,0,0,0,,Il punto è che non li trovo {\1c&HFF00&\u1}mai{\r} in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.17,0:00:28.19,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.19,0:00:28.25,Default,,0,0,0,,Il punto è che non li trovo mai {\1c&HFF00&\u1}in{\r} giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.25,0:00:28.31,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.31,0:00:28.47,Default,,0,0,0,,Il punto è che non li trovo mai in {\1c&HFF00&\u1}giro{\r} per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.47,0:00:28.51,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.51,0:00:28.63,Default,,0,0,0,,Il punto è che non li trovo mai in giro {\1c&HFF00&\u1}per{\r} casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.63,0:00:28.69,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:28.69,0:00:29.01,Default,,0,0,0,,Il punto è che non li trovo mai in giro per {\1c&HFF00&\u1}casa{\r} e questo mi costringe ogni volta che
+Dialogue: 0,0:00:29.01,0:00:29.33,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:29.33,0:00:29.37,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa {\1c&HFF00&\u1}e{\r} questo mi costringe ogni volta che
+Dialogue: 0,0:00:29.37,0:00:29.41,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:29.41,0:00:29.59,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e {\1c&HFF00&\u1}questo{\r} mi costringe ogni volta che
+Dialogue: 0,0:00:29.59,0:00:29.65,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:29.65,0:00:29.71,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo {\1c&HFF00&\u1}mi{\r} costringe ogni volta che
+Dialogue: 0,0:00:29.71,0:00:29.75,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:29.75,0:00:30.29,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi {\1c&HFF00&\u1}costringe{\r} ogni volta che
+Dialogue: 0,0:00:30.29,0:00:30.45,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:30.45,0:00:30.59,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe {\1c&HFF00&\u1}ogni{\r} volta che
+Dialogue: 0,0:00:30.59,0:00:30.63,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:30.63,0:00:30.85,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni {\1c&HFF00&\u1}volta{\r} che
+Dialogue: 0,0:00:30.85,0:00:30.89,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta che
+Dialogue: 0,0:00:30.89,0:00:30.97,Default,,0,0,0,,Il punto è che non li trovo mai in giro per casa e questo mi costringe ogni volta {\1c&HFF00&\u1}che{\r}
+Dialogue: 0,0:00:31.18,0:00:31.34,Default,,0,0,0,,{\1c&HFF00&\u1}faccio{\r} un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.34,0:00:31.38,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.38,0:00:31.42,Default,,0,0,0,,faccio {\1c&HFF00&\u1}un{\r} regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.42,0:00:31.46,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.46,0:00:31.76,Default,,0,0,0,,faccio un {\1c&HFF00&\u1}regalo{\r} a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.76,0:00:31.82,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.82,0:00:31.84,Default,,0,0,0,,faccio un regalo {\1c&HFF00&\u1}a{\r} prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.84,0:00:31.90,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:31.90,0:00:32.26,Default,,0,0,0,,faccio un regalo a {\1c&HFF00&\u1}prendere{\r} quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:32.26,0:00:32.32,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:32.32,0:00:32.57,Default,,0,0,0,,faccio un regalo a prendere {\1c&HFF00&\u1}quello{\r} che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:32.57,0:00:32.59,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:32.59,0:00:32.69,Default,,0,0,0,,faccio un regalo a prendere quello {\1c&HFF00&\u1}che{\r} magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:32.69,0:00:32.73,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:32.73,0:00:32.97,Default,,0,0,0,,faccio un regalo a prendere quello che {\1c&HFF00&\u1}magari{\r} mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:32.97,0:00:33.03,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:33.03,0:00:33.09,Default,,0,0,0,,faccio un regalo a prendere quello che magari {\1c&HFF00&\u1}mi{\r} offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:33.09,0:00:33.13,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:33.13,0:00:33.37,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi {\1c&HFF00&\u1}offre{\r} il negoziante che te lo fa pagare
+Dialogue: 0,0:00:33.37,0:00:33.39,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:33.39,0:00:33.43,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre {\1c&HFF00&\u1}il{\r} negoziante che te lo fa pagare
+Dialogue: 0,0:00:33.43,0:00:33.47,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:33.47,0:00:34.15,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il {\1c&HFF00&\u1}negoziante{\r} che te lo fa pagare
+Dialogue: 0,0:00:34.15,0:00:34.47,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:34.47,0:00:34.55,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante {\1c&HFF00&\u1}che{\r} te lo fa pagare
+Dialogue: 0,0:00:34.55,0:00:34.59,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:34.59,0:00:34.65,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che {\1c&HFF00&\u1}te{\r} lo fa pagare
+Dialogue: 0,0:00:34.65,0:00:34.69,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:34.69,0:00:34.75,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te {\1c&HFF00&\u1}lo{\r} fa pagare
+Dialogue: 0,0:00:34.75,0:00:34.77,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:34.77,0:00:34.87,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo {\1c&HFF00&\u1}fa{\r} pagare
+Dialogue: 0,0:00:34.87,0:00:34.91,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa pagare
+Dialogue: 0,0:00:34.91,0:00:35.11,Default,,0,0,0,,faccio un regalo a prendere quello che magari mi offre il negoziante che te lo fa {\1c&HFF00&\u1}pagare{\r}
+Dialogue: 0,0:00:35.12,0:00:35.30,Default,,0,0,0,,{\1c&HFF00&\u1}carissimo{\r} anche due euro a sacchetto.
+Dialogue: 0,0:00:35.30,0:00:35.32,Default,,0,0,0,,carissimo anche due euro a sacchetto.
+Dialogue: 0,0:00:35.32,0:00:35.42,Default,,0,0,0,,carissimo {\1c&HFF00&\u1}anche{\r} due euro a sacchetto.
+Dialogue: 0,0:00:35.42,0:00:35.44,Default,,0,0,0,,carissimo anche due euro a sacchetto.
+Dialogue: 0,0:00:35.44,0:00:35.50,Default,,0,0,0,,carissimo anche {\1c&HFF00&\u1}due{\r} euro a sacchetto.
+Dialogue: 0,0:00:35.50,0:00:35.52,Default,,0,0,0,,carissimo anche due euro a sacchetto.
+Dialogue: 0,0:00:35.52,0:00:35.60,Default,,0,0,0,,carissimo anche due {\1c&HFF00&\u1}euro{\r} a sacchetto.
+Dialogue: 0,0:00:35.60,0:00:35.62,Default,,0,0,0,,carissimo anche due euro a sacchetto.
+Dialogue: 0,0:00:35.62,0:00:35.64,Default,,0,0,0,,carissimo anche due euro {\1c&HFF00&\u1}a{\r} sacchetto.
+Dialogue: 0,0:00:35.64,0:00:35.66,Default,,0,0,0,,carissimo anche due euro a sacchetto.
+Dialogue: 0,0:00:35.66,0:00:35.84,Default,,0,0,0,,carissimo anche due euro a {\1c&HFF00&\u1}sacchetto.{\r}
+Dialogue: 0,0:00:37.90,0:00:38.16,Default,,0,0,0,,{\1c&HFF00&\u1}Oppure{\r} ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.16,0:00:38.22,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.22,0:00:38.54,Default,,0,0,0,,Oppure {\1c&HFF00&\u1}ancora{\r} per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.54,0:00:38.66,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.66,0:00:38.80,Default,,0,0,0,,Oppure ancora {\1c&HFF00&\u1}per{\r} i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.80,0:00:38.82,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.82,0:00:38.86,Default,,0,0,0,,Oppure ancora per {\1c&HFF00&\u1}i{\r} video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.86,0:00:38.92,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:38.92,0:00:39.24,Default,,0,0,0,,Oppure ancora per i {\1c&HFF00&\u1}video{\r} come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:39.24,0:00:39.30,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:39.30,0:00:39.46,Default,,0,0,0,,Oppure ancora per i video {\1c&HFF00&\u1}come{\r} questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:39.46,0:00:39.53,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:39.53,0:00:39.95,Default,,0,0,0,,Oppure ancora per i video come {\1c&HFF00&\u1}questo{\r} uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:39.95,0:00:40.11,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:40.11,0:00:40.27,Default,,0,0,0,,Oppure ancora per i video come questo {\1c&HFF00&\u1}uso{\r} un microfono che è quello che state guardando
+Dialogue: 0,0:00:40.27,0:00:40.47,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:40.47,0:00:40.55,Default,,0,0,0,,Oppure ancora per i video come questo uso {\1c&HFF00&\u1}un{\r} microfono che è quello che state guardando
+Dialogue: 0,0:00:40.55,0:00:40.59,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:40.59,0:00:41.07,Default,,0,0,0,,Oppure ancora per i video come questo uso un {\1c&HFF00&\u1}microfono{\r} che è quello che state guardando
+Dialogue: 0,0:00:41.07,0:00:41.13,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:41.13,0:00:41.23,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono {\1c&HFF00&\u1}che{\r} è quello che state guardando
+Dialogue: 0,0:00:41.23,0:00:41.27,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:41.27,0:00:41.31,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che {\1c&HFF00&\u1}è{\r} quello che state guardando
+Dialogue: 0,0:00:41.31,0:00:41.47,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:41.47,0:00:41.63,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è {\1c&HFF00&\u1}quello{\r} che state guardando
+Dialogue: 0,0:00:41.63,0:00:41.65,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:41.65,0:00:41.73,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello {\1c&HFF00&\u1}che{\r} state guardando
+Dialogue: 0,0:00:41.73,0:00:41.77,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:41.77,0:00:41.93,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che {\1c&HFF00&\u1}state{\r} guardando
+Dialogue: 0,0:00:41.93,0:00:41.99,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state guardando
+Dialogue: 0,0:00:41.99,0:00:42.47,Default,,0,0,0,,Oppure ancora per i video come questo uso un microfono che è quello che state {\1c&HFF00&\u1}guardando{\r}
+Dialogue: 0,0:00:42.90,0:00:42.96,Default,,0,0,0,,{\1c&HFF00&\u1}e{\r} che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:42.96,0:00:42.98,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:42.98,0:00:43.06,Default,,0,0,0,,e {\1c&HFF00&\u1}che{\r} utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:43.06,0:00:43.10,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:43.10,0:00:43.50,Default,,0,0,0,,e che {\1c&HFF00&\u1}utilizza{\r} una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:43.50,0:00:43.70,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:43.70,0:00:43.84,Default,,0,0,0,,e che utilizza {\1c&HFF00&\u1}una{\r} batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:43.84,0:00:43.94,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:43.94,0:00:44.51,Default,,0,0,0,,e che utilizza una {\1c&HFF00&\u1}batteria{\r} che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:44.51,0:00:44.81,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:44.81,0:00:44.89,Default,,0,0,0,,e che utilizza una batteria {\1c&HFF00&\u1}che{\r} è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:44.89,0:00:44.91,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:44.91,0:00:44.93,Default,,0,0,0,,e che utilizza una batteria che {\1c&HFF00&\u1}è{\r} una di quelle che non si trovano mai.
+Dialogue: 0,0:00:44.93,0:00:44.97,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:44.97,0:00:45.09,Default,,0,0,0,,e che utilizza una batteria che è {\1c&HFF00&\u1}una{\r} di quelle che non si trovano mai.
+Dialogue: 0,0:00:45.09,0:00:45.13,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:45.13,0:00:45.17,Default,,0,0,0,,e che utilizza una batteria che è una {\1c&HFF00&\u1}di{\r} quelle che non si trovano mai.
+Dialogue: 0,0:00:45.17,0:00:45.21,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:45.21,0:00:45.39,Default,,0,0,0,,e che utilizza una batteria che è una di {\1c&HFF00&\u1}quelle{\r} che non si trovano mai.
+Dialogue: 0,0:00:45.39,0:00:45.43,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:45.43,0:00:45.53,Default,,0,0,0,,e che utilizza una batteria che è una di quelle {\1c&HFF00&\u1}che{\r} non si trovano mai.
+Dialogue: 0,0:00:45.53,0:00:45.57,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:45.57,0:00:45.65,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che {\1c&HFF00&\u1}non{\r} si trovano mai.
+Dialogue: 0,0:00:45.65,0:00:45.67,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:45.67,0:00:45.73,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non {\1c&HFF00&\u1}si{\r} trovano mai.
+Dialogue: 0,0:00:45.73,0:00:45.77,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:45.77,0:00:46.03,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si {\1c&HFF00&\u1}trovano{\r} mai.
+Dialogue: 0,0:00:46.03,0:00:46.07,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano mai.
+Dialogue: 0,0:00:46.07,0:00:46.29,Default,,0,0,0,,e che utilizza una batteria che è una di quelle che non si trovano {\1c&HFF00&\u1}mai.{\r}
+Dialogue: 0,0:00:46.58,0:00:46.80,Default,,0,0,0,,{\1c&HFF00&\u1}Quanti{\r} di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:46.80,0:00:46.84,Default,,0,0,0,,Quanti di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:46.84,0:00:46.90,Default,,0,0,0,,Quanti {\1c&HFF00&\u1}di{\r} noi in casa hanno questa batteria?
+Dialogue: 0,0:00:46.90,0:00:46.94,Default,,0,0,0,,Quanti di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:46.94,0:00:47.12,Default,,0,0,0,,Quanti di {\1c&HFF00&\u1}noi{\r} in casa hanno questa batteria?
+Dialogue: 0,0:00:47.12,0:00:47.20,Default,,0,0,0,,Quanti di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:47.20,0:00:47.26,Default,,0,0,0,,Quanti di noi {\1c&HFF00&\u1}in{\r} casa hanno questa batteria?
+Dialogue: 0,0:00:47.26,0:00:47.28,Default,,0,0,0,,Quanti di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:47.28,0:00:47.52,Default,,0,0,0,,Quanti di noi in {\1c&HFF00&\u1}casa{\r} hanno questa batteria?
+Dialogue: 0,0:00:47.52,0:00:47.56,Default,,0,0,0,,Quanti di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:47.56,0:00:47.81,Default,,0,0,0,,Quanti di noi in casa {\1c&HFF00&\u1}hanno{\r} questa batteria?
+Dialogue: 0,0:00:47.81,0:00:48.05,Default,,0,0,0,,Quanti di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:48.05,0:00:48.43,Default,,0,0,0,,Quanti di noi in casa hanno {\1c&HFF00&\u1}questa{\r} batteria?
+Dialogue: 0,0:00:48.43,0:00:48.65,Default,,0,0,0,,Quanti di noi in casa hanno questa batteria?
+Dialogue: 0,0:00:48.65,0:00:49.11,Default,,0,0,0,,Quanti di noi in casa hanno questa {\1c&HFF00&\u1}batteria?{\r}
+Dialogue: 0,0:00:49.36,0:00:50.08,Default,,0,0,0,,{\1c&HFF00&\u1}Probabilmente{\r} nessuno.
+Dialogue: 0,0:00:50.08,0:00:50.12,Default,,0,0,0,,Probabilmente nessuno.
+Dialogue: 0,0:00:50.12,0:00:50.55,Default,,0,0,0,,Probabilmente {\1c&HFF00&\u1}nessuno.{\r}
+Dialogue: 0,0:00:50.86,0:00:51.14,Default,,0,0,0,,{\1c&HFF00&\u1}Eppure{\r} non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.14,0:00:51.18,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.18,0:00:51.28,Default,,0,0,0,,Eppure {\1c&HFF00&\u1}non{\r} si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.28,0:00:51.30,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.30,0:00:51.36,Default,,0,0,0,,Eppure non {\1c&HFF00&\u1}si{\r} trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.36,0:00:51.40,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.40,0:00:51.58,Default,,0,0,0,,Eppure non si {\1c&HFF00&\u1}trova{\r} solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.58,0:00:51.62,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.62,0:00:51.76,Default,,0,0,0,,Eppure non si trova {\1c&HFF00&\u1}solo{\r} all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.76,0:00:51.78,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:51.78,0:00:52.10,Default,,0,0,0,,Eppure non si trova solo {\1c&HFF00&\u1}all'interno{\r} del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.10,0:00:52.14,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.14,0:00:52.27,Default,,0,0,0,,Eppure non si trova solo all'interno {\1c&HFF00&\u1}del{\r} mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.27,0:00:52.29,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.29,0:00:52.39,Default,,0,0,0,,Eppure non si trova solo all'interno del {\1c&HFF00&\u1}mio{\r} microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.39,0:00:52.43,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.43,0:00:52.93,Default,,0,0,0,,Eppure non si trova solo all'interno del mio {\1c&HFF00&\u1}microfono{\r} ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.93,0:00:52.97,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:52.97,0:00:53.05,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono {\1c&HFF00&\u1}ma{\r} anche ad esempio nelle bilanche
+Dialogue: 0,0:00:53.05,0:00:53.07,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:53.07,0:00:53.25,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma {\1c&HFF00&\u1}anche{\r} ad esempio nelle bilanche
+Dialogue: 0,0:00:53.25,0:00:53.27,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:53.27,0:00:53.35,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche {\1c&HFF00&\u1}ad{\r} esempio nelle bilanche
+Dialogue: 0,0:00:53.35,0:00:53.37,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:53.37,0:00:53.63,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad {\1c&HFF00&\u1}esempio{\r} nelle bilanche
+Dialogue: 0,0:00:53.63,0:00:53.67,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:53.67,0:00:53.89,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio {\1c&HFF00&\u1}nelle{\r} bilanche
+Dialogue: 0,0:00:53.89,0:00:54.01,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle bilanche
+Dialogue: 0,0:00:54.01,0:00:54.45,Default,,0,0,0,,Eppure non si trova solo all'interno del mio microfono ma anche ad esempio nelle {\1c&HFF00&\u1}bilanche{\r}
+Dialogue: 0,0:00:54.44,0:00:54.48,Default,,0,0,0,,{\1c&HFF00&\u1}da{\r} cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:54.48,0:00:55.18,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:55.18,0:00:55.70,Default,,0,0,0,,da {\1c&HFF00&\u1}cucina,{\r} in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:55.70,0:00:55.74,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:55.74,0:00:55.80,Default,,0,0,0,,da cucina, {\1c&HFF00&\u1}in{\r} alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:55.80,0:00:55.86,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:55.86,0:00:56.25,Default,,0,0,0,,da cucina, in {\1c&HFF00&\u1}alcuni{\r} piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:56.25,0:00:56.33,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:56.33,0:00:56.69,Default,,0,0,0,,da cucina, in alcuni {\1c&HFF00&\u1}piccoli{\r} orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:56.69,0:00:56.75,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:56.75,0:00:57.31,Default,,0,0,0,,da cucina, in alcuni piccoli {\1c&HFF00&\u1}orologi,{\r} quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:57.31,0:00:57.39,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:57.39,0:00:57.61,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, {\1c&HFF00&\u1}quindi{\r} capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:57.61,0:00:57.89,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:57.89,0:00:58.25,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi {\1c&HFF00&\u1}capita{\r} a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.25,0:00:58.27,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.27,0:00:58.29,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita {\1c&HFF00&\u1}a{\r} tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.29,0:00:58.35,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.35,0:00:58.61,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a {\1c&HFF00&\u1}tutti{\r} e a un primo poi nella vita
+Dialogue: 0,0:00:58.61,0:00:58.63,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.63,0:00:58.65,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti {\1c&HFF00&\u1}e{\r} a un primo poi nella vita
+Dialogue: 0,0:00:58.65,0:00:58.67,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.67,0:00:58.69,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e {\1c&HFF00&\u1}a{\r} un primo poi nella vita
+Dialogue: 0,0:00:58.69,0:00:58.71,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.71,0:00:58.75,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a {\1c&HFF00&\u1}un{\r} primo poi nella vita
+Dialogue: 0,0:00:58.75,0:00:58.77,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:58.77,0:00:58.97,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un {\1c&HFF00&\u1}primo{\r} poi nella vita
+Dialogue: 0,0:00:58.97,0:00:59.01,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:59.01,0:00:59.13,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo {\1c&HFF00&\u1}poi{\r} nella vita
+Dialogue: 0,0:00:59.13,0:00:59.17,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:59.17,0:00:59.35,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi {\1c&HFF00&\u1}nella{\r} vita
+Dialogue: 0,0:00:59.35,0:00:59.37,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella vita
+Dialogue: 0,0:00:59.37,0:00:59.49,Default,,0,0,0,,da cucina, in alcuni piccoli orologi, quindi capita a tutti e a un primo poi nella {\1c&HFF00&\u1}vita{\r}
+Dialogue: 0,0:00:59.48,0:00:59.56,Default,,0,0,0,,{\1c&HFF00&\u1}di{\r} averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:00:59.56,0:00:59.64,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:00:59.64,0:00:59.92,Default,,0,0,0,,di {\1c&HFF00&\u1}averne{\r} bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:00:59.92,0:00:59.96,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:00:59.96,0:01:0.36,Default,,0,0,0,,di averne {\1c&HFF00&\u1}bisogno.{\r} Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:0.36,0:01:0.62,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:0.62,0:01:0.82,Default,,0,0,0,,di averne bisogno. {\1c&HFF00&\u1}Cosa{\r} succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:0.82,0:01:0.86,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:0.86,0:01:1.20,Default,,0,0,0,,di averne bisogno. Cosa {\1c&HFF00&\u1}succede{\r} quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:1.20,0:01:1.25,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:1.25,0:01:1.45,Default,,0,0,0,,di averne bisogno. Cosa succede {\1c&HFF00&\u1}quando{\r} si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:1.45,0:01:1.51,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:1.51,0:01:1.59,Default,,0,0,0,,di averne bisogno. Cosa succede quando {\1c&HFF00&\u1}si{\r} scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:1.59,0:01:1.63,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:1.63,0:01:2.17,Default,,0,0,0,,di averne bisogno. Cosa succede quando si {\1c&HFF00&\u1}scarica?{\r} Si va nel primo supermercato, si
+Dialogue: 0,0:01:2.17,0:01:2.41,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:2.41,0:01:2.47,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? {\1c&HFF00&\u1}Si{\r} va nel primo supermercato, si
+Dialogue: 0,0:01:2.47,0:01:2.51,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:2.51,0:01:2.59,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si {\1c&HFF00&\u1}va{\r} nel primo supermercato, si
+Dialogue: 0,0:01:2.59,0:01:2.65,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:2.65,0:01:2.81,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va {\1c&HFF00&\u1}nel{\r} primo supermercato, si
+Dialogue: 0,0:01:2.81,0:01:2.89,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:2.89,0:01:3.13,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel {\1c&HFF00&\u1}primo{\r} supermercato, si
+Dialogue: 0,0:01:3.13,0:01:3.17,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:3.17,0:01:4.01,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo {\1c&HFF00&\u1}supermercato,{\r} si
+Dialogue: 0,0:01:4.01,0:01:4.41,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, si
+Dialogue: 0,0:01:4.41,0:01:4.47,Default,,0,0,0,,di averne bisogno. Cosa succede quando si scarica? Si va nel primo supermercato, {\1c&HFF00&\u1}si{\r}
+Dialogue: 0,0:01:4.48,0:01:5.04,Default,,0,0,0,,{\1c&HFF00&\u1}prende{\r} una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:5.04,0:01:5.06,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:5.06,0:01:5.18,Default,,0,0,0,,prende {\1c&HFF00&\u1}una{\r} confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:5.18,0:01:5.22,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:5.22,0:01:5.74,Default,,0,0,0,,prende una {\1c&HFF00&\u1}confezione{\r} da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:5.74,0:01:5.82,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:5.82,0:01:5.98,Default,,0,0,0,,prende una confezione {\1c&HFF00&\u1}da{\r} due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:5.98,0:01:6.20,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:6.20,0:01:6.36,Default,,0,0,0,,prende una confezione da {\1c&HFF00&\u1}due{\r} batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:6.36,0:01:6.42,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:6.42,0:01:7.03,Default,,0,0,0,,prende una confezione da due {\1c&HFF00&\u1}batterie{\r} che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.03,0:01:7.11,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.11,0:01:7.21,Default,,0,0,0,,prende una confezione da due batterie {\1c&HFF00&\u1}che{\r} si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.21,0:01:7.25,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.25,0:01:7.31,Default,,0,0,0,,prende una confezione da due batterie che {\1c&HFF00&\u1}si{\r} paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.31,0:01:7.35,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.35,0:01:7.53,Default,,0,0,0,,prende una confezione da due batterie che si {\1c&HFF00&\u1}paga 5{\r} euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.53,0:01:7.95,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:7.95,0:01:8.33,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 {\1c&HFF00&\u1}euro, 2{\r} euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:8.33,0:01:8.53,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:8.53,0:01:8.63,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 {\1c&HFF00&\u1}euro{\r} e mezza batteria. E no, dai.
+Dialogue: 0,0:01:8.63,0:01:8.67,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:8.67,0:01:8.71,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro {\1c&HFF00&\u1}e{\r} mezza batteria. E no, dai.
+Dialogue: 0,0:01:8.71,0:01:8.75,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:8.75,0:01:8.97,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e {\1c&HFF00&\u1}mezza{\r} batteria. E no, dai.
+Dialogue: 0,0:01:8.97,0:01:9.03,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:9.03,0:01:9.57,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza {\1c&HFF00&\u1}batteria.{\r} E no, dai.
+Dialogue: 0,0:01:9.57,0:01:10.29,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:10.29,0:01:10.33,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. {\1c&HFF00&\u1}E{\r} no, dai.
+Dialogue: 0,0:01:10.33,0:01:10.39,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:10.39,0:01:10.55,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E {\1c&HFF00&\u1}no,{\r} dai.
+Dialogue: 0,0:01:10.55,0:01:10.59,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, dai.
+Dialogue: 0,0:01:10.59,0:01:10.85,Default,,0,0,0,,prende una confezione da due batterie che si paga 5 euro, 2 euro e mezza batteria. E no, {\1c&HFF00&\u1}dai.{\r}
+Dialogue: 0,0:01:11.20,0:01:11.34,Default,,0,0,0,,{\1c&HFF00&\u1}Nel{\r} tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:11.34,0:01:11.40,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:11.40,0:01:11.68,Default,,0,0,0,,Nel {\1c&HFF00&\u1}tempo{\r} ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:11.68,0:01:11.70,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:11.70,0:01:11.78,Default,,0,0,0,,Nel tempo {\1c&HFF00&\u1}ho{\r} imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:11.78,0:01:11.82,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:11.82,0:01:12.18,Default,,0,0,0,,Nel tempo ho {\1c&HFF00&\u1}imparato{\r} che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:12.18,0:01:12.28,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:12.28,0:01:12.41,Default,,0,0,0,,Nel tempo ho imparato {\1c&HFF00&\u1}che{\r} devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:12.41,0:01:12.55,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:12.55,0:01:12.71,Default,,0,0,0,,Nel tempo ho imparato che {\1c&HFF00&\u1}devo{\r} attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:12.71,0:01:12.77,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:12.77,0:01:13.45,Default,,0,0,0,,Nel tempo ho imparato che devo {\1c&HFF00&\u1}attrezzarmi{\r} in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.45,0:01:13.47,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.47,0:01:13.51,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi {\1c&HFF00&\u1}in{\r} modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.51,0:01:13.55,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.55,0:01:13.67,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in {\1c&HFF00&\u1}modo{\r} tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.67,0:01:13.71,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.71,0:01:13.87,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo {\1c&HFF00&\u1}tale{\r} da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.87,0:01:13.91,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.91,0:01:13.99,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale {\1c&HFF00&\u1}da{\r} non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:13.99,0:01:14.05,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:14.05,0:01:14.17,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da {\1c&HFF00&\u1}non{\r} buttare soldi in queste situazioni.
+Dialogue: 0,0:01:14.17,0:01:14.23,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:14.23,0:01:14.57,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non {\1c&HFF00&\u1}buttare{\r} soldi in queste situazioni.
+Dialogue: 0,0:01:14.57,0:01:14.63,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:14.63,0:01:14.90,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare {\1c&HFF00&\u1}soldi{\r} in queste situazioni.
+Dialogue: 0,0:01:14.90,0:01:14.92,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:14.92,0:01:14.98,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi {\1c&HFF00&\u1}in{\r} queste situazioni.
+Dialogue: 0,0:01:14.98,0:01:15.00,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:15.00,0:01:15.22,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in {\1c&HFF00&\u1}queste{\r} situazioni.
+Dialogue: 0,0:01:15.22,0:01:15.26,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste situazioni.
+Dialogue: 0,0:01:15.26,0:01:15.80,Default,,0,0,0,,Nel tempo ho imparato che devo attrezzarmi in modo tale da non buttare soldi in queste {\1c&HFF00&\u1}situazioni.{\r}
+Dialogue: 0,0:01:16.12,0:01:16.20,Default,,0,0,0,,{\1c&HFF00&\u1}su{\r} Amazon ad esempio
+Dialogue: 0,0:01:16.20,0:01:16.27,Default,,0,0,0,,su Amazon ad esempio
+Dialogue: 0,0:01:16.27,0:01:16.63,Default,,0,0,0,,su {\1c&HFF00&\u1}Amazon{\r} ad esempio
+Dialogue: 0,0:01:16.63,0:01:16.65,Default,,0,0,0,,su Amazon ad esempio
+Dialogue: 0,0:01:16.65,0:01:16.72,Default,,0,0,0,,su Amazon {\1c&HFF00&\u1}ad{\r} esempio
+Dialogue: 0,0:01:16.72,0:01:16.74,Default,,0,0,0,,su Amazon ad esempio
+Dialogue: 0,0:01:16.74,0:01:17.02,Default,,0,0,0,,su Amazon ad {\1c&HFF00&\u1}esempio{\r}
