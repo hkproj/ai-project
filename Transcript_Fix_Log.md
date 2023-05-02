@@ -97,3 +97,20 @@ q&a --> q and a
 The original text was 'al 100%' --> al cento percento 
 
 ```
+
+### 2023-05-02 - Cleaning
+
+```bash
+2023-05-02 15:29:56,847 - data_processing - WARNING - Video x8_3HQ6fvfo - Clip 0_18 - Found invalid char at index 60: al dieci%
+
+al dieci% --> al dieci percento
+
+2023-05-02 15:29:56,874 - data_processing - WARNING - Video zH_YIUBwXD0 - Clip 0_3 - Found invalid char at index 360: nessuna…
+
+nessuna... --> nessuna
+
+2023-05-02 15:29:56,958 - data_processing - WARNING - Video vUaBmHw2pAo - Clip 0_50 - Found invalid char at index 24: il cento%
+
+il cento% --> il cento percento
+
+```
