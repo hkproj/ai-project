@@ -1,3 +1,6 @@
+from collections import defaultdict
+import itertools
+import shutil
 import cv2
 from pathlib import Path
 import fstools
@@ -195,38 +198,101 @@ def handleCleanTranscript(videoIds: list[str]) -> None:
                 cleanedFilePath = Path(clipsPath) / (clipFileNameWithoutExtension + fstools.CLEANED_TRANSCRIPTION_FILE_EXTENSION)
                 SRTLoader.saveToFile(cleanedFilePath, words)
 
-def handleExtractMiniClips(videoIds: list[str], numWords: int) -> None:
+def handleExtractMiniClips(videoIds: list[str], minDuration: float, maxDuration: float, minWords: float, maxDurationDelta: float) -> None:
+    """
+        Create clips from the transcripts of the videos
+
+        Args:
+            videoIds: The list of video ids to process
+            minDuration: The minimum duration of a clip in milliseconds
+            maxDuration: The maximum duration of a clip in milliseconds
+            minWords: The minimum number of words in a clip
+    """
+
     videoIds = _checkClipsVideoIds(videoIds)
-    logger.debug(f'Will extract mini clips from {len(videoIds)} videos')
+    logger.debug(f'Will extract clips from {len(videoIds)} videos')
+    logger.debug(f'Min duration: {minDuration}, Max duration: {maxDuration}, Min words: {minWords}')
 
+    existingClips = defaultdict(set)
     for videoId in videoIds:
-        # Get all the mp4 files in the video's clips folder
-        clipsPath = fs.getClipsPath(videoId)
-        clips = []
-        for item in Path(clipsPath).iterdir():
-            if item.is_file() and item.suffix == fstools.VIDEO_FILE_EXTENSION:
-                # Get the file name without extension
-                clipFileNameWithoutExtension = os.path.splitext(os.path.basename(item.name))[0]
-                clipSubtitlesFileName = clipFileNameWithoutExtension + fstools.TRANSCRIPTION_FILE_EXTENSION
-                srtFilePath = os.path.join(clipsPath, clipSubtitlesFileName)
-                if not Path.exists(Path(srtFilePath)):
-                    logger.debug(f'Video {videoId} - Ignoring clip {item.name} because it has no SRT file')
+        clipsPath = Path(fs.getClipsPath(videoId))
+        miniClipsPath = Path(fs.getMiniClipsPath(videoId))
+        # Delete everything in the mini clips folder using system functions
+        if Path.exists(miniClipsPath):
+            shutil.rmtree(miniClipsPath)
+        
+        # Get all the video files in this folder
+        for item in clipsPath.iterdir():
+            if item.name.endswith(fstools.VIDEO_FILE_EXTENSION):
+                baseFileName = os.path.splitext(item.name)[0]
+                cleanedTranscriptFilePath = clipsPath / (baseFileName + fstools.CLEANED_TRANSCRIPTION_FILE_EXTENSION)
+                videoFilePath = item.absolute()
+                if not Path.exists(cleanedTranscriptFilePath):
+                    logger.info(f"Ignoring clip file {item.name} for video {videoId}")
                     continue
-                # Load the SRT file and verify that there is at least the minimum number of words
-                srt = SRTLoader(srtFilePath)
-                allWords = srt.getAllWords()
+                logger.info(f"Video {videoId} - Creating clips from file {str(item)}")
+                # The name of the transcript file is in the format: IntervalID_ClipID
+                fileNameParts = baseFileName.split('_')
+                if len(fileNameParts) != 2:
+                    raise ValueError(f'Video {videoId} - Found file with incorrect name: {baseFileName}')
+                intervalId = int(fileNameParts[0])
+                clipId = int(fileNameParts[1])
+                # Load the transcript
+                srt = SRTLoader(cleanedTranscriptFilePath)
+                srtEntries = srt.getAllWords()
+                currentWindowStart = 0
+                currentWindowEnd = 0
+                for index, (_, start, end, word) in enumerate(srtEntries):
+                    currentWindowDuration = 0 if currentWindowStart == currentWindowEnd else srtEntries[currentWindowEnd - 1][2] - srtEntries[currentWindowStart][1] 
+                    currentWindowStartTime = None if currentWindowStart == currentWindowEnd else srtEntries[currentWindowStart][1] 
+                    # If the window is empty, we need to add the first entry that is within the upper duration limit
+                    currentEntryDuration = end - start
 
-                # Check if there are lines with multiple words
-                for index, (originalTimestampString, start, end, word) in enumerate(allWords):
-                    if len(word.split()) > 1:
-                        logger.warn(f'Video {videoId} - Clip {clipFileNameWithoutExtension} - Ignoring {word} because it contains multiple words at index {index+1}')
+                    if currentWindowStart == currentWindowEnd:
+                        if currentEntryDuration < maxDuration:
+                            currentWindowStart = index
+                            currentWindowEnd = index + 1
+                        continue
 
-                if len(allWords) < numWords:
-                    logger.debug(f'Video {videoId} - Ignoring clip {item.name} because it has less than {numWords} words')
-                    continue
+                    if (end - currentWindowStartTime) < maxDuration:
+                        # We are still below the minimum duration, so we can keep adding words
+                        currentWindowEnd = index + 1
+                    else:
+                        # Cannot add the current item to the window, so we need to close the current window (if possible)
+                        # and then start a new one
+                        if (currentWindowEnd - currentWindowStart) >= minWords and currentWindowDuration > minDuration:
+                            assert currentWindowDuration <= maxDuration
+                            # We have enough words, so we can create the clip
+                            clipEntries = srtEntries[currentWindowStart:currentWindowEnd]
+                            clipStart = clipEntries[0][1]
+                            clipEnd = clipEntries[-1][2]
+                            words = list(itertools.chain(*[entry[3].split(' ') for entry in clipEntries]))
+                            outputVideoFolderPath = miniClipsPath / f'{intervalId}_{clipId}_{currentWindowStart}_{currentWindowEnd-1}'
+                            # Make sure the folder exists
+                            if not Path.exists(outputVideoFolderPath):
+                                os.makedirs(outputVideoFolderPath, exist_ok=False)
+                            outputVideoFilePath = outputVideoFolderPath / ('video' + fstools.VIDEO_FILE_EXTENSION)
+                            outputTranscriptFilePath = outputVideoFolderPath / ('transcript' + fstools.TRANSCRIPTION_FILE_EXTENSION)
+                            logger.info(f'Video {videoId} - {baseFileName} - Creating clip {outputVideoFilePath} - {(clipEnd - clipStart):.3f}s - {len(words)} words')
+                            # Create the clip
+                            tools.cutExactVideo(videoFilePath, outputVideoFilePath, clipStart * 1000, clipEnd * 1000)
+                            # Save the transcript
+                            SRTLoader.saveToFile(outputTranscriptFilePath, clipEntries)
+                            # Check the duration of the video and compare it with the expected duration
+                            actualVideoDuration = tools.getVideoDuration(outputVideoFilePath)
+                            if abs(actualVideoDuration - (clipEnd - clipStart)) > maxDurationDelta or actualVideoDuration < minDuration or actualVideoDuration > maxDuration:
+                                logger.error(f'Video {videoId} - {baseFileName} - Clip {outputVideoFilePath} - Duration mismatch: {actualVideoDuration:.3f}s vs {(clipEnd - clipStart):.3f}s')
+                                # Delete the clip
+                                shutil.rmtree(outputVideoFolderPath)
 
-                clips.append((item.name, clipSubtitlesFileName))
-                logger.info(f'Video {videoId} - Will generate miniclips from video {item.name} which contains {len(srt.getAllWords())} words')
+                        # Start a new window
+                        if currentEntryDuration < maxDuration:
+                            currentWindowStart = index
+                            currentWindowEnd = index + 1
+                        else:
+                            # This will be detected by the next iteration
+                            currentWindowStart = index
+                            currentWindowEnd = index
 
 def extractAllFacesFromVideo(videoId: str, sleep: int, minFaceWidth: int, minFaceHeight: int, frameBatchSize: int = 1) -> None:
     # If the directory already exists, ignore this video
@@ -589,7 +655,6 @@ if __name__ == '__main__':
     parser.add_argument('--max-diff', type=int, required=False, help='Max timestamp difference (milliseconds)')
     parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit (milliseconds)')
     parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration (milliseconds)')
-    parser.add_argument('--min-duration', type=int, required=False, default=0, help='Minimum duration of clip (seconds)')
     parser.add_argument('--rebuild', type=bool, required=False, default=False, help='Rebuild output')
     parser.add_argument('--branch', type=str, required=False, default=None, help='Branch name')
     # Filtering based on the minimum face size is not useful because
@@ -607,6 +672,12 @@ if __name__ == '__main__':
     parser.add_argument('--warn-speed', type=float, required=False, default=100.0, help='The minimum speed in characters/seconds for the window to be considered irregular')
     parser.add_argument('--report-out-of-order', type=bool, required=False, default=False, help='Report out of order words in transcripts')
     parser.add_argument('--fix', action='store_true', required=False, default=False, help='Fix irregular transcripts')
+
+    # For clip creation
+    parser.add_argument('--min-duration', type=float, required=False, default=1.0, help='Minimum duration of clip (seconds)')
+    parser.add_argument('--max-duration', type=float, required=False, default=3.0, help='Maximum duration of clip (seconds)')
+    parser.add_argument('--min-words', type=int, required=False, default=2, help='Minimum number of words in clip')
+    parser.add_argument('--max-duration-delta', type=float, required=False, default=0.1, help='Maximum delta between expected video duration and actual duration')
 
     args = parser.parse_args()
 
@@ -633,7 +704,7 @@ if __name__ == '__main__':
     elif args.command == COMMAND_TRANSCRIBE_AUDIO:
         handleTranscribeAudio(args.video_id, args.rebuild)
     elif args.command == COMMAND_CREATE_MINICLIPS:
-        handleExtractMiniClips(args.video_id, args.words)
+        handleExtractMiniClips(args.video_id, args.min_duration, args.max_duration, args.min_words, args.max_duration_delta)
     elif args.command == COMMAND_CLEAN_TRANSCRIPT:
         handleCleanTranscript(args.video_id)
     elif args.command == COMMAND_IRREGULAR_TRANSCRIPT:
