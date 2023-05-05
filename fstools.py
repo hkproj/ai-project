@@ -8,11 +8,14 @@ FACES_DIR = 'faces'
 CLIPS_DIR = 'clips'
 MINI_CLIPS_DIR = 'miniclips'
 BRANCHES_DIR = 'branches'
+MINI_CLIP_FRAMES_DIR = 'frames'
+MINI_CLIP_LIPS_DIR = 'lips'
+MINI_CLIP_LIPS_DEBUG_DIR = 'lips_debug'
+MINI_CLIP_FACE_DEBUG_DIR = 'face_debug'
 
 MINI_CLIP_VIDEO_NAME = 'video'
 MINI_CLIP_REDUCED_FPS_NAME = 'video_25fps'
 MINI_CLIP_TRANSCRIPT_NAME = 'video'
-MINI_CLIP_FRAMES_DIR = 'frames'
 
 MODEL_BRANCH_NAME = '_model'
 DEFAULT_BRANCH_NAME = 'main'
@@ -22,6 +25,7 @@ AUDIO_FILE_EXTENSION = '.aac'
 TRANSCRIPTION_FILE_EXTENSION = '.aac.word.srt'
 REGULARIZED_TRANSCRIPTION_FILE_EXTENSION = '.aac.regularized-word.srt'
 CLEANED_TRANSCRIPTION_FILE_EXTENSION = '.aac.cleaned-word.srt'
+FRAME_FILE_EXTENSION = '.jpg'
 
 
 class DatasetFSHelper:
@@ -57,6 +61,9 @@ class DatasetFSHelper:
         path = Path('.') / DATA_DIR / BRANCHES_DIR / self.branch / CLIPS_DIR / videoId
         return str(path)
     
+    def getMiniClipsFolderPath(self) -> str:
+        return str(Path('.') / DATA_DIR / BRANCHES_DIR / self.branch / MINI_CLIPS_DIR)
+
     def getMiniClipsPath(self, videoId: str) -> str:
         path = Path('.') / DATA_DIR / BRANCHES_DIR / self.branch / MINI_CLIPS_DIR / videoId
         return str(path)

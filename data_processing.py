@@ -15,6 +15,9 @@ import datetime
 from srtloader import SRTLoader
 import tools
 import transcript_cleaning
+from tqdm import tqdm
+from PIL import Image, ImageDraw
+import numpy as np
 
 logger = getLogger(os.path.splitext(os.path.basename(__file__))[0])
 fs = fstools.DatasetFSHelper()
@@ -24,6 +27,10 @@ def _extractFacesFromFrame(index: int, rgbFrame):
     faceLocations = face_recognition.face_locations(rgbFrame)
     faceEncodings = face_recognition.face_encodings(rgbFrame, faceLocations)
     return index, faceLocations, faceEncodings
+
+def _extractFaceLandmarksFromFrame(index: int, rgbFrame, faceLocations):
+    faceLandmarks = face_recognition.face_landmarks(rgbFrame, faceLocations)
+    return index, faceLandmarks
 
 def _checkClipsVideoIds(videoIds: list[str]) -> list[str]:
     if videoIds is None:
@@ -40,6 +47,34 @@ def _checkClipsVideoIds(videoIds: list[str]) -> list[str]:
         if not Path.exists(Path(clipsPath)):
             raise FileNotFoundError()
     
+    return videoIds
+
+def _checkMiniClipsVideoIds(videoIds: list[str]) -> list[str]:
+    if videoIds is None:
+        # Get all the videoIds from the clips folder
+        videoIds = []
+        path = Path(fs.getMiniClipsFolderPath())
+        for item in path.iterdir():
+            if not item.is_file():
+                videoIds.append(item.name)
+
+    for videoId in videoIds:
+        # Get the video's path
+        clipsPath = fs.getMiniClipsPath(videoId)
+        if not Path.exists(Path(clipsPath)):
+            raise FileNotFoundError()
+    
+    return videoIds
+
+def _checkFacesVideoIds(videoIds: list[str]) -> list[str]:
+    if videoIds is None:
+        ds = VideoDataset(fstools.DatasetFSHelper.getRawVideoFolderPath())
+        videoIds = [videoId for videoId in ds]
+    for videoId in videoIds:
+        # Get the video's path
+        videoPath = fs.getRawVideoPath(videoId)
+        if not Path.exists(Path(videoPath)):
+            raise FileNotFoundError()
     return videoIds
 
 def handleIrregularTranscript(videoIds: list[str], warnSpeedLimit: float, minWindowSize: int, reportOutOfOrderWords: bool, fix: bool) -> None:
@@ -474,17 +509,6 @@ def loadIntervalsFile(filePath: str) -> list[tuple[float, float]]:
             intervals.append((start,end))
     return intervals
 
-def _checkFacesVideoIds(videoIds: list[str]) -> list[str]:
-    if videoIds is None:
-        ds = VideoDataset(fstools.DatasetFSHelper.getRawVideoFolderPath())
-        videoIds = [videoId for videoId in ds]
-    for videoId in videoIds:
-        # Get the video's path
-        videoPath = fs.getRawVideoPath(videoId)
-        if not Path.exists(Path(videoPath)):
-            raise FileNotFoundError()
-    return videoIds
-
 def handleExtractFacesCommand(workers: int, videoIds: list[str], sleep: int, minFaceWidth: int, minFaceHeight: int) -> None:
     videoIds = _checkFacesVideoIds(videoIds)
     logger.debug(f'Will extract faces from {len(videoIds)} videos')
@@ -672,6 +696,97 @@ def handleTranscribeAudio(videoIds: list[str], rebuild: bool) -> None:
                     logger.error(f'No transcription file created for audio file {item.name} for video {videoId}')
                     break
 
+def handleExtractLips(videoIds: list[str], rebuild: bool) -> None:
+    videoIds = _checkMiniClipsVideoIds(videoIds)
+    logger.info(f'Will extract lips from {len(videoIds)} video')
+
+    for videoId in videoIds:
+        allMiniClipsPath = Path(fs.getMiniClipsPath(videoId))
+        # Get all the miniclips in this folder
+        for miniClip in allMiniClipsPath.iterdir():
+            if miniClip.is_dir():
+                miniClipPath = allMiniClipsPath / miniClip.name
+                miniClipFramesPath = miniClipPath / fstools.MINI_CLIP_FRAMES_DIR
+                miniClipLipsPath = miniClipPath / fstools.MINI_CLIP_LIPS_DIR
+                miniClipLipsDebug = miniClipPath / fstools.MINI_CLIP_LIPS_DEBUG_DIR
+                os.makedirs(str(miniClipLipsPath), exist_ok=True)
+                os.makedirs(str(miniClipLipsDebug), exist_ok=True)
+                # Get all the frames in this folder
+                frameIterator = tqdm(miniClipFramesPath.iterdir(), desc=f'Video {videoId} - MiniClip {miniClip.name}', unit=' frames')
+                for frame in frameIterator:
+                    if frame.is_file():
+                        # Make sure the frame file name is a JPEG
+                        if not frame.name.endswith(fstools.FRAME_FILE_EXTENSION):
+                            raise ValueError(f'Video {videoId} - MiniClip {miniClip} - Invalid frame file name {frame.name}')
+                    # Load the frame image
+                    frameImage = cv2.imread(str(frame))
+                    # Make sure it is in RGB format
+                    frameImage = cv2.cvtColor(frameImage, cv2.COLOR_BGR2RGB)
+                    _, faceLocations, _ = _extractFacesFromFrame(0, frameImage)
+                    _, allLandmarks = _extractFaceLandmarksFromFrame(0, frameImage, faceLocations)
+                    if len(faceLocations) == 0:
+                        logger.debug(f'Video {videoId} - MiniClip {miniClip} - No faces found in frame {frame.name}')
+                        continue
+                    else:
+                        for faceLocation, faceLandmarks in zip(faceLocations, allLandmarks):
+                            # Get the coordinates of the face location
+                            faceTop, faceRight, faceBottom, faceLeft = faceLocation
+
+                            if 'top_lip' not in faceLandmarks or 'bottom_lip' not in faceLandmarks:
+                                logger.warning(f'Video {videoId} - MiniClip {miniClip} - No lips found in frame {frame.name}')
+                                continue
+                            
+                            topLip = faceLandmarks['top_lip']
+                            bottomLip = faceLandmarks['bottom_lip']
+                            noseTip = faceLandmarks['nose_tip']
+                            
+                            # Convert from OpenCV format to PIL format
+                            drawImage = Image.fromarray(frameImage)
+                            draw = ImageDraw.Draw(drawImage)
+                            
+                            draw.polygon(topLip, fill=(0, 0, 255, 255))
+                            draw.polygon(bottomLip, fill=(0, 0, 255, 255))
+                            draw.polygon(noseTip, fill=(255, 0, 0, 255))
+
+                            # Get the coordinates of the rectangle that includes the top and the bottom lip
+                            lipArealeft = min([x[0] for x in topLip + bottomLip])
+                            lipAreaTop = min([x[1] for x in topLip + bottomLip])
+                            lipAreaRight = max([x[0] for x in topLip + bottomLip])
+                            lipAreaBottom = max([x[1] for x in topLip + bottomLip])
+                            lipAreaWidth = lipAreaRight - lipArealeft
+                            lipAreaHeight = lipAreaBottom - lipAreaTop
+                            lipAreaCenterX = lipArealeft + lipAreaWidth / 2
+                            lipAreaCenterY = lipAreaTop + lipAreaHeight / 2
+
+                            # Get the bottom of the nose tip
+                            noseTipBottom = max([x[1] for x in noseTip])
+                            # Calculate the distance between the nose tip and the lip area rectangle
+                            noseTipLipAreaDistance = lipAreaTop - noseTipBottom
+                            assert noseTipLipAreaDistance >= 0, f'Video {videoId} - MiniClip {miniClip} - Nose tip is not above lip area'
+
+                            # Scale the lip area rectangle proportionally so that it includes the nose tip
+                            newLipAreaHeight = lipAreaHeight + noseTipLipAreaDistance * 2
+                            newLipAreaWidth = lipAreaWidth * newLipAreaHeight / lipAreaHeight
+                            lipAreaHeight = newLipAreaHeight
+                            lipAreaWidth = newLipAreaWidth
+                            lipArealeft = lipAreaCenterX - lipAreaWidth / 2
+                            lipAreaTop = lipAreaCenterY - lipAreaHeight / 2
+                            lipAreaRight = lipAreaCenterX + lipAreaWidth / 2
+                            lipAreaBottom = lipAreaCenterY + lipAreaHeight / 2
+
+                            draw.rectangle(((lipArealeft, lipAreaTop), (lipAreaRight, lipAreaBottom)), outline=(0, 255, 0, 255))
+                            draw.rectangle(((faceLeft, faceTop), (faceRight, faceBottom)), outline=(0, 255, 0, 255))
+                            
+                            # Convert from PIL format to OpenCV format
+                            numpy_image=np.array(drawImage)
+                            opencv_image=cv2.cvtColor(numpy_image, cv2.COLOR_RGB2BGR)   
+
+                            # Save the file with the face rectangle in the debug folder
+                            cv2.imwrite(str(miniClipLipsDebug / frame.name), opencv_image)
+                        
+
+                    
+
 if __name__ == '__main__':
 
     COMMAND_EXTRACT_FACES = 'extract-faces'
@@ -683,8 +798,9 @@ if __name__ == '__main__':
     COMMAND_CREATE_MINICLIPS = "create-miniclips"
     COMMAND_CLEAN_TRANSCRIPT = "clean-transcript"
     COMMAND_IRREGULAR_TRANSCRIPT = "irregular-transcript"
+    COMMAND_EXTRACT_LIPS = "extract-lips"
 
-    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO, COMMAND_CREATE_MINICLIPS, COMMAND_CLEAN_TRANSCRIPT, COMMAND_IRREGULAR_TRANSCRIPT]
+    choices = [COMMAND_EXTRACT_FACES, COMMAND_MERGE_FACES, COMMAND_CREATE_INTERVALS, COMMAND_CREATE_CLIPS, COMMAND_EXTRACT_AUDIO, COMMAND_TRANSCRIBE_AUDIO, COMMAND_CREATE_MINICLIPS, COMMAND_CLEAN_TRANSCRIPT, COMMAND_IRREGULAR_TRANSCRIPT, COMMAND_EXTRACT_LIPS]
 
     parser = argparse.ArgumentParser(prog = 'Video Processing',description = 'video processing utility')
     parser.add_argument('command', type=str, choices=choices, help='The operation to execute')
@@ -750,3 +866,5 @@ if __name__ == '__main__':
         handleCleanTranscript(args.video_id)
     elif args.command == COMMAND_IRREGULAR_TRANSCRIPT:
         handleIrregularTranscript(args.video_id, args.warn_speed, args.window_size, args.report_out_of_order, args.fix)
+    elif args.command == COMMAND_EXTRACT_LIPS:
+        handleExtractLips(args.video_id, args.rebuild)
