@@ -474,7 +474,7 @@ def loadIntervalsFile(filePath: str) -> list[tuple[float, float]]:
             intervals.append((start,end))
     return intervals
 
-def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int, minFaceWidth: int, minFaceHeight: int) -> None:
+def _checkFacesVideoIds(videoIds: list[str]) -> list[str]:
     if videoIds is None:
         ds = VideoDataset(fstools.DatasetFSHelper.getRawVideoFolderPath())
         videoIds = [videoId for videoId in ds]
@@ -483,6 +483,10 @@ def handleExtractFacesCommand(workers: int, videoIds: list[int], sleep: int, min
         videoPath = fs.getRawVideoPath(videoId)
         if not Path.exists(Path(videoPath)):
             raise FileNotFoundError()
+    return videoIds
+
+def handleExtractFacesCommand(workers: int, videoIds: list[str], sleep: int, minFaceWidth: int, minFaceHeight: int) -> None:
+    videoIds = _checkFacesVideoIds(videoIds)
     logger.debug(f'Will extract faces from {len(videoIds)} videos')
     for videoId in videoIds:
         extractAllFacesFromVideo(videoId, sleep, minFaceWidth, minFaceHeight, frameBatchSize=workers)
@@ -582,48 +586,51 @@ def handleCreateIntervals(videoId: str, target: int, maxDifference: int, warnLim
         os.remove(outputFilePath)
     writeIntervalsFile(outputFilePath, intervals)
 
-def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, rebuild: bool) -> None:
+def handleCreateClips(videoIds: list[str], targetIntervals: int, minDuration: int, rebuild: bool) -> None:
     # Check args
     assert targetIntervals is not None, "Target not specified"
     assert minDuration > 0, "Minimum duration not specified"
 
-    # Get the video's path
-    videoPath = fs.getFacesPath(videoId)
-    # Verify if the target file exists
-    intervalsFilePath = Path(videoPath) / (str(targetIntervals) + '_intervals.csv')
-    if not Path.exists(intervalsFilePath):
-        raise FileNotFoundError(str(intervalsFilePath))
-    
-    # Verify the raw video exists
-    inputVideoPath = fs.getRawVideoPath(videoId)
-    if not Path.exists(Path(inputVideoPath)):
-        raise FileNotFoundError(str(inputVideoPath))
+    videoIds = _checkFacesVideoIds(videoIds)
+    logger.debug(f'Will create clips from {len(videoIds)} videos')
+    for videoId in videoIds:
+        # Get the video's path
+        videoPath = fs.getFacesPath(videoId)
+        # Verify if the target file exists
+        intervalsFilePath = Path(videoPath) / (str(targetIntervals) + '_intervals.csv')
+        if not Path.exists(intervalsFilePath):
+            raise FileNotFoundError(str(intervalsFilePath))
+        
+        # Verify the raw video exists
+        inputVideoPath = fs.getRawVideoPath(videoId)
+        if not Path.exists(Path(inputVideoPath)):
+            raise FileNotFoundError(str(inputVideoPath))
 
-    # load the intervals in memory
-    intervals = loadIntervalsFile(intervalsFilePath)
+        # load the intervals in memory
+        intervals = loadIntervalsFile(intervalsFilePath)
 
-    # Make sure the output path exists
-    clipsPath = fs.getClipsPath(videoId)
-    Path(clipsPath).mkdir(parents=True, exist_ok=True)
+        # Make sure the output path exists
+        clipsPath = fs.getClipsPath(videoId)
+        Path(clipsPath).mkdir(parents=True, exist_ok=True)
 
-    for index, (start,end) in enumerate(intervals):
-        durationSecs = float(end - start) / 1000
-        if durationSecs > minDuration:
-            # Delete existing clip, if it exists
-            outputFilePath = Path(clipsPath) / f"{targetIntervals}_{index}{fstools.VIDEO_FILE_EXTENSION}"
-            if Path.exists(outputFilePath):
-                if rebuild:
-                    os.remove(outputFilePath)
-                else:
-                    logger.info(f'Skipping interval {index} because the output file already exists')
-                    continue
-            logger.debug(f'Cutting video from {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} to {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)} and saving into {outputFilePath}')
-            # Run tool to cut video
-            tools.cutVideo(inputVideoPath, outputFilePath, start, end)
-        else:
-            logger.info(f'Ignoring interval {index} because too short')
+        for index, (start,end) in enumerate(intervals):
+            durationSecs = float(end - start) / 1000
+            if durationSecs > minDuration:
+                # Delete existing clip, if it exists
+                outputFilePath = Path(clipsPath) / f"{targetIntervals}_{index}{fstools.VIDEO_FILE_EXTENSION}"
+                if Path.exists(outputFilePath):
+                    if rebuild:
+                        os.remove(outputFilePath)
+                    else:
+                        logger.info(f'Video {videoId} - Skipping interval {index} because the output file already exists')
+                        continue
+                logger.debug(f'Cutting video from {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} to {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)} and saving into {outputFilePath}')
+                # Run tool to cut video
+                tools.cutVideo(inputVideoPath, outputFilePath, start, end)
+            else:
+                logger.info(f'Video {videoId} - Ignoring interval {index} because too short')
 
-def handleExtractAudio(videoIds: list[str], rebuild: bool = False) -> None:
+def handleExtractAudio(videoIds: list[str], rebuild: bool) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
     
     logger.debug(f'Will extract audio from {len(videoIds)} videos')
@@ -644,7 +651,7 @@ def handleExtractAudio(videoIds: list[str], rebuild: bool = False) -> None:
                     logger.error(f'No transcription file created for audio file {item.name} for video {videoId}')
                     break
 
-def handleTranscribeAudio(videoIds: list[str], rebuild: bool = False) -> None:
+def handleTranscribeAudio(videoIds: list[str], rebuild: bool) -> None:
     videoIds = _checkClipsVideoIds(videoIds)
     
     logger.info(f'Will transcribe audio from {len(videoIds)} video folders')
@@ -732,7 +739,7 @@ if __name__ == '__main__':
     elif args.command == COMMAND_CREATE_INTERVALS:
         handleCreateIntervals(args.video_id[0], args.target, args.max_diff, args.warn_limit)
     elif args.command == COMMAND_CREATE_CLIPS:
-        handleCreateClips(args.video_id[0], args.target, args.min_duration, args.rebuild)
+        handleCreateClips(args.video_id, args.target, args.min_duration, args.rebuild)
     elif args.command == COMMAND_EXTRACT_AUDIO:
         handleExtractAudio(args.video_id, args.rebuild)
     elif args.command == COMMAND_TRANSCRIBE_AUDIO:
