@@ -213,6 +213,8 @@ def handleExtractMiniClips(videoIds: list[str], minDuration: float, maxDuration:
     logger.debug(f'Will extract clips from {len(videoIds)} videos')
     logger.debug(f'Min duration: {minDuration}, Max duration: {maxDuration}, Min words: {minWords}')
 
+    clipCounter = 0
+
     existingClips = defaultdict(set)
     for videoId in videoIds:
         clipsPath = Path(fs.getClipsPath(videoId))
@@ -269,21 +271,48 @@ def handleExtractMiniClips(videoIds: list[str], minDuration: float, maxDuration:
                             words = list(itertools.chain(*[entry[3].split(' ') for entry in clipEntries]))
                             outputVideoFolderPath = miniClipsPath / f'{intervalId}_{clipId}_{currentWindowStart}_{currentWindowEnd-1}'
                             # Make sure the folder exists
-                            if not Path.exists(outputVideoFolderPath):
-                                os.makedirs(outputVideoFolderPath, exist_ok=False)
-                            outputVideoFilePath = outputVideoFolderPath / ('video' + fstools.VIDEO_FILE_EXTENSION)
-                            outputTranscriptFilePath = outputVideoFolderPath / ('transcript' + fstools.TRANSCRIPTION_FILE_EXTENSION)
+                            os.makedirs(outputVideoFolderPath, exist_ok=False)
+                            outputVideoFilePath = outputVideoFolderPath / (fstools.MINI_CLIP_VIDEO_NAME + fstools.VIDEO_FILE_EXTENSION)
+                            outputTranscriptFilePath = outputVideoFolderPath / (fstools.MINI_CLIP_TRANSCRIPT_NAME + fstools.TRANSCRIPTION_FILE_EXTENSION)
                             logger.info(f'Video {videoId} - {baseFileName} - Creating clip {outputVideoFilePath} - {(clipEnd - clipStart):.3f}s - {len(words)} words')
                             # Create the clip
                             tools.cutExactVideo(videoFilePath, outputVideoFilePath, clipStart * 1000, clipEnd * 1000)
+                            # Make sure the video file has been generated
+                            assert Path.exists(outputVideoFilePath)
                             # Save the transcript
                             SRTLoader.saveToFile(outputTranscriptFilePath, clipEntries)
                             # Check the duration of the video and compare it with the expected duration
                             actualVideoDuration = tools.getVideoDuration(outputVideoFilePath)
+                            deleted = False
                             if abs(actualVideoDuration - (clipEnd - clipStart)) > maxDurationDelta or actualVideoDuration < minDuration or actualVideoDuration > maxDuration:
                                 logger.error(f'Video {videoId} - {baseFileName} - Clip {outputVideoFilePath} - Duration mismatch: {actualVideoDuration:.3f}s vs {(clipEnd - clipStart):.3f}s')
                                 # Delete the clip
                                 shutil.rmtree(outputVideoFolderPath)
+                                deleted = True
+                            
+                            if not deleted:
+                                # Reduce video FPS
+                                outputReducedFPSVideoFilePath = outputVideoFolderPath / (fstools.MINI_CLIP_REDUCED_FPS_NAME + fstools.VIDEO_FILE_EXTENSION)
+                                REDUCED_FPS = 25
+                                MAX_FRAMES = 75
+                                tools.changeVideoFPS(outputVideoFilePath, outputReducedFPSVideoFilePath, REDUCED_FPS)
+                                # Make sure the file has been generated
+                                assert Path.exists(outputReducedFPSVideoFilePath)
+                                # Extract frames from the video
+                                outputFramesFolderPath = outputVideoFolderPath / fstools.MINI_CLIP_FRAMES_DIR
+                                os.makedirs(outputFramesFolderPath, exist_ok=False)
+                                tools.extractFramesFromVideo(outputReducedFPSVideoFilePath, outputFramesFolderPath, REDUCED_FPS)
+                                # Count the number of files in the frames output folder
+                                numFrames = len([name for name in os.listdir(outputFramesFolderPath) if os.path.isfile(os.path.join(outputFramesFolderPath, name))])
+                                if numFrames == 0 or numFrames > MAX_FRAMES:
+                                    logger.error(f'Video {videoId} - {baseFileName} - Clip {outputVideoFilePath} - No frames extracted')
+                                    # Delete the clip
+                                    shutil.rmtree(outputVideoFolderPath)
+                                    deleted = True
+                            
+                            if not deleted:
+                                clipCounter += 1
+                            
 
                         # Start a new window
                         if currentEntryDuration < maxDuration:
@@ -293,6 +322,7 @@ def handleExtractMiniClips(videoIds: list[str], minDuration: float, maxDuration:
                             # This will be detected by the next iteration
                             currentWindowStart = index
                             currentWindowEnd = index
+    logger.info(f'Generated {clipCounter} clips')
 
 def extractAllFacesFromVideo(videoId: str, sleep: int, minFaceWidth: int, minFaceHeight: int, frameBatchSize: int = 1) -> None:
     # If the directory already exists, ignore this video

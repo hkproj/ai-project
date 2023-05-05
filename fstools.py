@@ -9,6 +9,11 @@ CLIPS_DIR = 'clips'
 MINI_CLIPS_DIR = 'miniclips'
 BRANCHES_DIR = 'branches'
 
+MINI_CLIP_VIDEO_NAME = 'video'
+MINI_CLIP_REDUCED_FPS_NAME = 'video_25fps'
+MINI_CLIP_TRANSCRIPT_NAME = 'transcript'
+MINI_CLIP_FRAMES_DIR = 'frames'
+
 MODEL_BRANCH_NAME = '_model'
 DEFAULT_BRANCH_NAME = 'main'
 
@@ -17,6 +22,7 @@ AUDIO_FILE_EXTENSION = '.aac'
 TRANSCRIPTION_FILE_EXTENSION = '.aac.word.srt'
 REGULARIZED_TRANSCRIPTION_FILE_EXTENSION = '.aac.regularized-word.srt'
 CLEANED_TRANSCRIPTION_FILE_EXTENSION = '.aac.cleaned-word.srt'
+
 
 class DatasetFSHelper:
 
