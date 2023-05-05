@@ -810,21 +810,28 @@ def handleExtractLips(videoIds: list[str], rebuild: bool) -> None:
                                 logger.warning(f'Video {videoId} - MiniClip {miniClip} - Error calculating the lip area rectangle in frame {frame.name}: {e}')
                                 damaged = True
                                 continue
-                    
-                    lipImageWidth = 160
-                    lipImageHeight = 80
 
-                    if damaged:
-                        logger.warning(f'Video {videoId} - MiniClip {miniClip} - Damaged frame {frame.name}')
-                        # Save a completely black image of size 160x80
-                        lipAreaImage = np.zeros((80, 160, 3), np.uint8)
-                        cv2.imwrite(str(lipAreaFilePath), lipAreaImage)
-                    else:
+                    if not damaged:
                         # Crop the image to the lip area
                         lipAreaImage = frameImage[int(extractionAreaTop):int(extractionAreaBottom), int(extractionAreaLeft):int(extractionAreaRight)]
+                        w, h, c = lipAreaImage.shape
+                        if w <= 0 or h <= 0:
+                            logger.warning(f'Video {videoId} - MiniClip {miniClip} - Empty lip area in frame {frame.name}')
+                            damaged = True
+
+                    if damaged:
+                        # Save a completely black image of size 160x80
+                        lipAreaImage = np.zeros((80, 160, 3), np.uint8)
+                        logger.warning(f'Video {videoId} - MiniClip {miniClip} - Damaged frame {frame.name}')
+                        cv2.imwrite(str(lipAreaFilePath), lipAreaImage)
+                    
+                    if not damaged:
+                        lipImageWidth = 160
+                        lipImageHeight = 80
                         resize_down = cv2.resize(lipAreaImage, (lipImageWidth, lipImageHeight), interpolation= cv2.INTER_LINEAR)
                         # Save the file with the lips area in the lips folder
                         cv2.imwrite(str(lipAreaFilePath), resize_down)
+                        
                         
 
                     
