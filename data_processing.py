@@ -771,35 +771,45 @@ def handleExtractLips(videoIds: list[str], rebuild: bool) -> None:
                             noseTipLipAreaDistance = lipAreaTop - noseTipBottom
                             if noseTipLipAreaDistance < 0:
                                 logger.warning(f'Video {videoId} - MiniClip {miniClip} - Nose tip is below the lip area in frame {frame.name}')
+                                damaged = True
                                 continue
+
+                            if lipAreaWidth <= 0 or lipAreaHeight <= 0:
+                                logger.warning(f'Video {videoId} - MiniClip {miniClip} - Lip area null {frame.name}')
+                                damaged = True
+                                continue
+
+                            try:
+                                # Scale the lip area rectangle proportionally so that it includes the nose tip
+                                newLipAreaHeight = lipAreaHeight + noseTipLipAreaDistance * 2
+                                newLipAreaWidth = lipAreaWidth * newLipAreaHeight / lipAreaHeight
+                                lipAreaHeight = newLipAreaHeight
+                                lipAreaWidth = newLipAreaWidth
+                                lipArealeft = lipAreaCenterX - lipAreaWidth / 2
+                                lipAreaTop = lipAreaCenterY - lipAreaHeight / 2
+                                lipAreaRight = lipAreaCenterX + lipAreaWidth / 2
+                                lipAreaBottom = lipAreaCenterY + lipAreaHeight / 2
+
+                                draw.rectangle(((lipArealeft, lipAreaTop), (lipAreaRight, lipAreaBottom)), outline=(0, 255, 0, 255))
+                                draw.rectangle(((faceLeft, faceTop), (faceRight, faceBottom)), outline=(0, 255, 0, 255))
                                 
+                                # Convert from PIL format to OpenCV format
+                                numpy_image=np.array(drawImage)
+                                opencv_image=cv2.cvtColor(numpy_image, cv2.COLOR_RGB2BGR)   
 
-                            # Scale the lip area rectangle proportionally so that it includes the nose tip
-                            newLipAreaHeight = lipAreaHeight + noseTipLipAreaDistance * 2
-                            newLipAreaWidth = lipAreaWidth * newLipAreaHeight / lipAreaHeight
-                            lipAreaHeight = newLipAreaHeight
-                            lipAreaWidth = newLipAreaWidth
-                            lipArealeft = lipAreaCenterX - lipAreaWidth / 2
-                            lipAreaTop = lipAreaCenterY - lipAreaHeight / 2
-                            lipAreaRight = lipAreaCenterX + lipAreaWidth / 2
-                            lipAreaBottom = lipAreaCenterY + lipAreaHeight / 2
+                                # Save the file with the face rectangle in the debug folder
+                                cv2.imwrite(str(miniClipLipsDebug / frame.name), opencv_image)
 
-                            draw.rectangle(((lipArealeft, lipAreaTop), (lipAreaRight, lipAreaBottom)), outline=(0, 255, 0, 255))
-                            draw.rectangle(((faceLeft, faceTop), (faceRight, faceBottom)), outline=(0, 255, 0, 255))
-                            
-                            # Convert from PIL format to OpenCV format
-                            numpy_image=np.array(drawImage)
-                            opencv_image=cv2.cvtColor(numpy_image, cv2.COLOR_RGB2BGR)   
-
-                            # Save the file with the face rectangle in the debug folder
-                            cv2.imwrite(str(miniClipLipsDebug / frame.name), opencv_image)
-
-                            # Only for the first face, we save the lips area
-                            if index == 0:
-                                extractionAreaBottom = lipAreaBottom
-                                extractionAreaLeft = lipArealeft
-                                extractionAreaRight = lipAreaRight
-                                extractionAreaTop = lipAreaTop
+                                # Only for the first face, we save the lips area
+                                if index == 0:
+                                    extractionAreaBottom = lipAreaBottom
+                                    extractionAreaLeft = lipArealeft
+                                    extractionAreaRight = lipAreaRight
+                                    extractionAreaTop = lipAreaTop
+                            except Exception as e:
+                                logger.warning(f'Video {videoId} - MiniClip {miniClip} - Error calculating the lip area rectangle in frame {frame.name}: {e}')
+                                damaged = True
+                                continue
                     
                     lipImageWidth = 160
                     lipImageHeight = 80

@@ -59,3 +59,9 @@ python data_processing.py clean-transcript
 ```bash
 python data_processing.py create-miniclips --video-id VIDEOID
 ```
+
+### Extract lips
+
+```bash
+python data_processing.py extract-lips --video-id VIDEOID --rebuild
+```
