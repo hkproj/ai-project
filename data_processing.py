@@ -582,7 +582,7 @@ def handleCreateIntervals(videoId: str, target: int, maxDifference: int, warnLim
         os.remove(outputFilePath)
     writeIntervalsFile(outputFilePath, intervals)
 
-def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, workers: int=1) -> None:
+def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, rebuild: bool) -> None:
     # Check args
     assert targetIntervals is not None, "Target not specified"
     assert minDuration > 0, "Minimum duration not specified"
@@ -612,7 +612,11 @@ def handleCreateClips(videoId: str, targetIntervals: int, minDuration: int, work
             # Delete existing clip, if it exists
             outputFilePath = Path(clipsPath) / f"{targetIntervals}_{index}{fstools.VIDEO_FILE_EXTENSION}"
             if Path.exists(outputFilePath):
-                os.remove(outputFilePath)
+                if rebuild:
+                    os.remove(outputFilePath)
+                else:
+                    logger.info(f'Skipping interval {index} because the output file already exists')
+                    continue
             logger.debug(f'Cutting video from {str(datetime.timedelta(seconds=(start / 1000))).ljust(20)} to {str(datetime.timedelta(seconds=(end / 1000))).ljust(20)} and saving into {outputFilePath}')
             # Run tool to cut video
             tools.cutVideo(inputVideoPath, outputFilePath, start, end)
@@ -685,7 +689,7 @@ if __name__ == '__main__':
     parser.add_argument('--max-diff', type=int, required=False, help='Max timestamp difference (milliseconds)')
     parser.add_argument('--warn-limit', type=int, required=False, help='Warning limit (milliseconds)')
     parser.add_argument('--sleep', type=int, required=False, default=0, help='Sleep time after every iteration (milliseconds)')
-    parser.add_argument('--rebuild', type=bool, required=False, default=False, help='Rebuild output')
+    parser.add_argument('--rebuild', action='store_true', required=False, default=False, help='Rebuild output')
     parser.add_argument('--branch', type=str, required=False, default=None, help='Branch name')
     # Filtering based on the minimum face size is not useful because
     # when the face is partially covered, even for a short time, the rectangle's size will be small
@@ -728,7 +732,7 @@ if __name__ == '__main__':
     elif args.command == COMMAND_CREATE_INTERVALS:
         handleCreateIntervals(args.video_id[0], args.target, args.max_diff, args.warn_limit)
     elif args.command == COMMAND_CREATE_CLIPS:
-        handleCreateClips(args.video_id[0], args.target, args.min_duration, args.workers)
+        handleCreateClips(args.video_id[0], args.target, args.min_duration, args.rebuild)
     elif args.command == COMMAND_EXTRACT_AUDIO:
         handleExtractAudio(args.video_id, args.rebuild)
     elif args.command == COMMAND_TRANSCRIBE_AUDIO:
