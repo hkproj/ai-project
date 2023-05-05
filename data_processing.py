@@ -718,22 +718,29 @@ def handleExtractLips(videoIds: list[str], rebuild: bool) -> None:
                         # Make sure the frame file name is a JPEG
                         if not frame.name.endswith(fstools.FRAME_FILE_EXTENSION):
                             raise ValueError(f'Video {videoId} - MiniClip {miniClip} - Invalid frame file name {frame.name}')
+                    lipAreaFilePath = miniClipLipsPath / frame.name
+                    if not rebuild and Path.exists(lipAreaFilePath):
+                        logger.debug(f'Video {videoId} - MiniClip {miniClip} - Skipping frame {frame.name} because the output file already exists')
+                        continue
                     # Load the frame image
                     frameImage = cv2.imread(str(frame))
                     # Make sure it is in RGB format
                     frameImage = cv2.cvtColor(frameImage, cv2.COLOR_BGR2RGB)
                     _, faceLocations, _ = _extractFacesFromFrame(0, frameImage)
                     _, allLandmarks = _extractFaceLandmarksFromFrame(0, frameImage, faceLocations)
+                    damaged = False
+                    extractionAreaTop, extractionAreaLeft, extractionAreaBottom, extractionAreaRight = 0, 0, 0, 0
                     if len(faceLocations) == 0:
                         logger.debug(f'Video {videoId} - MiniClip {miniClip} - No faces found in frame {frame.name}')
-                        continue
+                        damaged = True
                     else:
-                        for faceLocation, faceLandmarks in zip(faceLocations, allLandmarks):
+                        for index, (faceLocation, faceLandmarks) in enumerate(zip(faceLocations, allLandmarks)):
                             # Get the coordinates of the face location
                             faceTop, faceRight, faceBottom, faceLeft = faceLocation
 
                             if 'top_lip' not in faceLandmarks or 'bottom_lip' not in faceLandmarks:
                                 logger.warning(f'Video {videoId} - MiniClip {miniClip} - No lips found in frame {frame.name}')
+                                damaged = True
                                 continue
                             
                             topLip = faceLandmarks['top_lip']
@@ -762,7 +769,10 @@ def handleExtractLips(videoIds: list[str], rebuild: bool) -> None:
                             noseTipBottom = max([x[1] for x in noseTip])
                             # Calculate the distance between the nose tip and the lip area rectangle
                             noseTipLipAreaDistance = lipAreaTop - noseTipBottom
-                            assert noseTipLipAreaDistance >= 0, f'Video {videoId} - MiniClip {miniClip} - Nose tip is not above lip area'
+                            if noseTipLipAreaDistance < 0:
+                                logger.warning(f'Video {videoId} - MiniClip {miniClip} - Nose tip is below the lip area in frame {frame.name}')
+                                continue
+                                
 
                             # Scale the lip area rectangle proportionally so that it includes the nose tip
                             newLipAreaHeight = lipAreaHeight + noseTipLipAreaDistance * 2
@@ -783,6 +793,28 @@ def handleExtractLips(videoIds: list[str], rebuild: bool) -> None:
 
                             # Save the file with the face rectangle in the debug folder
                             cv2.imwrite(str(miniClipLipsDebug / frame.name), opencv_image)
+
+                            # Only for the first face, we save the lips area
+                            if index == 0:
+                                extractionAreaBottom = lipAreaBottom
+                                extractionAreaLeft = lipArealeft
+                                extractionAreaRight = lipAreaRight
+                                extractionAreaTop = lipAreaTop
+                    
+                    lipImageWidth = 160
+                    lipImageHeight = 80
+
+                    if damaged:
+                        logger.warning(f'Video {videoId} - MiniClip {miniClip} - Damaged frame {frame.name}')
+                        # Save a completely black image of size 160x80
+                        lipAreaImage = np.zeros((80, 160, 3), np.uint8)
+                        cv2.imwrite(str(lipAreaFilePath), lipAreaImage)
+                    else:
+                        # Crop the image to the lip area
+                        lipAreaImage = frameImage[int(extractionAreaTop):int(extractionAreaBottom), int(extractionAreaLeft):int(extractionAreaRight)]
+                        resize_down = cv2.resize(lipAreaImage, (lipImageWidth, lipImageHeight), interpolation= cv2.INTER_LINEAR)
+                        # Save the file with the lips area in the lips folder
+                        cv2.imwrite(str(lipAreaFilePath), resize_down)
                         
 
                     
