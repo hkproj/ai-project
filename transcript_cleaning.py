@@ -3,6 +3,7 @@ from num2words import num2words
 
 CHARS_TO_REMOVE = ['.',',','?','!',':',';','-']
 REPLACEMENTS_FILE = 'transcript_replacements.txt'
+VALID_CHARS_REGEXP = r"^[a-z 'èéàìíóòù]*$" # Only letters, spaces and apostrophes
 
 def transformCase(word: str) -> str:
     return word.lower()
@@ -58,7 +59,6 @@ def detectFloatingPointNumbers(word: str) -> bool:
     return reg.search(word) is not None
 
 def detectInvalidChars(word: str) -> bool:
-    VALID_CHARS_REGEXP = r"^[a-z 'èéàìíóòù]*$" # Only letters, spaces and apostrophes
     reg = re.compile(VALID_CHARS_REGEXP)
     return reg.match(word) is None
 
