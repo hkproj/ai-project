@@ -89,7 +89,7 @@ class ItaLipDataset(Dataset):
         padding_idx = self.vocabulary['<PAD>']
 
         # Get the input ids
-        input_ids = self.getInputIds(fullSentence)
+        input_ids = getInputIds(self.vocabulary, fullSentence)
         # Concat the <SOS> and <EOS> chars
         input_ids = torch.cat((torch.tensor([self.vocabulary['<S>']]).long(), input_ids, torch.tensor([self.vocabulary['</S>']]).long()), 0)
         # Check that the size is still below the max sentence len
@@ -140,20 +140,34 @@ class ItaLipDataset(Dataset):
             'frames_len': len(framesFilePaths),
             'sentence': fullSentence,
         }
-    
-    def getInputIds(self, text: str) -> torch.Tensor:
-        inputIds = []
-        for c in text:
-            if c == ' ':
-                inputIds.append(self.vocabulary['<BLANK>'])
-            else:
-                inputIds.append(self.vocabulary[c])
-        return torch.tensor(inputIds).long()
+
     
     def padInputIds(self, inputIds: torch.Tensor, seqLen: int, paddingIdx: int) -> torch.Tensor:
         inputIdsPadding = torch.empty(seqLen - len(inputIds)).fill_(paddingIdx).long()
         return torch.cat((inputIds, inputIdsPadding), 0)
 
+def getInputIds(vocabulary: dict, text: str) -> torch.Tensor:
+    inputIds = []
+    for c in text:
+        if c == ' ':
+            inputIds.append(vocabulary['<BLANK>'])
+        else:
+            inputIds.append(vocabulary[c])
+    return torch.tensor(inputIds).long()
+
+def getReverseVocabulary(vocabulary: dict) -> dict:
+    return {v:k for k,v in vocabulary.items()}
+
+def getSentenceFromInputIds(vocabulary: dict, inputIds: torch.Tensor) -> str:
+    rev = getReverseVocabulary(vocabulary)
+    sentence = ''
+    for t in inputIds:
+        id = t.item()
+        if id == vocabulary['<BLANK>']:
+            sentence += ' '
+        else:
+            sentence += rev[id]
+    return sentence
 
 def loadVocabulary(filePath: str) -> dict:
     vocabulary = {}
