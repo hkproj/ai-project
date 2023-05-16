@@ -4,11 +4,7 @@ import math
 import torchvision
 from tqdm import tqdm
 
-# Create a VGG-16 + Transformer as per this paper: https://www.sciencedirect.com/science/article/pii/S187705092200182X
-
-def causal_mask(size):
-    mask = torch.triu(torch.ones((1, size, size)), diagonal=1).type(torch.int)
-    return mask == 0
+# Create a CNN-backbone + Transformer as per this paper: https://www.sciencedirect.com/science/article/pii/S187705092200182X
 
 def get_key_padding_mask(batch_size, max_seq_size, actual_len):
     src_key_padding_mask = torch.zeros((batch_size, max_seq_size)).type(torch.uint8)
@@ -18,7 +14,7 @@ def get_key_padding_mask(batch_size, max_seq_size, actual_len):
 
 def get_causal_mask(size):
     mask = torch.triu(torch.ones((1, size, size)), diagonal=1).type(torch.uint8)
-    return mask == 0
+    return mask == 1
 
 class PositionalEncoding(nn.Module):
     "Implement the PE function."
@@ -42,10 +38,22 @@ class PositionalEncoding(nn.Module):
         x = x + self.pe[:, : x.size(1)].requires_grad_(False)
         return self.dropout(x)
 
+class ItaLipEncoderCNN(nn.Module):
+
+    def __init__(self, out_features: int) -> None:
+        super().__init__()
+        self.out_features = out_features
+        self.backbone = torchvision.models.resnet18(weights=torchvision.models.ResNet18_Weights.DEFAULT)
+        self.backbone.fc = nn.Identity()
+
+    def forward(self, x: torch.Tensor) -> torch.Tensor:
+        x = self.backbone(x)
+        return x
+
 
 class ItaLipModel(nn.Module):
 
-    def __init__(self, vocab_size, vgg_features_size=1000, src_seq_len=75, tgt_seq_len=200, dropout=0.2, d_model=512, nhead=8, num_encoder_layers=6, dim_ff=2048, padding_idx=0) -> None:
+    def __init__(self, vocab_size, src_seq_len=75, tgt_seq_len=200, dropout=0.2, d_model=512, nhead=8, num_encoder_layers=6, dim_ff=2048, padding_idx=0) -> None:
         super().__init__()
         self.src_seq_len = src_seq_len
         self.tgt_seq_len = tgt_seq_len
@@ -57,12 +65,7 @@ class ItaLipModel(nn.Module):
         self.dim_ff = dim_ff
         self.padding_idx = padding_idx
 
-        vgg_weights = torchvision.models.VGG11_Weights.DEFAULT
-        self.vgg_embedding = torchvision.models.vgg11(weights=vgg_weights)
-        self.vgg_features_size = vgg_features_size
-
-        # Convert vgg features into a vector of dmodel size
-        self.vgg2embedding = nn.Linear(in_features=vgg_features_size, out_features=d_model)
+        self.cnn = ItaLipEncoderCNN(out_features=d_model)
 
         self.positional_encoding = PositionalEncoding(d_model=d_model, dropout=dropout, max_len=max(src_seq_len, tgt_seq_len))
         self.tgt_embedding = nn.Embedding(num_embeddings=vocab_size, embedding_dim=d_model, padding_idx=padding_idx)
@@ -76,17 +79,15 @@ class ItaLipModel(nn.Module):
         # src_mask:     (B, SEQ_SRC)
         # tgt_mask:     (B, SEQ_TGT, SEQ_TGT)
 
-        # For each frame, extract features using VGG
-        seq_len_src = src.size(1)
-        # Transformer src: (B, SEQ_SRC, D_MODEL)
-        input_features = torch.empty((src.size(0), seq_len_src, self.d_model)).type_as(src).to(src.device)
-        for t in range(seq_len_src):
-            frame_features = self.vgg_embedding(src[:, t, :, :, :]) # (B, 1000)
-            input_features[:, t, :] = self.vgg2embedding(frame_features)
+        # For each frame, extract features using the CNN
 
-        # src: (B, SEQ_SRC, D_MODEL) -> (B, SEQ_SRC, D_MODEL)
-        src = input_features
-        del input_features
+        # Convert the src into (B * SEQ_SRC, C, H, W)
+        src = src.view(-1, *src.shape[2:])
+        src = self.cnn(src)
+
+        # Convert the src into (B, SEQ_SRC, D_MODEL)
+        src = src.view(-1, self.src_seq_len, self.d_model)
+
         # src: (B, SEQ_SRC, D_MODEL) -> (B, SEQ_SRC, D_MODEL)
         src = self.positional_encoding(src)
         # tgt: (B, SEQ_TGT) -> (B, SEQ_TGT, D_MODEL)
@@ -106,10 +107,9 @@ class ItaLipModel(nn.Module):
         output = torch.log_softmax(output, dim=-1)
 
         # output: (SEQ_TGT, B, VOCAB_SIZE) -> (B, SEQ_TGT, VOCAB_SIZE)
-        output.permute(1, 0, 2)
-        return output
+        return output.permute(1, 0, 2)
 
-if __name__ == '__main__':
+def train_mock_model():
     vocab_size = 1000
     batch_size = 2
     src_seq_len = 75
@@ -151,3 +151,6 @@ if __name__ == '__main__':
 
         out = a.forward(src, tgt, src_mask, tgt_mask, src_key_padding_mask, tgt_key_padding_mask)
     print(out.shape)
+
+if __name__ == '__main__':
+    pass
