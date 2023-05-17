@@ -7,4 +7,4 @@
 conda list --explicit > conda-spec-file.txt
 
 # Export pip requirements into requirements.txt
-pip freeze > pip-requirements.txt
+pip list --format=freeze > pip-requirements.txt
