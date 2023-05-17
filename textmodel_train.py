@@ -21,13 +21,19 @@ if __name__ == '__main__':
         'nhead': 8,
         'print_loss_every': 10,
         'validation_items': 5,
-        'validation_interval': 600
+        'validation_interval_perc': 0.5,
+        'tensorboard_interval_perc': 0.1
     }
     options['device'] = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     writer = SummaryWriter()
     tokenizer = buildOrLoadTokenizer('./lipnet_datasets/tokenizer.json')
     raw_ds = ItaLipRawDataset(DatasetFSHelper())
     ds = ItaLipDataset(raw_ds, options['max_frames'], options['max_sentence_len'], tokenizer, imageWidth=options['image_width'], imageHeight=options['image_height'], normalize=True)
+    options['validation_interval'] = len(ds) * options['validation_interval_perc']
+    options['tensorboard_interval'] = len(ds) * options['tensorboard_interval_perc']
+    # make it divisible by batch_size
+    options['validation_interval'] = options['validation_interval'] - (options['validation_interval'] % options['batch_size'])
+    options['tensorboard_interval'] = options['tensorboard_interval'] - (options['tensorboard_interval'] % options['batch_size'])
     # Get the vocabulary size
     vocabulary = tokenizer.get_vocab()
     options['vocabulary_size'] = len(vocabulary)
@@ -172,6 +178,10 @@ def train(train_dl: DataLoader, val_dl: DataLoader, model: ItaLipModel):
             # Log the loss
             writer.add_scalar('train loss', loss_val.item(), total_dl_iterations)
             writer.flush()
+            # Send model to tensorboard
+            if (total_dl_iterations * options['batch_size']) % options['tensorboard_interval'] == 0:
+                writer.add_graph(model, (src, tgt, src_mask, tgt_mask, src_key_padding_mask, tgt_key_padding_mask))
+                writer.flush()
             dl_iterator.set_postfix({'loss': loss_val.item(), 'lr': optimizer.param_groups[0]['lr']})
 
             # Update the model
