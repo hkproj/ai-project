@@ -8,33 +8,16 @@ from srtloader import SRTLoader
 from PIL import Image
 import torch
 from tqdm import tqdm
+from tokenizers import Tokenizer
+from tokenizers.models import BPE
+from tokenizers.trainers import BpeTrainer
+from tokenizers.pre_tokenizers import Whitespace
 
-class ItaLipDataset(Dataset):
+class ItaLipRawDataset(Dataset):
 
-    def __init__(self, dsHelper: fstools.DatasetFSHelper, max_frames: int, max_sentence_len: int, vocabulary: dict, imageWidth: int, imageHeight: int, normalize: bool = True) -> None:
+    def __init__(self, dsHelper: fstools.DatasetFSHelper) -> None:
         super().__init__()
         self.miniclipsPath = Path(dsHelper.getMiniClipsFolderPath())
-        
-        # Create torch transform to load the images
-
-        t = [transforms.ToTensor(),
-            transforms.Resize((imageHeight, imageWidth))
-        ]
-
-        # Results on the entire dataset:
-        # Mean: tensor([0.4076, 0.4406, 0.6105])
-        # Std: tensor([0.1354, 0.1512, 0.1707])
-
-        if normalize:
-            t.append(transforms.Normalize(
-                mean=[0.4076, 0.4406, 0.6105],
-                std=[0.1354,0.1512,0.1707]
-            ))
-        
-        self.transform = transforms.Compose(t)
-        self.vocabulary = vocabulary
-        self.max_frames = max_frames
-        self.max_sentence_len = max_sentence_len
 
         self.dsHelper = dsHelper
         self.ids = []
@@ -45,14 +28,16 @@ class ItaLipDataset(Dataset):
                     if miniclip.is_dir():
                         miniclipId = miniclip.name
                         self.ids.append((videoId, miniclipId))
-        
+
     def __len__(self):
         return len(self.ids)
     
-    def __getitem__(self, index) -> dict:
+    def __getitem__(self, index: int) -> dict:
         videoId, miniclipId = self.ids[index]
         # Get miniclip path
         miniclipPath = Path(self.dsHelper.getMiniClipsPath(videoId)) / miniclipId
+        # Get lips path
+        lipsPath = miniclipPath / fstools.MINI_CLIP_LIPS_DIR
         # Get transcript path
         transcriptPath = miniclipPath / (fstools.MINI_CLIP_TRANSCRIPT_NAME + fstools.TRANSCRIPTION_FILE_EXTENSION)
 
@@ -61,99 +46,144 @@ class ItaLipDataset(Dataset):
         words = srt.getAllWords()
         fullSentence = " ".join([w for _, _, _, w in words]).upper()
 
-        # Get the padding index 
-        padding_idx = self.vocabulary['<PAD>']
-
-        # Get the input ids
-        input_ids = getInputIds(self.vocabulary, fullSentence)
-        # Concat the <SOS> and <EOS> chars
-        input_ids = torch.cat((torch.tensor([self.vocabulary['<S>']]).long(), input_ids, torch.tensor([self.vocabulary['</S>']]).long()), 0)
-
-        # Check that the size is still below the max sentence len
-        if len(input_ids) > self.max_sentence_len:
-            raise ValueError(f'Sentence too long:  {fullSentence}')
+        # Get all frames
+        framesFilePaths = []
+        for framePath in lipsPath.iterdir():
+            if framePath.name.endswith(fstools.FRAME_FILE_EXTENSION):
+                framesFilePaths.append(framePath)
         
-        encoder_input_ids = input_ids.clone()
-        decoder_input_ids = input_ids[:-1]
-        target_input_ids = input_ids[1:]
+        # Sort frames by name
+        framesFilePaths.sort(key=lambda x: int(x.stem))
 
-        encoder_input_ids = self.padInputIds(encoder_input_ids, self.max_sentence_len, padding_idx)
-        decoder_input_ids = self.padInputIds(decoder_input_ids, self.max_sentence_len, padding_idx)
-        target_input_ids = self.padInputIds(target_input_ids, self.max_sentence_len, padding_idx)
+        # Load all the frames
+        frames = []
+        for framePath in framesFilePaths:
+            # Load the image with PIL
+            img = Image.open(framePath)
+            # Add the image to the list
+            frames.append((img))
+        
+        return {
+            'videoId': videoId,
+            'miniclipId': miniclipId,
+            'raw_frames': frames,
+            'raw_frames_len': len(frames),
+            'raw_sentence': fullSentence,
+            'raw_sentence_len': len(fullSentence)
+        }
+
+
+class ItaLipDataset(Dataset):
+
+    def __init__(self, rawDs: ItaLipRawDataset, max_frames: int, max_sentence_len: int, tokenizer, imageWidth: int, imageHeight: int, normalize: bool = True) -> None:
+        super().__init__()
+        
+        # Create torch transform to load the images
+        # Results on the entire dataset:
+        # Mean: tensor([0.4076, 0.4406, 0.6105])
+        # Std: tensor([0.1354, 0.1512, 0.1707])
+        self.transform = transforms.Compose([transforms.ToTensor(),
+            transforms.Resize((imageHeight, imageWidth)),
+            transforms.Normalize(
+                mean=[0.4076, 0.4406, 0.6105],
+                std=[0.1354, 0.1512, 0.1707]
+            )
+        ])
+
+        self.max_frames = max_frames
+        self.max_sentence_len = max_sentence_len
+        self.rawDs = rawDs
+
+        # Enable padding on the tokenizer
+        self.tokenizer = tokenizer
+        padding_idx = tokenizer.token_to_id("<PAD>")
+        self.tokenizer.enable_padding(length=max_sentence_len, pad_id=padding_idx, padding_token="<PAD>")
+        
+    def __len__(self):
+        return len(self.rawDs.ids)
+    
+    def __getitem__(self, index) -> dict:
+        rawData = self.rawDs[index]
+
+        videoId = rawData['videoId']
+        miniclipId = rawData['miniclipId']
+        raw_frames = rawData['raw_frames']
+        raw_sentence = rawData['raw_sentence']
+
+        # convert list of PIL images into a 4D tensor
+        frames = torch.stack([self.transform(frame) for frame in raw_frames])
+        # Pad the frames with zeros
+        frames_padding = torch.zeros((self.max_frames - len(frames), *frames.shape[1:]))
+        frames = torch.cat((frames, frames_padding), 0)
+        frames_len = rawData['raw_frames_len']
+
+        # Convert the sentence into its input ids and tokens
+        encoder_sentence = f'<S>{raw_sentence}</S>'
+        encoder_sentence_enc = self.tokenizer.encode(encoder_sentence)
+        encoder_input_ids = torch.tensor(encoder_sentence_enc.ids, dtype=torch.long)
+        encoder_attention_mask = torch.tensor(encoder_sentence_enc.attention_mask, dtype=torch.long)
+        encoder_input_len = (encoder_attention_mask == 1).sum().item()
+
+        # Create input for decoder
+        decoder_sentence = f'<S>{raw_sentence}'
+        decoder_sentence_enc = self.tokenizer.encode(decoder_sentence)
+        decoder_input_ids = torch.tensor(decoder_sentence_enc.ids, dtype=torch.long)
+        decoder_attention_mask = torch.tensor(decoder_sentence_enc.attention_mask, dtype=torch.long)
+        decoder_input_len = (decoder_attention_mask == 1).sum().item()
+
+        # Create label for decoder
+        label_sentence = f'{raw_sentence}</S>'
+        label_sentence_enc = self.tokenizer.encode(label_sentence)
+        label_input_ids = torch.tensor(label_sentence_enc.ids, dtype=torch.long)
+        label_attention_mask = torch.tensor(label_sentence_enc.attention_mask, dtype=torch.long)
+        label_input_len = (label_attention_mask == 1).sum().item()
+
         
         # Return the dictionary
         return {
             'videoId': videoId,
             'miniclipId': miniclipId,
+            'frames': frames,
+            'frames_len': frames_len,
+            'raw_sentence': raw_sentence,
+            'encoder_sentence': encoder_sentence,
             'encoder_input_ids': encoder_input_ids,
+            #'encoder_input_tokens': encoder_input_tokens,
+            'encoder_attention_mask': encoder_attention_mask,
+            'encoder_input_len': encoder_input_len,
+            'decoder_sentence': decoder_sentence,
             'decoder_input_ids': decoder_input_ids,
-            'target_input_ids': target_input_ids,
-            'encoder_input_ids_len': len(fullSentence) + 2,
-            'decoder_input_ids_len': len(fullSentence) + 1,
-            'target_input_ids_len': len(fullSentence) + 1,
-            'sentence': fullSentence,
+            #'decoder_input_tokens': decoder_input_tokens,
+            'decoder_attention_mask': decoder_attention_mask,
+            'decoder_input_len': decoder_input_len,
+            'label_sentence': label_sentence,
+            'label_input_ids': label_input_ids,
+            #'label_input_tokens': label_input_tokens,
+            'label_attention_mask': label_attention_mask,
+            'label_input_len': label_input_len
         }
 
+def getSentenceFromDs(ds: ItaLipRawDataset) -> str:
+    for i in range(len(ds)):
+        item = ds[i]
+        sentence = item['raw_sentence']
+        yield sentence
+
+def buildOrLoadTokenizer(filePath: set) -> Tokenizer:
+    ds = ItaLipRawDataset(fstools.DatasetFSHelper())
+    tokenizerFilePath = Path(filePath)
+    if not tokenizerFilePath.exists():
+        tokenizer = Tokenizer(BPE(unk_token="<UNK>"))
+        trainer = BpeTrainer(special_tokens=["<UNK>", "<S>", "</S>", "<PAD>"])
+        tokenizer.pre_tokenizer = Whitespace()
+        tokenizer.train_from_iterator(getSentenceFromDs(ds), trainer=trainer)
+        tokenizer.save(str(tokenizerFilePath))
     
-    def padInputIds(self, inputIds: torch.Tensor, seqLen: int, paddingIdx: int) -> torch.Tensor:
-        inputIdsPadding = torch.empty(seqLen - len(inputIds)).fill_(paddingIdx).long()
-        return torch.cat((inputIds, inputIdsPadding), 0)
-
-def getInputIds(vocabulary: dict, text: str) -> torch.Tensor:
-    inputIds = []
-    for c in text:
-        if c == ' ':
-            inputIds.append(vocabulary['<BLANK>'])
-        else:
-            inputIds.append(vocabulary[c])
-    return torch.tensor(inputIds).long()
-
-def getReverseVocabulary(vocabulary: dict) -> dict:
-    return {v:k for k,v in vocabulary.items()}
-
-def getSentenceFromInputIds(vocabulary: dict, inputIds: torch.Tensor) -> str:
-    rev = getReverseVocabulary(vocabulary)
-    sentence = ''
-    for t in inputIds:
-        id = t.item()
-        if id == vocabulary['<BLANK>']:
-            sentence += ' '
-        else:
-            sentence += rev[id]
-    return sentence
-
-def loadVocabulary(filePath: str) -> dict:
-    vocabulary = {}
-    # Read all the lines
-    with open(filePath, 'r') as f:
-        # Read all the non-whitespace lines
-        chars = set([line.strip() for line in f.read().splitlines() if len(line.strip()) > 0])
-
-    if '\n' in chars:
-        chars.remove('\n')
-    if '\r' in chars:
-        chars.remove('\r')
-    
-    # Verify that all chars are strings of length 1
-    for c in chars:
-        assert len(c) == 1, 'Invalid character in vocabulary: \'{}\''.format(c)
-
-    # Sort all the characters
-    chars = sorted(list(chars))
-
-    # Add the additional characters
-    additional_chars = ['<PAD>', '<BLANK>', '<S>', '</S>']
-    chars = additional_chars + chars
-
-    # Create the vocabulary
-    vocabulary = {c: i for i, c in enumerate(chars)}
-    return vocabulary
+    tokenizer = Tokenizer.from_file(str(tokenizerFilePath))
+    return tokenizer
 
 def calculateMeanAndStd():
-    # Load the vocabulary file
-    vocabularyFile = Path('./lipnet_datasets/vocabulary.txt')
-    vocabulary = loadVocabulary(vocabularyFile)
-    ds = ItaLipDataset(fstools.DatasetFSHelper(), 75, 200, vocabulary, 160, 80, normalize=True)
+    ds = ItaLipRawDataset(fstools.DatasetFSHelper())
 
     # Calculate the mean and std of all frames in the ds along the RGB channels
     mean = 0
@@ -162,10 +192,12 @@ def calculateMeanAndStd():
     # Use the GPU if available
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
+    t = transforms.ToTensor()
+
     for i in tqdm(range(len(ds))):
-        frames = ds[i]['frames'].to(device)
-        frames_len = ds[i]['frames_len']
-        frames = frames[0:frames_len]
+        frames = ds[i]['raw_frames']
+        # convert list of PIL images into a 4D tensor
+        frames = torch.stack([t(frame) for frame in frames]).to(device)
         mean += frames.mean(dim=(0, 2, 3))
         std += frames.std(dim=(0, 2, 3))
     mean /= len(ds)
@@ -176,4 +208,3 @@ def calculateMeanAndStd():
 
 if __name__ == '__main__':
     pass
-    
