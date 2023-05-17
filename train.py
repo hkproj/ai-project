@@ -14,14 +14,14 @@ if __name__ == '__main__':
         'max_frames': 75,
         'max_sentence_len': 200,
         'lr': 10**-4,
-        'epochs': 100,
+        'epochs': 10000,
         'image_width': 160,
         'image_height': 80,
         'num_workers': 4,
         'nhead': 8,
         'print_loss_every': 10,
-        'validation_items': 5,
-        'validation_interval': 200
+        'validation_items': 10,
+        'validation_interval': 600
     }
     options['device'] = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     writer = SummaryWriter()
