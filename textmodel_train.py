@@ -112,6 +112,9 @@ def train():
             # Compute the loss using a simple cross entropy
             loss = loss_fn(proj_output.view(-1, options['vocabulary_size']), label.view(-1))
 
+            # Compute the gradients
+            loss.backward()
+
             # Log the loss
             writer.add_scalar('train_loss', loss.item(), total_dl_iterations)
             writer.flush()
@@ -134,7 +137,7 @@ if __name__ == '__main__':
     warnings.filterwarnings("ignore")
     
     options = {
-        'batch_size': 2,
+        'batch_size': 10,
         'max_frames': 75,
         'max_sentence_len': 30,
         'lr': 10**-4,
@@ -150,7 +153,7 @@ if __name__ == '__main__':
         'validation_interval': 100
     }
 
-    device = "cpu" # torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     writer = SummaryWriter()
     tokenizer = buildOrLoadTokenizer('./lipnet_datasets/tokenizer.json')
     raw_ds = ItaLipRawDataset(DatasetFSHelper())
