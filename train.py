@@ -159,7 +159,7 @@ if __name__ == '__main__':
     warnings.filterwarnings("ignore")
     
     options = {
-        'batch_size': 24,
+        'batch_size': 16,
         'max_frames': 75,
         'max_sentence_len': 30,
         "base_lr": 1.0**-4,
