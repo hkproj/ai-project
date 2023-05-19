@@ -12,6 +12,7 @@ from tokenizers import Tokenizer
 from tokenizers.models import BPE
 from tokenizers.trainers import BpeTrainer
 from tokenizers.pre_tokenizers import Whitespace
+from textmodel_model import causal_mask
 
 class ItaLipRawDataset(Dataset):
 
@@ -121,23 +122,27 @@ class ItaLipDataset(Dataset):
         encoder_sentence = f'<S>{raw_sentence}</S>'
         encoder_sentence_enc = self.tokenizer.encode(encoder_sentence)
         encoder_input_ids = torch.tensor(encoder_sentence_enc.ids, dtype=torch.long)
-        encoder_attention_mask = torch.tensor(encoder_sentence_enc.attention_mask, dtype=torch.long)
-        encoder_input_len = (encoder_attention_mask == 1).sum().item()
+        encoder_attention_mask = torch.tensor(encoder_sentence_enc.attention_mask, dtype=torch.long).unsqueeze(0).unsqueeze(0)
+        encoder_words_len = sum(encoder_sentence_enc.attention_mask)
 
         # Create input for decoder
         decoder_sentence = f'<S>{raw_sentence}'
         decoder_sentence_enc = self.tokenizer.encode(decoder_sentence)
         decoder_input_ids = torch.tensor(decoder_sentence_enc.ids, dtype=torch.long)
-        decoder_attention_mask = torch.tensor(decoder_sentence_enc.attention_mask, dtype=torch.long)
-        decoder_input_len = (decoder_attention_mask == 1).sum().item()
+        decoder_words_len = sum(decoder_sentence_enc.attention_mask)
+        decoder_attention_mask = torch.tensor(decoder_sentence_enc.attention_mask, dtype=torch.long) & causal_mask(len(decoder_sentence_enc.attention_mask))
 
         # Create label for decoder
         label_sentence = f'{raw_sentence}</S>'
         label_sentence_enc = self.tokenizer.encode(label_sentence)
         label_input_ids = torch.tensor(label_sentence_enc.ids, dtype=torch.long)
-        label_attention_mask = torch.tensor(label_sentence_enc.attention_mask, dtype=torch.long)
-        label_input_len = (label_attention_mask == 1).sum().item()
+        label_words_len = sum(label_sentence_enc.attention_mask)
+        label_attention_mask = torch.tensor(label_sentence_enc.attention_mask, dtype=torch.long) & causal_mask(len(label_sentence_enc.attention_mask))
 
+        # Make sure no sentence is reaching the max sequence length, otherwise some words may have been cut
+        assert encoder_words_len < self.max_sentence_len, f"Encoder sentence is too long ({encoder_words_len} >= {self.max_sentence_len})"
+        assert decoder_words_len < self.max_sentence_len, f"Decoder sentence is too long ({decoder_words_len} >= {self.max_sentence_len})"
+        assert label_words_len < self.max_sentence_len, f"Label sentence is too long ({label_words_len} >= {self.max_sentence_len})"
         
         # Return the dictionary
         return {
@@ -146,21 +151,21 @@ class ItaLipDataset(Dataset):
             'frames': frames,
             'frames_len': frames_len,
             'raw_sentence': raw_sentence,
-            'encoder_sentence': encoder_sentence,
-            'encoder_input_ids': encoder_input_ids,
-            #'encoder_input_tokens': encoder_input_tokens,
-            'encoder_attention_mask': encoder_attention_mask,
-            'encoder_input_len': encoder_input_len,
+
+            'encoder_sentence': encoder_sentence, # 
+            'encoder_input_ids': encoder_input_ids, # (seq_len)
+            'encoder_attention_mask': encoder_attention_mask, # (1, 1, seq_len)
+            'encoder_words_len': encoder_words_len,
+
             'decoder_sentence': decoder_sentence,
-            'decoder_input_ids': decoder_input_ids,
-            #'decoder_input_tokens': decoder_input_tokens,
-            'decoder_attention_mask': decoder_attention_mask,
-            'decoder_input_len': decoder_input_len,
+            'decoder_input_ids': decoder_input_ids, # (seq_len)
+            'decoder_attention_mask': decoder_attention_mask, # (1, 1, seq_len)
+            'decoder_words_len': decoder_words_len,
+
             'label_sentence': label_sentence,
-            'label_input_ids': label_input_ids,
-            #'label_input_tokens': label_input_tokens,
-            'label_attention_mask': label_attention_mask,
-            'label_input_len': label_input_len
+            'label_input_ids': label_input_ids, # (seq_len)
+            'label_attention_mask': label_attention_mask, # (1, 1, seq_len)
+            'label_words_len': label_words_len
         }
 
 def getSentenceFromDs(ds: ItaLipRawDataset) -> str:
