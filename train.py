@@ -163,7 +163,7 @@ if __name__ == '__main__':
         'max_frames': 75,
         'max_sentence_len': 30,
         "base_lr": 1.0**-4,
-        "warmup": 1000,
+        "warmup": 1,
         'epochs': 10000,
         'image_width': 160,
         'image_height': 80,
