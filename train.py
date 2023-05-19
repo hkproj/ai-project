@@ -167,7 +167,7 @@ if __name__ == '__main__':
         'validation_interval': 100
     }
 
-    device = "cpu" #torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f'Using device: {device}')
     writer = SummaryWriter()
     tokenizer = buildOrLoadTokenizer('./tokenizer.json')
