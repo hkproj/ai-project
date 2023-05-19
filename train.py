@@ -137,6 +137,7 @@ def train():
 
             # Log the loss
             writer.add_scalar('train_loss', loss.item(), total_dl_iterations)
+            writer.add_scalar('train_lr', optimizer.param_groups[0]['lr'], total_dl_iterations)
             writer.flush()
             dl_iterator.set_postfix({'loss': f"{loss.item():6.3f}", 'lr': f"{optimizer.param_groups[0]['lr']:6.1e}"})
 
@@ -158,7 +159,7 @@ if __name__ == '__main__':
     warnings.filterwarnings("ignore")
     
     options = {
-        'batch_size': 8,
+        'batch_size': 24,
         'max_frames': 75,
         'max_sentence_len': 30,
         "base_lr": 1.0**-4,
