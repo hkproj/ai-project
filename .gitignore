@@ -131,22 +131,15 @@ dmypy.json
 # Data files
 data/clips
 data/raw_videos
-
 data/branches/**/*.mp4
 data/branches/**/*.aac
 data/branches/**/miniclips
-
 donotstore/
-
 lipnet_data/
 lipnet_datasets/
-
 runs/
-
 weights/
-
 logs/
-
 .vscode/
-
 miniclips_stats.csv
+*.json
