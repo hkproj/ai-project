@@ -155,11 +155,11 @@ if __name__ == '__main__':
     warnings.filterwarnings("ignore")
     
     options = {
-        'batch_size': 1,
+        'batch_size': 8,
         'max_frames': 75,
         'max_sentence_len': 30,
         "base_lr": 1.0**-4,
-        "warmup": 1,
+        "warmup": 1000,
         'epochs': 10000,
         'image_width': 160,
         'image_height': 80,
@@ -173,6 +173,7 @@ if __name__ == '__main__':
     }
 
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    print(f'Using device: {device}')
     writer = SummaryWriter()
     tokenizer = buildOrLoadTokenizer('./lipnet_datasets/tokenizer.json')
     raw_ds = ItaLipRawDataset(DatasetFSHelper())
