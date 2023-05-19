@@ -9,6 +9,9 @@ from datasets import ItaLipDataset, ItaLipRawDataset, buildOrLoadTokenizer
 from model import causal_mask, ItaLipModel
 from tqdm import tqdm
 import warnings
+import os
+# Avoid tokenizers warning for parallelism
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 def validate(global_step: int):
     model.eval()
