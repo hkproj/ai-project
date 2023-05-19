@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 from torch.utils.data import DataLoader
-from torch.optim.lr_scheduler import LambdaLR
 from torch.utils.tensorboard import SummaryWriter
 import torchmetrics
 from fstools import DatasetFSHelper
@@ -89,13 +88,7 @@ def rate(step, model_size, factor, warmup):
 
 def train():
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
-    optimizer = torch.optim.Adam(model.parameters(), lr=options['base_lr'], betas=(0.9, 0.98), eps=1e-9)
-    lr_scheduler = LambdaLR(
-        optimizer=optimizer,
-        lr_lambda=lambda step: rate(
-            step, options['d_model'], factor=1, warmup=options["warmup"]
-        ),
-    )
+    optimizer = torch.optim.Adam(model.parameters(), lr=options['lr'], betas=(0.9, 0.98), eps=1e-9)
     total_dl_iterations = 0
 
     for epoch in range(options['epochs']):
@@ -144,7 +137,6 @@ def train():
             # Update the weights
             optimizer.step()
             optimizer.zero_grad()
-            lr_scheduler.step()  # Update learning rate schedule
 
             # Run validation
             if (total_dl_iterations) % options['validation_interval'] == 0:
@@ -162,8 +154,7 @@ if __name__ == '__main__':
         'batch_size': 16,
         'max_frames': 75,
         'max_sentence_len': 30,
-        "base_lr": 1.0**-4,
-        "warmup": 1,
+        "lr": 10e-4,
         'epochs': 10000,
         'image_width': 160,
         'image_height': 80,
@@ -176,7 +167,7 @@ if __name__ == '__main__':
         'validation_interval': 100
     }
 
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = "cpu" #torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f'Using device: {device}')
     writer = SummaryWriter()
     tokenizer = buildOrLoadTokenizer('./tokenizer.json')
