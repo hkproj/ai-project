@@ -1,6 +1,7 @@
 import torch
 import torch.nn as nn
 import math
+import torchvision
 
 class LayerNormalization(nn.Module):
 
@@ -210,24 +211,42 @@ class Transformer(nn.Module):
 
     def encode(self, src, src_mask):
         # (batch, seq_len, d_model)
-        src = self.src_embed(src)
+        src = self.src_embed(src) if self.src_embed is not None else src
         src = self.src_pos(src)
         return self.encoder(src, src_mask)
     
     def decode(self, encoder_output: torch.Tensor, src_mask: torch.Tensor, tgt: torch.Tensor, tgt_mask: torch.Tensor):
         # (batch, seq_len, d_model)
-        tgt = self.tgt_embed(tgt)
+        tgt = self.tgt_embed(tgt) if self.tgt_embed is not None else tgt
         tgt = self.tgt_pos(tgt)
         return self.decoder(tgt, encoder_output, src_mask, tgt_mask)
     
     def project(self, x):
         # (batch, seq_len, vocab_size)
         return self.projection_layer(x)
+
+class ItaLipModel(nn.Module):
+
+    def __init__(self, src_vocab_size: int, tgt_vocab_size: int, src_seq_len: int, tgt_seq_len: int, d_model: int=512, N: int=6, h: int=8, dropout: float=0.1, d_ff: int=2048) -> None:
+        super().__init__()
+        self.transformer = build_transformer(src_vocab_size, tgt_vocab_size, src_seq_len, tgt_seq_len, d_model, N, h, dropout, d_ff)
+        self.cnn = CNN()
+
+class CNN(nn.Module):
+
+    def __init__(self) -> None:
+        super().__init__()
+        self.cnn = torchvision.models.resnet18(torchvision.models.ResNet18_Weights.DEFAULT)
+        self.cnn.fc = nn.Identity()
+
+    def forward(self, x):
+        # (batch, C, H, W) -> (batch, d_model)
+        return self.cnn(x)
     
-def build_transformer(src_vocab_size: int, tgt_vocab_size: int, src_seq_len: int, tgt_seq_len: int, d_model: int=512, N: int=6, h: int=8, dropout: float=0.1, d_ff: int=2048) -> Transformer:
+def build_transformer(src_vocab_size: int, tgt_vocab_size: int, src_seq_len: int, tgt_seq_len: int, d_model: int, N: int, h: int, dropout: float, d_ff: int) -> Transformer:
     # Create the embedding layers
-    src_embed = InputEmbeddings(d_model, src_vocab_size)
-    tgt_embed = InputEmbeddings(d_model, tgt_vocab_size)
+    src_embed = InputEmbeddings(d_model, src_vocab_size) if src_vocab_size is not None else None
+    tgt_embed = InputEmbeddings(d_model, tgt_vocab_size) if tgt_vocab_size is not None else None
 
     # Create the positional encoding layers
     src_pos = PositionalEncoding(d_model, src_seq_len, dropout)

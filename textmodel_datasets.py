@@ -117,6 +117,7 @@ class ItaLipDataset(Dataset):
         frames_padding = torch.zeros((self.max_frames - len(frames), *frames.shape[1:]))
         frames = torch.cat((frames, frames_padding), 0)
         frames_len = rawData['raw_frames_len']
+        frames_attention_mask = torch.tensor([1] * frames_len + [0] * (self.max_frames - frames_len), dtype=torch.long).unsqueeze(0).unsqueeze(0)
 
         # Convert the sentence into its input ids and tokens
         encoder_sentence = f'<S>{raw_sentence}</S>'
@@ -148,9 +149,11 @@ class ItaLipDataset(Dataset):
         return {
             'videoId': videoId,
             'miniclipId': miniclipId,
-            'frames': frames,
-            'frames_len': frames_len,
             'raw_sentence': raw_sentence,
+            
+            'frames': frames,
+            'frames_attention_mask': frames_attention_mask,
+            'frames_len': frames_len,
 
             'encoder_sentence': encoder_sentence, # 
             'encoder_input_ids': encoder_input_ids, # (seq_len)
