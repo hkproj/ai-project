@@ -1,13 +1,14 @@
 import torch
+import torch.nn as nn
+from torch.utils.data import DataLoader
+from torch.optim.lr_scheduler import LambdaLR
+from torch.utils.tensorboard import SummaryWriter
+import torchmetrics
 from fstools import DatasetFSHelper
 from datasets import ItaLipDataset, ItaLipRawDataset, buildOrLoadTokenizer
 from model import causal_mask, ItaLipModel
-from torch.utils.data import DataLoader
-import torch.nn as nn
 from tqdm import tqdm
-from torch.utils.tensorboard import SummaryWriter
 import warnings
-import torchmetrics
 
 def validate(global_step: int):
     model.eval()
@@ -78,10 +79,20 @@ def validate(global_step: int):
         writer.add_scalar('validation_wer', wer, global_step)
         writer.flush()
 
+def rate(step, model_size, factor, warmup):
+    if step == 0:
+        step = 1
+    return factor * (model_size ** (-0.5) * min(step ** (-0.5), step * warmup ** (-1.5)))
 
 def train():
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
-    optimizer = torch.optim.Adam(model.parameters(), lr=options['lr'])
+    optimizer = torch.optim.Adam(model.parameters(), lr=options['base_lr'], betas=(0.9, 0.98), eps=1e-9)
+    lr_scheduler = LambdaLR(
+        optimizer=optimizer,
+        lr_lambda=lambda step: rate(
+            step, options['d_model'], factor=1, warmup=options["warmup"]
+        ),
+    )
     total_dl_iterations = 0
 
     for epoch in range(options['epochs']):
@@ -118,7 +129,6 @@ def train():
 
             # Compute the loss using a simple cross entropy
             loss = loss_fn(proj_output.view(-1, options['vocabulary_size']), label.view(-1))
-
             # Compute the gradients
             loss.backward()
 
@@ -127,9 +137,10 @@ def train():
             writer.flush()
             dl_iterator.set_postfix({'loss': f"{loss.item():6.3f}", 'lr': f"{optimizer.param_groups[0]['lr']:6.1e}"})
 
-            # Update the model
+            # Update the weights
             optimizer.step()
             optimizer.zero_grad()
+            lr_scheduler.step()  # Update learning rate schedule
 
             # Run validation
             if (total_dl_iterations) % options['validation_interval'] == 0:
@@ -144,16 +155,17 @@ if __name__ == '__main__':
     warnings.filterwarnings("ignore")
     
     options = {
-        'batch_size': 2,
+        'batch_size': 1,
         'max_frames': 75,
         'max_sentence_len': 30,
-        'lr': 10**-4,
+        "base_lr": 1.0**-4,
+        "warmup": 1,
         'epochs': 10000,
         'image_width': 160,
         'image_height': 80,
         'num_workers': 1,
-        'n_head': 4,
-        'n_layers': 4,
+        'n_head': 8,
+        'n_layers': 6,
         'd_model': 512,
         'print_loss_every': 10,
         'validation_items': 5,
