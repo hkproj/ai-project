@@ -15,18 +15,26 @@ def validate(global_step: int):
         dl_iterator = tqdm(range(0, options['validation_items']), desc='Validation')
         predictedList = []
         targetList = []
-        
-        for _ in dl_iterator:
-            batch = next(iter(val_dl))
-            batch_size = batch['encoder_input_ids'].size(0)
-            assert batch_size == 1, 'Batch size must be 1 for validation'
+        maxSentenceLength = options['max_sentence_len']
 
-            maxSentenceLength = options['max_sentence_len']
-            
-            # Run the encoder once and save its output
-            encoder_input = batch['encoder_input_ids'].to(device) # (B, seq_len)
-            encoder_mask = batch['encoder_attention_mask'].to(device) # (B, 1, 1, seq_len)
-            encoder_output = model.encode(encoder_input, encoder_mask) # (B, seq_len, dmodel)
+        for _ in dl_iterator:
+
+            batch = next(iter(val_dl))
+
+            frames = batch['frames'].to(device) # (B, seq_len_frames, 3, H, W)
+            batch_size = frames.size(0)
+            assert batch_size == 1, 'Batch size must be 1 for validation'           
+            # Flatten the frames sequence 
+            frames = frames.view(-1, *frames.shape[2:]) # (B * seq_len_frames, 3, H, W)
+            # Run the frames through the CNN
+            frames = model.cnn.forward(frames) # (B * seq_len_frames, dmodel)
+            # Make sure the last dimension of the CNN is dmodel of the transformer
+            assert frames.size(-1) == options['d_model'], f'CNN output size must be {options["dmodel"]}'
+            # Reshape the CNN output to (B, seq_len_frames, dmodel)
+            frames = frames.view(batch_size, -1, frames.size(-1)) # (B, seq_len_frames, dmodel)
+            encoder_input = frames # (B, seq_len)
+            encoder_mask = batch['frames_attention_mask'].to(device) # (B, 1, 1, seq_len)
+            encoder_output = model.transformer.encode(encoder_input, encoder_mask)
 
             # Initially we start with the SOS token
             decoder_input = torch.tensor([sos_idx]).unsqueeze(0).type_as(batch['decoder_input_ids']).to(device) # (B, 1)
@@ -35,8 +43,8 @@ def validate(global_step: int):
                     break
 
                 decoder_mask = causal_mask(decoder_input.size(1)).unsqueeze(0).to(device) # (B, 1, seq_len, seq_len)
-                decoder_output = model.decode(encoder_output, encoder_mask, decoder_input, decoder_mask)
-                proj_output = model.project(decoder_output) # (B, seq_len, vocab_size)
+                decoder_output = model.transformer.decode(encoder_output, encoder_mask, decoder_input, decoder_mask)
+                proj_output = model.transformer.project(decoder_output) # (B, seq_len, vocab_size)
                 nextToken = proj_output[:,-1,:].argmax(dim=1).item()
                 
                 # Concat new token to previous input ids
@@ -47,7 +55,7 @@ def validate(global_step: int):
                 
             # Convert the predicted ids to words
             predictedList.append(tokenizer.decode(decoder_input[0][1:].cpu().detach().numpy(), skip_special_tokens=False))
-            targetList.append(batch['encoder_sentence'][0])
+            targetList.append(batch['label_sentence'][0])
         
         # Visualize the predicted sentences vs the target sentences
         maxPrintedLength = 80
@@ -83,7 +91,6 @@ def train():
             torch.cuda.empty_cache()
 
             frames = batch['frames'].to(device) # (B, seq_len_frames, 3, H, W)
-            frames_len = batch['frames_len'].to(device) # (B)
 
             batch_size = frames.size(0)
 
@@ -125,8 +132,8 @@ def train():
             optimizer.zero_grad()
 
             # Run validation
-            # if (total_dl_iterations) % options['validation_interval'] == 0:
-            #     validate(total_dl_iterations)
+            if (total_dl_iterations) % options['validation_interval'] == 0:
+                validate(total_dl_iterations)
 
             total_dl_iterations += 1
         
@@ -137,7 +144,7 @@ if __name__ == '__main__':
     warnings.filterwarnings("ignore")
     
     options = {
-        'batch_size': 10,
+        'batch_size': 2,
         'max_frames': 75,
         'max_sentence_len': 30,
         'lr': 10**-4,
