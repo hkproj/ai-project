@@ -175,7 +175,7 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f'Using device: {device}')
     writer = SummaryWriter()
-    tokenizer = buildOrLoadTokenizer('./lipnet_datasets/tokenizer.json')
+    tokenizer = buildOrLoadTokenizer('./tokenizer.json')
     raw_ds = ItaLipRawDataset(DatasetFSHelper())
     ds = ItaLipDataset(raw_ds, options['max_frames'], options['max_sentence_len'], tokenizer, imageWidth=options['image_width'], imageHeight=options['image_height'], normalize=True)
 
