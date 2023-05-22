@@ -6,19 +6,21 @@ import torchmetrics
 from fstools import DatasetFSHelper
 from datasets import ItaLipDataset, ItaLipRawDataset, buildOrLoadTokenizer
 from model import causal_mask, ItaLipModel
+from options import get_config, get_weights_file
 from tqdm import tqdm
+from pathlib import Path
 import warnings
 import os
 # Avoid tokenizers warning for parallelism
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-def validate(global_step: int):
+def validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, global_step: int):
     model.eval()
     with torch.no_grad():
-        dl_iterator = tqdm(range(0, options['validation_items']), desc='Validation')
+        dl_iterator = tqdm(range(0, config['validation_items']), desc='Validation')
         predictedList = []
         targetList = []
-        maxSentenceLength = options['max_sentence_len']
+        maxSentenceLength = config['max_sentence_len']
 
         for _ in dl_iterator:
 
@@ -32,7 +34,7 @@ def validate(global_step: int):
             # Run the frames through the CNN
             frames = model.cnn.forward(frames) # (B * seq_len_frames, dmodel)
             # Make sure the last dimension of the CNN is dmodel of the transformer
-            assert frames.size(-1) == options['d_model'], f'CNN output size must be {options["dmodel"]}'
+            assert frames.size(-1) == config['d_model'], f'CNN output size must be {config["dmodel"]}'
             # Reshape the CNN output to (B, seq_len_frames, dmodel)
             frames = frames.view(batch_size, -1, frames.size(-1)) # (B, seq_len_frames, dmodel)
             encoder_input = frames # (B, seq_len)
@@ -81,18 +83,20 @@ def validate(global_step: int):
         writer.add_scalar('validation_wer', wer, global_step)
         writer.flush()
 
-def rate(step, model_size, factor, warmup):
-    if step == 0:
-        step = 1
-    return factor * (model_size ** (-0.5) * min(step ** (-0.5), step * warmup ** (-1.5)))
-
-def train():
+def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx):
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
-    optimizer = torch.optim.Adam(model.parameters(), lr=options['lr'], betas=(0.9, 0.98), eps=1e-9)
+    optimizer = torch.optim.Adam(model.parameters(), lr=config['lr'], eps=1e-9)
     total_dl_iterations = 0
 
-    for epoch in range(options['epochs']):
-        dl_iterator = tqdm(train_dl, desc=f'Training Epoch {epoch + 1:02d}/{options["epochs"]:02d}')
+    start_epoch = 0
+    if config['preload'] is not None:
+        preload_filepath = get_weights_file(config, config['preload'])
+        print(f'Loading weights from {preload_filepath}')
+        model.load_state_dict(torch.load(preload_filepath))
+        start_epoch = int(config['preload']) + 1
+
+    for epoch in range(start_epoch, config['epochs']):
+        dl_iterator = tqdm(train_dl, desc=f'Training Epoch {epoch + 1:02d}/{config["epochs"]:02d}')
         for batch in dl_iterator:
             model.train()
             torch.cuda.empty_cache()
@@ -106,7 +110,7 @@ def train():
             # Run the frames through the CNN
             frames = model.cnn.forward(frames) # (B * seq_len_frames, dmodel)
             # Make sure the last dimension of the CNN is dmodel of the transformer
-            assert frames.size(-1) == options['d_model'], f'CNN output size must be {options["dmodel"]}'
+            assert frames.size(-1) == config['d_model'], f'CNN output size must be {config["dmodel"]}'
             # Reshape the CNN output to (B, seq_len_frames, dmodel)
             frames = frames.view(batch_size, -1, frames.size(-1)) # (B, seq_len_frames, dmodel)
             encoder_input = frames # (B, seq_len)
@@ -124,7 +128,7 @@ def train():
             label = batch['label_input_ids'].to(device)
 
             # Compute the loss using a simple cross entropy
-            loss = loss_fn(proj_output.view(-1, options['vocabulary_size']), label.view(-1))
+            loss = loss_fn(proj_output.view(-1, config['vocabulary_size']), label.view(-1))
             # Compute the gradients
             loss.backward()
 
@@ -139,43 +143,25 @@ def train():
             optimizer.zero_grad()
 
             # Run validation
-            if (total_dl_iterations) % options['validation_interval'] == 0:
-                validate(total_dl_iterations)
+            if (total_dl_iterations) % config['validation_interval'] == 0:
+                validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, total_dl_iterations)
 
             total_dl_iterations += 1
         
         # Save the model after each epoch
-        torch.save(model.state_dict(), f'./weights/italip_{epoch:02d}.pt')
+        torch.save(model.state_dict(), get_weights_file(config, f"{epoch:02d}"))
 
-if __name__ == '__main__':
-    warnings.filterwarnings("ignore")
-    
-    options = {
-        'batch_size': 16,
-        'max_frames': 75,
-        'max_sentence_len': 30,
-        "lr": 10e-4,
-        'epochs': 10000,
-        'image_width': 160,
-        'image_height': 80,
-        'num_workers': 1,
-        'n_head': 8,
-        'n_layers': 6,
-        'd_model': 512,
-        'print_loss_every': 10,
-        'validation_items': 5,
-        'validation_interval': 100
-    }
-
+def run(config):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f'Using device: {device}')
     writer = SummaryWriter()
-    tokenizer = buildOrLoadTokenizer('./tokenizer.json')
+    tokenizer_file_path = Path('.') / config['tokenizer_folder'] / config['tokenizer_filename']
+    tokenizer = buildOrLoadTokenizer(tokenizer_file_path)
     raw_ds = ItaLipRawDataset(DatasetFSHelper())
-    ds = ItaLipDataset(raw_ds, options['max_frames'], options['max_sentence_len'], tokenizer, imageWidth=options['image_width'], imageHeight=options['image_height'], normalize=True)
+    ds = ItaLipDataset(raw_ds, config['max_frames'], config['max_sentence_len'], tokenizer, imageWidth=config['image_width'], imageHeight=config['image_height'], normalize=True)
 
     # Get the vocabulary size
-    options['vocabulary_size'] = tokenizer.get_vocab_size()
+    config['vocabulary_size'] = tokenizer.get_vocab_size()
     print(f'Vocabulary size: {tokenizer.get_vocab_size()}')
 
     # Save commonly used tokens
@@ -191,10 +177,17 @@ if __name__ == '__main__':
     train_ds, val_ds = torch.utils.data.random_split(ds, [train_ds_len, val_ds_len])
 
     # Create the data loaders
-    train_dl = torch.utils.data.DataLoader(train_ds, batch_size=options['batch_size'], shuffle=True, num_workers=options['num_workers'])
-    val_dl = torch.utils.data.DataLoader(val_ds, batch_size=1, shuffle=True, num_workers=options['num_workers'])
+    train_dl = torch.utils.data.DataLoader(train_ds, batch_size=config['batch_size'], shuffle=True, num_workers=config['num_workers'])
+    val_dl = torch.utils.data.DataLoader(val_ds, batch_size=1, shuffle=True, num_workers=config['num_workers'])
 
     # Create the model
     
-    model = ItaLipModel(src_vocab_size=None, tgt_vocab_size=options['vocabulary_size'], src_seq_len=options['max_frames'], tgt_seq_len=options['max_sentence_len'], d_model=options['d_model'], N=options['n_layers'], h=options['n_head']).to(device)
-    train()
+    model = ItaLipModel(src_vocab_size=None, tgt_vocab_size=config['vocabulary_size'], src_seq_len=config['max_frames'], tgt_seq_len=config['max_sentence_len'], d_model=config['d_model'], N=config['n_layers'], h=config['n_head']).to(device)
+    train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx)
+
+if __name__ == '__main__':
+    warnings.filterwarnings("ignore")
+    config = get_config()
+    run(config)
+
+    
