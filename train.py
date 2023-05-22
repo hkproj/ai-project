@@ -86,7 +86,7 @@ def validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer,
 def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx):
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=config['lr'], eps=1e-9)
-    total_dl_iterations = 0
+    global_step = 0
 
     start_epoch = 0
     if config['preload'] is not None:
@@ -133,8 +133,8 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             loss.backward()
 
             # Log the loss
-            writer.add_scalar('train_loss', loss.item(), total_dl_iterations)
-            writer.add_scalar('train_lr', optimizer.param_groups[0]['lr'], total_dl_iterations)
+            writer.add_scalar('train_loss', loss.item(), global_step)
+            writer.add_scalar('train_lr', optimizer.param_groups[0]['lr'], global_step)
             writer.flush()
             dl_iterator.set_postfix({'loss': f"{loss.item():6.3f}", 'lr': f"{optimizer.param_groups[0]['lr']:6.1e}"})
 
@@ -142,11 +142,10 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             optimizer.step()
             optimizer.zero_grad()
 
-            # Run validation
-            if (total_dl_iterations) % config['validation_interval'] == 0:
-                validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, total_dl_iterations)
+            global_step += 1
 
-            total_dl_iterations += 1
+        # Run validation at the end of every epoch
+        validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, global_step)
         
         # Save the model after each epoch
         torch.save(model.state_dict(), get_weights_file(config, f"{epoch:02d}"))
