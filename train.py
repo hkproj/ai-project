@@ -10,6 +10,7 @@ from options import get_config, get_weights_file
 from tqdm import tqdm
 from pathlib import Path
 import warnings
+import time
 import os
 # Avoid tokenizers warning for parallelism
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -83,7 +84,7 @@ def validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer,
         writer.add_scalar('validation_wer', wer, global_step)
         writer.flush()
 
-def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx):
+def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size):
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=config['lr'], eps=1e-9)
     global_step = 0
@@ -92,11 +93,14 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
     if config['preload'] is not None:
         preload_filepath = get_weights_file(config, config['preload'])
         print(f'Loading weights from {preload_filepath}')
-        model.load_state_dict(torch.load(preload_filepath))
-        start_epoch = int(config['preload']) + 1
+        state = torch.load(preload_filepath)
+        model.load_state_dict(state['model_state_dict'])
+        optimizer.load_state_dict(state['optimizer_state_dict'])
+        start_epoch = state['epoch'] + 1
 
     for epoch in range(start_epoch, config['epochs']):
-        dl_iterator = tqdm(train_dl, desc=f'Training Epoch {epoch + 1:02d}/{config["epochs"]:02d}')
+        dl_iterator = tqdm(train_dl, desc=f'Training Epoch {epoch:02d}/{config["epochs"]:02d}')
+        epoch_step = 0
         for batch in dl_iterator:
             model.train()
             torch.cuda.empty_cache()
@@ -132,6 +136,8 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             # Compute the gradients
             loss.backward()
 
+            global_step = (epoch * total_ds_size) + epoch_step
+
             # Log the loss
             writer.add_scalar('train_loss', loss.item(), global_step)
             writer.add_scalar('train_lr', optimizer.param_groups[0]['lr'], global_step)
@@ -142,18 +148,26 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             optimizer.step()
             optimizer.zero_grad()
 
-            global_step += 1
+            epoch_step += 1
+
+            # Sleep for a bit to avoid overloading the GPU
+            if config['sleep'] > 0:
+                time.sleep(config['sleep'])
 
         # Run validation at the end of every epoch
-        validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, global_step)
+        validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, epoch)
         
         # Save the model after each epoch
-        torch.save(model.state_dict(), get_weights_file(config, f"{epoch:02d}"))
+        torch.save({
+            'model_state_dict': model.state_dict(),
+            'optimizer_state_dict': optimizer.state_dict(),
+            'epoch': epoch
+        }, get_weights_file(config, f"{epoch:02d}"))
 
 def run(config):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f'Using device: {device}')
-    writer = SummaryWriter()
+    writer = SummaryWriter(config['experiment_name'])
     tokenizer_file_path = Path('.') / config['tokenizer_folder'] / config['tokenizer_filename']
     tokenizer = buildOrLoadTokenizer(tokenizer_file_path)
     raw_ds = ItaLipRawDataset(DatasetFSHelper())
@@ -167,6 +181,8 @@ def run(config):
     padding_idx = tokenizer.token_to_id("<PAD>")
     sos_idx = tokenizer.token_to_id("<S>")
     eos_idx = tokenizer.token_to_id("</S>")
+
+    total_ds_size = len(ds)
 
     torch.autograd.set_detect_anomaly(True, True)
 
@@ -182,7 +198,7 @@ def run(config):
     # Create the model
     
     model = ItaLipModel(src_vocab_size=None, tgt_vocab_size=config['vocabulary_size'], src_seq_len=config['max_frames'], tgt_seq_len=config['max_sentence_len'], d_model=config['d_model'], N=config['n_layers'], h=config['n_head']).to(device)
-    train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx)
+    train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size)
 
 if __name__ == '__main__':
     warnings.filterwarnings("ignore")

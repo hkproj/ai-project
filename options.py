@@ -18,7 +18,9 @@ def get_config():
         'weights_folder': 'weights',
         'weights_filename': 'italip_{}.pt',
         'tokenizer_folder': 'tokenizer',
-        'tokenizer_filename': 'tokenizer.json'
+        'tokenizer_filename': 'tokenizer.json',
+        'sleep': 0,
+        'experiment_name': 'runs/italip'
     }
 
 def get_weights_file(options, epoch: str):
