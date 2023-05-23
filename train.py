@@ -90,6 +90,7 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
     global_step = 0
 
     start_epoch = 0
+    global_step = 0
     if config['preload'] is not None:
         preload_filepath = get_weights_file(config, config['preload'])
         print(f'Loading weights from {preload_filepath}')
@@ -97,10 +98,10 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
         model.load_state_dict(state['model_state_dict'])
         optimizer.load_state_dict(state['optimizer_state_dict'])
         start_epoch = state['epoch'] + 1
+        global_step = state['global_step']
 
     for epoch in range(start_epoch, config['epochs']):
         dl_iterator = tqdm(train_dl, desc=f'Training Epoch {epoch:02d}/{config["epochs"]:02d}')
-        epoch_step = 0
         for batch in dl_iterator:
             model.train()
             torch.cuda.empty_cache()
@@ -136,8 +137,6 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             # Compute the gradients
             loss.backward()
 
-            global_step = (epoch * total_ds_size) + epoch_step
-
             # Log the loss
             writer.add_scalar('train_loss', loss.item(), global_step)
             writer.add_scalar('train_lr', optimizer.param_groups[0]['lr'], global_step)
@@ -148,7 +147,7 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             optimizer.step()
             optimizer.zero_grad()
 
-            epoch_step += 1
+            global_step += 1
 
             # Sleep for a bit to avoid overloading the GPU
             if config['sleep'] > 0:
@@ -161,7 +160,8 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
         torch.save({
             'model_state_dict': model.state_dict(),
             'optimizer_state_dict': optimizer.state_dict(),
-            'epoch': epoch
+            'epoch': epoch,
+            'global_step': global_step
         }, get_weights_file(config, f"{epoch:02d}"))
 
 def run(config):
