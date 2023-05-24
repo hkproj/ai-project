@@ -20,11 +20,11 @@ if __name__ == '__main__':
 
     allChars = set()
 
-    for videoPath in tqdm(miniclipsPath.iterdir(), desc="Processing videos", unit = ' video'):
+    for videoPath in tqdm(miniclipsPath.iterdir(), desc="Processing videos", unit = ' video', position=0):
         if videoPath.is_dir():
             videoId = videoPath.name
             allVideos[videoId] = []
-            for miniclip in tqdm(videoPath.iterdir(), desc= "Processing miniclips", unit = ' miniclip'):
+            for miniclip in tqdm(videoPath.iterdir(), desc= "Processing miniclips", unit = ' miniclip', position=1, leave=False):
                 if miniclip.is_dir():
                     miniclipId = miniclip.name
                     allVideos[videoId].append(miniclipId)
