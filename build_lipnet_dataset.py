@@ -20,6 +20,8 @@ if __name__ == '__main__':
 
     allChars = set()
 
+    maxCharsCount = 0
+
     for videoPath in tqdm(miniclipsPath.iterdir(), desc="Processing videos", unit = ' video', position=0):
         if videoPath.is_dir():
             videoId = videoPath.name
@@ -62,9 +64,13 @@ if __name__ == '__main__':
                                 totalLength += len(toWrite)
                                 for char in token.upper():
                                     allChars.add(char)
+                    # Save the max number of chars
+                    maxCharsCount = max(maxCharsCount, totalLength)
                     # Check that the totalLength is less or equal to 200
                     limit = 200
                     assert totalLength <= limit, f'The total length of the transcript {videoId} {miniclipId} is {totalLength} which is greater than {limit}'
+
+    print(f'The max number of chars is {maxCharsCount}')
 
     lipnetDataSetPath = Path("./lipnet_datasets")
     os.makedirs(lipnetDataSetPath, exist_ok=True)
