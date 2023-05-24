@@ -162,7 +162,7 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             'optimizer_state_dict': optimizer.state_dict(),
             'epoch': epoch,
             'global_step': global_step
-        }, get_weights_file(config, f"{epoch:02d}"))
+        }, get_weights_file(config, f"{epoch:04d}"))
 
 def run(config):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
