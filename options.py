@@ -17,8 +17,10 @@ def get_config():
         'preload': None,
         'weights_folder': 'weights',
         'weights_filename': 'italip_{}.pt',
-        'tokenizer_folder': 'tokenizer',
+        'tokenizer_folder': 'dataset',
         'tokenizer_filename': 'tokenizer.json',
+        'dataset_folder': 'dataset',
+        'dataset_filename': 'dataset.pt',
         'sleep': 0,
         'experiment_name': 'runs/italip'
     }

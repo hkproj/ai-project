@@ -167,11 +167,15 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
 def run(config):
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(f'Using device: {device}')
+
+    # Make sure the weights folder, the tokenizer folder and the dataset folder exist
+    Path(config['weights_folder']).mkdir(parents=True, exist_ok=True)
+    Path(config['tokenizer_folder']).mkdir(parents=True, exist_ok=True)
+    Path(config['dataset_folder']).mkdir(parents=True, exist_ok=True)
+
     writer = SummaryWriter(config['experiment_name'])
     tokenizer_file_path = Path('.') / config['tokenizer_folder'] / config['tokenizer_filename']
     tokenizer = buildOrLoadTokenizer(tokenizer_file_path)
-    raw_ds = ItaLipRawDataset(DatasetFSHelper())
-    ds = ItaLipDataset(raw_ds, config['max_frames'], config['max_sentence_len'], tokenizer, imageWidth=config['image_width'], imageHeight=config['image_height'], normalize=True)
 
     # Get the vocabulary size
     config['vocabulary_size'] = tokenizer.get_vocab_size()
@@ -182,14 +186,38 @@ def run(config):
     sos_idx = tokenizer.token_to_id("<S>")
     eos_idx = tokenizer.token_to_id("</S>")
 
+    # Dataset
+    raw_ds = ItaLipRawDataset(DatasetFSHelper())
+    ds = ItaLipDataset(raw_ds, config['max_frames'], config['max_sentence_len'], tokenizer, imageWidth=config['image_width'], imageHeight=config['image_height'], normalize=True)
     total_ds_size = len(ds)
 
     torch.autograd.set_detect_anomaly(True, True)
 
-    # Split into train and validation set with 80% and 20% of the data respectively
-    train_ds_len = int(len(ds) * 0.8)
-    val_ds_len = len(ds) - train_ds_len
-    train_ds, val_ds = torch.utils.data.random_split(ds, [train_ds_len, val_ds_len])
+    # Load the dataset splits from disk
+    if Path.exists(Path('.') / config['dataset_folder'] / config['dataset_filename']):
+        print(f'Loading dataset splits from {Path(".") / config["dataset_folder"] / config["dataset_filename"]}')
+        ds_state = torch.load(Path('.') / config['dataset_folder'] / config['dataset_filename'])
+        train_ds_indices = ds_state['train_ds_indices']
+        val_ds_indices = ds_state['val_ds_indices']
+        train_ds = torch.utils.data.Subset(ds, train_ds_indices)
+        val_ds = torch.utils.data.Subset(ds, val_ds_indices)
+        assert len(train_ds) + len(val_ds) == len(ds), 'Total dataset size must be equal to the sum of the train and validation dataset sizes'
+    else:
+        if config['preload'] is not None:
+            raise Exception('Preload is not supported when creating the dataset for the first time')
+        # Split into train and validation set with 80% and 20% of the data respectively
+        train_ds_len = int(len(ds) * 0.8)
+        val_ds_len = len(ds) - train_ds_len
+        train_ds, val_ds = torch.utils.data.random_split(ds, [train_ds_len, val_ds_len])
+
+        # Save the indices of the splits for reproducibility
+        torch.save({
+            'train_ds_len': train_ds_len,
+            'val_ds_len': val_ds_len,
+            'total_ds_size': total_ds_size,
+            'train_ds_indices': train_ds.indices,
+            'val_ds_indices': val_ds.indices
+        }, Path('.') / config['dataset_folder'] / config['dataset_filename'])
 
     # Create the data loaders
     train_dl = torch.utils.data.DataLoader(train_ds, batch_size=config['batch_size'], shuffle=True, num_workers=config['num_workers'])
