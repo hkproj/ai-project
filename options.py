@@ -22,7 +22,8 @@ def get_config():
         'dataset_folder': 'dataset',
         'dataset_filename': 'dataset.pt',
         'sleep': 0,
-        'experiment_name': 'runs/italip'
+        'experiment_name': 'runs/italip',
+        'allow_cuda': True
     }
 
 def get_weights_file(options, epoch: str):

@@ -166,7 +166,7 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
         }, get_weights_file(config, f"{epoch:04d}"))
 
 def run(config):
-    device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    device = torch.device('cuda' if torch.cuda.is_available() and config['allow_cuda'] else 'cpu')
     print(f'Using device: {device}')
 
     # Make sure the weights folder, the tokenizer folder and the dataset folder exist
