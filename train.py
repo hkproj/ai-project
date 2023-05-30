@@ -94,7 +94,7 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
     if config['preload'] is not None:
         preload_filepath = get_weights_file(config, config['preload'])
         print(f'Loading weights from {preload_filepath}')
-        state = torch.load(preload_filepath)
+        state = torch.load(preload_filepath, map_location=device)
         model.load_state_dict(state['model_state_dict'])
         optimizer.load_state_dict(state['optimizer_state_dict'])
         start_epoch = state['epoch'] + 1
