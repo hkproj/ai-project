@@ -104,7 +104,8 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
         dl_iterator = tqdm(train_dl, desc=f'Training Epoch {epoch:02d}/{config["epochs"]:02d}')
         for batch in dl_iterator:
             model.train()
-            torch.cuda.empty_cache()
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
 
             frames = batch['frames'].to(device) # (B, seq_len_frames, 3, H, W)
 
