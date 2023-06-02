@@ -100,12 +100,13 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
         start_epoch = state['epoch'] + 1
         global_step = state['global_step']
 
+    if config['force_lr']:
+        optimizer.param_groups[0]['lr'] = config['lr']
+
     for epoch in range(start_epoch, config['epochs']):
         dl_iterator = tqdm(train_dl, desc=f'Training Epoch {epoch:02d}/{config["epochs"]:02d}')
         for batch in dl_iterator:
             model.train()
-            # if torch.cuda.is_available():
-            #     torch.cuda.empty_cache()
 
             frames = batch['frames'].to(device) # (B, seq_len_frames, 3, H, W)
 
