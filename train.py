@@ -76,13 +76,13 @@ def validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer,
         metric = torchmetrics.CharErrorRate()
         cer = metric(predictedList, targetList)
         writer.add_scalar('validation_cer', cer, global_step)
-        writer.flush()
+        # writer.flush()
 
         # Compute the word error rate
         metric = torchmetrics.WordErrorRate()
         wer = metric(predictedList, targetList)
         writer.add_scalar('validation_wer', wer, global_step)
-        writer.flush()
+        # writer.flush()
 
 def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size):
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
@@ -142,7 +142,7 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
             # Log the loss
             writer.add_scalar('train_loss', loss.item(), global_step)
             writer.add_scalar('train_lr', optimizer.param_groups[0]['lr'], global_step)
-            writer.flush()
+            #writer.flush()
             dl_iterator.set_postfix({'loss': f"{loss.item():6.3f}", 'lr': f"{optimizer.param_groups[0]['lr']:6.1e}"})
 
             # Update the weights
