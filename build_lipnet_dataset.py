@@ -122,6 +122,3 @@ if __name__ == '__main__':
     with open(lipnetDataSetPath / "vocabulary.txt", 'w') as vocabFile:
         for char in sorted(allChars):
             vocabFile.write(f'{char}\n')
-
-
-    
