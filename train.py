@@ -75,20 +75,22 @@ def validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer,
         # Compute the char error rate 
         metric = torchmetrics.CharErrorRate()
         cer = metric(predictedList, targetList)
-        try:
-            writer.add_scalar('validation_cer', cer, global_step)
-            writer.flush()
-        except:
-            pass
+        if writer:
+            try:
+                writer.add_scalar('validation_cer', cer, global_step)
+                writer.flush()
+            except:
+                pass
 
         # Compute the word error rate
         metric = torchmetrics.WordErrorRate()
         wer = metric(predictedList, targetList)
-        try:
-            writer.add_scalar('validation_wer', wer, global_step)
-            writer.flush()
-        except:
-            pass
+        if writer:
+            try:
+                writer.add_scalar('validation_wer', wer, global_step)
+                writer.flush()
+            except:
+                pass
 
 def train(model, train_dl, val_dl, train_single_item_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size):
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
@@ -167,7 +169,7 @@ def train(model, train_dl, val_dl, train_single_item_dl, tokenizer, writer, devi
         # Run validation at the end of every epoch
         validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, epoch)
         print(f'{"TRAINING SENTENCES":^161}')
-        validate(model, train_single_item_dl, config, device, tokenizer, sos_idx, eos_idx, writer, epoch)
+        validate(model, train_single_item_dl, config, device, tokenizer, sos_idx, eos_idx, None, epoch)
         
         # Save the model after each epoch
         torch.save({
