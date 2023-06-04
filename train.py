@@ -90,7 +90,7 @@ def validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer,
         except:
             pass
 
-def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size):
+def train(model, train_dl, val_dl, train_single_item_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size):
     loss_fn = nn.CrossEntropyLoss(ignore_index=padding_idx).to(device)
     optimizer = torch.optim.Adam(model.parameters(), lr=config['lr'], eps=1e-9)
     global_step = 0
@@ -166,6 +166,8 @@ def train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_id
 
         # Run validation at the end of every epoch
         validate(model, val_dl, config, device, tokenizer, sos_idx, eos_idx, writer, epoch)
+        print(f'{"TRAINING SENTENCES":^161}')
+        validate(model, train_single_item_dl, config, device, tokenizer, sos_idx, eos_idx, writer, epoch)
         
         # Save the model after each epoch
         torch.save({
@@ -236,11 +238,12 @@ def run(config):
     # Create the data loaders
     train_dl = torch.utils.data.DataLoader(train_ds, batch_size=config['batch_size'], shuffle=True, num_workers=config['num_workers'])
     val_dl = torch.utils.data.DataLoader(val_ds, batch_size=1, shuffle=True, num_workers=config['num_workers'])
+    train_single_item_dl = torch.utils.data.DataLoader(train_ds, batch_size=1, shuffle=True, num_workers=config['num_workers'])
 
     # Create the model
     
     model = ItaLipModel(src_vocab_size=None, tgt_vocab_size=config['vocabulary_size'], src_seq_len=config['max_frames'], tgt_seq_len=config['max_sentence_len'], d_model=config['d_model'], N=config['n_layers'], h=config['n_head']).to(device)
-    train(model, train_dl, val_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size)
+    train(model, train_dl, val_dl, train_single_item_dl, tokenizer, writer, device, config, padding_idx, sos_idx, eos_idx, total_ds_size)
 
 if __name__ == '__main__':
     warnings.filterwarnings("ignore")
