@@ -25,6 +25,8 @@ def get_config():
         'experiment_name': 'runs/italip',
         'allow_cuda': True,
         'force_lr': True,
+        'GRID_root': 'GRID_LIP',
+        'dataset_type': 'ItaLip',
     }
 
 def get_weights_file(options, epoch: str):

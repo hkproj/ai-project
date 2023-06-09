@@ -4,7 +4,7 @@ from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
 import torchmetrics
 from fstools import DatasetFSHelper
-from datasets import ItaLipDataset, ItaLipRawDataset, buildOrLoadTokenizer
+from datasets import ItaLipDataset, ItaLipRawDataset, GridRawDataset, buildOrLoadTokenizer
 from model import causal_mask, ItaLipModel
 from options import get_config, get_weights_file
 from tqdm import tqdm
@@ -190,10 +190,21 @@ def run(config):
     Path(config['weights_folder']).mkdir(parents=True, exist_ok=True)
     Path(config['tokenizer_folder']).mkdir(parents=True, exist_ok=True)
     Path(config['dataset_folder']).mkdir(parents=True, exist_ok=True)
+    Path(config['experiment_name']).mkdir(parents=True, exist_ok=True)
 
+    # Dataset
+    if config['dataset_type'] == 'ItaLip':
+        raw_ds = ItaLipRawDataset(DatasetFSHelper())
+    elif config['dataset_type'] == 'GRID':
+        raw_ds = GridRawDataset(config['GRID_root'])
+    else:
+        raise ValueError(f'Unknown dataset: {config["dataset"]}')
+    
+    print(f'Training dataset: {config["dataset_type"]}')
+    
     writer = SummaryWriter(config['experiment_name'])
     tokenizer_file_path = Path('.') / config['tokenizer_folder'] / config['tokenizer_filename']
-    tokenizer = buildOrLoadTokenizer(tokenizer_file_path)
+    tokenizer = buildOrLoadTokenizer(raw_ds, tokenizer_file_path)
 
     # Get the vocabulary size
     config['vocabulary_size'] = tokenizer.get_vocab_size()
@@ -204,8 +215,6 @@ def run(config):
     sos_idx = tokenizer.token_to_id("<S>")
     eos_idx = tokenizer.token_to_id("</S>")
 
-    # Dataset
-    raw_ds = ItaLipRawDataset(DatasetFSHelper())
     ds = ItaLipDataset(raw_ds, config['max_frames'], config['max_sentence_len'], tokenizer, imageWidth=config['image_width'], imageHeight=config['image_height'], normalize=True)
     total_ds_size = len(ds)
 

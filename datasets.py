@@ -36,11 +36,103 @@ class VideoDataset(Dataset):
     def __getitem__(self, index) -> str:
         return self.ids[index]
 
+class GridRawDataset(Dataset):
+
+    def __init__(self, rootFolder: str) -> None:
+        super().__init__()
+        self.rootFolder = Path(rootFolder)
+        self.lipFolder = self.rootFolder / 'lip'
+        self.txtFolder = self.rootFolder / 'GRID_align_txt'
+
+        # Results from the entire dataset
+        # Mean: tensor([0.7156, 0.5136, 0.3476], device='cuda:0')
+        # Std: tensor([0.1211, 0.1084, 0.0845], device='cuda:0')
+        self.mean = [0.7156, 0.5136, 0.3476]
+        self.std = [0.1211, 0.1084, 0.0845]
+
+        self.ids = []
+        for videoPath in self.lipFolder.iterdir():
+            if videoPath.is_dir():
+                videoId = videoPath.name
+                for miniclipPath in self.getMiniClipFolder(videoPath).iterdir():
+                    if miniclipPath.is_dir():
+                        miniclipId = miniclipPath.name
+                        # Get the number of frames in the folder
+                        numFrames = len([f for f in miniclipPath.iterdir() if f.name.endswith(fstools.FRAME_FILE_EXTENSION)])
+                        # If the number of frames is 75, add it to the list
+                        if numFrames == 75:
+                            self.ids.append((videoId, miniclipId))
+
+    def getMiniClipFolder(self, videoPath: Path) -> Path:
+        return videoPath / 'video' / 'mpg_6000'
+    
+    def __len__(self):
+        return len(self.ids)
+    
+    def __getitem__(self, index: int) -> dict:
+        videoId, miniclipId = self.ids[index]
+        # Get miniclip path
+        miniclipPath = self.getMiniClipFolder(self.lipFolder / videoId) / miniclipId
+        
+        # Get all frames
+        framesFilePaths = []
+        for framePath in miniclipPath.iterdir():
+            if framePath.name.endswith(fstools.FRAME_FILE_EXTENSION):
+                framesFilePaths.append(framePath)
+        
+        # Sort frames by name
+        framesFilePaths.sort(key=lambda x: int(x.stem))
+
+        # Load all the frames
+        frames = []
+        for framePath in framesFilePaths:
+            # Load the image with PIL
+            img = Image.open(framePath)
+            # Add the image to the list
+            frames.append((img))
+
+        # Assert that the number of frames = 75
+        assert len(frames) == 75, f'Number of frames is not 75, but {len(frames)}'
+
+        transcriptPath = self.txtFolder / videoId / 'align' / (miniclipId + '.align')
+        assert transcriptPath.exists(), f'Transcript file {transcriptPath} does not exist'
+
+        fullSentence = ''
+
+        # Load all the lines in the transcript file
+        with open(transcriptPath, 'r') as f:
+            lines = [l for l in f.readlines() if l.strip() != '']
+            # For each line, split it by space
+            lines = [l.split(' ') for l in lines]
+            for words in lines:
+                assert len(words) == 3
+                # Get the words
+                word = words[2].strip("\r\n").upper()
+                if word != 'SIL' and word != 'SP':
+                    fullSentence += word + ' '
+        
+        fullSentence = fullSentence.strip()
+
+        return {
+            'videoId': videoId,
+            'miniclipId': miniclipId,
+            'raw_frames': frames,
+            'raw_frames_len': len(frames),
+            'raw_sentence': fullSentence,
+            'raw_sentence_len': len(fullSentence)
+        }
+
 class ItaLipRawDataset(Dataset):
 
     def __init__(self, dsHelper: fstools.DatasetFSHelper) -> None:
         super().__init__()
         self.miniclipsPath = Path(dsHelper.getMiniClipsFolderPath())
+
+        # Results on the entire dataset:
+        # Mean: tensor([0.4076, 0.4406, 0.6105])
+        # Std: tensor([0.1354, 0.1512, 0.1707])
+        self.mean = [0.4076, 0.4406, 0.6105]
+        self.std = [0.1354, 0.1512, 0.1707]
 
         self.dsHelper = dsHelper
         self.ids = []
@@ -108,8 +200,8 @@ class ItaLipDataset(Dataset):
         self.transform = transforms.Compose([transforms.ToTensor(),
             transforms.Resize((imageHeight, imageWidth)),
             transforms.Normalize(
-                mean=[0.4076, 0.4406, 0.6105],
-                std=[0.1354, 0.1512, 0.1707]
+                mean=rawDs.mean,
+                std=rawDs.std
             )
         ])
 
@@ -199,22 +291,19 @@ def getSentenceFromDs(ds: ItaLipRawDataset) -> str:
         sentence = item['raw_sentence']
         yield sentence
 
-def buildOrLoadTokenizer(filePath: set) -> Tokenizer:
-    ds = ItaLipRawDataset(fstools.DatasetFSHelper())
+def buildOrLoadTokenizer(raw_ds: Dataset, filePath: set) -> Tokenizer:
     tokenizerFilePath = Path(filePath)
     if not tokenizerFilePath.exists():
         tokenizer = Tokenizer(BPE(unk_token="<UNK>"))
         trainer = BpeTrainer(special_tokens=["<UNK>", "<S>", "</S>", "<PAD>"])
         tokenizer.pre_tokenizer = Whitespace()
-        tokenizer.train_from_iterator(getSentenceFromDs(ds), trainer=trainer)
+        tokenizer.train_from_iterator(getSentenceFromDs(raw_ds), trainer=trainer)
         tokenizer.save(str(tokenizerFilePath))
     
     tokenizer = Tokenizer.from_file(str(tokenizerFilePath))
     return tokenizer
 
-def calculateMeanAndStd():
-    ds = ItaLipRawDataset(fstools.DatasetFSHelper())
-
+def calculateMeanAndStd(ds: Dataset):
     # Calculate the mean and std of all frames in the ds along the RGB channels
     mean = 0
     std = 0
@@ -237,5 +326,6 @@ def calculateMeanAndStd():
     print(f'Std: {std}')
 
 if __name__ == '__main__':
-    pass
+    calculateMeanAndStd(GridRawDataset(str(Path('GRID_LIP'))))
+    
     

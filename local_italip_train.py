@@ -1,9 +1,9 @@
 from options import get_config
 from pathlib import Path
 import re
+from train import run
 
 if __name__ == '__main__':
-
     config = get_config()
     config['batch_size'] = 5
     config['sleep'] = 0
@@ -26,5 +26,4 @@ if __name__ == '__main__':
     maxEpochStr = f'{maxEpoch:04d}' if maxEpoch >= 0 else None
     config['preload'] = maxEpochStr
 
-    from train import run
     run(config)
