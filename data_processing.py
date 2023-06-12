@@ -867,7 +867,7 @@ if __name__ == '__main__':
     # when the face is partially covered, even for a short time, the rectangle's size will be small
     # but this doesn't mean that the face is small, it is just a little covered.
     # Removing faces that are too small can be done when merging the faces, even if this can lead to 
-    # small faces (for example those contained in a small rectangle on the bottom-right overlay in a video to be included)
+    # small faces (for example those contained in a small rectangle on the bottom-right overlay in a video of a gameplay or tutorial)
     parser.add_argument('--min-face-width', type=int, required=False, default=0, help='Minimum face width')
     parser.add_argument('--min-face-height', type=int, required=False, default=0, help='Minimum face height')
     # For mini clip creation
